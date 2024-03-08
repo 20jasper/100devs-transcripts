@@ -1,0 +1,1248 @@
+
+00:00
+foreign good morning good afternoon good evening
+matter we're coming from hope you all are doing well what's going on everybody
+welcome back good to see you all love to see you in chat hey what's going on
+everybody Emma B how you been what's going on everybody we online let's go
+super excited for tonight uh this is one of my oh this this is like this is the
+point right like everything that we've been working towards leads up to what we
+start tonight right all the hard work all the late nights all the homework the
+
+00:01
+networking the the the coding the finger pain the wrist pain the eye pain the
+neck pain the everything is for what we start tonight
+so tonight we are laying out the hunt all right we are laying out the hunt
+what do our what does the end of our August our September are hunt Tober
+look like so that we can get these jobs that's what I'm talking about that's
+what I'm talking about let's go so tonight uh will be a shorter class
+hashtag End early as always and uh we are going to lay out kind of what to
+expect uh what you need to be working on a lot of folks are Leon we're getting
+towards the end of program what should be my priorities be what should I be
+
+00:02
+focusing on day to day what should I be building what should I be working on
+we're going to answer that tonight and then we're gonna set the expectation for
+the next two months let's go today I was able to say I have a lecture
+on a software architecture Paradigm when someone asked do you really know coding
+let's go let's go you did those MVC lectures I see y'all let's go
+are you really in here like trying to spam your like bot service like what
+that's weird get out of here what's going on that's wild I love that see look
+that's why we do what we do when someone asks you are you a software
+engineer not only am I a software engineer I make lectures on software
+
+00:03
+engineering do you wanna do you want to see my MVC lecture
+do you want to see my MVC lecture come on now am I a software engineer get out
+of here I'm you don't I bet how long you been how long you've been a software
+engine I bet you don't have a lecture where's your lecture at who you taught
+I honestly you teach nobody I've been teaching the whole Community I'm
+Community taught by the way get out of here [Laughter]
+I bet they'd never taught another person exactly mine exactly
+I taught my cat MVC let's go let's go let's go I'm proud of y'all
+that that was a lot of work and some of you are really ran with that homework
+some of you built some really cool lectures I've been seeing them come in
+
+00:04
+[Music] share that [&nbsp;__&nbsp;] put that stuff on your
+portfolio put that on your GitHub right when when somebody's looking at
+your portfolio and they see that you've built a whole
+lecture on MVC what's going through in their brain let's stop and think for a
+second when somebody's when somebody comes to your portfolio when they come
+to your your GitHub or whatever they're interacting with you
+and they see that you've put together lectures on topics
+they know their stuff they know what they're doing they're teaching they know
+so much they're teaching other people we're doing this stuff for a reason
+folks we need to pass that sniff test if we're gonna do
+well on the hunt right we need to do these little things that when somebody
+
+00:05
+comes and they look when they when they give you those six seconds
+right when they give you those six seconds
+right and they look and they go hmm this question pushes code every day hmm this
+person has built lectures on software engineering principles paradigms hmm
+this person has a really solid projects this person has real clients hmm are you
+going to the next round like are are you passing that first like
+are you getting past that first bar right absolutely yes
+100 yes no recruiter no recruiter ever got in trouble
+passing the person that pushes code to GitHub every day that has solid projects
+that has built lectures on software engineering principles they have never
+
+00:06
+gotten in trouble for pushing that person to the next round
+we're setting up a little little little sprinkles here right we're opening
+little doors right that are going to enable us to have opportunity come our
+way and what you have to realize is that a lot
+of these interviews it's a numbers game but it's a it's an Impressions game
+people are people at the end of the day and you can play the game and today I'm
+going to show you how to play the game then you have a choice to make is that
+the game you want to play so let's get into it as always I always
+like to start off uh with some some lovely questions uh tonight we're
+walking through some hundred Dev stuff we're talking about hunttober we're
+bringing back the idea that you need to be done some stuff your professional
+checklist your Hit List your interview prep your 100 project a lot of stuff to
+
+00:07
+talk about tonight but as always let's start off with some
+questions you got questions maybe I got some answers
+thank you everybody for the for the primes primes just lit up today that's
+wild thank everybody and all those Bezos bucks
+People Are People yeah uh People Are People we're playing a game where we're
+we're we're realizing that we are we are playing a game where there are people
+that are looking at this stuff I was told I was good at interviewing by
+CTO and all I did was regurgitate my answers from the interview questions
+Banky let's go let's go Banky hey NW Smith thank you for the gifted
+
+00:08
+Subs that's wild thank you so much appreciate it
+thank you for the win I love that foreign list of companies that internationally
+hire not only have we shared that list I have a whole lecture
+where I found companies that hire globally and I found people that worked
+at those companies and I showed you the messages I would actually send them and
+we're going to do it again so as we get deeper into the hunt uh I know
+that there are kind of two types of folks well there's technically three
+types of folks right so we have folks that are going to be applying locally
+which has a slightly different strategy than folks that are applying globally
+
+00:09
+right and then there are folks that are want to be remote only right and so
+each of them has like a slightly different process and as we get deeper
+into the hunt we're gonna have specialized material for each of those
+processes so if you know you want to stay local we're going to do a version
+of me building out the hit list for local companies we're going to do a
+version of me building out the hit list for folks that want to be hired globally
+and then folks that are kind of going for a remote only type opportunities yeah
+is it too late to join this Hunt No join us make sure you uh you do exclamation
+point 100 devs to learn about the what we've been going on what we've been
+doing and then make sure you join our Discord we have a catch-up crew we have
+
+00:10
+new people joining us every day cool alrighty so
+we have some good questions I think we got most folks in here I think we're good
+was there a raffle today I don't know did you open the newsletter did you check
+did you check that's the point yeah if you're new around here we have a
+lot of I can see a lot of first-time chatter it seems like a lot of folks
+that are kind of new today uh do exclamation point 100 devs that'll tell
+you everything about what we've been doing what we've been working on and
+then you can join our Discord and join our ketchup crew uh we have tons of
+folks joining the program every single day uh our Discord is 38 000 plus strong
+uh you can get all your questions answered uh we have an amazing amazing
+community of folks we are Community taught we're not self-taught around here
+we're Community taught around here cool all right folks let's get into it thank
+you for being here if you haven't already go ahead and
+
+00:11
+check in for me please exclamation point check in I'll give you the link for
+today uh the checking in is twofold one it lets me know that you're here and it
+lets other folks find us uh we're gonna be talking about tonight how important
+checking in is as we get into post program we need to know that you were
+here how can we verify that you did the program if we didn't know that you were
+here for the program so checking in is important please go ahead and make sure
+you do that remember if you type in exclamation point checking it doesn't
+actually check you in you have to go to the Tweet you have to like you have to
+retweet it cool I want your homework your MVC lectures
+were due today please go ahead and submit them uh some folks were saying
+Leah and I did like a keynote or something drop it on a Google Drive and
+share the Google drive with me if you didn't use like a Google doc or
+something that's immediately shareable go ahead and just put it in like a drive
+
+00:12
+and share that with me so no stress if it's like a physical
+file or just like a PDF host a PDF somewhere yeah cool
+I want to see him we got a lot of them already came through uh we had 300 of
+them before we even went live for class tonight which is pretty cool to see
+um so yeah please get that homework in get the MVC in I was due today would
+love to see them I've been taking a peek through them some of y'all are funny
+some of y'all got jokes that's all I'm gonna say
+what if it's terrible yeah we ain't got grades here nobody's great in this stuff
+it's it's it's binary did you do it or did you didn't quality is up to you
+laughs alrighty not this Sunday but next Sunday is an
+
+00:13
+important day September 4th we are doing our back end review we have one major
+topic left to add to our back end which is our authentication which we start on
+Thursday then next week we will be continuing authentication and doing a
+team project building a full stack web application once we've had a chance to
+add authentication we've had a chance to
+build a project together as a team we're going to do a back end review so from
+we're going to go all the way back to the beginning
+all the way back to the beginnings of node all the way back to the things
+we're talking about I don't know promises callbacks all that fun stuff
+and work our way all the way up to building full stack web applications
+together so how long we're streaming that'll be no
+idea uh but that's what we'll be doing so book off your calendars especially if
+you're new especially if you still have some review that you would like to do
+
+00:14
+you're part of the ketchup crew this will all be perfect for you so not this
+Sunday but the following cool next week we will be doing team projects
+uh you're a baddie uh 007 thank you so much for the gifted Subs
+I appreciate that thank you thank you for telling me I'm a baddie every once
+in a while you didn't know that you're a baddie right
+I'm a baddie and I write bad code I love it uh next week uh we will be doing our
+team project if you would like to participate in the team Projects please
+fill out this form yes you right now that is watching this stream if you
+would like to participate in our uh in our
+in our team projects uh please go ahead and I fill out this form okay what we're
+
+00:15
+going to do is we're going to put groups together uh from that form and so next
+week you'll have your group from if you filled out the form yeah
+I've been having issues writing bad code
+I'm starting to get kind of okay code oh no that's great
+can we participate if we're still a beginner absolutely that's a common
+question people say like Leon during these like during these team projects right
+um during these team projects um during these team projects I I don't
+feel like I can contribute cap that's a lie you always kind of something
+contribute you could be the person writing the HTML you could be the person
+writing the CSS you could be the person writing the documentation you could be
+the person grabbing the copy you could be the person that trusts a little bit
+in themselves and pushes to maybe do something a little bit more than they
+feel comfortable with right there's always something to do in these team
+
+00:16
+projects and we are Community taught the point of the projects is not to be
+flashy and show out and and try and bring in stuff that we haven't learned
+yet leave all that off to the side I don't want you doing react in these team
+projects or any other [&nbsp;__&nbsp;] that we
+haven't learned we're gonna take the things that we have learned in class and
+use that to build and if you've been here in class you know how these pieces
+come together you know how these things can be shaped and bent and broken and
+that's what we're gonna do together cool
+can we also pick our own team members no I want you at new people with fresh
+Minds coming together uh to to work on a project because we're going to be doing
+this quite a bit we're going to have quite a few team projects and one of the
+things that you want right one of the things that you want
+is that you want the ability to have more peers that you know that you can
+
+00:17
+start to to get to know a little bit better right
+part of what you'll probably be looking for is some peer references going
+forward right you're going to want to be able to say like hey I worked with this
+person I know how well they they work in a team I know that they're a good coder
+right you want to start being exposed to a few more folks in the 100 devs
+Community because eventually peer peer references are a thing right and so you
+want to make sure that you're you're kind of mixing a little bit yep foreign
+the hardest thing about team projects you don't know if you're going to end it
+with people significantly smarter stop I that that's one of the things that
+gets my goat people are not significantly starred or smarter right
+there are some folks that have the privilege of more time that have had a
+little bit of chance to work on this more and there are some people that just
+
+00:18
+walk in with Brazen confidence and no idea what the hell they're doing right
+and so what you want to be able to do here right is there's a lot of like people
+that are getting bannivated I don't know what's going on but a lot
+of people are getting banned immediately coming from somewhere
+um if you're spamming something over and over again I'm just gonna ban you but
+you're also getting bandivated yeah hair band
+cool all right I like my whole thing just like lit up with people like I
+think maybe somebody rated us from somewhere but they all just got banned
+that's weird so there's something on Twitch now which
+is like if you've been banned before and you create like a new account
+um it like automatically filters out your your stuff like I don't know if it
+shows you that you that you put a message um but yeah like it just knows that
+
+00:19
+you're like bandivating that like you were banned before and like now it knows
+that you're being banned again it actually doesn't know if it lets you
+know that you post it maybe that's why there is people spamming but yeah it
+just blocks all of them which is weird yeah
+I haven't seen that yet I'll look into that after
+um after streaming cases being a little weird
+but yeah so one of my things is that a lot of folks stop themselves for from
+participating in team projects because they have this idea that they don't know
+enough or that they can't be helpful on a project guess what you're going to be
+doing in two months you are going to be joining a team full of developers that
+already know the entire code base that already know way more than you already
+know and guess what you still have to be able to do provide value
+
+00:20
+you still have to be able to provide value you every single person here is
+about to join a company where they are the person that knows the lease because
+they just joined and when you join right when you join
+you are going to have to figure out how to provide value on that job
+so when you join a team of your peers you can't have that mentality
+you can't have that mentality it's something you have to practice now right
+it's something you have to practice now it's something you have to get good at
+now the reason why we do these team projects is that by the time you're
+joining the company you've battled your demons already
+right you've battled those demons already so you gotta show up to these
+
+00:21
+team projects knowing that if you've been here you have a means of being
+helpful you have a means of writing bad code because we're all baddies still and
+if you wind up on a team that has someone that's a little bit further
+along on the roller coaster we're all on the same freaking roller coaster maybe
+there are a few seats ahead you need to advocate for yourself and say hey I feel
+like you're a little further ahead on the roller coaster but this is still a
+team project how can I be supportive what can we do together to build this
+project you have to start advocating and
+communicating for yourself in these team environments and that's why we practice
+it and we're going to practice it a couple of times because it is
+hard it is something that people struggle with it is something that
+causes people anxiety right right but it's the thing you're all
+
+00:22
+going to be doing very very soon so we're all on the same roller coaster
+some of us are a few seats ahead some of us are a few seats behind in these team
+projects figure out a way to show up to contribute and to be helpful and if you
+are the person that's a little ahead well guess what it's your turn to help
+folks and get them to where you are at on the roller coaster we're going down
+the ride and we're trying to reach back and grab a few folks with us
+Leon am I tall enough to ride this ride you absolutely are
+this is something that um comes up I actually have a slide for it
+we're gonna we're gonna skip past this wonderful stuff and I'm gonna go right
+here there are two points in the learning to code Journey that are the toughest
+
+00:23
+or let's say where most people exit the roller coaster okay there are two spots
+the first spot is day one day one everyone's like whoo money great
+job happy career high growth uh sign me up right like that's what I
+want I'm will not Leon I'll do the hard work I'll do the hard work I'll show up
+I'll do the I'll do everything like I I want them I want and then next class
+you wanted me to do all of that you were
+serious you seriously wanted me to to to learn and to do this stuff you you like
+there I gotta I gotta I gotta take I gotta take time out of my day to learn
+like I can't just like press a button and now I'm making six figures like what
+
+00:24
+class three gone gone that's Shay Hal that Shay house has destroyed more more
+careers because people realize the work they're gonna have to put in right
+I love that reading but it it it it filters some folks right
+that that that first three classes is the signing up for the gym
+right the first three classes is a signing up for the gym it's it's
+December we're oh man we're gonna we're gonna be we're gonna be looking good
+we're gonna be pumped we're gonna be we're gonna we're gonna we're gonna
+we're gonna be oh we're gonna be looking good
+January rolls around you're day one in the gym yeah let's go I'm on the
+
+00:25
+treadmill and then two weeks later how do I cancel this membership you're
+you're sending letters to some weird corporate office and and who knows where
+and uh yeah right so I've been in this game for 10 years
+teaching boot camps for 10 years those first two classes are people kicking the
+tires that third class is when it sinks in that holy crap I'm gonna have to do
+real work and they're gone that's the first place we lose people
+you've made it all this way you should be immensely proud of putting
+in that work that time that muscle to build up the skills that you have how
+dare you go to a team project sit down at a table with your peers and say that
+
+00:26
+you don't have something to contribute how dare you
+you've shown up you've put in the work you've consistently shown
+that you have what it takes when so many folks do not
+so I don't care if no doesn't a hundred percent click I don't care if you still
+struggle with some CSS it doesn't matter you're still in the game
+and so the second part where I lose the most people is today
+this is where this is where mentally a lot of people check out
+because this is when it starts to get real right is when it starts to get real
+and instead of facing the rejection instead of facing some of the hard work
+
+00:27
+that's about to happen right they take themselves out the game
+there's nothing worse then taking yourself out the game
+we've had people I have put the exact I have put the exact words people have
+shared on the screen that said I have coded a button and got an 83 000 a year
+job out of that interview I have put on the screen people that
+have had no technical interviews and have gotten six-figure jobs
+not me not me telling you me literally showing you you can go look in the
+celebrations Channel and see 50 other people that have been pinned and then
+
+00:28
+people that have been popping off recently that have gotten the job
+I don't care where you are if you do the
+things we talk about tonight you can get a job
+it's going to be a lot it is a lot of work to pass that sniff test to get past
+the Gatekeepers takes a certain mindset and for a lot of folks they take
+themselves out of the game right before they score the touchdown right before
+they win right right before all the things that
+you've been showing up for months are about to culminate and happen for you
+they say you know what maybe I don't know enough
+maybe I I haven't done enough homework maybe I maybe I forgot to submit a few
+things maybe maybe I when I sit in these team projects it seems like they know
+
+00:29
+more than me so that maybe means I don't know something
+these things they start to say in their brain right
+start to say in their brain to slowly convince themselves to take them out
+take themselves out the game they'd rather be taken out the game
+then put in two more months of work and a whole host of rejection
+I know rejection's tough I know it's hard I know that it it it it sucks to
+get those first five ten rejections in a
+row right because our our Spirits get so high when these recruiters Reach Out
+and it doesn't work out okay all right but don't ever take yourself out the
+game always let somebody else take you out like the I you want to be drag
+
+00:30
+Kicking and Screaming away from this career right like that's that's what
+that's what the mindset is you need to be you you you I'm gonna keep showing
+off these interviews I don't care I'm Gonna Keep some in code
+I'm going to keep doing these projects I'm going to keep doing this and you're
+gonna have to drag me away from this career that's it it's a decision
+I have had students of all walk shapes sizes Creed colors it doesn't matter
+I have never seen a singular thing that has helped
+somebody get a job over somebody else other than their willingness and their
+ability to want that job that's it there is always a way always always a way
+now are you going to have to apply remember when we say apply we don't mean
+
+00:31
+click apply to 60 different jobs yes are you gonna have to do a lot of work
+each day yes are you gonna have to do the work that
+most folks don't want to do yes but there is a way
+so please for the love of everything you have inside of you don't take yourself
+out the game you've put in too much time too much work too much effort
+to get in your brain and say you can't do this because you can people have
+literally gotten jobs that cannot code I have known people that cannot code
+
+00:32
+themselves out of a brown paper bag that have gotten phenomenal jobs
+how'd they do it I'm about to show you tonight I'm about to show you
+I've showed you already I've shown you somebody that coded a button
+[&nbsp;__&nbsp;] button and got a job I've shown you somebody that did Fizz
+buzz and got a [&nbsp;__&nbsp;] job so how dare you say to yourself you're
+not ready to get a [&nbsp;__&nbsp;] job out there how dare
+how dare you that you're not ready how dare you say you're not good enough
+
+00:33
+how dare you say you're not ready how dare you say you're not gonna put in the
+work after putting in all this work to get here nah
+it's a decision and I need you to make that decision tonight
+I ain't here to play I'm here to [&nbsp;__&nbsp;] around no more it's a decision
+either want it or you don't that's it cool all right we got some other things
+we got to go through real quick and then we'll get back into this
+so team projects next week you all better be there no I
+don't feel comfortable no I don't I don't know how to do the now get out of
+here you all have something that you can contribute you all have some value that
+
+00:34
+you can bring you all have the ability to do amazing work you've been here
+you have the templates you have the receipts you're going to show up you're
+going to put in work you're going to build something awesome cool
+uh we got some jobs to celebrate uh we we there's too many and I know that
+sounds like it sounds like you know like
+it's a flex but there really is too many uh so I'm just picking some ones that
+that I think were were great um but there's plenty more in the celebrations
+Channel there's way more on Twitter I'm gonna keep trying to highlight a few
+each class um but there really are just a lot of
+folks getting jobs which is which is pretty cool because we're not even
+supposed to be there yet we're not supposed to be here yet and folks are
+already bringing it through so uh let's let's go through the path that they've
+gone through uh got the job I start my first role as a software developer next
+month thank you Leon and Hunter devs community community taught folks uh for
+a truly like changing experience an opportunity I can't believe it 100 jobs
+
+00:35
+you got this it's possible they got the job through networking folks
+uh during the summer I took the opportunity to become a software
+developer intern today every season offer letter and got promoted to a
+software developer one thanks Leon Hunter devs for the amazing support
+let's go get we don't get got we go get community taught folks they're not
+saying Leon they're saying 100 devs 100 devs Community taught
+next week we're doing community projects pull people along with you
+pull people along with you if you wind up in the group and you feel like you're
+the person that knows the most guess what your job is your job is to not
+build the best software it's the it's your job to make sure everyone else can
+we get that next week's team projects if you find yourself to be the person
+that's sitting a few seats ahead in the roller coaster your job is not to be a
+flexasaurus your job is to not try and
+grab some weird [&nbsp;__&nbsp;] that you learned on
+
+00:36
+a weekend by yourself it's to turn to the other five people in that they're in
+that group with you and say how do I get you a few seats ahead on that roller
+coaster that's it that's the point
+you can't do that get the [&nbsp;__&nbsp;] out I don't want you here
+God there's too many of you here this is gonna be a lot lots on my plate you
+can't be a good team member you're not committing to a community talk get the
+[&nbsp;__&nbsp;] out bye it's been nice thank you bye all right
+uh after being contacted by an inside recruiter and going through my first
+interview ever I got the job as a software engineer I'm so happy I can't
+believe it because I totally feel like I could never get a job like that
+how many of you are feeling that right now because I totally felt like I could
+
+00:37
+never get a job like that felt it was out of my reach
+I'll be making more than my father is making and he worked at a company for
+10 plus years my first real job I'm 18 years old I'm a software engineer
+let's go sure I got your shirt I'll send it to you later today let's go
+totally felt like I could never get a job like that felt like it was out of my
+reach let's go there's a window open folks
+there's a window opening you're so close to going through it don't take yourself
+out the game go through the [&nbsp;__&nbsp;]
+window please please just go through the window
+any doubt that pops up in your head shove it down now's not the time
+it's game time it's the hunt no time no room for that doubt
+I showed you the trough of Sorrows the first thing I showed you you're in The
+
+00:38
+Wiggles of false hope it's the lowest point on the trough of Sorrow
+I'm a man I didn't put the slide on the screen the lowest point is right now
+I showed you that day one day one day one day one lowest point is right now
+I showed it to you day one most people like when I show them like
+yeah all right Leon well you went through it and now's the hardest part
+The Wiggles of false hope right The Wiggles of fossil this is where
+we're at right now you put in the work you've been showing
+up you've been doing the things you're supposed to do and now it gets real
+because we have to transition from classroom to on the job and all the
+alarm Bells go off in her head nobody's gonna pay me to do this I don't feel
+like I can do this nobody nobody's gonna ever uh think I'm a real engineer all
+these things come to our brain that's the thing I showed you day one
+
+00:39
+it's the lowest point but we're gonna start building projects
+together you're gonna start building your 100 hours project we're going to do
+hunt Tober together where we do a data structure and algorithm question every
+single day together and slowly those Wiggles of false hope
+get you to the promised land but you're in the lowest part and I
+showed it to you day one cool so I love that everyone
+I showed you tonight and I've been showing you from these jobs we were
+getting are thanking the community we are Community taught
+there are so many of us like it's it's not me right like yeah like I show up we
+do class like fun yeah but I'm not the person answering all the questions on
+Discord I'm not the person answering all
+the questions in chat I'm not the stream team that that's that has another whole
+crew of folks that are coming to help and support right like it's a community
+we built something special and now's the time that we need to lean
+
+00:40
+on it the most I say that one more time we built something special and now is
+the time we need to lean on it the most we know that this should be the low
+point we know this is The Wiggles of false hope be on Discord help each other
+answer questions look at each other's resumes look at each other's stuff help
+each other takes nothing from you to help another hundred ever
+all right don't take yourself out the game right
+I don't know what it is about this point in programming doing it for 10 years
+this is where folks decide you know what I'm not going to be successful so I'll
+stop [&nbsp;__&nbsp;] that get rejected 60 times
+
+00:41
+who cares what's the difference what's the difference what's the difference
+stopping now or getting rejected 60 times and then stopping who cares
+don't reject yourself exactly you got this you got this
+you wind up in the same place if you take yourself out and you were to get
+rejected 60 times you wind up in the exact same place but guess what happens
+that doesn't happen you learn from each rejection you learn from each little
+failure in an interview you learn how to be a lean mean interviewing machine and
+
+00:42
+you come out of it with a job why stop you have the skills you have the things
+and I'm gonna show you tonight if you even if you never showed up for a class
+before and this is your first class I'm going to show you what to do and you
+would get a job that's it you do the things we talk about tonight
+you'd get a job even if you're a ketchup crew even it's your first class
+you do these things you'd get a job what we're about to show is a lot
+and the next two months and the end of August are unequivocally an exercise in
+
+00:43
+time management an exercise in time management you will have a lot to do
+lots of doors to open and I need you to go hard for two months
+figuring out your schedule not going into your days like an
+accident not going into your weeks like an accident not going into your mumps
+like an accident you must plan you must organize you must have tough
+conversations with your family and friends your friends as Dr Akama says
+your friends call tell them they called
+at the wrong time you got some [&nbsp;__&nbsp;] to do for the next two months
+some of you are going to talk to your family hey these Tech these next two
+months I've been working really hard over these past few but these next two
+they're going to be tough I'm gonna need some more time can you help me out
+some of you have to delete tick tock exactly so I'm gonna have to delete tick
+
+00:44
+tock [Music] it's gonna be an exercise in time management but you go hard
+for September and October and I guarantee you you will be
+surprised in yourself how far along in your journey you will be and how close
+to a job you will be so with that being said let's talk about hunttober
+we're building up the hunt over October is a daily event we meet every day we do
+a data structures and algorithms together on Discord I answer questions
+from the crowd about the things that they're experiencing on the job we're
+going to be looking at resumes portfolios how to do job Outreach we'll
+be talking about interview practicing and skills we'll be doing verifications
+
+00:45
+for folks that start getting jobs it's going to be a special time
+last cohort we did Mega month and it was
+really really helpful for a lot of folks they went from really not being so much
+interview ready to really interview ready because every day we built up to
+more and more complex data structures more and more complex ways to interview
+you were prepping for a whole month in terms of like talking through coding
+challenges making sure all your stuff is buttoned up
+but hunt Tober is not for everyone hunt Tober is for folks that are ready
+to get a job you say it again October is for folks
+that are ready to get a job and what does that mean that means that it is for
+
+00:46
+folks that are ready at this point in time to do the things they need to do to
+be job ready I went to laser focus my attention on
+folks that are ready to get a job okay that means that this will not be public
+streams this will not be like on Twitch this will be in a private channel on
+Discord uh this will be in a private voice call on Discord
+um this is something that we're going to be focused you're gonna have special
+channels where you can share your the things that you're working on you can
+share the things that you need feedback on it will be a community of folks laser
+
+00:47
+focused on getting a job and supporting folks to get that job
+and I ain't here to play not here to play at all
+I'm gonna be putting a lot of time a lot of energy into October
+hundreds of hours why did I always do this hundreds of hours
+hundreds of hours uh into October lots of work on my end the mods and the
+communities and and I'm not here to play so if this is something that you want
+if this is something that you want to be
+a part of if you're ready to get the job well then I got a list of stuff I need
+you to do to be part of hunttober to get access to
+
+00:48
+that part of Discord to make sure that you're in that mode where you're willing
+to grind there's some things you need to
+do now if you're like Leon I'm not ready for that
+I'm not ready for hunt Tober I'm kind of still going at my own pace that's okay
+there will still be a path for you like there like this is just something
+special for folks that are that have been culminating in this in this program
+so far and that are ready to get the job it's a moment of focus it's a moment of
+attention it's a moment of really making sure folks are ready for the job
+now if you're not ready for the job that's okay still continue at your own
+pace we'll be building systems for you as well right but October is about
+getting a job so here are the things I need done
+first if you want to participate in October I need you to type I want it in
+chat I want to make sure that people actually want this before we commit so
+much time and energy to it okay all right I think I think we're there
+
+00:49
+I see a lot I want it all right sounds good to me
+all right I want it now I'm gonna hold you to it if you typed I want it I'm
+gonna hold you to it I really really want it I'm gonna definitely hold you to it
+people are highlighting the message I want it let's go all right all right all
+right this this might not have been uh this might have been worth it let's go
+that's why I show up folks I want you all to get jobs and this is the best
+thing I could ever see right this to me means that the past months of time
+right the past most of the time were worth it and we have a strong community
+of folks that want to be focused that want to get jobs and that are going to
+support each other in that Journey when you type I want it it's not just
+for you we are Community taught that means you're committing to a month of
+
+00:50
+focus to help everyone get across that finish line let's go all right
+I need to be checking in for every class uh going forward every single class
+matters right we're going to be doing authentication we're gonna be doing
+react and we're going to be doing classes specifically tailored to the hunt
+right so if you missed one of these classes it's going to impact you during
+hunttober right so I need you to be here for each class I need you to check in I
+need you to be submitting everything meaning that I need you to be doing the
+homework homework is always going to be due a week later the homework now like
+actually really matters right if you don't do the homework now you'll
+be hey thank you for the gift of subs thank you for being here
+look at look at some of these photos look at some of these these ogs in chat
+too DM boy how you doing uh I need to be checking in for each class
+
+00:51
+that means you're liking retweeting the Tweet so I know that you're here
+uh you're doing the homework meaning that you're actually submitting the
+homework you had an MVC lecture to submit get it in
+get the lecture in I'll give you until Thursday
+get it and placed you had the whole week I'm gonna give it to Thursday get it in
+whoopsie you said you wanted it here's what I'm going to actually do so you'd be
+checking it so I know that you're here you're doing the homework uh there's
+gonna be mainly project building that you're doing and so I'm going to be
+asking you to do the team projects to be doing the homework
+right and the reason why the homework is important now is because it really is
+setting yourself up for all the things we need during the hunt
+right the MVC lecture people like when I when I signed it I didn't really
+tell you why right A lot of people like oh Leon wants us to build a lecture huh
+
+00:52
+that's cool but now you see the logic right having a lecture on your portfolio
+automatically makes you an expert right we're big brain in it when
+somebody is taking those six seconds to look at your portfolio and they see that
+you build lectures on stuff come on now that they're gonna think
+about you differently right they're going to think about you differently so
+all these things right all these things are just setting you up right to to to
+pass that sniff test so you can get the job right and so the homework's really
+important going forward it's really important going forward all right networking
+I need you to bring it back uh each week I need you to be getting
+
+00:53
+one coffee chat and three connections every week uh as we
+as we get closer to hunt Tober we are going to focus our networking and
+you could start this now networking doesn't have to be General networking
+anymore what we will be doing is our networking
+will become focused meaning that we're not just going to random meetups we're
+not just going to random twitters what we are doing is we are building out
+where's our hit list sorry I'll get to it a second we are building out our hit
+list right exclamation point sheet we do exclamation point sheet and chat it
+gives you the link to our hit list so go into exclamation point sheet there
+we go hold on I'm trying to grab I'm trying to grab the link
+
+00:54
+there we go copy link uh so there's something really uh cute today
+uh somebody before class did uh exclamation point sheet and then
+nightbot gave them the sheet and um they thanked knightbot for giving them the
+sheet which I thought was uh pretty cool I think they said thank you to nightbot
+I was like that's precious all right here's the sheet you all have
+been doing this part of the sheet right you've been doing like oh I've been
+going to these events been putting stuff in but boom there's this other part of
+the sheet right it's not going to load right now because there's like a
+thousand plus of you trying to load it right now but uh there's a place to put
+the company the date you added it the open roll right the open roll you are
+going to find 60 companies that have an open role
+
+00:55
+right 60 companies that are going to find right
+that are going to find that have open rules where you can apply right
+and you're going to add them to the sheet
+so 60 companies that are hiring that it seems like a role where you could be a
+good fit you're going to add them to your hit list
+then your networking becomes targeted you are going to find Folks at those
+companies to start networking with we're gonna have whole classes on this
+whole classes on how to network how to find these people but that's something
+you can start right now find the companies find the people that work at
+those companies and that's your networking you're going to start trying
+
+00:56
+to get coffee chats with them you're gonna start trying to connect with them
+so that when you are ready for hunt Tober and you are ready to apply
+you're getting referrals and not clicking apply so I need you to start
+this week this week I expect one coffee chat
+next week I expect one coffee chat and three connections
+it could be General but you maybe also want to start getting focused
+60 companies with 60 rolls yeah yep we've had full classes on how do you get
+coffee chats you can watch some of our earlier how to network we have a whole
+class on how to network right so if you're like what's a coffee
+chat go back and watch your how to network class
+
+00:57
+right this is often like I said the hardest part for folks we're going to
+have classes on how to find people that work at these companies so we can well
+we're gonna get there so you can do general purpose networking if you want
+until we get there but if you want to peek ahead I have a few classes on my
+YouTube about how to build Out The Hit List how to get a job how to find these
+folks I literally did it for three hours
+straight building out someone's Hit List finding the companies finding the open
+rules finding the company the people that work at that company you want to
+take a peek you can go take a peek at those but I'm going to expect you to be
+networking cool I need to be pushing every day need to be pushing every day
+you should be doing a coding challenge every day already
+
+00:58
+these are things that I uh these are these are not these are not
+new things that I've been asking you to do I've been asking to do these things
+for a while so it shouldn't be like oh Leon oh my gosh what are these what are
+these things you're asking me to do now I've been asked you to do these things
+for a while all right so you're bringing back the networking
+I want you to push every day recruiters love those green squares they
+do they do they do but more so it's getting you in the habit of writing code
+every day that by the time we're in Hunt October
+you're a lean mean writing code machine ideally you're doing your coding
+Challenge and pushing that to GitHub right but if you're not ready for that
+that's okay push a readme file I don't give a crap push a readme file every day
+for the next week for all I care and eventually you'll start pushing real code
+cool uh we have some other stuff that I want
+us to do but we're going to take a break here I know like holy on expectations
+
+00:59
+things to do oh boy so we're gonna take a break we're at the top of the hour if
+you're new around here we'd like to be healthy we like to uh make sure that if
+you're able that you get out move around
+walk around hydrate uh and then we'll be back I'm gonna talk through some of the
+other things that we need to be doing to get ready for hunt October like I said
+this is the hardest part I showed you day one trophy star has a little dip down
+and then The Wiggles of Foss hope but we're bringing structure people need
+structure at this point in time it's the thing that's going to help us push us
+over the edge not take ourselves at the game we're going to do it together as a
+community cool all right let's take a break five
+minutes on the clock when we come back uh we're gonna keep pushing [Music]
+
+01:00
+how's everyone quitting their job to do class do you have sugar people
+I love it I always ask myself please don't quit your job if you don't have to
+right like I I I I am not a proponent of people quitting their jobs to to
+interview or to get ready to interview um uh
+I just I just think it's it's easier to hunt when you're not worried about food
+some people say it hones your hunting skills I I think you go home hungry a lot
+when you go out the hunt anybody that's really ever hunted you know that you
+come home hungry most times so it's nice to have some food at home
+yeah I know it's harder I know it's harder um but I I am a big fan of trying to
+whatever do whatever you can do to increase stability
+whatever you can do to increase stability I think is a really important
+
+01:01
+thing for some folks maybe that is quitting right maybe that does bring
+more stability and time um but I think whatever you can do to be
+more stable is probably the best thing ma'am cool all right so we talked about
+bringing some important things in you already said you wanted it now let's
+show you what you got to do to get it right right October special Channel
+special voice channels uh daily kind of data structures and algorithms time
+making sure that you are really ready to go out on the hunt to get this job you
+said you wanted it you're checking in every class
+you're doing the homework you're doing your networking
+you're pushing every day these are not new things I've been asking you to do
+this since the beginning and we're gonna start incorporating some
+
+01:02
+very specific practice that's going to get us job ready okay
+so first thing we're going to do this week I need you to read about string
+Methods right there is this lovely lovely bit of reading here in the slides
+that I need you to do read about the string Methods
+add them to a new Anki deck for you I need an Anki deck that's all about
+interviewing right an Anki deck just for interviewing where you're gonna put
+these new methods and then you're gonna do code Wars around these methods
+okay I'm gonna go check my baby real quick I'll be right back I'm gonna put
+three minutes on the clock three minutes on the clock little one
+just got their uh their vaccine so I don't think they're feeling too well
+
+01:03
+three minutes o'clock take an extra break right back foreign we talked about
+the idea of well we are now did you want it you're checking in
+you're doing the homework you're doing the networking you're pushing every day
+and now we're starting to add very specific very specific things to our prep
+so this week I need you to read about string Methods and then you're going to
+add them to a specific Anki deck for your interviewing right
+or you're interviewing and then I want you to do your code Wars
+
+01:04
+or your code challenges this weekend all themed around strings so when you go
+to do your code Wars this week you can look up code Wars that are specifically
+tagged as strings one of the things we have to do is we start kind of getting
+ready is not jumping around or bouncing around different different types of
+interviewing right we want to be doing very specific problems we can focus on
+and start to see the patterns right so go ahead and make sure that this week
+you read about the strings that are here in the slides you add all those methods
+all the string Methods to your Anki decks and then you do code Wars around
+the strings no regex you want to actually learn and practice these
+methods each week we're going to have a separate set of methods that we need to
+get better at and then when it comes to hunt Tober we're going to lean on those
+
+01:05
+methods and start building out to some more complex structures right so we
+start off with simple methods we get better and better we add more and more
+so by the time you're in hunttober you have this breadth of methods that you
+can dip back into for strings for arrays for objects for all of that stuff cool
+this week strings checklist I asked you to submit the
+stuff for the checklist for months it's been months we were on a break but it's
+been months and that checklist has a lot of stuff
+that I asked you to do for your professional skills uh so if you haven't
+already done the checklist I believe it's exclamation point list or actually
+yeah simulation Point checklist in chat exclamation point checklist in chat
+that'll give you the link to the actual checklist and that link
+
+01:06
+has everything that I need you to do and what you will notice when you go to
+this link is that it was originally due in April originally due in April
+I did 10 coffee chats did 10 coffee Chats on Monday and uh quite a few folks
+are like Leon I haven't done the checklist yet well guess what now you
+got you got a week to get it done everything that's on here
+we have our portfolios we have the resume we have our LinkedIn Sean you're
+on here Sean's been holding some phenomenal uh Twitter spaces if you
+haven't checked them out check them out uh GitHub Twitter everything you need to
+be ready professionally for the job hunt is on here all right is on here
+make sure you have completed this and guess what it's due by August 30th
+
+01:07
+you got a week you want to be part of hunttober you got a week all right
+team projects will be due on September 6th right we'll be due on September 6th
+you will have time to learn how to add authentication this and next week and
+then we'll be working on a team project next week your team project will be due
+September 6th the beautiful thing about the team project is that you're going to
+be using the template right so you're not starting off from zero you'll be
+using the templates you're gonna be adding modifying breaking adding just a
+little bit to make it your own not the Instagram clone a simpler project
+wait blah your team project was only friends that's awesome yeah cool
+
+01:08
+Hit List do September 13th I want 60 companies that you're going to
+apply to 60 companies on your Hit List eventually you will add five individuals
+at each of those companies minimum of three shooting for five at each of these
+I don't need you to have all those individuals yet I just need the
+companies that you're gonna be targeting on your list
+you're all here to get jobs and we got to find the jobs right so if you're
+applying locally you're going to be looking for jobs
+locally you're applying globally you're going to look up lists of companies that
+are hiring globally if you're looking for remote only you're going to find
+lists of folks that are hiring remote only and you're going to add them to
+your Hit List my question to you do you still want it
+
+01:09
+I felt hundreds of folks get jobs hundreds hundreds of folks get jobs this
+is how they do it it's two weeks of a lot of catching up
+and two months of a lot of work at the end the end is worth it all right
+Hit List September 13th if you haven't already gotten your
+client signature remember I asked every single one here to get a paid client
+to volunteer for a Grassroots org or to contribute to a free software open
+source project if you have not done that you have until the 27th to do it
+you do not get into hunt Tober without having done one of those things
+because we want to verify that you participated in the program eventually
+folks that are part of hunt Tober will be eligible for references there's no
+
+01:10
+way I am being a reference without these things now
+I've seen something going around that does not count somebody opened up a
+like make your first contribution to free software and it was like just like
+like open a pull request and I'll and I'll approve it get out of here with
+that that doesn't count find an actual project contribute actual code get out
+of here with that this is your first no that doesn't get out of here
+like what are you doing either get a client contribute to a real project
+
+01:11
+or volunteer with a Grassroots organization they got got until the 27th great
+also do the 27th I want a beautiful MVP of your 100 hours project beautiful MVP
+MVP is a minimum viable product it means that your 100 hours project is nowhere
+near done but the core idea is there the core idea is there and it looks good
+because this weekend you could start writing the ejs the HTML the CSS you all
+have access to the MVC template you all have access to the MVC template with
+auth already I've already linked it on the Discord
+there's no reason why you can't start with that right now to start building
+your 100 project and I need that mvp like the core of it
+done like the core idea like what you're
+
+01:12
+trying to accomplish looking good by the 27th Hydra come back to the slides
+I'll put in Discord probably not tonight but yeah
+and I need the hundred dollars project done by the 11th of October
+100 projects need to look good if you can't make it look good use
+bootstrap use a template use something that somebody's already made look good
+11 premium apps also do by October 11th don't worry about this one yet we have
+
+01:13
+to have a whole class on how to do this but basically premium apps are like the
+applications that you really care about we put a little bit more effort into
+those applications we're not there yet so don't worry about this one yet but
+know that's something that you're gonna need to be thinking about
+and know that hunt Tober is an everyday thing so I'm asking a lot
+but I'm giving a lot I'm asking a lot but I'm giving a lot Tober we hunt
+now you said you wanted it now's their turn to not take yourself out the game
+now is your turn to lean in to go deep to figure out whatever you got left in
+the tank and put it on the field it's time to carry some boats some logs
+it's time to hunt it's not called The Hunt because we kind
+
+01:14
+of just like we like laugh and like we do interviews no
+we go we eat people's lunch we hunt and these are the things I need if you
+want to participate in the hunt together I want a community of folks that are
+lean mean interviewing machines that are supporting each other for a focused
+window of effort to get a job so you do these things that I've asked you to do
+uh you will get added to special channels on Discord where you will have
+a community of folks that are serious about getting a job that will be looking
+at resumes portfolios that will have special discussions that will meet every
+day to do data structures and algorithms to go through coding challenges that
+
+01:15
+will be able to talk through the problems they're having in the hunt with
+the goal of getting the job you do these things you get a job
+and a lot of our classes right a lot of our classes will be focused around
+getting you ready for these different pieces these different Bobs and making
+sure that you are ready for the hunt this is not a coding boot camp this is a
+getting a job boot camp time to pay the piper it's time to get a job cool
+all right um on top of all of this on top of all
+of this uh you need to be keeping up with your bank
+right you need to be keeping up with your Banky you need to be practicing your
+
+01:16
+behavioral questions don't let your car atrophy cause action result for all your
+behavioral questions make sure you're still working through those Banky
+questions those technical questions using EU explanation use example make
+sure you're doing your coding challenges every day and now your cutting
+challenges should be a little bit more targeted you should be doing string
+problems this week everyone do string problems this week next week it'll be
+something different just getting us ready ready for the hunt now
+depending on how many folks we have in Hunt Tober
+there will be a culmination of an interview with me there will be a
+for all the folks that complete this work because it's a lot that go through
+the whole process right if you submit everything you get a reference right so
+
+01:17
+you sorry you get a verification right uh when somebody says hey can you verify
+that this person was a part of a hundred devs I'm gonna be like all right did
+they did they check in all right did they
+turn in the homework all right did they submit their networking sheet all right
+did they push every day all right did they uh submit their checklist did they
+submit their team project did they submit their Hit List did they get a
+client An approved pull request on open source project or volunteer for a
+freelancing client did they uh submit a hundred hours MVP 100 hours completed
+project that they do their premium apps because if they did
+there are [&nbsp;__&nbsp;] 100 devs graduate and
+they will get verified I've hired literally hired someone to help us do
+these verifications so when a company says Hey Leon was this person at 100
+devs [&nbsp;__&nbsp;] yeah they were look at all the
+
+01:18
+[&nbsp;__&nbsp;] that they did we'll submit the
+verifications and uh we'll make sure that they knew that you were here
+participating can catch-up crew get verified that's
+the goal the goal is to still build these systems for folks that last for a
+while now the downside is that it does cost me money to do this so I got to get
+this agency up and running because it's not cheap to hire people to handle
+thousands of verification requests from hundreds of different companies right
+hope you understand there's a lot of stuff that's happening in the background
+to make this work I will never take money from students so don't even go
+that route um yeah uh so that that's something we got to
+think about we got to get this agency up and running
+because it's a lot to do that right so I say that because some people are like
+why can't you just do verifications without doing all this stuff there's no
+
+01:19
+way I'm saying that you were here if you didn't do these things right
+all right this is this is me feeling
+yeah you did these things [&nbsp;__&nbsp;] yeah you
+were here I know you're here I knew you put in the work I'll do everything I can
+to get you the the verification letters whatever you need to help you with that
+job application now once we come through hunttober there's a lot of stuff right
+for folks that go through hunttober they give me their all and they also want a
+they want a reference like me picking up the phone to talk to people on their
+behalf well we'll do that as well um we'll the folks that make it through
+hunttober they'll have the opportunity to do a final interview with me it'll be
+a behavioral question it'll be some technical questions it'll be quick
+pseudo coding a coding challenge you pass that I will get on the phone and be
+
+01:20
+your reference so it's a lot I asked you in the beginning if you wanted it
+you said you wanted it now this is what we need to do to hunt there's a lot but
+this is what gets jobs this is what gets Jobs been doing this
+for a long time I don't care how good you are at coding
+I don't care how well you've done up until this point you do these things
+that I've asked you to do and you will be at the level that you need to get a
+
+01:21
+job questions how can we help you we're going to talk about that next week
+I floated this idea last week and during office hours called 100 maintainers
+there's a lot of little projects that are going to help this process go
+smoothly and so we're going to need folks that want to write some code to
+help 100 devs and so I've been recruiting some senior Engineers some
+alumni that want to help lead projects that'll help 100 devs and make this
+process go smoother and something that's maintainable for the future for the
+catch-up crew so this is our first run through a lot of this we're going to get
+a lot of things wrong we're going to get
+a lot of things right and we're going to build systems that help all the folks
+that come after us uh what would count towards an open
+source PR like an actual open source project that you committed code to you
+
+01:22
+did something for that project yeah boats and logs baby yep
+are global companies remote by default no at like so there are a lot of remote
+companies that only hire folks from certain countries so there are a lot of
+remote jobs that will only hire people from the US or like Canada right that's
+not a global hiring company those are two different things now there are lots
+of companies that hire a global Workforce but those are different yeah
+being remote doesn't necessarily mean that you could that they will hire
+anyone from anywhere oh would it contributing to 100
+maintainers count as a proof PR yeah I think that would count yeah why not
+how do we go about getting a reference before hunttober
+um we well blah has been working on a submission form
+
+01:23
+um for folks that have already met all these things that I've asked you to do
+um and we will be sharing that soon so if you've already done all the things
+that I need you to do for me to feel comfortable getting on the phone and and
+saying that you are like the bee's knees um you'll be able to submit all that
+stuff for for ahead of time I'm a few classes behind uh Can I submit
+that and catch up yep you have some time
+to catch up we're also going to be doing
+the uh full back-end review so if you're like close you still have some time to
+catch up is Google doable without knowing
+typescript angular yeah plenty of people work at Google without knowing
+typescript or angular but saying can I can I work at Google is like saying can
+I play for the Yankees right like maybe you could walk out of high school and
+
+01:24
+play for the Yankees but most people can't and that's okay
+don't ever let your dreams be dreams though lots of things you can do to make it
+into those types of companies it's just not something that I that I and
+necessarily an advocate for because I think it's it's unreal expectations for
+folks uh question is this the only hunt Tober
+that will happen uh it's the only one that we have planned for right now
+um right now this is the only hottober right like there's something special
+about this being a live program uh we're definitely committing to helping the
+ketchup crew be like get verification that they went through the program or
+that they were at the hundred devs agency so that's something we're
+
+01:25
+committing to for the long run but another October we don't have it planned
+yet but if we have another good group of folks that want it then I will do it
+yeah right now we have a group of folks that
+have been going through the program live that all need a focused dedicated time
+to get a job and so that's what I'm going to help support
+all the dates are on the slides you have Malden slides I'm sure we'll eventually
+put it in Discord but they're on the slides for right now
+uh our October classes weekend uh weekend and week weekday only we'll be
+meeting uh every weekday but there will be stuff to do over the weekends so it
+is like an everyday thing but the actual voice calls will be Monday through
+Friday uh and this goes without saying like don't don't let me get in between
+you and your God like a lot of folks need to take that one day off a week
+like you should be taking that one day off weekly I'm expecting like six days
+
+01:26
+of code Wars not seven days of code Wars if that makes sense
+uh will it be different time zone calls for October nope it'll be because we we
+always have class at the same time um so it'll be around the same time we
+will probably have some groups that are in different time zones that form
+um last time we did Mega the mega month we had a good group of folks that met
+like earlier in the day and then a good group of folks that met later in the day
+so I think naturally will help that organize
+uh so the people that make it that don't make it to hunt Tober won't learn about
+data structures and algorithms no we still have classes that'll be regular
+
+01:27
+class time on data structures and algorithms but it won't be the learning
+everyday type of uh practice like learning data structures and algorithms
+is one thing putting them into practice is a whole different thing like if you
+ever do any data structures and algorithms course it's worthless because
+you have to do it and you have to practice it you have to put it into
+practice you have to solve real problems so we'll have a class on it but then
+it's going to be on you to then practice those data structures those algorithms
+every single day and the cool thing about hunttober is that we will be doing
+that every day uh can you still be in hunttober if
+you're if you're no I hunt over to the folks to get these things done I need to
+be super focused on a core group of folks that are ready to get a job right
+like that that I just want to be focused I want to be locked in I want to make
+
+01:28
+sure that the folks that are ready to get the job I can help support there'll
+be plenty of stuff after hunt Tober to help folks specifically like in the
+ketchup crew and stuff like that but I want a group of folks that really want
+it that really want to grind that really want to go on the hunt
+um that's what I'm looking for uh the real ant asset the pr decided to
+be for an actual project not something like like not like a repo
+that somebody says contribute to open source by submitting a a PR like no like
+like an actual real project um uh if you're still catching up yeah
+you'd probably try to catch up like if you want if you want this then you would
+
+01:29
+have to catch up in time yeah uh gamer woman 3D send me a mod mail
+please and then we'll we'll make sure you get the the link
+been here since day one I feel so unready for this well that's the point
+the point of doing the hunt Tober and the mega month we did last time is to
+focus folks right like I know it seems like a lot I know that it's asking a lot
+and I don't I don't do that lightly but it's what a lot of folks need at this
+point in time or else they kind of just trickle along
+and I don't want you to trickle along I want you to get a job I'm not doing this
+for my health I'm doing this because I want you to get a job so I'm going to
+try and focus to give a little bit of a push as I can so that folks can focus
+
+01:30
+and actually get the job that they want um you can you can do anything else you
+want to trickle along but this is a getting a job program and I want you to
+do the things that you need to do to get a job
+and sometimes people need this push they need this Focus that's what we're going
+to do can we go over at premium apps all right
+we'll have a whole class in the premium Maps it's basically just like the 10
+companies that you're most excited for you do more
+for those applications you build like a custom project for it
+um you do you do a series of things that will have a whole class on
+um so it's just like it's like 10 companies that you're really excited
+about and the extra things that you do to make sure that your application
+stands out at those companies but we'll have a whole class on it so like I said
+don't really stress about that one right now it's I know that's 100 clear but
+we'll have a class on it when you said use a template for your
+
+01:31
+100 products what do you mean it means that you should not be writing that code
+from scratch you should be starting probably with my MVC with off template
+and building from there and then probably bringing like other templates
+so that it looks good foreign [Music] with a small company doing WordPress
+sites count as a client signature if you're getting paid to be a developer it
+counts yeah how will being verified help me get a
+job well a lot of companies want like if you say that you're a software engineer
+at 100 devs they're going to want to verify that you were actually in our
+training program here at 100 does so if you do these things then when you apply
+to jobs you can say hey I was doing this program at 100 devs and then we'll be
+the ones that'll say yep they were here they did everything they did all this
+
+01:32
+work and we'll we'll return their verifications
+if the company is not hiring should we put it on The Hit List no you don't want
+to put companies you can actually get a job at on The Hit List so yeah that
+would you'd want you want them to be hiring
+is there a limit of people going into October
+um no but we'll see uh I have a feeling that it'll it'll thin a little bit
+um that's not what I want to have happen but that's what happens when you ask
+people to focus for a little bit right not everyone will have the privilege of
+time to focus in and if you can't participate in October like that's okay
+all the classes are still like you still
+have class you still have all the things that you could be doing to get a job
+it's just I want to light a fire underneath the folks that are ready to
+start getting the job right all my classes already on YouTube all of last
+
+01:33
+cohorts already on YouTube you can go through that at your own pace but I want
+a a small contingent of folks or not small as big as it can be of folks that
+are like ready to actually go on the hunt the whole reason I do this is to
+get people jobs and so I want to be that
+little bit of a push to get folks actual jobs instead of people just trickling
+along not doing the things that they know they need to be doing to get a job
+this will help Focus folks and actually get a job
+how much time do I have to catch up all the dates are in the slides
+what if someone can't catch up well that's what the catch-up crew is for you
+keep going on at your own pace class still continues like normal like
+we still have a lot of classes to do live it's just October is going to be
+
+01:34
+like a special space on Discord and a special bit of focus from me
+Neko why wouldn't you get verification if you've been doing everything
+very so just be very very clear we are working on building systems for folks to
+be verified no matter when they complete the program that's the goal
+how long I can continue to do that I'm not sure because it takes a lot of time
+
+01:35
+money and effort to do that but that's the goal is try to build those systems
+what if life happens in October when we miss a few things communicate
+communicate communicate communicate uh so we when you verify do you get the
+nft yeah that's kind of the goal is that we wanted to do something fun for
+graduating uh basically all of these are also the requirements for graduating
+right like you do all these things you graduate
+um we've been talking about like doing a
+
+01:36
+graduation nft and some fun stuff around that um [Music]
+uh how does this work for people that who already have gotten jobs do they
+need verification no I mean if you get a job right like none of this is required
+right like a lot of folks like get jobs without doing this right it's just if
+you want these things right if these are things that you want
+um that you do this stuff yeah oh all right just see if there's any more
+questions in here we'll have office hours this Sunday too so if there's
+things that you're worried about or things that come up as you start
+
+01:37
+thinking about this timeline um on on Sunday um
+uh on Sunday you can come we'll have more time to answer these questions uh
+Leon I've had horrible experiences with networking working with teams in the
+past my goal is to find a job where I wouldn't have to work with others is a
+coding job out of the question yeah I mean it's it's hard a lot of Engineers
+really don't work in isolation they work as a team they work building products
+together that's that's kind of hard the cool thing is that a lot of these jobs
+are remote now and like your contact with people can be minimized there are
+also people that are individual contributors and like are really good at
+what they do and they kind of interact with folks less but coding is a is
+really a collaborative career so that's kind of hard but I'm sure there is
+definitely jobs or opportunities that fit the things that you're looking for
+it's a huge base millions of jobs right you'll find something that fits what
+you're looking for yeah freelancing is also a little bit
+
+01:38
+maybe different you're not working necessarily in a team but for someone um
+[Music] do certs help you with the job hunt probably not no
+very few ones maybe a few of the cloud starts but even those not like nobody's
+gonna hire you just because you have one um as a software engineer at least
+uh during October how much time do we need to be live every day
+um last time we did Mega month the calls are about a half an hour each day
+when we look at data structures in September is everyone building the same team
+
+01:39
+project um that'll be up to your team last time
+like I gave like a general prompt and then people tweaked it to their their
+wants um it's definitely better if you do your own thing or at least your own
+like your own variation of it so I'll give you a general prompt and then
+if your team wants to tweak it to your desires you can definitely do that cool
+alrighty folks we're getting to the top of the hour
+um have you decided when the what time the October discard calls will be uh not
+yet once we know how many people and who's gonna be in hunttober uh we'll do
+a doodle to find like what is like the best time for folks or at least the
+closest time to helping the most folks um so we'll kind of pick it closer to
+
+01:40
+the actual start cool all right kind of looking like some
+questions that aren't related to The Hunt that's okay um but
+there's a lot here right we we agree that this was a lot uh and so your
+homework is to start go start why why are you still here like like right now go
+start you could be working on your strings you could be doing your code Wars you
+could be finishing up your your checklist no raid just start
+
+01:41
+you said you wanted it now go and get it we don't get got we go get

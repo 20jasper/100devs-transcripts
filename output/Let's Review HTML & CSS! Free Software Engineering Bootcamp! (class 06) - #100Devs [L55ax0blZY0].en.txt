@@ -1,0 +1,2132 @@
+
+00:00
+
+00:03
+so um yo hey yo hey what's going on everybody good
+morning good afternoon good evening no matter where you're coming from hope you
+
+00:04
+all are doing well welcome back folks hope everyone's doing good hope everyone
+had a a good wednesday and now we're ready for thursday's class
+good to see y'all saw a lot of y'all in here real early
+like an hour or two before stream started checking in here hey what's
+going on everybody welcome welcome welcome get in here get in here
+shout out to all the folks that uh are running home from work jumping on
+their computers to be here respect what's going on everybody
+what's going on what's going on indifferent thank you for uh for
+reposting the the check-in link i appreciate you
+already folks good class tonight i i like this class this is a good class uh
+this class tonight we uh we're gonna get
+a lot of review in a lot of review a lot of practice it's all about practice
+tonight folks all about practice we're going to practice our relationship
+
+00:05
+selectors we're going to practice our specificity we're going to practice our
+box model go deeper with the box model we're going to practice
+everything that we've kind of seen so far in terms of html and css lots of
+rounds of of working through code on your own and working through code
+together we got the bro already right so if you feel if you feel like things
+everything hasn't clicked yet that's okay that's tonight's class is to get
+you getting lots of hands on keyboard lots of practice then us doing it
+together so you can see my responses we're gonna go over some of the stuff
+that was uh due for homework today so you'll get to see some some walkthroughs
+of that work as well we'll save a bunch of it for our for our sunday office
+hours as well but lots of practice and then we're going to hint at
+responsiveness so responsiveness is making sure that our layouts uh work
+well and look good across multiple devices whether it be a desktop a tablet
+
+00:06
+a mobile phone and so we're also going to hint at that tonight we're going to
+see the main mechanism that enables you to build responsive websites and then
+all next week will just be deep diving into responsiveness so glad you're here
+glad to get some uh get some practice in
+all right be a good one have some fun uh but as always
+i'd like to start off with questions around here folks we like to start off
+with questions and so the question of the evening
+is would you rather be a superhero or a wizard
+so hero or wizard in in chat for me please hero wizard for me in chat ooh
+look at the wizards coming in you hear is it all into look at all the wizards
+what that's wild to me i mean i'm i'm definitely going wizard
+
+00:07
+but i didn't think it would be this overwhelming
+y'all from reddit that's what it is y'all from reddit you also wizard people
+that's what y'all are definitely some wizards
+oh wow there's a lot okay there there's some heroes coming through some folks
+that want to be uh super saiyans but rude i i i have my like 12 or 13-year badge
+on reddit so like i i that ain't no shade that's me
+i've been there y'all i've been in the trenches
+okay all right i think i think it's pretty this is a wrap this is definitely
+in the in the wizards it was its category i i didn't know if it would be uh
+i didn't know if it would be more heroey this time but not y'all there's some
+heroes but it's mainly wizards all right cool
+
+00:08
+thank you for sharing everybody how about regular questions as we let folks
+get in you you ran and got the kids and now
+you're jumping in front of the computer let's give those folks a second or two
+to get in here questions i always like to start off with questions
+what is your hype intro song i actually don't know the name of it
+um believe it or not it just comes with stream like the stream deck software
+like like stream deck has a bunch of sounds that you can just click and install
+and i went through like all of them and found this one
+different said how are you i'm doing good today was a pretty chill day for me uh
+excited to to to get into this lecture this is a fun one i just like i like the
+ones where we just practice a lot i think it helps a lot of folks and i
+think it's fun to like goof around and find selectors that we
+would never do in real life but we can have some fun with it i like that um
+
+00:09
+i was working on a special project i don't want to mention it yet uh but
+i'll mention it i i we have a lot of folks that have been asking about like a
+minecraft server and i didn't want to do another
+minecraft service cohort just because not everyone can play minecraft for free
+right now this is also assuming that you have like a
+a computer that can play it right but um minecraft's not free so i don't want to
+do another server but i i have a 64-person cs go server right now
+64-person cs go server that i've been setting up and so that's been a lot of
+fun i've been playing around getting the settings dialed in uh so cs go is
+completely free it can run on a potato uh so maybe maybe this weekend it'll
+i'll open it up just to get some practice in but yes that's been
+something fun that i was working on there's also like csgo on consoles too but
+
+00:10
+bless you if you can do do that with a console with a controller
+other questions just to give folks a second to get in here i always like to
+start off with a question who's your smash bros name i'm not like super i'm
+not like i'm not like good at smash brothers let's just put that out there
+i'm not good at it i love ganondorf i like the heavy characters um
+i'll play around with that uh a lot of my friends play
+zelda so i've been playing a little bit a little bit of a little bit of zelda
+recently then i like some of the pokemon characters dude i love pikachu
+i i get myself in too much trouble with pikachu
+or two more questions and we'll get in here when can we meet your pets uh
+one of the days when they like feel like they want to come in here and just hang
+
+00:11
+out a little bit we'll set up the the simba cam and yeah they got to get
+comfortable with me streaming again and then once once they know i'm like this
+is stream time they'll start coming in more and i'll put them on and then
+eventually we'll set up the simba cam a lot of people saying pokemon legends
+i'm excited i'm excited the bingo link is exclamation point bingo
+what linux distro do you like the most debian a debian person
+can we go over grid we're going to get to flex and grid next week you know
+all right folks i think we got i think we got the the gangs all here uh let's
+
+00:12
+get into tonight let's get into kind of what we're going to be covering
+uh we're going to be reviewing some of our html fundamentals yes we're going
+all the way back folks all the way back we we love to get our space repetition
+in around these parts right love to get our space repetition in underneath in
+these parts then we're going to hit up some css fundamentals we're going to
+move into the box model we're going to do a floats and then
+we're gonna do our layouts you know what i forgot to do
+i'm just realizing it now i didn't send out the email today
+i'm glad you're all here but now we get to know how people show up when i don't
+send out the email versus when i do send out the email
+uh so rip sorry folks that rely on the email to get here but i forgot it
+that's weird hey dab thank you for the five gift it subs
+there's an email yeah there's an email we got like almost 12 000 people on the
+
+00:13
+email list and it goes out before each class [Music]
+exclamation point newsletter if you're not on there you can do estimation point
+newsletter if you want to join the email list but uh yeah rip
+i didn't set up the email oh that's a bummer all right well
+hopefully folks find their way over alrighty we're going to review our html
+fundamentals we're going to go over our css fundamentals
+matinee hey thank you for the 10 gift itself that's wild thank you so much
+batney831 thank you for the gift all the gifted subs i appreciate that
+we're going to go over the box model uh we're going to go over floats again a
+little bit we're going to see layouts with floats again i know how there we're
+going to review the layouts that are due today and then we're just going to hint
+on a little bit of responsive basics just the the little key mechanisms that
+
+00:14
+we need right the key mechanisms that we need to to make sure that our sites are
+responsive cool and then homework will be to make the simple site
+uh the the simple layout that we go over at the end of class responsive we'll
+talk about that at the end cool all right good questions if you're
+new around here would like to check in at the beginning of each class
+exclamation point check in all right estimation point check in
+you can go ahead and like and retweet that please i appreciate it
+and that just helps more folks find our community hopefully save them a few
+bucks and learning how to code i'm glad you're all here and thank you always for
+checking in i'd love to read the messages that you put on those is always
+pretty funny alrighty you checked in uh the next big thing that was in the
+discord message for today um the message that was in discord today uh always has
+
+00:15
+the materials that you need so if you're new or you're watching on say youtube
+you can always go to our discord leonardo.com
+discord or if you're here live on twitch it's exclamation point discord
+on discord we always have the materials we always have the ability for you to
+download the things that you need to download for the for the class but i
+also share a lot of links for you that you're going to need for the class
+and one of those was our student our study community
+survey so we've talked a lot about making
+smaller study communities that folks can join
+to just have a smaller more intimate experience as they go through 100 devs
+and so that survey is live now you can click the link that's in the
+slides or you can look at the discord message that had the link
+you don't want to fill it out right now don't worry about it you have until
+tuesday to fill it out but take until tuesday to fill it out and on tuesday
+
+00:16
+we'll kind of compile them all and we're going to start kind of figuring out how
+how many we're going to have and who's going to go into what and so yeah make
+sure you fill out that survey if you're interested and then we're going to start
+getting folks into those communities don't worry if you've already filled it
+out that's great just saying you don't the russian do it right now so
+our idea of the study community is just a smaller group of folks
+that are tied together by some sort of bond whether it be affinity or identity
+or location and so go ahead and fill that out and we're going to kind of compile
+a good group of them and turn them into special spaces on discord so they'll
+have their own chat their own voice channels etc
+we lose access to more general channels no not at all these are just like
+special or places for folks to have access to just because the general
+the general channels on discord can be uh quite overwhelming
+
+00:17
+right uh quite overwhelming we we recently have a bunch of memers
+that are uh that are just i don't know how you all type so much
+but some of you all be in that discord i look at your messages you got like 400
+messages in the last hour i just don't know how you do it um but sometimes
+those groups can be a little a little overwhelming and so uh we want to have
+smaller groups where where you can you can you can kind of get to know each
+other a little bit better chat will go a little bit slower right
+and uh yeah that's the whole point so it's just kind of like to give you a
+smaller group where you can get to know folks and and kind of commiserate and go
+through the experience together cool all right so go ahead you have until
+tuesday to fill it out uh the survey kind of lists the
+different things that you might be interested in we do have an other
+category where you can list like some other options for us to separate them by
+
+00:18
+commas you can put in more than one location if you want just separate it by
+comma and we're gonna kind of compile the most
+commonly asked and turn them into groups the link is here on the slides and it's
+on discord in the following materials channel for today too oh alrighty
+don't worry about filling out the form again it won't it won't change anything
+this isn't the the final form that gets you into it it's the form for us to set
+up the the most common channels can we get confirmation that we turned
+in the homework uh no i mean if you filled out the form you're good don't
+worry about it yeah you're fine when you when you fill out the forms
+there's like a confirmation page as long
+as you see that confirmation page you're always good yeah don't worry about it
+cool tomorrow alumni twitter space uh we got
+
+00:19
+we got three wonderful alumni uh that are going to
+uh join us in the twitter space including one of our fabulous mods here
+blog and so join us tomorrow on twitter at six
+o'clock i'm gonna share the space on discord and via email uh so you'll
+you'll get the actual link to the space um so you can join us if you would like
+and we're gonna have three alumni there we're going to use slido so you can ask
+a bunch of questions and i'll kind of help moderate and ask questions to the
+alumni that are there you get to hear kind of about their background and their
+experience and how they got to where they are aka
+employed uh and so i think it'd be cool we got a pretty wide range of past
+experience um and and i think that will be really
+helpful for folks that are trying to find their way as well so tomorrow if
+you want to join us twitter space with alumni we're going to do these a little
+bit more frequently uh bring in more folks over time it'll be recorded so
+
+00:20
+don't worry if you miss it you'll be able to watch the listen to the
+recording if you want is it mobile device friendly yes it
+actually only really works well on mobile um
+you can listen to it in the in on your desktop or in the browser but the
+experience is almost always better on mobile for some reason how does it work
+i'll share a link you tap the link and you just kind of jump into a voice
+channel basically uh it's a big voice channel but only the folks that are
+speakers can talk you can like raise your hand and like like stuff and then
+we can bring up folks that want to ask questions if we want but we're going to
+be using slido for questions mainly yeah yep can we have a wizard's channel
+alrighty submitting work uh we have a little bit of work that has
+
+00:21
+to be submitted today well quite a lot of work needs to be sent today uh one is
+the simple site labs that was due today that was the one with the the learn with
+leon logo in it and the beautiful colors and then your layouts were due today as
+well so you can use codepen you can use glitch
+you can use replit i'm not just going to
+say glitch anymore because we bring them down every time and i don't want us to
+do that to them anymore so codepen glitch replit share out the wealth
+the idea is i just want to see your html and css i don't care about you having
+good image links i don't care about stuff being connected i just want to see
+the html i want to see the css so uh throw them into separate code pens or
+separate glitches and then submit them in the form
+yeah don't worry about images especially
+like on co-pins people have like trouble with them there don't worry codepen
+
+00:22
+glitch replit whatever whatever you can just just to make it a little bit easier
+and not to bring down servers whoa izzy with the pokemon card that's dope
+all right izzy send me i'll send you uh well i'll send you a whisper
+uh and uh we gotta we gotta get that coming to you but we have to do
+the uh random drawing uh so let's see get which one it is let's see pokemon
+here we go all right so here is the current pokemon cards
+uh so izzy just used i think it's 50k right now uh yeah 50k channel points and
+
+00:23
+we're gonna do a random for one of the cards so we have 64 slots
+um if we hit one we just redo it again but uh or sorry if we hit one or two we
+just redo it again um but yeah anything from three to 64
+counts and we're just going to do it randomly
+all right we're going to do it randomly and we're gonna do it live
+so let's just go ahead and open up an inspector go to console make this bigger
+oop i know we had the math.random there we go
+all right so we got math.random times 64.
+so what this what this is saying for for folks that are new um
+is we we have something built into javascript called math.random
+
+00:24
+which can return a random number between zero and one
+and so we're going to do is we're going to times that by 64 and
+round it so we should get a number between 1 and 64. so whatever number
+this is is the card that they get so 3 2 one 41 is it and 41 is a smoothie
+i'll get that to you um and i'll send you a message here on twitch
+make sure that goes your way too loud yeah that was loud alrighty congrats
+
+00:25
+so yeah channel points are fun folks the more you hang out the more channel
+points you get uh the the more cool stuff you can do
+congrats izzy all right so we got our submitting our homework
+that was uh 50 000 channel points alrighty a couple things i want to talk
+about before we jump into the practice tonight
+uh one we hinted at it a little bit last class but i want to bring it up again
+sleep you need to get good sleep if you're
+lucky you can get good sleep but please make it a priority please don't put
+way too much time into studying that it impacts your sleep because we're here
+for the long run memory consolidation is a real thing and
+it happens while you're sleeping and so yes i'm going to share some videos
+
+00:26
+uh that have some motivational talks in them and sometimes these people will say
+don't sleep i don't agree you're going to need sleep if you want
+to learn how to code this is this is not something that you can sheer force of
+will this is not something that you can grind for 12 14 hours a day and expect
+to actually retain it all so that when you're in an interview you do well
+you gotta prioritize sleep okay now i've been there i i get it i get where i
+get where hustle coaster comes for i get where i get where grind culture comes
+from i i have had some wonderful experiences in my life that have been
+the result of not sleeping but let me tell you the dark side
+the dark side of success right so i always joke that the the very first like
+
+00:27
+money that i raised for my first like one of my first real businesses um
+the first hundred thousand dollars i raised let's say that uh all happened
+because i slept underneath my desk okay so me and my co-founder we were going
+through a program called tech stars and we would stay up really late
+grinding away coding building right and we would be so tired that we
+didn't want to walk home so we would sleep underneath our desks and then
+on fridays we would have uh these vcs that would come in
+and they would bring donuts and coffee and it was like 8 30 in the morning so
+nobody else was there but we were like come like stumbling out from any of our
+desks we would drink their coffee we eat
+their donuts we shake their hands we say thank you and then we go back to sleep
+underneath our desk they wound up leading my first round
+that helped me raised half a million dollars so i've been there i've done the
+
+00:28
+the grind i've done the 20-hour days what happened is that did not last
+right it got me some initial success but i still have to wear braces on my hand
+i still have pain most nights when i go to sleep i would
+i burnt out way quicker than i would have imagined uh it contributed to i and
+my heart of hearts um some of my earliest manic episodes because i have
+bipolar disorder and so yes there can be some advantages of this
+grind grind grind grind but i am here to tell you it is not worth it the sleep
+will help you consolidate the sleep will help your body repair
+
+00:29
+doing this is a very physical exercise i know we're sitting in chairs we're
+typing in code but it is a physical exercise we talked about how chess grand
+masters spend 6 000 calories in a in a tournament right you're burning and
+a lot of calories burning those muscles the the brain cells trying to to learn
+that that's heavy it's impactful in your body
+and if you're not getting sleep the things that you learn are not going to
+stick for the long term the things that you that you
+put in all that hard work for will slip away you will develop repetitive stress
+injuries you will develop back problems uh you will develop eyesight problems so
+it is not worth it to push your body past the point of no return get your sleep
+right there always be more time to learn
+there always be more time to put in that work but building out right
+
+00:30
+building out a plan for your day that includes the time that you're going
+to go to bed and the time that you're going to wake might change your life
+a lot of folks don't have bedtimes i have a bedtime
+i'm a grown-ass man and i got a bedtime and you better bet my bottom dollar i'm
+going to bed at that time right because if i don't
+if i don't stick to that schedule the the the time slips by the youtube
+video keeps playing these companies are very good at getting you to watch just
+one more video don't let don't get got all right don't get got
+set up a schedule for your week set as a schedule for your day give yourself a
+bedtime give yourself a wake-up time and try and stick to it and know
+that you're going to slip up all the time it's not a perfect process
+
+00:31
+right it's not a perfect process you're going to get it wrong it's not always
+going to go right right and so make sure that you just go
+into your weeks with a little bit of preparation you go into your days a
+little bit of preparation and you try your best right you try your best
+but i'm here to say even in some of the videos we're going to share don't think
+i'm vouching for it get your sleep please overall it's gonna be one of the
+best things you can do to increase your chances of being
+successful and learning how to code sleeping is one of the things that i
+guarantee you will help you learn how to code better
+how many hours do you sleep i sleep about seven and a half every night
+i'm a little weirder i find that like if i go over eight it doesn't work out too
+well and if i go below seven it's not great and so i'm around like the seven
+and a half mark sometimes a little bit later right um
+i found that that's that's my sweet spot uh and i use an app that i that i i
+
+00:32
+swear by it's called sleepy time uh sleepy uh dot
+dm there you go i love sleepy time right uh so if you have any idea of like
+when should i go to bed and when should i wake up use sleepy time uh it's just
+sleepy time but uh it's dot me right and so let's say you want to wake up at
+uh let's say you wanna wake up at i don't know you wanna wake up at seven right
+click calculate and it's going to tell you when you
+should be falling asleep right so if you want to wake up at seven in the in the
+morning right when we get said in the morning you should be falling asleep by 10
+o'clock all right you should be falling asleep by 10
+o'clock you wanna wake up at seven you should be falling asleep by 10 o'clock
+if you miss that window and you're not falling asleep by 10 o'clock do not go
+to sleep stay up until you're ready to fall asleep at 11 30.
+
+00:33
+right because if you go to sleep in between these windows there's a really
+good chance that you uh will wake up in a rem cycle
+and when you wake up in a rem cycle you feel really shitty like have you ever
+had like a good night of sleep like you've slept for a while but you wake up
+and you just don't feel good that's because you probably woke up during a
+rem cycle and so this idea of using just a very
+simple tool that guesstimates your rem cycles um can be a real real big help
+so i started with this now i have a i volt i have a watch that will tell me
+like if i'm sleeping well or not and it like does a bunch of other weird stuff
+like oxygen levels and all that cool stuff um but sleepy time for me has been
+what's um is where i started and it really does help and i just have the numbers
+memorized now i know what time i know i know what all my windows are
+
+00:34
+and if i don't hit my window i stay up until the next one you know
+a brand of watch um it's the garmin instinct solar
+yeah instinct solar i weighed it until it was on sale for
+um cyber monday and then i got it yeah sleepy time try it out try it out
+and here's the thing with sleep too sleep's different for each person
+right it's different for each person right the idea from from six to eight
+there's like there's lots of room in there some people for some people it's
+like like like six to nine hours i think it's the real window some people need a
+little bit more to eight some people need a little bit less and it's about
+finding your like right your right time um and
+exactly uh bipolar plus sleep equals really important for me when i don't
+have sleep it's dangerous let's just say that it's it's dangerous oh yeah
+
+00:35
+that's my my little caveat and the reason why i didn't want to spend so
+much time on that is because i will be sharing a lot of like
+motivational videos with you and a lot of those will advocate less sleep
+and like we said last time it's not about how many hours it's about what you do
+with the hours that you do have some of us might only have the privilege
+of an hour a day to study so i rather have somebody that goes hard in
+an hour than somebody that kind of just like [&nbsp;__&nbsp;] around for five
+right give me somebody that that's focused that's dialed in that's getting their
+stuff done that's getting their pomodoro in for an hour
+i guarantee you they're putting more down than somebody that's kind of like
+not really focused for five so it's not about how much time you have
+is about what you do with the time that you have right you owe you
+
+00:36
+if you are putting in all this work you owe yourself to use anki
+so i gave dr eric thomas's video today you owe you uh it's one of my favorite
+videos because he he called me out he got right into my soul he kicked it
+around a little bit and i felt it because if i go to best buy
+and i buy a new vr headset and i come home
+and that vr has that the knobs a little loose
+right just a little loose like not not even kind of loose just just uh just
+just a little loose i'm i'm back at best
+buy i'm always nice hey this didn't work i need my money back give me my money
+back it didn't work it's not what i expected and i'm there i'm not there
+like in a week i'm there i'm there the next day next day hey
+hi thank you very much i need my money back please it didn't work it didn't do
+what i expected right i want my money back but i had never asked myself
+
+00:37
+for my money back i had to think about that for a second
+whenever somebody else does me a little wrong
+right whenever somebody else just cheats me a little bit
+whenever somebody else kind of kind of uh kind of cuts me a little bit
+i'm all up in their stuff but i never do it for myself
+i never said i i i owe myself right so you owe you right you owe you
+and when if you're putting in all this work if you're showing up if you're one
+of the thousands of people here right you owe you to do anki all right
+and if you if you don't do it ask yourself why get get get get your
+receipt and go demand go demand your money back right you owe you and so
+don't do the things that we know have been proven to help people learn right
+
+00:38
+the stuff that dr barbara oakley was spitting you gotta take it to heart you
+gotta take active recall to heart you gotta take space repetition heart if
+you're not doing it this is a waste just stop just stop
+it's just not worth your time go do something else go play video games come
+join us on the cs go server you're going to do all this put in the
+work you owe you all right rant over let's get into it what's the internet folks
+what's the internet the wire exactly it's a wire that enables different
+devices to communicate enables our client-side requests so our
+client-side devices to make requests those requests can leave those
+
+00:39
+client-side devices go across those wires and go to servers servers can hear
+those requests there's some code running on the servers that can help generate
+responses maybe store stuff stuff into a database maybe process a credit card or
+two and then it can respond with some stuff okay
+all right golden rule separation of concerns we should keep all of our
+content in our html we should keep all our style in our css we should keep all
+of our behavior interaction and our javascript why why do we keep things
+separate why do we keep things [Music] apart and why is this the golden rule
+yeah for organization exactly organization for ourselves
+an organization for anybody else that we work with right so when somebody else
+joins our team right when somebody else asks you to
+join uh somebody streams your team and they're asking you hey where do i go
+make stuff wiggle you point them to javascript cool alrighty
+
+00:40
+here we have the basics of html uh in html every single bit of content
+must be wrapped in a tag and the tags almost always follow the same pattern
+where they have this lovely opening tag and then this lovely closing tag what
+what is the difference oh sorry let's skip that here for a
+second we know the difference between like the opening and closing tag is that
+the closing tag can have like these forward slash the opening tags can have
+like these attribute value pairs when we're talking about like all of these
+things we're talking about the carrots we're talking about the the tags we're
+talking about all this stuff about how we write
+html we call all of that what what up nick how you doing
+what do we call all that stuff my bingo card is hot right now
+we call that syntax right the spelling the grammar rules the things that make
+
+00:41
+up that language we call it syntax so in html the syntax involves opening and
+closing tags there's slight differences between those and there are a few tags
+that are self closing we saw image tags we might have saw input tags they're
+self closing because they're already content they're not wrapping around
+content they are content cool all right time for some tags let's
+review some of our our important tags here some ones that we've seen in the past
+anybody watch this anybody go on youtube and watch
+this i'm curious if anybody on youtube and watch the the tag competition
+i saw some people on twitter talking about i thought it was funny yeah i know
+it's funny it's cool you should watch it i'm i would i i would be the the the
+alarm the alarm would go off the alarm would go off and i'd just like slip
+
+00:42
+like i'd like and it'd be over they're like they're like jumping from
+like bar to bar uh yeah no it would not work out well for me
+alrighty uh here we have our heading elements
+our heading elements describe content that comes after
+right describes content that comes after
+so think of like in a newspaper you have a headline and that headline describes
+the article that comes after so we have h1s through h6s h1s are supposed to be
+the what each one's supposed to be the what big h1 energy
+the most important exactly we do not choose our h1s our twos our
+threes our fours our fives our sixes based on how they look
+
+00:43
+we choose them based on their importance
+the h1 being the most important thing on the page it's the most important thing
+there should only be one of them slight caveat with html5 sections can now each
+have their own h1 right this idea though is that we're bait we're picking them
+based off of importance nice we have some elements we saw before we
+have paragraphs for larger pieces of text spans for shorter pieces of text
+pre-tags which are a what pre-tags are a what what are pre-tags
+an abomination thank you an abomination thank you
+a great word an abomination yeah there you go a sin whack containing elements
+
+00:44
+uh we i keep seeing this question pop up divs
+have maybe sometimes that you would use them but we use them sparingly because
+we got way more semantically correct elements or just elements with way more
+semantic meaning right so i'm finally remembering all these let's go max exactly
+yeah uh with way more semantic meaning which means that when you look up the
+definition on the mdn there are just times when it makes more sense to use an
+article and a side then it would make sense to use a div
+so divs can still be used ideally sparingly or when there's not a more semantic
+choice to be made still confused the one who used an
+article bobby said bobby you use an article when it's meant to be shared
+
+00:45
+right when it's content that you could clip out and share with somebody and
+they would be able to understand all the content so think of like a newspaper
+article a blog post things that could be shared and you could like enjoy and
+understand it all on its lonesome would you use divs for styling purposes
+no because i don't ever write html with like style in mind because that
+gets too close to blurring our separation of concerns
+does that mean it has to have a button to be shared no it doesn't have to be a
+have a button to be shared now how about an aside i get i get confused
+on a slide is just when it's meant to be shared i'm sorry and besides just extra
+or ancillary content so things that if you remove from the page the page still
+
+00:46
+goes on fine so i like to think about asides like a really good a candidate
+for an aside would be what chat what what what is like a pretty much a really
+good candidate for an aside ads exactly ads are really good candidates for sides
+because the ads if you remove them hopefully the site still still functions well
+all right we looked at the bbc solution before
+uh what i want to do is i want to mark it up again while we're here
+and then what we'll do on sunday is we'll write out some of the html
+right we're at some of the html together during uh office hours
+but for now i want to mark it up i want to mark up this bbc site
+
+00:47
+and let's see what we get alrighty so if i'm looking at this bbc site
+uh what would this area up here be what would i consider that to be
+yeah i'm going to go with header exactly it's definitely my header
+and then inside of that header will be some other things right so
+inside the header we can see there's probably a nav right a nav
+inside that nav maybe we have some images
+uh and it looks like we have like like a
+list of links inside of our nav so maybe we have a nav ul li
+
+00:48
+anchor tag right like we have our header inside of our header we have our nav
+inside of our nav we have our ul inside of our ul we have our individual lis
+and then inside of our individual li we probably have our anchor text right
+over here we probably have a what inside of our header somewhere a form
+exactly we have a form in there and when you're writing out your first bits of
+html do not stress about this stuff i see so many people stress about oh
+should the form be inside the nav outside the nav should should the image
+be outside the nav inside it just doesn't matter in the beginning just get
+your work on the board right just get it on the board right
+
+00:49
+you work on the board and you'll get better with time cool alrighty next
+would this area here be that area appear be yeah
+a nice section exactly nice section and then inside of this section i see
+kind of like two sections more right like i see like two sections more
+and then how about these up here what could these be
+maybe they're each different but what what are they
+yeah there's some sort of headings right some people might have went with h1 so
+many people went with h2s but they're definitely heading elements they
+
+00:50
+describe what's happening on the page right definitely some sort of heading
+and then if we look inside those sections we probably have like i would probably
+consider this to be like an h1 maybe a paragraph and then maybe like a span
+right so i say h1 paragraph span and then the funny thing is like this image
+i wouldn't actually put in the html that would be a background image in css for
+me don't worry about that for now we'll see that when we get there too but for
+me that's actually wasn't in the html that was like styling the background of
+that section right like that could have been blue and it would have been okay to
+me it wasn't content it was style right so we you can add background images in
+your css yeah we'll get there um then we have over here i think i
+actually kind of see like four more sections here four more sections here
+
+00:51
+and each one of those sections has some sort of heading
+maybe like an h2 and then like a span i see like those h2s and then spans
+or it could be h3s depending on how you think about it
+some people like to make these individual ones articles i don't
+uh i i do know a lot of people do like to make those articles
+to me those aren't articles they're links to articles right
+to me they're not articles like i would i wouldn't print this out and share it
+with you to me they're like areas to take you to an article right
+but i do know so i would hand this to some front-end developers i really
+admire and they would make those articles right how about down here another what
+
+00:52
+another what down here another section exactly another section cool and then
+how about news what would that wind up being yeah some sort of heading element
+yep another heading element cool and then i could see maybe like three more
+sections here i think some other people might split them up a little bit
+differently um this is where this is where it kind of gets
+this is where it gets articley for me right this is what this this is where we
+kind of this is where it kind of gets a little articley because it has like a
+heading and then it like talks about it right
+so i could see some people going for with three articles instead of three
+sections here like i could see that like if you did that i totally wouldn't
+
+00:53
+right wouldn't totally wouldn't even bother me right i
+could see that there i don't really see it here this is clearly a section to me
+but this starts to blur the line a little bit right this one the ones down
+here have a heading they have a photo they have like a paragraph of of content
+right so to me this is definitely an image
+a heading element of some sort maybe a paragraph and a span
+some folks might have used like a figure and a figure caption i don't know if i
+would go that far here um but for me i think i would sleep well
+with three sections each section having an image a heading
+a paragraph and a span i'd sleep okay with that
+i could also probably sleep okay with instead of it being a section
+
+00:54
+it was an article how about a table not too old school
+what is figure caption look it up on the mdn there's there's so many other
+elements that we haven't seen yet um and so
+there's just so many of them it's just sometimes they come up but the ones that
+we covered are pretty much all you'll ever really need honestly
+uh that plus what you did in shae hao all right we got about five minutes and
+then we'll take a break where does css go that's how we're reviewing everything
+tonight reviewing all the stuffs yeah it goes in a separate file exactly
+it was in a separate file uh there are some exceptions that we've talked about
+
+00:55
+a couple of times now you can put css in line with your html if you're writing
+html emails and you can put some css in your head if
+you're doing critical path css at amazon but what did we see what did we see
+that made it so that we wouldn't want to use
+inline style or style in the head like what did we see a bit like what do we
+know about it now that makes the inline in the head bad
+like why does it make it like like like hard for us to use yeah exactly
+under is under the dying stars that's a cool username um yeah it's it's it was
+specificity it just if i have inline style how many points
+oh that's a good question how many points of specificity does inline style
+give you beans hey thank you for the five gifted subs i appreciate that
+
+00:56
+yeah if you use inline style if you lose if you use inline style
+that's a thousand points of specificity that you somehow have to make up in your
+css nobody that's writing like normal css will ever get anywhere close to a
+thousand points of specificity they're going to be banging their head against
+the keyboard like why are none of my css rules applying like everything looks
+good in the css file and then they're going to see that you put some inline
+style and they're going to lose it right and we now know that's because
+that it just takes up too much specificity yeah too much specificity
+whenever we want to link to our css in a
+separate file we use our lovely link tag right lovely link tag
+that goes in the head of our html document and the actual specific href is
+
+00:57
+the location of our style sheet we could put it in any amount of folders that we
+want but that css style is saying hey starting at the html file where the link
+is go into a css folder and find the style.css now
+uh here we have our entire css breakdown uh so let's play our quick
+favorite game and then i think we'll we'll probably take our break so uh chat
+what is this uh-huh y'all got i thought i was gonna
+start with a rule get out of here now you can't type for 30 seconds it's a value
+
+00:58
+how about this again i went slow around the property and
+everybody started typing property real quick yeah it's a declaration
+the declaration nice thank you blah declaration nice how about uh how about this
+about that [Laughter] i love seeing the declaration blocks
+it's a rule it's a rule right it's a rule it's a rule because it includes the
+selector if it did not include the selector
+
+00:59
+it was just this what do we got there we got a declaration block exactly and
+one last one what is that yep we got a property all right so the
+whole thing is a rule all right whole thing's a rule rule's
+broken down into a selector and a declaration block declaration blocks are
+broken down to declarations and our declarations are broken down into
+properties and values all right and once again why might we want to link
+to our css in a separate file separation concerns exactly organization
+all right we're at the top of the hour if you're new around here we like to
+take breaks we like to be healthy we like to make sure
+that we're in this for the long haul that we don't develop
+
+01:00
+repetitive stress injuries that we let our legs get a good stretch so we get
+some water we hydrate please hydrate right hydration is key folks get some
+water and so we're gonna put five minutes on our timer
+and after those five minutes we'll be right back and we're gonna get our
+fingers on the keyboard uh no more just me talking we're gonna start getting
+some practice in uh we're gonna practice our css basics uh we're gonna practice
+our specificity we're gonna practice our box model i really i really excited to
+practice the box i know a lot of folks had some trouble with it
+but go ahead just take five minutes get up do what you got to do if you're able
+
+01:04
+
+01:05
+and uh i'll see y'all in five my um when am i going to start legends i'm not
+sure probably after the alumni space tomorrow
+it's not a main series game so i don't feel like i have to do the midnight you
+
+01:06
+know all right folks come on back all righty
+all right folks come on back come on back was the eye changing software oh flux
+flux is what i use flux it changes the color of your screen to
+help save your eyes a little bit cool oh no ogx got into some trouble let's see
+look it up after class all right folks come on back come on
+back hope you had a good break let's uh let's jump into it all right so
+let's quickly look at some simple styles and then we're gonna jump into
+
+01:07
+actually um typing hey leon how do you feel about numbering
+homework assignments nope you got to read your boss isn't going to number your
+homework assignments for you right your boss is going to give you a project
+you have to get it done so i don't i don't number my assignments
+i don't even like numbering classes uh i want you to get better at reading i
+want you to get better at organizing i want you to get better at knowing what
+to do when it's due because when you get when you get on the job
+there it's not gonna be numbered for you so i i i don't do it
+you know it's a good question though shoot your shot right
+all righty some simple styles we have a couple different ways of doing color
+all right uh like a couple ways of doing color
+
+01:08
+we can do color keywords we can do hexadecimal we can do rgba we can do
+hsla um what's like what's really the difference like what's the difference
+between all of these like what could be the difference like what what why like
+we have all these different ways but like there's something that can actually
+be different across all of these we've talked very briefly about it
+performance yeah maybe speed considerations here maybe the time it
+might take to look up the color keyword like i mean we're talking like you're
+you're maximizing micro seconds here and every count matters right but there's
+maybe some speed considerations we met here we do know some browsers are default
+hexadecimal i do like the rgb a because it gives us the alpha channel which is a
+transparency that's really nice to have it comes in handy hsla also has that
+that alpha channel as well so yeah i kind of stick with rgba but
+you can use whatever you want when i'm kind of just
+mocking around and i'm just doing quick stuff i'll use the color keywords for
+
+01:09
+sure all right font family uh so far we've seen the main way that we've been
+getting fonts or just from google fonts you don't have to get all your fonts
+from google there are plenty of other places to get fonts you can download
+fonts locally to your machine so many ways to go about it i just like
+the google fonts because they're easy here you can see i have source hands pro
+with the fall back so for some reason source stands pro doesn't load uh we
+would have helvetica if helvetica didn't load then we just have a regular old
+sans serif and we also saw font weight as well
+knowing that when you want to use these font families you also have to grab the
+specific weights for each of those fonts
+fonts are like actual files and you have to have the file that helps you
+understand how it should be at 700 how it should be at 300 how it should be at
+400 etc cool and for all these things that there's something that you want to do
+
+01:10
+in um if there's something that you want to do in
+css and you don't know how to do it there's something you want to do in html
+you don't know how to do it mdn the mdn will always have the answer
+the mdn has never let me down they always have it there's a great
+article on it and it will be uh a a real savior as you kind of go
+through the basics of html and css i just keep the mdn up i always have a tab
+for the mdn up whenever i'm doing front end stuff it's just up it's just easy to
+be able to reference it and whenever i actually kind of find something cool i
+add it to my inky all right so let's code some basic css in the
+uh materials for today which are on discord exclamation point discord or
+leon noel.com discord if you're watching on youtube
+you can join once you agree to the rules you agree to the join 100 devs by
+
+01:11
+clicking the emojis you'll see the follow along materials channel you can
+download all the materials that we're going to be using today there i've
+already downloaded them i've already opened i've already unzipped the folder
+i've already opened the entire the entire folder
+uh in my vs code so i already have it all open
+the reason why i like to open the entire folder is because then i get all of my
+lovely folders already there to go and we are going to up we're going to work
+through the the some basic css we're going to do this basic css 2. all right
+so here you go we have some some things we have to do here css wise
+um it says make the anchor tags gold 20 pixels and have a purple background uh
+some have height side does more and so what i want you to do is to work through
+the basic css 2 make sure you follow all the things it's
+
+01:12
+asking you to do in the css and make sure you can make these
+rules come to life we're going to put four minutes on the clock
+go as fast as you can and then we'll go over it all together done
+uh our classes and ids as long as it doesn't say classes and ids are not
+allowed sure but you don't need them for this one at all
+switching rapidly they could have been using um
+
+01:13
+react or they had been using a cms that output stuff using divs
+everything's always in the same spot it's always on uh discord the following
+materials channel make sure you're using the files from from today
+right you're going to find a different way to unzip maybe through google docs
+
+01:14
+too much here you see so we'll get some on the board for you basic css2
+[Laughter] so did you ever get tired of explaining
+where to find these things over and over
+again no no i think we always have a lot
+of folks that join us new each class and so
+y'all should be listening to me right now anyway as you're working so i don't
+mind patience is a virtue how do i unzip on a mac you just double click
+we are doing the basic css2 would you recommend learning typescript
+
+01:15
+over javascript no learn javascript first and then
+um see the beauty of what typescript provides for you
+i like people to like learn the base and then understand
+what benefits you get when you use other things
+gotta feel a little pain to feel the blessing you know
+be covering typescript nah just because it's just not necessary to get a job
+i think it's a lot of fun i use it professionally sometimes but
+it's just not it's just extra work to get a job that's what we care about
+what is the color app for mac called it's called digital color meter
+
+01:16
+finally finish one on pace hey good job dominic should be paying for this free
+advertisement all right folks come on back come on back let's do this together
+no matter how far you got let's just take a look at it together all right
+please make the anchor tags gold 20 pixels and have a purple background
+all right anchor tags gold so we'll do color gold beautiful
+uh font size of 20 pixels cool and have a background that is purple beautiful
+all right please make sure the anchor tags are gold 20 pixels have a
+
+01:17
+background that's purple uh is my css saved
+nope it's not you can see the you can see the i'm just pointing at my screen i
+always have to fight the urge to be like no look and like and like point at the
+screen like no look right there you can see it right uh you can see that the dot
+is not it's it's still full so that's how you know i haven't saved beautiful
+all right let's go ahead and open this in the browser
+all right we can see our anchor tags gold purple lovely stuffs going on over
+there so the next one please make the section
+have a height of 200 pixels was there more than one section no there's only
+one section so we don't need to worry about classes or ids or anything right
+all righty let's go ahead and do section and let's go ahead and give it a height
+
+01:18
+of 200 pixels let's go ahead and give it a 10 pixel thick blue border so border
+10 pixels solid blue lovely and a light orange background
+what did you all do for a light orange background salmon
+i like that there you go is salmon light i guess it's light orange right
+light coral oh like coral works seen a lot of rgb values i'm trying to
+get got right now we're gonna go at salmon all right let's see
+how come i can't see the the salmon color or the thick blue border
+how come i can't see it let me make it bigger why can't i see it
+
+01:19
+it's saved gotta refresh there we go refresh we can see it nice cool
+please make the aside have a height of 300 pixels
+let's go ahead and do height 300 pixels beautiful thin red border
+uh thin let's just do like two pixels solid red that'll be thin enough
+and a teal background background teal nice
+let's just do the last one while we're here
+please make the aside paragraph so the paragraph that's inside the aside so
+we'll do a side paragraph that's the selector we're saying give me the paragraph
+that is inside of the aside that space there one of our relationship selectors
+let's go ahead and give it a color of white
+let's go ahead and give it a font size of 18 pixels and let's give it a red
+
+01:20
+underline oh how'd y'all do red underlines oh some people did text decoration
+so like text decoration underline red that works right let's go back uh-huh
+you have to worry about the the size of it
+um some other things that you might want to try and do if you like i like the
+underlying red it's cool it works there's nothing extra you have to do right
+but i also like i also like um border bottom we can do like two pixels solid red
+right if we do border bottom and we go back
+we're gonna have to do some other stuff like handling the width but the cool
+thing about using border bottom is now we can use padding to push it farther
+
+01:21
+away so maybe you want maybe you don't want the border as close right
+maybe we don't want the border as close maybe you want a little bit further away
+we could put padding in between to like give us some room between the border so
+one you have control the other you don't so pretty cool
+yeah either border bottom works or the text decoration underline would work
+either as good here all right i think you all did pretty good i was watching
+chat go by folks were answering them i think you all did a good job on this one
+good stuff as always when we're reviewing it together i'm
+gonna go fast don't feel like you have to like copy along frantically i always
+share my solution files on discord after class so let's move on alrighty
+let's talk about some relationships i always giggle let's talk about some
+
+01:22
+relationships we have here what type of relationship what type of
+relationship is this direct exactly the direct child it's saying give me a child
+that exists directly inside of another element so we need a
+paragraph that exists directly inside of a section that's an
+example here you have a paragraph that is immediately inside of a section
+there's no other gaps jumps or steps to paragraph immediately inside of the
+section nice cool how about here here we have a paragraph
+right a paragraph that is immediately inside of an article that's immediately
+inside of a section uh so would this work would that work
+
+01:23
+chat if i put the the little carrot there that work no
+because this paragraph is not the direct child of a section it's a child of the
+section let's not get that wrong it is a child but it's not a direct child so we
+don't use the carrot here we just have the p
+with the space whenever you see that space it says find me something inside
+of something so find me a paragraph that exists inside of a section i don't care
+how deep it is when it's a space it doesn't matter how deep it is nice
+then we also have our siblings uh right here we're saying find me a s a
+paragraph whose immediate sibling before was another paragraph and so the only
+one that would actually get read here would be this youtube
+because if we look at twitch there's nothing above it there's no
+other paragraph above it for it to be a sibling to right
+there are other sibling selectors too by the way but this one we're using right
+
+01:24
+now alrighty let's code some relationships
+folks let's code some relationships so i'm going back
+to my folder here uh inside the same folder that you just used we have this
+relationship css2 index.html css inside the css there are some things
+that it wants you to do memphis thank you for the hydration cheers to you
+there's some stuff that it wants you to do
+no classes no ids please no classes no ids
+hey cobalt glad you're finally able to join us live all right no classes no ids
+uh we got four things for you to do here let's bring the the clock back
+
+01:25
+and uh let's put another four minutes on here you got it go for it
+y'all did this before class no classes no ids just relationships my
+favorite simple plan album thank you show no worries though
+always going to be mistakes your [&nbsp;__&nbsp;] though line 35 you said
+
+01:26
+oh it didn't close could i um we're doing the relationship css to
+these four things would you recommend free code camp for
+the odin project yeah by themselves i think they're great i wouldn't do both
+at the same time like i wouldn't do 100 devs and something else at the same time
+
+01:27
+just so you don't burn out engagement alert anchor tag not closed done so nice
+like solving puzzles yes that's why i love the code for me you give me a a a
+good coffee and a good puzzle i'm happy i'll sit there all damn day on a puzzle
+and good coffee but for me coding is like solving really cool puzzles i love it
+slacked on anki with this and it shows a you owe you
+i'm actually doing this proud of myself you should be proud there's no you know
+how people can there's not many people in this world that can do this stuff
+compare it to everyone that exists you know
+
+01:28
+one isn't better than the other dolph randolph they do they do things
+differently it's about finding what works for you
+right everyone's gonna learn differently um from different programs and so
+that's why i always say like don't don't don't let me be the arbiter of your
+success this might not be the program that works best for you right
+so check out other stuff make your decision uh where it gets where it gets
+a little hard is when people want to dump money into a program and then
+figure it out that's where you get into trouble
+oh yeah between all the free stuff you find what works for you
+is the ketchup crew on discord yeah you just gotta make sure that you have
+access to make sure you don't have like a great username you can see all the
+
+01:29
+channels uh cinder said this has been the most
+helpful in the soft self-taught because of the accountability and discipline
+yeah that's the beauty of right that's what i love about 100 it's not just me
+it's not just y'all it's a whole community of folks that can help and
+support and you got real deadlines you gotta show up or else you miss class
+right uh i think that helps a lot of folks that's why i like doing it live
+all right folks come on back come on back let's go through these together
+alrighty don't worry i see some people that were just just almost ready to
+finish the last one it's all right you good you're good let's get in here
+way better than the three times i tried the other one yeah i feel you
+all right please make only just kidding yellow let's take a look at just kidding
+
+01:30
+all right so here is just kidding it is an h2
+we do have other h2s on the page so how can we target just kidding
+what's what's unique about just kidding that makes it different than the other
+h2s on the page yeah it's inside of a section so we can do section h2
+and say color yellow cool let's open this in the
+browser and make sure that everything's working well all right all right cool
+and then let's move on to the next one here please make only twitter red and 20
+
+01:31
+pixels let's go ahead and take a look at twitter [Music]
+all right here's twitter it's inside of an anchor tag
+we have anchor tags other places we do have other anchor tags so how can we
+target just the twitter anchor tag yeah side a would work here right side a
+right let's look was there any other this is a paragraph so we can't do like
+paragraph a because that there's there's
+one right here but any anchor tag that's inside of a side would work so a side a
+right now the cool thing is you can skip i see a lot of people saying like aside
+pa like that does work it does get more specific but a side a should work too
+let's try it blur red and font size 20 pixels
+cool we can see that twitter went red if you want to be more specific you
+
+01:32
+could throw in the p2 let's make really hot purple and
+like wild hot larger and blue so really hot purple and then like wild
+hot it's gonna be a different color let's go ahead and look at it really hot
+is an h2 and like wild hot is also another h2
+so maybe we could use the cascade to our benefit here
+right we could do article h2 to target really hot
+and then we could do article h2 plus h2 the target like wild hot
+differently oh let's try that article h2 and let's make that color uh purple
+beautiful and then let's do article and we'll do h2
+
+01:33
+plus h2 selecting that sibling and we'll make it larger so maybe let's
+do like font size i don't know like 30 pixels and then let's go ahead and do
+color blue cool let's see if this works so if it works
+we should see purple and blue all right really hot is purple
+and like wild hot is blue now i mentioned the cascade is helping
+us here what do i mean by that chat when i say the cascade is helping us
+what do i mean by that yeah it overrides right we start off
+with all of our article h2s being purple and then we use the cascade to our
+benefit like as we go down the page if something has more
+if something has equal or more specificity enables us to override the
+
+01:34
+thing that came above so what we're saying here is hey
+if there is an if there's an h2 that has
+a sibling h2 that's inside of an article make that one blue and bigger
+right and so all the h2s were purple and now this specific h2 down here is
+gonna be blue right gonna be blue couldn't you do h2 plus h2
+were there any other h2s plus h2s i don't see any so yeah maybe h2 plus h2
+could have worked too by itself um because it would have been the same
+amount of specificity i kind of like having the anchor of the
+article so i kind of know where to go right
+yeah it would have worked with just the h2 plus h2 as well last one
+make only bob and pizza green only bob and pizza green is there is
+there if there are three could you do h2 plus h2 plus h2 yeah you can do all the
+
+01:35
+siblings as far as you want you can go as many siblings deep as you would like
+all right bob and pizza are both articles inside of an li and
+how do we grab just bob and pizza but not sunshine and rainbows
+oh the chat's doing it all right we could use the fact that the uls are
+siblings so that could be the place where we start right we start with ul
+plus ul and then we can just say like a right so let's try that ul
+plus ul and then a and let's try it color green all right let's do it
+
+01:36
+all right bob and pizza are just green right because
+we have the ul plus ul right that's gonna say you know what ignore this
+first ul just grab the second one and then grab all the anchor tags that are
+inside of it all right um a lot of folks are saying like why
+don't you use the the carrots like why don't we get like
+more specific here well that sorry it doesn't add specificity why don't we why
+don't we make them direct well because i don't have to
+and so i'm lazy and if i don't have to i won't do it uh but also it it it
+really does make it more strict right and so it's up to you do you want to be
+more strict or do you want to be less strict
+right it's kind of a preference and it actually might be set by the team that
+you join your team might always prefer like strict um direct direct childs right
+and um you'd have to figure that out if you wanted to do like ul
+
+01:37
+a you'd also then have to do like the li right you'd have to if you wanted
+to use the the more strict you you would have
+had to like add more work here right in this case you would have had to add more
+specificity and so i don't ever use the direct
+carrots or the direct children unless there is a situation where i need it
+yeah otherwise i just don't don't got a way to like do more work right
+all right looks good working on that one as always i share
+the solutions after class uh there was an error in the html
+there was an error that i fixed down here twitter was an anchor tag that opened
+but it closed with a paragraph i had to uh fix the error to close with
+
+01:38
+the closing anchor tag uh-huh there you go we got got together
+we got got together i i got myself i went to get what i got got
+it was a test i was testing y'all alrighty let's talk about ids we got engaged
+engagement we're definitely oh that's that's definitely a moat it's a engagement
+isn't emote it's definitely coming i got to talk to the to the designer that
+helped with the other ones but yeah we're definitely doing an engagement emote
+all right let's talk about ids and classes for a little bit here
+uh we have ids which are unique identifiers right
+
+01:39
+it's unique identifiers uh it's a way of targeting one thing and only one thing
+on the page all right hopeless said can we do more practice
+yes we can do more practice i got you got more practice tonight uh ids are
+unique identifiers right it was us to target one element and only one element
+once you give an element an id that id cannot be reused on any element it's how
+we talk to just that element and only that element right cool now
+here we have hello youtube with the id of zebra right the idea of zebra this
+idea of zebra cannot be used anywhere else only that paragraph and if i want to
+target just that paragraph i can use the idea zebra to get there okay
+
+01:40
+classes are a little different classes we can give to multiple elements
+right we can give them multiple elements right and those elements can be reused
+multiple times and so here you can see this paragraph
+has an id but it also has the class of bob
+you can see that this paragraph also has a class of bob so when i do
+my dot bob as my article sorry sorry as my selector
+i am targeting both of these elements at the same time
+and in fact our elements can have as many classes as you want to give them
+and we can use all those classes to target elements so
+you can only have one id per element then the id game cannot be re reused and
+then you can give as many classes to your elements as you would like
+
+01:41
+each class is separated by a space cool all right chat
+how many points of specificity does this rule have all right let's count it
+we have one class and one id so one id one class and zero tags
+so 110 points of specificity here and we can see it we can see all right
+here's the section that had the id of pizza and then inside of it is a paragraph
+that had the class of jumanji original movie aka the only one that exists anyway
+
+01:42
+next one how many points of specificity chat how many points we got here
+for this rule all right let's count it out we got how many how many ids one
+how many classes we got one two so two classes and we have one tag
+so 121 points of specificity because there is one id
+two classes and a tag and we can see that right we can see that there's
+something that has the idea diet coke space so we're going to look inside
+inside we can see that there is indeed a paragraph that has the class of bob
+and the class of domino's pizza and it is a paragraph that's why there's
+
+01:43
+no spaces between domino's pizza bob and the paragraph
+is this counting used in real life i use
+it all the time it's how i know it's how i know if the content is gonna be
+overwritten in the cascade dab said somebody at github pushed a bit
+of bad code and they're landing pages down hey it happens right if the if the
+best developers in the world are getting got we can't expect not to get got
+ourselves right i feel like everyone was going everyone's going down recently
+right like discord went down github's going down this is this is this is not a
+good sign folks everyone's getting got already this is our last one here
+how many points of specificity does this rule have folks how many points of
+
+01:44
+specificity does this rule have okay okay i see you all right we had one two ids
+zero classes zero tags but we also had the bang important so that gives us
+one in the other category so we have 1200 points of specificity
+1200 points of specificity here boom i got alrighty
+let's get some specificity practice in why don't we and so let's go back to vs
+code here i'm going to close the ones that we are working on
+and we have another set of practice here folks practice on practice on practice
+on practice let's go so we have specificity practice sorry
+
+01:45
+yep specificity practice here there you go specificity practice is the
+one we're looking at uh and you got four things to do here
+please i'm gonna put five minutes on the clock for this one just give folks a
+little bit more time um just to have a little bit more fun
+with the highest level specificity questions so five minutes on the clock here
+then we'll go over it together and then we'll probably take a break [Laughter]
+in different ghosts added two minutes to the timer
+so we gotta add it's now seven not seven hundred but seven minutes [Laughter]
+uh there you go seven minutes folks thank you indifferent
+so you can use uh channel points to increase a timer and so in different
+ghosts spent the channel points to increase the timer so you had a little
+
+01:46
+bit more time to work on these the people's champion exactly i love labs
+uh isn't different from the last cohort well they were here last car but they're
+one of our they're the only person in the history of a hundred devs to go
+through all ranks on on discord uh meaning go from helper to mentor to moderator
+uh an amazing contributor to our community
+has helped single-handedly hundreds of folks uh get to where they need to go
+i admire leon's ability to say specificity so many times i mess it up
+all the time all the time leon what do you think about using js
+
+01:47
+for data structures and algorithms yeah why not did you comment the points of
+specificity next to rules to keep track nah oh no blah not the pixels
+that was actually from this la this class last time it's funny you bring
+that up this is this is the class that it happened yeah because of the box model
+thank you yeah that clip is still up it's one of my favorites
+
+01:48
+the ufa receiver so why isaac gengar yeah called it
+so behind my head hurts yeah i agree with everyone that's jumping in here get
+on discord we'll help you out different said you got this exposure theory and
+space repetition exactly we're gonna see all this stuff again right
+gonna get lots of practice we're gonna do it all of our space repetition in
+is it worth learning topics like npm websockets and webpack from scratch if
+you like learning about them sure why not if you're just trying to get a job no
+you know what lance crave you ever play pokken no i did for a
+
+01:49
+little while then kind of just stopped come on in folks
+memphis thank you for the hydration cheers to you
+ashley thank you for the good sub i'm trying to read the pasta a
+how do you wrap vs code text there's a soft toggle you can turn on
+if it's not already on for you by default
+recovering back end in the boot camp of course
+i need to send you some donna's pizza where do i send it you don't
+uh random acts of pizza on on on reddit's great though
+
+01:50
+when are we starting js not for a while we gotta get through responsiveness
+first what's the gift at something it's when
+folks in the community give other folks that are here a sub um yeah
+it's actually the only thing that has sound
+like regular subbing um bits all that doesn't make sounds but gift things do
+donald's are burger king definitely burger king because they have the
+impossible whopper mcdonald's is getting ready to have the
+mick plant but i don't i don't trust mcdonald's
+family guy or bob's burgers oh that's such a hard one
+i love bob's burgers but i think family guy just has like
+
+01:51
+my old older skull humor nailed down how do you feel about machine learning i
+think it's dope i can't wait i want all the i want all the ai to help
+me write my code a lot of people coming in done that's great
+how many countries have you been to in africa i've been to quite a few
+i did some research for a while so yeah it's actually a surprisingly high number
+
+01:52
+all right folks about 50 seconds left got this dig deep you can do it
+i did do biology mainly biological anthropology though
+you make it to ireland on your travels yep yeah been there quite a few times
+mainly because like hopping planes but yeah
+i started off with my uh mcb and then transitioned after like years in
+at yeah we call it mcdb though for that developmental in there
+what's the most beautiful country you ever visited i'm not sure that's a hard
+
+01:53
+one i think i said this last time i'm a sucker for italy i love it i like
+history and like you just you're just like in it which is so cool all right
+folks come on back come on back hope you had a good run hope you enjoyed
+the extra two minutes uh from indifferent all right let's go over these together
+boom all right please make this an ad blue
+but make sure it's specific enough that you can add other h3 somewhere else in
+the document all right so let's look at this is an ad all right so this is an h3
+and uh we want to make it specific enough
+that we could add like h3s elsewhere and so the cool thing is that this h3 is
+
+01:54
+inside of an aside so let's go ahead and just grab the
+class that's on this aside um yeah let's grab the class and let's try that
+oh although we do have this id up here too let's get real specific with it then
+let's just while out here not because it's necessarily good code
+but just to have some fun with it all right so we know that it's inside of a
+section that has that id uh rugrats while thornberries is indeed the best
+crossover of all time right so that's super specific
+uh and then inside of that we know that we're going to grab an aside
+that has this class of extra extra read all about it
+cool and then we know there's an h3 in it we do that and we do like h3 right
+
+01:55
+now we could get more specific than this right maybe
+we could throw the section there we could throw the aside in there right um
+we could also give that h3 its own like its own id and then that would make
+sure that we were specific that nothing else right but like i feel i feel this
+is a a good testament here and make it blue cool and let's go ahead and
+let's actually open this in the browser cool and we can see this is an ad you're
+beautiful there you go just put back import and i didn't call it a day
+the screen not being focused is you have to change the quality settings on your
+end yeah make sure you change the quality settings and give it a refresh
+sometimes if it gets too blurry yeah all right so that was good
+
+01:56
+i feel like there's no other h3s they're going to be built like unless you put
+like another h3 inside of this inside of
+this section i think we're good maybe we could even just to make sure that
+there's like not other things that are that are going to be there we can use
+the like the direct right just to be extra careful yeah just be extra careful
+all right please make i like turtles red i like turtles that's that stuff that's
+like like perfect og vine right i like turtles
+they have to be like an adult now right like
+i wonder what i wonder what they they grew up to be
+maybe they're a herpetologist right maybe what wouldn't that be a story
+their hepatologist now you know studying is that what those people study
+
+01:57
+turtles right or like lizards and stuff all right
+i like turtles is down here i'm sorry i forgot about this being in here um i'm
+removing all that imagery we won't be using that going forward but i forgot
+about this id uh we have the section id here and then
+we're going to change this here we're going to change changed it there we go
+changed it there we go uh so i changed it and we
+have i like turtles inside of it so let's go ahead and use that
+uh let me save here and i'm going to go to id here i'm going to say changed it
+and h2 boom and we make it red color cool let's save it let's see what we got
+
+01:58
+all right a little bit bigger cool red all righty
+uh please select hello world with the highest level specificity possible oh boy
+i'm gonna do this again are we gonna do this again are we
+please select hello world with the highest level specificity possible
+what you all get how'd you do it all right let's take a look where hello
+world is let's see all right hello world is in this h2
+so we definitely want to use the h2 with the section that has that id so
+
+01:59
+let's go ahead and copy it and let's go ahead and do uh section with that
+id space h2 cool so that's the start right the h2 that's inside of this section
+it's just inside of the section this section is the sibling of the header
+with the class top so um header the class top sibling beautiful
+and then the header top that is inside the body which is inside
+the html so we'll do html we'll do body and then we'll go ahead and give it a
+color let's just say gold and we'll do bang important
+i don't know where that o came from and then we'll close it off
+
+02:00
+cool let's make sure it's gold all right so hello world is gold
+can anybody add something that made it more specific you can do more
+what more can we do direct relationships won't make it more specific
+do head plus body oh boy um there you go right still gold
+anything else folks found that they could do cool i like it
+i think we're good here uh so we had an h2 that was a child of a
+section that had this rugrats wild thornberry best crossover all time it
+
+02:01
+was a sibling to the header that had the class at top that was a child of the
+body the body was a sibling of the head and the head was a child of the html
+boom what are you sipping today leon t the normal tazos vanilla carm uh caramel
+chai all right folks well done we had one more down here
+i'm going to save this one for y'all i want you all to try it on your own uh
+get get as specific as you can and uh maybe we'll do it together on on
+uh on office hours but i'll leave this one for you just in the sake of time
+because we're a little bit over where we're over time so let's go ahead
+if you're new around these parts we like to be
+um we like to be we like to take our our
+breaks the top of the hour uh we're here for a a long time right
+not a short time i don't know why and we're gonna go and put five minutes
+
+02:02
+on the timer here please if you're able get up hydrate grab some water alright
+grab some water stretch if you're able let your eyes focus on something that's
+
+02:05
+
+02:06
+not the screen and we'll be back here for you in five minutes folks ian five so
+ah somebody started using studio classes that's pretty cool
+i seen dragon ball super of course alien thank you for teaching do you
+think ai will make a replacement for many programming jobs nope
+programming is like turning business ideas into reality ai is going to help
+us do that um you just won't have to look up as
+much stuff it'll it'll be helpful right it'll be really helpful and it's going
+to help build more products faster which means more engineers which means even
+more work so i'm ready for the ai i think it's going to make our systems a
+lot easier to build and this is going to
+be like another tool that we use to help us
+join us on discord victory happy to have you favorite pasta shape
+uh i'm i'm a like a i'm like a thin spaghetti type person yeah
+
+02:07
+thoughts in the metaverse gonna happen yeah
+python or javascript javascript all day ether soul oh the hard one
+i love the ecosystem way more i just don't like gas so still can be fun too
+well i don't i like the mechanism of gas i don't like having the pay gas
+what kind of chair do you have i have a herman miller embody
+
+02:08
+come on back folks come on back hope you had a good break are you veg
+i'm vegan yeah no i don't think i'm a vegetable though
+alright folks come on back hope you had a good break
+leon's got the monies no i did not pay for it i mean let me i've told i said
+i'll keep saying this i have a amazing setup
+like the the the the when i was little the thing i wanted most growing up was a
+laptop didn't get one i always wanted a computer did get one
+until much later right like like i always wanted computer i have the setup
+of my dreams right now a beast of a laptop a beast of a pc
+triple monitors dual camera gold xr two steam decks ipad the draw like i got a
+beast of a setup i did not pay for a dime of it i did not pay for a dime of it
+when i negotiate my salary when i negotiate my contracts
+
+02:09
+i often need more gear or things to do those jobs or to do those jobs as well um
+and so i i haven't paid for any of it including my chair um so i i have this one
+that i did not pay for and actually i got this herman miller embody for dollars
+it is a sixteen hundred dollar chair that i got for three hundred dollars
+um including my keyboard exactly i got a 300 plus keyboard i got i got one for
+free and another one that i got for free again i guess because i didn't pay for
+it um the the chair i knew i wanted i knew i wanted to embody
+uh for a very long time and i checked craigslist every single day
+all the marketplace apps every single day and eventually i saw one
+that somebody listed for eight hundred dollars
+and as soon as it went up i had my alerts i immediately resp sent to them hey
+
+02:10
+i saw you it posted the embody 500 cash i'll pick it up in an hour like
+literally in an hour i'll be there with cash and they were like oh like that's
+great like uh i can do the 500 and um can you just come pick it up
+tomorrow i was like yeah hell yeah i'll come like do you want me to come i'll
+literally i'm in my car the guy will come i will get it from you right now
+they're like no just come tomorrow and then so tomorrow comes and they message
+me saying hey i tried to clean it it it it didn't work well there's a
+stain on the seat are you okay with the stain
+and i was like and i was i was about to say like hell yeah like i'm still coming
+i'll get it cleaned i don't care and they're like we'll knock i'll knock 200
+off of it so that you can get it cleaned so i showed up and i bought the chair
+for 300 cash the stain was like it looked like
+somebody dropped a little bit of water on it
+like it looked like somebody dropped a little water on it and
+
+02:11
+she the woman there told me she's like look i know it's an expensive chair
+uh my boyfriend got it for me we're no longer together i just don't want it
+anymore i was like what and she was like
+yeah i just don't want it anymore so 300 and i paid the cash and i smiled my
+whole way home uh with my 1600 chair that i got for 300.
+and then that that 300 i didn't pay for that came out of my pd funds anyway
+alrighty let's get into the box model story time's over
+so talk a little bit about the box model last class let's make sure we review it
+and then we're going to get some practice with it so the box model is
+that every single thing in web development is a box i don't care if
+
+02:12
+it's an image a piece of text a section everything is a box it can have height
+and width it can have padding and it can have border
+right and it can have border and then we have something called margin not
+technically box model but the margin can push the box model around so
+let's get some more practice in uh let's not get got again tonight
+that was pretty quick if you saw that's good on you um
+let's go ahead and practice uh let's say we're gonna build a section again
+all right we're gonna build a section again and let's go ahead and say a section
+cool and let's give it a height of fixed uh of 50 pixels and a width
+
+02:13
+of 50 pixels and then we could do yeah let's start there height 50 pixels
+all right 150 pixels with the 50 pixels and we kind of feel comfortable we know
+that that's 50 pixels wide you know it's just i look over it's just all nuns
+too many of you all got a good kind of moats these days too many you got to
+vote too many people too many people use the jeff bezos's money uh they they
+realize that they have amazon prime they can get a free sub uh and uh too many
+people got gifted subs we got too many nuns in the in in this chat nowadays
+i'm done i'm here john i look up it's just a wall of nuns god dang it
+
+02:14
+spell it out spell it out spill it out [Laughter] yes [Laughter] so i knew that
+dab thank you for the gift it subs i knew that you could you could take the clip
+or rewind the clip and so somebody knew that they could do the clip right
+and then go back to it i should have just enough that you could go to the
+clip and then they had to type it all out they had to type it all out and they
+would be able to type it all out with the clip and uh get to get the link yes
+done well done well done we got gat i it was a risk right we knew it was a
+risk right we do we do there's a risk right we do we do
+
+02:15
+that oh another uh get this off hey wait it's kind of like honestly who did
+the gift that subs dab thank you for the five gift of subs and
+i see you just did the gifted ones there
+it'll come through in a second but thank you for the gifted subs all right
+let's do it again it didn't come through i'm not sure who
+did get this i appreciate you before they get this up i'm sorry i just it
+didn't come through on my um my log here so i appreciate you there we go
+it was dab ah dab thank you for the um gifted subs all right let's do it again
+
+02:16
+so section and we have height of 50 pixels and width of 50 pixels
+and that'll give us a nice square all right so now let's go ahead and
+let's go ahead and let's add a border let's do a little he got worse
+uh let's do a border i'm sorry don't play me blame the nuts let's add a border
+actually let's change the color um so we have our our nice box
+and let's add a border let's make our border red and so we'll do border
+
+02:17
+and let's go ahead and do five let's do 10 pixels uh solid red cool there we go
+10 pixels solid red alrighty and that would go ahead and give us a 10
+pixel border going around the whole thing cool and how how wide
+is this element right now how wide is this element
+70 pixels wide right because we have 10 pixels on the left
+10 pixels on the right and 50 pixels in the middle nice all right
+
+02:18
+uh let's go ahead and give some padding let's go and do padding bottom
+adding bottom and let's give it uh 30 pixels
+and what will happen is we'll need to kind of erase the border for a second here
+yep and padding padding increases the distance between the element and its
+border so if we give 30 pixels of padding here we get 30 pixels of padding here
+all right and that's all of our padding here all right all of our padding here
+and then we have to make sure that the border goes back to where it was
+
+02:19
+there we go how tall is this element all right we got 10 pixels on the top
+50 pixels so we're at 60 plus 30 so we're at 90 plus another 10 we're
+at 100 so 100 pixels tall how wide are we right now how wide is the element
+oh why is the element it's still right still 70 pixels wide if i had margin
+right if i had margin and i added a hundred pixels of margin to the top
+how tall is the element i had 100 pixels of margin to the top
+how tall is the element oh yeah it's still the same right
+margin pushes the box around it doesn't increase the size of the element right
+
+02:20
+it's a hundred pixels tall still it's just pushed down margins the bully it
+pushed it down right if you hadn't merged to the left it'll push it over
+still still the same amount of height just margin would push it down
+cool well done everybody all right let's go ahead and jump back to the slides
+and we're going to get some box model practice and we drew it and now let's
+actually code out some elements that can that we're going to kind of play with
+the box model a little bit here so let's go ahead and open up that set of code
+told you folks lots of hands-on keyboard time tonight right feeling good right
+feels good all right so we got this box model practice index.html
+and inside the css you got some some things to do here so
+
+02:21
+let's go ahead and put five minutes on the clock here five minutes on the clock
+and go ahead and go for it in five minutes this is the box model practice
+actually let's do four minutes and get as fast as you can in those four minutes
+okay i know you probably won't finish it in
+the four but that's okay take four try and get as far as you can
+speedrun exactly uh dawg pixels what's the px like 30 pixels font size yeah
+
+02:22
+miles i said wild how chat slows down during these exactly you're all doing
+stuff they said you're getting to mobas nah
+i've stayed away i know that that's the end of my that's like it's over it's a
+wrap like i played wow for a month then i was done like never again
+i didn't eat i didn't sleep i didn't go to class
+just knew i couldn't couldn't live life like that i'm from south philly
+favorite nba team sixers of course i would definitely wear lehan's drawing
+on a t-shirt that was the merch last cohort the last cohort had the box model
+exactly our box model was on there do you stay john an unhealthy amount
+not as much as i did when i lived there but it still comes out like when i just
+
+02:23
+when i just don't know what to call something it does slip out
+bobby lynn added two minutes to the timer all right when we when we hit two
+minutes i'll make it four oh there you go four minute timer
+bobby lynn added the two minutes to the timer well done well done thank you
+bobby lynn for the extension slay vance hey thank you for the six
+months i appreciate that are we getting to scss at all nah
+something you could pick up on your own if you want
+um but it's just not something we need to get a job right so if it's not
+something that's gonna like materially help us get a job i don't teach it any
+seagull of course up three all the time please can we finish at 9 30. now i
+
+02:24
+really do try to stick to the three the three hours i know that it's hard to do
+it sometimes but i really try to know people got life and so i try to be
+consistent with the time how much data structures and algorithms
+we go over we'll go over a lot we'll be doing daily data structures and
+algorithms practice for like a month plus
+what company treats their employees the best um
+i know a lot of like local boston companies that treat their employees
+really well i don't know of like like national companies that i could think
+off the dome yeah exactly and also an indifference
+and it also depends on what you're looking for
+like paying some people the most is like
+
+02:25
+you could you could throw them in a dark corner as long as you're paying them
+more right people look for different things
+how's your experience with tech stars i loved it that's one of the best things
+i've ever done what do you think of the seattle hub i i
+think it's dope like i like i mean like like of seattle i went to seattle over
+the holidays and i loved it all companies make your take take leak
+codes are similar nah a lot of companies
+don't even give you technical interviews motherboard hey thank you for the 10
+gift it subs that's wild thank you so much 10 good cells
+you see they're making a new fresh prince yeah i have i i think it actually
+looks pretty cool it's not like funny they're definitely going more like drama-y
+i i kind of i really do love the like the campiness of the original it's one
+that's what made it one of my favorite shows
+
+02:26
+but the trailer looked cool just more more modern drummy
+a lot of folks coming in done we learn enough to talk about big o
+notation of course yeah you'll be able to evaluate all of your
+interview problems in big o done looks weird do we need to know advanced math no
+not at all you don't even need like regular math
+
+02:27
+other than like calculating percentages maybe where did you learn to write
+hieroglyphics from the nuns like banksy learn css
+all right folks five seconds left get in here
+favorite vegan fast food taco bell by far don't make like you can make
+anything um yeah right and if you don't even need to calculate percentages
+anymore there's calc um yeah no the taco bell will make
+anything vegan you just got to say like fresco style like you you can order
+anything like you remove the meat and say fresco style
+and it's vegan it's beautiful talk about sponsors please all right
+have you ever tried in and out their friend tries and they were horrible
+
+02:28
+i don't get it i guess maybe it's like price but the lines in and out are just
+like they're just wild absolutely wild like the lines are just like around the
+block every single time [Laughter] i just don't get it
+i know i just offended a lot of people but i i just i just don't get it
+all right folks let's get into this this is this is this is the most i've
+ever seen chat pop off when i start talking about fast food places
+all right please make the h1 30 pixels with a little padding on the left and a
+thin red border let's select the h1 here
+uh we're gonna make it 30 a font size of 30 pixels 30 pixels
+
+02:29
+a little padding on the left so padding left uh 30 pixels
+and a thin red border so let's do border um
+we're going to do border let's go ahead and do like three pixels solid red
+and let's save this and let's open this html in the browser all right so we can
+see that this h1 had a bigger font size we can see that there's a little bit of
+padding on the left and we can see that it has that thin red border right now
+what i like to do is i use my inspect tools
+and so the reason why i asked you to use chrome for the class is just that the
+tools are slightly better in chrome and there's slightly a few things that like
+firefox is just a little bit harder to get to
+and so i i tell people to use chrome just to get comfortable with these tools
+i find even when i'm like developing and i use firefox i have to jump back to
+chrome every once in a while so i just tell people to use chrome out the gate
+
+02:30
+even if you use firefox in like your day to day just for these tools so
+if you right click on this text and you click inspect
+that's going to bring up the inspect tool
+okay it's going to bring up the inspect tool and inside the the inspect tool
+there is this lovely like you're gonna see all these different panels
+but i love this panel right here um the styles panel because as you
+scroll let me bring it up a little bit as you scroll
+you can see all of the computed css like the css that is actually
+sticking like the the css that's actually running so like i could click
+on the h2 and it would show me all the style in the h2 but i click on the h1
+here in the elements and it's going to show me the exact css that's coming
+through on that element and then there's one
+
+02:31
+other really cool thing that is if you scroll down far enough
+there's this box that shows up and the box actually shows you all of the
+like the actual sizing so it'll show you the size of the element like the height
+and the width it'll show you the padding
+it'll show you the border and it'll show you the margin and so if you look you
+can see all right here is the the height and width of the element
+you can see that we have the 30 the 30 pixels of padding
+you can see the three pixels of border on each side and you can actually set
+there's some margin that's at play too right so
+if we hover over this you can actually see all right here's the element
+and then when i hover over padding look look look up here look at where the
+element is look up here ready three two one padding
+all right see how the green shows up so that can show me that oh there there's
+actually padding there if i do the border it'll actually
+
+02:32
+highlight the border so even if the border is like a weird color or it's not
+on all sides you can see where it would be and then you can actually see the
+margin now did we give it any margin did we give it any margin
+no we didn't give it any margin and so since we didn't give any margin where is
+that coming from we didn't give any more where it's coming from
+yeah it's coming default from the browser and so uh we're actually going
+to see this in a bit i'm going to show you how to
+get rid of these defaults right like i i don't maybe i don't want this default
+margin coming from the border maybe i want to start fresh maybe i want to
+start without having all these margins so i'm going to show you in a few
+minutes how to get rid of these defaults if you don't want them but this
+inspector tool right click inspect can really save you a lot of time right i
+look at this box every single day you could do
+
+02:33
+and it can show you all the stuff that's actually being computed and added and
+it's just really helpful the other neat thing i just want to come
+back here real quick to the css i did padding left
+but i didn't have to do that there's something else you can do
+if i just use the word padding and i do 30 pixels what this is going to do
+is it's going to apply 30 pixels of padding
+on every single side so let's go back let's refresh right now we can see that
+there's only 30 on the left but as soon as i refresh can see it visually right
+we can also see it here that we've gone ahead and added 30 to each to each side
+right so when you do when you do just the 30 pixels it's
+going to add it on all sides and it does it right it does it in a
+
+02:34
+clockwise fashion so it's going to go top right bottom
+left and so you can actually override these uh in the the the line here i can do
+0 30 pixels if i save that and i go back it's always
+clockwise exactly always clockwise if i go back we go back to where we
+originally were when i said padding left because what i've done right
+what i've done is i have given it zero on the top zero
+on the right zero on the bottom but 30 on the left and so you can you can do
+that one for each direction top right bottom left okay the other
+cool thing is it it'll repeat itself so if i was to do let's say um
+supposed to do like 30 pixels zero right if i was doing 30 pixel zero what it's
+
+02:35
+going to do is it'll do 30 pixels on the top zero on the right
+30 pixels on the bottom and then zero on the left so it'll it'll double up for
+you right and so if we save this and we go back you can see that we have it
+on the top and the bottom but none on the left or the right so
+when you are writing your css you can do the hyphenated padding hyphen left
+hyphen padding padding hyphen right padding hyphen top padding hyphen bottom
+or you can use these um kind of shortcuts that we just talked about and
+it works the same with margin as well it works the same with margin
+that works the same with margin uh what do i use i typically use the shorthand
+yeah all right so let's put it back to adding left just a little bit more
+
+02:36
+readable there we go all right please make the h2 25 pixels
+let's go and target our h2 here let's go ahead and do um font size 25 pixels
+cool let's go ahead and add padding on the
+top and bottom so we can use the trick that we just did we can do padding
+all right we can do padding and we can do out top and bottoms let's let's do
+let's get wild with it 50 pixels on the top and then zero on the left and right
+and so that'll do 50 on the top zero on the right 50 on the bottom and zero on
+the left with that short hand right uh remember this this will repeat itself
+so it's gonna be fifty zero fifty zero uh and then the last thing here is uh oh
+sorry it's two more things here thick gold border border
+let's go ahead and do uh 20 pixels solid gold
+it's really thick and then a margin on the top and bottom so let's go ahead and
+
+02:37
+do margin and we'll do the same thing 20 pixels
+zero it's going to add 20 on the top zero on the right 20 on the bottom zero
+on the left all right let's check out this h2
+we look at our h2s if we were to right click inspect on it
+right you can see that it's highlighted in the html we scroll down
+we can actually see the compute it we can see that there's uh the 50 on the
+top 50 on the bottom 20 on the top 20 on the bottom and as you highlight through
+you can see the colors changing as we roll over so here's the element here's
+the padding here's the border here's the margin nice sir exactly
+all right let's do the next one here please make the spans have a thin black
+border okay so let's just do border uh two pixels solid black
+cool a little padding they went padding on all sides let's go
+ahead and do 10 pixels oh that's that's a little too much maybe five pixels cool
+
+02:38
+and blue color blue nice let's save it up see what we got
+yeah look at these spans if we right click on one of the spans and we inspect it
+we're going to see that we've got the padding on all sides
+uh it's got the border and we're doing good here cool and we had one more here
+please make the section 20 width all right so let's go ahead and do a width
+of 20 25 so here a 200 pixels tall so height 200 pixels tall
+centered with a thin purple border so let's do border first border two pixels
+solid purple and what did you all do to center it
+
+02:39
+what did you all do to center it ah you did margin zero let's talk about it
+margin zero auto so what this is gonna do is it's gonna put zero on the top
+auto on the right zero on the bottom and auto on the left and so when we do that
+what it does is it centers it right that margin zero auto will help center
+it for us uh it's a little bit of a trick for now we'll do we'll get to way
+better kind of positioning systems in the future but for now
+since we're learning about margin we can we can use that that margin trick where
+it's going to repeat itself zero auto zero auto right cool
+eventually when we get to flex and other stuff it's different and easier but
+since we're dealing with the box model and some margin now we'll throw in the
+margin zero auto cool all right we got about 20 minutes left
+folks 20 minutes of fun dig deep this is this was a this has been a
+
+02:40
+it's been a it's been a long one but a fun one right long one but a fun one
+all right your classifier hey here all right
+i have put together a template for you all
+uh starting from scratch can be a little bit difficult right like you have to
+create the folder and then you have to create the html file then you got to
+create the css file and then you got to link the css to your html file you gotta
+make sure you did it all right and so what i did is i made a template for you
+so instead of having to do it from scratch every single time
+right so if i can do it from scratch every single time you can just open up
+my template and make a new fresh copy of
+the template each time and when you make a copy of the template right we make a
+copy of the template you can just start with that so let's go
+
+02:41
+ahead and take a look at the starter template and close what we just did and um
+it's aptly named template so if we look at template there's html
+there's actually a space for our javascript that we're not going to touch
+yet right and there's css but there's a bunch of stuff in the css
+right a bunch just a bunch of stuff in the css
+we're going to look at the stuff that we're familiar with first we're going to
+talk about it all right so here's the html we got the lovely doctype at the
+top letting us know that we're using html5
+our html has the lang preference lang en short for english letting us know that
+that's gonna be the base language here you're gonna see some meta tags here
+the first one is our utf-8 and utf-8 is just letting us know
+what type of characters we're using and basically utf-8 has every
+
+02:42
+type of character you can think of okay next we have the description
+uh that's what can kind of help show up when you google a website right like
+that can that's that's what can show up when you when you go to you go to google
+something right um that description can pop up
+the meta these keywords used to be really important now not so much
+uh so back in the day right back in the day there were
+what we called keyword stuffing so google would come to your site and they
+were trying to figure out what your site was about and they would look at your
+meta tags right and so based on what we're in your meta tags right based on
+what we're in your meta tags uh they would say all right this is what your
+site is about okay so what do you think people started
+doing uh when search engines start looking at their meta tags to figure
+what their site was about they don't really do this anymore back
+
+02:43
+in the day they did they put every single thing in there if
+you had a dog food website you had every type of dog in every color of dog you
+had every shape of dog in every single thing about dogs and those keywords and
+so then what then what google said is hey if you if you put so many keywords in
+your meta characters we're just going to ignore them right
+and so then what people did is instead of having all the meta keywords in the
+meta tag they would come on the page and they would put all of their keywords
+in the body and then just make them white so they
+wouldn't show up to the user they were there for google but they wouldn't show
+up in the in for the user right and so google saw this right google saw
+this and they were like wait a minute that's keyword stuffing they actually
+started docking you for all these bad behaviors and so
+it's seo or search engine optimization is like a cat and a
+cat and a mouse game here right where you um
+you figure out a little a little trick or hack
+
+02:44
+and then google penalizes you and you got to figure out more and then they
+penalize you again and so there's all these things that used to be
+there but aren't there there is something missing from the the
+top or this meta area here and that's our viewport when we get to
+responsiveness we're going to come back and add one more thing here which is
+viewport but right now that won't make too much sense because we haven't gotten
+the response in this yet but no there's gonna be one other thing we'll add here
+for viewport that'll help folks when it comes to accessibility
+uh title is what shows up like in the tab
+right like see like the stuff that shows up in these tabs here that's what comes
+from the title and then here's the real meat and potatoes for tonight
+we have two different style sheets here that i'm linking to right
+two different style sheets that i'm linking to here i have normalize and
+then i have my like normal style sheet okay right
+
+02:45
+i have my normalize and then i have my actual style sheet right
+and so what what this does is that there's two extra css files in here
+right there's a normalize and there's a reset right there's a
+and there's a reset what reset will do like if you if you were to
+link reset here first instead of normalize what reset will do
+is it will scorch the earth it will get rid of every single default style that
+comes from the browser we saw that margin that was coming default in the
+browser right reset gets rid of everything right it gets rid of every
+single default style right and you start from
+absolute scratch your h1s are going to look exactly like your spans right
+there's there's no difference for me i got used to
+
+02:46
+the default styling i wouldn't want to have to start from
+nothing right i would just find that too
+awkward it would take me too long and so
+i use normalize what normalized means is that i keep
+some of the default styling it's just that that default styling is consistent
+across every browser so my h1 will be the same font size in every single
+browser um and so it's up to you some of my students really like
+normalize because they're already kind of used to the default styling and some
+of my students hate it and they love reset because they rather start from
+nothing right so it's up to you it's one of your first real decisions as a
+front-end developer are you going to use normalize
+are you going to are you going to use reset you can kind of choose one and go
+with it but i've included both for your enjoyment all right and then the last
+thing here is we have a link to our javascript we're not ready for that
+one thing i want to show you in the default style sheet is that i've
+included the box model hack for you and i've included some other kind of
+
+02:47
+handy things that might help you if you're using floats so we have the box
+model hack we have clear fix and we have clear and then we have some like just
+maybe some ways that you can start organizing your css don't worry about
+this for now when we start actually using the template we start practicing
+we'll go all we'll go over all this stuff as we get deeper into layout we'll
+we'll talk more about clear fix and all that fun stuff we talked a little bit
+about it during office hours but we're going to see it a lot more next week so
+this is a template for you i recommend uh just keeping a clean copy on your
+desktop right that's what i do i just have a i have a zip file
+i have the template zip file on my desktop and whenever i need to start a
+new project i just double click on it and i drag my desktop and we're gonna
+we're gonna we're going sorry drag it to vs code and we're gonna add a few more
+things to it like i said over time as we get deeper into
+uh responsiveness we'll add some stuff so as we get deeper into javascript
+we'll add some stuff but it's a good place to start all right
+
+02:48
+you had some layouts that were due for homework right
+um you had some some layouts that were due for a homework that that um
+i asked you to work on and there's three of them and i asked you to use floats
+how dare right and so what i want to do is i want to talk briefly about floats
+again and i want to do the first one together we're going to talk a little
+bit about responsiveness and then we'll end with a raid so remember what floats
+we're we're here for a good time not a long time right as
+drake would say uh because we're only going to use them for a little while
+all right we're only going to do them for a little while
+and we're going to use them to help maybe understand a little bit more about
+the box model right uh we're gonna we're going to uh use them to help aid our
+idea of like how things sit next to other things right and then we're gonna
+move on to flex and all the other good stuff that can come so here we have uh
+this idea floats when you float an element it wants to go up as much as it
+
+02:49
+can go and to the left as much as it can go if you're floating it left
+and if you float it right it's going to go up as much as it can go and to the
+right as much as it can go fighting to get into those corners
+right and so the side effect when you float stuff is that it winds up sitting
+next to each other all right so here is the first layout
+if we are looking at this layout um we can kind of maybe make some guesses
+we don't really have enough content to make the pure semantic decisions that we
+would need to make right the pure semantic decisions that we need
+to make we just don't have enough content to make them so we're going to
+use our best guesses so if you were kind of just taking your best guess what
+might you make this what could that be better how about this one yep footer
+
+02:50
+and then for all three of these what could you have used we start all
+five of those what could you have used just a section right section so what i
+did is i did header footer section section section section section
+cool all right let's uh let's use our template and see if we can build this
+out quickly all right so i know in the body i'm going to have my header
+beautiful and i know i'm going to have my section and i know i'm going to have
+like i was gonna have uh five of these and then i'm gonna have my footer
+so i have my header one two three four five sections and a footer
+when i don't have content inside i like to keep them on the same line right some
+
+02:51
+people still like to always break them but if i um if i want to
+if i if i'm going to put in content then i keep them on the same line yeah cool
+all right so we got the header we got our sections we got our footer if we
+look at the image we could make all the sections the same
+except for maybe the bottom two right so what i'm going to do is i'm
+going to give these bottom two sections a class
+and they're big and on the bottom so i'm going to give these last two
+i'm going to give these last two a class of big bottom there we go
+so those two sections have the class big bottom
+and uh i don't like using like numbers in my class names or anything like that
+so i don't like using like two sections or something like that because um
+
+02:52
+you just run into trouble when you use numbers because what if somebody came
+along and like put another section here and then this one's called one and this
+one's called two right it just doesn't make sense so i try to be descriptive of
+what they are they're big and they're on the bottom so big bottom cool
+let's go ahead and start writing out our css
+i have like a place for my layout here and i'm just gonna i'm gonna combine my
+header and footer into one go right like if we if we look the header and footer
+are exactly the same so what we're going to do
+is we're going to do our header and then do our comma footer right footer
+and let's just go ahead and give it a a height of 100 pixels
+let's give them a border of um two pixels solid black
+and i think that's we'll do for now and let's go ahead and open this in the
+
+02:53
+browser and see what we get all right so we got our header that's showing up
+right we got a header showing up and we got the the footer that's showing up
+cool you have to set the width because we want them to be the full width anyway
+uh so that's the header and footer and then let's just go ahead and get
+those sections done so section uh we know if we look
+that by default we probably just want our sections to be like 33 percent width
+um and then we'll fix the other two sections with the class
+so i'm going to go ahead and give them a height i don't know let's get a little
+bit more height than the let's do like 300 pixels of height let's give them a
+width of 33.333 percent repeating of course
+uh and then let's give them a border two
+uh let's do two pixels solid black and i
+don't care i don't have to calculate the border here why
+
+02:54
+why don't i have to calculate the border here
+yeah because i have the border box up top right
+i already gave you the bangers here right i already gave you the box sizing
+border box for you and the template you don't have to remember it anymore it's
+just there for you looking out for y'all what can i say
+all right let's go ahead and save this and see where we're at
+beautiful all of our sections here one two three four five then the footer
+so let's go ahead and get them sitting next to each other
+uh maybe we can just like float them as well cool
+now they should be sitting next to each other and we have a problem
+what happened to our footer yeah it slid on it slid on up it
+
+02:55
+collapsed right well it slid up we had our we had our we had our sections here
+and our footer was nice and good but as soon as we floated the sections this
+footer went zoop and slid up underneath until it hit the header right so we need
+that clear both i see you all in chat let's go ahead and put a clear both on
+our footer we're also technically putting on the head on the header it
+just doesn't matter cool all right looking good we just need
+these last two sections the big bottoms uh to be
+wider right we need them to be wider they're 33 percent right now we just got
+to make them 50 and so let's go ahead and create our class here uh big bottom
+and let's give it a width of 50 percent right i think that should do it
+boom there we go we got our we got our layout right
+
+02:56
+header footer three sections two bigger sections on the bottom um maybe if
+you're like looking at it maybe these are a little bit taller in height maybe
+uh maybe these are a little bit shorter you could play around the the specifics
+here but we got the layout right we got the layout cool
+so we got the layout uh if you want to see the other two layouts
+we're gonna do those during office hours
+and we'll also take a look at the simple leon lab as well so this office hours
+will probably be a little less questions and a little bit more code so if you
+want to see the other ones come through chill office hours we'll chill out we'll
+hang we'll go through these layouts and then as we have extra time
+we'll answer questions as well i remember the and the those office
+hours are always vods here on twitch you can always go back and watch them
+cool all right i want to hint at one more thing and i when i say hint
+i really do mean a hint i don't want to go too deep into it all next week will
+
+02:57
+be responsiveness and so i just want to i just want to slightly slightly kind of
+slightly kind of just like peek into this realm of responsiveness okay
+and so what we want to do is i just want
+to cover responses just a little bit and then all next week will be
+responsiveness so when i talk about responsive websites what do i mean i
+mean about i mean that i want our sites to be able
+to look good across all of our devices i want them to look good on desktops
+tablets mobile phones right i don't want
+them to just be for one screen right and so when it comes to building responsive
+websites uh there's some there's things we got to keep in mind some things we
+have to learn on how to do this and what do i mean by responsive well
+we can actually see examples of what fixed websites used to look like and
+what more modern responsive websites look like so if we look here is ups website
+
+02:58
+from 2017. this is from april of 2017. look at this look at all this white space
+you opened it up it this is not this is not me messing it up
+this is not me like oh leon they had some like no this is this is what it
+looked like when you opened it up they just did not care they like you had all
+this extra screen you could do whatever the heck you want with this right
+um and they just didn't care right uh so this is what we call a fixed website
+we're gonna talk through next week like maybe why such a large company still had
+a fixed site and like why it was this bad but this is the idea of fix it's not
+responsive it won't look good across any of your
+devices there's a lot of white space on the other hand we have a site that's
+like really responsive and if we look at it you can see as i
+make the window smaller you can see that like we we drop
+that column that was on the on the right hand side that column disappeared as we
+get even smaller the other column disappears and we just kind of start
+
+02:59
+focusing on the stuff that matters right and so you can see on on like a mobile
+type screen size it's just like the important news
+and as we get bigger we add more stuff right and so the cool thing about
+boston.com is that it's a news website right it's a news website so what do you
+think fundamentally changed about how people consumed the news not too long ago
+what do you think fundamentally changed about how people consume the news
+yeah if you're in a metro area right if you're in a metro area
+and you want to consume new news right you want to consume news well guess what
+you probably consumed news on your mobile phone
+and if this site wants to keep you as a user if they want to keep you
+
+03:00
+as somebody that's going to read their news and and see their ads they need to
+make their site look good on mobile phone they need to make their site look
+good on tablet so that when people are like peak news reading while they're on
+their commute they get to keep that audience right and so
+boston.com used to have a horrible website and then they went really full
+born on responsiveness because it really does help them like everybody's on
+phones right now like the the mobile revolution changed everything when steve
+jobs walked on that stage and said iphone it everything changed there was
+mobile phones before that but that that changed right and a lot of most internet
+traffic is mobile traffic now so if your site does not look good across these
+devices then um that's it cool all right let me talk about the mechanism that
+makes this happen and then we'll do our we'll end for the night and we'll do our
+raid the mechanism that enables our sites to be responsive is something
+
+03:01
+called a media query we can add media queries to our site and
+what that's going to enable us to do is it'll give us the ability
+to display certain rules right certain rules at certain screen sizes
+so this rule right here would only exist
+between 0 pixels and 600 pixels wide and let me i'm just going to copy this i'm
+going to show it in our template from the layout we just did
+and so here's the layout and what i'm going to do is in my i'm
+going to go down here to additional styles i'm going to put this media query
+and i'm going to say between 0 and let's say 0 and 800 pixels let's make
+our sections have a background of blue alright we're just hinting i just want
+to show you right i just want to show you the uh
+how this could work right so here it is it's a media query we're saying between
+
+03:02
+a screen size of 0 and 800 these rules should take effect so this background
+blue should only happen right should only
+happen between 000 and 800 pixels let's go ahead and save
+let's go back to our layout let's refresh and then let me let me start shrinking
+this screen size here [Music] i hit 800 pixels and boom it changed blue
+go above 800 pixels that rule does not apply
+under 800 pixels blue above 800 pixels that rule does not apply and so with
+these media queries we can start to add some real magic to our sites we can
+start to be able to look at the viewport or the size of the screen and start
+making changes when it comes to responsiveness we're not just talking
+about style we're also talking about content decisions so that's the big goal
+for next week the big goal for next week is we know a little bit about layout we
+
+03:03
+can start to layout these sites real cool we're going to start building more
+sites um with better and more feature-rich layouts next week we're
+going to get some practice in on sunday with layout so if you want to see the
+other three layouts that we had for homework come on office hours we'll do
+them together we will have our alumni uh twitter space tomorrow at 6 00 p.m
+don't worry i'll share it in discord and i'll send out an email too
+and then next week we get into responsiveness making our layouts look
+good across different devices you have a lot of reading to do for homework so
+please don't ignore the reading for homework next week's going to be a
+little bit more difficult as we get into response in this and so definitely want
+to be on top of the reading uh we're going to go ahead and do a raid um
+this person's bio is i'm just building robots and being kind
+that sounds like our kind of people uh so we're gonna go ahead and set them a
+
+03:04
+raid if you're new around here rays get you more channel points
+you want those sweet sweet channel points do more
+you're on the channel but hey hope you had a fun class hope you had some fun
+getting your practice in hope you had some fun uh playing around
+with all the new kind of layout stuff and we'll get more practice in on
+sunday and then i will see you all tomorrow maybe for the for the for the
+twitter space and maybe i'll see you next class as well all right folks have
+a wonderful rest of your day evening morning wherever you're coming from
+let's go ahead and read

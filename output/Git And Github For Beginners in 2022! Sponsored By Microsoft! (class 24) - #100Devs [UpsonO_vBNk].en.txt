@@ -1,0 +1,2401 @@
+
+00:00
+hey good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well welcome
+back to the best week ever we're continuing it folks tonight
+our lovely class is sponsored by microsoft azure and they're coming
+through big for us coming through big now microsoft has been a long time
+sponsor of the stream the very first time we did this get in github class
+they came through and they sponsored it for us well guess what they're coming
+back they're doing it again they're coming back with some swag
+they're coming back with us having the ability to raffle off some amazing stuff
+
+00:01
+so we're gonna have a lot of fun tonight we're gonna learn the basics of git and
+github from an actual beginner standpoint i feel like there's a lot of
+stuff out there when it comes to getting github that if it's your first time
+dabbling in it it can be really overwhelming cause a lot of stress but
+we're gonna show how git can be a tool that you can use every single day that's
+gonna make your life a lot easier that i think actually removes some of the fear
+of trying out new code and so we're gonna have some fun we're also gonna
+learn a lot of cool stuff and a huge huge huge thank you uh to microsoft
+azure for sponsoring this stream get in here folks it's gonna be a good
+one bangers only uh so for folks that are new around
+these parts specifically since this class will be shared outside of our 100
+devs community my name is leon i am the managing director of engineering for a
+non-profit called resilient coders it's my job to help folks get jobs as
+
+00:02
+software engineers and help them get the
+skills that they need to become software engineers and what you are watching
+right now is a hundred devs a free 30-week software engineering bootcamp that we
+run on tuesday thursdays sundays and during the best week ever
+every single day of this week and the goal is to take you from maybe never
+having touch code before having everything that you need to be employed
+we got a lot of folks showing out already hey thank you so much for
+everybody being here uh thank you so much to the all the
+gifted subs and things like that so far uh rufio with the raid 88 folks coming
+in through you're doing some cold wars love to see it newest member of the
+stream team folks we were saying that 700 people yesterday
+in that stream going through some cold wars and they were doing some code wars
+today right before this stream thank you for the raid
+we had some uh some some gifted subs hey thank you for the five gifted subs
+
+00:03
+global crisis thank you for the five good subs thank you all for being here so
+free software engineering boot camp you can
+go from never having touched code before to all the way to employed and the
+beautiful thing is right now is the best week ever
+and the reason why it is the best week ever is because we started 100 devs with
+the goal of getting a hundred folks software engineering jobs during the
+pandemic and we blew through it we're way past our 100 jobs now and so
+this week has been a celebration and microsoft has come back to sponsor uh
+making this even more the best week ever so tonight we're going to
+well at least i'm gonna shoot my shot i feel like if you're watching this
+maybe on microsoft's channel hey indifferent goes thank you for the
+10 gifted subs thank you for being here i appreciate you
+if you're here and you're not currently part of 100 devs i would encourage you
+
+00:04
+to come check us out come hang out with us come on come learn how to code but if
+you walk away with nothing i'm going to shoot my shot i want i want you to learn
+how to learn and so we're going to start off this stream not with git not with
+the terminal not with github but with learning how to learn it's something
+that's changed my life that's changed the lives a lot of my students and so i
+want that same thing for you so we're going to talk about how to learn so if
+you're starting your coding journey and you're learning git as part of that new
+part of your coding journey please if you only listen to two things i say
+tonight one make sure you have a github account and
+then two make sure you learn how to learn
+it will really honestly change your life when it comes to learning how to code
+then we're gonna break down what the heck is this terminal thing when first
+people start hearing about the terminal it's weird you try and open it maybe you
+have a terminal already on your computer
+and it doesn't make sense it's just text it's blinking what is going on we're
+gonna talk about all of that we are gonna learn uh the basics of git
+
+00:05
+and then we're gonna show how to use github along with git to do some really
+cool stuff we got a lot of fun though mixed in between
+for every single thing we learn once we start to feel like we're pushing a
+little bit things are getting a little hard we're going to stop with a raffle so
+every hard concept we learn we end up with a raffle and we got a lot of cool
+stuff to give away microsoft has come through uh with eight sets of swag
+and so that swag that microsoft has provided is for folks that are in the us
+but i am matching that swag uh so you get a learn with leon swag pack that is
+open to anyone else in the world and i will ship it anywhere
+and i mean anywhere uh we we we sent some merch last last year to some far
+away places and some of it got there some of it got returned but we'll shoot
+our shot we'll try i don't care where you are we'll put it in the mail we'll
+cross our fingers and hopefully it'll get there so we got 16 swag raffles to
+
+00:06
+get through which is wild and then we're also
+i don't know if i told you i mean we mentioned it
+but we got we got two laptops to raffle one will be raffled tonight at the end
+and uh one will be raffled next tuesday which will be our
+best week ever last class so one laptop tonight one laptop on tuesday
+if you want to be entered into these raffles all you have to do is be
+here on stream i will show you how to do it when the time comes and then we'll
+talk a little bit more about the laptop raffles as we get through it but
+folks hold on you gotta see it you gotta see it it's beautiful you
+gotta see this laptop folks we're talking about the surface laptop go i
+don't know if you've seen this before but this is a beautiful beautiful laptop
+
+00:07
+sleek all-day battery life lightweight beautiful colors
+runs all your favorites apps look at it just look at it
+microsoft out did themselves and so uh we're giving one of these away
+tonight and then another one on tuesday thank you to microsoft for making all of
+this possible alrighty so we also have to start off with some
+questions and i have a question for everyone that's here tonight i know we
+pulled in some folks that are not normally part of the 100 devs crew but i
+have a question for you all have you all ever used a terminal before if you use
+the terminal say yes if you haven't used
+the terminal say no i want to say yes or no in the chat for me
+some folks did the homework so there should be a lot of yeses now maybe if i
+asked this a week ago it would have been no but
+we got a lot of yeses we got some new folks with the notes that's all right
+layered cake hey thank you for the vodka that subs appreciate you for being here
+
+00:08
+thank you all right all right i see y'all we got a good mix here
+we got a good mix a lot of yeses a few no's and so what
+i'm gonna say from the very beginning is that this class
+is for folks that have never used the terminal you know you don't even know
+what the heck i'm talking about that's okay
+it's for folks that thought i've been saying get g-e-t this whole time and not
+git this whole time so if you're interested in learning about the
+terminal you're interested in learning about git and you want to use these
+tools to aid your software engineering journey this class is for you we're
+starting all the way from the very very beginning uh we're gonna just cover the
+basics tonight if you get stuck if things don't make sense definitely
+ask questions here in chat but we also have office hours every saturday
+
+00:09
+this specific saturday coming up today is march 31st then the year 2022
+this sunday we'll be having office hours
+but we have office hours every sunday at 1 pm eastern time so tonight
+don't stress about having to have everything set up and perfectly running
+if you can't get things set up and running it's okay just pay attention to
+the commands understand ask good questions and then anything that doesn't
+make sense we'll cover in office hours as well
+i'm going to ask for the folks that are here if you can go ahead and check in
+for me if you need the check-in link you can do exclamation point check-in here
+in chat it'll take you to the tweet microsoft
+we want we want to show them some love on twitter right let's show microsoft
+some love on twitter they came through they they put up all this swag for us uh
+let's show them a little love on twitter uh let them see
+the the fruit of their support of new developers in tech all right
+as our continuation of the best week ever goes on we had our first stream of
+
+00:10
+the best week ever on tuesday then we had rufio's first stream as part of the
+stream team yesterday 700 people hanging out doing some code wars i saw
+88 folks in the raid that's wild that's wild roofio roofio rufio tonight we have
+the sponsored stream tomorrow friday 6 pm eastern time on
+discord we have our first friday with friends and we have an amazing guest
+it's someone that's been a long time supporter of the hundred devs community
+uh it's someone that is up in our discord answering questions that has had
+an amazing journey of their development career as well so we'll we'll announce
+the the the first friday with friends uh we'll announce it later we're
+we're not going to announce it right now
+we'll announce it well now it's a little bit a little bit later whereas a little
+bit later uh but trust me it's not something you want to miss these friday
+with friends sessions we're going to put a lot of effort into them to make sure
+
+00:11
+that you learn and pick up some really amazing tips from folks that are already
+in the field that have gone through a similar
+journey so if you want to hear from folks that are
+crushing it in the game but we're just where you were just a few years ago come
+on through friday with friends first one tomorrow 6 p.m on discord it'll be a
+discord event kind of like similar to a twitter space but on discord alrighty
+since microsoft azure is sponsoring uh since microsoft azure is sponsoring
+they've asked us to agree to their code of conduct so they have some some rules
+for their virtual events those rules are not any really different than our 100
+devs rules so if you've been here you've
+been a part of 100 devs you're following the same rules if you want to check out
+their rules though you can do exclamation point github coc to get
+their code of conduct as well that that link will go up in chat uh all it is is
+
+00:12
+be excellent to each other and let's have a good time you'll also notice that
+when i go to this lovely stream chat's not there
+and that's because this will be shared across a whole bunch of other channels
+that's not our own and things like our our our lovely lovely emotes don't make
+sense and we don't want any of you walling out
+so that that chat will be missing for tonight it'll come back on sunday uh but
+as a general rule be excellent to each other we don't really have a problem
+with that here at 100 devs uh but just wanted to make sure that you were aware
+of what was going on alrighty now before i shoot my shot
+if you're watching this and you're not part of 100 devs and maybe you are
+[Music] interested in a career in tech maybe as a software engineer
+because you've heard that software engineers make good money
+maybe you heard that it's been one of the happiest careers for the past five
+years running maybe you heard that you don't need a
+
+00:13
+degree a degree you can learn it for free and heck there might even be a
+slide in your office all these things are true
+i've been teaching folks how to code for the past 10 years
+for the past five years i've really focused on helping folks specifically
+people of color get jobs in software engineering and it is right now
+the best time i have ever seen for folks to get their first role as a software
+engineer now there's a lot of kind of reasons why that's happening right now
+but the beauty of it is that we can take advantage of that and you can go from
+zero skills to employed as a software engineer without paying any money to
+learn these skills you can do it here with us for free or there are so many
+other amazing resources too that you could use free code camp the odin
+project you want a live wonderful community we have 100 devs with us as well but
+i want you to know that it's possible that we've helped a hundred plus folks
+
+00:14
+as part of the hundred devs unlock this career to have this happy career to have
+this life-changing event happen and you can do it you can do it for free um but
+most folks don't realize how long they have to go through what we like to
+call the trough of sorrow before they make it to that wonderful opportunity
+and this is why we still have a a a a huge demand for software engineers
+that has not been filled it's why a lot of folks that start on
+this journey might not make it through and it is a process
+that takes a long time i think a lot of folks come into the
+idea of becoming a software engineer and they see the they see all the ads on
+youtube saying 12 weeks that's that's no no it takes a while
+
+00:15
+it takes a while to to to to to tread through the muck
+and to go through this trough of sorrow your your wits will be tested your
+frustration will be tested you will doubt yourself maybe this whole
+way through and this trophistar is what stops a lot of folks through making it
+to that promised land at the end so there are three things that i have
+seen that have helped my students make it through this trough of sorrow to go
+from i really want to be a software engineer to employed as a software
+engineer to as that that wearing off of the the the
+initial rush of wanting to learn once that's fully worn off you're deep in
+javascript and things aren't making sense it's these three things that have
+held true for most of my students to make it through they've learned to
+manage their frustration they've learned
+to be consistent and they've learned how to take care of themselves there was a
+study that that was done that was asking folks
+
+00:16
+when do we lose the ability to be fluent in a language like what age
+and what they found what they found was that it wasn't really that as we got
+older we lost the ability to be fluent in a language it's just that as we got
+older more things were in our control and once more things were in our control
+we actually get more and more frustrated with a learning journey so if you want
+to learn how to code the first thing you have to realize is that engineers
+solve problems that may not have been solved before but every day is a challenge
+every day is waking up rolling out of bed putting your fingers on the keyboard
+and trying to do something that at first will probably be very frustrating
+because there might not be a clear path to it
+so while you're learning the code if you can start to find the joy in it the fun
+in the problem solving trusting the the the the journey and
+really focusing on your process and not the product if you can do that if you
+
+00:17
+can find that that joy and banging your head against the keyboard
+for a long period of time just to finally figure it out and have that
+euphoric moment if you can figure out how to do that
+you're gonna make it through the trough of sorrow
+the other thing too that makes the frustration come down a little bit right
+that helps with this frustration level that you have to that you have to
+conquer is this ability to be consistent
+most folks when they start out trying to
+learn how to code they say you know what lena i'm going to study all saturday
+well guess what you missed a saturday you missed the next saturday you don't
+actually learn how to code there are also some very important tips about how
+our brain works and how we learn that requires you to be consistent every day
+and so most of my students i asked to see if you can block off two hours a day
+to be consistent to do the things that you need to do to continue that learning
+but if you're chunking on just one day a week or two days a week it's probably
+
+00:18
+not going to work out that well it's not consistent enough you'll skip some days
+and then you'll be in a deeper trough of sorrow than when you start it
+the last bit is you have to understand you have to take care of yourself
+learning dakota's a marathon not a sprint every time i run a boot camp a portion
+of my students wind up going to the hospital they don't take care of their
+fingers they don't take care of their hands they don't take breaks at the top
+of the hour they don't use tips and techniques like pomodoro to
+build in break time learning to code is stressful not only
+on your brain but also in your body also
+in your eyes you have to be doing things that take care of yourself or else
+you're going to burn out and not make it to the end if you can manage your
+frustration you can be consistent you can take care of yourself you can learn
+how to code i've seen folks from all walks of life i have returning citizens
+that haven't touched the keyboard in five years to folks that have children
+to anything you could think of as a barrier i've seen them learn how to
+
+00:19
+code it has nothing to do with your aptitude or your ability to
+be good at math or anything like that the folks that learn how to code banish
+their frustration they don't give up they're consistent and they take care of
+themselves you can figure out those three things
+you can be a software engineer now if you listen to nothing else from me right
+and i say if you don't listen anything else from me because don't let me the
+person that gets in the way of your dreams and don't let your dreams be
+dreams right get out there achieve what you want to achieve but hopefully
+i can give you two two words of wisdom if if you don't listen to anything else
+i have to say if you leave before we get to get or github please
+embody these two things before you leave active recall and space repetition
+active recall space repetition active recall is this idea that after
+
+00:20
+you learn something you literally talk out loud about the thing that you just
+learned i have a lovely duck on my on my table that i talk to every single
+time i learn something new my duck knows about it and then you'll meet bob who i
+talk to as well when the topics are really difficult
+there was a lot of research that's gone on to this but there was one really
+interesting study where a group had to learn let's say we'll say a
+chapter of a textbook one group re-read the chapter four times
+one group read the chapter and then actively recalled talked out
+loud about the stuff that they had just learned
+the group that actively recalled did better than the group that read it four
+times what could you imagine doing something that you put in a
+
+00:21
+a quarter a quarter of the effort and get better results that's what i'm
+talking about folks there are actual strategies that you can put into place
+when it comes to learning that if you're not doing them
+you're doing four times the amount of work
+the other really important thing is this idea of our forgetting curve now this
+was a study of one it's been replicated in some other ways but the idea here is
+that this person what they did is they tried to remember a three letter
+combination you could say like x c d right you get a three letter combination
+what they found is that just 20 minutes later there is about a 40 chance
+that they had forgotten those three letters and by the end of 31 days there was
+
+00:22
+about an 80 chance right 80 chance that they have forgotten everything
+so if you're committing to a learning journey if you're committing to an idea
+of learning how to code which is a cumulative career
+and there's about an eighty percent chance you're going to forget stuff in a
+month let me see how that can be a a fool's errand right and so how do we get
+over this how do we stop this forgetting of all the things that we're putting so
+much effort and being consistent to learn well you can reset your forgetting
+curve you can actually flatten your forgetting curve so that eventually over
+time you don't forget anything and the way we do this is through spaced
+repetition all space repetition is is that you are reviewing
+the things that you learned over time and while you may have forgotten certain
+things in in three days you review it again it goes out to seven you view it
+again it goes out to like 20 you read again and eventually
+
+00:23
+this review curve flattens and you just don't forget anything and so here we all
+use a tool called anki a-n-k-i it's completely free tool uh completely free
+on on pc completely free uh in the browser and
+so you can use this tool called anki which is like flash cards with an
+algorithm behind them to help you never forget stuff so my students that
+use active recall and spaced repetition they literally do not forget stuff they
+can actually learn the fact that these two things are not in the front of every
+textbook that you have ever used is a crime now ali abdull has a wonderful video
+where you can watch them talk through the science behind active recall and
+space repetition and there's also one other course i really recommend it's dr
+barbara oakley's coursera course called learning how to learn all these
+resources are free i never share any resources that are not free with 100
+
+00:24
+devs and so if you are starting your engineering journey or
+you're learning how to code or you're coming to this video
+because you're trying to learn git and github trust me please
+just try it the active recall space repetition you'll be surprised how much
+more you can learn how much more you can retain and the things that will stick
+for the long run cool now the last bit that makes the trough
+of sorrow really really hard that makes learning how to code really hard that
+makes learning get for the first time really really hard
+is that some folks do it alone you don't have to do that anymore you can join
+an amazing community of individuals how many folks we have here right now
+we have over 3 000 people here right now that are all learning to code together
+our discord community is 29 000 strong every question that people ask it's
+
+00:25
+answered we have amazing folks going through our current cohort we have
+amazing alumni we have amazing folks mentors that give up their time to
+support folks that are part of this 100 devs community you don't have to learn
+alone i see in chat a lot of folks saying that
+they'll help you carry the boats and the logs because that's true
+you don't have to learn this alone you don't have to learn how to code alone
+come join a really passionate welcoming community of folks that want to see you
+be successful as well so you can always go to the underworld.com 100 devs or if
+you're ever here on twitch.noel.com twitch you can use that exclamation
+point 100 devs that'll give you the link
+to our discord come through agree to the rules and you'll find
+an amazing supportive community where you can get your questions answered
+specifically questions about git when you're first setting up git it can be
+pretty difficult the first few times you try to actually put it in the into
+action you might come across some weird errors come ask questions about those
+
+00:26
+errors we'll be happy to help and uh yeah shout out catch up crew i
+see you all in the chat you don't have to join us live you can also all of our
+classes get put on youtube so you can always watch at your own pace join the
+discord community join our catch-up crew continue at your own pace and get the
+same support as well cool i had to shoot my shot right folks we got to do it
+we got to do it right if this is all they ever see
+that's what we need them to know all right folks microsoft azure
+thank you so much for supporting this community time and time again
+literally helping to make this be the best week ever to
+make changes consistently that support early career developers uh folks if you
+don't know they microsoft acquired github
+and for a long time github their private repos
+
+00:27
+were not free you had to pay to have private repos and i think when you're a
+new developer there's always kind of that little bit of apprehension before
+you kind of throw caution to the wind where you don't want your code public to
+everyone and so for a long time you had to pay
+now you don't private repos are free folks and so i think microsoft is
+committed to making the experience of early career developers the best it can
+be whether we're using the text editors that we use like vs code whether we're
+using git and github or we're using any of the amazing services that azure
+provides they consistently show out not only for 100 devs in our community but
+every other engineer that's kind of earlier in their
+career they really do make it a more inviting space so microsoft azure thank
+you so much for sponsoring thank you so much for offering up the swag but also
+building tools and systems that help support everyone that's here tonight
+everybody let's get it on now before we get it on
+
+00:28
+we have our first raffle of the evening now this raffle uh was for
+folks that uh you know how we do the folks that open the newsletter before class
+so you can always do exclamation point newsletter here in chat if you're not
+assigned to the newsletter you should you should sign up to the newsletter all
+the good stuff happens in the newsletter first and so for the folks that opened
+the newsletter before class i went and grabbed all the individuals that had
+filled out the secret form in the newsletter
+and i threw all your names into a random picker so fifteen hundred of you uh
+filled out that form before class started gigan's world hey thank you so
+much for the uh for for the five gifts of subs i
+appreciate you and we had some folks come in uh devmin 90. thank you for the
+hydration cheers to you ldvel oh no i will get to your pokemon card i see you
+and sp burton thank you for the posture check i'll get there in a second
+wow get my posture ticket real quick and we just started i feel pretty good
+
+00:29
+all right so these are for folks that went into the newsletter before class
+started filled out that form uh whoever wins this raffle uh will get a learn
+with leon swag package so uh in the learn with leon swag package we
+have a lot of really cool stuff little bits of merch that you can't
+really get anywhere else cool stickers a bunch of other fun stuff and i'll ship
+it anywhere in the world so whoever wins uh you're getting a swag package
+anyone that wins this evening if you win anything this evening i will send you a
+whisper here on twitch it's just way easier because we're doing
+so many raffles tonight that i will send you a whisper here on twitch uh with
+instructions on how to redeem your prize that way i don't have to worry about
+anything no flooding of mod mail or anything like that
+if you win something tonight you will get a message from me on twitch
+
+00:30
+this weekend so give me until end of the weekend to get you the message and
+everything set up and sent to you but you'll get a whisper from me here on
+twitch cool all right let's pick the random winner
+i am ghost hey congrats i am ghost uh you have won the first
+swag of the evening the learn with leon swag package is coming from you uh paste
+open the newsletter folks that's all i got to say
+let me go ahead and write these down over here just so i have them all beautiful
+awesome alrighty let's continue with this evening folks let's uh shall we say
+get it on now before we jump into git we have to start with something called
+the terminal and whenever folks first learn about the terminal or they decide
+that they're going to start using the terminal
+
+00:31
+it can be a really confusing space to be in
+there's so many weird words weird terms that come up terminal bash get bash unix
+shell cli cmd it it's a little it's a little much and i find
+there's really not that many great places that just start from the
+beginning and say kind of let's just put all that to the side for now
+uh we're gonna start from the very very beginning and by the end of this night
+you'll understand some of these terminologies and and it'll make a
+little bit more sense but i really love this this gif because i never remember
+like back in the day trying to figure out the terminal i still i mean there's
+still today so much stuff i don't know about the terminal but i remember trying
+to figure it all out and feeling like charlie in this gif
+where i'm trying to connect all these dots all these all these weird names
+don't make any sense and it's all coming through uh the other favorite thing i
+like about this gif is uh i actually think i mentioned this last class but um
+
+00:32
+this pepe sylvia they never actually really say what pepe silvia was
+but there's a lot of people that believe
+that pepe sylvia was charlie reading the envelopes that said pennsylvania
+and not knowing what how to pronounce pennsylvania and so pepe sylvia is uh is
+probably pennsylvania yeah yeah that that's my head cannon cool now
+i love this gif i this this image i i wish i could make out the person so i
+could give them credit um but this is this is something we brought up in class
+the other day and i just love that get is on here because there are so many of
+these random names and terms that come up when
+you're learning how to code and i love this because this is um this person said
+i typically ask recruiters to point out which of these are pokemon and it's
+really hard even if you've been coding for a while there are some here or if
+
+00:33
+you even know pokemon for a while there's something they're like
+i'm not really sure but i love that get has made it onto this list and i can
+tell you all this evening that git is indeed not a pokemon it is a tool that
+we will be using for the rest of our engineering careers it's something that
+we'll use every day going forward and it's something that is extremely
+powerful and will make your life phenomenally uh better cool so
+whenever you hear the word terminal i don't want it to
+cause fear or panic whenever the word terminal all i want you to think of is a
+place where you can type commands that cause actions
+a place where you can type commands that cause actions and we're gonna see a
+lot of different actions tonight we're gonna see a lot of different commands
+
+00:34
+tonight but just a place where we can type stuff and things happen that's it
+cool so way back in the day if you bought an
+apple ii which was one of the kind of early computing systems that made it big
+and was where a lot of folks kind of started a computing journey
+you paid all this money for an apple ii i know it was it was expensive it was
+not cheap uh in today's dollars the base
+model of the apple ii uh was around five grand
+and in today's dollar like the top of the line spec for the apple ii
+was a thousand sorry no eleven thousand dollars so base back five g's
+
+00:35
+top spec 11 g's you took it home you turned it on and all you got was this
+you got that well so the cool thing is what it gave you was access
+to a command line or a cli a command line interface and so
+you turned on this apple ii computer right you turned on this beast
+and instead of getting a gui or a graphical user interface you got a
+command line interface which is a place where you could type commands or
+access utilities which is programs on the computer uh directly from by text
+there was no gui that we could move around there were no folders that we
+
+00:36
+could drag and drop you had a cli as opposed to a gui or a
+graphical user interface and so you spent five grand you bought
+it home let's see if i can refresh this real quick you brought it home
+and um this is what you got and there was no internet to figure stuff out
+you could you could have like this thick manual that you could go through to
+figure it out uh maybe you would eventually find like a user group that
+you could go to like like a meet up to like figure out and exchange floppy
+disks um but you you kind of let's like power cycle it right like you could you
+could turn it on and there would be a place to like actually start typing
+that's it no gui no folders no anything but this was a beast though this this
+had color folks and you could actually open up individual programs right you
+could you could go to your your yeah your your swap fest right you could you
+
+00:37
+could you could take your your your floppy and exchange it for other
+floppies and there was actually some cool stuff that you could do
+hey thank you for the five gifted subs and so here's here's one it's like a
+personal there's like a christmas card you can open it up and there we go
+[Laughter] like beautiful like full color right
+merry christmas like you could do some cool stuff with it but
+what you noticed look at this this is next level right so from the
+command line interface you had no gui from the command line
+interface you could run commands you could run utilities and you could still
+do some pretty cool stuff it was just a very different experience and so this
+command line interface or eventually we'll call it the
+
+00:38
+terminals where we access this command line interface it's still alive well
+today so when you were on the apple ii if you wanted to move around your files
+and your folders and you wanted to get access to stuff you used that cli to to
+access those files to access those folders to get the things that you want
+it without having to click around on a bunch of stuff and so this still is
+alive and well we can look at a terminal that i have on my machine right here in
+this bottom right hand corner this is my terminal and i can still move around i
+can still write commands i can still kind of move into folders right it could
+still grab all the things i want on my computer i could still run fun games
+maybe christmas cards like we just saw all from this lovely command line
+interface now i'm gonna walk you through some common commands
+
+00:39
+and then i'm gonna show you kind of how to get this working on your own machine
+in the materials before class i i kind of shared some things where you could
+get this started if you are on macos or a flavor of gnu linux
+you probably already have a program on your computer called terminal which
+will give you access to this lovely command line interface that you see here
+on the right side of my screen if for some reason you are on
+a mac os system or a new linux system that doesn't have it you're going to
+have to install it and then if you're on windows i
+would recommend get bash for this evening now
+windows comes with the command prompt which is a slightly different
+system than what we're going to be using tonight the commands are a little bit
+different so i actually recommend get bash to start and then eventually you
+
+00:40
+want to look at something called wsl or the windows subsystem for linux and what
+it does is it enables you to have this like we call it a unixy
+environment on windows and so tonight get bash
+that's where you would that's why i recommend you start uh you'll have a
+chance to install if you didn't have a chance to stall it yet
+and for the beginning don't worry about typing in the commands watch them along
+with me see how i'm doing things and then we'll have a time we'll give you a
+little bit time to install the things if you need it installed okay so if you're
+on windows i recommend git bash for this evening [Music]
+if you're on mac os or gnu linux you probably have a program called terminal
+you could open up and that you could follow along with us cool
+but like i said if you don't have this installed yet you know
+you can't install yet don't worry follow along right follow along uh see
+
+00:41
+the commands that we're using and then as you have time feel free to go and
+install those after class and then if you have any trouble installing things
+come on discord we'll help you get it installed and then come to office hours
+on saturday where we'll go i'm sorry sunday where we'll go deeper into this
+as well cool so i talked about being able to run commands in this terminal here
+and there are some common commands that you're going to need to know that are
+going to help you navigate your computer navigate files and folders and once you
+get proficient at it it can actually really quick to create stuff move around
+stuff and you'll see me a lot of times going forward in class just creating
+stuff directly here in the terminal instead of using my
+gui that you see up here so here's a gui right here
+you can see this is my class 24 folder and
+i'm going to do stuff that you're going to see populate here but i'm going to be
+
+00:42
+doing it all in the terminal i'm so excited me too
+all right so let's talk about some common commands
+uh right now you can see that i'm in my class 24 folder
+and so there is a really common command that you can use called pwd
+and so i'm just going to type pwd and at least we can make it a little bit
+bigger let me scooch this over i mean it's a little bit bigger
+let me go ahead and clear all right let me a little bit bigger
+just to make it a little bit clearer for folks to see all right there we go
+there we go cool so i am going to do pwd and this stands for print working
+directory and so what you're going to see is the path
+
+00:43
+to the folder that i am in you're going to hear this word directory you're going
+to hear word folder for tonight don't worry about it whenever you hear the
+word directory just think a folder on your computer okay we don't get super
+technical with it when you hear directory just think folder on your
+computer let's make our lives a little bit easier tonight so cool we have this
+pwa it shows you the print working directory and the cool thing is it can
+show you the full path to the folder that i am currently in and
+so this is helpful to figure out like where you are and you can see that oh
+i'm on my desktop i'm in a stream folder
+i am in my 100 devs folder and i am in a class 24 folder right and so this idea
+here is that i can see where i currently am now once i'm in a folder
+i can even do things like make folders wherever i am at so a very common
+command that you'll use is maker and what maker will enable me to do is
+
+00:44
+to make a directory and so keep your eye up here in my gui
+and i'm going to type in make dir example so what i have just done
+is i have made a new directory or a new folder called example
+and you saw that folder be created in real time
+right you saw that that folder is created in real time and it let me move
+it over a little bit so that the the gifts don't don't cover it but you can
+saw that that folder example was made from my command here in the command line
+pretty cool all right some other commands that you're going to see a lot
+are cd or change directory so right now what folder am i currently in
+
+00:45
+chat what folder am i currently in yeah i am in class 24.
+so if i want to go into the example folder that i just created i could do cd
+space and then example and i could type it all
+the way out or i can even just hit tab and when i hit tab it's going to enable
+me to move into the example folder when i hit enter
+so now you can see that i am no longer in class 24 but i am indeed
+in the example folder and if i wanted to see what directory i
+was currently in what command could i use
+yeah i could do pwd and you can see all the way that i am in the example
+directory nice you can still see it here that i'm in the example directory as
+
+00:46
+well cool so that cd is what enabled me to move from my class 24 folder into
+my example folder nice now let's say i wanted to go back up to the class 24
+folder i'm right now inside of example if i wanted to go up
+a level back to class 24 i could do cd dot dot
+so what cd dot dot is going to want me to change a directory but go up a level
+so cd dot and now i am back in the class 24 folder cool
+so we've seen this dot dot once before uh during our time here together
+where have we seen this dot dot before we've seen it one very specific place
+that's come up during class we've seen it when we were linking files
+
+00:47
+and we've seen it a lot when we were linking images exactly
+sometimes when we were linking images we were like in a css folder and we needed
+to get to an image folder or we were trying to go from one folder
+up to another folder and so we actually were using this dot dot in those links
+all the way back then and the reason why it worked is because
+this is how it works at a fundamental level at the computer uh here we're
+seeing this dot dot to go up a level when we're doing our links inside of our
+css or html it's the exact same thing cool
+what's the difference between cd dot dot and just cd cd is going to go in
+a folder and cd dot dot is going to go up a folder so if i was to click here
+if i was to go into example i'm in the example folder now but i could go up a
+
+00:48
+level and now i can be in the class 24 folder that has example in it well i can
+do the same thing inside of my terminal here right here i'm in the class 24
+folder i can cd into the example folder now i'm in the example folder but if i
+want to go back up to the class 24 folder i can cd dot dot that takes me up a
+level where cd goes in a level annihilator a thank you for the
+hydration cheers to you get a lovely drink in alrighty
+so we saw pwd we saw make directory make dur we saw cd cd dot dot
+we also have this lovely uh way to go all the way back to our
+
+00:49
+home folder so if we were in a gui we could be on my desktop
+from my desktop i could go into my stream folder in my stream folder i can
+go into my 100 devs folder in my 100 devs folder i can go into my class 24
+folder right that was a lot of clicking right that was a lot of clicking we can
+do all of this from the terminal as well so what cd is going to do
+cd tilde specifically what it's going to do is bring me all the way back to the
+beginning all the way back to my home folder and so when i do see day tilde
+you can see that i'm all the way at the the home folder of my computer
+and then if i wanted to get back to where i was into that class 24 folder
+i'm going to have to cd into it so i could cd desktop
+and then i'd be on the desktop i could cd uh 100 devs sorry cd stream
+
+00:50
+i'd be in my stream folder then i could cd into 100 devs
+and then i could cd into my class 24 folder right and that would work you
+can see that i am now inside of my lovely class 24 folder right or
+i could do it all over again so let me see the utility to go back to my home
+folder so i'm back in my home folder and
+i can do it all in one go so i can do cd desktop stream 100 devs
+and then class 24 beautiful and i could hit enter and i
+went all the way from my home folder all the way to my class 24 folder
+and so the idea here is that we can move through our folders
+
+00:51
+using just these very simple terminal commands so we've seen pwd we've seen cd
+we've seen cd dot we've seen cd tilde we've seen a bunch of these beautiful
+kind of commands and uh now we have a lot on the screen so there's
+something i could do right there's something i could do if i
+wanted to kind of get rid of the stuff that was on the screen what could i what
+do you think i could do i've shown it once in the very beginning
+yeah i could clear i could do a clear and once i'm kind of back up here what i
+want to do is i want to move into my example folder
+
+00:52
+and i want to create an html file inside of that example folder
+will these commands work for windows as well yes if you are using git bash
+if you're using the command prompt the commands will be different so that's why
+i recommend if you're on windows use git bash
+i sent a link in the slides but there's also before before class as well there
+will be a time for you to install if you
+don't have a chance to install it so for right now absorb the commands walk
+through them and then we'll have a chance for you to install it if you need it
+cool alrighty so if i want to get into my example folder what can i do chat
+
+00:53
+cd example exactly so change directory into my example folder cd
+example beautiful now you can see that i am in that example folder
+and we have another command that will enable us to create files so
+normally to create files we open up vs code we do new file we save that as a
+specific file but when we're in the command line
+here in this lovely lovely terminal we can do something specific we can go
+ahead and do touch and then name of the file
+so here i'm going to touch index.html and as soon as i hit enter you can see
+that this html file was created it makes it bigger
+all right you can see that that html file was created i didn't have to open
+up vs code i didn't have to create a new file i didn't have to save i could just
+
+00:54
+do touch index.html and boom we have an html file all right now
+if you want to see all the files that you have in a folder
+you want to see all the files you have in a folder you can use the sls command
+and so here with ls it'll show you that right now
+inside the example folder there is a lovely
+index.html file so if i wanted to see the files or folders that were inside of
+the example folder i could just do ls and it would let me know
+what was in there and it would show me here in the terminal
+now there are what we like to call flags which give these commands
+superpowers basically and so a lot of times you hear me use the word command
+but a lot of time the things that we're typing into the to the terminal here
+they're actually just programs that are running on the computer we call them
+
+00:55
+like utilities a lot of times and so yeah you can call them power ups
+whatever you want to call it but here i'm gonna be able to do
+ls i'm gonna be able to do ls and i'm gonna do flag l and when i do this flag l
+i'm gonna get some more information about each file or folder that is inside
+of this folder right and so here you can see not only the name
+but when it was created and the permissions on that file
+it'll show you the permissions that are on that file and so you'll be able to
+see like can you rewrite it can you [Music]
+can you modify it but it gives you all that information there's also one other
+command that you'll probably use a little bit more which is ls flag la list all
+
+00:56
+i want to see it all right and when i do list all not only not only
+does it show you the files that you can see in your gui
+but it can also start to show you hidden stuff that you can't always see in like
+your your file or folder windows like in your gui
+and so a lot of times on your operating system whether it's mac os or windows it
+can do linux a lot of times you'll have hidden folders turned off like you can't
+see hidden folders like right now on my my version of mac os here i don't
+have my hidden files being shown or my hidden folders being shown so if i ever
+want to see stuff that's hidden i can do this ls flag la
+and be able to see not only the things i
+visually see in my gui but anything that would be in
+hidden in these folders as well can touch make a folder
+
+00:57
+no we would use maker make directory whenever we want to create a folder we
+use makeder whenever we make a file we use touch cool
+so this ability to see the hidden folders with this lsla
+this will be really helpful when we get to git and we want to see
+we want to see our hidden get files so later on we'll be able to see this again
+what does touch do touch creates a file it creates a file yep
+cool and we're going to do this all over again together cool
+so a few more commands i want to put into your brain and then we're going to
+get some practice using this and we're going to do this a couple times together
+so if you feel like we went a little faster
+the commands it's okay we're going to show all the commands get them in your
+brain and then we are going to uh do them all together two times so
+
+00:58
+we'll we'll create a whole folder structure using just the terminal then
+we'll delete it we'll do it all over again so we'll be able to see all these
+commands in action cool alrighty now the next command that we have is rm
+and rm helps us remove exactly spaced repetition rm helps us remove a file so
+we have if we do ls real quick we can see that there's an index.html
+in our example folder so what i want to be able to do is remove this index.html
+uh we'll we're gonna we're gonna we're gonna walk through these last few
+commands and then we'll take our break at the top of the hour come back we'll
+do some raffles and then we'll walk through using all the commands together
+so let's go ahead and do rm always be really careful please
+don't don't type these commands out just yet let me explain what they do before
+you start throwing them around all willy nilly here because they it can get a
+
+00:59
+little wild so give me a second rm i'm going to do index.html
+all right when i do that pay attention up here pay attention up here you ready
+rm index.html ready boom i literally removed
+that file using the command line poof gone we also have a another lovely command
+which will enable us to remove folders so i can go up a level chat how do i go
+up a level to my class 24 folder how do i go up a level
+cd dot dot nice so now i'm in my class 24 folder i want to remove
+my folder of example one thing you're going to notice we do
+real quick watch i'm going to type my e my x and then i'm going to hit tab
+
+01:00
+i always get into the habit of typing and then hitting tab so that it
+auto-completes the folder or file name for me
+right so i typed ex and then i hit tab and it auto-completed for me this will
+help you um make sure you're you're typing out the
+right things make sure there's no there are no like mistakes that you're doing
+it just it just helps you get move around a little bit faster and delete
+stuff so now i'm going to delete uh this example folder and poof
+you saw that the folder disappeared up in the in the lovely gui up top
+and then there is one other uh really big thing before we take our our break
+uh is this lovely rmrf folder so this is a forceful remove
+this is a forceful remove what it'll do is it'll remove the folder
+
+01:01
+it doesn't care right it doesn't care it will delete anything and everything
+and it will be gone not in your trash can gone so you must be absolutely
+100 sure you want all of this stuff gone because once it's gone is gone
+alright so always be careful whenever you're doing this lovely rf
+flag with the folder you're trying to delete because if you do this it is gone
+no one doozies no undone it's gone gone so
+i don't even know if i should say this but we're gonna say it anyway
+back in the day if you were if you were if you were i don't know
+you're trying to get someone got and you're playing you're playing i
+don't know counter-strike back in the day you would uh you would tell them to to
+alt-f4 they'd be like hey how do i do this and you would say alt f4
+right and then you see them boop they would disappear they wouldn't be playing
+
+01:02
+the game anymore because all f4 would close
+it would close the it would close the game on them now if you were like evil
+and they said hey how do i do this thing or like hey am i game stuttering how do
+i fix it if you're evil not me i was never this
+person you're evil you would say hey do this on your computer
+rm rf and then like a really important folder like their system 32 folder or
+something like that and then boof you would see them
+leave online and never come back because they worked their entire computer
+they're gonna wind up having to reinstall windows so
+i i give this as a cautionary tale if anyone ever tells you to do this
+command in the terminal because there's something wrong or going going to miss
+you now know you now have the knowledge the power to know that they're messing
+with you and that uh that whatever you use this on whatever folder you use this
+on it'll be gone now i also use these carrots here just
+
+01:03
+to say like this is gonna be the folder these these carrots aren't actually here
+it's just the name of the folder so whenever you see that these carrots
+there just remove them and know that's like the folder name that we're
+inserting there cool we are a little over the top of the hour
+there are a few more commands that i want to show to you and then we're going
+to talk about how to access the terminal so actually i want to cover those two
+things give me give me a little time to go over here
+just that if folks want to take the break to install some stuff they can
+um me we saw that when our terminal gets a little cluttered
+you can go ahead and clear and it just gets rid of the stuff that's
+cluttering your terminal and it just makes it so you can start at the top
+again so every once in a while i clear just to give myself some room
+and then uh you'll also notice that you can open files
+you can open files directly into vs code if you
+
+01:04
+uh install something specific in vs code so let me go ahead real quick i'm going
+to create a folder called example and i'm going to go into example and
+don't worry when we come back from break we're going to do this all again
+once i'm an example i'm going to create an html file
+and then what you're going to notice i can do here is i can do code
+and then the name of that file or i could do code in the name of that folder and
+vs code opens it up for me and so i didn't have to go anywhere i'm
+in this folder now i can set up my html like i normally would set it up
+i can give an h1 here it says thank you microsoft all right
+right in here super easy and so the way that you would do that
+is when you have the s code open you have you have a few things you can choose
+from you'll see code file edit selection you're going to go to view
+
+01:05
+and one of the very first commands in view is the command palette
+once you're in the command palette you'll have this install code command
+path you can see that i have it recently
+used you just you just type that out you click on it and it'll enable you to use
+the code shortcut from your terminal to just open whole folders or whole files
+in uh vs code so really powerful really really helpful and pretty easy to do
+open up vs code go to view go to command palette and then look for
+this install code command and path you do that boom it opens it all up
+yeah code dot will open up everything it's a good good shortcut too so if you
+want to take some time to do that during break maybe you could
+and then the last thing i want to say before we take our top of the hour break
+is hey how the heck do i access this terminal thing well
+
+01:06
+if you're on windows you're going to want git bash you can go to git for
+windows i would recommend that for today
+all right i would recommend going to git for windows today to get this stuff if
+you ever need these links you can always get the slides by doing exclamation
+point slides here in chat we do exclamation point slides you'll
+get all the slides for today so if you want these actual links to click on them
+have the slides open i recommend if you're on windows git bash today uh
+going into the future wsl which we'll talk about during office hours on sunday
+so get batch for tonight wss wsl for going into the future
+if you're on mac or gnu linux you probably already have a terminal application
+in your application so just go ahead and open that cool
+so you'll notice that i'm using a terminal application called item it's a
+terminal that i've installed on my operating system i like it because i can
+do cool stuff like uh have it be transparent which is helpful when you're you're
+
+01:07
+coding so you can see how mine's like a transparent window so i really like item
+if you're on mac os um it's really good terminal
+cool alrighty i know it was a lot we went a little bit quick so what we're
+going to do is we're going to take our top of the hour break when we come back
+we'll do our first like raffle that's open to everyone and then we're going to
+walk through creating a normal setup like a normal folder setup so we're
+going to create our html our css our javascript all that fun stuff let's go
+ahead and take a break and put five minutes on the clock if you're new
+around here we like to be healthy we like to we like to
+take our breaks we like to make sure that we're getting up if we're able
+moving around hydrating letting our eyes
+focus on something that's not the screen and then we all come back so you're
+going to see me get up walk away bob's going to keep you entertained i'm going
+to play some music i'm going to run some ads so that folks that are joining us
+live don't have to sit through ads when they join and then we'll be back in five
+
+01:08
+minutes so take your five minutes when we get back our first two raffles of the
+evening that are open and everyone sponsored by microsoft azure thank you
+
+01:09
+
+01:12
+so much for sponsoring us and let's go and take that break so
+is having knowledge of get back something employers look for
+um yeah absolutely it's something that you're going to use if you're on windows
+or something that you could use there is wsl now as well so
+knowing git and how to use it across any opportunity operating system you're
+using is something that's really really important uh pretty much every
+professional software engineer uses git or something very very equivalent to get
+
+01:13
+to get their work done and we're going to see that later and once we get
+through like the terminal and how the terminal works we'll see kind of how
+it all comes together to enable us to work well with engineers or even to
+enable us to work while on the code that we write every day
+will everyone think that i'm a big noob if i use the github desktop application
+um i've seen it some some employers have been a little a little skittish around
+folks that use it um but i think it's really important that you learn the
+command line anyway and you learn how to use the terminal of your choice they're
+going to be a lot of times you're going to need little utilities that run in the
+command line you're going to need these little
+these little patterns that just help you get more work done and so getting
+comfortable with the terminal and getting comfortable with running your
+commands there is really important even if you eventually do go on to use
+
+01:14
+the gui's that help with a lot of this stuff knowing the basics and you might
+not always be on a system that has access to the gui and so knowing how to
+use this is really helpful a lot of times i'm accessing like my
+computers i am accessing um the different stuff i have on my network all
+through terminals so a lot of times i'm not i'm not running code
+in a in like a graphical user interface i'm i'm running it through the terminal
+and so it's really important that you get comfortable with it that you at least
+see it and use it before you kind of start thinking about the other the other
+options as well cool alrighty if you are on ubuntu vm uh no you should
+be able to you should be fine there you might have some trouble with your
+folders but other than that you should be fine like getting to your code will
+be a little bit different but a lot of stuff we will cover in office
+hours or like i said each each computing system is gonna be completely different
+
+01:15
+uh your operating system might be different
+and so if you're running into trouble like you haven't been able to get it
+installed that's okay come to discord ask questions in our general code help
+channel and folks will be more than happy to help you
+troubleshoot your specific issue that you're having but like i said these
+commands are universal once you have everything set up so if for some reason
+your setup isn't perfect this evening that's okay
+pay attention to the commands follow along with us and then once you're able
+to after class get everything set up then you can try it again
+and if you need the slides go ahead and do exclamation point slides here in chat
+it'll give you access to all the slides we're using uh this this evening and if
+you're new and you and you kind of just want to stay in touch exclamation point
+discord that's where you'll find once you get our rules you'll find all of our
+help channels and places to get support on digging through all this stuff
+
+01:16
+uh uberfly there's no there's no uh materials for today we didn't need any
+materials because we're creating them live folks we're creating our materials
+live together so there's no like zip or anything for today because we're
+literally creating all the files and folders that we need
+because we're doing it together which is pretty cool all right
+so what i want everyone to try and do well first we're going to do some
+raffles so let's go ahead and do our first two raffles
+uh the way raffles work is once i open them they're not open yet so you don't
+have to type it yet once i open them you're going to do exclamation point raffle
+they're not open yet so you don't have to type it once they're open your
+adjustment point raffle that'll enter into a raffle we're going to have two
+different raffles each round the first raffle will be microsoft swag that's
+open to folks in the us and then the second raffle will be open
+to anyone in the world i ask that if you're in the us that you just entered
+the us raffle and if you're anywhere in the world that you just enter in the
+
+01:17
+anywhere in the world raffle um don't don't don't make this embarrassing for
+us where you win the raffle that you shouldn't have won uh so the first one
+will always be the us only one so i'm going to open that in a few seconds here
+it's not open yet all right let's start it
+alrighty so the us only microsoft raffle is open you can do exclamation point
+raffle in chat and when you do that you'll be entered into the raffle i'm
+going to leave it open for a minute and then after that minute uh we will close
+it up and we will pick our winner live then we'll do our anywhere in the world
+raffle yeah streamlabs putting in work today
+
+01:18
+that's all i gotta say look at this chat alrighty go for another
+i guess i should put the timer up right i think that might be easier
+all right another 30 seconds for this first one i should have added it from
+the beginning and then we'll close it we'll pick the winner
+and then uh we'll do the anywhere in the world raffle
+the swag is pretty sweet folks i got some last time it was pretty dope not
+gonna lie then we'll do our course our laptop
+raffle at the end our first one this evening then the next one on tuesday
+already closing this first raffle and we're gonna pick a winner
+
+01:19
+already closing the entries now picking a winner [Laughter] [Music] [Laughter]
+uh rosie but you have won the the raffle uh you can see the raffle
+winner in chat as well but rosie but congratulations you have won the raffle
+um i can see your response you said omg i can see it pop up here in the stream
+labs alert uh rosybot you will get a you will get a whisper from me
+uh here on twitch this weekend and we'll get that prize coming your way so i'm
+gonna complete this raffle and then we're gonna do our next raffle
+which is open to anywhere in the world this is the learn with leon swag pack so
+let's go ahead and open that up the entries are now open you can do
+exclamation point raffle this is open anywhere in the world if you're in the us
+
+01:20
+this will not be shipped to you so don't enter all righty
+i'm gonna write all these down too just in case but 30 seconds on here
+so everyone knows we should have the music going
+and uh we're gonna do a few raffles whenever we get to a difficult topic
+we'll do a raffle uh but we're gonna save the bulk of them for the end just
+because i know it takes a little bit of chunk out of the flow to do them all so
+we'll have we'll probably do like two more during the flow of stream and we'll
+do the bulk of them at the end all right gonna go ahead and close these entries
+and i'm gonna pick the winner you'll see the winner come through in twitch chat
+
+01:21
+three two one bomb-ish bomb-ish hey congrats on the learn with leon swag
+bompish you'll get a whisper from me here on twitch this weekend
+congratulations of bompish alrighty folks
+thank you for the the first round of the swag raffles let's keep it going
+alrighty congrats rosie butt let's get into this alrighty so
+what i would love for you to do is right now i am going to bring my gui up to
+right now i would like for you to create a normal folder setup
+so i want you to create a normal folder set up what i mean by that is think of
+
+01:22
+the normal front-end folder setup that we use for class i want you to have a
+folder that has a css folder in it a javascript folder in it and an
+index.html in it in the css folder i want you to have a style dot css file
+and in the js folder i want you to have a main js so just set up our normal kind
+of template template-esque setup that we use where you will have your
+folder with two folders inside of it and three
+files don't have to be the exact names or anything like that i want you to try
+it we're gonna using the terminal yes don't don't open up your folder system
+and try it doing the folder system open up the slides move through the
+slides if you need the commands right use the slides if you need the commands
+all right and you're going to set up your normal folder setup for
+
+01:23
+how we would have our normal folders for class so a css file a javascript
+sorry css folder javascript folder and the files that are inside
+all right we're going to put a little bit of time on the clock here
+just the folder setup nothing nothing more fancy than that just the folders
+and the files that's it if you need to install git bash go ahead
+and take the time to do that i'm going to put five minutes on the clock here
+i think five minutes will give folks enough time to install if they need to
+install anything and then try out this folder system cool bring some music on
+
+01:24
+got this for folks that are having trouble with maker
+uh on git bash run a cd just do a cd command that's empty just do cd and then
+try creating your makers for some reason sometimes if you're not
+in that home folder on git bash it will uh it'll give you trouble
+and then like i said you don't have things set up this evening that's okay
+you can take time after class to get it set up we'll go over it together after
+class got a lot of dunzos coming in that's cool that helps good to hear that
+folkman yeah that's something weird about get bash that i've noticed before
+first try all right nice oh these dunzos i feel like some of you all might have
+
+01:25
+done the homework hey look at us good to put it to use nice hey
+uh if you need get bash the link is in the slides the get for windows that's
+what i would use daddy d all right go for it caz with the dunzo hey i love it
+how do we do spaces and folder names you shouldn't don't do it
+no more spaces all lowercase you can always use that tab if you do
+have folders that have spaces in it you can use the tab to jump the space but
+you can also escape your spaces uh with the the backslash
+kind of like how we escaped our characters in javascript you can do the
+
+01:26
+same thing for the spaces in your folder names
+y should be lowercase just because some terminals have trouble
+with capital letters i just get you into some trouble every once in a while so
+avoid the trouble it's rare but happens also might not even be the terminal but
+so much like you're you're executing on these files and people are expecting
+them to be lower case or something like that so just easier give yourself some
+headaches down the line destroy all right i see y'all that's awesome
+what is code is that a command yeah it just helps you open up your files
+directly in vs code so much easier than javascript hey
+
+01:27
+well we're back on javascript on tuesday so maybe a nice little respite
+static what's not working hey what's not working
+did you do the cd trick where you just do cd and then all your make directory
+stuff all right folks one more minute we're gonna go over it
+like i said if you have too much trouble getting stuff installed that's okay
+pay attention with us tonight see the commands and then come get help on
+
+01:28
+discord after i blank did it hey there you go deja
+let's get update uh yeah it does we'll actually talk about one of the bigger
+updates to it that happened not too long ago
+passion you're going to have to set up the code command did you set up the
+command that we showed in the slides minty tuesday tuesday is our last day of
+the best weekend we're gonna do uh we're gonna splash out with everything on
+tuesday all right folks come back together if
+you didn't give it that's okay let's do this together
+let's go ahead and do this together alrighty so i have i'm going to clear here
+and i am in my example folder i want to go up to my class 24 folder
+and then delete this example folder so i
+
+01:29
+can do it all from the beginning how can
+i go up a level i'm already in example i want to go up a level how can i do that
+cd dot dot exactly so i'm up a level i'm in the class 24 folder and if i do this
+all right i got rid of my example folder
+there's there's nothing there if i do an ls in class 24 i can see that there's
+nothing here so let me clear how can i create an example folder what
+can i do to create the example folder make dur exactly and example beautiful
+maker example i now have this lovely example folder and if i wanted to
+
+01:30
+move into this example folder how could i do that yeah cd
+and then example and how how can i how can i auto complete how can i
+autocomplete something to type out the whole thing
+yeah cd ex tab yeah i just hit that tab i get the full example i hit enter and
+now you can see that i am in that example folder
+right i'm in the example folder i'm where i want to be
+and since i'm where i want to be i can start creating my other folders
+there's two folders that i want to create i want to create a css folder and a js
+folder so i'm going to do make dir again or css
+and i'm going to do a maker for my js and we can actually see that now inside
+of example we have our css and our javascript uh folders
+nothing in them right now so i'm also going to go ahead and make my index.html
+
+01:31
+which should be on the same level right my index.html should be on the
+same level how can i create my index.html yeah touch touch index.html
+beautiful now you can see i have my css folder my javascript folder and my html
+file i want to move into my css folder and once i'm in my css folder right
+i want to go into my css folder and i want to create a style.css in there so
+cd css exactly i'm going to change directory into my css folder
+boom you can see that i am in my css folder
+if i wanted to see exactly where i was what could what command could i use
+
+01:32
+yeah pwd i can see the full all right i can see i'm always i'm in class 24 i'm
+sorry example and i'm inside the css folder beautiful
+i'm going to clear just so i get more room and
+i want to create a style dot css file how can i create my style.css
+yeah just touch file.css great we can see we now have a style.css
+folder i want to go to my javascript folder
+and add the main.js into that javascript folder but i i'm in a pickle
+how how can i get to the js folder yeah i got to go upper level right i got
+
+01:33
+to go up and then down exactly cd dot dot will take me up to the root of the
+example folder and now i can cd into my javascript folder cool
+now i'm in the javascript folder how can i create my main js yeah touch
+green js beautiful so now you can see i have my full i have my full setup i have
+my example folder my css folder my javascript folder i
+have my three files my style css my index.html main.js so we have our full
+folder set up i'm going to go back up a level and now i'm at the example
+
+01:34
+folder level how could i open everything in uh vs code
+board don't forget the space i could do code dot
+beautiful and you can see when i did the code dot it opened everything for me in
+vs code so let me resize my window here and we can actually see that the
+index.html is here the main.js is here and the style.cs is
+here that code dot just opened everything for me we're going to see
+that dot again a little bit meaning like everything
+all right so i'm going to go to my index.html i'm going to do html
+i'm going to go and make sure there's an h1 in here thank you microsoft
+azure beautiful and um we should be able to open this like if it was any other
+file that we've been working with this whole bootcamp
+there you go we got the thank you showing up so we literally create it
+
+01:35
+right we created our entire folder structure all of our files
+without having to like really we didn't click at all we just kind of typed it
+all out cool we have it all going i'm going to close this
+i'm going to close this one as well and uh i want to delete it and do it all
+again could you script this you could you totally could you could totally have a
+script that you would run in the terminal where you would just type in a command
+hit enter and it would create all these files for you isn't that pretty cool
+now i'm a hacker yeah that's the beauty of the terminal and that's why
+as you get more familiar with it as you get more comfortable with it uh you can
+do a lot of really fun stuff in the terminal
+there are whole like video games that you can display in the terminal um muds
+that you can play in the terminal you can have your entire text editor if you
+
+01:36
+wanted it to like your entire code editor in the terminal we've all seen
+the primogen we've rated them before they use vim which is all of their stuff
+is in in the terminal which is pretty wild yeah cool let's go ahead and
+let's go ahead i want to delete this entire folder
+how could i delete this entire folder i love me some mods i play mods all the
+time all right i want to go up a level mods are multi-user dungeons they are
+text-based mmos basically have you ever played like you ever heard
+like world of warcraft imagine if that was like text based you're a lot of fun
+alrighty so i'm i'm in my class 24 folder i want to delete the entire
+
+01:37
+example folder i'm going to do the the forceful removing of it and ye
+you can see everything everything just disappeared my stomach
+still always drops just a little bit i've done that command a bazillion times
+thousands and thousands of times i still always feel a little
+anytime i hit enter all right let's do it one more time and then we'll move on
+and start getting to get all right so we we got our we got our muscles warmed
+up here let me clear everything and we're going to do a we're going to
+
+01:38
+do a we're going to do a speed run here oh yeah all right you ready so
+speedrun any percent front end setup let's do it
+all right so we want we're in our class 24 folder we want to create our example
+folder so we'll do maker example cool then we're going to move
+into our example folder once we're in our example folder we'll do our maker of
+css we'll do our make of js then we'll move into our css file we'll do a
+uh we'll do a a style dot css then we'll go up a level we'll
+cd into our js folder and then once we're in our js folder we'll we'll go
+ahead and do a main.js and then we will cd
+back to our example folder and we'll do a touch index.html
+
+01:39
+and then we will open it all in the s code and then once we are in vs code
+we will do html and then once we're in that we'll go ahead and put our h1
+and we'll say thank you microsoft azure beautiful save it
+open it in the default browser let's go clip it
+so we just created our entire folder structure we just created our entire folder
+structure uh now you're just showing off yeah a little bit
+we just created our entire folder structure directly in the terminal
+and we used all the commands we learned so far we were able to
+create directories with makeder we were able to move around our directories with
+
+01:40
+cd we were able to make files using touch and
+we were able to open up all of our files in vs code using the code command
+beautiful how did you get the code command working
+in the slides that give you the exact steps you have to do you have to go to
+view you have to open up the command palette and then you have to type in
+that command that was in the slides all right lexus confirmed indeed
+all right folks uh let's do another raffle that was fun that was fun we got
+through it we saw the commands uh let's do a raffle
+we're gonna do a raffle and then we're gonna jump into get
+let's do a raffle and we're gonna jump in the git so first raffle i'm gonna
+open up is going to be a microsoft swag um it's gonna be a microsoft swag
+and so let me open it up one second i'm gonna start the giveaway now you can
+do exclamation point raffle to get in here
+
+01:41
+we're gonna put 30 seconds on the timer here
+and then we'll take our winner and then we'll go ahead and do the anywhere in
+the world raffle for the learn with leon swag 30 seconds you got this
+get in here exclamation point raffle don't know how to type it it's on the
+screen all right i'm gonna close it up and we're gonna pick our winner
+keep grabbing the wrong mouse all right here we go closing our entries
+
+01:42
+pick a winner three two one ciao how fun all right there we go chow have fun
+congratulations yeah you did it uh i will send you a whisper on
+i will send you a whisper on twitch this weekend and we'll get you
+all set up with that swag pack coming your way
+let's go ahead and do our next raffle which will be for the anywhere outside
+of the u.s anywhere outside the u.s open now exclamation point raffle get in
+here you got this one and put 20 seconds on the timer sorry
+been open for a little bit cool you got this come on get in get in i see
+
+01:43
+y'all getting in exclamation point a raffle
+hope you're having a little bit of fun with the terminal i know at the
+beginning it's a little rough it's a little tough but
+we'll get a lot of practice in it'll make more sense as we go through thank
+you for being here all right let's let's let's uh pick the winner here
+let's pick our lovely outside the us winner closing the entries
+picking the winner three two one ryan zelesk
+ryan celeste congratulations you see your your lovely uh message here in in
+chat uh ryan celeste congratulations i'll send you a whisper here on twitch
+
+01:44
+this weekend alrighty ryan congratulations
+marking it down here on my end beautiful already folks let's get back into it
+we're going back to the slides here and uh we're gonna have a little bit of fun
+we're gonna learn a little bit a little bit a little bit a little bit of get a
+little bit of gear all right who had never heard of git before
+tonight i'm curious in chat never heard of git before before tonight
+all right so we gotta we quite quite a few folks okay nice
+so i'd like to see all right so we're going to learn about the the the basics
+of git tonight i'm going to try my best to kind of explain like why git is
+really useful why as software engineers we're going to use it
+all the time so let's talk about git for a bit and then we're going to see some
+of the common commands we're going to start putting it into action and then
+
+01:45
+we'll take our break and when we come back for break we'll do our raffle so get
+um solves some very important problems for
+us but before we get there i want us to think back to um
+what you might have done while working on a really important word document so
+i mentioned the other day during class that i had a really unique experience in
+high school in high school i started off with floppy
+disks being the way i saved and backed up stuff and then
+by the end of high school i was using flash drives
+and so for me whenever i was working on a really important word document
+and i was in the library trying to bang out my essay just minutes
+before it was due i was always really concerned that the computer would die
+
+01:46
+or something would happen and all my work would be lost so beginning of school
+what i used to do is i had i pay a quarter for floppy disk
+and i had like four floppy disks like i wasn't playing no games and so i
+would get like almost all the way like everything i every time i had like a
+significant progress on my word document i would pop in my floppy disk i would
+save it to the floppy disk i would take the floppy disk out and i put it i put
+it on another floppy disk as well so i had two freaking floppy disks that had
+the backups of my paper because i wasn't playing no games i had to get stuff i
+got to get that turned in i was playing no games and so
+i used to back up my word docs every single every bit of time i made progress
+i would back them up twice right every single time i made like
+significant progress i would save it i would back it up twice and and that that
+enabled me to to feel a little bit better with myself
+uh some people are saying zip disk yeah we had we had like floppies
+
+01:47
+zip this for a few months and then and then flash drives and so
+eventually like as my high school career
+went on i would switch from floppy disks to thumb drives and i always carry two
+thumb drives i was the cool kid with the thumb drives on like the lanyard right
+yeah let eat your heart out right and i would
+back up my word document my essay onto two flash drives every single time
+because i was paranoid that something would happen the power would go out i
+would lose all my work and i wouldn't have it
+right so i always backed up two to two two times then as i got to university
+uh i didn't really need to use flash drives
+or or floppy disk anymore i did the uh delete
+way of backing up my essays or my word documents anybody know how i used to
+back up my word documents once i got to university like this was like the next
+
+01:48
+level i would email it to myself like every five paragraphs i would like save it
+i would save the word doc and then i would like email it to myself
+like every every five paragraphs or so like i wasn't trying to get caught
+i would i would ever i'm just paranoid every little bit of changes i would like
+save it i would email it to myself and back then if i wanted like others to
+work on the essay with me we were doing like a group project i would like save
+my my my my essay i would email it to them they
+would like make their changes before like track change or anything like that
+they would make their changes like in a different color
+and then if i wanted to like i could like merge in their changes if i wanted to
+like it was just it was a hot mess thank you microsoft 365 for having automatic
+backups and i don't have to worry about this anymore right but the the
+
+01:49
+this idea of like saving a snapshot of our essay or our word doc
+and backing it up so that we always have copies of it but the other cool thing
+was if i just went on like a tangent like a complete tear
+and my essay just dissolved into like a really weird argument what could i do
+like if i just hate it the argument that i made in my essay what could i
+do that fell out i feel this i would just go like two emails back
+grab that copy download it and start over again right so this like process
+of saving my essay emailing it to myself having the ability to like roll back to
+previous versions of the essay being able to share those changes with others
+is something that i did because i was paranoid about losing my
+work or because i wanted to work with others or because i wanted the ability
+
+01:50
+to roll back to a previous version of my essay
+this is like a very very simple version of what we call version control
+and git solves this problem not for your word docs or your essays but for your
+code git gives you the ability right it gives you the ability
+to make save points to be able to say you know what i like
+where i'm at right now i would love to be able to come back to this point in
+time right this point in time and use the code that i had written then
+i would also be able to take these save points and maybe put them on a service
+like github so i could share my current code with everyone or if i needed to and
+say i completely borked my entire computer i rm
+
+01:51
+flag rf my entire desktop and i got rid of all my code well my my save points
+would be on the cloud all right so this idea of backing up and saving was a
+really my early rudimentary version of version control and that's all git is it
+just solves this problem of needing backups the ability to roll back to
+previous versions to then eventually be able to take snapshots of where we are
+that's what git does so git is a version control system and all
+a version control system is is like a really fancy term for tracking changes
+changes to your code that you make or others on your team make to the code
+that you're working on and once you embrace git your life changes
+it really does change because it enables you to
+take what we call snapshots there's like more technical jargon we can throw on
+
+01:52
+here but we're gonna say snapshots um and they're just save points like you've
+gotten so far in your code i want to save where i'm at right now maybe i want
+to come back to it later maybe i want to do something else different right so
+getting able to take these snapshots and these snapshots you make by making a
+commit so commit is just a fancy term for creating a save point
+so eventually when we are using git we are going to make commits and
+whenever you hear me say the word commit all i mean is i am taking a snapshot of
+my code it's the same thing as if i had zipped it up and emailed it to myself it
+is a snapshot that i can use later on i can come back to
+and this liberates you in ways that you do not yet know if you have never used
+git and eventually github in the future cool so
+get one of the most beautiful things is that once you make a snapshot you can
+
+01:53
+roll back to a previous snapshot so let's say you are writing your code
+and you get lost in the sauce and you're like this is horrendous i should have
+never ever done this what was i thinking instead of having to do command z
+command z command z command z command z command z command z
+right instead of having to do all that we could just roll back to one of our
+snapshots all right we could just go back to one
+of our snapshots and just start anew from where we were before
+the other thing that we'll see in a little bit
+is that we can create branches where we can say all right i like where i'm at
+let me create a specific branch where i can just
+i can just go down this wild rabbit hole
+
+01:54
+and if i don't like it i just go back to the other branch that i was on so git
+gives us this beautiful ability to create snapshots that we can either roll
+back to or that we can save in the cloud or that
+we can use a bunch of other features to like make it easier for us to take risks
+to do things that we might not feel comfortable doing to experiment to try
+and know that we're not going to keep up everything else right i'm telling you
+get really does help get this fear out of you like i think when new or
+entry-level engineers are first really starting to do
+really difficult stuff there's always this fear that i'm going to mess up my
+code that whatever tangent i go down it might break all the other stuff well
+with git you can always roll back to a previous save point you can always back
+up your saves to the cloud using github and if you really want to do something
+
+01:55
+experimental or have fun you can create a branch go down a rabbit hole delete
+that branch entirely it's a really beautiful system cool so
+i know that's a lot to throw on your plate
+i i see some folks are saying amazing i see a lot of folks that see that this
+could be fun so let's do a raffle when we come back from our break when we come
+back from our break we're going to see get
+we are going to give you the ability to see the basic get commands
+and if you do not have get installed already you can take a peek forward
+on how to install it but i'm going to walk through all those those things
+together but we're going to take our break because we're at the top of the hour
+when we come back from break we'll do a raffle and then we're going to jump in
+to get i want you to have this superpower today you walk away with a
+superpower this ability to remove fear from your coding process the ability to
+
+01:56
+save snapshots or roll back points or have the ability to experiment and save
+your code to the cloud it's going to change your coding life so
+five minute timer if you like to be healthy if you're able
+please get up move around hydrate kiss some babies we'll be back
+in five minutes for a raffle and we're jumping in to get can't wait
+all right folks i'll see you in five i'm gonna run some ads uh so that other
+folks that are joining us don't have to sit through them see you then
+the raffles after the break folks it's not open yet
+haunted happy place uh private repos are completely free so not everyone has to
+
+01:59
+
+02:01
+see it talk about that a little bit do where do you post clips at the end of
+the stream i will in the following materials channel when i do like the
+follow-up after stream i'll post a slider where you can submit your clips
+i'll say this this this run since microsoft is sponsoring i'll do a i'll
+match a swag so the best clip gets swag this evening as well
+not just the beautiful golden color alrighty folks come on back come on back
+we got two lovely raffles to get through let's go ahead and get this raffle
+
+02:02
+wrong headphones let's get this raffle dud and then we'll move in to get so i'm
+gonna open it up it's not open yet oh y'all love to get in here quick all
+right so this is for folks in the u.s i'm going to open it up in three two one
+it's open you can do exclamation point raffle to get in if you did it earlier
+you were not in so type it again thank you again microsoft azure for
+sponsoring anybody has to do all these lovely raffles get in here folks
+gonna put 20 seconds on the timer you got this alrighty get in here
+then we're going to get into get we're going to see this amazing super power
+
+02:03
+and action we're going to see how to get all of our code also on github we're
+going to see how the host it's going to be awesome alrighty
+let's go ahead and close these and pick our winner three two one zank
+nods thank canad hey congratulations you should see your name in the uh in
+the stream in the stream as well congratulations i'm gonna complete this one
+and we're gonna do our outside the us learn with leon swag
+entries are open get in here exclamation point raffle if you're outside the us
+
+02:04
+beautiful get in here get in here 20 seconds left on the timer
+this is the best this is the best week ever
+we're learning we're getting swag what this is the best alrighty folks
+i put this timer over here i'm going to close the entries
+i'm going to pick the winner three two one norro leptique
+a congratulations on the win uh for both the folks that just won you'll get a
+whisper from me here on twitch this weekend congratulations neuroleptique oh
+that's interesting good one congratulations everybody
+let me go ahead and complete this see your woo
+
+02:05
+all right let me uh just mark that down over here and we'll keep going we're
+gonna get into this get folks i'm excited this is like one of my favorite things
+for you to unlock it's literally a superpower it'll change
+how you handle your code going forward all right
+i love when the music just like times perfectly with us continuing
+all right there are many ways to install git if you are not able to install git
+before class that's okay you don't have to have your fingers on
+the keyboard for this section i'm going to show you the important bits we're
+going to see it live and then we're going to do some raffles so don't feel
+like you have to have it installed already
+if you're on certain operating systems it comes installed but if you're on
+windows i recommend git for windows for today that'll walk through git bash
+it'll give you a version of git that you
+can use and then eventually if you're if you're on windows for the rest of 100
+devs you should use wsl so both these links are in the slides
+
+02:06
+and then if you're a mac os i really love homebrew
+so what you would do is you would take this link here
+and you would grab it and you would paste it into your terminal over here
+whenever you see the bling like the money sign that's not something that you
+enter into the terminal that just means anything that follows this gets entered
+into the terminal so you would grab from that forward slash over and then you
+would paste that into your terminal over here
+once you do that you would have homebrew
+install homebrew is what we call package manager it's like a really easy way to
+install applications on your computer so you could then do brew install git and
+it would install git on your computer you don't have to like go to a website
+you have to download something you don't have to unzip it you don't have to run
+an executable um homebrew is for mac os but there are plenty of package managers
+for window and then even gnu linux so homebrew is really cool
+whenever i want to install something i don't like actually go on the internet
+
+02:07
+and install stuff like i just go to homebrew i want to install firefox or do
+brew install firefox right and so yeah the idea here is that there are similar
+things chocolaty exactly for windows as well
+but package managers are amazing they just enable you to install stuff really
+quickly um they handle like all you can do all the updates and stuff like that
+as well so big fan of home brew on mac os
+uh good new linux uh if you're on it and
+certain flavors of good new linux you're
+gonna have different package managers so if you're on debian or ubuntu you would
+use appgit and you could just do an update and an install and that's how you
+could get git but you should already have it installed on gnu linux you just
+want to have the updated version and then once you have git installed
+no matter if you do it right now or if you do it after class don't worry if you
+don't already have it installed just do it after class
+once you do have it installed there's two commands that you almost you always
+want to run these commands before you do anything else right so these two
+
+02:08
+commands are really important these will set your global username for git
+and your global email for git and whatever email you use it should be
+the email that you use for github just to make your life easier okay
+so whatever you set up for your name and email just make sure it's the one that
+you eventually use for github when you create your github account it will make
+your life a little bit easier but what this does
+what this does is it makes sure that every commit that you make
+is identifiable to you like it'll show you that like oh you were the person
+that made that commit and maybe when you're working with other engineers
+it'll show that they made the commits and so are those snapshots right so also
+make sure you have these two things set up some folks forget about it and then
+they go to get their code on github and they have some issues so make sure you
+
+02:09
+have these two commands once you have get up and running cool so um
+i'm gonna give folks just like a minute or two to try and get get installed and
+so i am going to uh run a raffle while we let folks try and get installed
+if they want you don't have to like i said i'm going to show you some small
+commands that you can do on your own but we're going to put a timer up on here
+we're going to do like um just do or not three minutes
+three minutes if you just want to try install git it's all right
+um i'm gonna give you three minutes and then
+while we're doing that we're gonna do some raffles cool
+so i'm gonna do the first raffle for folks in the u.s
+let's go ahead and open that raffle there we go
+we do exclamation point raffle we'll let this go until like 1
+145 and then we'll close it and then we'll do the outside the us
+
+02:10
+and so right now feel free to try and install git if you don't already have it
+um a lot of you probably already do especially if you uh follow the
+instructions before class if you don't already have git that's
+okay like i said we'll go through it together regardless
+and if you get really stuck sometimes when you're installing git it just it just
+does the most if you have trouble come to discord ask questions come to office
+hours ask questions we'll help you get set up all right
+
+02:11
+all right folks i'm going to go ahead and end this one and close the entries
+pick a winner mermadet remember that hey congratulations
+you won the ms the microsoft uh swag pack mermadet
+go ahead you're gonna whisper from me this weekend congratulations [Laughter]
+all right let's go ahead and complete this one and we're going to open up a
+another one for anyone outside of the u.s opening now you can do exclamation
+
+02:12
+point raffle to get in all right about 40 seconds left
+all right come on get in here and hit zero i'll close it uh for that person
+it's going by a really fast chat because of all the raffles but
+some folks have trouble making directories when they're in git bash if
+they don't do cd to their home directory first it's like a cd with nothing after
+it takes you home directory and then some of the commands start working so
+try that all right let's go ahead and close this one
+and we're gonna pick a winner mental ram hey mental ram
+congratulations you'll get a whisper from me this weekend with your learn
+
+02:13
+with leon swag congratulations mental ram all right uh you know what
+let's do another one let's do let's do another round if folks
+are still trying to install we got them let's go ahead let's do another round uh
+we'll go ahead and do another microsoft raffle
+another another raffle sponsored by microsoft azure so we go ahead and open
+that up real quick one second all right three two
+one it is now open exclamation point raffle another round
+i wish we could do this every class just
+like whenever we needed to do like break time or like you all are working on
+stuff just raffles that'd be dope all right let me let me just put the
+timer on here just going to use this for 30 seconds we're not going to go the
+full 3 minutes and do 30 seconds i'll stop and then
+
+02:14
+we'll do the next one and then we'll we'll get back to our get
+this is the uh us microsoft swag yes all right i'm gonna go ahead and close
+the entries now pick a winner three two one lav underscore underscore lav
+congratulations on the swag live congrats you'll get a message from me on twitch
+uh i'm gonna actually i'm just gonna copy
+your name because i don't actually know how many underscores that is
+uh so hopefully there's not a lav with one underscore
+all right laugh congratulations i'm going to complete this raffle we're
+
+02:15
+going to open up one more anyone outside the u.s
+garland key hey thank you for the five get the subs i appreciate you thank you
+for being here all right that's open exclamation point
+raffle anyone outside the u.s can get in here let's go alrighty
+15 more seconds and then we'll close it then we're going to get into get
+unleash your your your get super powers and we're gonna be able to store our
+code on github and that's gonna change how we submit homework it's how we do
+
+02:16
+everything going forward boom you get swag you get swag exactly
+alrighty go ahead and uh close this one out i'm gonna pick a winner in three two
+one nick's woolery nick's woolery hey congratulations nick's woolery
+you'll get a whisper from me this weekend we'll get that learn with leon swag
+coming your way all right folks let's get into some get shall we alrighty
+let's chill the music we did our raffles lovely
+we still got plenty more raffles to go folks we still got
+let's see we still got three more microsoft raffles three more regular
+
+02:17
+raffles um and uh and uh a laptop raffle folks
+the raffle bot was broken last raffle i don't think so i still saw the entries
+come in i think eventually um i think eventually the the messages are
+too much for twitch because there's so much of them um but yeah no i saw all
+your entries come in there was like 800 plus entries so they came in you
+probably just didn't get the the ping or the message but it was it was working
+you know cool yeah ticket bot passed out exactly
+all righty let's talk about some basic get commands uh there are really kind of
+like four or five commands that you're always going to use
+i'm going to show the simplest versions of these commands know that as you get a
+little bit more into it they're going to be special flags that you would use
+there's many ways to select everything in slightly different ways i just want
+to show the simplest things that would kind of build off of what we've already
+
+02:18
+seen in the terminal and then as you kind of get more into git you'll learn a
+little bit more and a little bit more of the flag so give me uh give me a little
+a little bit of wiggle room here flag a versus dot we're gonna use docs
+already saw dot today and what it could do all right beautiful so
+we talked about get being able to take snapshots of our code right
+well we need a special folder to put our snapshots into
+and that special folder we create using git init
+so with git init we can create a special folder that we can store
+all of our snapshots in we are initializing a git
+repository so you're going to hear the term repository and so just think of a
+special folder where we're going to store all of our snapshots in it all
+
+02:19
+right so we're we're not we're this is not top boy we're not
+london slang around here we are creating
+a special folder or a repository for our snapshots okay
+alrighty so we have get in it we're going to create that special
+folder so i'm actually going to do it right now if i wanted to see all the
+folders that i have right i want to see all the folders i have including hidden
+folders what would the command be in chat if i want to see all my folders
+including hidden folders ronan got it first nice ls-la
+if i do that i can see all the stuff that's inside of this example folder i
+can see that there is a css folder a javascript folder and an index.html file
+right and so what i want to be able to do is i want
+to be able to create that initialize i want to create that special folder i'm
+going to initialize that special folder for our snapshot so i'm going to do git
+
+02:20
+init and you can see i i created an empty git
+repository a place where i can store those snapshots now if i was to do an ls
+i wouldn't see that repository i would just see the the css folder the
+html file and the javascript folder and so that's kind of really the first time
+that our ls-la can be really useful right when i get all the goods i can
+also see this hidden repository this hidden get repository so
+that ls flag la can be really helpful to see if there's a git repo already in
+your folder or not should i be doing this on bash if you
+want to you could also just pay a lot pay attention as we move along there's
+only a few commands that we're showing that i want you to be comfortable with
+cool so once we have this repository where we can store our snapshots
+we're going to want to gather all the files that are going to make up the
+
+02:21
+snapshot but we don't kind of just chuck them into the git repository or that
+that special folder that we just initialized we're going to gather
+everything on a stage before we take our snapshot and put it
+in the folder it's kind of like if i was going to
+email myself all the stuff i was trying to save i have to put all that stuff
+like into a folder before i zip it and then email it to myself well the same
+thing happens when we're using git we have this special folder we're going to
+store our snapshots in our repository but we want to gather all the stuff
+before we put it into that folder and so git add
+enables us to kind of grab all the stuff that we need we're actually going to
+need our css folder we're going to need our our html file we're going to need
+our js folder and so what we're going to do is we're going to add all of that to
+a staging area and so git add just adds all those files
+
+02:22
+and folders to a staging area eventually
+we can use a special command to take the snapshot that saves all that stuff into
+the repository beautiful so here if i wanted to
+i could add an individual file so i could do something like git add index
+dot html and that would add that file right that would add that file to my
+staging area i could add any file that has a certain ending
+so let's say i had a bunch of html files i could do asterix
+uh dot html and that would add all of the html files to my staging area
+and if i just wanted to add everything to my staging area i could
+just do git add dot right like i said there's some other
+
+02:23
+ways to do this but i think this is simple and so if i do get add dot
+i now have added everything that i had right all of my stuff
+that was in this folder is now in a staging area
+i haven't put it in my snapshot folder right i haven't actually saved it to
+that special folder yet it's in it's on the stage it's in the staging area right
+and when i am ready i can take a snapshot of everything that's on the stage
+and put it in that special folder right the special word that we use
+to take the snapshot of everything that's in staging is called commit
+right we're going to commit our files and folders that are in staging
+and once we commit them we add them to our special folder right so if we were
+
+02:24
+going to draw this out we would have our special
+repository over here where all of our snapshots get saved
+before we put them in that special folder we have a staging area
+what git add dot does is it enabled me every single file that was in this folder
+just got added to staging my css folder my html file
+my javascript folder all that got added to the staging area
+what i will do next is i will commit all this stuff that's in the save in the
+staging area and put it into our special repository and then we
+will have kind of like a little save point that's in that repository
+all right now we could do this over and over again
+
+02:25
+right we have our special area that has one save point but i could make a bunch
+of changes right i could add a bunch of new files a bunch of new folders
+and if i wanted to i could add them all the new files to our
+staging area so i could have my original html file my new html file and my
+javascript file once i feel comfortable i could take that snapshot
+and add a new save point to my repository so if we look at the commands that we
+learned no if we look at the commands that we learned we had get in it
+which created that special folder where we're going to save all of our snapshots
+then what we're able to do is we're able to add individual files or
+all of our files and folders to a staging area
+
+02:26
+eventually whenever we're ready we'll go ahead and commit all those files and
+folders to take a snapshot that gets saved into that original repository that we
+created cool now if i wanted to right now have i made that snapshot
+have i made the snapshot yet no i haven't made the snapshot yet so i can
+actually do something pretty cool i can do git status and git status shows me
+all the stuff that is being that is waiting to be
+saved that's waiting to be part of that snapshot you can see all the stuff
+that's waiting to be committed so right now i can see that oh
+
+02:27
+i have my css my index.html my javascript we've added it all to what
+area we've added all these files and folders to what area
+the staging area yep we added them to the staging area and if i wanted to
+i could actually remove files from the staging area if i wanted to with this
+command this will enable me to remove just say like my index.html from the
+staging area but once i feel comfortable i can commit
+everything that's in this staging area take a snapshot of it and that snapshot
+gets saved into my git repository so what i'm going to do is i'm just going
+to do git commit and i'm going to do it the the long way and then i'm going to
+show you a something scary that might happen so i'm going to do git commit
+i'm going to use m for message and i'm going to leave a special message
+
+02:28
+about this commit so i'm going gonna say this is uh all of my original
+files and folders hello twitch right so now when i hit enter
+you can see all of my history has now been saved as a snapshot and
+that's now in my repository until i get rid of it and so the idea is now if i
+look i do get status you can see that there's nothing to commit
+everything has been saved so all these steps all this did is like if you've ever
+played a video game and you hit saved right you hit save and then like you
+turn off the game you go away and you come back and you load up that
+save file that's exactly what we just did right what we just did is we said all
+
+02:29
+right wherever i'm at in the game save this point in time
+right save this point in time and then at any point in time i can come
+back and pick up exactly where i am i could come back at any point in time
+right i could come back at any point in time and go back exactly to where i had
+this folder this folder this folder this html file with everything exactly the
+way it is now let's say i added a new file so i'm going to go ahead and do touch
+about.html so i have a new file what i want to do is create a new save point
+that has this about html in it as well so i could do get add dot
+if i did a git status you can see that you can see that i'm i'm i haven't made
+
+02:30
+a snapshot with the about yet and then i could do git commit
+dash m and i would say add it the about html file boom
+now i have two save points that are inside of my git repository
+i have one save point that had just the index.html
+and i have another save point that has the index.html and the about html
+so just like i used to create saves and email them to myself or make saves and
+put them on a floppy disk or make saves and put them on a flash drive
+i now have the ability to have multiple save points multiple snapshots
+
+02:31
+right multiple snapshots that i can roll back to whenever i want to all right
+i can come back to any of these snapshots i can come back to any of
+these versions and so this is very freeing
+because if you're if you're ever playing a really really hard video game
+if you're ever playing a hard video game
+and you know you're about to go and play the boss
+like the big boss that you're about to go up and play what do you do before you
+fight that big boss you save you save your game before you go and
+fight that big boss you should do the same thing with your code
+before you tackle that next feature before you tackle that next bug before
+you tackle that next big thing you have to get done
+create a save point create a snapshot get add dot git commit
+
+02:32
+right you now created a save point so that if you go up against that boss
+and you lose you can just go back to your previous snapshot you can go back
+to that save file right and so that's all we're doing here we're
+creating these save points these these snapshots that we can roll back to if we
+need to cool now there's one other thing that i want to do
+uh and that's eventually i want to get to branches
+but before we get to branches we're definitely going to do a raffle because
+it was um this was this is this is a lot to take in
+there's a lot to take in uh we'll we'll we'll practice rolling back during
+office hours i think i'll be a little too much for right now so come on sunday
+i'll show you how to roll back the previous same points but i am going to
+show you how to see all your commits there's one thing that i want to bring up
+before we kind of move on and do a raffle
+is that there are kind of two ways to do
+
+02:33
+commits you saw me do the easy way which is the git commit flag m text
+but what often happens is people just do git commit and they get themselves into
+a tricky spot let me show you the tricky spot you can
+get into so let's go and create a new file um touch uh tricky dot html
+and i'm gonna go ahead and add it i'm going to commit it
+but i'm not to do the flag m ready i'm i'm not going to do the flag m
+that leaves you to put the message right there i'm just going to hit enter
+and uh oh many many uh many have adventured and found found
+themselves in this this area uh what i just did is when i did git
+
+02:34
+commit and i hit enter it dropped me into a text editor
+that exists solely in the terminal so there are text editors that you can use
+vim v emacs these things that exist as text editors that are only in the
+terminal so if you were to ever just hit git commit what it does is it says oh
+you're trying to type a really long commit message so i'm going to open up
+the editor in your terminal so you could write this
+really this really long commit message so we're gonna do i
+and then we can type in whatever the heck we want right for our commit message
+and then we can hit escape colon w q hit enter and now we've made our commit
+[Laughter] so if you ever find yourself in trouble where you just did commit
+
+02:35
+git commit and you wind yourself in vim you're going to want to do a few things
+you're going to want to type the letter i the letter i enables you to insert and
+like type stuff and then when you're ready to leave that
+text editor you got to hit escape colon wq and then hit enter and that'll take
+you out of him and back to the terminal so i don't ever really use this
+if you watch a lot of other streamers here on twitch like there's some folks
+that are really good at this stuff primogen is like
+going all wild in here right we love watching them we read them we rated them
+before right this is just the emergency if you find
+yourself in here and you need to know how to get out you always have these
+slides to refer to i type your message escape colon wq hit enter all right
+but most of the time you're just going to use this type of commit message
+yeah i agree vim is awesome it's definitely worth learning i just think
+it's too much in the rabbit hole for for this class but definitely something you
+
+02:36
+might pick up in the end corey lr hey thank you for the 10 gifted
+subs that's wild thank you so much thank you for being here cool
+alrighty there's one other thing that i want to mention too is that if you
+haven't installed or updated git recently you're going to notice
+something really interesting if i do get status
+it will always tell you what branch you are on and we're gonna we're gonna get
+there in a second we're gonna do our raffle and then we'll talk more about
+branches but you can see that i'm on branch master and around october of 2020
+um there was kind of a movement to switch away from master and start using
+main and so github was one of the folks that kind of led that charge and so it's
+maine now so if you are to use an older version of git
+you would probably still see master and so you would want to change the
+
+02:37
+branch you're working on from master to main especially if you know eventually
+you're going to use github because github's going to expect your main
+branch where you're doing all your work where you're doing everything to be
+maine so we can change that real quick and then we'll do our raffle and then
+i'll talk about what the heck branches actually are so get branch m
+main beautiful so now if we do get status we can see that we're on branch main
+cool alrighty let's go ahead and do a well-deserved raffle
+well-deserved raffle we now know how to make save points in our code that's so
+helpful to be able to make a save point and know that if you if you
+up everything else you can come back to that save point and
+have everything the way it was all your folders your files exactly the way that
+they were all right let's go ahead and run a
+
+02:38
+raffle we'll do a microsoft raffle first one second gotta set it up all right
+opening in three two one all right get in here you gotta if you typed it in
+early you got to do it again exclamation point raffle
+put 30 seconds on the clock here boom get in here this is for folks in the us
+exclamation point raffle hard topic raffle our topic raffle
+all right folks get in here we got this we got this all right
+
+02:39
+come on let me uh go ahead and close the entries here
+i'm gonna go ahead and pick a winner and the winner is [Laughter] 06
+is the winner congratulations cuckoo cachoo 06 congrats
+all righty let's go ahead and uh complete and then i'm going to open up one for
+anyone outside of the u.s it is now open exclamation point raffle to get in here
+beautiful we'll look at branches we'll see a
+little bit about github and then we'll finish up the evening
+
+02:40
+with two more sets of raffles and a laptop raffle which is pretty wild
+all right ten ten more seconds get in here see y'all entering
+alrighty let me go ahead and close the entries
+we're going to pick a winner in three two one eddie from two five four
+is the winner congrats eddie two for eddie from two five four
+congrats on your lyric leon swag um and oh six and eddie from two five four
+you'll get some whispers from me this weekend to get you all set up with that
+swag congrats alrighty let's look at these idea of branches
+
+02:41
+which i think are some really amazing wonderful
+things that really changed my coding life and then we'll look at um github and
+then we'll call it with some raffles and do a raid already folks so
+we learned about git and we saw that git can make commits
+or snapshots of our code that we can roll back to if we want to right
+but what if you want to try something without borking all your code
+git actually gives us this really wonderful feature that we don't have to
+rely on just rolling back we can actually kind of create branches from
+our main code so if we have like our code base that we're working on and we
+just want to try something want to like try a feature we want to kind of do
+something that might be a little risky we can make a branch
+
+02:42
+right we could make a branch we could do all of our changes in that
+branch and if we don't like it we can just go back to our main branch or if we
+do like it we can merge everything from that branch into our main set of code so
+let's go ahead and take a look at this this idea of branches so
+i'm going to go ahead and clear here and i'm going to do a git status
+by looking at this what branch am i currently on like where am i at like if
+we're thinking about all my code what branch am i on i am on
+main beautiful so we can see that i'm on main what i can do
+is i can create a new branch where i make all my like risky stuff happen
+so i'm going to create a branch called risky cool
+
+02:43
+and then i have to check out that branch so i'm going to do git check out risky
+and if i do a git status you can see that i am on branch risky cool
+so what i want to do is now that i am on my risky branch
+i want to go ahead and make some changes i want to i want to create a risky file
+something that i wouldn't want to do on my main set of code something that like
+i know i'm going to go deep down into a rabbit hole
+right i want to i want to try something out if i don't like it i just want to be
+able to get rid of it so let's go ahead and make a risky file so i'm going to go
+ahead and touch risky.html beautiful so we can see that i have my
+risky html file i have my risky html file and what i want to do is i want to go
+
+02:44
+ahead and do my normal process add all my changes commit all my changes
+and then i want to go back to main so i'm going to go ahead i've made my risky
+changes i i have my risky html file uh that was something that i didn't know
+if it would break a bunch of stuff so i'm just going to go ahead i did it i'm
+going to do my get add get add dot i'm going to do my git commit dash m
+uh i made some risky changes all right and i'm gonna do a git status
+you can see that i'm on the branch risky i made all these risky changes
+i however don't like the path that i've gone down
+i wanted to go back to my original set of code
+right i want to go back to my original set of code pay attention real quick here
+
+02:45
+we can see right now i'm on the risky branch if i do a get check out main
+what just happened did you see it we switched the main
+and risky's no longer there all that all those changes we were worried about
+all those changes that we are afraid of it would break all of our code they're
+going because i went back to maine let's go ahead and uh get checkout frisky
+as soon as i check back out risky all of my code all the risky stuff i did on
+that branch comes back and i can do it i can use it however i want
+i can go in i can make a bunch of changes what if
+you had a bunch of different features you were working on what if you had some
+html features some javascript features you could do them in different branches
+if you wanted you could do the things you were worried about in a branch if
+
+02:46
+you wanted and if you didn't like it you just switch back to where you were
+noise that's pretty cool i love coding me too this this is so cool
+you can you can you can you can now write code risk free
+right you can make a you can make a a whole branch
+you can go wild to your heart's content and then if you don't like it it's as
+simple as get check out maine you're back to where you started
+all that risky business is gone cool can you combine branches heck yeah you
+can so let's say you did enjoy the risky business you eventually figured it out
+
+02:47
+you liked it you you thought it was a good change and you wanted to be part of
+your main code well you can just do a git merge we do get merge risky
+right and there we go we can see risky is back you can see risky is back
+if we do a git status you can see that we are on main
+where does it keep the files from the branches we aren't using well what did i
+do with those files that were on the risky branch before i jumped back to maine
+what did i do remember what i did what did i do before i jumped back to maine
+i committed them so i made a save point so that save point is saved where where
+is that save point i made of risky saved yeah i committed them so that that save
+point gets saved in our git repository yeah in our original folder that we
+
+02:48
+created so even though it's on a different branch
+it's still getting saved into that folder
+oh rossi i like to i like to merge stuff
+back into maine maine's my main branch i do all my risky stuff all my fun stuff
+and then i merge it back into maine cool but i hope that i know like a lot
+of this the very first time you see it is this is this is a lot right it's a
+lot the first time you see it i'm so happy some of you are like like mind
+blown amazing right but don't feel pressure on yourself to think that all
+this terminal stuff is something that should be clicking right now no come on
+come back re-watch the vod follow along at your own pace the slides
+i think these are some good slides every command that i have used
+i have put into the slides step by step so you could
+come back to this vod come back to these slides and literally go slide by slide
+
+02:49
+and have all the exact commands especially if you didn't get a chance to
+watch the videos and do the homework coming into this class where you
+practice some of this beforehand but you can come back to these slides you can
+come back to this line by line and work through it on your own cool and then
+come back on sunday we're going to get tons more practice in we're going to do
+all this we're going to do rolling back we're going to do all the fun stuff that
+makes get a superpower cool so we just used a branch we created
+that risky branch we had our fun we liked it we merged it i want to show you
+one really cool thing and then we'll end with all of our raffles
+and that cool thing is github we have all these save points
+all these save points that we could roll back to maybe a bunch of branches that
+we want to swap back to but right now they're all what they're all where
+
+02:50
+yeah they're all local they're all on my pc and knock on wood
+i got to get some salt to throw on my shoulder if my laptop was to die
+all the stuff that i had saved would poof and disappear
+so the wonderful thing is that we can take these get repositories these places
+where we're saving our snapshots and we can have a remote backup
+github enables us to take our snapshots and put them in the cloud
+so with github i can take all the snapshots i've been writing
+saving sorry and i can put them onto a remote area
+right so i can i can take all my local snapshots and save them in the cloud
+using github so it's the ver it's the difference between a local repository
+and a remote repository we can we can we can have all these backups in the cloud
+
+02:51
+so the cool thing about github is that not only is it backups in the cloud
+which public and private repos completely free
+was that leon so that was that was simba not only was not only do we get these
+beautiful backups in the cloud right but we also get a whole suite of
+tools that make it easier to work with developers because now developers can
+take our snapshots they can download them they can make their own changes in
+their own branches and do all that fun stuff and we can have these shared
+repositories on github that make collaborating with other engineers way
+easier there's also a lot of other tools that come with github
+lots of really neat stuff like hosting through github pages but they also
+rolled out actions and so now whenever i put my code on github we're going to
+call it pushing whenever i push my code to github i can also trigger a bunch of
+
+02:52
+other stuff to happen like have my stuff host it somewhere it's really neat so
+github at the beginning is where we're going to use backups but for now
+if you don't already have a github account make one after class so that way
+you can push up the code that we did today to to to github have it saved in the
+cloud uh you you can never say again leon i didn't turn in homework because
+my computer died well guess what every time you made some code you should have
+pushed it to github so all your code should already be on
+github cool so once you create a github account
+you can push your repositories up to github so i'm going to show you how to
+push your code or your git repo to the cloud to github
+all right so from github's website we go to github
+i'm just going to go to my profile here confirm cool
+
+02:53
+we go to github and i have this lovely plus sign i have this lovely plus sign
+and when i click that plus sign i can create a new repository
+and this new repository right this new repository yeah look at this us
+young lee i need to get i need to get a new headshot new repository
+and when i click on new repository i can
+name the repository so i'm going to name that repository um we love microsoft
+so that we're going to name this repository we love microsoft it'll be
+public meaning that anyone can see it i'm not going to do any of these extras
+i'm just going to create the repository and the beautiful thing about this is it
+gives you all the commands that you would need to run to get your code
+up here on github um so these are all the commands that we could do if we
+
+02:54
+didn't already do them but we already created our own git repository we could
+add a readme file which is like a text file that says um kind of like what's
+happening in your repo we'll get into reading these later but
+it's just basically a text file that comes along with the repo to explain
+what's in the repo what's there i'm actually going to share templates with
+you for your readme so that your readmes look really good
+crisp whenever somebody's looking at your github your github portfolio is
+going to be popping i got you uh you can see we already committed our
+code we're already on main so a lot of this stuff we've already done so the
+only really two things we have to do is add our remote
+and what the remote means is that it's where we're going to send our code
+that's not local local would be like on my actual laptop
+remote is like all right where am i sending this to remotely and i'm sending
+it to this place on github so i'm going to go down here i'm going to paste this
+in get remote add origin and then the repository created we love microsoft
+
+02:55
+and then the last thing i have to do is just push up my code so the very first
+time you do this you need the get push u origin main
+every other push afterwards is just get push let's go ahead and paste in
+hit enter it'll take a second you can see i pushed everything up and
+if i refresh this page you should be able to see all the code
+that we've worked on together today right so now this code every single
+thing we worked on is now stored remotely on github it was just a few seconds a
+few clicks i know it's fast the first time you see it right but you can come
+back re-watch the vod at your own pace do it your pace but it really is like
+three or four clicks to copy and paste and boom
+all of our code is now backed up on github and we get all these goodies we can
+share this with other we can share this with other developers we can even go
+ahead and look at all of our commits so if i click this right here
+here are all the commits that we made uh
+
+02:56
+so you see the original one that was all my original files and folders you can
+see all the stuff i added if we go back we can see all right
+here's where i made some risky changes and here all the stuff i made you can
+see all the commit messages that i made right so here's the one that we did in
+in in vim and then here's like all the other ones that we did with the command
+m so the beautiful thing here is we have all of our code here it's public
+i could share it does it handle assets yes you can you can upload your images
+all your stuff here right for me i had my i had something called
+an ssh key here so i didn't have to enter my username and password
+but if you haven't set up your ssh key yet when you hit get push and you hit
+enter it would ask you to put in like username password um but i think that's
+changed recently too but whenever you enter a password in the terminal
+it's not going to actually type out your password it's just going to look blank
+right yeah it's going to look blank so you might have to do like an extra step
+
+02:57
+to get a token set up or things like that i'll share a file after class but
+once you have that set up it's just as easy as i showed yeah cool
+all right so the other the last thing i want to show you is that all of our code
+all right all of our code right yeah github now
+needs a token yep um now all of our code is on here right if i want to host it
+it's only one more step you ready i'm going to create a new branch called gh
+pages and i'm going to go ahead and click create branch gh pages
+all right so now i've created a branch called gh pages and so now
+if i go to leon noel dot dot leonuel dot github dot io slash we love microsoft
+
+02:58
+and i go to my index.html it's going to take a second for it to to
+load like it's going to take us it takes like takes like i don't know like
+20-ish seconds or so for it to get there um but after you wait those like 20
+seconds or so you'll see that um you'll see that it'll have it'll load
+our actual html file that we just typed in it takes a little while for it to
+like upload that's why but if we give this a few seconds and then come back it
+it would work so we go ahead we love microsoft we have
+our index.html that was the name of the repo right
+we love microsoft yep so now we have our gh pages we give it a few seconds and
+then once it once it's there we it's hosted our code is completely hosted for
+free it's uh we don't have to do anything
+else we could share that url with anyone we wanted to share it with and it would
+just it would just work so we'll wait like 20 seconds or so
+
+02:59
+we'll come back and show it but yeah the idea is that everything is hosted now
+that's pretty dope that's pretty dope so not only do we have
+the ability to make save points now we have the ability to like create
+branches to do risky stuff we can take all of our save points and put them on
+github so we can share them with others so that we can have backups in the cloud
+of all of our code we can have a whole suite of tools that makes
+it easier to work with other developers as we're working on our code we get free
+hosting all of our html css jobs all of our static files are hosted right
+it's completely free how often should i push save commit as often as possible
+i do it quite frequently every major thing that i work on every feature
+whenever i'm like gonna go take a break i push it
+there's really no downside to pushing too often and you get all these other
+
+03:00
+goodies get all this other cool stuff and you can see our site is fully hosted
+so thank you microsoft azure for sponsoring this class
+uh for helping us unlock the power of git and github uh for helping us
+entry level engineers get free places to host our code
+private repositories are completely free what
+look we could share this link in chat and it would work that's so cool to me
+this is the coolest stuff ever cool already folks that's that's the whole
+kit in caboodle let's uh let's come back and
+we talked through github we talked about how to host our repos i think it's time
+to end with some raffles um but your homework if you haven't tried it yet is
+now that we know a little bit about git come back on sunday we're going to get
+
+03:01
+more practice in the terminal we're going to do more with branches we're
+going to do more rolling back to our save points right we are going to get
+more practice on sunday but between now and sunday i need you to do some
+homework if you haven't yet already you can click this link
+and when you click this link you'll be prompted to give microsoft
+your email give them your email come on they give us so much swag and cool stuff
+uh and then you'll see two two courses i want you to do the intro to
+github course right the the intro to github course is great
+because it shows you all the extra features that we haven't been able to
+touch on yet in just this class that we're going to be using going forward so
+i'm expecting you to get through that course before next tuesday ideally
+sunday because we're going to talk a lot about all those extra features but
+starting next tuesday we're going to use a lot of those features going forward
+and so make sure you do the intro to get helps you understand all the cool stuff
+
+03:02
+that like once your code is on on github what can you do with it so that's the
+link you need the link it's it'll be in the follow up on discord after this
+class it's just the aka dot ms learn with leon it'll take you to the
+intro to github course it's a phenomenal
+course it'll help you learn all the cool stuff that you need to learn for github
+and then we're going to start using that next week
+all right let's end with some raffles we have we have let's see one two three
+we have two more uh microsoft raffles two more learn with
+leon raffles and then we're gonna raffle off the laptop so let's go ahead and
+start our first raffle here one second all right the microsoft raffle is open
+exclamation point raffle let's get in here
+huge shout out to microsoft azure thank you so much for sponsoring this class
+
+03:03
+thank you for continuing to sponsor 100 devs thank you for making your tools
+free for entry level engineers to use it really does help a lot
+all right let's put um another 20 seconds on this timer let's
+do 15 because it's been running for a little while
+call 15 more seconds and then i will close it up
+we'll do it anyone outside the us we'll do another microsoft we'll do an outs
+we'll do outside the us and then we'll do the laptop
+mr clutch hey thank you for the posture check
+garland key corey lr thank you for the gift it subs
+these clouds hey thank you for the hydration cheers to you
+all right let's go ahead and close this one
+
+03:04
+we're gonna pick the winner three two one the ned13 bened13 congratulations you
+got a microsoft we got a microsoft swag pack coming your way
+let's go ahead and start a raffle for folks outside of the us this is for
+outside the us open now go ahead and get in
+actually hold on it might not be open yet one second i asked you to do it again
+i'm gonna try it again oh no it's open it's open uh i didn't complete the last
+one sorry all right that one's completed
+go ahead and do type uh expedition point
+raffle again if you're outside the us it wasn't open all right get in here
+
+03:05
+another 15 seconds on the board there then we'll do one more microsoft one
+more outside the us and then we'll call it all right gonna close this one
+bo's gonna pick the winner for the learn with leon swag
+xox siren xox siren congratulations on the learn with leon swag
+i'm gonna grab that we're gonna open one more microsoft raffle
+you're inside the us go ahead and get in here exclamation point raffle
+this is our last microsoft swag of the evening get in here
+
+03:06
+15 more seconds on the board we'll be a little bit of fun learning
+some git and github i know it can be tricky the first couple times you see it
+but come back on thursday uh sorry come back on on sunday we'll go over it again
+and then tuesday thursday we're going to keep working on it too so
+lots of fun with apis on tuesday reminder tomorrow the best week ever
+continues we have our a wonderful first friday with friends we'll announce the
+special guest soon their amazing contributors community really excited to
+have them for the first friday with friends
+saturday we're taking over our place on reddit
+sunday we're back for office hours monday we're going to do a little bit of
+a mentor monday and some the portfolio resume review and then tuesday we're
+back with the last day of the best week ever tons of surprises really excited
+all right let's close this one closing the entries picking a winner
+
+03:07
+valve storm one hey valve storm one congratulations on winning the last
+microsoft swag of the evening we got one more to go for folks outside the us and
+then we're doing the laptop folks all right so this is for folks outside
+the us exclamation point raffle it's open get in there
+and then we will do the laptop and what a beautiful laptop it is folks
+let's pull that back up look at this surface laptop go it's so beautiful oh
+so sleek so lightweight ugh log in fast love it love it love it love it
+alrighty let's close this last outside the us raffle i'm gonna pick the winner
+
+03:08
+three two one alrighty congrats x140 q41 x140 q41 congratulations on that learn
+with leon swag everyone will be getting whispers from
+me this weekend so keep an eye on your twitch whispers we'll get everything set
+up to get the swag coming your way uh we're gonna open up the last one this
+evening this is for a new surface laptop go so sleek so beautiful
+let's go ahead and get that one open one second
+alrighty the the the name of this giveaway is laptop baby
+let's go ahead and start it get in here this is open to anyone i'll send this
+sucker anywhere so go ahead exclamation point raffle open the every single
+
+03:09
+person let's put a minute on the clock minute on the clock get in get in get in
+alrighty get in here 30 seconds left alrighty folks we'll do this last raffle
+
+03:10
+and then we're going to raid and do the last raffle and then we're going to raid
+we're going to go over to hiccup interactive we haven't been there in a
+little while they're working on a spawn randomization counter and how
+awesome is that because we were working on randomization for the rock paper
+scissors i think this would be a good raid uh let's go ahead and this is for the
+laptop folks let's go ahead and close the entries once again thank you all for
+being here thank you microsoft azure for sponsoring this stream and let's go and
+pick this winner remember we're gonna have one more
+laptop on tuesday and so if you want to be part of that raffle on tuesday make
+sure you do the homework you have to have done the homework you want to enter
+into that raffle on tuesday for another surface laptop go all right let's pick
+it then we're going to raid alrighty the the the the lovely
+the lovely entries are closed we're going to pick a winner three two one
+
+03:11
+all right thundering light you are now the proud owner of a surface laptop go
+under in light congratulations on your new laptop beautiful surface laptop go
+alright folks let's go ahead and cue up the raid
+remember you want those sweet sweet channel points
+let's spread some love and positivity you haven't given them a follow before
+give them a follow let them know where you came from we're gonna skew it up
+hope you had some fun hope you're enjoying the best week ever
+we'll do the pokemon cards and some other raffles on tuesday tuesday's gonna
+be the best stream for the best week ever uh so we'll get all the extra
+special raffles and stuff like that we're we're a little over time we're 15
+minutes over so we'll be respectful people's time but tuesday we'll get to
+everything i hope you had a wonderful time once again thank you microsoft
+azure we appreciate you everybody see you all tomorrow or friday with friends
+
+03:12
+if you can make it if not i'll see you saturday if not i'll see you sunday if
+not i'll see you monday if not i'll see you tuesday let's raid peace youtube

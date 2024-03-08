@@ -1,0 +1,2534 @@
+
+00:00
+hey good morning good afternoon good evening no matter where you're coming
+from hope you all are doing well welcome back it's tuesday folks
+we outside we online let's go what's going on everybody welcome back
+hope you all had a good weekend you're in the u.s hope you had a good holiday
+weekend hey can we do a yolo today i don't know
+we'll see if chat is tight tonight we'll do a yolo i gotta be careful with these
+jolos though we getting too close folks i ain't trying to buy new bathing suits
+this quick you know what i'm saying you know what you know you know what i'm
+saying i'm just i mean we'll if if we're good we'll do it but like
+it's getting a little too dangerous in these streets
+
+00:01
+what's going on everybody welcome back hope you had a good weekend excited to
+see you all we had a good office hour i feel like office hours pretty good we
+answered a lot of questions i'm glad to see you all back tonight
+tonight's where it gets real folks after tonight ugh
+after tonight you can build the api of your dreams that does anything
+and we're going to see how to put it together how to pull all the pieces
+together and not only will it be the api of your dreams
+but you can put it online anyone will be able to use the api that
+you build starting tonight that's right folks we're learning how to build our
+apis with express we're learning the beginnings of crud
+we're going to be able to do those reads those gets right
+and then we're going to be able to put all of that hard work on heroku so
+anyone out there on the internets can play with our api consume that content
+
+00:02
+get that json goodness we're not going to jump right into it we
+always gotta get a little bit of review in
+got to get a little bit of our our node our back end review how things are
+actually happening touching that event loop just one more time and we're gonna
+jump full bore into express we're gonna start the beginnings of cred tonight
+we're gonna start the beginnings of putting our stuff live for others to see
+and then thursday we finish up with the rest of crud so we had a lot of fun
+stuff to get into a lot of stuff to get into tonight a lot of little things to
+review and a lot of little things to do we're gonna be coding along live this
+evening so if you want to have all the materials that i am going to be using
+later today you want to make sure that you're on our discord exclamation point
+discord will give you that link in the follow along materials channel once you
+agree to the rules there's a channel called the follow-on materials channel
+you can grab all of our starter code that's there there's also like even like
+the finished product is already there for you so if you're trying to like type
+along or you're following along but you missed something i have the complete
+
+00:03
+solution already in those files for you as well i'm ready this is this is
+this is top three classes for me because after tonight you have the power
+you you have the power to actually build real stuff that real people can use and
+i know the crud reading was tough somebody on neko chat said the crud was
+aptly named i know the card reading is tough
+i know some of you were able to work through it without with the wolf pack my
+wolf was going through it i know the reading was rough
+we're going to make it make sense tonight we're going to make it sense
+right going to make it make sense on thursday and remember around these parts
+we use then we understand and then we build
+with it and so tonight is about using it
+seeing it starting to connect the little dots here and there then we'll build up
+that understanding over the next few classes and then we'll start to build
+
+00:04
+real wild stuff i'm excited for y'all folks this is
+where the rubber meets the road it's where you feel like you can actually
+start to build real things and i want that for each and every single one of
+you you put in all this work just to get to this moment right now
+all right you put in all this work just to get to this moment right now because
+after tonight's class you can build real stuff cool
+alrighty let's get into it as always like to give folks a few seconds to get
+in here if you got some questions i got some answers hey welcome back everybody
+any advice or resources on regex so with regex don't solve your code wars
+using regex try and solve them without it any interview that has you solve a
+coding challenge with regex run from that company as fast as you possibly can
+
+00:05
+we're learning how to solve coding challenges regex is not really a tool
+that we use to do that it's a way to manipulate strings and so you can learn
+the basics just learn the basics through
+just any tutorial you can find but don't commit to solving the coding challenges
+using regex uh try and do it even if even if the number one answer is using
+regex don't use it it's a lot more fun to do with it out i
+agree but it's also so we can practice our data structures our algorithms fun
+stuff like that yeah because you could do you could do all
+the string problems you could do all a lot of these problems just using regex
+and then you get into an actual interview and you try to bust out the
+rejects they're like oh don't use regex and you're like so practice it without
+are there any resources for data or databases to create apis without instead
+of compiling all the data ourselves i'm sure there are cap but that's the fun
+
+00:06
+part well not the fun part but it's it's often the part that makes your api
+differentiate from others right if somebody else has already collected all
+that data then there's probably already an api for it and so figuring out how to
+collect all the data is a whole other class and of itself right you can get
+into things like web scraping or some other fun stuff to get that to get that
+data but that's not something that we'll we'll probably cover
+yeah but i i know some folks have built some apis just from straight scratch i
+know some of the bigger apis that use like like they're based on like fantasy
+characters they kind of crowdsource it so there are a lot of things you could
+do to get that data hey caleb welcome are we allowed to use any already
+existing apis for 100 hours projects yes if if the api itself is not like a
+crucial part of your of your project like if you're still building a full
+stack web application and that api is giving you some data that you need to
+
+00:07
+use then yeah by all means you can incorporate those apis but don't have
+that api be like the key portion of your app
+right if you're just using it to get some data then that's totally fine
+i missed you missed the last two classes should i listen on this one yeah we're
+gonna have enough review uh char chart that you could probably get caught up
+with what we covered last class uh in the first hour or so and then we're
+touching on all new stuff um but it's not too wild if you missed the last last
+week yeah should you monetize your api hey it's up to you
+if youtube is anything there's so many videos that's like monetize your apis
+make money with apis well i guess i'm doing something wrong i haven't been
+making money with my apis yet but maybe you can after tonight
+
+00:08
+luan we're really backed up on all that stuff so just give us a little bit more
+time we'll reach out to you cool a few more questions and we'll get
+started i always want to get folks that are running from from work the chance to
+get in beyond said i'm ready let's go can i change my 100 hours project after
+i submit it sure um but make sure and any other kind of homework submissions
+that you give me the updated version just so i have it
+we put things like the cred tutorial on our github or just the code wars in our
+projects i'm a fan of putting everything on github as long as you have a really
+good readme for it yeah uh please post the massive js review to
+youtube yeah i got you it's coming soon i had to edit it down a little bit i'm
+going to try editing this one a little bit down and see if that helps with the
+
+00:09
+numbers our content's really not made for youtube i just put it on like i know
+like youtube's like not something that that we like
+that we need to do well with but it does a lot of folks have been finding us
+through there so i'm kind of interested in like if we kind of remove things like
+i don't know like the five minutes that are in between or some other stuff that
+keeps the attention span going if that would help more people find the video so
+i'm editing it down a little bit and then we'll post it i'll probably post it
+tomorrow just because folks been asking for it
+uh will the car class be recorded no so friday's class will not be recorded it's
+one of the benefits of being live if you can we'll do a couple more of them cool
+alrighty folks let's get into this we got a lot of stuff to cover tonight
+glad you're all here let's lock in we got this if you haven't already please
+go ahead and check in right if you haven't checked in yet please go
+ahead give the exclamation point check in we'll give you the link for today
+
+00:10
+remember just typing exclamation point checking doesn't do anything you gotta
+click the link go to twitter like retweet it remember the slate has been
+wiped clean right slate has been wiped clean
+if you want the goodies that come at the end you gotta be checking in hey
+uh manny said first time joining in can i join boot camp now and wait until next
+season uh we have no idea if there will be a next season or when they'll be next
+season because we're only about halfway through this current one so definitely
+join our community you can actually should play 100 devs to get everything
+join the catch-up crew on discord we have new folks that join us every single
+day we have a wonderful supportive community on discord that'll help you
+catch up uh as you go at your own pace cool everybody thank you for checking in
+this friday 6 p.m this friday 6 p.m um monty we'll get to it uh for the for
+folks that asked about linkedin if you weren't added in the first rounds
+it's because you didn't have like your profile photo and
+
+00:11
+your um like your profile filled out but if you have everything filled out just
+give us a little bit of time we're really behind on a lot of stuff right
+now we're just um we're kind of backed up on a lot of kind of the the admin
+stuff so give us a couple more days and we'll get you in all right
+car class this friday 6 p.m 6 p.m so uh we're gonna come we're gonna have
+an hour it's gonna be an hour we're gonna do live car we did a few live
+together during class but i want you to see how you should formulate your cause
+action result for each of your behavioral and then each of your
+eventually your every kind of technical question will have its own acronym we
+have car eu and prep so we're gonna do a little bit of car and if we have a
+little bit of time we will do one prep as well
+alto said tell people to stop adding me on linkedin without messaging uh folks
+stop outing alta on on linkedin without messaging if somebody from 100 devs
+tries to connect with you and they don't
+
+00:12
+have a message it is your duty to ignore them
+to to click no to click cancel to say absolutely not
+do not connect with folks on linkedin without sending a message hey hello how
+you why you're interested in connecting with them
+i can just say hey i'm also 100 dabs i'd love to connect with you simple as that
+don't be disrespectful send a message not today just [Music] [Laughter]
+always always send a message when you go
+to connect with someone it gives you the option of sending a message don't send
+the message independently that's a whole
+different thing when you connect there's
+a way to send a note a note yeah you put it you put the note as you connect
+some folks are saying that it doesn't show the ui in the app then make sure
+you're doing it from the desktop yeah yeah some folks are saying don't use
+
+00:13
+mobile there's no no option great use use the desktop version then yeah for
+sure you absolutely have to send a note cool all right car class this friday 6
+p.m office hour sunday 1 p.m we got a lot of good material to get
+into today and thursday a lot of express stuff to review and so make sure you're
+coming to these office hours they're jam-packed
+all right networking i need you to bring the networking back
+i need you to bring the networking back one coffee chat this week i'm not asking
+for much i'm just just just just one this one one yeah you know tiny
+itsy bitsy coffee just one this one having one on thursday hey that's
+
+00:14
+awesome did it before class oh let's go digital welcome yeah alrighty
+just one just give me one got two scheduled for thursday okay i see a russy
+and remember as you're scheduling these wonderful coffee chats make sure you're
+using the sheet exclamation point sheet here in chat make sure you're using the
+sheet if you haven't finished your checklist please make sure you finish the
+checklist you can always do actually point checklist to grab it uh one of my
+favorite things is i always have up like my like my twitch page or my twitch my
+twitch like i don't know it's it's called the dashboard
+and in the dashboard there's a part of chat and so one of my favorite things is
+like all throughout the day i see people popping in the chat to use the commands
+like they'll do exclamation point checklist they'll do exclamation point bank
+uh so yeah know that you can always come back to chat if you need those things
+they're all commands here i see you all throughout the day it's pretty pretty
+
+00:15
+cool expand get out of here all right remember you should be pushing every day
+you should be pushing every day you should be doing a code wars every
+day and you should be pushing that code wars live every single day remember our
+recruiters love these green squares they do they do they do and an easy way
+to to pass that sniff test right to pass that sniff test
+right is to just be coding every day get that code wars done every day make sure
+you're part of the clan exclamation point clan make sure you're climbing
+that leaderboard make sure you're pushing every day make sure you're
+getting those delicious green squares it's gonna pay off in the end big time
+not only will be better prepared for your technical interviews you are going
+to have a github that looks clean that that recruiters are going to love to see
+cool if i can solve leak code easy brute force should i do that instead uh knock
+
+00:16
+yourself out we'll be slowly transitioning to leak code in the future
+but for now we're still on the on the uh the wonderful code wars train
+did your first 6q today first try fairy hey that's amazing congrats
+all right submitting your work if you haven't submitted the freelancing last
+call for the freelancing submission before we release the final numbers oh
+boy i think we'll release the final numbers tomorrow i just want to give
+folks one last chance if you haven't submitted your freelancing stuff please
+submit it if you had something that was like an hourly arrangement submit the
+total hours that you think that you're going to have like the total amount just
+makes my life a little bit easier yeah so last call so we can include your
+numbers in the final number it's big folks it's real
+big it's way more than i thought it would be and if you haven't submitted your
+checklist stuff 100 hours project stuff your code war stuff i'll give you one
+more day get it in no worries i didn't see anything up
+
+00:17
+until right now you're good all right we also
+today before class in the newsletter in the newsletter uh there was a
+secret raffle for vip and i grabbed all the names right as
+class started like right before i went live i grabbed all the names there were
+700 plus names before i started there's like way more now because some people
+come to chat and there's some there's some snitches in chat they're like
+they're like oh if you check the newsletter today i don't know ho ho ho
+and then everybody floods in and and jumps into it so i got you got got
+it's like i took it i took it before before you all came in so if you open
+the newsletter you would have found a sheet to be entered into the raffle
+uh for for vip so let's go ahead and run this real quick
+
+00:18
+cymas2 congrats on your vip i'm going to give it to you right now vip
+boom there you go congratulations thank you for opening
+the newsletter it really does mean a lot i put all the goodies in the newsletter
+it really does help when we try to attract things like new sponsors and fun
+stuff like that so all the goodies in the newsletter thank you for the folks
+that open it before each class all right we gotta have a talk folks the
+is going to become more and more important
+as we kind of get into this second phase you can do exclamation point newsletter
+exclamation point newsletter if you need access to the newsletter
+you have to click the link though don't just type it in you got to click the
+link to go sign up as we move into this second phase
+right as we went to the second phase of boot camp the second half
+
+00:19
+i need you to do the homework okay i need you to do it
+uh i am going to be running class and and with the assumption that you have
+done the homework right that you've at least
+at least given it a good honest attempt uh reading through it
+doesn't mean you have to be perfect at it does it mean that it has to
+to to be you understand every single bit but i'm going to expect that you've at
+least gone through it that you've made the good old 100 devs try
+that if you got really stuck maybe you went to mine will stream because they
+went through the homework live all right you've done some things to just become
+prepared because we're going to start doing a lot
+of things a lot more code along a lot more like in the mukwit code and i can't
+
+00:20
+do that if you're not up to date on the reading so i'm going to give homework
+as always i'm going to try to give you at least like a week in between when
+there's reading when there's reading i try to give you like a week in between
+and unless i think it's something that you can get done pretty quickly
+and i need you to come ready with that because if you're not you're gonna
+you're gonna be behind in class so you gotta make some time for this homework
+cool now a lot of this stuff is going to be heavy don't worry
+we're going to go over all the important
+bits uh as we kind of go through them in class so it should always be a first
+pass don't don't don't feel bad or lose sleep
+if it doesn't click while you're going through the homework come to class
+that's what class is for cool all right uh we mentioned last class about jake
+archibald and phil roberts those two videos i asked you to watch
+just so you have that really deep understanding of the event loop and
+you've seen it you've seen it practiced a few more times just by myself if you
+haven't watched those two videos those are foundational videos if you want to
+
+00:21
+be a back end engineer with node you have to watch these videos they're that
+important and then i also just want to shout out
+zell i know the cred reading can be tough but zell's the best
+honestly hands down some of the best tutorials on the
+internet they are one of the very few folks that can make it somewhat
+approachable that can um cut through all the crap and just get
+right to the the meaty stuff of it um so please
+if you haven't done the zell reading you have to
+i'm going to share all their socials and stuff too they're one of the best folks
+on the internet when it comes to explaining what is some
+very difficult stuff and so um i assigned it the reading for homework you
+need to go back you need to read it and you'll see that i'll be assigning a lot
+of their other stuff you'll see some of the examples i use are
+are kind of in the same vein because it really is that good cool
+yeah his work is really more simplified compared to other articles absolutely
+
+00:22
+it's just it doesn't get better so please make sure you're going through it cool
+alrighty they have a lot of other tutorials yeah so we'll we'll see them come up
+throughout class but jump into the ones you feel like you need to cool alrighty
+now a lot of this stuff is coming up a lot of stuff that we're going into a
+lot of this new stuff has to be in your anki
+right has to be in your anki you got to be doing banky on a regular basis
+remember all those questions that are in
+the bank they need to be an anki for you now i'm going to eventually share
+a sheet that has the answers but remember you get more out of it if you find the
+answers on your own but i know that some folks um
+
+00:23
+don't have that privilege of time so i will share i will share
+the answers to all of them um but remember you need to be doing banky every day
+whether you've built the answers yourself or you're going to use one of
+the the solutions right make sure that you're putting in time every single day
+you have to start now you have to start now so by the time
+we're in the thick of the hunt things are locked and loaded
+cool so every day as you're doing the cold wars you should be pushing it to
+github and you should be doing some anki if you don't know what to do for any
+given day you should be doing those three things code wars push it to github and
+spaced repetition every single day if you only have
+enough time to do your code wars push and space repetition i prefer you do
+
+00:24
+that than read the homework or do the homework
+like that's how serious this is like this is something we need to be doing
+every single day you need to be finding the time for it it's that important
+because i know a lot of y'all are doing the homework
+where's your bank yet where's your code wars at come on now
+gotta be doing it every day we gotta be doing it every day
+i'm not saying i'm not seeing that i look at some of your githubs you give me
+your games i look at them i'm not seeing green squares everywhere i don't know
+i don't know y'all said you wanted it y'all said you wanted it i'm telling you
+how to get it the folks that have been to my previous
+cohorts that take the bank seriously those are the ones that magically get
+jobs without a technical interview because when they're in those
+behaviorals when they're in those first technical rounds that aren't the coding
+
+00:25
+challenge they just sound good it comes out like
+butter they've been practicing for months please let those good things happen to
+you by doing your cold wars in the bank every day
+my cold war solutions are garbage but i'm getting my green squares hey let's go
+we're baddies we write bad code i don't care get it done i love it
+write your bad code be a baddie and then look at the solutions
+look at the solutions you're a betty right back code hey guess what we can go
+look at the solutions when we're done and then we can add those solutions to
+our anki and we keep it rolling we keep it rolling [Laughter]
+tina has entered the chat hey be like tina exactly cool all right
+we're going to jump into the back end folks we're going to do a little bit of
+review but before we jump into the back and we need to talk about javascript
+
+00:26
+all right what do i mean by javascript is single
+threaded we'll do a little bit of review and we're going to jump into express
+folks synchronous one thing at a time exactly javascript is single threaded it's
+synchronous it does one thing at a time things should block we do a lot of stuff
+on the internets that doesn't block when we scroll
+or like when we like something and then keep scrolling how are we able to keep
+scrolling we're waiting for the like to like to go from like gray to red right
+all these things that we should be having to sit there and wait for our set
+timeout our set intervals we're not just sitting there waiting for those things
+to happen we're able to keep moving out throughout the rest of our program do
+other stuff but if javascript is synchronous single threaded
+it should block we should only be able to do one thing at a time and then we
+
+00:27
+should have to wait but why why are we able to do things that don't block
+kind of i jumped at it for a second why are we able to do things that should
+block yeah we're handing off all of these things
+all these asynchronous tasks to the environment right the
+environment and with the environment we're not talking about this
+we're talking about my favorite gif of all time this
+right it's where we're running our javascript that matters our javascript
+is running in the browser and since our javascript is running in the browser the
+environment is the browser and since we're running our javascript in the
+browser we get access to a bunch of apis
+a bunch of web apis that enable us to do all that asynchronous stuff that
+javascript on its own could not do because it is single threaded it is
+
+00:28
+synchronous and blocking so with our javascript running in the browser we
+get access to all of these web apis what are some of the web apis that we get
+access to since our javascript is running in the
+browser what are some things that we've we've talked about so far that we get
+access to yeah the dom is one uh fetches
+are another set timeout set interval all these things that we were using for so
+long that just felt like regular javascript
+come to find out actually aren't part of javascript they're all web apis that we
+get access to since we're running our javascript in the browser now
+one of those web apis that we saw was set time out so here i have a normal
+function it's going to console.log house1 i have another function it's
+going to console.log house2 and another function that's going to console.log
+
+00:29
+house 3. if we look at this set timeout it has no delay by today no delay right
+so no delay so we would expect right as the rational beings that we are that
+when we call house one if a console house one we call house two we would see the
+console log for house two and when we consolidate house three we
+would see house three so we expect to see one two
+three however that doesn't happen when we console log this we can go ahead and
+open up our console we open up our console and we paste this in we get one three
+two why the heck do we get one three two when there is no delay by today
+
+00:30
+oh i love this yes so many good answers we're handing this set timeout is not
+javascript it is a web api which means since we're trying to use web api it has
+to be handed off to the browser the browser is what enables us to do those
+asynchronous tasks those asynchronous tasks are completed and then we push the
+result like whatever we get back the promise that comes back from that web
+api is put where where does that promise get put
+people pay attention to people watching videos let's go let's put in the queue
+exactly task q job q micro mac it doesn't matter it gets put into the
+queue we'll just say q for now cool and when do we eventually get that
+value out of the queue like when do we like go to the queue and get it out yeah
+
+00:31
+and the stack is empty all right we learning are we outside let's go
+yeah when the stack is entered we can go back to the queue and get stuff out the
+queue so what would look like it should be one two three is not because this two
+gets passed off the web api and there's no way to get the response back until
+the stack is empty so no matter how fast this is meaning zero delay
+it's still going to run after the things that come further down the page only
+once the stack is empty do we get the stuff out of the queue now we got got
+due to the event loop right when we had this zero
+even though there was no delay we got got because these values were being
+handed off to the browser the browser executes these asynchronous tasks it then
+takes the response right puts it in the queue and
+eventually we get it out of the queue once the stack is empty
+
+00:32
+right so we don't have to to go and tag all of our jabroni friends we actually
+know why we got got and it's because things are being handed off
+the browser to be done asynchronously before coming back to us
+cool so to really understand how this is happening like what is actually working
+we need two key data structures and we kind of already mentioned them and if
+you're new around here this is a really fast review of something i spent two or
+three classes on that's why everybody knows the answers and that's why we're
+going a little bit fast is because we've already seen this for two or three
+classes so this is review before we jump into tonight's topic cool hey man
+champion of the sun exactly we need cues and stacks stacks and cues right
+
+00:33
+stacks and cues so a queue is just like a real world line if you're
+the first in the queue you're the first out of the queue think about getting in
+line to buy tickets at a movie theater right remember those places movie
+theaters you would go you'd pay a lot of money and then they put the same thing
+you put on your tv but in front of you um they did these they had this um
+what was that food called again um popcorn they had popcorn
+and they had these pretzels but they
+were really small and dry as [&nbsp;__&nbsp;]
+and so people would go they pay a lot of money
+and they would eat dried dry pretzels and popcorn cool all right so
+if you're in line to buy tickets right in line to buy tickets i love the
+movie theaters by the way i'm just i'm just joshing i love the movies i love
+going to the movies uh you go to the queue right you're the first person in
+line to buy your tickets if you're the first person and you're the first person
+
+00:34
+out it is a first in first out data structure and we have them very easily
+in javascript if we had an array and we pushed the value into the array
+this two that we pushed in first would be the first in which means when we
+shift it would be the first out so we can build a queue very easily
+in javascript just using an array pushing pushing pushing pushing as many
+values as we want and then we would shift them off meaning the first value
+pushed in would be the first value out so if we were to actually alert the
+result of our shift we would see two because two is the first in it is the first
+out i'm gonna go see top gun after class i
+heard it's pretty phenomenal here's like like the quintessential blockbuster so
+i'm excited i'm gonna go see it too hopefully
+all right the other data structure we need to talk about is a stack a stack is
+
+00:35
+a last in first out data structure meaning that think about
+pancakes you stack pancakes one on top of the other
+and the last one on the stack is the first one you serve
+right the last pancake on the stack is the one that you serve
+now unless you're a monster if you're a monster you might try and pull out the
+bottom one off the stack but we don't do that around these parts so a stack of
+pancakes is a lasting first stop meaning
+the last thing on the stack is the first thing out cool
+we can replicate this pretty easily pretty easily
+inside of javascript using just a lovely array again so we have an array we can
+push 2 and 5 into the array and then we can pop off values meaning
+we're popping them off the back so that means we put the 2 in we put the 5 in
+since the 5 was the last in it is the first out and when we pop we would get
+
+00:36
+five cool first in first out is a what a q nice and then last in first out
+is a what stack nice and we need to understand
+these cues and stacks to understand what's happening in the event loop but
+they also are pretty pretty quintessential data structures that
+we're going to use in just a few weeks when we start to really grind our data
+structures and algorithm understanding so they're going to come back with
+advantages we're going to use them a lot in our coding examples
+so yeah something to know that we're using now as a from a theoretical
+standpoint we're gonna use them for real for real and not too short of a period
+of time all right so back to getting got right so now we understand stacks you
+understand cues we got got with the set timeout example let's figure out what
+
+00:37
+actually was happening uh when we got got cool so
+our javascript is running in the browser we have uh this wonderful environment
+that we're running in and this wonderful environment gives us
+access to a bunch of web apis and when we go to use those web apis
+we pass off those actions to the what like when we want to use the dom or we
+want to use set timeout set interval whenever we want to use fetch any of
+these web apps when we want to use them what are we handing those actions off to
+we're in the browser yes we're talking about the browser but what specifically
+is going to handle all those actions for us
+yeah the event loop the event loop is going to handle this uh in the browser
+specifically chrome we're using lib event lib event is all the code that's
+been written for us that's going to help us handle uh this process where we have
+these events that are happening that are enabled to happen because we're running
+
+00:38
+our javascript in the browser we hand off all this stuff to the web apis but
+we're really starting to hand stuff off through lib event waiting for those
+responses to come back and we generate the event loop cool
+so the event loop monitors the callback queue and the job queue and decides what
+needs to be pushed to the call stack what the heck does that mean
+the crowd was tough it's such like a a quid essential video
+that like yeah you're right they were pretty tough what
+this is disrespectful yes it is disrespectful
+the event loop monitors the callback queue
+and the job queue and decides what needs to be pushed onto the call stack so
+
+00:39
+the call stack is our what it's our what it's our last in first out
+stack where all the things that we're trying to execute in the program are
+being run and what goes into the queues what goes into the queues
+what winds up making its way into the queues
+yeah the the result of these web apis now pretty much every one of the web
+apis returns a promise so the callback queues are full of promises that have
+returned from these web apis whether it was trying to use the dom or whether it
+was to use set timeout whether it was to make a fetch and so we get all these
+things back from the web apis they get put into the
+queue and then once our stack is empty we can start pulling stuff out of the
+queue to execute remember this is all like a very
+simple overview you can definitely nerd out on all this stuff
+we have uh phillips video we have jake's video that really go into the meat
+
+00:40
+potatoes of all this so you have to watch to fully understand it mine right
+here is just a simplified version of it just to get to the meat and potatoes but
+you definitely want to spend some time getting your claws into those two big
+videos i tried to put this screen in my head hey i'm glad to hear
+i watched ten times i still don't fully understand it that's okay that's okay
+if you understand the basics right like the stuff we're about to cover right now
+that's good enough as you start to dig deeper into these
+things it'll make a little bit more sense but uh as we are right now
+to be like a really like to write the code we're about to write for the rest
+of program do we really need to understand like do
+i need to know how this is done like it's weird to say this right like if do
+i'm gonna be writing express code until kingdom come do i really understand that
+do i need to understand exactly what's happening here not really
+
+00:41
+i could go my whole life as probably a full stack developer
+without really understanding this but once you do understand this things start
+to make more sense like for me when i found out the dom
+didn't come with javascript my mind was blown like
+blown to smithereens and i had to figure out how that could be true
+and would be hey what's up all right and so i
+took some time to understand what the heck was going on
+and so we're going to see this event loop here and we see the event when it
+comes to node so knowing at least the basics helps you understand what the
+heck is actually going on and when you run into some weird bugs or issues
+this could maybe be the solution to some of them cool all right so
+here we have some code that we want to execute
+and the main is just what's going to tell us to kick off our code so on the
+call stack is a line of code that says basically run our code right and so
+
+00:42
+the very first line that we're going to run is called is a console log where
+we're going to paper delivered the house
+one we want to be printed to the console and so that first line of code executes
+and put on the call stack is the log for house one now the event loop runs
+and we're back to the point where this code is there and so once we realize
+that we've done the loop there's nothing there this line is here
+boom we run that line of code and we see that first console log of delivered to
+house one print it to the console then we get to the next line of code
+that needs to be run that set timeout's put on the call stack
+we do our lovely little loop it's time to execute this line of code
+but set timeout doesn't get executed by javascript where does set timeout have
+to go it has to get handed off to the browser
+
+00:43
+has to get handed off to where the web apis are going to be run by the browser
+right and so the loop runs and when it runs we see that the set timeout comes
+off the call stack the web apis are now going to handle it and the cool thing is
+we could have a bunch of web apis that are all running at the same time maybe
+this set timeout should take uh uh uh 10
+minutes who cares the browser's handling it right the browser is handling it
+all right the browser's handling it and whenever we get a whenever the set
+timeout is done we know what gets returned is going to be put into the queue
+all right so our event loop continues to run
+we had this third line of javascript that executes
+we see that log house 3 is now on the call stack and around the same time the
+set timeout the return from that web api is put into the queue
+
+00:44
+right it's put into the queue now what will run first log house 3
+or the promise that came from the set timeout what runs first
+log house 3 exactly we always run whatever's in the call stack before we
+even think about the queue cool so we run we see
+console log of house 3 is put to the console
+the event loop runs we don't need that main to trigger anymore we don't need
+that main to help us run any lines of code anymore because all the lines of
+code have been executed right like we've ran every single line of code that was
+here so the main popped off during that past the loop and then once the call
+stack is empty we can go ahead and grab the promise
+that came back from the set time out and since this is a queue
+the first thing in is the first thing out the set timeout will be the thing
+
+00:45
+that's put on the call stack and once the loop runs we execute that
+promise and we see log of house two uh if if it needs to run again will
+another main be created if you refresh yes yeah
+so the idea here is that there's really just two things that are happening
+if we execute a line of code it is put onto the call stack
+if it's something that javascript can't run on its own
+there might be an api that we can use from the browser that will enable us to
+do that thing and so we saw that with the set timeout javascript itself could
+not execute the set timeout so it handed that set timeout to the web apis
+then we keep going through our code right we keep adding stuff to the call
+
+00:46
+stack eventually eventually the browser's done executing the set timeout
+and whatever gets out whatever gets returned whatever it gets returned from
+that web api gets put into the queue eventually we're done executing all of
+our code and the call stack is empty and once the cost act is empty on the
+next revolution of the event loop we grab the first thing inside of the task
+queue or job queue whatever you want to call it because there's a bunch of
+different things here and we put that on the call stack we could have a bunch of
+returns here we could have a bunch of different web apps we could have a set
+timeout that took like 10 seconds five seconds three
+seconds and what would have happened is that three would have executed first
+then five and ten and since the queue is a first
+in first out data structure whatever finish first is going into that into
+
+00:47
+that queue and will be put onto the call stack first
+we need to know which line of code is handing off to web apps it's just the
+set timeout itself the browser is smart enough to know like hey you're trying to
+do something that javascript doesn't come with but since you're running it in
+the browser i understand what you mean when you use document i understand what
+you mean when you do set timeout and it knows to hand all that stuff off to the
+browser now what's happening underneath the hood
+here and all the mean code that's happening how the v8 engine and lib
+event is handling all this nah ain't for me you could spend your whole career on
+just like lib event like you could like literally spend a lot of time building
+just that you could build just focusing on these web apis but for us that's too
+that's too rich for the things that we want to do
+which is to build credit apis deliver business value to our to our customers
+
+00:48
+and our our our hiring partners right does that mean that seconds in set
+timeout is not exactly due to how long we take the call stack to be empty yeah
+now we're getting into some real stuff yeah
+yeah now we're getting some real stuff is three seconds three seconds i don't
+know it's the minimum exactly the minimum time there you go exactly
+not the exact time all right cool so we have this lovely we have this a lovely
+ability to execute our code if javascript knows how to handle it
+it's put on the call stack if it's the last thing this will be the first out
+eventually if we get to something that javascript can't handle there might be
+an api that we can use by the browser it'll hand that off to the browser the
+
+00:49
+browser will do it eventually it'll return something most likely a promise
+that promise gets put into the queue once the call stack is empty we start
+pulling stuff out of the queues putting them on the stack beautiful
+and like i said this is a simplified simplification of it you definitely want
+to go back and watch phillips video uh it is it is
+way more detailed it has a lot more meat here but this is the gist the basics
+and this is helpful to know because we're no longer running our javascript
+in just the browser we are running our javascript in a different environment
+the videos are linked in the slides as long as you have the slides you can get
+to the videos they're also in discord for the following materials today right so
+not only are we running our javascript in the browser we're gonna be using our
+javascript in a new environment uh that is a bit different so quick question
+
+00:50
+does javascript have access to the dom natively built in nope
+javascript needed web apis to handle a bunch of asynchronous stuff so the dom
+set timeout all these things were not actually javascript they were things
+that the browser could handle for us via web apis and so
+javascript is a language that can only do what the hosting environment allows if
+the browser didn't come with settimeout if the browser didn't come with fetch if
+the browser didn't come with the dom we don't have access to it
+via javascript it was only because we were running javascript in the browser
+that we got all of those goodies so as we start to think about the back end
+and we start to think about servers right the difference between a
+
+00:51
+client-side browser and a server the server has some very unique needs
+what do servers need i'm jumping too quick here what do servers need
+go ahead and chat for me yeah servers are supposed to serve
+they're supposed to serve and so to serve they need to be able to
+hear the requests for the things that you're asking for and be able to serve up
+responses right and so to do that they need access to a network where they can
+hear your requests coming in and be able to respond and they need
+access to the disk because the files that they're sending to you are not
+magic they're not coming poof out of the air the html files the css files
+javascript files that they're serving up to you exist on a drive of some sort
+whether it be a hard drive or a solid state drive whatever it is they need to
+
+00:52
+be able to go grab that stuff off the disk and send it to you as part of the
+response and so javascript does not have the
+ability to do this javascript cannot access the files on your computer it
+cannot access the network it'd be pretty disastrous if it could
+so what if there was a hosting environment a place where we could run
+our javascript that gave us disk access that gave us network access
+10 second warning what if we existed in a world
+where we could have disk access where we could have network access
+
+00:53
+available to us so oh baby [Music] i swear the the first 100 devs
+convention is just a rave that's it we're not coding we're not talking eat sleep
+rave repeat that's all we're doing it's just gonna be it's gonna be all the
+bangers from class it's just that song the entire conference
+and we're getting whatever she has whatever she had we're getting it
+bangers only all right that's right we have an environment where we could
+she had dominoes deep fried penguins leo's becoming a bad influencer
+
+00:54
+hey i never promised i was a good good person i i've actually told you the
+quite the opposite of that i'm a monster that chooses to be good
+on certain days but hey when the rave and the raves when the rays popping
+that's it's all that matters you know [Laughter] my entertainer has to bust out
+you know you got you gotta let it get you i gotta let it fly every once in a
+while all right so we have this lovely environment called node
+and uh node enables us to have access to the disk that enables
+us to have access to the network and when we went to their website to learn
+more about node we got this crap known as the javascript runtime bill and
+
+00:55
+chrome's v8 engine what javascript runtime built on chrome's v8 engine why
+why do they write like this why can't they explain stuff
+please don't ever do this don't be disrespectful once you once you make it
+right like once once you once you're in the position where you're you're in
+control of like what's on the front page of something
+that you've built for the past 10 years please please put it just like you can
+have this know what have this have a little asterisk
+and then in the asterisk just write it out give me a paragraph i want to know
+exactly what the hell you're talking about all right
+so the same [&nbsp;__&nbsp;] that lets us run
+javascript in the browser can now be used to run javascript on servers
+desktops and everywhere else right so the javascript runtime it's just the
+environment like where we're running our javascript
+right where we're running our javascript can now be used that give us access to
+all that good stuff and we're still using the v8 engine the v8 engine is the
+
+00:56
+thing that helped us do a lot of the heavy lifting in the browser
+remember the engine is more than just a few things right like we think of when
+we think of the v8 engine we're thinking about taking about the javascript that
+we're writing to communicate with each other that javascript has to be broken
+down into something that the computer can understand right so the va engine
+comes with the thing that can help us break down that javascript people might
+call it a compiler whatever you want to call it
+but it also has a lot of other stuff memory management garbage cleaning all
+this stuff that joshua just doesn't really have or is really good at doing
+came with this engine so the same engine
+that we're using the browser we can also use in this other hosting environment
+called node i talked about this difference between
+an engine and a compiler engine just comes with more garbage cleaning memory
+management all that fun stuff all right now node came with a bunch of fun stuff
+we're gonna just kind of get through this real quick and we're gonna take our
+
+00:57
+break note came with a bunch of fun stuff but specifically
+specifically it came with some really core modules like http and fs or file
+system and those core modules do the heavy lifting for us it's what enables
+us to listen to network requests to generate responses
+right it's what enable us to look on the drives and and get the files right
+without these core modules we wouldn't be able to do the things that we wanted
+to do when we set out to use node but we're not just limited to those core
+modules we also have millions of other modules that we can use via npm or other
+package managers like yarn et cetera where there are literally millions of
+other things that people have written that we get access to when we run our
+javascript in our node environment cool now
+the stuff that's doing the heavy lifting in node is no longer web apis because
+we're not in the browser it's cnc plus plus apis
+
+00:58
+and so these cnc plus plus apis are like heavy stuff like things that are like
+battle tested tried and true super fast and just because we run our javascript
+in this environment we get access to them we get access to the va engine we
+get all this asynchronous and event loop stuff from lib which is a little bit
+different than lib event we get access to all these other things that enable us
+to listen to http requests talk to our file systems all that wonderful stuff
+and it's blazingly fast because it's actually cnc plus but just like we had
+web apis in the browser we have cnc plus plus apis that give us access to all
+this wonderful wonderful things cool last week we we wrote a simple node
+server right just using those core modules and it worked we were able to
+make a request and get an html file back we saw a slightly more complex version
+of this and we asked ourselves we asked ourselves all right this is a back end
+
+00:59
+all right this is the back end right it's a back end but how can we clean it up
+how can we clean it up y'all nasty express
+we can use express to make that hot mess of a file make a little bit more sense
+we could introduce a little bit of architecture a little bit of cruddiness
+into the way we think about building our applications and when we introduced the
+crowd when we introduced express we start to be able to build the apis of
+our dream we'll be able to build the applications that we wanted to build
+since we first started 100 so when we come back from the break we're going to
+jump into express but before we jump into express we got
+to revisit how the internet works we have to talk about like what are these
+applications actually doing so we're going to put our five minutes on the clock
+
+01:00
+if you're new around these parts at the top of every hour we take a break i like
+to be hydrated and healthy as much as we possibly can so if you're able please
+get up move around hydrate and we'll be back in five minutes alrighty let's get
+into it so we talked about this idea of coming back
+to how does the internet work because what we want to be able to do
+is we want to be able to walk through all this cruddy goodness that is happening
+and so we're going to talk through how the internet works and when we started
+talking about the internet originally what the heck was the internet
+where we say the internet was it was a wire exactly it was a wire and this wire
+connected two different kinds of devices or the two different kinds of devices
+
+01:01
+that it connected ash jeeves yeah connected client-side devices and it connected
+server-side now these are just two different
+computers that are on opposite sides of the wire we had a client and we had a
+server now somebody give me like a a website a website that we used
+back in the day or currently what's give me some give like a fun website that we
+would go to just so we can maybe see some of this in action
+can't go to domino's geocities is down all right i saw my phone
+i see my i see some folks have maybe watched last class we'll go with it neopets
+let's go to neopets all right we go to neopets boom
+go immobile nah you gotta you gotta be uh in the browser to do neopets all
+right so we went to neopets and something very specific happened
+
+01:02
+uh we typed in neopets.com and it took us here
+how did this happen also why is there not https what is going on neopets
+this merch is fired up hold up look at this i might buy this hold on
+yo this merch is wild your neopets are dying [Laughter]
+it's so true they all dead dead yo if this wasn't red and black i would
+i would rock this for sure i ain't trying to get got for wearing
+this where i'm from but this is fire give me this on all black
+i'll wear it your neopets are dying oh yeah let's go
+that's fire i'm not gonna lie i'm fronting at all i'd wear that hard all right
+
+01:03
+so we went to neopets.com all right what the neopets.com
+and uh we did something very specific we went to something very very we did
+something very specific like we're talking about like what happened here
+what did we do oh dragon said yeah we sent a request so we were in our browser
+and our browser actually should probably do this here our browser
+was running on our client-side device uh my client-side device right now is just
+my laptop and so i made the request from the browser
+running on my client-side device and this request made its way to neopets server
+now there is some code running on this server that did what
+there is some code running on the server that did what yeah
+
+01:04
+it responded it heard the requests and it responded to that request and so there
+was some code here there was some code here that heard the request
+and then responded and what did it respond with at first
+like what did the server respond with at
+first like what was the first thing that it probably responded with yeah html
+and so we typed in neopets.com we made a request to neopets server
+they heard our requests and responded with that html5 we can
+actually see that if we go ahead and we open up the inspector
+and we go to the network tab when we refresh this page
+we'll see that we made a request for the html file
+but then look at all these other requests that were made
+
+01:05
+right all these other requests were probably linked through the
+the html like in the html file it asks for jquery it asks for the css it asks
+for all the images so all of these [Music] yada yada said neopets added to the
+potential clients list yeah you couldn't do them like that you
+couldn't do it like that [Music] [Laughter]
+all these requests are now going to be requests that have to go where
+where do all these requests have to make them make their way to yeah
+all those requests have to make their way to the server
+all right and the server has to have some code that is set up to handle
+
+01:06
+that request now i made the request through which interface my initial
+request was the interface that i used to make my request it was a url exactly
+i typed in neopets.com into my browser and i hit enter
+that url was the interface to my what i use i always use interface with a very
+specific thing you always see me use the word interface
+when i'm talking about apis exactly so there was some code
+that was running on the server that could hear the requests
+right they could hear the requests and when it heard the requests
+it figured out how to respond and it responded
+if i'm saying that the interface was the url and there was some code that
+
+01:07
+responded what do you think i'm going to start calling that code the code that
+can hear the requests figure out the response and respond what
+am i going to call that here i'm going to call it my api
+the simple interfaces will be the urls right remember api is just a simple
+interface for something complex right simple interface for something complex
+so i typed in a url which was my simple interface
+and some complex stuff is happening the code that's over here is doing some
+complex stuff to generate the response and so the code that i'm going to write
+i'm going to call my api and the interface for what this api can do is urls
+right we type in a url that makes a request to our server and
+
+01:08
+our server is set up to hear that request that's an ear
+our server is set up to hear that request and when it hears that request
+our api or the code that we write knows what to do because we coded it
+right we said all right if you hear this request i want you to do this very
+specific thing if you hear this other kind of request i
+want you to do this specific thing and so simply right simply by listening
+and and free kind of writing what we want to have happen we can build up all
+the stuff that we want our application to do right all that we've been doing
+every web application that you've ever used from neopets to dominoes to whatever
+has always just been a request and a response
+and so every single thing that we're doing pretty much in the web can be
+
+01:09
+boiled down into a few very specific kinds of requests
+when we typed in neopets neopets.com we made a very specific request to our
+server what type of request do we make to our server
+it was a get request exactly we said hey give us some information we want some
+stuff give us some stuff get me some stuff
+so by just typing in the url and hitting enter we made a get request to our
+server and there was some code there is some code running on our server
+that i'm going to call my api there is some code running on my server
+that could hear that get request and when it heard the get request
+what was this coded to do if we're talking about neopets right and we're
+
+01:10
+talking about neopets when we typed in neopets.com we hit enter we made that
+get request to neopets server what was the code we
+can't see the code maybe we could figure it out because the site's pretty wild
+um what was that code set up to do when it heard that get request what was it
+going to do is going to respond but had to do some stuff before it could respond
+it had to go and get the stuff right it had to go and get the index
+dot html file i had to go get that file and it had to get that file
+from the disk or the drive where that file was stored right
+and once it got that file what did it do with it yeah it responded with it
+and then the browser was able to use that file
+
+01:11
+right is able to use that file to show us the beginning of neopets website so
+we typed in neopets.com and we hit enter that made a get request
+to neopet server there was some code on neopet server that said hey when
+someone makes a get request go get this file and respond with it
+it's the core of how the web works i i have a a a promise that i told you
+that i said that once you learn a few things you can build whatever you want
+and this is one of those things once you understand that when you type in a url
+you hit enter you're making a get request to a server
+and we can code our servers right we can code our servers
+
+01:12
+to hear that request and to know what to do when it hears it
+right when it hears that request we get the we are in control of what it does
+and what neopets did it said hey when you typed in neopets.com and hit enter
+it was coded to give us the index.html right
+so we could think through this a little bit a little bit more deeper some folks
+are saying like where does it get the file from let's think about it this server
+is just the what the server is just the what
+a computer yep server is just a computer
+and on this computer just like any other computer is gonna be a lot of stuff
+there's probably gonna be like a cpu there's probably gonna be some ram
+
+01:13
+um but there's probably also gonna be a what
+yeah like a like a solid state drive an ssd like a place where we're storing
+our files right maybe a hard drive but it's it's 2022
+right we got to start using ssd sometime right so there's some sort of drive
+where we store all of our files where is the html actually stored
+like where like if we said the server has the html files where are all the
+html files yeah they're on they're on this drive
+right they're on this drive like on that drive are all the html files all the
+files that we're going to need to load neopets.com so
+when we type in neopets.com and we hit enter we know that we're making a
+
+01:14
+get request that get request makes it all the way to neopets server
+and there is some code running on this server that can hear the requests
+and generate the response i call that code my api
+the reason i call my api is because an api is a simple interface or something
+complex the simple interface right the simple interface was typing in the url
+right typing in neopets.com was the simple interface that requested made all the
+way to neopet server there is some code right there was some code
+that heard that request there was some code running that said hey
+if they make a get request right and it's the main route what do we want to do
+if there's a get request it's on the main page it's the main route they're
+
+01:15
+making get requests to what do we want to do
+if this server heard a get request what do we want to do some of you are jumping
+right to the response we're not there yet
+the server just heard a get request come in for the main page
+what do we need to do well first we know that we want to
+respond but we need something to respond with
+so the very first thing we have to do is go and get the html file
+and that html file is sitting on our ssd so we have to go
+and get the file that's sitting on the ssd sitting on our drive that's sitting
+on that computer once we find that file right once we find that file then
+we can respond with it now if this was a node server i don't
+
+01:16
+think neopets is using node but if this was a node server
+what would enable us to go and find that html file that's on the on the disk or
+on the drive or on the ssd yeah the fs module the file system
+module is what would enable the code running on this server to go and get
+that html file and then once we had that html file we could respond with it
+so the simple interface was the url we typed the neopets.com but all this stuff
+happened on the server that's why i call it an api it's a simple interface that
+does something complex we made a get request by typing in a url and hitting
+enter that was the simple interface that request made it to the server it
+heard that request and it did a lot of complex stuff it had to go and get the
+
+01:17
+file off of the drive and to get that file and then respond with it right
+and the beauty is that since our server is running node we have access to the
+http module which enables us to hear the request and generate a response we have
+access to the file system module which enables us to go and get that html file
+and we're able to respond with it right renault said what if the page is dynamic
+what if what if when what if you were already logged in let's
+take a let's take one more step what if we were already logged in right we're
+already logged in i go to the main page and on the main page it says hey leon
+all right what if i'm already logged in and i i load the main page and it says
+hey leon well then this part right here the get request might have more steps
+
+01:18
+it might have more steps now instead of just going and getting the um
+the html file from the ssd or the hard drive whatever it may be
+maybe we have to go and get my name from a database
+maybe i have like a user id but maybe my name like leon might be stored in the
+database so we might have to like go somewhere else
+get the information about the logged in user
+plug that into the html file and then respond with it
+so what happens over here on the server we hear the get but what actually
+happens like the steps like the first step the second step the third step the
+fourth step the fifth step the sixth step all the steps before it responds
+we get to code out we get to say you know what just grab
+
+01:19
+the html file and respond or we could say you know what go to the database get
+the number of neopets that they've killed right
+plug that into the html and then respond right so the idea here
+right the idea here is that we are control when we are building out our api
+we are in control of the steps that happen what do we want to have happen
+when we hear that get request that simple interface data typed in neopets.com
+they had no idea what we were going to give them back that is in our control
+but this is the fundamentals of how the internet works we make requests
+and our servers are set up to hear those requests to generate those responses
+right and we get to control what it does when it hears that request
+
+01:20
+and how it actually responds we are in control when we are building out our api
+our crud api we are in control of all right we heard a get request what does
+the server do when it hears that request and the the secret sauce is in what we
+decide to do and over the next few classes we're
+going to learn how to do all the things that you might want to do
+and to hear all the different requests that can be made right and i'm here to
+tell you it's not a lot once you learn how to do four things you
+can build whatever the heck you want so let's talk about those four things cool
+so zell had a wonderful right right um we zell had this wonderful bar
+in in their tutorial and i just want to make sure that we took some time just to
+say it out loud because it's really important all right
+is a set of rules that allow programs to
+
+01:21
+talk to each other the developer creates the api on the server and allows the
+client to talk to it right set of rules that allow programs to talk
+to each other the developer creates the api so we're going to create the api
+right we're going to create the api that's running on our server that can
+hear all these different kinds of requests and then all the different
+clients right all the different clients can talk to it right that's our api
+right at a core level that's what we are doing we are writing something right
+that allows all these different clients to talk to the code that we wrote and
+when we hear the requests we generate the responses so here i have
+
+01:22
+some lovely server site so sorry some lovely client-side code all right
+some client-side code and this client-side code maybe a little bit bigger
+uh enables me to enter in a rapper's name so let's put in 21 savage
+and i'm going to click i don't i don't think it's friday hold
+on oh there we go sorry just took a little while because i think a lot of
+you are on it right now i clicked and i got back 21 savage's birth name right
+i was able to put in let's put in chance the wrapper you know you know
+let's go ahead and click and then we got their their name back
+right their birth name back and so this is a very simple
+api that i built and that we're going to build together so this is a simple
+client that's like actually i'm pointing at the screen like you can see me
+
+01:23
+putting out the screen um it's a simple client this is client side this is on my
+computer but this api is actually hosted on the internets
+right it's actually on the internets and so
+we're going to build out our own server today our own api that can listen for
+different kinds of requests generate responses
+right and that's what we're building up to so i have a client it could be any
+client you could be running this client-side code on your computer on on
+your phone doesn't matter we could all be consuming the application that i
+built and we're going to build it together tonight so
+we're going to build out this api right that enables
+all the different clients out there to interact with our server and when the
+server hears those requests we're gonna it's gonna know what to do
+
+01:24
+gonna know what to do all right now i said i said that there's really only four
+things that we have to worry about and when it comes to making requests to
+our server it really is just four different things that we can do
+we can make something we can get something we can change
+something or we can remove something 99 of every single web application you have
+ever interacted with has really only did these four things
+when we were using it we were making something getting something
+changing something or removing something and that's it
+and we can actually break down pretty much any app that you use on a regular
+basis really just into those four things now when we're making something
+there there are actually like the requests that the computer understands
+like the requests that go across remember we're talking about this client
+
+01:25
+server model this wire right the way that this works the way
+that we're able to send requests and get responses is because it's using
+something called what yeah using http or the hypertext transfer protocol
+right the hyper text transfer protocol this
+ability to send requests and generate responses is what we're using to send
+those requests and to generate those responses we know this breaks down into
+like tcp and ip and all this like very heavy
+stuff you can spend your whole career on we just get to take advantage of it and
+use it right and so we know that our requests and our
+responses are using this hypertext transfer protocol
+
+01:26
+and this http protocol actually enables you to do a few different kinds of
+requests right the requests that that go across
+and come back right those requests and responses there's really like four
+things we're doing uh using that protocol we are posting we are getting we are
+putting and we are deleting these are the requests that make sense when we're
+using the hypertext transfer protocol right but instead of just saying post
+git put delete we've given them some names
+when we're posting we're creating when we're getting we're reading when we're
+putting we're updating and when we're deleting we're deleting right we have a
+a good euphemism for this called crud once you understand
+that every single app pretty much every single app that you've ever used is just
+a crud app where you're creating something reading something updating
+something or deleting something you can build whatever the heck you want you can
+
+01:27
+incredibly build whatever you want so supposed to get the puts deletes are
+like the technical term that http recognizes right but for us we're going
+to say creating reading updating and deleting and so let's talk through like
+an actual app where we'll be creating reading updating and deleting we're
+going to take a really popular app let's take instagram
+right let's take a really popular app and show how it's really just
+these four different kinds of requests so if we were using instagram
+what are some ways that we can make create requests right we're going to
+call them posts what are some ways that we can make create requests
+yeah when you make a new post on instagram right when you make a new post
+on instagram you are creating you are making a request to instagram
+
+01:28
+server and you're sending along a photo you're sending along maybe like a a
+caption for the photo and you you are literally sending that
+request to the server and you create a post right so when you
+are on instagram and you make a new post
+you are literally creating right and the method or like the way that you're
+creating is something called a post method posts are typically whenever
+you're like filling out like a form you're probably making a post in the
+beginning right because when you're filling out a form you're sending
+data to a server and the server is going to use that data
+to make a new post for you cool so when we are
+using instagram and we make a new post we are creating
+what are some ways that we can read or get data yeah
+
+01:29
+when you open someone's profile when you scroll through your feed
+when you look at an individual post those are all
+get requests or read requests right where with a post
+we were sending data to instagram to create our post with a read we're saying
+hey give me data i want to see that photo
+right i want to see that that photo give me that data please go get me that data
+how about updating when can we make an update we want to update something what
+are some things that we update quite frequently if you're using instagram
+editing a comment could be can be updating yep i like the the the likes
+right like does instagram still have likes i don't
+remember they said they were gonna get rid of them right when you
+
+01:30
+double tap to like right or you click the like right
+i think australia you got rid of them or something weird that's what i was
+reading the other day um when you click the the button to like right
+you're updating something on the server right on the server
+your likes went from zero to one right they went from zero to one and
+when the next person taps the like somewhere on the server the legs are
+going from one to two each time you tap or you like you are sending a put
+request and our server set up to hear that put
+request and then change the value from two the three
+so we're starting to see how every single thing
+
+01:31
+right every single thing in instagram is really is really crud
+when we create a post we're making a post
+when we are trying to look at somebody's photos or our feed we're making a get
+request we're trying to read when we are liking stuff we're updating the number
+of likes we're making a put request to update the number of likes
+and then what would be a delete request like what would be a delete request
+yeah when i delete a post right when i deleted a post
+we have deleted that post that is a delete request and that post is poof but
+um we'll probably see that deletes are probably more like updates
+because they definitely aren't deleting our data right um but yeah so when we
+make a delete request we're deleting stuff so every action
+
+01:32
+every action in instagram is really just a post a get a put or delete we're
+either creating reading updating or deleting tech priest hey thank you for the
+hydration cheers to you and some kind of fire thank you for the hydration cheers
+to you so let's go ahead and talk through this crud stuff a little bit more
+just so we can understand let's go and take a go back to our
+lovely white board here all right vital water no this is this is um
+prime hydration slogan paul's new brand with ksi
+
+01:33
+it's actually pretty pretty bomb pretty tasty not sponsored i'm a fan
+how much sugar let's see total sugar is 2 grams it's 20 calories
+has coconut water bcaas vitamin b electrolytes and some other fun stuff
+tastes pretty good too i saw it on their podcast
+so on their podcast i was like i'm going to try i saw it at target i got the ice
+pop flavor and i got the lemon lime it's very sweet
+if you do not like energy drinks that are sweet you might not like it
+but the ice pop one is pretty good tastes kind of like the rocket pops a
+little bit i'm a big fan of giving people second chances
+i'm a big fan of giving people second chances
+
+01:34
+and uh i'm willing to give logan paul a second chance so i tried prime we'll see
+hashtag not sponsored i promise people just always are really curious
+what i'm drinking so i'm going to tell you what i'm drinking all right so
+let's go back to instagram juicebox hey what's up
+um let's go back to instagram for a second
+all right we got we were talking about influences right i got influence into
+buying a drink let's talk about instagram all right i go to instagram
+i'm in the browser all right i'm in the browser and i i go ahead and
+
+01:35
+in the browser i type instagram.com what type of request have i have i made
+i've made a get request exactly i've made a get request so i typed in
+insta.com instagram.com and i made a get request g e get not get all right
+get a get request now when i make that get request what's the
+what's the the the fun term that we use not not the this is the
+http term right what's the fun term that we use we're just being cool when we're
+
+01:36
+just hanging out you know read exactly read our git is our read request
+and this request makes it all the way to our server
+right makes it all the way to our server and
+what's what's running on our server that hears that request what are we calling
+it the code that's running on our server that's set up to hear that request what
+do we call in that code yeah our api so there's some code running on our
+server called our api and a part of that code
+there's something that says all right if we hear a get this is what we do
+and so what are we going to do when that
+get request comes through well let's say we're we're we're on
+let's say we're just on the main feed what do we have to do
+when we when we make that initial get request like we open up to the main feed
+what are we what are we actually getting like what is that request going to do
+
+01:37
+it's going to go and get a bunch of data right so we haven't really talked about
+this yet but where is probably most of our data being stored
+yeah from a database so there's probably like another computer
+right think about the database as another computer
+that's holding a bunch of data so this get request comes in we go
+and get all that data from the database we're going to be pulling out links to
+our photos we're going to be pulling out the the comments that are on that on
+that post we're going to be pulling out the caption to the post and once we have
+all that data what we're going to do is we're going to plug it into some
+html right so we heard the get request we're just trying to load like our main
+page that has like the first initial post right
+
+01:38
+we made that request to the server the server heard the request we had to do
+some stuff we had to go get some data we
+had to plug that data into some html and once we've plugged all that data into
+our html we have all this html that's ready to go what do we do with all that
+html yeah we respond we respond right we respond and that's how we see
+the first page of instagram it's how we see that first photo
+right so we see that first photo now that first photo is a photo of leon
+and so when we see a photo of leon what do we do don't take so long
+we like it exactly we like it so we we like it
+art's everywhere we liked it but little did we know when we liked it
+
+01:39
+what happened when we liked the photo what what happened
+it made an update we made a new request here we thought we were just tapping
+hearts but this whole time we are making requests
+now what type of request is gonna be sent to the server when we tap the heart
+yeah it's gonna be a put request but this is the nerdy version that's the
+http word for it what's the what's the the cool just hanging out with the
+friends you know vibin what's the what's the word we use for put
+yeah update exactly so it's gonna be our update cool
+now what's the code that's running on our server that here's that put request
+or that update request yeah that code is called our api
+and our api is set up to hear that request and it says oh
+
+01:40
+you just made a put request here's what i want you to do when
+there's a put request what we're going to do when we hear that
+put request is that we're going to go back to that database
+and we're going to go back to that database and leon's likes we're a thousand
+right but now we're gonna update them to a thousand and one
+and if this was really janky right if we go back then back in the day
+and we're going to see some simple apps that are like this
+if this was a janky app that's all we would do and then the server would respond
+
+01:41
+the server was will respond saying hey it went okay that request you made good
+job it happened it worked right it worked that's it now
+an interesting question would be as at this point in time
+would we see anything different like it still had 1 000 here would we see
+anything different we upped it we made a put request
+we updated it from 1000 1001 but we see anything no not yet
+what would probably happen if we're back in the day building instagram is that
+then the page would refresh right the page would refresh
+and when it refreshed it would make a new what a new request
+
+01:42
+right we refresh the page refreshing the page is the same as hitting enter right
+that would make a new get request all right make a new get request but
+that's the that's the sdhcp nerdy way of doing it we're just
+hanging out we're vibing hey does this work right what we call it
+it's it's it's not it's not a get it's a the read request exactly so read
+cool and there's some code running on our server that is set up to hear
+that get request and when it hears that get request well
+guess what it goes back to the database it finds leon's likes
+but now the likes are 1001. oh 1001 interesting so we take that data
+
+01:43
+we plug that data into our html file and then we respond with that new html
+so really took two steps for this to happen the liking triggered a put request
+and the only thing it did was update the data from 1000 to 1001
+then our app heard that everything went okay and it refreshed the page
+refreshing triggered a new get request when the server heard that get request
+it went back to the database so that it was 1001 this time and sent that new
+updated html so they really are separate requests right
+eventually we'll be able to do some stuff that smooths out this process
+we're not constantly refreshing the page to see how things work but at a core
+
+01:44
+level it's still doing those three things so far well two things so far get
+and put so we still get and put what could we do for all right so i i
+decide to um click the trash can what type of request am i probably going
+to make yeah now there's something that had to hear that click right
+something had to hear that click there's probably an event listener it
+was running client client-side that event listener
+made a request on our behalf maybe like a fetch remember the fetch could have
+its own method it could have like a delete or a it can have like its own
+stuff so we can actually on a fetch update the method so that it's something
+else like a like a delete but let's say we click
+we click the button and it makes a delete request
+
+01:45
+to our server and remember delete is the same is
+it's already the words that the cool kids use right delete is delete
+you know you know what i'm saying so we don't have to have that it's the nerdy
+term and and the cool kid term all-in-one cool so our server has some code
+that's running on it our api and part of that api
+is some code that's set up to hear the delete
+and what do you think the delete goes and do it does what do you think the
+delete goes like we get to control what happens here we get to control the steps
+right we said all right when you hear delete
+this is what i want to have happen we get to write this code
+we get to say you know what all right go to the database find that find the post
+delete the post right and then tell the browser
+
+01:46
+it was okay so we wrote out all that code that could hear the requests
+go to the database delete the post right and then tell the browser
+tell the browser that the delete request went okay
+and when the browser heard the delete request went okay what did it do
+what did it do it refreshed and when it refreshed it made a get
+and the get we already wrote code for the get sitting on the api on our server
+to get here is that request and when it hears
+that request it goes to the database it tries and finds that post but that
+post is no longer there so when we send the html back it's missing that post
+
+01:47
+so so far we've seen our our rud we saw our read our update and our delete
+all right we saw our read our update and our delete
+all right what's the last thing that we haven't done yet on instagram that we
+could do red life create how can we create on instagram
+like what do we create like how do we create what's the thing that we do on
+instagram post exactly posts so on instagram you can make a new post right you
+upload an image you put a caption some other stuff and that all goes as a
+part of a request the server and that is a post request
+
+01:48
+but that's like the nerdy http version we're over here we vibe and we having
+some fun hey does this work what do we call a
+post request we're cool kids we don't call a post to call it a what
+a create exactly a create request and so our server set up to hear this post
+and we get to code what happens when it hears the post
+what do you think we're going to do on our in our code when it hears that post
+what do you think we're going to do you'll be a thank you for to get the subs
+yeah it's gonna do a bunch of stuff it's gonna take that info that we sent all
+that data is gonna go to the database right we're
+gonna go to our database we're going to create like a new post in that database
+that has all that data and then we are going to
+eventually respond back to the server telling it hey
+
+01:49
+that uh post request i mean that that create request you just made and i'm
+cool kid right that create request you just made it went okay right it went okay
+and since it went okay what's the browser probably gonna do
+it's going to refresh and once it refreshes it's going to make a what
+it's going to make a get or for cool kids a read request
+and guess what where our server set up to hear that get
+is going to go to the database right but this time it's going to notice
+that there's an extra post so when it builds out the html
+and it responds with that html well now that html includes the new post
+that we just created samurai hey congrats on the freelance gig right so
+it's really all just creating reading updating and deleting creating is like
+
+01:50
+creating a new post reading is getting all the information either on the post
+that we just made maybe some of the posts that we updated right we can read
+a put or an update is like changing something right it's not creating
+something it's changing something that already exists our likes went from one
+thousand to one thousand and one right and then deleting is leading we
+delete something and so pretty much every single web app
+is just those four things in creative and create more more and more creative
+creative ways but at the end of the day it's just listening for those four
+requests are we creating something are we reading something are we updating
+something are we deleting something if you can do these four things you can
+build the apps of your dreams right and the cool thing is
+we don't really have to understand honestly at the end of the day
+how this whole thing works because we're using what i mean it helps if you do a
+
+01:51
+little bit but the reason we're using a certain tool is going to help us handle
+this whole process express exactly express express helps us set up all these
+listening for requests generating the responses request handles
+all that piping all that plumbing for us so we can just write the code that we
+want to have happen and so today we're going to start seeing the basics of
+building this lovely express app cool close to taking our break
+we talked a lot about instagram some folks asked on office hours if you
+want to see my old ass instagram go ahead and give me a follow on instagram
+if you want i'm gonna be picking five random people
+uh i'm gonna start doing the resume reviews and stuff like that we have a
+couple folks that have used channel points to get them those are gonna start
+
+01:52
+next week and i'm gonna pick five random
+folks that follow me to do a coffee chat and then to do a review of all their
+professional stuff so if you follow me on instagram i'm
+gonna pick five random people and uh next week we'll do coffee chats and
+professional review uh so some folks want it
+the uh the the chance to do a coffee chat and a review i said all right if
+that's what you want boom there you go follow me on instagram i'll pick five
+all right so when we come back from a break we're gonna build an app
+with express right when we come back we're gonna build an
+app with express we're gonna talk about what express is we're gonna see it come
+together we might go a little bit over tonight we got a lot of stuff to get to
+still folks so when we come back let's put this creating reading updating and
+deleting into action we're going to just start off tonight with the with the
+reading portion and then on thursday we'll add more of our lovely crud to the
+application so let's take our break top of the hour five minutes on the clock
+
+01:53
+all right let's go ahead and build an app with express well before we
+can build an app with express what the heck is express so like any
+uh enterprising individual i would go to express's
+website uh to figure out what express is all about right that's what we do we
+want to use projects or products that um
+that we want to use we go to the website
+to figure out what it's about so express is a fast
+unopinionated minimalist web framework for node.js with a myriad of http method
+utility methods and middleware at your disposal creating robust api is quick and
+
+01:54
+easy oh god no god please no okay all right let's let's see this fast
+i think we kind of get what fast means fast means that it's fast like think
+about what we just talked about like stop stop and think for a second hold on
+think about all the stuff we just talked
+about like all these requests talking to databases getting data plugging into
+html responding that's happening as i'm clicking stuff on instagram
+and it's it's like literally like coming back that quickly i'm not sitting there
+for a half an hour right that's pretty cool and so
+express is at least fast right like when you're making those requests and
+getting those responses it's it's fast like it can do that stuff quickly cool
+
+01:55
+onion opinionated unopinionated all that means is that
+express is really only concerned with one thing
+and that's like helping you with this paragraph down here
+that's our sentence that's all that that express cares about you oops sorry
+omnipedia just means all it cares about is this this sentence right here right
+you can bring any of the other tools that you want to use you can bring all
+the other software you want to use express doesn't care what you use to do
+any of the things that you want to get done it's just there to help you build
+out the api and it does it in a way that is very
+flexible and if you want to do it the not so express way you are totally free
+to do it so it doesn't have any like strong opinions on how you do things or
+the tools you bring to work with express and then minimalist is exactly that
+where it's like all right it's just the stuff you need for the web framework
+
+01:56
+just the stuff that's going to help you listen to requests and generate
+responses that's it cool it works for node.js so that's the
+environment we're using to run our javascript so express is a fast you can
+use whatever you want to use it's very simple it's just the basics for building
+out your api in node and so it has a myriad of http utility methods
+myriad just means like a lot and so all the stuff that we just talked
+about the ability to get the post to put
+to delete all those are http methods but then there are so many other http
+methods that we need like creating servers listening to requests generating
+responses right so all that stuff that of like how the internet actually works
+well express gives us all these methods to use
+that handles all that stuff for us and middleware at your disposal
+
+01:57
+is interesting i can feel the nerds quaking as i give this definition but
+when we're talking about this process here when we're talking about the client
+talking to the server and the server responding we're really talking about
+two things a request and a response middleware is everything that's in between
+the request and the response we're gonna see that there's a lot of stuff that
+happens in between a request coming in and a response going out and all the
+tools and things that help that process between the request and response we're
+gonna call middleware and enables us to create a robust api
+quick and easy so the api is just the code that we're writing right
+code that we are writing all right the code that we are writing to listen
+
+01:58
+to those requests and generate those responses cool all right
+i don't know i just can't see this [&nbsp;__&nbsp;] all right remember
+we are using understanding building tonight we're using and we're starting
+that building process and so tonight we build we're gonna learn how to do the
+basics of crud using express we're gonna get to the
+reading portion tonight thursday we'll add the ud the updating and the deleting
+cool all right there are some key steps in this process that i put in the slides
+we're going to do everything from scratch together but if you're coming
+back to like re-watch this lecture or you're going to walk through it on your
+own there are some key things that we got we can't forget as we move through
+this process one is whenever we're creating a new
+node project specifically that one that uses express there are a few things that
+we have to do we actually have to create the folder for the project
+
+01:59
+we have to move into that folder right and please don't like
+try and type along we're just talking big stuff today all right
+and then once we have our folder we need to create our
+our npm init when we do npm init what do we get what happens when we do that
+what happens when we do npm init yeah we get our package.json it helps us
+start off our node application it's going to help us keep track of all the
+packages that we need and one of the packages that we need is going to be
+express and so we're going to install express
+and save and not only will that install express for us but it will save express
+into the package.json that is created when we run this command cool
+once we set up the project we're going to do a few things
+we're going to see that express makes it really simple to listen for those gets
+
+02:00
+those posts those puts those deletes right those get those post those puts those
+deletes and what we're able to do is when we
+hear those gets those post those puts deletes is we can start to respond
+and there's lots of different ways that we can
+respond so we're going to have some code to help us hear the request and respond
+and we're also going to have the ability to not only respond with files but also
+maybe respond with some json as well cool eventually we're going to want to put
+all this code onto heroku and so here are the commands to push your code to
+heroku if you're using two-factor authentication you just drop the i which
+we'll see a little bit later today and that's kind of the key bits it's
+time for us to build our first api using express cool
+
+02:01
+alrighty so in the starter code for today if you need the starter code for
+today it is all on our discord estimation point discord agreed to the
+rules once you agree to the rules there's a following materials channel
+that has everything in this folder is a complete version of all the stuff
+we're working on today so you don't have to like frantically copy along or
+anything like that let's pay attention last let's ask questions
+let's ask questions right and do it together so don't you
+don't need to have your fingers on keyboard here i've already given you the
+full solution and i will share my code after class as well so the very first
+thing that we talked about was creating our folder and what i want to create
+is a wrap names api i want to be able to enter in a rapper's name
+and to get their birth name back that's the the end goal right be able to enter
+
+02:02
+in any wrapper and get their birth name back so i'm going to go ahead and set up
+my project first uh i'm going to call this um wrap names api
+right wrap names api just so that i could have um a project
+but to do that we have to do makeder so makers will be named my folder wrap
+names api you can see that i now have this wrap names api folder here
+and i want a cd into it cd into wrap names api
+you can see that i am now in the wrap names api folder cool now
+once i have this folder the next command that we saw was that lovely mpm init
+and i'm going to open up the wrap name so i know it's tiny i'm going to open
+
+02:03
+this up and when i hit enter we're going to see something important happen
+we're going to have to walk through kind of setting up everything
+but for me i'm just going to hit enter on all of these so the name the version
+the description the entry point test command repository keywords author i'm
+not going to end this up right now i'm just going to hit enter through all
+of them and once i hit enter through all of them
+you'll see that i got this lovely new file right this lovely new file
+and in this file has all the stuff that we just agreed to
+all right all the stuff that we just agreed to so the npm init helps us
+create this package.json which will be the start of our application now
+once i have the npm init we can start to actually build out our
+
+02:04
+application and since i know that this is going to be an express application
+what do you think i need to install yeah express i'm going to do mpm whoop
+i'm going to do that here i'm going to do npm install express
+and i'm going to use the save flag when i install
+it's going to take a little while to go get that package
+it's installed that package and what we're going to notice is that
+my package.json updated to include the express dependency basically saying
+hey this application is going to use express
+and here is the version of express that we are using
+and you'll also notice that we have this lovely node modules folder which is
+
+02:05
+where like the express stuff actually sits right
+right where all the actual the actual files that express comes with all that
+middleware and stuff that we talked about notice how big our node modules
+folder we got just by typing in npm install express
+right some folks are saying can you type it in again this was all part of the
+homework so you've already done this if you've done the homework remember that
+the vods are always immediately available uh even live as we're watching
+like the vod is live right now like the you could literally open up the vod and
+rewind a few seconds to see what we just did so if you
+if it went a little too fast just open up the vod rewind or just watch the vod
+afterwards we're not doing anything super super critical so pay attention
+ask questions other folks be able to answer in chat too if you get a little lost
+cool all right so we just set up our application we created the
+
+02:06
+folder we did our npm init we go ahead and we saved express now we need to
+actually start creating our server and so we've always used a specific file name
+so i'm going to go ahead and create a file called server.js
+beautiful touch server.js and now i have my server js file cool
+since i know that i'm going to be using express for this application
+the first thing i'm going to do is make sure that my server has access to
+express so i'm going to do const express and i'm going to set that equal to
+require and i'm going to require express cool
+so now my application would have access to express remember express
+came with all those handy dandy http methods like the things they're
+
+02:07
+going to enable us to listen to the requests the things that enable us to
+generate the responses all that fun stuff yeah just like we did
+for figlet yeah we're saying get and use express
+but since express is holding all these methods that we can use it's often
+really helpful to create something that's going to hold express for us so
+we can just actively use those methods so you're very commonly going to see
+something like const app equals and then we're just going to go ahead and and
+set that equal to express and you can see that we have our lovely
+parentheses here meaning that we're using express and storing it in app
+so this now is going to enable us wherever we see app wherever you see app
+further down in my program ex the app is really just express so
+it's very common to see express apps use app and wherever you see app right you
+just know that we're using express all right
+
+02:08
+the very very first thing i want to do is set up my server to hear a request
+and to generate a response so inside of my express server the very
+first thing i'm going to do is just set up that that very simple set of code so
+if i want to hear a request and to maybe let's say respond with an html file
+what type of request is that going to be
+yeah it's going to be a get request so i can very cleanly just do app.get
+and that's going to be the start of my request
+now the beautiful thing with express is that we can pass in
+what we want to listen for so if i'm just on my main page
+
+02:09
+right i'm on the main route what would be the path
+that i am looking for if i just want to go to like my main page what would be
+the path exactly be that lovely forward slash and
+so with that lovely forward slash with that lovely forward slash we now
+have our route and once we hear a get request on that route right
+once we hear a request on that route what do we eventually want to do
+we want to respond with something and so
+the beautiful thing with express is that we have this nice little function that
+you're going to see over and over again right you're going to see this structure
+over and over again where we're going to have
+our parentheses our arrow function and we're going to split the arrow function
+
+02:10
+and inside of this we're going to have two parameters request and response
+now request and response are just parameter names but since we're using
+express it's kind of like what it expects right it expects you're gonna
+have two parameters and the first parameter is gonna be everything that
+will help us handle the request and the second parameter is gonna be everything
+that's gonna help us handle the response you can call them whatever you wanna
+call them but it's often easier just to call them request and response and
+eventually once we've done this a little bit you'll see me reduce them down to
+req or rec and res for response so if you've ever seen like rec and res
+everywhere it was just short for request and response cool
+all right so we hear this get request right
+and what do we want to do when we hear the get request on the main path
+
+02:11
+what do we want to do we've heard a get request what do we want to do
+how do we want to respond ah we want to respond so we'll do response
+and how are we going to respond what do we want to do
+what's the response we're going to give them
+yeah we're going to send them a file like an html file so in beautiful
+express form we say response and then what the heck we want to do which is
+just send file isn't that lovely right we're just
+going to say hey we we heard a get request on the main path
+we want to send a response and the type of response we're going to
+do is by sending a file cool now we actually don't have a file yet
+um and we actually haven't told it what file to use so let's tell it what file
+to use and we're probably gonna have to create that file
+now when we're first kind of starting out we're going to do something called der
+
+02:12
+name and then the name of the actual file that we're creating so
+index.html is kind of like the normal thing here
+and this dirt name is just saying wait a minute oh
+wherever this wherever the file that's running is located
+that's where we start looking for our files right
+wherever the the the server.js file is located
+right that's where we're gonna start looking for our files so
+uh if the server.js is like right in the root of the wrap names api folder then
+that's we're gonna start looking for the index.html
+eventually we'll be able to like do some stuff that makes this path stuff a
+little bit easier but for now it's going to be the dur
+name and you'll notice that vs code tries to help me here so i do my
+underscore underscore and you see that their name pops up i'm just going to use
+that and there we go so i'm saying hey start wherever the server.js file is and
+
+02:13
+then find the index.html but i don't actually have the index.html
+file yet so let's go ahead and create that how can i create a file
+just like a normal html file touch index.html beautiful
+we'll see that i created my index.html file here
+let's go ahead and just set this up so i'll do html i'll select html5
+and then i'll just put an h1 in here that's going to be wrap names api cool
+so now i have an html file that's in the same directory as my server.js
+it looks like our server is pretty much set to go
+except it needs one other thing we set we set up the server but what do we need
+
+02:14
+to tell the server to do yeah we need to tell it to listen
+so we're going to do app dot listen beautiful and it's going to listen for
+one very specific thing it's going to listen for
+a port number so in the past we've just kind of like plugged in like 8 000 or
+something like that but we're going to do something a little bit different
+we want to start being able to use some some variables here and there so i'm
+going to put a variable in here called port and i'm just going to come up top
+and do const port equals 8 000. down here we're going to use port and
+when we hear that the server is running we want to we want to like actually let
+us know that the server is running so we're going to do like the same kind of
+arrow function we're going to see all throughout express
+and we're just going to go ahead and do a console log
+and we're just going to console.log that
+
+02:15
+uh the server is running so let's go and do let's do some ticks actually
+the server is running [Music] on let's go ahead and do port you better go
+catch it can it be any number yes it can be any number cool
+all right so much cleaner with express i think so too
+all right so we set up our application we have our initial get request we've
+told the server to be up and running on port 8000
+i think we're in a good spot to maybe test and see if this is working
+uh so let's go ahead and just do node server dot js
+
+02:16
+and look at this lovely console log we're getting now no longer it's just no
+longer just like the the missing repel here but we actually have this lovely
+now console log that says hey the server is running on 8 000 you better go catch
+it uh and so let's go ahead and go test on our localhost
+000 and see if our server is running localhost 8000 boom
+localhost 8000 is up and running we can see that we made a request to our server
+the server heard that we were asking for the default path and it responded with
+our html file first try although we're going to have a lot of things that
+aren't first tries tonight because we gotta we gotta play with some things cool
+so now we have a very simple server set up it's sending an html file
+
+02:17
+it's looking good um but we wanted to create a what tonight
+we didn't we didn't come here just to serve up html files
+we came up here to create our own apis and the apis that we've all used before
+don't respond with html files the apis that we've all used in the past have
+responded with what json exactly so let's go ahead and create a different path
+let's go ahead and do app.git same thing as always right now
+i'm almost i'm always going to type it out we're going to listen for a different
+path this time though let's just call it slash api
+and we're going to have our normal lovely callback where we're going to have our
+requests and our response parameters cool and inside of here
+
+02:18
+when we hear somebody request on the api route we're going to send them a what
+a response so we're gonna do response but and this time instead of sending
+file what do we want to send green scar i said in all caps json
+yeah so we'll just say json that's it isn't express amazing hold on
+we wanted to send files so we just said send file
+you want to send json so we just sent json what this is amazing it's amazing
+all right so now we're going to send some json but we don't really have any
+json descend um let's create an object we don't we
+
+02:19
+actually don't have any json descent we don't have any objects that we can send
+their way so i'm just going to go up here and create an object
+and i'm just going to create like a normal object for 21 savage
+so i'm going to const savage equals i'm just going to create an object
+and then we're going to have um i'm gonna have let's do age
+okay let's do let's do age let's do birth name and let's go ahead and do
+um birth location cool so we're going to have their age
+their birth name and their location i know that 21 savage is 29 i believe
+yeah 20 maybe 30 29 or 30. um but their birthday in location we have to look
+this up real quick so let's let's go to wikipedia uh
+
+02:20
+here we go 21 savages wikipedia they are 29 and here's their birth name
+let's go and join that and so we'll go ahead and put that in there
+and their birth location was london england or it should be uk london uk i
+don't know what did wikipedia say london england all right cool
+also can we just say that sir savage 21st gave us one of the best bars in rap
+history i didn't know nothing about no visa i was in the park with the gang ah
+
+02:21
+ours that was the other one too i just listened to it the other day too oh
+how about all this uk you know that these aka gonna spray spray ours bars
+all right so now we have we we have we have an object here
+we have an object here that has an age of 29 a birth name a birth location
+and we can just respond with savage yeah cool so
+let's um let's test this i also want to change this running on i want to change
+this to on port just so that it says the port um
+let's go ahead and start stop our server right let's stop our server
+and let's run it uh oh i didn't save oops let me save the file
+
+02:22
+stop the server i'm just doing control c to stop the server
+and then i'm going to run i'm just noticing notice i don't actually type
+out node server anymore all right unless i don't type in node
+server anymore i just hit up arrow because it's already in the history of
+my terminal here cool hit enter server is running again
+let's go to our browser let's make sure that locals 8000 is still running why
+wouldn't if we just go to slash api oh it gives us the data that's cool um
+blah hey what's up let's go hey vlog it's great to see you hope you're doing
+okay blah in the house let's go turn up um all right so we have
+the api what have we used in the past that makes it easier
+
+02:23
+to uh visualize like the data we're getting back from apis
+postman yeah postman we've always used postman to look at our apis uh so let's
+use postman again here now one thing that you'll notice is that
+right now i can do let me let me refresh this here let me just let me just uh
+cancel here i was testing this earlier don't save all right i was testing this
+earlier let's go ahead and do localhost 8000 slash api
+and you can see i'm getting the data back now my application is running
+locally on my machine to be able to access the server
+
+02:24
+that's running locally you're going to need something a little bit extra let me
+show you real quick let me i'm going to do something on my end
+i'm going to quit an application running on my computer and then no i can't i
+can't hit that endpoint anymore because it says desktop agent is unavailable
+right desktop agent is unavailable which means that i have
+postman their desktop agent running on my local machine
+it's called the desktop client or the desktop agent right
+and once i'm running the desktop agent i can make requests to my local host so i
+can turn back on the desktop agent right desktop agent is now back running and
+if i give it a second or if i refresh there we go you can see
+that i now have the ability to ping it so if you're like leon how how can you
+like actually get access to the localhost through postman because i'm
+
+02:25
+using the web api i'm using the web right you want to download the desktop
+agent yeah the desktop agent from postman so now you can see that my api is
+working look at this let us go right i'm able to um paste in uh the api route
+when i do that i get i get this lovely bit of data back
+so it is working we got a very very simple
+api running with just two get requests we have one get request for the main
+page and we have another get request for our api pretty nifty but um
+we're not here just for one rapper right we're not here for just one rapper
+we want to be able to have multiple hours we want this to be like a real api
+so let's go ahead and build this out so that we can have more than just
+one wrapper let's let's have at least two rappers
+
+02:26
+and maybe an unknown we could just do like dialog dial on dialog for unknown
+um we could do that yeah i i see chat so let's go and do that let's go ahead
+and just create some simple json here um for two wrappers and then dylon for
+everyone else cool so let's go and set this up um this should just be 21 savage
+and then this should just be like an object right
+so we should have 21 savage and it's just going to be our object so we'll do
+like our colon and then we'll create our object here we'll do that
+i've got my little quotes here we'll just tab all this in
+and then we'll close our object and then we'll have another one
+that's 21 savage is just an object holding age name birth location
+
+02:27
+let's just copy this and we'll do another one that'll be uh chance the wrapper
+the rapper cool chance the rapper i believe they're
+one year younger so i'll be 28 and then let's go ahead and grab that
+real quick from wikipedia cool chance the rapper please say the wrapper
+they are oh they're 29 as well 29 and chancellor bennett cool
+chancellor bennett is the birth name they're 29 as well though so let's go
+and do 29. birth name chancellor bennett and birth location i do not know how to
+
+02:28
+spell illinois i'm just going to copy it yoink chicago illinois there we go
+and so now we have 21 savage we have chance the
+rapper and then we can just do like uh i don't know
+like just like a a catch-all which will be dailon
+which will be dailon so let's just go ahead and copy chance
+and we'll change this to dylon cool and dylon
+um we'll keep him at 29. birth name cylon and birth location will also be
+xylon cool all right now we got some real data here we got this lovely
+savage that is opening and closing that has um
+
+02:29
+21 chance the wrapper and dailon in it uh let's change this from savage to
+rappers because it's more than just 21 now so now we have wrappers and so on our
+api route let's not return savage let's return wrappers cool
+we have to uh restart our server here let's do control c to restart
+and then i'm going to run node server again just to get it running
+and let's go check on postmen and see if we're getting anything back on this api
+route um let's go to postman locals 8000 api let's send and boom
+we're getting all of our data back look we're getting 21 savage and their birth
+name and location chance the wrapper and a dilon
+so we now have the ability to build out a pretty simple api
+right we we have some data that we've created that's just an object
+
+02:30
+we have the ability to make a get request for an html file if we want it
+or a json if we want it and um yeah it's looking good so far um however
+we haven't actually been able to do what what haven't we been able to do
+with what we have here we're this is this is all fine and dandy but the api
+we want it to be like if we wanted to be useful what do we need
+we want this api to actually be useful we don't just want to like send them a
+bunch of wrappers what do we want to do what do we want to do
+yeah we won't be able to like send them a specific rapper back
+right we want to be able to hear the requests
+and send a specific rapper back to them so i want them to be able to ask for 21
+
+02:31
+savage and get all 21 savage information
+i want them to be able to ask for chance the rapper and get all a chance to wrap
+her stuff back i want them to be able to
+ask for somebody else and just get dylon back cool
+so let's go ahead and think through this right now we're just responding with
+with rappers but what if there was a way that the user could tell us
+what rapper they are looking for what is the interface that our users could use
+to tell us what rapper they cared about your jump into a form but a form comes
+later what's the interface that we've always used for our apis
+
+02:32
+what's the interface that we've always used for apis whenever we're trying to
+get stuff from the cocktail database whenever we're trying to get dogs photos
+we're always using the url so there has to be a way that we can use this url
+to request a specific person and so there's something really nifty uh
+when you're using express that you can do so we can do this right here
+and i can put a colon and i can say rapper name so now when somebody
+gives uses that url they can put a wrapper name in the url
+and i can yink that if i want it right i
+can yink it so let's see if we can yoink this wrapper name so now
+that url is part of the what there's only two things there's a what and a what
+
+02:33
+yeah that url is part of the request so we can do uh request
+and then what are we looking for on this request what would wrapper name be
+it's a what yeah it's a query parameter uh it's a
+query parameter so we can just say param that's that's the shorthand in in
+express param right or uh param sorry we have our request we can look at the
+params or the query parameters right and which query parameter do we want
+which query parameter do we want wrapper name
+cool because right here when you have this colon that's how we let express
+know hey this is going to be a query parameter that's on the url so
+let's see if we can just console log this and let's see if it works
+
+02:34
+i have no idea if it'll let me console log it here we're playing fast and loose
+we're going to save it let's restart our server leon why are you using nodemon
+because i want to get used to starting and stopping my servers i want to feel
+it i want it to be real i want to be real nodemon just does too
+much for me in the beginning so i like to i like to i like to get the feel for
+i don't want to be in an interview without nodemon needing node mod you
+know what i'm saying cool all right so i stopped my server let's start it
+let's let's um let's just use uh postman and see if we can do that so api slash
+uh 21 savage let's send and it looks like we're getting all the data here um
+let's go ahead and make sure that this refreshed and the cool thing is
+that made sense oh okay that made sense right we got all the data still did we
+
+02:35
+tell the api to respond with something other than all the data
+no we said we said we still said send all the dates i thought i got got but i
+didn't i got i thought i thought i got got but i get you know what i'm saying
+all right so i still totally sent all the data but what i did say is
+console.log the query parameter of rapper's name
+and look what we got down here folks we were able to pull that query parameter
+off of the url let's go let's go we want to say request params
+wrapper name let's try it again let's try to try it again let's try a
+different wrapper you chance the wrapper please say the wrapper
+cool chance the wrapper let's send it we got all of our data because we
+haven't told it not do anything yet we said give us all the data but if we go
+
+02:36
+back and look at our console log [Music] look at this go chance the wrapper
+we're grabbing the information that's coming along from the url cool so now
+not only can we make a request we can grab the query parameters from
+the requests why aren't we having to do like the
+percent 20 because express is handling it for us let's go turn up cool all right
+um all right so now we're able to make a request to our server
+we're able to grab the individual wrapper off of the request
+um we should probably just create a conditional now
+right like if the wrapper is inside of our like object
+
+02:37
+give it the info from that object and if the wrapper doesn't exist in our object
+we should just give it dialon so let's go and just create a conditional here um
+i'm going to comment this out real quick i'm going to say if
+the name of our object rappers if rappers um [Music] rapper name
+what the heck is this doing right here what am i saying by using these square
+brackets here what the heck am i doing yeah this is this is the bracket
+notation but it's still enabling us to look at the object it's enabling us to
+grab the object and use its key and so the reason why i do this instead
+
+02:38
+of like dot notation with the object right is because if we look at our
+we look at our object properties 21 savage has a what
+chance the wrapper has a what what what's in there that would give us
+trouble if we just use dot notation yeah there are spaces in here and so dot
+notation doesn't play well with the spaces and so what we're going to do
+is use this bracket notation because what we can do is we can plop in a
+rapper name we can plop in uh 21 savage right and if 21 savage
+exists inside of rappers right like if 21 savage
+if 21 savage exists inside of rappers so 21 savage exist inside of rappers so if
+21 savage existed inside of rappers what would this evaluate to
+
+02:39
+would this evaluate to it exists so that's a truthy statement
+yeah that's it evaluate the true so instead of hard coding in 21 savage here
+i'm just going to use the um the parameter that came from the query
+parameter let's just go ahead and call this um let's go ahead and call it const
+rap rapper's name i'm just trying to show you that these are all different
+variables so i'm going to say const rapper's name so like their name
+and i'm going to plug that in here because rapper's name is going to pull
+the wrapper name off of the query parameter
+right and then i can just look and see alright is rapper's name
+inside of my object of rappers if it's true let's respond
+
+02:40
+with some json but our json is just going to be whatever this value is
+all right i'm going to respond with whatever 21 savage information was
+and if it's false all i'm going to respond with is island right dialogue
+so all right what we're going to see is all right if the wrapper that they
+passed in as part of the query parameter exist
+then let's just respond with all that rapper's information so if they passed
+in 21 savage it should respond with this object if
+they passed in chance the wrapper it should pass this object if they answer
+any other rapper it should just be dilon cool all right um
+
+02:41
+i'm gonna get rid of this comment so we don't need it here because that'll just
+bother me all right so we save it let's uh chill our server let's restart it
+and let's go back to postman to see if this is working all right
+api slash chance the rapper let's send it let's go it's just giving us
+chance the rapper's information now first try let's go let's try 21 savage
+let's go let's go 21 21 21 and then um let's go ahead and just type in
+something random and we should get dailon all right 29 dailon dailon let's go
+
+02:42
+let's go turn up all right so it's working uh
+they typed in a url so we saw the urls right we saw the urls we saw um let's go
+back to 21. let's do chance the wrapper actually let's do this let's do the real
+way first one then i'll show you what i think is going to happen
+chance the wrapper beautiful we got chance's information back but
+look at this path look at this url localhost 8000
+slash api slash chance the rapper chance the rapper's on the end here cool
+if we look we're talking about localhost 8000 slash api
+and then chance the rapper was here so wherever i see rapper name it's actually
+chance the wrapper all right it's actually chance the rapper so
+requests because that this is part of the request we want to pull the
+parameters off what parameter we want to
+
+02:43
+pull off we want to pull off the wrapper name parameter so whatever was here aka
+chance the wrapper this request params wrapper name grabbed
+and we stored it in the variable rapper's name
+so wherever i see rapper's name wherever i see rapper's name it's now chance the
+wrapper so it's as though i plugged in chance the wrapper here
+and since chance the wrapper exists inside of our rapper's object
+we grabbed this specific part of it and we responded with it
+respond it with that information what's the significance of the colon is
+to let us know that that's a query parameter it's not part of the path it's
+the query parameter that's being passed in with the path
+
+02:44
+why use postman because that's what i used to test all my apis including the
+apis that we're building now let's go right so i'd like to use the tool that
+i'm going to use for in the future just showing you like the basics of how it
+still works cool all right so now we saw not only ability to
+respond with some html we also saw the ability to respond with some json um we
+have it running but there's one there's one thing that um some folks mentioned
+right some folks mentioned that there's maybe like a mistake that our users
+might run into what's a mistake that our users might run into
+yeah case sensitivity so let's go back and try in postman
+
+02:45
+let's do uh chance the rapper with the capital t and we get dilon
+that's not what we want so let's handle this um
+let's handle this let's handle the case sensitivity
+all right well first let's make all these lowercase savage chance wrapper
+and uh dielon so now at least i know that all these are our lowercase and
+what can i do over here with my query parameter what could i do with this query
+parameter yeah two lowercase all right two lower case beautiful two lower case
+all right so now no matter what i type in it's going to convert it to lowercase
+and then it'll do the comparison so since all of our wrappers names are now
+
+02:46
+lower case no matter what they type in will be turned to lowercase to find the
+match all right let's stop and start our server
+let's go back and try this out chance the rapper with the capital t
+give it a second chance the rapper with the did i restart
+it i did why didn't this work oh i got got why didn't this work
+i didn't save all right let's save it let's start and stop stop to start the
+server let's go back all right let's make the request
+all right now we're getting chance the rapper's information
+let's let's change the casing here a little bit
+boom still getting chances information it doesn't matter casing no longer
+matters now and what the user puts in they'll get the right info second try cool
+
+02:47
+oh some folks notice an error here um look this guideline
+does this dilon exist as a property in my object anymore
+no this is this is lowercase dialon this is uppercase dialon this would this
+would not be found uh this would throw an error so let's
+make sure that this is lowercase as well like the dilon property is lowercase d
+here cool all right so now we should be all set we're able to um
+have all this wonderful wonderful code served up uh and i actually have
+a client-side bit of code that i wrote that can make requests uh to this api
+and so we're running a little bit of time here so i'm just gonna i'm gonna
+
+02:48
+yoink the code so um here is my rap names api that this
+server serves up so if we go back to localhost 8000
+right we go to loghost 8000 we have this lovely wrap names right this rap names
+api and um what i want to be able to do is i want
+the user to be able to enter in the name so i don't i don't want them to be like
+up here like the users could come up here and do slash api slash chance
+the wrapper right they could do that and
+get the data but that's not what we what we've been doing right
+right this is this is not this is not what we've been doing we're going to be
+able to enter in the name and then get the data back from our api and then
+display that in the browser so let's do that real quick i actually
+have the code already written out but we can we can probably just code this out
+
+02:49
+pretty quickly so uh in here we know that we're going to need an input
+and we know that we're going to need an h2
+to put their birth name let's just plug the birth name back into the dom right
+what about spaces express is handling the spaces for us yeah cool birth name
+we have yeah so we have the lovely ability to
+put it back into the burp put the birth name into the dom let's save this
+let's make sure that this is still all connected well and good
+all right we can see our input and we can see the place to put the uh the
+birth name cool what if chance the rapper was entered
+then that wouldn't work yeah that wouldn't work not the way we have right
+now we don't have all the uh all the time in the world to handle all
+the edge cases let's not be code weenies cool uh we need a button that's a good
+
+02:50
+idea button cool give all right a man needs a name cool there we go
+now we'll have the ability to do that if we go back and we just refresh
+we can see that we can kind of get away with it when we're just updating uh html
+all right so we have the ability to click a button
+uh when the user clicks the button we want them to be able to grab the val the
+name out of here right and we want them to be able to make a
+request to our server so what's the only thing that can listen
+for this button click and grab the value out of this input
+an event listener and that's all what event listeners means we need what what
+type of javascript we need some good old client-side javascript so
+
+02:51
+does our rap names api have a javascript file like client-side javascript yet no
+so let's go ahead and create that i'm going to do maker js folder
+i'm going to cd into that js folder and i'm going to use touch to make a main
+dot js cool if we look we have a lovely js folder
+and we have a main js file cool and one mistake the very first time i
+made this application uh is that is my javascript file linked in my html nope
+let's go ahead and and do that let's go ahead and do script
+
+02:52
+and let's just inside the script we'll have our source set that equal to main.js
+cool yes main.js nice cool all right and let's see if it's actually working
+in the main.js let's just do working or let's do an alert sorry cool
+all right let's make sure our server is running
+we're we're in the wrong folder we're inside the js folder we've got to go up
+a level cd dot dot all right now we're in the main wrap
+names api folder let's start our server node server.js all right we're running
+cool let's refresh all right let's do the inspect here fail to load
+
+02:53
+status of 404 fail to load status of 404 hmm what were we trying to do
+what was i just trying to do i was trying right now
+right what was i trying to do i was trying to serve up this client side code
+where's my mouse is there anything right now that's listening for that request
+
+02:54
+is there anything that would hear that request no
+and do i want do i want to serve up the client side code i thought that we said
+that we wanted to have any client from anywhere be able to access our code right
+so we got to remember that there's a difference between us serving up
+client-side code and like any client-side code being able to access our server
+right because right now we're not serving up any of this client-side stuff
+you got right we served up the html file
+but we don't have our like lovely public folder right
+private jen hey what's up hope you're doing well thanks for stopping by
+all right we we we are we we haven't served up any of this stuff
+what i want is any client to be able to access our server
+
+02:55
+right not just us serving up and giving them a front end and a back end i want
+any client to be able to access this but right now right now
+our code our server only exists where where does our server only exist at the
+moment yeah it only exists locally on our machine
+right on our our our our lovely port 8000 right it only exists on our machine
+if i want you to be able to build a client that can access this
+what do i need to do i need to host it right
+
+02:56
+right now this is not hosted and i don't want to build out the code that serves
+the front end i want you to be able to build the front end code that works with
+this back end right so what i can do is i can actually host this api code
+and then you all can build the front end that will consume this code so
+all i have to do is since this is already working we already know that we can
+make requests to the api i want to host it on heroku just a quick easy way to
+get it hosted to put it on somebody else's computer for us all to access so if i
+go back and go to my slides i've actually given you
+the very simple directions on how to get this onto roku
+before i put it onto heroku i just want to put it on github just so that
+everyone can access the code if they want so instead of me just giving you a
+zip file could i maybe just give you a a lovely uh get
+
+02:57
+a link so let's go ahead and do that real quick i'm just gonna go ahead to go
+to github and i'm gonna go ahead and create a new
+repo and we're going to call this rap names class fun cool create the repository
+remember it always gives you this lovely like things that you can follow
+if you need to do we have a git repository let's look let's look ls-la
+we don't have a git repository let's go ahead and do that git repository first
+get init now if we were to do that lsla we'll see that we have a lovely
+git repository right we have one now cool next thing on the list it told us to
+create the readme we'll save that for later we'll make our first commit and
+then we'll switch the branch to main all right i'm going to copy that let's
+
+02:58
+go ahead and do git add dot we're gonna add all of our changes
+we're going to commit all of our changes first commit working api cool
+we're going to change our branch to main and then we have to add this origin and
+then push it so if you haven't watched our git and github class i'm just kind
+of following through the instructions here but we had a full class on git and
+github boom i see everybody you're jumping ahead
+you're jumping in i know what you're going to see we got it we got to show it
+before we can fix it all right we added our origin and then
+we're gonna do the get push u origin main
+
+02:59
+all right we look at push u origin main was the last command and we're gonna see
+something really interesting that happens
+when i see something really interesting that happens anymore look at this ready
+it's actually pretty quick [Laughter] um but what what did we just push
+we pushed a lot of data five five megabytes we pushed a lot of data
+i was hoping that it would i was hoping for some some some dramatic
+like slowing down here uh but what did i do
+when i pushed i pushed everything that was in my [Music] known modules folder
+right i pushed everything that was in my node modules folder right and so
+that could be pretty expensive i don't know some of us are are on slower
+
+03:00
+internet connections and that could be too much right
+and so in the future what we want to use is a get ignore file
+and so we can go ahead we're in our main route let's do touch get ignore cool
+and in this get ignore file we can put our node modules folder right
+now next time i push right next time i push i won't be pushing up
+the whole node module look how look how big this thing is look at all the stuff
+that's in here look at all this stuff oh look at all
+this stuff we just pushed up to github that's a lot
+we go back and we look at our github repo
+a lot of stuff that we that we pushed up
+there all this stuff got pushed we don't need to do that each time
+right and so i just used my touch command to make the git ignore
+
+03:01
+file and then i put node modules in there and and then we'd be good right
+now what we could do is we could like fix all this we could bring it all back
+down we could like change it but for now let's just know that that that's there
+right that that we can use the git ignore file if we want
+um for right now i'm just going to remove the get ignore [Music]
+just so i don't have to redo everything or we can just redo it let's redo it
+let's run it back uh i'm actually gonna remove my get folder don't ever do this
+cool i'm gonna remove my git folder let's do ls-la we don't
+i didn't force it one second there we go now if we do an
+la i don't have my git anymore i don't have my get i don't have my git
+
+03:02
+repo anymore remember don't do this we're just we're just we're really over
+time today so i'm just i'm just showing it to you really quickly uh we we got
+rid of the get folder let's go ahead and just create a new repo
+let's not even worry about it we're not there yet brand new repo rap names
+too there we go wrap names two there we go we created it we know that our
+node modules is in our git ignore so we're all good all right we're all good
+let's go ahead and just follow through our steps again getting it first right
+get add dot hit commit we are way over time cool
+let's go ahead we've made our commit we've added we've made our commit
+
+03:03
+we want to make sure we change our branch boom get branch main
+beautiful let's add our original let's go ahead and do our get push pull
+and this time if we go back and look and we refresh
+we'll see that the node modules were not pushed up right
+the node modules are not pushed up beautiful so we saw that we can take our code
+that we had here we put it on github but now i want to put it on roku okay
+and so we actually have the commands here to put this code on heroku
+
+03:04
+and we're going to have some errors right out the gate
+we're going to put it on heroku and we're going to see one thing really
+really important and that thing that we're going to see is that right now
+our code is only set up to handle one port if we look
+we come back to our server.js you see right now we're only set up to handle port
+what 8 000 and there's a good chance that heroku might not want to use this port
+right and so there is one thing that we can do just a little modification here
+just a little modification that we can do and we can do this lovely process
+dot env dot port or so what this is and we're actually we should capitalize this
+cool what this is going to do all right what this is going to do
+
+03:05
+is going to say hey use the port that heroku is trying to make us use
+and if that's not the case or that doesn't exist
+use the port that we've already defined cool eventually yeah we'll have an env
+file and all that fun stuff but this is our first time seeing it
+right it's our first time seeing it so we can have just one little thing that
+will stop us from having an error when we go to heroku that's it
+all right now let's follow the instructions that are in the slides
+we're gonna do heroku login i have two factor authentication so i'm not going
+to do the i i'm just going to do heroku login
+and i'm actually going to do that off screen my heroku is already logged in
+let's go ahead and do heroku log in one second folks
+
+03:06
+i actually don't think it would expose anything but just to be safe
+all right it took me to the browser i'm logging into the browser
+and now i am logged in and i'm coming back cool
+all right we're gonna it's gonna be like three more three more minutes and then
+we'll be done so we'll take a break but we'll be done in like three minutes all
+right so now i'm logged in uh and we can follow these next few commands here
+uh create we're gonna create the name of our app so we'll do heroku create
+and let's call this rap names api fun cool
+so you can see right now that heroku has created an app for me called rap names
+
+03:07
+api fun right wrap names api fun and what we want to do now is take our
+code that we have here and put it on heroku server so we have one other thing
+we want to do before we do that which is we want to tell it like
+what file to run right we we've been doing the node server js on our end
+right we've been doing the node server js on our end we have to tell heroku hey
+if you want to run this code it's node server js right
+so we'll just do this lovely little echo here
+you'll see that it actually created a file called a proc file
+and that proc file is just saying hey heroku this is how you start this server
+boom that's it and then we have the last thing here which is to
+uh add our changes commit them and then push to roku instead so we're gonna do
+
+03:08
+make sure this is all saved hit add dot hit commit dash m roku changes
+and then we're going to do get push heroku master get push heroku master uh oh
+uh-oh push oh sorry main [Laughter] main it's been a long day hit push roku main
+boom it's pushing up to rookie literally it's taking our code
+and putting it on heroku for us look at this
+it's taking all the code that we wrote today and putting it up on heroku for us
+and cool so now we have this lovely rap names api
+
+03:09
+and it actually gave us the full url rap namesapifun.herokuapp.com
+if we were to go here we actually have our full app hosted right it's now hosted
+we can go to postman and let's like let's hit up our api route
+api slash let's do 21 savage boom we're getting 21's info back let's go
+ahead and do chance the rapper please say the rapper with the messed up t
+boom we're getting chances stuff let's go let's go it's live we online let's go
+and um i actually have some client-side code that i already wrote right
+um that i that i gave you as part of the package for today
+so we have our index.html which is already set up we have our client-side
+
+03:10
+javascript which was already set up with the fetch and everything
+but instead of it being this path going to the one that we just created
+and i'm going to open this client-side code
+so this client-side code has nothing to do with the server we just created it's
+purely client-side code i can put in 21 savage and the result
+should show up if i did everything correctly let's see
+uh oh i didn't put in the uh we didn't do cores yet
+we didn't do cores oh i'm running out of
+time let me do one fix let me do one fix let me do one fix
+so it works right we're able to get it from the
+
+03:11
+from the we're able to use postman we're able to get to work
+but since i'm requesting it locally right since i'm requesting it locally uh
+it's it's not going to work right so this was a local file
+right this is a local file right and this is a local file our
+server is not set up to handle the local file
+right we haven't told it to use cores yet we told it to use cores yet
+so let's go ahead and just fix that real
+quick give me two seconds two seconds we can do it all right
+uh cool thing about express is that it comes with well there's a
+module that we can get that'll handle all the cores errors for us so npm install
+cores and we're gonna save it cool so now we have an npm package called cores
+that will save it for us uh that we can that will handle all the
+
+03:12
+core stuff for us let's go ahead and do const we'll call it course
+we'll say require course right so now we have that package
+and then we just need to tell our app to actually use it so app dot use course
+there we go all right so now our app should be able
+to handle all of our cores errors no problem all right let's do
+get add dot get commit dash m fixed cores errors
+all right we added it we committed it um get push roku main
+all right it's taking all this new code it's sending it out to heroku for us
+
+03:13
+it's setting us up to roku for us cool is going to tell us when it's done
+buildings remember all this code is going to our server on heroku
+for free this is a free account you don't need to pay for heroku all right
+so it should be updated let's check postman real quick make sure the api is
+still working let's put in 21 savage boom it's working
+come on local client-side code let's refresh just to make sure 21 savage
+let's click let's go so now any client in the world
+no matter if it's your client-side code running on your tablet your phone your
+
+03:14
+computer this client-side code can now use the code that we have running on our
+server to get the wrap data back it's hosted on heroku
+we can consume it from any client oh let's go
+we went a little over a little over tonight went a little over but we got it
+working so real quick whirlwind and then guess what we're gonna do on thursday
+guess what we're gonna do on thursday i won't wait over when a half an hour over
+i don't think that's way over i want a half an hour over so we come back on
+thursday we're going to run it all back and we're going to add a little bit to
+it but let's just take a quick peek before we we end the day
+we have our lovely modules that we're using express and cores and we set up
+our port we have a lovely object that we
+can use that we're going to respond with from our api
+we set up to hear two get requests a get request on the default path
+
+03:15
+right that serves up an html file we also have a lovely get
+that has an a different path with a query parameter we're able to grab that
+query parameter from the url we're able to use that query parameter
+to see if it exists that name exists in our wrapper's object
+if it exists in our wrapper's object we send back that rapper's info
+if we don't have that rapper's info we send back dailon dailon dailon
+we set all this up to listen to not only our port but also any port that heroku
+might give us and then we pushed it all to github just
+for funsies just so we could have it there and we pushed it to
+heroku and now that it's on heroku roku has given us this lovely url and we can
+all i can share this url with you all we can share this little url and you can
+
+03:16
+all access the app that we just built you could ping it you could use it in
+postman to get data back or you could build your own client side that would
+make a get request to this server now i know we're probably going to
+ddos it because there's so many of us here but
+what i want you to do between now and thursday right
+between now and thursday i want you to look at all the code that we did tonight
+i know it's a lot i know we pushed i know we stretched but we had a lot of
+really good wins it's it's down there's too many people
+hit it too many people pinged it you probably brought it down don't worry um
+we're able to build full stack web applications let's think about this holy
+smokes we're able to build out a server that can listen for requests that can
+generate responses what i want you to do between now and
+thursday is come back to this code dig through it make it make sense watch
+
+03:17
+the vod if you need to and then try building your own
+client-side code that pings my server right try pinging my server to get the
+data back so that means you have to build a fetch right cool
+all right when we come back on thursday we're going to run all of this back i
+know we ran out of time at the end so we're going to definitely run it back
+we're going to uh see all of these requests again we're
+going to build it over again we're going
+to get into it then we're going to add a few extras we're going to add an update
+maybe a delete right we're going to have more fun with this we're going to keep
+building it but as of right now you can build full stack web applications i hope
+tonight you saw that it's not too much it's just gets it's just post it's just
+puts it's just the leads we see that express does what we tell it to do send
+file send json what all right uh we're not gonna do a raid
+because we went way too over we're just gonna end it tonight please if you have
+
+03:18
+a little bit more juice left in here take a look at this code run it back
+between now and thursday and everyone have a wonderful wonderful night i
+actually think people want the channel points
+let's do a raid just because i know people want the sweet sweet channel
+points let's do that hold on i don't have anybody queued up though have a
+good rest of your night thank you for giving me a little bit more time thank
+you for uh sticking through the the little little overage here
+but on thursday we're gonna have a lot more fun we're gonna run it back if it
+didn't make sense that's all right we're
+gonna have some fun we're gonna build it out again and we
+will add to it all right folks have a wonderful rest of your night peace be well

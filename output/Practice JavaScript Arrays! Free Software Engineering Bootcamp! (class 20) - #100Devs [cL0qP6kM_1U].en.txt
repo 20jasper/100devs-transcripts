@@ -1,0 +1,1964 @@
+
+00:00
+hey what's going on everybody good morning good afternoon good evening no
+matter where you're coming from hope you all are doing well you know what like
+it just doesn't get old sometimes i come to to come to the desk i'm like all
+right time time to get into it time to teach and then the that song comes on
+and you feel it i don't know it does something gets me going
+what's going on everybody welcome back hope you're doing well
+i know i know we uh we did a raise on tuesday so i'm glad
+that you're still here with us on a thursday
+because it can get a little rough in the beginning but
+proud of every single one of you that come back time and time again
+
+00:01
+when html hit you you showed back up when css came at you you showed back up
+when javascript got weird and looked a little bit like math you showed back up
+that's how you get to the promised land folks you keep pushing
+we're gonna push we're going to review we're going to push we're going to
+review so we pushed a lot on tuesday i know we pushed a lot on tuesday but now
+we're going to come back we're going to get our active recall in
+our space repetition in we're going to carry these boats we're going to carry
+these logs and we're going to get there together all right folks
+glad to see you're here thank you macro we go glad to see you're
+here glad to see you're doing well we got we got some fun tonight we're gonna
+we're gonna go back to some basic functions and we're gonna see a raise
+all over again from the beginning we're gonna cover
+each topic again but this time we're gonna do slightly different examples
+we're gonna see it from slightly different angles we're gonna take our
+time we got questions we're gonna answer those questions i know when we get to a
+
+00:02
+raise it's the point where there's a lot of substitution there's a
+lot of this equals that and it can get a little
+tough the reading can get a little tough
+but guess what we're we're [&nbsp;__&nbsp;] tough
+so we're going to get through it already folks
+glad you're here glad you're here let's jump into it you know i like to do it
+we're always going to start off with some questions
+you got some questions i got some answers the question of the day uh and
+this comes from the office episode the hillary swank episode a raise
+hot or not throw it in chat for me please hot or not a raise please hot or not
+hot meaning they're feeling okay not meaning not so much i had a lot of hots
+and a lot of hots i have spices so hot fetch should we say they're fetch
+
+00:03
+nice tepid lukewarm a lot of hot still okay i see you
+a few knots here and there that's all right that's what tonight's for a few
+knots that's okay it's good to feel a few knots here and
+there means we're gonna get we're gonna tonight's gonna be value to a lot of
+folks beautiful all right we got some hot some knots
+beautiful that isn't to happen i'm going to make it happen already folks
+questions you got questions i got answers always like to give folks a few
+seconds to get in here so if you got some questions i got some answers
+are they really called curly brackets there there's there's a couple different
+names for them uh figure braces figure brackets curly braces uh people
+call them all different things i like to call them curly braces because i'm
+
+00:04
+it's a dope thing to do and i do dope things is domino's sponsoring the stream
+[Music] who's the sponsor well the the sponsor
+we announced on tuesday is microsoft coming for our git and github class so
+microsoft showing out for our get github
+class if you don't know microsoft bought
+git and github and so i'm sorry i bought github
+and so they're sponsoring our class that
+class will be on the 31st so end of this month is our get class and github is
+sponsoring it uh microsoft's coming through lots of swag we're doing laptops
+we're doing it big if you've never been here for a sponsored stream before
+poof we go out so it's gonna be fun we're gonna learn a lot but we're also
+gonna have a lot of fun a lot of raffles and a lot of cool stuff
+will be bill gates give us a tour of his magic toaster i mean we can ask right
+uh what is your opinion on devops is it possible for us to move into a devops
+
+00:05
+position it's a whole other um it's a whole other beast
+what we do is software engineers we write the code everything from when
+we're done writing code to it going live
+on servers staying up making it easy for developers to get their code live and
+all the tools and systems behind it that's devops so it's a whole kind of
+different beast it's a whole other skill set you would have to learn if you
+wanted to go into that area a really great streamer here on twitch
+is mastermind and they do a lot of more devops-y stuff so if you're ever
+interested in that kind of thing definitely check out some of their
+streams they actually did a a boot camp but they were like in person and they
+streamed the in-person devos bootcamp which is pretty cool you know
+is there a career that provides product management with software engineering
+yeah engineering management or just technical project management so there
+are technical pms that maybe aren't slinging code every day but understand
+
+00:06
+enough to be able to advocate for their team effectively yeah
+oh they're starting a new cohort muck all right i'll have to find out some
+details so i can share it with folks can we do some fundamental code wars
+together we will uh so blah did an amazing article on getting
+code war set up and then how to do a code wars uh so i shared their
+article with the last message on the following materials channel and then i'm
+gonna share their next like their like how to do it uh video they actually did
+like one live on the video so i'll share that after class and then we'll do some
+code wars together live as well we're gonna we're gonna make a little little
+game of it which i think will be fun yeah alrighty folks
+let's get into it a lot of review tonight i i really want to make sure we
+can take our time and go into detail spend a lot of time
+
+00:07
+uh making the nuns angry doing some diagrams trying to make a raise sink in
+a little bit better make a little bit more sense we got lots of other cool
+examples to get through lots of fingers on keyboard practice tonight
+but please ask questions as we go through this now
+if you haven't already please go ahead and check in exclamation point check in
+here in uh and different said leon i'm the fullest
+stack i got devops back end front end dbs mlai blockchain ui ux mobile desktop
+that's why i need to go indifferent we know why
+uh so if you haven't already go to check in for me please uh it really does help
+folks find us we might have scared a few folks away on
+tuesdays let them know that we're running back a raise tonight and so they
+can come back and get the help that they need for things to click a little bit
+more so if you haven't already please i really appreciate it
+check in i also the review class is up on youtube so our super review is back
+
+00:08
+up on youtube i fixed the weird error that was there so if you want to watch
+the super review it is on youtube you can do exclamation point youtube and
+watch it it's nine good hours i don't know know what no it'll be cool if you
+ever if you do watch it please give it a like just so that more folks can find i
+think it could be a really good entry for folks that want to try out 100 devs
+and so go ahead if you haven't already please give it a like when you watch it
+and um just leave it running if you got to go do errands or something just let
+it run let youtube think that you're you're still there you know let it run
+that way it gets served up to more folks it's a night hour class you can let it
+you can let it run it's all right leave it in the background you nee you need
+instead of instead of listening to lo-fi right instead of listening to lo-fi you
+can just put that nine hours in the background let let my my sweet sounds
+kind of enable you to to get work done alrighty there was a band that did that
+
+00:09
+i actually know if i can actually ask you to do that there was a band that um
+made a it was a it was a good name in the band was but they made an album
+that was just not there was no noise it was a full album but there was no sound
+and they asked all of their all of their fans to just play it at night right
+and play it at night so that so that they would go up the spotify
+rankings i always thought that was a really cool idea um leon trying to make
+that youtube money it's not monetized folks the youtube is not monetized
+no i just really want people to find it and so that's why i ask you to like um
+just so that folks can see it i really do think it's a good way for folks into
+100 devs and so yeah they're called wolf pack that's the name
+of the band ah that's funny that yeah they made 20k before spotify stopped them
+
+00:10
+that's funny alrighty so uh this one's a tough one i need a i need a
+little bit more time so i have uh the best news i could ever share
+it's the best news i could ever share uh it's something that i am immensely
+excited for immensely proud of it is the biggest announcement that 100 devs has
+ever had and so i really wanted to do it tonight
+and i can't do it tonight because i had some unfortunate stuff happen yesterday
+um so i need a little bit more time and we're gonna do it on tuesday
+but i i also was i've been debating for a while to say like what happened but
+i'm gonna say it because i want somebody if they're here
+to understand something and then we're going to move on so
+my wife is also an educator and last night one of their students was
+
+00:11
+unfortunately and this this is a a trigger warning if you if you the next
+few seconds could be a little it could be some bad news so i'm just going to
+give folks 10 seconds to mute me i'll say it quick and then i'll i'll turn it
+off so unfortunately one of my wife's students was shot and killed and so
+we just spent the night together and uh just my time that i would have spent to
+prepare for today um we that didn't happen so i spent the
+night with my wife just just being together um and unfortunately
+that's not the the first time we've had to do that and so
+i know this learning to code stuff it's fun i know that it
+can mean a better life for you and your family but for a lot of people
+or a lot of my past students it's a way out it's a way out to a life that can be
+
+00:12
+very very dangerous and so if you are here and you need that way out i got you
+we'll make it happen you let me know that that's what you need i got you
+so i wanted to put that out there because somebody might need to hear that
+tonight and i hope that you take it to heart i hope that you put in the work
+the hustle that you use can be a hustle that can help you on the way out and so
+i i wanted to put that out there and uh give me a little bit more time on
+tuesday we'll do it right we'll do it big um but need a little bit more time a
+little more time all right uh also we had a lot of a lot of other kind of
+things that had that i was going to announce today too so we we still have
+some fancy stuff to announce on tuesday as well
+
+00:13
+um zeus thank you for the gift it subs i appreciate you um the the the fancy
+stuff we have the of course best funniest portfolio and sorry not
+the best the funniest portfolio and the funnest project uh we'll announce those
+on tuesday as well and we'll announce the color from from tuesday as well so
+a lot of stuff coming up tuesday a little bit more time and as always if
+you want to be fancy if you want to be fancy please um
+big clips the clips have been great all right the the
+i appreciate the gift itselves but not not now please
+it's this it's not it's not the reason i share those things and so i appreciate
+the love i appreciate your support but but not right now yeah thank you um uh so
+the way you get the fancy color right the way you get the fancy color
+
+00:14
+the the the yellow right the the the golden yellow is if you make
+the best clip now the best clip right it can be
+it can be a fun clip or it can be an educational clip we're picking both so
+one person that got the golden color so far picked out a funny one and then one
+person that did an educational clip got it as well so best clip get a fancy
+golden color if you want to stand out on discord that's your way cool
+i always share a slido after each class for you to to post this the eclipse in
+yeah tony i got you alrighty now on tuesday we picked it up
+on tuesday it got a little spicy things are starting to come due
+and the the hard part right now is yes the code but it's also the time
+management right it's it's the it's the stuff that you have to do each week
+
+00:15
+the networking is becoming a thing the coding challenges are becoming a thing
+the reading is getting a little bit more intense and a little bit more is going
+to be asked of you as we start to progress through the boot camp
+right and so you have the paid client as well and so as the javascript gets a
+little bit harder and as you have the networking as you have the coding
+challenges as you have the paid client that all starts to
+to to ramp up a little bit right it all starts to get a little a little bit more
+tough and so i just want to make sure that we
+say it that as it turns up it's okay we understand that you're going to be
+it takes a little while to get up to speed remember it's a it's a marathon
+not a sprint right it's a marathon not a sprint
+if you need to take a little bit more time to get your networking up to speed
+
+00:16
+that's okay if you need to take a little bit more time to to get the daily
+challenges into your into your into your your daily routine
+that's okay if you need the the the the the time to to focus on the
+reading that's okay at this point in our our adventure you
+have to start figuring out how you're gonna manage your days and what what you
+need to invest more or less in that's okay
+and as we start to kind of keep going it does get easier
+it does the first couple of weeks is a it's definitely a shock to the system to
+know you have to be balancing all these things but that's the beauty of a boot
+camp it's one shot in your life that you put in this effort and it can pay
+dividends for the rest of your life the time you put into the networking
+will help you get a job the time you put
+into your client will help you get a job the time you put into the coding
+
+00:17
+challenges will help you get a job and so
+as things turn up just know that you're not alone
+just know that there's a huge community here that wants to support you
+and you're running you're we're all on the same roller coaster we're all going
+to get there together but don't be afraid to just hang on sometimes right
+sometimes you just gotta hang on you might not be enjoying the roller
+coaster but you're on it right you're just gonna be beyonce you're gonna hold
+on and we're all gonna get there together i want to do a live
+uh portfolio and resume review and so folks are starting to work on their
+portfolios they're starting to we haven't fully done our resumes yet but
+people are starting to work on them and so i want to do a class where we go
+through a bunch of them live so if you want the opportunity for me to do yours
+live like share it live like i'm going to roast you just a little bit like not
+
+00:18
+a lot just a little bit of roast right a little bit of heat right so if you want
+if you want your your portfolio and resume for me to give you a critique
+because what really happens is the the portfolios resumes i review the same
+stuff comes up over and over again it really everyone makes the same
+mistakes out the gate and so i really want to do this clash just so i can show
+you the common mistakes that folks make and how to correct them and how to make
+your portfolio and your resumes past that wonderful
+sniff test right and so go ahead if you know you want somebody to take a look at
+it you might want to do it live fill out that form for me and we'll do quite a
+few of them together so that's a class that'll be coming up not not super soon
+but in the near future just as we get closer to doing more resume and job prep
+stuff is there a deadline no i would say fill
+it out like this week if you want the chance i'm just going to pick a few
+we're going to do like five to 10 of them so if you you want to be in that in
+that raffle to figure out who it is um go going to fill out that form for me
+
+00:19
+all right as we kind of move into we have linkedin classes we will yeah we
+will have classes on linkedin we'll have classes on your resume all that
+professional development stuff we have like actual dedicated class time for
+do we need to remove personal info i would
+i'm not going to like edit anything so whatever you share with me i'm going to
+share live so if you want to blank stuff out or things like that definitely take
+the time to do that cool we're also going to do linkedin
+reviews all that fun stuff but that's a little bit later right now our goal is
+kind of coding and networking and coding
+challenges as we go a little bit further
+along we'll switch gears and worry about that professional development stuff
+pretty heavily all right another thing you're going to start noticing is that
+in class things are going to be getting a little bit harder a little bit more
+spicy if you're not doing the reading i'm going to assume
+that if i give you a week to get reading done that you've done it
+
+00:20
+now doesn't mean that we won't review the important concepts doesn't mean that
+we won't make things hopefully make a little bit more sense but i'm going to
+start giving videos and reading that i expected to be done within that week so
+that we can go a little bit faster during class we're at the point where we
+need to speed up just a little bit to get to the end at the right time and so
+we're going to kind of pick up the pace a little bit and they're gonna be a lot
+of things that you're gonna have to research on your own
+and there'll be some things that i'm gonna ask you i'm gonna say hey we're
+gonna be using these methods but i'm not gonna give you the resources for the
+methods or i'm gonna give you hey we're going to be covering this
+topic but i might not give you the resource for that topic and the reason
+i'm doing that is because i need you to start getting comfortable with the idea
+of being uncomfortable on the job right once you're on the job there often won't
+be tutorials there often won't be videos or even books or anything that
+will help you with that stack and you have to get good at researching things
+
+00:21
+on your own so know that there will start to be a few gaps as we pick up the
+pace a little bit that's intended for you to fill in those gaps to do the
+research to look things up even some of the practice problems we'll be doing
+during class i i feel a little bit like a jerk when i have to say it but a lot
+of some of them are going to be like hey here's this thing we've never heard of
+and in that moment you have to go to the mdn or you have to look i just need you
+to develop that muscle right so that when you're on the job you don't panic
+you've been used to it we've been doing that for weeks months right so know that
+that's coming the first couple times i'll be really obvious with it i'll
+really point it out but know that that's where we got to pick up that pace a
+little bit yeah all righty welcome to the trough of sorrow
+i feel like most of us are here uh let's do a poll real quick i just want to i
+
+00:22
+just want to know let me let me let me start a poll here new poll are you in the
+trough yes or no all right we're going to do a one-minute poll here
+go ahead and say yes or no for me please
+totally [&nbsp;__&nbsp;] is not a yes or no but i see you all right
+we're at about 75 percent of folks are in the trough of
+sorrow and about 25 of you are not that's the right place that that to me
+
+00:23
+is like a good a good spot to be and i think it's really important for
+everyone to see that those results right to see that result beautiful this is
+over a thousand people took this poll 75 of you are in the trough of sorrow
+and 25 of you are not don't feel bad for being exactly
+where you should be this is from blah me
+and blah were talking wednesday and this came up and i really thought it was so
+important that we had to that we had to share it uh in class so
+this this is from blah you shouldn't feel bad for being exactly where you
+should be you should be in the trough of sorrow by now we don't right
+you you should be in the muck it you should be you should be in the goo
+you should be looking around being like
+i don't know what the [&nbsp;__&nbsp;] leon is
+
+00:24
+talking about i don't understand he's he's drawn all these arrows but i don't
+know what those arrows mean i don't know what that that arrow from that i like i
+what i i'm here but i don't know what i stands for
+right like you should be in the trough of sorrow and you're gonna see that 25
+feel like they're not and it's really really difficult
+really difficult for when you're in the trough of sorrow where you should be
+to see folks that might not they're st they're like
+you're you're you're at the bottom in the muck and there are still some people
+coming down the roller coaster and they're having fun they're yelling
+they're wooing they got their beyonce hair flowing right they're they're doing
+the they're doing the most right you're in the muck but you're
+seeing folks still coming down the hill right they're gonna crash into the
+trough too don't let their fun don't let their fun
+get you twisted right they're gonna they're gonna crash into the trough of
+
+00:25
+sorrow too you're there they're coming down behind
+you don't don't get it twisted because here's what happens
+when we start doing daily coding challenges
+some folks do the most they can't help themselves they're flexosauruses right
+they they they they just they just have to flex right they they they do a couple
+code wars they're up in the hamilton channel they can't help themselves it's
+okay and this is you that's okay like like don't don't let me don't let me
+block your shine right but we got a lot of flexosaurus about 25 of
+us are flexosauruses right and so what you have to realize is that if you're in
+the trough it it really sucks to look around and
+see folks still wooing at the top of the hill
+right and so what i really need you to understand
+is that you shouldn't feel bad for being exactly where you should be right if if
+arrays aren't making sense that's okay if javascript's not clicking that's okay
+
+00:26
+if the coding challenges look like gibberish that that that's okay if you are
+still catching up that's okay uh you should be in the trough things
+should be mucky you should be doubting yourself that's where you should be
+so don't let the fluxosauruses coming down the hill
+like it looks fun until they crash along with you right and so be careful we've
+assigned a lot of stuff that's going to make you maybe not feel the best
+and that's okay you're going to get there to where you're going to start
+rocking the coding challenges you're going to get the client you're going to
+do those things but keep pushing through the trough of sorrow you're where you
+should be and you shouldn't feel bad about that and for the flexors that's okay
+shoot do your do you right just be mindful that we're trying to do this as
+a community right be mindful that folks might
+not be totally understanding the coding challenges yet and so if you flex
+also teach let's try that you're gonna flex teach
+
+00:27
+as well right if you're if you're gonna if you're gonna show off the the cool
+thing you did on the code wars help somebody else understand what you just did
+right it's okay to be a flexosaurus just we gotta pull folks along with us too
+cool all right thank you cool let's talk about some programming folks
+talk about some programming we're going to get i'm a stockosaurus that's all
+right coding gal nah nah that's not a good one nope that's not you
+trophosaurus there we go we're all trophosauruses
+all trophosauruses we're all going to go through the trough at some point
+today you tomorrow me it comes and goes all right let's talk about some
+programming folks a computer will do what you tell it to do
+
+00:28
+we know this through and through computer will do what you tell it to do
+a program is a set of instructions that you write to tell a computer what to do
+and programming is the task of writing those instructions in a language that
+the computer can understand the language that we write that we understand that
+the computer can eventually understand which is broken down is javascript
+javascript has a very specific syntax and that syntax
+is might be what's driving us through the trough of sorrow recently right that
+syntax is tricky once we start adding arrays and the square brackets and
+the the equals this and the substitution that can get a little wild and so
+tonight we're going to practice that syntax more
+we're going to get more hands-on keyboard practice we're going to spend
+more time with examples so that that syntax isn't as scary
+
+00:29
+javascript syntax when we learn a new topic sometimes it's pretty scary
+mushroom said leon trying to sneak masks on us and i ain't trying to sneak mass
+on you there's just there's just some substitution a lot of a lot of
+development a lot of programming is like
+all right this equals that i'm not going to say that's quick math but it's it's
+just it's something it's something that our brains have to click over to and
+sometimes it takes a couple classes for your brain to be able to click over to
+be able to follow the substitution pattern yeah cool
+so far we talked about variables our data buckets and we talked about how we
+can declare and assign variables so here i've declared a variable called age and
+i've assigned it the value of 25. talked about conditionals is another
+member of the big four conditions if if something is true we do
+what's inside the curly braces if that if is not true we check the else
+
+00:30
+if if the else if is not true the else automagically runs yeah
+roofiata said hold on i want to they spent their their highlight message
+customer told me to build an ecommerce website for them i told them a price
+that they brought up how someone who has more experience is charging them less
+for the sake of next time how would you handle this
+tell them to go like i i love that i love when clients tell me that they have
+somebody else that'll do it for less money here's my favorite answer when
+whenever a client says oh why like i like
+so-and-so is going to do it for cheaper
+the thing i in different go says [&nbsp;__&nbsp;]
+you pay me that's on the list but it's not what i say i go oh really like i get
+i i do i do really like that that much cheaper can i have their
+name and number please i got a lot of projects there they're gonna do it for
+that price i need their info can i have their name and phone number please and
+then i'm dead serious like can i have their name and phone number
+
+00:31
+and uh because that that's so that's a wild price and then no i'm serious can
+you give me that name and phone number thank you i really appreciate you i got
+a backlog of projects i i could really use their help but if they don't work out
+you know you can come back to me but good luck i can't compete with that
+price have fun you know why because a week later they call me back
+a week later they call me back it's almost always capped they always call back
+and if they really do have someone that's going to do it for that much
+cheaper then let them do it let them let them go and do it at that price
+well i'm not gonna i'm not gonna i'm like hey you do you
+we don't get got we go get exactly spicy leon is here
+all right we have our conditionals we check to see if the if is true if not we
+check the else if we have as many else's
+
+00:32
+as we want and we can have an else if we choose to we don't have to but if we do
+it automatically runs beautiful chat what's the danger between us
+between assignment and comparison danger between assignment comparison
+if we're still catching up would you recommend coming to a live class
+i recommend catching up and then joining live but watch the
+watch the super review and then maybe check out a live class or two so yeah
+come come watch a super review and then join a live class live class is fun
+yeah one equal sign versus three equal signs one equal sign you're
+you're assigning a variable two equal signs or three equal signs
+you're doing comparison and we always have to be careful of doing assignment
+inside our parentheses because it'll be what type of value what type of value
+could it be if we do assignment inside of the inside the inside of the
+
+00:33
+the parentheses what do we wind up with yeah
+we can wind up with something that is truthy
+it'll it'll evaluate as truthy which is pretty weird
+so that's something to keep in mind if you accidentally do the assignment
+remember we can have multiple conditions you can
+check to see if your name is leon and if your status is balling because if it is
+get a link at the camera beautiful you can also do or
+right you can check to see if the day is
+saturday or the day is sunday because if it is saturday or sunday then it is
+still the weekend beautiful functions chat what are functions what functions are
+we're powering through this review so we can get to the arrays
+
+00:34
+sets of instructions exactly sets of instructions sets of instructions
+marty katz thank you for the gifted subs
+scam vr thank you for the gift that subs i appreciate y'all for being here
+thank you so much alrighty they are indeed sets of instructions
+they're meant to be reusable right meant to be reusable the idea we write
+functions so we don't have to rewrite the same logic over and over and over
+again we just do a function and then we can reuse that
+function we can call it over and over again cool
+here we go we have a function the normal syntax chat what is this
+what did i just circle what do we call it i got you somebody they saw me
+squiggling out they thought i was going one way i i
+
+00:35
+i swear if i deeked them on a different way yeah it's a function declaration
+beautiful we're taking that set of instructions and putting it into memory
+how about this down here ah how about that down there what what
+what what is this down here beautiful yes it's a function call we're
+trying to make that function above run function call
+here is the basic syntax of a function we have our function call when we call
+mom we call to exactly norm we call to argue so we pass in hello which is our
+argument all right it's our argument our argument falls into our
+what is word chat what is word what's the word word word yes
+yes we're on fire tonight it's a parameter exactly i feel good i hope you
+
+00:36
+all feel good yeah the parameter beautiful loops wider loops chat with her loops
+what do they name us to do yeah they enable us to do something over and over
+again to do something in a repeated manner to to repeat some
+action again and again exactly cool so loops enable us to repeat an action some
+number of time we saw we know there are three main
+types of loops in javascript for wild do while we saw four and wild so far we
+haven't seen to do well yet we'll see that next week
+and we also saw some other loops on tuesday what was another kind of loop
+that we saw on tuesday yeah four each exactly cool
+and these different types of loops just really kind of determine when and when
+to start and stop your loops so here's the traditional for loop we set up our
+
+00:37
+counter we say when to stop counting we say how much we increment each loop
+and we go ahead and we can console log whatever that counter is each time so
+this would print one two three four we would add one to four we're at five
+is five less than five no it's equal it's not less than and so we would stop
+and only see one through four print it to the console all right
+we also have a while loop we set up our counter outside of the
+parentheses and we're going to say is 0 less than 5 that is true we'd wind up
+printing 0 and then we would increment inside of the loop uh if we forgot the
+increment we could run into some trouble if we got our end condition wrong we
+could run into some trouble running into a what yes infinite loop lipscope
+
+00:38
+exactly wonderful let's go ahead and do some practice problems let's
+let's uh let's see these big foreign action the variables the conditionals
+the functions and the loop so if you're new around here you need the starter
+code greed sorry join our discord and agree
+to the rules you'll see a follow along materials channel in that channel will
+be a zip file today unzip it and then open that code in vs code and that's
+what we're going to be working on together so
+today's code is all bachelor related but it's always the spin-offs some of them
+you might not have even heard of like in paradise or after paradise winter games
+summer games i don't know how long you've been part of bachelor nation but
+you're going to learn today all right folks let's go ahead and take a look at
+in paradise you're also going to notice that there's a lot of other stuff here
+
+00:39
+and that the slides go for way longer than we're going to cover we're just
+covering arrays tonight we're seeing more practice but these slides go into
+objects and all the code i give you comes with objects as well so
+what do you think you should do this weekend or before before tuesday
+all right some of my you don't have that whoa whoa i forgot
+we got the flex asauruses in here the flexor sources were like do it by friday
+midnight right no no just just read ahead read ahead a little bit look at
+the examples i don't need you to do them just just read ahead a little bit
+familiarize yourself with the big topics research anything that seems not in the
+reading that we covered right just i forgot some of you are like it'll be
+done by tonight no i don't need you to finish it tonight i just want you to
+
+00:40
+look ahead a little bit see what's coming for tuesday and thursday see the
+code we're going to work on tuesday and thursday that way it's not your first
+time we forgot we're good we're good all right let's
+take a look at this we got some variable practice some function practice some
+conditional practice and a loop i'm gonna put uh let's put four minutes on
+the clock here and have at it four minutes and then we'll go over it
+together you got this i believe in you we'll go over it together and then we'll
+probably take our break this is the review in paradise review in
+paradise always in the slides you always need the slides it's exclamation point
+slides if you need them but reviewing paradise is the one we're working on
+yeah three minutes 30 seconds what are some of us i always forget i
+
+00:41
+always mess it up what's your favorite sandwich i don't know if i have a is a
+oh no i don't really eat sandwiches is it glizzy a sandwich like a vegan one
+that a sandwich not sure i grew up eating hoagies i really do
+like hoagies but i don't really eat meat or cheese anymore
+put some music on for you while you're working
+
+00:42
+what's your opinion on pineapple on pizza you do you
+juicy got automotive but i have heard of them yes
+tony luke's has vegan hoagies now what that's wild
+it's all about phil's on 24th street though
+i'm at four years now maybe a little bit longer
+
+00:43
+but i haven't really eaten red meat or pork since i was nine
+it's phillips but i call it phil's coffee mouse gaming added two minutes to
+the timer folks when this hits a minute we're gonna bump it to three
+we'll bump this up to three as soon as it hits one coffee mouse out here
+all right there we go three minutes on the timer for the two minutes that we're
+at it strategic the vods are always immediately available
+and then everything gets uploaded to youtube uh probably like a couple days
+later a day or two later do you take supplements uh i take like a
+multi vitamin now but and vitamin d but the vitamin d is more
+for my bipolar disorder and not so much like i'm missing it in my diet i just
+
+00:44
+need way more d5a congrats on the offer that's huge
+attack that's all right you just gotta give yourself a little bit more time
+hold an a with the done pack have you done your repetition
+
+00:45
+that's what's really helped sink this in hey nicolo that's pretty dope
+a lot of folks done those extra two minutes that came in clutch
+congrats on the folks finishing hey election game
+just landed a small client for a little javascript widget that's oh congrats
+galaxy hope everything's okay when does it usually start to get better
+it depends on how on how much time you have
+not everyone has the same privilege of time and so some folks are able to get a
+little bit more repetition and it comes a little bit earlier um the best thing
+you can do is just ask a lot of questions jump on discord
+have someone help walk through things with you we have so many folks now that
+
+00:46
+help out on discord if you see folks in a voice channel don't be afraid to say
+hey i'm struggling with this thing can you show me
+we have so many folks that are kind of starting to ramp up more streaming and
+hopefully joining the stream team mayan's been streaming a lot mine was
+been streaming a lot which is pretty helpful for a lot of folks so there's
+always help to be had you just gotta you gotta help eddie you gotta ask for it
+uh there was a really beautiful uh article i was reading last night um
+or the night before that was talking about like tutoring and why they're
+why they're like less geniuses now and how effective tutoring can be for
+someone learning and um it just reminded me of discord
+and seeing so many folks giving up time and energy to help others learn and
+walking through stuff that gets stuck on and so
+please make sure you ask for help jump into those voice channels don't be
+
+00:47
+afraid to to ask for the help that you need
+alrighty folks come on back come on back let's go through this
+got the last one dope hey all right let's go through these together
+and then we will probably take our break alrighty
+declare a variable reassign it to your favorite food alert the value so let's
+go and say let fave food equal dominoes but i can't let this stay
+dominoes we have to reassign it so i don't get got i don't get in trouble so
+we're going to say fave food is dominoes then we have to reassign it to your
+favorite food all right so fave food equals i will say vegan pho
+
+00:48
+there we go vegan pho oh man i there's this vegan ramen spot near me
+it's a problem it's a problem all right declare your variable reassigned to your
+favorite food alert the value so we're going to head to alert favorite food
+beautiful declare variable assign a string alert the second right
+declare a variable assign it a string alert the second character in the string
+uh oh uh oh declare a variable assign it a string alert the second character
+all right so let's go ahead and do like the the normal
+the normal string that everyone starts off with hello twitch
+beautiful hello twitch and let's alert the second character in
+
+00:49
+the string how can we alert the second character
+there's a lot of things that we could do here all right i see some folks just
+saying use square brackets let's try that real quick
+let's try that real quick so let's just go ahead and say alert
+and we're going to alert extra and how would i get the second not the first
+yeah we put in one let's see let's see if this works if we
+see e we know it works so let's see if this works let's open in the browser
+all right we got vegan for and then we got e so we know it worked we see the e
+that was alerted and that's tiny but the e alert it so we know that it works and
+if we look we can see that string or strings in javascript also kind of
+
+00:50
+work like what they also kind of work like what
+arrays yeah we can we can kind of use some similar syntax one of the the odd
+things about javascript we'll eventually see why this is next week next week
+we'll see why these bracket notations make sense we'll see why it works this
+way but just know that like everything might be something that it's not
+let's just put that out there everything might be something that you don't know
+yet and eventually they can all kind of wind their way together so we'll get
+there there's also something else we could have done we could have done maybe
+a a method so i'm going to comment this line out
+this was kind of like one you could have researched if if you used your google
+foo or you went to the mdn um you might have found a different way of doing it
+with some other ways that we might have done it extra
+what was something else yeah char at so char at is a method that's built into
+
+00:51
+javascript or specifically with strings that enables us to get characters and so
+if i say char out one i get the same thing
+and what we're going to notice is that we're starting we we say 1 because we
+start counting at 0. the h would be 0 and the e is 1. so it doesn't matter if
+we're using the square bracket notation or methods that we found in our research
+we're gonna stick with that one so arrays start to play out
+or the understanding of zero indexing plays out a lot in javascript even when
+we're not dealing strictly with arrays cool functions
+create a function that takes in three numbers divide the first two numbers and
+multiply the last alert the product and call the function so let's go ahead and
+create the function we're gonna call this um divide and multi
+
+00:52
+and we're going to take in three numbers so we're just going to say n1 and 2 and
+3 as our parameters we could call them whatever we want we could call them
+robot unicorn chicken it just doesn't matter
+but we're just going to do n one and two and three
+divide the first numbers multiply the last and alert the product so let's go
+and say let prod equal and i'm going to use parentheses just so
+that my i know the order of operations here would probably be fine it's just
+cleaner for me to read i'm going to do n1 divided by n2
+and then i'm going to multiply the last so n3
+and that would give us the product and then we're going to alert that so alert
+rod beautiful we could have done it all in one line
+right we could have taken this and put it inside the alert that would have
+worked too same thing yeah why assign them and not alert straight away
+
+00:53
+just readability readability eventually our functions might do more
+returning than they do alerting right so eventually this might be a
+function that we call over and over again and so instead of alerting it we
+might be returning that product and that'll make it a little bit easier to read
+okay and then call it divide and multi and we can pass in some
+numbers here let's do 12 3 and 4. there we go
+i'm going to go ahead and comment these other ones out just so we can see things
+are working or not i'm going to comment both of these lines
+out and then we should see what should we expect chat what should
+what should we see if this works what should we see alerted if this works
+
+00:54
+all right we should see 16 right because 12 divided by 3 is 4 4 times 4 would be
+16. so let's see if this works and come back here i'm going to refresh
+and boom 16. love it this of course is the cast of the first
+bachelors in paradise just in case you were wondering who these uh wonderful
+people are leon said you said no math well we're i'm not doing the math the
+the computer's doing the math why are they so small
+because it's very hard to find photos of a lot of the bachelor offshoots some of
+the i'm glad you asked this this is a very important conversation
+so i said why are the images so small so a lot of the earlier bachelor
+like spin-offs or the like side shows they weren't really
+that like popularized and it wasn't like a big thing on the internet yet so it's
+
+00:55
+actually relatively kind of hard to find good photos of the entire cast or even
+individual photos of the cast without having to sit there and splice the
+actual show even some of the shows and the special episodes are hard to find
+online and so hopefully one day we get the full catalog but yes so some of the
+images are small because it's just really hard to find so did i spend a lot
+of time trying to find these photos yes did i spend too much time trying to find
+these photos yes but i think it's worth it create a function that takes in one
+number console log the cube root of that number and call the function function
+cube cubit or i should say cube root it there we go cube root it
+i'm taking a number i'm going to call that robot
+and then console log the cube root of that number
+
+00:56
+let's go ahead and uh console.log and how did you all get the cube root
+yeah we're going to use that math object that we talked about remember we talked
+last class but there's like this built-in math object that comes with all
+these goodies and one of them is the cbrt which is just the cube root so we
+can take the cube root root of robot beautiful all right we could have also done
+math.pal that i see some folks throwing out something there
+you could have also coded this out and so the cool thing about the cube root
+and one of the things i like about the mdn is
+also i'm putting a lot of spaces in here just to make it a little bit easier to
+read i wouldn't normally have these spaces i just kind of make things a
+little bit easier to see for folks that are new to using uh these methods
+yeah so if we were to console.log oh sorry we already canceled we just got
+to call it so cube root it let's pass in like nine there we go let's save this
+
+00:57
+let's go to the browser let's uh refresh and let's open the inspector
+and in the console we can see the cube root of nine that's weird now
+that's cube not cube root [Laughter] um where's a lot of decimal places here
+there's a lot of decimal places here how could i how could i
+maybe not have all the decimal places i don't want to round it i just want
+like i just want like maybe to like the fourth decimal place
+yeah square root of exactly square root of nine is three this is a cube root
+it's different sure i picked a better number than nine
+
+00:58
+yeah we have this idea of two fixed let me show you i can do this here two fixed
+two fixed and then i can pass in a number let's pass in four i'm gonna save this
+let's change our number uh let's keep nine let's keep nine um
+i'm gonna do two fixed four and let me refresh again
+and now you can see we just have to the fourth decimal place
+right we have until the fourth and so instead of having the longer chain we
+have the ability to so there's a lot of really cool stuff that's just built into
+javascript right this math object that has cool stuff like cube root uh this
+method to fix which will help us remove reduce the um number of decimal places
+and so when i talked about this idea of researching right starting to google
+some things that are gonna there will be
+some things that we just haven't covered but are easily googleable right and so
+
+00:59
+getting used to using the mdn using the mdn to find cube roots using the mdn to
+find um these little things they're going to
+keep coming up in the challenges is what i want you to get comfortable with
+because on the job that's what you do when when when you have to do the cube
+root of something you're not going to you're not probably
+going to sit there and bang out the cube root code you're probably just going to
+figure out like oh does javascript have a way of doing cube roots and then use
+that one of the things i really do love about the mdn though is mdn cube root
+cube root cool if we look at the mdn this new layout like it keeps bob i i i
+think it looks good i'm just not used to
+it i don't like change uh the cool thing i like about the cube root is it
+actually shows you like the code behind it right
+i actually like the co it shows you the code behind it i should probably put on
+dark mode sorry there we go it actually shows you the code behind it and so if
+
+01:00
+you wanted to not use the built-in code you could like actually see how they
+would write it out which is pretty pretty dope uh so i really do like the
+mdn when they show the the like the actual stuff behind it and i'm just
+really glad i don't have to know how to do this i can just use the cube root
+yeah that's it sorry for the the flashbang yeah we'll
+use dark mode on on there it's it's pretty though yeah
+a polyfill means that maybe sometimes there might be a browser that doesn't
+give you access to this cube root and how would you like write code to get
+around it and so it shows you the code that you could use so it's just kind of
+like what could you use to fill it in like what could you what code could you
+use to get around not having that object built in
+is it better to put console log and alert in the function then like that
+
+01:01
+rather than using return and doing console.log later uh it's not really
+it's just it's just a demonstration i i don't really use these like console
+logs or alerts that much in my actual coding it's just so that we can visually
+see what's happening i would probably be using return mainly
+in a lot of my actual codes so don't you don't have to get kind of worried about
+like using console console.logs or alerts just so that we can see what's
+actually happening a little bit easier yeah conditionals
+create a function that takes in a month and if it's a summer month alert yay if
+another month alert boo so what are we going to use what are we going to use
+here what what are the big four we're going to use here function check for
+summer yeah we can just use some sort of conditional
+we know we're going to take in a month so let's call our parameter month
+
+01:02
+let's have an if and we're probably going to have an else cool so we can say if
+month equals what's the first what's the first june right if month
+equals june what's wrong here what are some things i want to get into
+trouble with here yeah warning warning will robertson
+exactly uh this is assignment this is not comparison i'd be reassigning month
+to june no matter what it'll be true so that's our comparison we could also say
+or there we go or month equal july i'm really struggling with these most july or
+month equal august oh yes there you go august beautiful
+
+01:03
+uh and then there's some other things we might run into right
+i might run into something else what i consider a switch case yeah i
+could but we haven't really covered those together yet
+yeah what if what if somebody does it capitalize we gotta make sure that month
+is lower case so let's go ahead and say um i actually want to create
+like a different variable for it just to make a little bit readable
+let's say let month lower case equals month dot 2 lower
+case beautiful and instead of this being month this will be month lower case
+month lower case month lower case beautiful
+could you make an array of summer months in winter months you could yeah that
+could be something you could do and then there are some methods that are
+
+01:04
+built into a raised like includes where you could just see if it like you could
+just take the month and see if it's included in your array
+we'll get there folks we'll get there we're not there yet but we'll get there
+and that's something you'll see a lot in your coding challenges yeah
+there's there's methods built in with arrays that enable us to like not have
+to do the conditional logic smart don't break my brain yeah we're not
+there we're not going to get there yet uh so this is supposed to be an alert of
+ea and this should be an alert of boo i might be at the point where i would
+maybe also have an else if for all the other months right if i was if i was to
+really do this i would have my if or my summer months i would have an elsif for
+all the other months because it says if another month alert boo and then i would
+have an else that says like not a month right so i would have an if for the
+summer months and else if for all the other months and then an else that would
+like an l saying like not a month so slight semantics here if we had a little
+
+01:05
+bit more time that's what i would do yeah
+yeah we only gave us four minutes to do this yeah exactly so a little bit more
+time that's what i would do loops create a function that takes in a number
+console log every number from one to that number while skipping multiples of
+five all right so we want to print from one to a number but if it's the number
+if it's a multiple of five we don't print that number we just we just we
+just skip over it we'll do this and then we'll take our break cool
+so let's create our function here i'm going to call this skip five or skip
+fives beautiful we're gonna take in some sort of number it's gonna call it n and
+we know that we're gonna if we're gonna if we're gonna go from one to some
+number what do we need we're gonna go from one to some number what do we need
+
+01:06
+a loop exactly so let's go and just do a for loop for now
+we've seen that syntax the most let i equal and since we're starting at one
+we'll set it at one while i is is less than or equal to n right one to that
+number uh so while less than or equal to that number and then i plus plus
+and then what we want to do is we want to check
+is the number divisible by 5 well is the number not divisible by 5 well
+we can say is the number divisible by five right no
+let's say not divisible by five so we can say i mod five does not
+is this what is it hold on console log every number one to that number while
+skipping multiples of five so as long as it doesn't equal what as long as
+
+01:07
+i mod five does not equal zero right then we console log that number
+beautiful there we go right so what we're saying here is hey
+take whatever the number is divided by five as long as it is not zero
+then print that number to the console because let's say this works so one mod
+five would work two mod five three mod five four minute five five mod five
+would give us zero so since zero is not equal to zero we wouldn't this wouldn't
+be true we wouldn't print it to the console so the idea here is that
+this will always be true and we'll always print the numbers to the console
+unless the number we're currently at is divisible by five
+and this is using the not there's maybe some slightly other ways to do it too uh
+there like the this like this like not logic is something that some programmers
+try to stay away from but i like i like to think about it this way for now we'll
+
+01:08
+see some other stuff when we get to our coding challenges later on
+i misread it i thought we were going from one to that number by counting by
+five that's what my brain went to immediately as well i thought i had to
+jump by five that's why i had to reread it
+beautiful all right so we'll go from one to the number
+as long as that number is not divisible by five which would make it a multiple
+of five we print the number to the console
+if it's false we just don't do anything we just move on to the next number
+all right let's go ahead and save this and let's go ahead and take our break
+when we come back we're we're at the top
+of the hour so at the top of the hour we
+always like to make sure we stay healthy if you're new around here we get up we
+if we're able to we move around we hydrate uh we we let our eyes focus on
+something that's not the screen and when we come back a raise baby we're going
+back through it we're gonna have some more fun different examples more
+
+01:09
+practice more hands on keyboard let's make a raise make sense five minutes on
+
+01:13
+the clock beautiful all right see you all in five me yo
+
+01:14
+thank you for the hype train linux is sure to use i use a bunch of them
+mainly a debian user sombore shuffle yes please haven't yet mango
+alright folks come on back come on back let's get into some arrays
+what up daddy yankee throw those doritos in chat hey i see
+all righty come on back leon how do we decide what rates to
+charge you don't you figure out what their budget is and then you ask
+yourself what can i get done at that price point that's it
+
+01:15
+i love a raise me too blah i think arrays are like
+i i try to explain this when i talk to like other folks about
+learning the code arrays are like one of the first really big stumbling blocks
+for a lot of folks it's like the first time that things kind of get i i think
+reasonably overwhelming right it's just something i see across all my students
+so there's a reason why we did it on tuesday we pushed you to the point where
+it was hurting a little bit and there's a reason why we're going all over it
+again today with different examples right so the arrays i understand like i
+know it like i know that for some folks arrays take a few classes to click and
+then for some folks it's the the object to take a few classes to click that's
+okay we're going to review it right now and we're going to review it on sunday
+so even if even if today's not enough that's all right come back on sunday
+we're going to do it again we're going to do a normal kind of office hours
+where i answer questions we're going to do a lot of practice with arrays too
+
+01:16
+and spark's number two late never too late
+and then the cool thing is once you find
+something that's difficult yeah somebody was saying uh diablo said this right
+once you find something that is difficult the cool thing about being in
+the flow with code wars is that you can search for specific problems don't do it
+yet do level eight fundamentals track but eventually you could just do array
+problems and so we'll eventually have weeks where we just do a raise we'll
+have weeks where we just do loops we'll have weeks where we just do
+objects right and so the uh that idea of using code wars not only is
+like an interview prep tool but as a learning mechanism is huge a lot of
+folks say hey like how do i where can i practice my code well that's what
+codewords is for do level eights and search for array problems do level
+eights and search for the specific thing that you have trouble with yeah
+and if you're on code wars the clan is and it's case sensitive
+
+01:17
+octothorpe 100 devs hyphen leonwell.com twitch that is the full clan name uh
+it's funny seeing like all these other small ones because people didn't type it
+right or plugged in the wrong thing but if you want to be in the official
+100 devs clan it's the octothorpe 100 devs high finley on the well dot com
+slash she could do exclamation point clan here in chat uh
+eventually we'll have some cool prizes and some ways to get some some cloudy
+stuff here in chat so uh last cohort we did the person with the most growth
+um from one month to the next they got vip
+so we're gonna do some fun things like that we'll pick some random folks that
+are participating in the clan we'll pick some
+folks that did the most we'll do folks that are the highest ranked and we'll
+give out not only like special colors on discord but vip here on
+uh twitch so if you want to make sure you're in the official clan because
+there's there's perks folks there's perks alrighty
+
+01:18
+a raise what the heck are arrays what the heck are arrays i love perks me too
+warmth they're toasters exactly i'm glad we all get that next
+yeah so i like to think of a raise like i think of toasters one thing
+that can hold multiple other things and we talked about my what i thought was a
+good toaster we talked about 50 cents toaster and then we talked about bill
+gates toaster right and bill gates toaster
+whenever you fill up all the slots a new slot automatically appears
+and so that's kind of what our arrays are they are one element that is a
+collection of other things and so if we kind of break that down a little bit
+further an array is technically a data structure
+it's a way of storing an ordered collection
+
+01:19
+when i say ordered collection what do i mean
+what do i mean by ordered collection yeah it comes with indexes it starts at
+zero that's the beautiful thing each slot of our toaster has elements in
+it but those elements those slots we start counting those slots at zero right
+and the beautiful thing about arrays is there are a lot of methods that are
+built into javascript a lot of functions that come with javascript that make
+working with arrays really fun enables us to do some really powerful stuff we
+saw how powerful for each could be but there are so many other methods that
+we're going to start seeing today map eventually in a couple weeks we'll
+see reduce and filter includes all these wonderful things that come with arrays
+that make our lives a lot easier but we'll get there in good time
+there are two ways to create a raise there are the constructor way which
+
+01:20
+we'll get to next week with objects and then there is the literal notation right
+yeah the the clan the the clan link is not a link that's the the actual thing
+you throw into your clan um on code war so it's not a link to it it's it's the
+thing you plug in yeah so there's the object way
+and there is the literal notation way and so literal notation is just using
+the square brackets right the square brackets beautiful
+when you declare an array you can populate it with elements so here i have
+three elements in the array as i as i assign it a value and what you'll notice
+is that arrays can hold any of the other data types we've talked about so far
+they can they can hold strings booleans numbers heck they can even hold other
+
+01:21
+arrays bill gates toaster guess what he got a second toaster and put a toaster
+in his toaster sometimes you just you're just not doing life right you know
+they got a toaster in the toaster one day one day so we got a zebra
+we got a boolean we got a number and if we're at bill gates house we got a
+toaster inside of our toaster now the tricky part the tricky part is
+that we start counting the slots on our toaster at zero our arrays are
+zero index so if i want the first element out of the array what is its index
+
+01:22
+the first element what's its index beautiful
+what is at what what city is that the second index it was zero that was correct
+yes sydney is at the second index zero one two sydney is at the second
+index what is that the fourth index undefined exactly there's no there's no
+fourth index that's undefined it doesn't exist beautiful alrighty
+now this is where i think a lot of folks kind of got tripped up not only can we
+put stuff into a raise we can get stuff out of an array and when you see this
+notation here this is grabbing the value out of the array so we're using the
+
+01:23
+array name and the square brackets along with its
+index when you do that you are pulling the value out of the array so here
+i have gone ahead and pulled out zebra since zebra is new array
+at index zero this is the index zero so i have pulled out zebra and since this
+is inside of a console log we would see zebra print it to the console
+right just like if we had a toaster here's our toaster
+this is a three slot toaster i don't know why there would be a three slot
+toaster but there could be and here's our zeroth index our first index
+
+01:24
+and our second index and inside inside of the first slot we got a pizza bagel
+inside the sorry the zeroth index we got a pizza bagel in the first index
+we got a piece of bread and in the second index we got a toaster strudel right
+you can tell the difference between a piece of bread and toasted strudel right
+there we go so if didn't know leon was an attack on titan
+anime internet that's funny uh so here if i want it and this i'm gonna call this
+toasty this this toaster is called toasty so if i want it toasty square brackets
+
+01:25
+2 what this is going to give me is it's going to grab the toaster strudel for me
+this is the same thing as grabbing that toaster strudel i'm saying go to the
+zero one two the second index and grab that toaster strudel this is the same
+thing as grabbing that toaster strudel right if i want toasty
+square brackets zero that's the same thing in
+as coming in and grabbing that pizza bagel i might as well just erase this
+and put in pizza bagel right and then if i want toasty
+square brackets one that's the same thing as going in and grabbing this
+boring piece of bread and it's i can just get rid of this and it would just be
+
+01:26
+a piece of bread beautiful now here i'm doing the same thing
+i'm grabbing the zeroth index out of this array which is the same thing as
+plopping in zebra and that's why i would seek log to the console zebra
+then here i'm going and grabbing the thing in the first index
+but is there anything in that first index chat
+is there anything in that first index no so we get undefined print it to the
+console remember we're still inside of a console log we get undefined printed to
+the console then we try and grab the thing out of
+we try to grab the thing out of the second index which is a boolean of true
+so it's as though true as though true was right here right and
+then the last one we're grabbing the thing out of the third index and that's
+
+01:27
+going and grabbing 21 21 21 21 21 and so that's as though this got crossed out
+and there was just 21 and we would see 21 printed to the
+console so when you see this notation it enables you to pull stuff out of the
+array now where a lot of people get tripped up they maybe realize oh that's just
+pulling something out of the race just like using a variable right we can pull
+stuff out of the array where folks get tripped up
+is that we can also put stuff into the array using that notation it's the same
+thing as reassigning a variable so what we're saying is hey find that array
+go to this index and put this inside of it put that inside the first index
+so let's actually type this out because i think this this this tripped up some
+folks last class i want to spend a little time on it all right
+
+01:28
+so let's go and create an array let's call this let's call this um let cool cars
+equal and then we're gonna set up some cars [Laughter]
+the wrong key over and over again all right we got our square brackets
+and let's do some cool cars what are some cool cars
+lightning mcqueen yeah there we go all right we we got a 1998 honda
+
+01:29
+accord beautiful what's another cool car here oh 2017 toyota yaris
+definitely a cool car and a race car bed that's awesome race car
+bed beautiful so now if we ask for cool cars
+we can see we get this array back of 1998 honda accord a 2017 toyota yaris
+and a race car bed if i wanted to actually replace
+the thing that's not a car right the race car bed is a cool car but it's not
+a real car so what i want to do is i want to reassign race car bed to be
+a cool car so i'm going to do cool cars and i'm going to use what index what
+index would enable me to reassign racecar bed
+yeah i'm going to use that second index and we are going to change it equal to
+
+01:30
+2015 nissan gtr midnight black edition psych 2015
+hyundai i'm not about hyundai that's embarrassing 2015 kia ultima there we go
+beautiful hit enter and now when we ask for cool cars back
+you can see that we get 1998 honda accord
+we get a 2017 toyota yaris and we get a 2015 kia ultima
+oh the engagement's too easy the engagement's too easy this is a good one
+
+01:31
+but here the point is is not only can we use to get stuff out of the
+to get stuff out of the array we can use it to put stuff into the array
+right we can we can we can put stuff into the array and so here i just use
+that notation and i set it equal to 2015 kia ultimate and you can see
+it changed from race car bed to 2015 kia ultima beautiful alrighty
+let's keep pushing here we also saw something really interesting
+right we saw something interesting and that was that was
+that when we have an array we can actually overwrite a whole array
+by reassigning one array to another and so here i have an array of cars honda
+
+01:32
+toyota4 tesla and then here i have an array of numbers one two and three if i
+set cars equal to nums well now cars is holding that one two three array and
+when i console lot cars i get one two three right you can overwrite whole
+arrays by assigning an array to a different array so the idea here is that
+you can not only reassign individual values but you can reassign the whole
+array if you want to what if they're different length it just
+doesn't matter it overrides the whole thing
+yeah speaking of length if you ever want to know how many elements you have in
+your array you can do dot length and when you do dot length it gives you the
+total value sorry the total number of elements in that array so this is really
+helpful to figure out how many things are in your array and get that value out
+alrighty let's go ahead and get some practice and we've reviewed the the
+
+01:33
+basics let's get let's get our fingers on the keyboard here a little bit i want
+you to open up in paradise after paradise so
+we have this uh after paradise is of course like the the the after show
+behind it so we have this lovely review in paradise after paradise i'm
+gonna open up this html and this javascript and if we look it's just one thing
+create a function that takes in an array if the first number is less than the
+last number alert hi if the first number is greater than the
+last number alert by if they are equal alert we close in an hour so this is
+going to require you to be able to pull stuff out of the array using its index
+to do a comparison in your conditional so let's go ahead and put
+let's do four minutes on this one four minutes on this one
+
+01:34
+and then we'll go over it together i agree with blah you all can do this
+dig deep think it through think about how you can grab stuff out
+think about how you set up your conditional look at the previous slides
+look at our conditional slides if you need to
+five minutes three four minutes on the clock about it we'll go over it together
+oozie said blah has too much faith in me no they have just the right amount of
+
+01:35
+faith in you some dunzos that's okay [Music]
+on adamawan is back hey how you doing i do crispy nugget but that one required
+um me to put like different stuff like um different licenses on the youtube
+videos i just didn't feel like it just i just never remembered to do it and
+um just got rid of it because of that stream beats is much easier you don't
+have to put a license on the video minutes left
+
+01:36
+oh yeah i do i like indian food a lot tiger give us a little bit more time to
+go through the the forms leon why do we start earlier than before
+because in the us we have daylight savings time which means that our clocks
+change twice a year and so the time may be different because
+we have daylight savings time in the u.s [Music]
+oh that's right yeah arizona does it differently right
+
+01:37
+done for the first time hey congrats soon don't worry if this one got you we're
+gonna go over it together uh we used to we we took in a cat for a
+while that was named burani it's funny that's your favorite favorite
+yeah we had a cat named that for a while all right folks 30 seconds left
+will the cat dog can make a return yeah it will eventually
+i have not yet although some folks have been organizing their own in the
+
+01:38
+location channels malaysian dish too that's cool i didn't know that
+all right folks come on back come on back is a switch better than if else no i
+mean they just have times that you might use one over another or a preference
+when i say it's better or worse unless you're talking about like
+like really nitpicking like time complexity and stuff like that but
+even then that's what i think i would really worry about
+all right folks come on back let's go through this together alrighty
+create a function that takes in an array if the first number is less than the
+last number alert high if the first number is greater than the
+last number alert by if they are equal alert we close in an
+hour so before we get into uh before we get into
+like the the function or the conditional there's two key things we need to know
+
+01:39
+how to do we need to be able to get the first
+value out and we need to be able to get the last value out of the array so let's
+let's pretend we had an array that was uh 10 20 30 40 and 50.
+and we're going to call this array let nums equal there we go so we have an
+array of nums equal how could i get the first value out of this array
+step one plug in your toaster yeah i could do nums
+zero that would give me the first value and so that would be ten
+and if i wanted to get the last value out of the array what could i do
+last value out of the array i could do this right i could do
+zero one two three four and i could use the fourth index and
+
+01:40
+that would give me 50 right but that wouldn't work if i kept adding new
+numbers like if i added like another number here like 60 this would be that
+four would be hard coded and it wouldn't give me the last number it would always
+give me the 50. i need some way of grabbing the last
+number no matter how long it is and so the thing we learned last class was
+nums dot length minus 1. so if we actually break this down
+nums.length in this case would give us one two three four five
+six elements remember numbers.length would give us six because there's six
+elements in the array so that's the same as plugging in six there
+and then i have to subtract by one y i have to subtract by one y
+
+01:41
+is there a sixth index here yeah it starts counting at zero so zero one two
+three four five if i actually went to the sixth index
+it's it's over here right it's it's over on this side there's nothing there
+at the sixth index so i always have to subtract by
+one and that would give me five and that would wind up pulling out 60.
+right so we have to do the length minus one right
+length minus one so that we can get the last element in the array remember
+length gives you the total number of elements but we use the index to pull
+stuff out of the array you have to find the correct index so
+now with that knowledge let's go ahead and create this function function check
+first and last and we know we're going to take in an array
+
+01:42
+i'm just going to call it our we call whatever we want we could call it uh duck
+unicorn it doesn't matter but it's an eraser we're going to call it r for array
+and we need to check if the first is less than the last we're just going to do a
+nice conditional here a nice conditional here
+and let's go ahead and grab the first number that first number is always going
+to be square bracket zero that one's easy we can always grab the first one
+a lot of folks are saying what about like the methods like pop and stuff like
+that we're gonna get there later today later today we'll see pop and we'll be
+able to use that going forward if we want it
+all right but that would also we get into like array mutation but we'll talk
+about that later all right array zero would give us the first and we want to
+check to see if it's less than the last so we'll do array equals array.length
+minus one beautiful so what we're going to say is if the
+
+01:43
+first number in the array is less than the last number in the
+array what do we do we alert hi cool and then we're going to have an else if
+and we're going to say in the else if and the else if we're going to say if the
+first number is greater than the last number so we can kind of just repeat this
+again grabbing that first number with the zero index greater than the last
+same same trick again array.length minus one we just switch the the the arrow
+here to be greater than and if that was true we will alert by
+and then if it was not less than or greater than the only leftover result
+would be what chat it wasn't less than or greater than the only leftover result
+would be what yeah the only thing would be left would
+
+01:44
+it would be for it to be equal so we can just do an else
+we want to check anything we know that would have to be equal and so we can
+just alert we close in an hour beautiful how are we feeling about that one
+pretty close you got pretty close that's good pretty good hot all right cool
+all right let's keep pushing folks nailed it like to hear it
+still a little struggle that's all right we'll keep pushing
+all righty the the thing where we kind of got a little fast and loose last
+class is when we started to try and iterate through our array so we tried to
+like move through the array and so this is where it can kind of get
+
+01:45
+a little a little wild especially when we introduce things like four each
+and so a lot of times when we have arrays we're going to want to
+be able to pull stuff out of the array one after another
+all right you gotta to pull one out after another and so
+the wonderful you got ads how did you get ads we ran three minutes
+less than an hour ago that really annoys
+me i'm sorry you all get ads sometimes i i wish there was a way for me to to
+turn them off entirely i would pay twitch money i wish i could
+pay twitch money to not run ads like whatever they're making out the ads
+like like i know it can't be that much he's a host
+cool all right i'm just giving folks a second because the ads really get my goat
+
+01:46
+alrighty yeah i mean we run ads so folks don't
+get the midstream and no pre-rolls but it still happens it's weird already
+we want to be able to move through our array so i want to be able to grab each
+element out of the array and so here is a loop that's going to enable me to do
+that and so here i have a normal for loop that we've
+been setting up we have our counter called i
+we're going to run until we we're going to run once for each element in the
+array and the reason i know i'm going to run once for each element in the array
+is because i'm going up to the length of the array this is the same thing
+as if i had said four because there are four elements in this
+array so this loop will run four times because we're starting off at zero
+if we started off at one how many times would this loop run like if we started
+
+01:47
+this off at one how many times would this loop run yeah it would run three
+times and not four but since we're starting at
+zero and we're going up into the length that'll run four times for us beautiful
+all right now the very first time this loop runs what is i
+the very first time this loop runs what is i
+i is zero exactly i is zero so if we ask for best colors zero that gives us
+green so it's as though we plugged in green
+into this console log and we print out green to the console
+then the counter goes up by one and now when this runs we're doing best colors
+
+01:48
+one and that's the same thing as going to the first index and grabbing blue
+which is though we put blue in here and we wind up console logging blue
+the next time this runs i has gone up by one and we're at two
+so we're gonna find best colors zero one two
+we're going to grab yellow and those we plugged in yellow right here and so we
+wind up console logging yellow then the count goes up by one and so
+we're plugging in three and so it's as though we did zero one two and three
+grabs black we plug black in and it's as though we had plugged in the
+
+01:49
+string of black and that gets logged to the console then we add one to i
+and we're at four is four less than four no it's not less than four
+and so since it's not less than four we stop and we're done we're done
+printing things to the console beautiful what would you use array iterations for
+let's say i wanted to see everyone that showed up today right let's say
+a month from now you say hey leon can you take a look at my code
+i want to see if you were in class so i could check the attendance by looking at
+
+01:50
+the tweet and that tweet has all the folks that
+like the tweet so i can throw all the folks that liked the tweet into an array
+and then i could loop through that array and see who was there
+right i can maybe print all the names into into a list for me to easily see
+who was here or not exclamation point check-in
+so the idea is that arrays are really helpful for keeping track of a lot of
+stuff we could use them for attendance we could use them to add in certain
+things as we come across them which is a way of keeping track of a lot of
+elements at one time alrighty we also have this
+other method right this other method that came up with arrays called for each
+
+01:51
+and what for each does is it's the exact same thing as a for loop
+right it's the exact same thing as a for loop it just does a few things
+every single time it runs so the beauty of four each oh
+blog got a good hydrate hold on blah blah when blah does the hydration all
+right we're gonna this is the water we're gonna finish it there we go
+cheers to you blah thank you for the hydration
+that's some only fan stuff right there hey only a million channel points that's
+
+01:52
+all i got to say alrighty so four each all right four each is the same thing
+as our for loop right as our for loop same thing for each is going to run once
+for each element in our array so how many times will four each run
+on the best colors array how many times will four each run on the
+best colors array four times because there's four elements
+in the array the length of the best color arrays is four
+so four each is going to run each time now here's the really important question
+each time four each runs what does the 4-h goblin grab
+every single time for each runs we know it's gonna run four times but what does
+
+01:53
+the for each goblin grab every single time it runs yes
+the 4-h goblin's gonna grab the element the index
+and it's going to take note what array it just stole stuff
+from is going to grab the element the index and it's going to take a note
+oh i stole that from the best colors array and so the cool thing is each time
+for each runs this goblin can go and grab that stuff
+and the goblin is going to pass that stuff into this function here
+every single time 4-h runs the goblin runs and grabs the element the goblin
+runs and grabs the index and it writes down oh i got it from the best colors
+array and so every single time that goblin
+runs it's going to pass in the element it's going to pass in the index and it's
+
+01:54
+going to even pass in the array that it came from so right now what bucket
+what's the bucket the goblin is using to hold the element
+right now looking at this code what is the bucket that the goblin is throwing
+the element into yeah the goblin is throwing the element into the bucket of x
+and what's the bucket that the goblin is using to throw the index into
+yeah it's going to throw it into i so here we have this idea that we're throwing
+the goblin is throwing the element into the bucket of x and the goblin is
+throwing the index into the bucket of i and then it's also
+the goblin is also trying to throw the array into this function
+
+01:55
+but is there a bucket for it no so so the so the the the goblin
+is like throwing up the shot but it's just it's just an air ball every time so
+the first shot the the element falls in the x
+the second shot the the index falls into i but then it tries to throw the array
+into the function and each time each time it just poofs it disappears
+right there's no bucket for it cool so if we were to let this run
+the very first time this 4-h runs the goblin's gonna grab green
+and zero so it's gonna throw green into x and 0 into i
+and we're going to see print it to the console
+
+01:56
+what what's going to get printed to the console the very first time green green
+does anything happen with the index no nothing happens with the index because
+we're not using it inside the function we're only using the element all right
+the next time 4h runs the code goblin grabs blue and one it passes blue into x
+and one into i we see that we're going to print blue
+to the console so we see blue get printed to the console
+the next time the code goblin goes and grabs yellow and two so we pass in
+yellow into x and two into i and we wind up printing yellow to the console
+then the last time the goblin runs it runs around and it grabs black and three
+
+01:57
+so it passes black into x and it passes three into i
+and we wind up printing to the console black then we're done the goblin's tired
+it's done a bunch of running there's no more elements in the array so the four
+each stops and the goblin is out of business
+important mango said leon can we take a break so i can eat my chinese food
+absolutely let's take a break so important mango can eat their chinese
+food when we come back we're gonna practice
+using our loops with arrays so let's put five minutes on the clock if you're new
+around here would like to be healthy please if you're able get up move around
+hydrate take care of yourself folks this is a
+marathon not a sprint and we'll be back in five minutes
+
+01:58
+walk your goldfishes if you have to beautiful
+
+02:01
+
+02:02
+all right see you in five folks gonna run some ads do so here
+
+02:03
+i like mango better yeah it's a good one uh
+collective nectar it's actually the full thing
+like it's the and it's capitalized it's the hyphen it's the link to twitch it's
+the whole thing smurfs versus glock goblins who's winning i don't know
+i think like how many smurfs are there there's probably way more goblins than
+smurfs right and goblins are like way bigger
+maybe that's part of the smurf's power is that you can't find them
+
+02:04
+exactly what's a goon to a goblin though nothing nothing all right folks come on
+back let's do this together we got some work to do
+we have the summer games let's go ahead and take a look at that together
+i'm going to go ahead and close this one and this one and we're going to open up
+summer games one of my i don't want to say it's one
+of my favorites but it was a really good run summer games winter games i wish
+they could bring them back a little bit more challenge s for folks that are kind
+of more real worldy fans yeah all right create a function that
+takes an array of numbers multiply each number together and alert the product
+create a function that takes an array of numbers
+multiplying each number together and alert the product so we're going to need
+to somehow iterate through the array grabbing each number and multiplying
+
+02:05
+them together let's put a a solid uh install a 5 dub on this one
+and let folks see if they can get it going this was a code wars question yeah i
+believe this is probably definitely a code worst question uh so go ahead take
+five minutes see if you can get this working
+take your time create the function if you don't know how to do any if you
+don't know how to do all the pieces try different pieces try creating the
+function try creating a function that takes in an array try looping through
+that array look at the past slides look at the four each look at the for loop in
+the slides to see if you can piece together how to do it
+
+02:06
+and then we'll go over it together got this folks
+there's a problem with the review in paradise one let's see
+hmm that looks good we can test it though i think that looks good though uh
+luanne the uh hi on the the the link is in the slides at the
+
+02:07
+beginning of the slides for today look at all these dunzos that's wild
+bye next week biohazards the review in paradise let's let's run
+
+02:08
+it let's make sure that it works this one here
+while folks are working i'll test it see if it's doing its thing
+yeah it worked one two three four skip five skip ten and skip fifteen definitely
+worked oh yeah we didn't run it so it was good to test it to make sure
+we are on the review summer games project
+company points to be in secret chat what secret chat
+
+02:09
+what is your favorite flavor chip um sour cream and onion hers which i
+haven't had since being vegan you take the you take the the sour cream
+onion hers chips you crunch them all you crumble the bag
+get them all nice and tiny then just go to town 30 seconds folks
+have i caught up on snow piercer no not yet i'm kind of like a i like to i like
+to just binge it i'm gonna wait until the this the show's done and then i'm
+
+02:10
+just gonna watch them all you have any advice for so anyone
+struggling with burnout take your time the marathon not a sprint if you need to
+take a week off and come back do it we'll be here catch up crew will be here
+everyone has their uh their own their own race to run but
+we're all on the same roller coaster we'll all eventually get there excuse me
+all right let's come back and take a look at this together
+so what we're going to do for this one is create a function that takes in an
+array of numbers multiply the numbers together and alert the product so let's
+create our function let's call this multi nums in array
+and we know we're taking in an array and we know eventually we're going to
+
+02:11
+alert a product so i'm gonna say let product equal one
+why don't i set product equal to zero i i'll be honest i did that first
+when i was creating this i did it by zero first because it would just always
+be zero so we got to start with one or else would we always wind up with zero
+um i i yeah that's how i started this one all right now we're gonna loop through
+our array we can do two different kinds of loops
+we could do a for each loop uh or we could do a regular for loop since we
+solve for each most recently let's do a four each together so i'm gonna say
+array dot and then we'll do four each right so that's the that's the actual
+for each itself and then we can put in an arrow function into this 4-h that'll
+run once for each time that the 4-h runs and so i know that i'm going to pull a
+
+02:12
+number out of the array and so i'm going to use that number
+and what i'm going to do is i am going to times the product by that number
+right i'm just going to times the product by that number so the idea is
+that the goblin is grabbing each number out of the array
+right it's grabbing each number out of the array and then timesing it by the
+product cool let's see if this works and then we have to alert it right
+let's see and we're going to call it let's call multi-num
+and let's turn in an array that has uh one two and and three one two and three
+actually let's do ten two and one all right let's do ten two and
+
+02:13
+three ten two and three i don't like starting off with one because sometimes
+that confuses people so we'll do 10 2 and 3. so this was the work we would
+have 10 times 2 which is 20 and 20 times 3
+20 times 3 which should give us 60. so let's see if this works
+let's save it we have to open this in the browser
+beautiful we got that alert of 60 so we know that it works and so
+if we go back and look wrong one if we go back and look let's
+talk through what's happening here so i like setting up my variables because i
+think it it's easier to see and so here i have
+my function that's taking in an array so we know this whole array here
+is being passed in wherever i see r it's actually the 10 2 3 array
+
+02:14
+cool i set up my product at one because i know i'm going to be multiplying
+everything right and i see everything into that product right
+and then i have my four each and so that for each right is using this array
+so how many times is the for each goblin going to have to run around
+how many times is the 4-h goblin gonna have to run and grab stuff out of the
+array yeah that goblin's gonna have to run and
+grab it three times i talked about this today too in america we do this this
+doesn't make sense this is hard to do it hurts and then
+some people like do this that that that hurts even more we can just do that
+why why don't we do this that's three it's so easy that's three
+it's so weird that we don't do that in the states it blows my mind the first
+time somebody showed that to me i was like what
+
+02:15
+we have the 10 2 and 3 is our is our array and so we said the 4-h goblin is
+going to run three times right going to run three times
+i did it was a german thing that's interesting all right
+ten two and three is our array so the goblin's gonna run three times the very
+first time the goblin runs it's going to run and grab 10 and 0.
+the only bucket i have is num so the only thing that's actually going
+into this for each is going to be the what
+the only thing that's gonna actually the goblins gonna actually be able to use
+inside this for each is gonna be what the element exactly
+it's not it's not gonna be able to do anything with the
+with the index or the array because there's no bucket right there's no
+there's no index there's there's no bucket for the index there's no bucket
+
+02:16
+for the array so the only thing we're grabbing the only thing we're grabbing
+is that element so the very first time this runs wherever we see num it's
+actually 10. so what this winds up being is product multiplied by 10.
+and so for folks that haven't seen this syntax before it's the same thing as
+saying this product equals product times num so this is the same thing as saying
+one times ten reassigns product so product goes from one to now being ten
+all right so i like the other syntax i think the
+syntax the other syntax will be easier to read for me
+asterisk equals numb so all we're doing is whatever product is is we're going to
+keep multiplying the numbers in the product so the very next time the goblin
+
+02:17
+runs it grabs the two and wherever we see num it's actually two
+so we wind up doing 10 times two because product is currently 10 from the
+last the last multiplication and this time when num runs it is two all right
+the very last time the goblin runs it grabs three
+and wherever we see num it is three so we wind up doing 20 times 3
+and that means at the end of the day product winds up being 60
+and so we wind up alerting 60. human hey thank you for the 10 months
+i'm sorry three months spending all that bezos's money i appreciate you
+where did numb come from i made it up we could call whatever the heck we want
+
+02:18
+it's just the bucket i can call this call this uh bing bong
+and then i would just have to call it bing bong over here
+all right all bing bong is is a bucket all right all it is is a bucket so the 10
+falls into that bucket the two then falls into that bucket and then the
+three falls into that bucket just a bucket call whatever you want
+this is the arrow syntax it's a slightly way of doing a different way of doing
+functions it's an arrow function a special kind of function uh it's it's a
+way of doing kind of almost it's a way of doing an anonymous function in line
+don't worry we'll eventually get to what all that means next week with objects
+
+02:19
+and fun stuff cool alrighty let's go ahead and keep pushing here uh
+some folks want to see it without using for each they want to see like the
+traditional for loop so let me go ahead and do that let me just comment out this
+line i'm just coming out this line and we
+will do it with the traditional for loop as well so same same deal for
+and then when i set up my calendar let i equal uh zero while i is less than uh
+array.length and we're just going to add one to i
+each time it runs and then we're going to do the same thing inside here we're
+just going to do product equals array and then whatever i is
+
+02:20
+all right whatever array i is and so if we run through this again
+this might be a little bit clearer to see is that we know that we're passing in
+this array wherever we see array it's actually the 10 2
+3 array so down here what we're doing is
+we're saying array.length which is three right so we know this loop will run
+three times and what we're going to do is the very first time that this runs
+array 0 is the 10. the next time this runs i
+goes up by one array one grabs the two the last time this runs after goes up by
+one we're grabbing the array two which gives us the three
+and so it's the same thing we just wind up multiplying the numbers in the
+
+02:21
+product why do i have product equal one i just
+like to know that i have my product defined and that's the thing i'm
+multiplying into i like seeing that it's set at one there might be some shorter
+hand ways of doing it but i like it to be visible and know that that's the
+product that i'm multiplying into if it was zero we would wind up doing
+ten times zero which is zero two times 2 times 0 which is 0 and 3 times 0 which
+is 0. so if we started with 0 the only thing that would ever get alerted is 0.
+product is just the the variable that we made up
+why in some places do things not need to be declared aka array and num that's a
+really good question so array and num are parameters right we
+can see here that array is a parameter and so wherever i see array it's not
+
+02:22
+technically a variable it is the parameter that we're using so we don't
+need to declare it it gets its value when we pass the argument into that
+bucket so array is the parameter everywhere and then if we let me just kind of
+comment out the for loop again and look at the for each loop specifically
+what we see here is that num is yet again a parameter it is the
+parameter for this function that we see here so we don't have to declare it it's
+a parameter that we pass a value into so in this case we pass 10 into the
+parameter we pass two into the parameter num and three into the parameter of num
+so they're parameters not variables they don't have to be declared
+
+02:23
+in that same way good question alrighty let's keep pushing folks let's
+keep pushing got a little bit more to cover tonight
+don't worry if this is still hard if you need to see this again that's okay
+come back on sunday we're going to do a normal office hour it's going to answer
+about an hour of your questions and then we're going to practice a raise so come
+on back on sunday if you want to see more array practice if you need to see
+something like this again come back we'll go do something similar to this again
+alrighty now arrays i said earlier come with a lot of
+really cool methods that do a lot of heavy lifting for us
+all right another nine hours no i don't got another nine hours in me
+that that's a that's a couple of times a cohort thing um
+it'll be a normal i think like three hours sometimes we do like two to three
+
+02:24
+hours on office hours normally cool yeah just imagine people like
+joining us from the folks joining us from the review and
+they're like wait a minute it's not at nine hours every sunday
+no we do like two to three hours normally alrighty we said earlier today that
+arrays come with some really good methods
+and we've seen some cool ones already we saw four each which enables us to loop
+through arrays well there are some other really cool methods that come with
+arrays that i want to show you already here is a variable that i'm assigning a
+an array to so i have bestrappers2020 and on it we have six nine ology
+and six nine and so what we want to do is we want to be able to remove six nine
+from this list okay thank you for the posture check
+hey thank you for the posture check let me get in here
+
+02:25
+all right make sure i'm sitting good all right there we go
+beautiful alrighty so we're going to pull 69 off this list there's something
+really neat that can happen and that's that we have these methods
+built into the array so since we have this since we know this is an array we
+can use a method here called shift and what shift does is it removes
+it removes the value that's in the front of the array
+so in this case we would shift off six nine
+from the array it actually changes the array that six nine on the front of the
+array gets pulled off the array and we're left with just two elements in
+the array and if we didn't store it in a variable it would just poof
+
+02:26
+right it would just poof and disappear and so in this case what we've done is
+we've shifted six nine off but we've also stored it in a in a variable called
+removed so if i ask for removed you would get six nine
+and if you went ahead and just console logged best rappers 2020 you would just
+see polo g and six nine on the right hand side left so
+if we can shift off the front we can also do something called popping
+and if you think shift pulls it off the front what do you think pop does on the
+other side yeah popped pulls six nine off the end as
+well so we wind up right now with best wrappers 2020 we have two values in it
+polo g and six nine pop will pull six nine off the end
+
+02:27
+and we stored it in removed again so if we needed it we could use it but if we
+looked at best rappers 2020 we're left with just polo g
+right we shift it 6 9 off the front and we pop six nine off the back
+and so now we're left with just polo g cool
+so if you ever need to pull something off the front of the array what could
+you use chat if you ever need to pull something off
+the front of your array what could you use shift beautiful
+and if you ever want to pull something off the end of your array what could you
+use pop nice alrighty now we can actually do something pretty cool
+shift pull something off pop pull something off we also have unshift
+
+02:28
+which will put something on the front so what i have here is best wrappers 2020
+but what i have done is i am unshifting dailon so i'm putting dylon
+onto the front of the best wrappers 2020 array and so if we were to console.log
+best wrappers 2020 we would now see dailon and polo g so shift pulled off
+pop pulled off on shift put dylon on the front beautiful we can also push
+so if shift pulls off from the front and unshift puts on in the front
+pop pulls off on the back push puts on on the back so if we look at
+best wrappers 2020 to start we have dailon and polo g but then we push dailon
+
+02:29
+onto the back of the best wrappers 2020 array
+and so what we wind up with if we were to console log best wrappers 2020
+we'd wind up with dylan polo g and dilon so these are all methods right
+these are all methods right these are all methods
+that enable us to interact with arrays shift pull off unshift put on
+pop pull off push put on all right and so right now
+if we look at best rappers 2020 due to our
+unshifting shifting popping and pushing we're left with dailon polo g and dylon
+
+02:30
+now there's another method that i really like and it's called map what map does
+is it loops through an array but it creates a new array
+so if we have best wrappers 2020 and in it we have dailon polo g dailon
+and we run map on best rappers 2020 if we run map on best rappers 2020
+what's gonna happen is that map will run three times
+because there are three elements in our array just like for each would
+run once for each element map is gonna run once for each element
+however map is pretty interesting because at the end it spits out a new array
+and so what map is going to do here is it's going to take in
+each of these values but it doesn't matter what those values are
+
+02:31
+because the only thing that map is going to return is dilon
+so what happens is map runs once for each element x becomes dylon then it
+becomes polo g then it becomes dilon but the only thing
+that this map is spitting is dylon so if we were to look at
+best rappers of all time what it is currently holding at this time is dilon
+dylon dailon and we're close we have two things we have left to do
+if we're trying to figure out the best wrappers of all time we currently have
+three values right we currently have three values inside of this array
+
+02:32
+and so what we're going to do is we are going to unshift
+dialon onto the front of this array and we are going to push
+dialon onto the back of this array and then if we were to console log
+the best wrappers of all time we would have cylon dylon dilon dylon and dylon
+this is peak education folks i spit the hot fire
+this is it it's all downhill from here uh if folks don't get it this is a this
+is a chappelle show joke so um best rappers of all time are dylan
+
+02:33
+dylan dylan and dailon of course so yes i i devised this whole lecture to to to
+get to dailon dailon dailon and thailand already
+let's get some last bit of practice in and then we will
+review and then we'll do a raid so let's get some best the last bit of practice
+in here let's go ahead and look at winter game so i'm going to close all
+these here and let's look at review winter games and here it is
+create a function that takes in an array of numbers return a new array
+containing every even number from the original array
+
+02:34
+you can try it one of two ways you can try it with map if you want
+or if you want a little bit more of a challenge
+you can try not using map or filter okay i know this is a jump a lot of folks
+this is a jump this is going to be it's going to be a hard jump
+give it your best shot give it the old 100 devs try and put five minutes on the
+clock and then we're gonna go over it together
+give it the good old 100 devs try i know this one's a hard one it's all right
+we're gonna go over it together in five minutes i rip and i rhyme my ramen i rip
+
+02:35
+way dilon spits all right span it's all right
+give it a good try if you don't know how
+to do all the pieces get the function on the board
+get get a loop on the board right you you don't have to
+you don't have to get the whole win right try as much as you can
+if you're really stuck go back and look at the slides try and pull pieces from
+it don't just sit and and wait give it a try
+this is a hard one we're ending with a we're ending with a hard one here
+don't worry you can come back on sunday we're going to review we're gonna do
+
+02:36
+things more we'll go over it together and then we'll do a lovely raid
+what does map do it moves through each element in the array
+moves through each element in the array but it creates a new array as it does it
+if you're confused on it mdn has really good articles on all these methods you
+need to see push pop on shift shift again you need to see map you need to
+see for each mdn so that's okay these ones these ones are
+tough these past especially the past two practice problems are really tough i
+
+02:37
+don't you don't really have to feel bad if you're not getting these
+ones these ones are tough ones for sure make sure you do the homework that was
+the array reading make sure you go back and do the course that had a raise in it
+
+02:38
+about two minutes left folks a minute left you got this dig deep try
+
+02:39
+we'll go through it together in the end alrighty
+dunzo is a fun problem i know this one's
+a little hard glad you had some fun with it a lot of the reading covered some of
+this stuff there's a couple readings and a couple practices that use all the
+methods we covered tonight and then we'll do more practice on sunday as well
+all right folks come together let's let's do this one together alrighty
+so create a function that takes in an array of numbers
+return a new array containing every number every even number from the
+original array and the challenge was to not to use map or filter so let's let's
+
+02:40
+see if we can figure this out alrighty function and we're going to say
+only evens that's a good one and we're going to take in an array of
+numbers so i'm just going to call them nums
+could call it a ray could call it robot doesn't really matter just a parameter
+and we are going to return a new array containing every even number so what i'm
+going to do is i'm just going to create an array called evens
+and i'm just going to create it using literal notation
+right call it literal notation and create that array so it's just an empty
+array right now that's where i'm going to store all my even values
+now what i know i have to do is i have to loop through the the
+the nums like the nums array so i can just do nums and i can do four each
+
+02:41
+and that's where i'll start and i know that i need to take in each
+of the elements so i'm going to call it let's just
+call it n short for for nums or i think we've been calling it like element or
+item let's just call it n beautiful and so now what we need to do
+is we need to see if if it's even what do we want to do
+if we know that the number is even what do we want to do
+if the number is even what are we going to do with it
+yeah we can push it to the array we just learned that we can put stuff into the
+array with the push so let's check to see if it's even
+we can say if num we know how to do even by now modulus 2 equals 0. so if it's
+divisible by 2 and equals 0 we know it's even
+and what we're going to do is we're going to
+
+02:42
+push push that value into the array so we can do evens dot push n okay and then
+at the very end return a new array so we have to return that new array so return
+evens okay let's see if this works let's call it evens
+and let's pass in an array let's do one two three four five six
+and so this works we would expect to see two 246 returned
+and we're going to console log this just so we can see it
+remember if it returns it'll just poof into thin air unless we cut unless we
+
+02:43
+console log it all right so i feel good about that let's see we're at
+and let's go and open this in the browser but i clicked on it there we go sorry
+open in the browser bachelor games let's open up the inspector
+look in the console and we can see that there is an array and the array has 2 4
+and 6 in it so it worked we can see that we console logged the array and that
+array had 2 4 and 6 in it so let's go back and take
+a look let's see if we can understand what happened here but it did it did work
+can i show map come back on sunday and i'll show you how to do it with map
+first try as that's definitely a first try all right so let's take a peek
+right now we're calling the only evans function only evans only evens function
+
+02:44
+and we're passing in right we're passing in this array so wherever we see nums
+right wherever we see nums wherever we see nums it's an array with
+1 two three four five and six in it i go ahead and set up an empty array
+with called evens and then i loop through my array and each time it runs
+how many times is my for each loop going to run how many times
+is the goblin going to go and grab a number i'm gonna run six times
+there are six elements in the array so the goblin's to run six times
+the very first time it runs the goblin goes and grabs the one
+so is one divisible by two no next time the goblin runs it's two
+
+02:45
+so is 2 divisible by 2 that is true 2 modulus 2 does give me zero so since
+that is a true statement we go ahead and do this line
+and what we're going to do is we're going to take this and we're gonna push it
+into that empty array so now our empty array has two sitting inside of it
+then we move on the goblin goes and grabs three
+it passes in three three mod two is not zero so that doesn't work
+then the goblin goes and grabs four wherever we see n it's four right so
+four mod two well that is zero two goes into four two times there's 0 left over
+so this is a true statement we take 4 and we push it
+into the evens array so now that evens array has 2 and 4 inside of it
+
+02:46
+then the goblin goes and grabs five wherever we see n it's actually five
+two does not go into five evenly so that's a false statement we don't do
+anything and lastly the goblin goes and grab six wherever we see n it is 6
+so we'll do 6 mod 2 right 6 mod 2 and that is even 2 goes into 6 3 times it is
+even so since it is true we do this line
+we take 6 and we push six into the empty square brackets so we wind up with
+two four and six inside that evens array and then we return that evens array and
+it gets returned wherever this sucker was called and it's
+
+02:47
+as though we put in two four and six if you want to see it with a for loop
+or you want to see it with a map come on sunday i'll do them both on sunday
+of course i will always share my code after class so i'm gonna zip all this up
+you'll have the code play with it before sunday play with it right play with it
+make it do something different if you if if i did it with a four each try doing
+it with the four if i did it with a four try doing it with a four each play with
+this a little bit you gotta especially if it's not sinking in right now
+you got to get in the muck and play with
+it we got it you got it you got to start playing with the sand to build a castle
+all right guys start playing with the sand to build a castle so make sure
+that you're going in you're playing with the sand uh and that
+you you you delete stuff you redo it you
+delete it you redo it you delete it redo it right make sure that you're still
+playing that's how you're gonna learn the most is by playing and building and
+
+02:48
+so come back and play and build with this stuff
+you're going to notice that there's a lot more slides here
+tons of stuff wink wink wink wink that we're getting into next week lots of new
+stuff that's going to be really fun and exciting but please
+get through the reading this weekend this reading is really important to make
+sure that it's not the first time you've seen or heard of objects right
+we're gonna be doing a lot of fun it gets really fun next week is where i
+think class gets really fun for me where we start using apis and other cool
+things and so please get the reading done please play with the code come back on
+sunday and then tuesday i have the best announcement ever
+the thing i'm the most excited to have ever shared with you all
+so please come back on tuesday i'm super super pumped to share that with you all
+and i'll see some of you on sunday before we do all that let's do a raid
+
+02:49
+you know we always like to spread some love and positivity so please give them
+some follows uh make sure that you hang out for a little while i'll see you over
+there and then i will share everything on discord so let's set up the raid
+we're going to mifu ri [Music] alrighty i will see you all over there
+starting up the raid now get those sweet
+sweet sweet channel points thank you for
+coming back and pushing your mind with a raise for the second time i know it's
+not easy so kudos to you for putting in the work thank you for being here i'll
+see you on sunday and i'll see you again on tuesday for the best announcement i
+could ever announce peace everyone have a good rest of your day let's raid

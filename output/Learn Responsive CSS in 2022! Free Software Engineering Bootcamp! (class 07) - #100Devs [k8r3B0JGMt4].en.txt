@@ -1,0 +1,2591 @@
+
+00:02
+
+00:03
+we don't get got we go get so yo hey yo what's going on everybody good morning
+good afternoon good evening no matter where you're coming from hope you all
+are doing well welcome back another week another day another dollar
+what's going on everybody welcome welcome welcome hope everyone's
+
+00:04
+doing well i hope everyone had a wonderful weekend what a what a what a
+what a good weekend too i mean we we kicked off with uh an alumni twitter space
+3000 people have tuned into it already over 3000 now it's pretty wild because
+the recordings up right and then uh we had our office hours on sunday we got
+some reviewing we got to to answer some questions good weekend what's going on
+all right you know how we do we like folks to get in here give them a second
+they're running home from work to get in
+here a couple things that we always like to do at the beginning one we got a
+question of the day folks question of the day is would you
+rather would you rather paint a wall with your face or with your knees
+
+00:05
+whole wall normal we're talking like a normal like a normal bedroom wall
+i always love seeing how split it is i always love see how split it is
+this one this one's like 50 50. i say like half of people are saying face
+about the other half we're saying knees i don't know i feel like
+i feel like there is any precision work involved my face might be better i don't
+know i think i can i feel like i can do i can do this with my forehead all day
+right whereas my knees i don't know i feel like my knees might
+after a while you can't you can't hit all the crevices
+right i don't know i feel like i feel like my forehead can put it my forehead
+can put this on work right i feel like i can uh i can use my core a little bit
+more i don't know if i can keep bending my knees like that all day
+i'm gonna go with i'm gonna go a face i would rather paint a wall with my face
+than my knees oh boy well we're in for a good one
+today folks uh a topic that i love dearly which is responsiveness making
+
+00:06
+our sites look great across devices we hinted at it on thursday's class and
+tonight we're going to go deeper into it we're going to talk about how things
+how our sites can be made responsive so they look great across devices how we
+can look good on mobile desktop laptop tablet and everything in between we're
+going to talk about the big three when it comes to responsiveness fluidity
+elasticity and content decisions we're going to get some practice in and then
+this and next class is just all about responsiveness building responsive
+websites and then on thursday we got a lot of practice to get into
+with responsive sites so super excited tonight we're also going to do our first
+steps into talking about how to network i love talking about this it's the thing
+that's going to help you get a job and so we're going to spend a big chunk of
+maybe the first hour tonight talking about how to network how to find people
+to network how to do it properly and then on thursday
+
+00:07
+on thursday i'm going to give you like actual scripts like i'm going to give
+you like the text you can send i'm going to give you the paragraphs you can send
+so we're going to talk about it in theory tonight and then on thursday i'm
+going to give you like the actual things i would send to people because a lot of
+folks sometimes get really nervously i don't want to say i don't know how to
+send it i'm going to give it to y'all folks don't have to worry about it i got
+you got you we don't get caught we go get all right folks um
+let me bring up the slides we always like to start off with questions right
+all these thoughtful questions it started to start our days off give us a
+second to get in here what questions you got for me folks bangers only exactly
+whoo got my lovely got my lovely uh cold brew today
+that's what i'm drinking my lovely cold brew i'm doing good i'm doing real good
+
+00:08
+did i get a chance to play a new pokemon game yet didn't get a chance in there
+people were real set up there was no motivation today
+i didn't put a motivational poem or video in there
+and people people were people had some words we'll bring them back on thursday
+when we start the job search once we get through javascript and we're feeling
+comfortable we'll start laying the groundwork for the job search but we
+don't really take the job search seriously until we're full stack
+software engineers until we're full stack web developers right we we want to
+have the front end and the back end to open us up to as much possibility but
+actually that's a great question to ask because the groundwork for you getting a
+job starts tonight right the groundwork for you getting a
+job honestly starts tonight the things that we do to build our
+network are the things are going to help you get a job right
+so it's a really interesting question like we won't take it seriously until
+
+00:09
+much further but actually it kind of starts tonight
+are we actually assigned to watch independence day yes that is your
+homework your homework is to watch independence day it will have a lot of
+strong bearing right strong bearing on our next couple of
+classes and so you must watch independence day you have to it's the homework
+plenty of places to find independence day to watch online for free
+the movie yes exactly it'll make sense trust me you just gotta watch it i
+i didn't see who said it but that was the right question the the the movie or
+the crap version uh there is only one independence day they did not make a
+sequel they did not make another one it does not exist so of course will smith
+independence day only independence day there just doesn't exist another version
+
+00:10
+so yeah what if we know it by heart already go back and watch it again
+the classic they made a sequel exactly exactly you feeling me i see you
+do you have any trouble drinking or sleeping after cold brew uh no
+i could drink coffee uh 20 minutes before i go to bed and it will have no
+bearing on my sleep because i take serious medication to help me fall
+asleep i'm bipolar so i take my bipolar medication and that that zonks me i i
+could literally i don't know i could do anything and it just
+there's just no staying up i just get zonked so yeah there's there
+it doesn't matter what i do throughout the day
+and i've been keeping really good track of like my quality of sleep um i wear
+like that watch i showed the other day so i can see like if i'm waking up or
+
+00:11
+not and there's there's nothing that impacts it that medication boop i'm out
+yeah i i i actually like i love like i'm on seroquel i love seroquel it's like
+literally changed my life it stops me from having manic episodes helps me
+sleep i don't have it my life is in shambles so as much as it is a is a hard
+hard drug to get used to i really did change my life um but the first couple
+times i took it i remember the first time i took it and then we're going to
+start with class i promise once one story then we'll get started with class
+the very first time i took it i was with my family um
+i was with my family to go see thomas the tank engine and there was like a
+real train that had a thomas the tank engine on the front and my um my cousins
+like were really in the thomas tank engine so like the whole family went and
+there's gonna be this big ass train with thomas the tank on the front and it's
+like a whole thing to do and i just remember i took it the night before and
+
+00:12
+i'm just sitting there like this i'm like sitting like on the i'm like
+sitting on the bench just like tongue out like i'm probably drooling on myself i
+just was not there i was just out i was out
+and i was like i didn't even know i was doing it
+uh so yeah that was my first experience of circle but your body gets used to it
+after a while and uh yeah it changed my life
+i wouldn't be able to do anything that i honestly am able to do
+if i wasn't on like a regular bipolar medication so for all the folks out
+there that are that are bipolar and they're worried about like the taking
+new meds like with your doctor's approval give them a chance i went
+through three or four different medications until i found what worked
+and then the one that did work felt like death for the first week but after that
+it's good it's good all right let's get into it folks tonight we got
+
+00:13
+how to network part one right this is part one of like four
+classes we'll have where networking comes up right so the first part starts
+tonight we're gonna talk high level right what to do how to do it why it's
+important none of it's really a requirement until we get into next week
+so i don't want you to run out and think you have to start networking this week
+that's okay you don't have to we're going to start talking about tonight and
+then on thursday i'm going to give you every example that i have what's the
+email i send what's the linkedin message i send what are the twitter messages i
+send right i don't want you to like guess what that looks like i'm going to
+give it all to you right i'm going to review some of our cs fundamentals
+including specificity and the box model we're gonna review some of the floating
+examples that we actually went over on sunday as well uh we're going to review
+those three simple layouts we did two of them on sunday but we're gonna do one
+tonight just as some some space repetition we're gonna
+talk about the basics of responsiveness like fluidity elasticity content
+
+00:14
+decisions and how we can build sites that incorporate those ideas and then
+the last thing at the very end we're going to cover a little bit of
+flexbox so i want to show you we've been
+dealing with floats we're going to float some more tonight your homework even
+going into next week will be with floats
+but i want to show you the magic that is flexbox
+and how it can really just change your life once you kind of get past floats
+right and so we're going to talk about flexbox tonight i'm going to show you
+one example and why it's so powerful and
+then as we get into like next week we'll start using it more alrighty
+already got through some questions remember folks uh please check in
+you can do exclamation point check in here in chat but that's going to get
+spammed out to wazoo it's always on the discord follow along
+materials channel and the lyrically on live so you always have
+that link before class or if you just already follow me on twitter i'll tweet
+it always an hour before class starts so you can always go ahead and check in
+i appreciate it helps folks find the community
+
+00:15
+and not have to pay so much to learn how to code
+the other thing is today is the last day for the study community survey we
+released a survey last week asking folks to fill in their preferences for study
+communities after tonight myself and the mods are
+going to work very very hard to get all those communities live on discord to get
+all the voice channels set up all the individual channels set up and so uh
+tonight is the last night uh for you to fill out that form if there's a
+community that you would like to belong to uh please make sure you fill out that
+form so we can build out the community starting today and then we're gonna
+start adding folks to them as soon as possible alrighty
+i wanted to start off with the big congratulations i've known about it for
+a little while uh but they officially just put into the the celebrations
+
+00:16
+channel so i'm putting them on blast here a little bit uh huge congrats to occ
+uh they go by old coderchick on twitch they are an illustrious member of the
+hundred dev stream team they're a mod extraordinaire and they
+just announced that they are now employed as a full-time software
+engineer and so they put the link into the celebrations channel highly
+recommend checking out the celebration challenge while there's all these folks
+getting jobs and now it was jennifer's a turn and so super happy for them
+congratulations this is huge and the message that they
+shared that's on the screen right now i want you to read i'm not going to read
+it through because it's here but i think there's a little bit something for
+everyone in this message a lot of folks that have concerns um
+about things that they think might hold them back in the job search uh jennifer
+went through it through them a lot and a lot and all of them and so to see them
+
+00:17
+be so successful and to to lock it down and to see their journey has been just
+absolutely amazing to watch and so definitely show them some love in the
+celebrations channel i put the direct link to their to their message but uh
+shout out to you occ congratulations all right submitting homework
+there's none due today so uh don't you don't have to stress
+some people were panicking where do i submit stuff uh there's nothing that was
+due today and so there's nothing to submit uh you'll have stuff that starts
+getting somebody on thursday and next week we're gonna have a lot of homework
+i have a lot of homework all right next thing um we are
+well first let's start off with a huge thank you
+uh for all the all the folks that are new uh all the things that get
+like all the subs and bits that gets put
+as a donation to the nonprofit i work at during the day called resilient coders
+
+00:18
+and last year we donated thousands of dollars and i wanted to kind of be very
+transparent about this process because we're getting into some territory that's
+like very very serious money um when i told you all last class that if
+you have amazon prime you actually get a free sub
+uh you can spend all of jeff bezos's money uh it's actually just completely
+free if you have amazon prime well you all kind of went wild and uh
+we're over we're at 2200 subs 2200 subs now twitch gets half of that
+but that's that's a lot of money going straight into our
+emergency fund at resilient coders to help with mental health support
+to help with folks that run into emergencies throughout the cohort and i
+i'd like i'm just besides i just want to say thank you from the top of my heart
+from the bottom of my heart any part in the heart in between
+i really do appreciate everyone for doing it now i want to start releasing a
+
+00:19
+transparency report every quarter that shows you like how much came in and that
+i actually made those donations uh last year we made the
+donations and once he got into real money i was like wait i gotta pause i
+gotta make sure that i'm doing it right uh so when my taxes get filed i'll
+release that first transparency report with kind of all the money that came in
+um what we had to withhold for taxes and then like what what went to rc and then
+my goal is to do that quarterly right so every quarter um we'll go ahead and
+release that as well and so we just want to make sure that folks
+know that like eventually like we'll release all that stuff and like i'll
+share it with you all because it's getting real
+but i gotta make sure i'm doing it right and i gotta make sure that like i'm not
+double paying on taxes or weird stuff like that and so uh once that all gets
+filed i'll release the first big one and then the goal should be every quarter
+will release like a new updated one so once again huge huge thank you um
+
+00:20
+never ever ever ever please i'm gonna get big here for a second never ever
+ever feel like that you must sub or that
+you have to sub or something that i even want you to do it's honestly not i want
+this to be a completely free experience for everyone none of my content will
+ever be behind a pay wall nothing i will ever do will
+cost you something in any way shape or form in terms of money uh and so don't
+ever feel like you have to do that a lot of folks feel like that they want to
+support specifically when i start uh support rc and so they do choose to sub
+and i appreciate you for doing that folks that use the amazon prime which is
+completely free like thank you i appreciate that we're putting it to good
+use and so i want to say a huge thank you um i want to say a huge thank you
+um it's kind of getting a little overwhelmed right now some people are
+throwing them in here thank you for the five gifted subs i couldn't see who did
+it um but thank you so much everyone i really really really appreciate it cool
+
+00:21
+let's put out there alrighty now we have grown from
+a humble 5 000 folks on discord to i believe the last one looked 23 000.
+uh 23 000 people are on that discord now and uh i said it before
+i'm gonna say it again please before you write anything here on twitch
+before you write anything on discord ask yourself one very important thing
+is that the most helpful the most supportive the the the the most
+pleasant thing you can type in that moment and if the answer is no do not
+
+00:22
+type it i have no patients or folks that can't be decent i will not
+lose sleep over banning you i just don't care if you can't be a good human being
+please leave and if being kind uh if being decent giving people the
+benefit of the doubt um understanding that folks come in with things that they
+don't know things that they're not going to know perfectly well or that they're
+going to need help and they might need help on the same topic 10 different
+times leave i don't want you here i don't care that
+you're here please just leave and i'm very serious about this right like if
+you can't be decent please leave uh if you're if you're if
+you're here to find a significant other you're in the wrong place if you're here
+to find someone to date you're in the wrong place if you're here to find love
+you're probably in the wrong place unless you love your friends a lot right
+so please cut it out not necessary does not need to be here
+
+00:23
+um this is a place to learn this is the place to get stuff done
+and if you can't be nice you will be banned drock you long
+thank you so much for the five gifted subs i appreciate you
+all right cool so i send my piece and i'm gonna keep saying it again uh
+because some people don't get it um and one thing you have to understand
+is that everyone might not have your expert taste in let's say memes
+right you might you might have the the freshest taste in memes
+but your memes might be hurtful to others uh so please
+make sure before you share anything whether it's a meme whether it's a gif
+whether it is a piece of text that you're holding yourself to would this
+make an a comfortable environment for everyone that sees it if it's not a
+comfortable environment for every single
+person that will see what you're posting please don't post it
+
+00:24
+right and if you don't know the gray areas then you should probably just
+stick to the help channels right if you if you don't know how to
+how to how to regulate in that area that's fine just don't post just stop
+this goal is for us to have a safe comfortable learning environment for all
+and if you can't commit to that type of environment
+get the [&nbsp;__&nbsp;] out please just leave please please please please
+return to the z a thank you for the 10 gift itself that's wild
+all right i've said my piece now sometimes you're going to maybe
+not live up to the the things i've just asked you to live up to
+and you will be banned and if you are banned we actually now have an unbanned
+process uh in chat here you can do exclamation
+point on band that'll give you the link uh but the link is always just the bitly
+
+00:25
+slash 100 devs unban okay you can submit an unban request and
+myself and the moderators will review them hopefully every week
+sometimes we might be busy it might take
+us more than a week but the idea is that
+it will happen and we will review review why you were banned we'll tell you more
+about why you were banned if you request it
+and then we can make a final decision as
+to whether or not you're welcome back in the community
+there are some things that folks get banned for that might be out of their
+control right sometimes people like clicked on those nitro links
+please do not click on free nitro links they're they're just not they're just
+not real no one's giving you free nitro please stop clicking those links
+and it's not even just on our server you click on those links right
+you click on those links and another server they have your account right and
+so then once they have your account they will go ahead and start spamming in
+every server that you're on so some folks have gotten banned because of spam
+
+00:26
+right we don't want them to not participate in the community we want
+them to be able to get unbanned and so here's the unbanned request to do that
+all right don't get got exactly so if you were banned and you would like
+to appeal your ban this is the link to do it uh myself and the moderators will
+review them uh weekly and uh hopefully weekly and get back to you uh you will
+always get communicated via email so we won't dm you we won't message you
+here on twitch moderators will never reach out to you
+on discord or twitch it'll always come through email
+it'll be bans at 100devs.org that you'll see the the email come from and we're
+only going to communicate with you through email uh please
+do not reach out to individual moderators to get unbanned
+no individual moderator or even myself will unban you
+it always goes to our committee of moderators who will review it and then
+
+00:27
+unban you if you reach out to individual moderators you reach out to me
+and you ask to be unbanned you're going to get a
+very scripted message from all of us and that scripted message will say
+please fill out this form right please fill out this form if you continue to
+message individual moderators or myself the ban will stand and then we're just
+going to block you entirely okay so please
+you can't be a decent human being don't join the server don't type anything if
+you do get banned here's the process to get unbanned
+all right and please understand that myself
+individual moderators are not going to unban you it has to go through this form
+and we'll go to our committee we'll review it and then we will unban you
+this being said we've only had to ban very very few people like
+we're talking like a handful right that's the beauty of this community is
+that we have amazing people in this community
+
+00:28
+that are doing amazing things and it's only been a handful of bands so far um
+so i really really appreciate you all creating a space where folks feel
+comfortable uh where folks can come to get work done where they can learn and
+grow together and that doesn't happen with me it doesn't happen with the mods
+it happens with y'all right you are creating that space and so thank you
+thank you thank you oh boy now we got all that out the way uh
+let's talk about networking folks let's talk about some networking now
+here's something that you will have heard from me that i will say
+time and time again just applying to jobs will not get you a job i say again
+applying to jobs will not get you a job wait a minute what did he say
+applying to jobs won't get me a job yes that is correct
+
+00:29
+just clicking apply or even filling out a normal application will not get you a
+job there are some folks online that you see
+some folks that have talked to me leon i've applied to 400 places i haven't
+gotten a single interview let alone a job and my response to you is that
+you've messed up clicking apply does not get you a job
+if you click apply that is worse than printing out your resume
+all right if you if you're going to click apply
+might as well print out your resume crumble it up and throw it out the window
+right might as well throw it uh you might as
+well go ahead crumble it up and throw it out the window and here's why
+here's why when you throw your resume out the window
+
+00:30
+right when you throw your resume out the window there's a chance
+that an eagle flies by right there is a chance that an eagle flies by
+when that eagle flies by right they pick up the resume that you
+threw out the window and they're pissed you're like they're you're a littering
+person right they're pissed that eagle's piss eagle picks up
+that that that resume and flies to the local police station and the eagle drops
+the the resume into that officer's lap right and the officer thanks the trained
+eagle right the officer thanks the trained eagle right for bringing this litter
+and they open it up and they see that it's your resume
+and so they get in their police car they come to your house
+right and they they they arrest you for littering
+
+00:31
+and while they're arresting you they they see that you have
+html up on the screen and they go oh you write code my cousin works at such
+and such place and they write code um you know what
+we're gonna spare you this time and uh we're not gonna arrest you
+anymore but you're gonna you're gonna meet with my cousin that writes code
+and uh the the police officer gives you the cousin's phone number because
+they've been trying to hire right and so you talk to that cousin and that cousin
+uh says hey we saw that you wrote good html my my cousin saw it when they were
+arresting you uh we would love to give you an interview right second chances
+right you got caught by the the litter carrying eagle we want to give you a
+second chance uh and come interview with us and then you interview and then you
+get the job that whole story is way more likely to happen than you
+getting a job by clicking apply it's a legit story folks
+
+00:32
+and it's way way way more believable um way more believable
+than uh you clicking apply and getting a job okay
+that that that's way way more believable let that sink in for a second i'm gonna
+i'm just gonna let it you know let that linger for a second
+way way way more believable okay so with that being said the thing
+that will get you a job is your network and so
+what we're going to ask you to start doing next week is to start your networking
+and i think there's a lot of i don't know there's a lot of anxiety
+around networking there's a lot of things that people maybe people just
+haven't done it before they maybe they haven't built the professional network
+
+00:33
+before we're going to talk about all that stuff we're going to make sure that
+you feel comfortable networking that you find the things that work for you and
+that you can do it at an appropriate pace no matter who you are or kind of um
+barring some serious concerns uh you can find something that works for you
+right uh folks that have extreme anxiety there's things that might be more that
+work might work better for you the folks that um aren't really extroverted there
+might be things that work for you and so we're going to talk about a lot of them
+tonight and places that you need to start exploring but the one thing i need
+you to do is to start exploring right start figuring out what does and doesn't
+work for you so that you can do this networking okay now here is
+what happens with networking starting next week i need you to
+connect with three individuals that are already in tech
+okay three new individuals that are already in tech
+
+00:34
+and i need you to have two coffee chats with individuals that are already in
+tech okay so the idea here is that you're gonna
+meet three people that are already in tech they don't necessarily have to be
+software engineers although that is the goal but people that are already in tech
+project managers designers people that work at companies that would employ
+software engineers right you need to find three and connect with
+three of them each week then you wanna have two more right two more
+all right two more that you sit down and have a longer form conversation with
+now why do i ask you to do this so when we look at the boot camp that i
+run during the day called resilient coders it's actually more than this we
+asked folks to find five people right five people and then
+three coffee chats let that sink in the students that do my boot camp during the
+
+00:35
+day they have five a week plus three coffee chats now the reason why
+this is important and why we have them do five a week and three coffee chats
+it's because by the time they're done the 20 week program they have over a
+hundred people that have met them that know them and could eventually be a
+referral for them right you need to do the same
+thing this is where every other boot camp [&nbsp;__&nbsp;] up
+this is where every other tutorial that
+has tried to teach you how to code [&nbsp;__&nbsp;] up
+they like to pretend that the coding or the skills is the thing that gets you
+jobs it is absolutely not every every coding tutorial every boot camp right
+should be 20 weeks of how to build your network
+and at the very end they should say go do free code camper the odin project
+every single tutorial that's what it should be
+
+00:36
+networking for 20 weeks and then go do free code camp or or the odin project
+that's what it should be right and so if for some reason the gifted subs aren't
+coming through sorry i see folks are doing gifts itself
+but i'm just not seeing them come up on my um screen i think they're
+uh behind a little bit so i apologize if you give gifts to subs i appreciate to
+get the subs i just i just can't see them coming at the second right that's it
+right that's what it should be and so what i hope for you is that after tonight
+it's a little less scary right it's a little less scary and it's a little bit
+more clear how you're actually going to do this
+because i see a lot of you some people are saying uh i live in the middle of
+nowhere all right i got you uh i i'm introverted i got you i have anxiety i
+
+00:37
+got you we're gonna talk about all of this stuff tonight so that you can start
+chipping away at those i'm gonna say i don't like to say it but keeping with
+those excuses right some folks have some real real things
+that will get in the way of the networking but i don't live somewhere uh
+i'm introverted i i have like mild anxiety not really like like
+nothing real but like a lot of anxiety right if you have anxiety that you can
+still overcome because some people don't right but if
+you have the privilege of not having cripplings crippling anxiety if you have
+the privilege of connecting to the internet uh you have the means to meet
+with folks around the world right you have the right now is the best time ever
+right the best time ever to network in the history of networking there has
+never ever ever ever been a better time than right now
+
+00:38
+right i don't care where you're from how you do or what you do it right
+this is the best time there has ever been the network everything is remote
+everything is remote if you live in the middle of nowhere guess what you can
+network with the best of them right and so this this right now
+is the best time in the history of time to network
+and so we got to use that to our advantage we have to use that to our
+advantage right my students back in the day and by back
+in the day i mean like a year or two ago when they wanted to network they would
+go to a meet-up they would have to leave the classroom they'd have to get on the
+subway they would have to go all the way to meet up they would get to that
+meet-up there'd be two people there they
+would go [&nbsp;__&nbsp;] and then they would get
+back walk back to the to the subway get back on the subway go to a different
+meetup get there there was five people at that one but they already knew all
+them they go [&nbsp;__&nbsp;] and then they get back
+
+00:39
+on the subway they go to a different meetup right
+you don't have to do that anymore everything's remote right now if you
+don't like where you're at close your eyes
+if you don't like the meetup that you're
+at click x get out go to the next one it will literally never ever be better
+to network than it is right now now let me say this again
+networking can be a very scary thing for a lot of folks
+there are tips strategies tools techniques we're going to talk about
+over the next couple of classes that'll hopefully be helpful
+when i'm giving this advice i am not talking to the people that
+are going to need serious kind of outside help right there
+are some of us that don't have the privilege of
+being able to do this properly some folks really do have crippling anxiety
+that stops them from networking some folks really do
+
+00:40
+have things mental health things that might stop them from doing this part of
+the process so all the advice i'm giving to you right now is is not targeted
+directly at those individuals if that's where you are the thing i have to say to
+you and the thing that that has helped most of my students is you have to get a
+game plan together with a therapist and a psychologist right this is coming from
+someone that that has bipolar disorder that has impacted my life to the point
+where i couldn't do networking the only thing that got me out of that hole was
+therapy and a great psychiatrist right and so
+i want to put that on the table right i want to put that on the table because
+i'm going to say a lot of things that i just don't want to have to exclude those
+individuals but if that's what you're facing you have to work through it it
+really is that important right now will there ever be
+somebody that doesn't have to do this networking process yes there are ways if
+you clicked apply there are things that can tip the odds in your favor right but
+
+00:41
+what i'm talking about is a process that is going to tip the scales
+more in your favor than it is just clicking apply so if you know
+that you are working with a therapist you're working with a psychiatrist to
+get over the things that would stop you from networking that's fine these next
+couple things we're going to talk about over the next couple classes they aren't
+for you you have to find strategies working with those the mental health
+professionals that will enable you to apply and get over that hurdle okay
+so to put that preface but if we do have the privilege of not struggling with
+those things this is for you okay um i ask that if you do kind of
+struggle with these things we have the mental health channel and i will do a
+session i think just for folks that are in that camp that'll talk through the
+things that i had to do to hopefully help me get over my mental
+health hurdles to to be able to start networking
+and i think we'll do like a smaller session that's not like public on twitch
+to help kind of address some of those concerns but
+
+00:42
+barring that issue right this is for you now
+the other thing i'll say is that i would say probably the bulk of you think you
+can't do this right and barring the things that we just talked about you can
+you might not like it right you might not like it
+you might kind of hate it at first um but you can do it right you can do it
+uh and the cool thing is we're gonna do it together
+and when you go to a lot of these meetups in these places uh there's gonna
+be a lot of 100 devs folks there i have to be really careful the things
+that i share for you to do because what's going to wind up happening is
+there's going to be a thousand of us at those things but i have had students
+that you would think had every barrier against them that found the strategies
+that worked for them to help them the network and what i'm going to say i'm
+going to say it from the mountaintops the thing that gets you a job is the
+
+00:43
+networking right it is not the learning to code it is not
+the getting the best at javascript it's this right here
+individuals that do this better will get more jobs than the folks that can code
+twice is better twice as good all right a lot of caveats throughout there
+but i'm excited to talk about this stuff so starting next week you owe me three
+connections and two coffee chats at first the coffee chats and the
+connections they can be the same people but as we get further in and we kind of
+ease into this right we ease into this right
+as we ease into it uh you are going to eventually have three connections and
+two coffee chats that are separate but we start next week you're not starting
+this week we start next week you're gonna have all week to try this and the
+first week's not gonna matter i just want you to try so next week
+
+00:44
+you're gonna try right you're gonna try you're gonna get used to it and we're
+gonna build it up right you're gonna get better you're gonna get better you're
+gonna get better and it's something that is a muscle just like learning the code
+is the muscle that we had to get this networking thing is something that we
+have to get better at and something you get better at over time
+your first couple networking sessions are going to be awkward as hell you're
+going to be nervous you're going to be anxious you're not going to know what to
+say um but you're going to get better at okay
+all right let's talk a bit more about this people really stress out over the
+networking but what the heck do i mean by networking the goal of networking
+right the goal of networking is to turn a stranger
+into a co-worker but the first step in that is turning a stranger into a friend
+
+00:45
+right right the goal of networking is to turn a stranger into a friend
+and so this is the the steps that it should go through you meet a stranger
+they become an acquaintance and then they become a friend
+when someone is a friend right which someone is a friend they
+will most likely give you a referral and that referral can be used to get an
+interview or to get some perks during the interview process and eventually
+that friend can become a co-worker now here's the thing
+this process can take a short amount of time to take a long amount of time but
+that's the goal the goal of networking is to make friends there's nothing more
+to it than making friends now the reason why it's important for us
+to make friends and to get referrals is because most companies
+if you get referred you get some magical things that happen
+
+00:46
+when you get referred to a job often you'll skip a first round interview
+when you get referred to a job often you might go right to a technical right you
+might go right to whatever that first round is you might skip right
+now the other thing that's really interesting right now is that a lot of
+companies pay referral bonuses so they'll pay engineers i've seen
+anywhere from like a couple thousand dollars to 20 plus thousand dollars per
+referral so if a company is paying their engineers 20 000 per referral
+and you can't get a referral that kind of says a lot and so this idea of
+referrals is really dominant right now in tech
+these referrals mean a lot internally it
+gets your resume to the top of the stack
+it gets you an actual interview and once
+you have a referral there's like another
+
+00:47
+step two is that you can have a champion if someone's your friend and they
+actually really want to refer you they're going to make sure that you get
+the interview a lot of these jobs will have hundreds
+of people that apply and they don't even
+ever get don't even get somebody to look right they don't even get someone to
+look at their resume right that company gets hundreds of applications and then
+the people that they wind up interviewing are the folks that just had
+referrals anyway right so the idea here daddy yankee says my referral bonus is
+5k exactly right um daddy yankee was uh nick from our
+alumni chat on friday right so if if they're paying nick 5k
+and you can't get a referral from nick then there's something there's something
+going on there right and so we want to build our network to get a bunch of
+folks in our corner that will eventually
+give us a referral because that referral does so much for you it skips rounds of
+
+00:48
+interviews and it gets your application actually seen right so that's why the
+referrals are so powerful so when you're doing this networking the
+goal is to meet a stranger turn that stranger into an acquaintance
+and then ultimately a friend and then when the time is right you can go back
+to that friend and say hey i see that you work at chow now can you give me a
+referral right now here's where people do it wrong right now nick just said
+that they have a referral bonus they said on friday to message them and
+what people do is this they go blah i'm going to reach out to nick
+yo yo yo i need a referral like they just they just in mass they
+just vomit sorry i don't like i said i stopped saying it and they they got they
+they they just they just blast nick with messages right they just blasting with
+messages there's there's no there's no rhyme or reason to it it's all about them
+
+00:49
+right it's all about them right it's all about them right they
+don't care about nick they want the referral they want nick to to give them
+the referral they just don't care they don't take the time to get to know
+them and make them a friend so is nick going to ever refer you the person that
+just randomly adds them on twitter the person that just randomly adds them on
+linkedin are they ever go are they ever ever going to get the referral from them
+no are they eventually going to have hundreds of people reaching out to them yes
+so the the thing here that the other thing too i hate the most is linkedin
+some of you go on linkedin and they're like every single every single person
+that you ever see on linkedin you add right you just add you add them to
+linkedin you're just doing this all day yes yes yes oh yes just linkedin
+linkedin linkedin linkedin linkedin linkedin linkedin right and then what
+you wind up with is yeah you have a thousand people that you're
+
+00:50
+connected with on linkedin but none of them know you none of them care about
+you and none of them would give you a referral
+you're better off purging your entire linkedin and only having people that
+you've actually met and interact with if you haven't met and interact with
+that person linkedin is is not the move like it's just you're just
+you're just you're just clicking and it's never going to get you the referral
+because people don't care about you right so you're doing it wrong and so
+when people say leon i've applied to 400
+places my question to them is always who did you talk to at those 400 places and
+the answer is always no one so that means you never got a referral
+and your resume never made it to the person that could actually care about it
+so stop spamming people right stop spamming them adding them on on linkedin
+
+00:51
+when you've never interacted with them they're never going to do anything for
+you right they're not going to do anything for you and now you just have a what
+could be an amazing tool of the people you know and interact with is now wasted
+on connections that aren't real right and so just be careful
+with these tools right the whole goal of networking is to make friends if you're
+not making friends you're doing the networking piece wrong because the end
+of the day we want to have people that we can rely on that know you that can
+give you referrals or can connect you with the right people at certain companies
+is that the same as twitter yes if you're using twitter for networking and
+you're just like mass adding people that you've never
+even like liked one of their tweets i don't know that doesn't seem really
+helpful to me i think twitter is definitely different
+because like you're you want to like it's not it's not just networking right
+
+00:52
+it's like it's like connecting and like seeing
+other posts and stuff like that but linkedin is very much about like getting
+a job so your linkedin should be manicured it should be perfect
+right it should be like your real network all right
+so now you're like leon you're telling me that i need to make friends right leon
+friends make friends how how do you make these friends right well
+we're going to talk about how to make friends
+uh we're going to talk about how to make friends and we're going to talk about
+how do you like talk to people i i know for some folks it can seem
+silly but i guarantee you it's not for most folks most folks
+aren't comfortable making friends and most folks might not know how to start
+these conversations that's okay if that's the camp that you're in i got you
+
+00:53
+all right and so the place i always recommend folks to start with this
+is how to win friends and english people
+if there is one book that has changed my life more than any other book
+it is this book here how to win friends and influence people okay now
+how to win friends and influence people is a collection of ideas
+and stories that will lead you to be able to make friends and have meaningful
+interactions with others you can find the book online for free very easily
+and there's also lots of summaries of all the key points what i've linked to
+here is a summary of all the of all the key points so i recommend reading the
+book because there's more to it that you
+don't get in the summaries that help the the idea stick
+but this is where you start that's the foundation if you say to yourself leon i
+don't know how to talk to people i don't know how to make friends
+
+00:54
+great i was in the same place this is how you do it it's this book so
+start there and then once you start there you have to practice it this is where
+most folks this is where most folks stop remember
+they were talking about trough of sorrow this is where it's where it comes in
+right hey zeus so dejesus is one of the best people i've ever seen on this topic
+and they just said that that book helped
+me a lot so dejesus has a wonderful blog post that i've linked to you all before
+don't seek mentors seek friends right like um
+they're they're well versed on this topic and they're telling you right now
+this book helped them a lot so start here if you don't know how to make
+friends you don't know how to carry conversations start with this book
+i'm going to start synthesizing some of the things from that book into our next
+couple lectures on um on how to how to win friends and
+influence people but how to network so you're gonna simply start seeing me fuse
+
+00:55
+some of this in there but this is where you start cool
+so now you're like all right leon i have to turn strangers into friends got it
+i don't know how to make friends but i'm gonna read this book got it
+how do i meet the people that are strangers so i can turn them into friends
+got you all right got you one of the best ways
+to turn strangers into friends where you don't have to do anything at all you
+don't do anything other than show up right
+you don't do anything other than show up is to go to meetups or events
+and specifically events that reoccur right that happen once a month
+
+00:56
+right and so here's what happens if you were to go to a meet-up once a month
+by month three you are seeing the same people
+right you've seen the same people over and over again right over and over again
+and just the idea of having seen that person
+three times in a row that person is now an acquaintance
+if all you ever did was say hey i'm leon nice to meet you bob and then the next
+two times you say hey bob hey bob guess what you're an acquaintance [Music]
+right get you some all right you did it that's all you have
+
+00:57
+to do introduce yourself to someone and then say hello to them two more times
+and they're an acquaintance they will recognize you maybe not the first one at
+least the second time they'll recognize you
+and one of the things in the how to win friends and influence people is this
+this term that you'll actually hear everywhere now it's that the the word
+that sounds the sweetest in any language is that person's name right so just by
+acknowledging them saying hello with their name three times in a row
+they now now you're an acquaintance at least right
+you keep showing up those acquaintances it will naturally grow if you just be
+are intentional of saying hello what someone's name you can move from from
+from from kind of that stranger to acquaintance very quickly now these events
+most of them are virtual right now right and so you're saying leon how do i how
+
+00:58
+do i get that rapport going if it's virtual well a lot of these virtual
+meetups have breakout sessions right where you will kind of like hear like a
+little bit of a talk and then they'll put you on a breakout session with other
+people right so you can still get that you can still get that rapport building
+you can still go from that stranger to acquaintance even if you're going to all
+virtual events it will still happen cool the other thing too is that
+for most folks being local is a competitive advantage
+now if you live in the middle of nowhere or you live in a country that does not
+have a tech scene uh this advice is is true but you're going to work a
+little bit differently at the at this part right so meetups are wonderful
+local meetups are even better okay now the beautiful thing right now this
+being the best time ever to network ever is that if it's remote
+
+00:59
+there's nothing stopping you from networking in that area what is the closest
+city with the most jobs think about that what is the closest city with the most
+jobs if you are in the middle of nowhere how close are you to chicago how like
+what like where where are you close enough to that has tech jobs guess what
+that's where you're gonna network that's it
+that is where you're gonna network a lot of these meetups are still remote
+so since the remote pick a city and start networking even if you're four
+or five hours away even if you're a whole country away pick one city to
+focus on right pick one city to focus on and start going to all the virtual
+meetups there right like i said this is the best time
+ever to start the networking and so you can find um meetups that are remote
+
+01:00
+local will always be a competitive advantage if you can can get in good with
+a local area and you can meet all the people in that area and you do this
+networking every week right by the end right at the at the end of a hundred
+at the end of a hundred devs you're gonna have like a hundred people that
+you've networked in that area the odds of those hundred people knowing
+the person that you are interviewing with is pretty high right
+right it's pretty high if you put in this work now when it comes time to
+start interviewing that 100 that you spent time on
+it 10x's it's really a thousand that you can be connected to and interact with
+right it's not just right it's not just the people that you
+networked with if you made if you turn them from a stranger into an
+acquaintance or friend you now have their friends that you can be connected to
+
+01:01
+right and so it it 10 x's at least the more you put into it so being local
+is a competitive advantage picking one place to networking can be a competitive
+advantage even if you don't live in that area pick somewhere first right even if
+you know leon i want to be remote pick a place to start practicing with right
+pick a place even if you want to be remote pick a place
+right won't this process be overwhelming yes
+this is a very overwhelming process at first but here's the thing
+you get better at it it gets easier the first couple meetups you go to are going
+to probably not go really well if you're not like a naturally like talkative
+person right but it does get i promise you i've seen
+hundreds of my students go to their first networking events kind of just
+stand in the corner and go home but eventually you get better at it you get
+a little bit more comfortable with it you practice it and the beautiful thing
+
+01:02
+is if you're going remote you could be middle of a conversation
+right you could be middle of a conversation hey my name is leon how you doing
+i i uh and they'll never see you again they'll just never see you again right
+that's the beauty of being remote if it you could be mid-sentence you could be
+mid-sense and if you feel uncomfortable click x get out of there who cares this
+is the best time ever to try networking right best time ever to try networking
+cool so i like to start off with meetups i'm going to cover this topic just one
+for a few more seconds then we're going to take a break
+i like to start with meetups particularly local meetups and
+
+01:03
+meetup.com is an amazing site to find these meetups but every city has their own
+has their own job like their own boards that where these events get posted
+right and so meetup.com is an amazing place to find meetups but there are so
+many other places that you can find them um so in boston
+like here's something that we we share with our folks in boston these are all
+the places that we could go in boston to find events we got the guide to boston
+boston tech and startup events the epicenter community
+different universities calendars right like there's uh
+tech ladies like she geeks out there are all these places that we can go to to
+find events that are just not um they're not just meetup.com and so one
+of your first things you have to do is when you pick your like locale
+you gotta find all the places that the events get posted to in that locale
+
+01:04
+right and one of the things you might do at your first couple meetups is saying
+hey like i really like this meetup what other meetups do you go to like what
+other ones are like your favorites and then you find even more right so at
+first i'm going to look like there's a handful there's a couple but then
+eventually you start to find like oh there are all these other ones that
+aren't just necessarily on meetup.com the other ones that people can start
+inviting you to and so it grows but even if you want to be remote pick a
+location start local find local meetups even if
+they're like they're probably going to be remote right now right and you start
+there that's the first place that i recommend they start finding people that
+you can turn from strangers into friends the idea behind the local events or the
+recurring events is that it's very easy to go from stranger to acquaintance when
+you know you're going to see the same person over and over again all right
+let's stop here with the top of the hour we're going to take a break
+when we come back from the break we're going to start talking about other
+things that aren't necessarily events where you can find people to turn from
+
+01:05
+strangers into friends all right folks if you're new around here we like to
+take breaks the top of the hour we're here to be we're here to be healthy to
+be in this for the long haul the five minutes on the clock here alrighty folks
+
+01:06
+
+01:08
+
+01:09
+enjoy the five minutes hydrate get some babies and i'll see you all in five um
+leon we made friends while you're gone love it
+well they were just like spamming where they're from i love it
+should we have business cards for in-person events ah that's up to you
+
+01:10
+people still carry them we just ask for people's emails
+all right folks about 20 seconds left some people are asking about like a
+bunch of different places and apps and stuff like that we're gonna get there
+we're gonna talk about a lot of all the other places too so
+we'll get there in a second all right folks come on back come on
+back hope you had a good break alrighty folks cool
+
+01:11
+let's jump back into it welcome back come on back come on back
+is it okay if it's any tech event for example if it's event talking about
+python yeah i go i go to all of them i go to a bunch of different events
+um it's whatever i'm interested in right i think like i've like gave talks at
+like certain meetups like the css meetup and stuff like that in boston uh so i
+have like the ones i like to go to regularly um
+but yeah i think in the beginning more is better because you'll find you'll
+find like they're like not every meetup's the same
+some really suck like people that show up to them just aren't the best or like
+they're too small or they're too big like you're gonna you're gonna find your
+recurring ones right and your recurring meetups are different for every person
+and you kind of just have to throw yourself into them in the beginning you know
+do you have a tip on how you cope when you feel overwhelmed um i think in the
+beginning it's just giving yourself like time right
+when when i say these events like some people want to run out and do like 100
+events don't be selective in the beginning take some
+
+01:12
+time get get get into it exactly breathe like find your footing like this is not
+something that you're going to get perfect next week this is something that
+you're going to do for the entire cohort to get better at this right so don't
+think that people come out the gate hot and are really good at networking
+they don't it takes a while and it takes a while to be yourself it takes a while
+to get comfortable right what if there are no meet-ups in your
+country pick a city doesn't it doesn't have to be your country the beautiful
+thing about being a remote pick a different city a city that you might
+want to work in remotely even yeah find your groove exactly you'll
+find your groove and it takes a little while right give yourself we always say
+give yourself a little bit of grace right and you'll find your groove and
+and it'll it'll get easier time but you can't use it as an excuse not to start
+it's the only way that you do get to the
+point where you're comfortable where you do get to the point where you can make
+friends where you get to the point to where it actually has a meaningful
+
+01:13
+impact on your career is if you start yeah
+cool all right so we talked about like events particularly like local events
+meetup groups events that are recurring these are often the best for my students
+just because it really does have that built-in mechanism to go from like
+stranger to acquaintance very quickly so that's why i like the recurring events
+remember meetup.com is a great place to start but often the cities that you're
+targeting will have dozens of other boards or other places
+where they share events and you got to seek them out you got to give it a good
+old google you're the old 100 devs try and start finding these locations
+all right the next big thing is conferences
+the reason why i really like conferences is because
+they bring together large amounts of people and the people that show up the
+conferences want to network like most of the time
+people are showing up to conferences because they want to meet other people
+
+01:14
+that are interested in the thing that they're interested in right and so the
+beautiful thing about going to a conference is i've made so many friends
+by going to conferences because we're all there because we care about one
+topic and we're all kind of more open to meeting new folks and so for me
+conferences have hands down in the number one place that i've made friends
+in tech right conferences are hands down the number
+one place i've made friends in tech i go to a lot of conferences each year
+that's kind of chilled a little bit during the pandemic but conference has
+always been the biggest for me and the way that i find conferences are
+you just you put in your interest right and then the word conference after in
+google right you can literally put javascript conference and you'll see
+some stuff that pops up um you could even tie it closer to like where you are
+like javascript conference boston and things will come up right and so you try
+to find like a bunch of these conferences there are listings online of
+like all the biggest conferences as well and so you could find all of them
+
+01:15
+under devscon soon maybe i don't know let's see i think let's talk about it
+right but these conferences are great uh and
+here's here's some some things about conferences um a lot of them are free
+a lot of them are not but almost always there is a way to get
+into a conference for free i hate recommending things that are not free
+and so when i say conferences even the most expensive conferences there's
+typically a way in where you don't have to pay any money and it might actually
+work out better for you and so what i'll
+often do is if there's a conference that costs a lot
+send them an email hey i would really like to attend this conference uh i'm a
+newer i'm an entry level software engineer
+and i'm broke as a joke right i'm broke as a joke
+is there any way that i i could get into the conference at a discounted cost or
+potentially for free right 95 of the time they're gonna give you a weigh-in
+
+01:16
+right like 95 percent of the time they're gonna give you a weigh-in right
+um i i see some people saying like sneak in i think i think sneaking in like i
+mean do you right but there are often ways to like do it legitimately that'll
+get you in the door like 95 of the time and so send them a message hey like i
+have no money like is there a way for me to attend this conference and they'll
+typically say yes like 95 percent of time they'll say yes the thing that has
+helped me the most and i actually have my shirt on today um is volunteering uh
+i volunteer every year at two or three conferences like without
+skipping a beat like every year pandemic has stopped this obviously but
+two to three conferences every single year i volunteer at
+when you volunteer you often like have to like do one thing and then you get to
+spend the rest of the time at the conference right like um i volunteer at
+the free software foundation conference every year um and typically like you can
+you can schedule like to to be in charge of like
+
+01:17
+one thing that you'll miss like one talk
+but then the rest of the time you can do whatever the heck you want uh you get a
+free t-shirt right like and you get to meet all the other volunteers so like
+it's like it's automatically like a little group of people if you don't know
+anyone right if you don't know anyone that you
+immediately are now like oh here are like the other folks that are
+volunteering and so you immediately have
+like this small group of friends already that are at the uh at the conference so
+i volunteer at libre planet every year it's my one of my favorite conferences
+to go to it's a free software uh conference and free meaning that like
+like open source things like that not like free money um
+and so the the place that i've made like i have like very like
+i would say one of my closest friends are from volunteering at conferences uh
+i use when i volunteer at libra plan i love to do the the the gift shop like
+where you can come and like buy t-shirts and hats and stuff like that and
+
+01:18
+literally one of my best friends right now is someone that i volunteered with
+a bunch of times at that gift shop where we would just sit there and shoot the
+[&nbsp;__&nbsp;] for hours um just us because people were like in
+talks or something like that and so volunteering is a great way to get into
+these conferences for free to meet a small group of folks and um and to
+to to like get that ball rolling but the beautiful thing about conferences is
+that it does bring a bunch of people together that are
+interested in one topic and often are really open to meeting new folks
+one of the things i always tell folks if
+you're going to go to a conference never
+ever eat alone also another really great book but don't ever eat alone right
+if you are going to go to lunch and you see a group of people hey are
+you going to lunch do you mind if i tag along right sometimes they'll have like
+discord channels or like an irc channel beforehand and i'll
+be i'll just type in there hey i'm going to go get lunch at one o'clock anybody
+
+01:19
+want to join me for lunch and somebody will always say yes right we'll always
+say yes and so it takes a little bit more effort to like to to reach out hey
+slum dog i wonder i hope i want some dog just donated 25 bucks uh thank you for
+the donation first of all and if you're the slumdog that i think that's on
+twitch congratulations uh on your job yeah congrats thank you for the donation
+and congrats on the job is that you and jen thank you for the hydration cool
+so don't ever read alone um it's just an easy way to connect with folks
+and that like you you share a meal with someone that goes from stranger to
+acquaintance very quickly so yes it does take a little bit of a little bit of
+your your extroverted juice to like tag onto a group or to put yourself out
+there in that way um but there are a lot of ways
+
+01:20
+that you can maybe meet up with those groups and good conferences actually
+have like channels specifically for like meeting
+up to eat with people so conferences great place to meet people volunteer
+figure a way to get in for free and um never eat alone it'll be super easy to
+meet a lot of folks if you do those things
+and like i said your first one kind of sucks you kind of feel awkward you don't
+really know what to do right but you can figure it out and the cool
+thing is if you're going to conferences now
+i bet you there are some other 100 devs folks that are going to conferences
+and so we have an event channel that will open up
+a little bit more as we get further along in the course
+uh rock bottom hey thank you for the five gifted subs um we'll open up that
+adventure channel more as we get deeper into the course but i guarantee if
+you're going to conferences there will be other 100 devs folks there that you
+can say hello to that forms your first little group and then you can bring in
+
+01:21
+other folks to your group right and so um when there are big conferences coming
+up we'll share them on discord so that you can know to like meet up with folks
+that are already there so that way you'll always have like your first
+little bit of friends um and then you meet others the biggest bit of advice i
+have ever given to folks that feel uncomfortable
+networking at meetups or conferences is to don't don't do it alone always have a
+buddy right have a buddy and so when my students go to meet-ups or they go to
+conferences they bring a buddy don't bring lots of don't don't go in
+groups because if you're a big group people are going to feel
+like they just won't approach you but if it's just you and somebody else you can
+walk up to any other person and you become a group of three and you both
+network with that person and so as the big conferences come up we'll
+open threads for like buddy groups and stuff like that but yeah cool
+the other big thing is community groups and this is where folks that might not
+
+01:22
+like going to conferences or meetups can really shine uh by community groups i
+often mean like local meetups or text channels so discord slack irc
+there is often groups that you can join that might only be completely like text
+based and so if you have a hard time meeting folks like face to face and talking
+these text-based arenas might be for you and so i i think
+de jesus was here earlier they're like the best person i've ever seen at this
+right they they they just were on discord all the time in
+other discord communities where they they labeled themselves i forget exactly
+what it was it was like um still here what was your name again nick it was like
+i forget what you called it like impatient developer or something like that
+
+01:23
+terrible developer [Laughter] their their name and discord communities
+was terrible developer and they just put that out there and
+people would like actually help them and they would giggle when they saw their
+name right so they got people started to recognize them just because of their
+name that they were always posting right and then after a year i got better and
+the community promoted you to inconvenient developers so yeah the
+community kind of rallied around this idea that somebody labeled themselves
+teller world developer uh then they gave them inconvenient
+developer right and so these text communities can be just as equally
+beneficial as like face-to-face communities you build a rapport with
+people they get to know you they see you consistently and so find a community
+group that works for you right our discord is a great source of community
+because we're all going through it together but if you're networking you're
+going to need something else that's not just us right
+
+01:24
+and so there are tons of like discords that you can meet in tons of slack
+channels tons of other text-based communities and then
+even just like local communities that you can join uh in boston we have a
+chapter of a civic hacking group it's called what's the the main um code
+some code for america yeah code for america and then code for america has
+chapters in pretty much every single city right and so
+you can join a local chapter of code for america and that's a group of people
+that come together just to build and hack on stuff they're technically kind
+of like volunteering but it's like a group people that come together to like
+build so it's not even just like traditional like networking but there
+are places where you can come and write code and get to see the same people week
+after week writing code together and those are often the best because not
+only do they know you but they also know your coding ability right and so
+
+01:25
+look for community groups there are also like interests or affinity groups too
+one of the big ones is tequila for folks that are latinx there are so many
+communities that if you identify a certain way then you could join those
+communities too and you got to start seeking these out now
+you got to be seeking out your meet-ups you got to be seeking out your
+conferences you got to be seeking out your community groups so you can start
+kind of having multiple angles to attack meetups are going to dry up
+conferences are going to drop community groups are going to dry up you got to do
+all of these things to kind of constantly build that that that way of
+reaching out and connecting with people and you're going to find one
+that you enjoy more than others and that
+might become your group that you go back to where you really make those friends
+those deeper connections and it's about putting yourself out there into all
+these different angles to find what works for you personally like what like
+what clicks in your brain and what gives you the best fruit right cool
+community groups and then there are apps
+
+01:26
+i don't know where this image comes from but when i search for apps this is the
+photo that comes up right uh there are apps and i'm i gotta
+be careful what apps we we share uh because we're gonna take them all
+down so i i i put big ones here but there are so
+many other apps that can help you network as well but these two are like
+the bigger ones and so i feel comfortable putting those but maybe not
+the smaller ones right and so the apps like lunch club or bumble biz
+are ways that you can just like swipe through and meet people
+i haven't had too much success with them but some of my students really this is
+like their main way of meeting people and so if conferences aren't working out
+local meetups aren't working out community groups aren't working out also
+try the apps right maybe that's a little bit less pressure for you
+maybe it's a little bit easier to meet folks and the other thing i'll put is
+like just be careful um some people are on bumble biz not to make like
+
+01:27
+colleagues but other things so my general disclaimer don't be creepy and
+be careful folks that are creepy on these platforms
+but apps can also be another great way for you to meet people
+and then the one of the last ones here right one of the last ones here is is to
+talk to your friends and family and let them know that you're a software
+engineer once you tell friends and family that
+you're a software engineer you'll be surprised of like who your friends and
+family connect you to right you'll be surprised you never know
+like who they know and so once they know they might share it with others
+a lot of your freelancing stuff when we get there will come from friends and
+family and so the more you let folks know hey this is what i do this is how i
+do it and i'm looking to meet other folks uh you'll you'll you'll probably
+start to hear other folks too that they're somebody's friend or brother or
+cousin or something and then those connections can be really really strong
+
+01:28
+right if there's somebody that connects you with somebody else that can be
+really strong and this this counts for folks that you
+networked in too right so once somebody goes from stranger to friend you could
+say hey bob i really enjoyed getting to know you
+you seem really connected in the tech space is there anybody else i should
+talk to and i had a student before that whenever they had a coffee chat they
+they ended every single coffee chat with who should i talk to
+right who should i talk to and every week they got their next coffee chat by
+asking the one the week before who's the
+next person i should talk to and can you connect me right
+and so you can do that too right like once you kind of put in that work to get
+the um the connection you keep moving juggling biohazard says how do we get
+over the feeling of being disingenuous or manipulative
+it's only manipulative if you're not actually trying to make friends
+if you actually go into this honestly like wanting to make friends and get to
+
+01:29
+know people then there's nothing disingenuous about
+that like yeah your goal is to like build a network so you can you can like
+get more jobs right but like daisy said like be genuine yeah
+like actually care about the person you're talking to provide value right
+like provide value i think that's one of the things that people get wrong with
+networking so much and some of the things we're going to talk about on
+thursday um there's too much to cover in just one class right and so on thursday
+we're going to talk about like how do you like actually talk to these people
+like what are the leon show me the messages that you're sending show me the
+conversations that you're having because i i've never done this before i need to
+see what you're talking about we're going to do that on thursday right
+but be genuine right what do we do with our hands be
+genuine care about other people provide somebody value right if you talk to
+someone and your goal is to make friends actually listen like if you were if you
+
+01:30
+had a coffee chat with me this week right there's like a 99 chance that
+it's gonna come up that i did not play the new pokemon game you're like hey
+like how are you doing how was your week
+how was your weekend like typically when you start off a conversation with
+somebody you say hello hey how's your day been how'd your weekend been going i
+would have said hey i was too busy i didn't get to play my the new pokemon
+game that came out i was really looking forward to it right
+if you wanted to provide me value after that call and show me that you were
+listening show me that you were um like engaged i would expect an email
+saying hey leon i really appreciate you taking the time to talk to me today i
+learned like i just had so much fun like engaging with you have you seen this
+article about the new pokemon game that's it
+you provided the smallest a bit of value just by linking me an article and that
+in my brain right makes me think positively about you so there are these
+things that you can do in these talks and there are things that we can do
+
+01:31
+after the conversations that get people to go from stranger to friends right so
+let's talk about that process alrighty you meet someone
+right you meet them at an event a conference a local community group right
+you meet someone the next day you should send them an email in that email right
+in that email you need to provide some sort of value
+and that value should indicate to them that you were actually like engaged in
+that conversation hey bob it was amazing to meet you
+
+01:32
+i really enjoyed our talk about rubix cubes did you see
+that the competitive speed cube is now less than 10
+on amazon i it blew my mind i had no idea right i had no idea that it could be
+that cheap to get into rubik's cubing thank you for for letting me know
+like thank you for like [&nbsp;__&nbsp;] thank you
+for bringing up rubik's cubing again i'm
+going to order one and get into it right so that just provided a little bit of
+value i showed them that they can get a new rubik's cube for under 10
+and it shows that i now have an interest in a passion of theirs right it really
+is just that simple sam said if i had two hours a day
+to commit to furthering my career 30 of those 30 minutes of those would be
+networking 100 agree right so you meet them next day you follow up with an
+email provide the smallest amount of value it can be linking an article could
+be linking something that that tied into a passion right three days later
+
+01:33
+add them on linkedin alright three days later add them on linkedin
+hey we met at the such-and-such meetup a
+week ago or three days ago a couple days ago don't say three days that sounds
+weird hey we met up uh we met at the meetup a
+couple days ago i really enjoyed talking to you i had a lot of fun i would love
+just to stay in touch so i'm adding you here on linkedin hopefully i see you at
+the next meetup right now notice i didn't just add them on
+linkedin what did i do i didn't just add them on linkedin what did i do
+i sent them a message for the love of all that is holy everybody right now
+right hands up please right hands up in the air please yes you you're not
+putting your hand put your hand up if you're able please okay repeat after me
+
+01:34
+i promise you say you say i promise i promise to never
+add someone on linkedin ever again without also sending a message
+or say one more time for the folks in back i promise
+to never add someone on linkedin again without also including a message
+all right well we all promised if you ever add me on linkedin
+let's just get real here for a second uh if you i don't i don't accept people
+on linkedin until they graduate just by the way
+um but if you ever add me on linkedin and there's not a message
+i'm blocking you and i'm banning you from everything you're gonna be banned
+on twitch you're gonna be banned on on discord uh
+
+01:35
+your anything that i i'm gonna block you on twitter right
+any any way that i can i can never see you again i'm gonna figure out a way to
+do it all right you're gonna you're gonna submit your
+ban appeal and it's gonna be a all right my camera did not like the
+putting the hand up there we go all right we're back cool
+we've all agreed we've all signed the sacred oath to never send a linkedin
+message uh say send a linkedin ad without a message ever again cool
+i'm gonna ban you on vine exactly what if we sent the request a month ago
+you're all you're right all right then six days on the sixth day right on the
+sixth day you add them on twitter all right so you met someone the next
+day you sent them an email that provided some value
+on the third day you added them on linkedin with a message reminding them
+
+01:36
+where you met them and thanking them again for their time
+and then on the sixth day you added them on twitter
+what are we doing right here folks what are we doing to these people's brains
+right now yeah we're stalking no it's not stalking it's networking okay
+we're doing spaced repetition we're doing space repetition on them
+remembering who you are right and we're doing it with enough
+space in between that it's not weird it's networking right
+we provided value we provided appreciation it's not weird as
+networking right and we just spaced repetition the brains into remembering
+who you are so the next time you go to that meetup you're no longer a stranger
+what are you you're no longer a stranger what are you
+
+01:37
+you're at least an acquaintance you're at least an acquaintance how good
+are you are at this process maybe you're a friend right but you're at least an
+acquaintance right you're leasing acquaintance so in
+in one meet up you can turn quite a few folks from strangers to acquaintances
+just by following this pattern now if you're like leon
+i don't know what email to send leon i don't know what linkedin message
+to send ah i don't know how to add them on twitter i got you
+thursday i got you thursday i'm going to share
+exactly what i send in an email i'm going to share exactly what i send in a
+linkedin message i'm going to send exactly what i send on twitter i got you
+right it's going to be you could don't copy and paste because there's like a
+thousand of you copy and pasting it but it'll give you the good idea all right
+
+01:38
+memphis thank you for the hydration cheers to you cool now coffee chats
+let's say you've done this previous pattern you met them you emailed them you
+linkedin them you twittered them right you feel like you're at that
+acquaintance stage right the coffee chats always be
+different people they should you should try yeah all right
+different people each week at least right the idea is to have a coffee chat now
+coffee chat used to be like in person like you would go to a
+coffee shop you would sit down and you would talk with the person
+uh right now not everyone can do that a lot of people are still not meeting up
+in person right so when i say coffee chat i mean just talking with someone
+one-on-one now some people like to do pub chats right
+like where you go to like a you get beer
+right some people don't some people like coffee something like that right
+
+01:39
+it doesn't matter where you do it or how you do it it's it's the idea of sitting
+down and having a deeper conversation with somebody one-on-one now
+to get that coffee chat what you would want to do is say send them an email hey
+i really appreciate getting to know you i thought a lot about the conversation
+we had a week ago i it seems like you're at in your career
+where i want to be in the next couple of years like in 10 years from now right
+would you be open to giving me 15 20 minutes of your time just to have a
+deeper conversation about how you got to where you are right now right
+and you send them that email if they don't respond
+two weeks later you send a follow-up hey i know times are busy i just wanted to
+ping you again to see if you'd be open to meeting for a quick coffee chat
+and then if they don't respond to that at the end of the month you send them
+you send them one more email if at the end of the month after three months they
+don't respond to you then you just drop it right don't keep badgering them you
+tried you shot your shot they don't want to meet up that's okay
+
+01:40
+you're gonna have a lot of people that you shoot your shot they just don't meet
+up they don't have time they don't respond that's okay right but i
+guarantee you a lot of people in tech had had coffee chats
+when they started out that helped them with their careers and so they want to
+have coffee chats with you because they were where you were right in boston
+i have n i i've never turned down a coffee chat
+i've never turned down a coffee chat and i think i've only gotten like no's like
+i don't even i don't even i know it had to have happened at least once
+but i i can't remember somebody saying no to a coffee chat right
+that's just that's just how ingrained in tech this idea is
+right that people know that like engineers work together they they need
+code from each other that like they build their careers that way right and so
+this idea is that like most people will be happy to have a
+
+01:41
+coffee chat with you a lot of people would want to share their experience
+with you because that's how they got to where they are now now
+the thing you have to realize is that you should be doing this locally right um
+because you're you're going to be like there will be a lot of people are going
+to be asking for coffee chats soon and so make sure you're trying to do this
+like locally first and then other people out um
+a lot of people don't a lot of people get confused about the coffee chat like
+should i buy them coffee like if you're gonna meet in person here's my trick
+if you're gonna meet in person right and you're gonna actually go to like an
+actual coffee shop here's my trick go early right go early and buy the smallest
+coffee they have right if you have some money buy the smallest coffee they have
+right it could be a shot of espresso i don't care what it is tall coffee
+whatever it is whatever the cheapest freaking thing on the menu is you get
+there early order that and you sit down with it right
+
+01:42
+now when the person you're meeting with comes you can say hey i already got
+myself a coffee well if you want to grab something feel free to grab something
+and then join me right so now there's no there's no need to like buy them a
+coffee they don't feel awkward having to buy you a coffee right and if you can't
+afford the the small coffee just ask for a cup of water
+right most places will be yeah sure here's a cup of water you'll sit down
+with the water you wait for them to come in they'll see that the other person
+goes to get coffee and then that's it you're good right if you're really cheap
+like like if you really want to be like like like save money just keep the cup
+next time you show up right next time you show up you sit down and you already
+have your cup you can reuse that cup right you can reuse that cup for like
+your next five coffee chats that's it you just bring the cup put on
+
+01:43
+the table and you just wait all right that's it
+i should say frugal not cheap you're very frugal right that's what you do you
+just bring the same cup you're good all right [Laughter]
+all righty but like i said most of your coffee chats right now
+right most of your coffee chats right now are probably going to be remote
+they're probably going to be like google
+call like google meets or zoom calls and that's okay most people aren't meeting
+like in person yet all right now the the last
+well i got two big more things and we're going to move on i promise um two two
+two more big things that i want to talk about uh that i think are really helpful
+when it comes to networking one is using the sheet
+
+01:44
+so here is the sheet uh you can do exclamation point sheet in chat um but
+the links here in the slides and the sheet uh the sheet has
+just a place to keep your networking okay it's a place to keep your networking
+and so due to a large number of people currently viewing the spreadsheet access
+may become limited or not possible i've never seen that before or not possible
+what you're going to do is you're going to make a copy of this sheet right
+don't worry about it right now you're probably going to come after class
+you're going to make a copy of this sheet okay you make a copy of this sheet
+and in it you're gonna keep track of each person that you network with right
+you keep track of each person you network with you're gonna add the event
+that you met them at the date their name where they work what they do
+and most importantly the spark the spark is like the thing that you
+
+01:45
+remember about that person right right that's the thing that you remember about
+the person that way you never forget like the thing that you talked about
+right like they really like pokemon they
+really like rubik's cubes they they hate poker i don't know right you put it you
+put the spark on there so you never forget you put their email on here
+and then you have the uh kind of the three steps right
+did you follow up with email if yes mark it off
+did you add them on linkedin if yes market remember with a message right
+if so mark it off right and did you add them on twitter so mark it off right and
+so over time you're going to have this amazing list of people that you've
+networked with that when it comes time when it comes time to start kind of
+reaching out right to start reaching out to folks to get referrals this is where
+you start hey bob we met at such and such event last year
+
+01:46
+i remember us talking deeply about rubix cubes i really enjoyed our conversation
+i'm currently looking for new roles are there is there anything out there that
+you feel like might be a good fit for me here's my the stuff that i like here's
+my resume boom right so those people that you forged those
+relationships with over the entire boot camp you now have a nice clean list to
+go back to with everything that you remember about that person and that's it
+it's how you get the jobs right cool there's also this other part of it
+called the hit list we're not there yet eventually when we go on the hunt to get
+our job this other part of the sheet becomes really important but for now
+please keep track of the folks you network with you'll never remember
+everything you'll never remember the spark you won't remember where when you
+met them you put it all here so you don't ever forget it cool now
+you're turning strangers into friends you found the networking places that
+
+01:47
+work well for you you're you're setting up your your coffee chats you're using
+the sheet you're doing everything you need to do to be networking well
+there's one more pro move i'm a pro gamer this is my pro gamer move you ready
+alerts alerts folks so you can on google right set up custom alerts so it's just
+google.com alerts and when you go here you can create an alert about anything
+you can add each person that you met and create a google alert about that
+person's name now whenever whenever i don't know what that is whenever
+whenever you show i guess that was my all my alerts
+
+01:48
+for my name popping up whenever you me go back there whenever you
+type in someone's name and something comes up about them you will get an email
+and it will say hey leon noel just showed up in this article right
+if there is something that they talked about
+right they're really into i don't know pokemon you could create an alert for it
+now the next time you talk to that person you can bring something up
+oh did you just see of this new news about x y or z or
+if you want to reach back out to someone right you want to reach back out to
+someone right and like you want to reach out to them to get it like you want to
+get a referral hey bob i just saw that your company raised uh
+
+01:49
+100 million dollars huge congrats i hope some of that money
+is going your way i hope that like you're you're hiring like wild and if
+you are i'm looking for a new opportunity uh let me know if there if
+you if you know of anything that's open that you think it might be a good fit
+for hope you're doing really well hope you're enjoying the new pokemon game
+have a wonderful rest of your week right it's going to be you're in if you ever
+need to follow up with somebody again because you're going to have all these
+alerts that you build up over time the other thing too is that you could
+like add their companies blogs like an rss feed or their blog to an rss feed um
+so the idea is just to like create alerts for anybody
+anybody that you put on this networking sheet you create an alert for that's it
+so many people get concerned about like genuine interest
+here's how you don't worry about that be a good human
+
+01:50
+provide more value than you take right and actually care about the
+relationship that's it if you do those things you are fine
+right these are just ways that you can bring them back to your top of your mind
+right and this is how the world works folks
+nobody's ever told you this this is how you get jobs it's how you get better
+jobs this is how you get the the big jobs right has nothing to do with how
+good you are at writing code has to do with folks wanting you on their team
+that's it all right we can go home all right buddy have a good rest all right
+so on thursday we are going to um do more review of these like ideas of how
+
+01:51
+to network but we're also going to give examples like i said of everything
+so we're going to keep doing this it's not something that you're going to start
+tonight it's not something you're going to start this week so we're going to
+start next week after we've had more time to talk about it and we've seen
+more examples but before we jump into it i wanted to answer some questions
+how do we follow up on coffee chats the same way that you follow up on any other
+follow-up i send them an email the day after saying thanking them for their
+time and providing some sort of value in that email
+pick something that you talked about right
+take something you talk about and then put that into the email providing some
+sort of value what are some important questions to ask during coffee chats
+there are no important questions you're there to make a friend you're there to
+get to know someone right and if you read how to win friends and influence
+
+01:52
+people one of the things they talk about is people love to talk about themselves
+so if you don't know like if you're not great at carrying conversations just get
+the person talking about themselves oh where do you work at do you like it
+how long have you worked there how did you get into tech did you go to school
+for computer science did you learn on your own oh what languages do you use oh
+did you use those languages beforehand did you have to teach yourself what are
+you excited about with those languages what are you excited about for your job
+is there something like you could just have those like basic
+questions asking them about themselves and how they got there and that'll carry
+you for the entire coffee chat that's it can i use board game events or local
+events besides meetups yeah you can just the more tech focused they are the
+more likely that network is to be impactful for you um but you might find
+like i don't know in new york a lot of people in tech are like into like the
+settlers of catan scene you go to like the katan meetups and like it's 95
+
+01:53
+people in tech and so like there might be pockets of
+things that are like stuff you like to do that might also have like an overlap
+of people in tech and so you can find those pockets if you want
+how long should a coffee chat generally be 20 to 30ish minutes maybe 15 to 30
+minutes i would say our game dev candidates for networking
+should we focus on web dev i think the closer you can get the web dev with your
+coffee chats the better this will be for you
+have you ever done coffee chats with your students of 100 devs i have in the
+past eventually when we get further into the cohort i open up
+my calendar for folks to book 101 times but we don't do that until we get a
+little bit further on and so once we get further in uh open up my calendar and
+whoever wants to grab a one-on-one coffee chat happy to do it
+what happens when you have 100 people in your network and hundreds of emails
+
+01:54
+every day about all the topics they like uh you're not sending these every day
+just after you meet the person the first
+time and you should only be really doing like five of these a week hmm
+who's the author of the book it's dale carnegie
+funny thing is that that's not their real name they changed it because
+carnegie sounded more business-like and so they knew they would sell more
+books if they changed their last name the carnegie what a hack i love it
+five is a lot yes it is but you can do it and uh my
+students that i teach during the day do more right
+you're you're gonna cut you're gonna start off small you're not gonna do all
+five in the first week or two you're gonna ease into it and get more
+
+01:55
+comfortable with it find the thing that works for you and then um up it
+how where do we get access to the spreadsheet uh the link is in the slides
+you can just click the link in the slides i think so many people ran to it
+that it might be like down the copy but come back after class and copy it
+there are three versions of the book which one do you want us to read uh
+whatever one you can find for free i don't think stuff has changed too much
+there's like a digital version now i haven't read that one but just the
+regular old one is fine should they work at different places
+yeah the more spread out your connections are the better you're gonna do
+
+01:56
+is this doable through zoom yeah of course you can find the book for free yeah
+uh is it okay to network with those that are in our current full drive they're
+all probably worked with in the past yeah but you want to be adding more like
+it's good to reconnect with them for sure you want to be adding new people too
+uh i have tried this type of networking being friendly with co-workers in
+general has never worked in my favor i'm just not people magnet is it different
+in tech it's very different in tech because like one people
+typically are i mean let's just say it nerdy and um they like to nerd out over
+stuff and so if you can nerd out over stuff with them it gives you like a
+common bond instantly like if you're showing up to a javascript meetup you're
+a nerd right and so you can both nerd out over javascript and that just
+immediately gives you like something to connect over
+and it makes it a little bit easier but also you have to read that book
+
+01:57
+you have to read the book like it's just if you don't have those skills in your
+arsenal this is not going to work for you cool
+and when i call people nerds i'm also calling myself the a big nerd too
+what if the coffee chat went so great they offer you a job in like a month but
+you're not ready what do you say thank you i'll start
+and then you learn on the job it's not a coding boot camp folks y'all
+got got this is getting a job boot camp so somebody gives you a job you take it
+you have succeeded alrighty let's do one more and then we're going
+to take our break and then we come back we're going to get get into
+responsiveness we're we have a lot of fun with response to this tonight
+
+01:58
+would concentrating on companies that you want to work at be helpful yes but
+you're going to do that more towards the end of program with the hunt the hunt
+becomes like once we're better at networking we get targeted with the
+folks we want to network with and we specifically seek out those individuals
+so for right now you want to kind of do general networking get comfortable with
+it figure out what works for you what doesn't work for you like this whole
+part of the whole part of this networking phase is to like figure out
+what works for you so that when we get to the phase where
+we have to be targeted with our networking we're good at it
+what if i'm not nerdy enough that's okay you're gonna find you gotta find the
+group that works for you you know all right
+
+01:59
+what if the event overlaps with class i mean vods are always available right
+after figure out what's the priority for you
+how long should a typical coffee chat go
+for i think i said like 15 to 30 minutes is like good
+can you meet people at hackathons absolutely yeah hackathons are a great
+place to meet folks because you're working together on a team
+i mentioned the community groups and i think hackathons kind of get lumped into
+those community groups there are a lot of cities like groups that come together
+to build stuff every week and so i know like code for boston came
+every week to build stuff together um they're typically like civic-minded
+stuff where they're building tools to help people and so like you're kind of
+like doing one part volunteering one part hanging out and building stuff with
+people that's really great um also a lot of conferences nowadays have like
+quiet networking or like quiet sessions so at like libre planet they always have
+
+02:00
+uh two parties that happen at the same time uh one party's like at a pub it's
+like rancorous there's lots of like there's like meeting a lot of people
+you're drinking like doing all that but they always at the same time
+open up a space where people can come and just work together on like different
+free software projects right and so it's about finding what works for you right
+you'll often find like more quiet spaces where you can like work with others and
+so like i said there's there's such a range of places that you can meet people
+don't think that you're only gonna be good at one thing try them all
+try them all multiple times and then really make that decision you know what
+i find conferences are the best for me i'm gonna load up on my conferences i
+find these meet-ups are the best thing i'm gonna load up on meetups i find that
+like hacking sessions where i get to meet up with other engineers and build
+stuff is what works best for me i'm gonna load up on those right and so you
+got to you got to you got to figure out what works for you
+
+02:01
+are there beginner hackathons oh yeah there's tons of them uh
+can 15 year olds get internships and network like adults absolutely the
+younger you are the easier this is like the younger you are the more likely
+people are to help you and so if you're like if you're like a youngin right
+people are gonna be more likely to like take have coffee chats with you and um
+so if you're like if you're like a teenager that's listening to this yeah
+you're gonna you're going to you're going to probably have a little
+bit easier time with this because more people are going to be
+wanting to like mentor you i guess you could say yeah
+yeah i wouldn't worry about that too much and i don't mean like like adults this
+is not for adults i'm talking to people that are not adults does your age
+doesn't matter when it comes to networking if you're already an adult
+
+02:02
+it just doesn't matter all right folks let's go ahead and
+take our top of the hour break if you're new here let's go ahead and
+take our five minute break we have to be healthy if you're able please get up
+move around stretch let your eyes focus on something that's not the screen
+and we'll come back together in five minutes when we come back we're gonna do
+a quick review of css we're gonna jump into response in this we're gonna see
+how to make our sites responsive we talk
+about the three key things when it comes to building responsive websites uh and
+
+02:06
+then we'll we'll break for the evening all right folks five minutes on the clock
+
+02:07
+you just got a new foot rest i'm trying it out sorry oh i like it
+leona are we not supposed to be using divs it's not i messed up on the
+homework uh they just don't have the same semantic meaning anymore it's not
+that you can't use them it's just that there's probably better uh better better
+ones out there there are tags out there i need a new foot rest what did you get
+it's the human scale one they're like they're they're
+normal one that's not the triangular one
+okay it makes me sit a little bit better i think
+
+02:08
+should we build rapport with recruiters absolutely
+all right folks come on back come on back alrighty
+how much of the advanced shea house should be retaining uh not all of it i
+mean it's something that you want to have a first pass on right
+anything that's important we're going to go over in class all right folks
+come on in no human scale not human skin foot rests
+i've been watching a lot of rome i would have put that past them recently
+oh yeah human scale all right folks let's let's power through
+
+02:09
+some of our um review tonight um but i wanted to put a little note
+we're gonna start adding more layers to the show here folks we have this
+networking thing that's gonna become something we start doing next week
+we're gonna start seeing slightly harder material
+right and the idea here is we're gonna start turning it up right we're gonna go
+slow right one of the things i hate the most are tutorials that throw you in the
+deep end and then laugh at you while you're drowning that's not what we like
+to do here but we're gonna slowly start to raise
+the intensity right let's have to make it come up a little bit folks that want
+to push they're going to be some push work that you can do
+right some push work that you can do right that won't be required but
+something if you want to start pushing you can and the overall amount of stuff
+we're doing the speed of which we do it it's going to start slowly turning up
+not yet something to keep in mind we're going to
+start doing and start have more push work if you want it on thursday i'm
+going to give a lot of work that needs to get done and some of it will be
+optional but if you want to push you can do it and that push work will help you
+
+02:10
+go deeper and deeper on topics okay so when you put that out there some
+folks kind of like all right paste this class maybe a little too slow right for
+them we're gonna give you some push work if you need that otherwise it might be
+just right for other folks it might be a
+little a little too fast but just so you know we're going to slowly bring up the
+temperature all right golden rule separation concerns is important for what
+why is it important organization exactly for us and for
+others that we work with want to make sure that
+our content is kept in our html our styles kept in our css and our
+javascript our behav our behavior is kept in our javascript nice css goes where
+in a separate in a separate file exactly unless you're doing html emails which
+can have inline uh or if you're working at amazon you have critical path css to
+make up a little bit of css in your head but for the rest of us we put it in a
+
+02:11
+separate file and we link to it with uh with a link tag in our head
+uh this whole thing here is what this right here is a what oh don't have
+demo pro one oh no all right have my demo pro turn on
+so thing yep exactly is a rule a rule is broken down into a selector
+and a declaration block declaration block is broken down into declarations
+declarations are broken down into properties and values nice
+as a speed run folks if you uh if you're new here we went over this for six
+classes so this is just kind of us getting our space repetition in don't
+feel like you have to keep up with this pace go back to our other videos
+beautiful we know that css has read from top to
+bottom stuff that comes below can be overrated by stuff that comes above we
+
+02:12
+call that the what the cascade nice beautiful
+all right we have ways of selecting elements based on their relationships
+here we're seeing a direct parent-child relationship where a child comes
+directly inside of a parent we also have parent child
+meaning that the child can come any part inside of the parent doesn't matter how
+many levels deep it could be a great great great grandchild and still work
+difference between a direct child and a regular parent child is that there's no
+carrot in between nice we also have siblings this is
+the direct sibling meaning that the only
+paragraph here that will be read is this paragraph here because it immediately
+has a sibling that comes before nice we learned about ids and classes
+ids are unique identifiers enables us to target one element and only one element
+
+02:13
+once an element has an id it cannot get another id and then id cannot be reused
+across other elements beautiful kind of in the same idea they're classes
+classes can be reused to target multiple elements i can get multiple elements in
+my html the same class and i'll target all those elements at the same time and
+each element can have as many classes theoretically as they want alrighty
+chat how many points of specificity does this rule have how many points
+all right see the guess is coming in all right let's take a look at it we have
+two tags one class and one id so 112 points of specificity nice
+
+02:14
+how many points specificity does this rule have chat
+how many points of specificity another guess all right
+see some guesses in there i'm seeing 131 a lot let's take a look at it we have
+one tag we have three classes and we have one id so 131 points specificity nice
+and this one here how many points of specificity does this rule have the rule
+my fingers slipped your finger slipped uh huh all right let's take a look
+
+02:15
+we have no tags so zero tags we have one two three classes we have one id
+and we have an other for bang important so 1 130 points of specificity
+some folks are saying why the plus sign that's a sibling selector you haven't
+been here for our last classes definitely catch up with those classes
+as we go through all the things that you see here in detail cool box model folks
+the box model is made up of what three things
+box models made up of what three things ah okay i see a couple people a little
+little meet up little a little a little buried here
+the three things that make up the box model are the element itself the padding
+and the border right so you have the width of the element
+
+02:16
+the width of its padding and the width of the border
+same thing for the height you have the height of the element the height of its
+padding and the height of the border margin pushes the box model around it's
+the bully that pushes it around right margin pushes it around cool
+now remember padding increases the distance between the element and its
+border right so if you want to put space between the element and its border you
+increase that with padding and then margin pushes this whole thing around
+alrighty we have some starter code for this evening
+if you're new and you need the starter code it's always shared on discord
+before class starts you can join our discord in the follow
+along materials channel you'll find the code for today
+and in that code for today we have box model practice
+so i'm going to look at this box model practice
+there is some some things that you have to do it's both in the html and the css
+
+02:17
+i'm gonna put four minutes on the clock and i want you to go as fast as you can
+in these four minutes to get as much done as possible and then we're gonna go
+over it together four minutes on the timer as fast as you can go
+don't worry if you can't finish in four minutes i know that's a little bit of
+time but we need to need a push alrighty have at it see you in four minutes
+this is box model practice get out of here with these duns
+
+02:18
+i haven't even opened it yet uh izzy we did the pokemon card live
+we did the drawing live um i just need to get your address
+if you whisper me your address here on twitch we'll get it coming your way
+don't send it on discord i won't see it but if you whisper it hear me on twitch
+i'll see it what happens when the market gets
+oversaturated with software engineers will salaries drop drastically no
+i mean it's not going to get over saturated and if it did every company is
+a tech company now they all need engineers they all need to build stuff
+we're at like a 2 million shortage right now
+
+02:19
+i've been doing this for 10 years this is the most jobs i've ever seen
+it's really hard for people to gain the skills they need to get a job
+there's a long trough of sorrow i noticed you were in csgo over the
+weekend the server's almost ready uh if you check the slides wink wink i'll
+share more towards the end of class about it but yeah
+we'll be doing the house selection soon yeah the houses are just going to be
+other study communities so as the study communities roll roll out we'll have uh
+we'll have the other ones too superman hey thank you for the five gifted subs
+superman no home thank you for the good subs
+
+02:20
+cs go why not valorent uh because i'm really good at cs csgo
+no just goes completely free and can run
+on a toaster that's why i like cs go and it's really easy to set up servers
+private servers you got your first coffee chat next week congrats it's huge
+now push work won't be mandatory just for those that want to have when
+they go deeper on stuff oh a lot of folks getting done
+
+02:21
+my husband on 1.6 that's that's that's wonderful i love that
+csgo can run on a smart fridge i'm pretty sure i could probably run on a
+smart fridge lafox gaming done i love it
+please go slow no this is this is review for us we're going to go through this
+pretty quickly but the cool thing is i share all my solution code on discord as
+soon as class is over and you can always re-watch the vod
+but this one we're going to go through a little bit faster we can get to our
+spots in this before we run out of time all right folks let's take a look at
+this together all right please give the h1 some padding on three sides
+easy to do we learn that shortcut last class so we can do padding
+and we can just do let's do um maybe we can do zero padding on the top
+
+02:22
+20 pixels on the right um 10 pixels on the bottom
+and i don't know 15 pixels on the left remember padding gets assigned clockwise
+so zero on the top 20 on the right 10 on the bottom 15 on the left so that's
+giving padding on three sides and margin on just one side so let's do margin
+we could do margin left of i'll say 20 let's do let's do something
+great just like 100 pixels and then uh we could do zero zero zero if we
+wanted to and that would just give so maybe just margin on the top just let's
+keep it that way so this would be margin
+on the top of 100 pixels there'll be 100 pixels on the top
+zero on the right zero on the bottom zero on the left right
+and yeah the margin on just one side light purple background and light blue
+lettering uh what did you all do for light purple
+what did you all do for light purpling lavender yeah i think we did that last
+time right lavender and what did y'all do for the
+
+02:23
+color of the lettering for light blue plum sky blue light blue
+sky blue that's a that's a ball in color all right let's check it out
+all right so we inspect it real quick we can see
+this is an h1 that has the margin on the top there's no padding and
+we can oh sorry no padding on the top but you can see if we look
+that rng color at the top when i hover right that's the margin
+the green color is the padding and you can see the actual element
+and if you ever want to see like the fully computed values we can always um
+scroll down and then boom there you go you see all
+of our padding taking effect all of our border and all of our margin right in
+
+02:24
+the inspector lovely all right let's keep doing the other ones here
+please give the h2 significant padding on the top and bottom so we can use that
+repeating factor that we talked about last time where we can do let's say like
+50 pixels zero and so what that'll do is it'll put 50 on the top
+zero on the right uh 50 on the bottom and zero on the left
+when it's just two it'll repeat right it'll repeat dark green border order
+three pixels solid what did you all use for dark green dark green [Laughter]
+
+02:25
+dark greed um but interestingly enough it says on the top and bottom
+right a dark green board on top bottom so we can actually do border top if we
+wanted to right and then we could also do uh border bottom if we want it we do
+have like control over where the borders go cool and then orange background
+background orange let's save this go back let's refresh looking good
+uh oh didn't work didn't work why didn't it work
+there you go we gotta do border bottom cool second try alrighty
+i know we're going fast this one but this is just a review
+
+02:26
+uh please give the section a thick blue border we're gonna do section
+thick blue border let's do 10 we'll see border 10 pixels solid blue height
+300 pixels nice and more than 400 pixels of margin on the top
+so we just do margin top if we wanted to and we do 401 pixels
+there we go make sure we got it beautiful look at all that margin we created
+and then please make the spans of a thin yellow borders and equal padding and
+margin on all sides so span thin yellow borders let's do border one pixels solid
+yellow cool and then equal padding and margin on all sides let's just do padding
+10 pixels and then margin 10 pixels and remember when it's just one
+
+02:27
+right when it's just one it's going to apply that 10 on all sides
+so it's going to do 10 on the top 10 on the right on the bottom 10 on the left
+right same thing for margin 10 on the top 10 on the right on the bottom 10 on
+the left boom got it first try hey nice well done everybody well done and like i
+said we went through this fast but you can always re-watch the vod and i always
+share my solutions on discord after class good stuff everybody let's just
+check to make sure the spans came through all right spans are looking good let's
+inspect one just to make sure beautiful you see that padding on all
+sides border on all sides and margin all sides wonderful all right let's move on
+all right we reviewed all the layouts on sunday the the the additional layouts
+but um i want to do the third one together together again
+we're using floats for right now the reason why we introduced floats as i
+
+02:28
+kept i mentioned before is you're probably going to see them on
+the job they're way harder to learn and so i want you to get practice with them
+here the homework that i give you this week and even next week will still
+require to use floats i want you to get practice with it here a lot of my
+students the first kind of tickets they get or jobs they get are like converting
+old code to new code and you gotta kind of know how floats work and they're kind
+of tricky they have some quirks and so i want you to learn the quirks here right
+so that you um can can can deal with them on the job
+remember floats are always trying to do one thing really well
+and that's get into the corner right if you float something to the left it's
+trying to go up as much as it can to write as much as they can can fighting
+to get in that corner if you float something to the right trying to go up
+as much as you can to raise much you can fighting to get in that corner
+beautiful now uh we saw some simple layouts uh we
+did uh layout one and two and three on stream i want to do three together again
+
+02:29
+because we're gonna use it when we get to responsiveness and so for this layout
+three i'm just gonna use our template okay um so if i look at this
+chat what would this be what would that be header about this one footer
+nice and how about these three oh four sorry what for
+cool yeah they could all just be sections we don't really have content to
+tell us what they really are so we kind of take like an educated guess here and
+if i wanted to distinguish just this section away from the other ones what
+could i do i want to just target that that section
+is compared to other ones what could i do
+
+02:30
+it could be a class exactly class or an id i like to use classes
+over ids just because ids have too much specificity but
+yeah we could give it a class or an id all right i'm going to open up my
+template here and in the template we're going to do that layout
+so template i always have a fresh template that i love to just open up and
+start writing in we're going to have our header and then we have four sections
+and so i'm going to do my four sections section and section
+beautiful and then the last one i'm going to do is just the footer
+beautiful and if we look at the image it was the second section that had the um
+the bigness there so we're going to call this one this the class of pick one
+
+02:31
+there we go got thick one there and all the other ones seem good cool
+all righty i think the html looks good let's jump into the css
+we could use sudo selectors we could use ids right
+we could do all these different things our our css already has the box model
+hack for us we got all the good stuff i'm gonna go straight to my layout here
+however like the header and footer being separate our header and footer are
+exactly the same in this layout and so i'm just going to give them a height and
+a width i'm going to do 100 pixels they don't need a width they're by
+default 100 and um we're give them a border
+and we're getting a border of two pixels solid black just to see it and then the
+other thing that we can do here is we want to
+um just put our clear by default we know that we're gonna have trouble with the
+footer sliding up let's just do clear both
+
+02:32
+we took our time on this during office hours so you can definitely go back
+through office hours and see a little bit slower but that's the idea here got
+our header in our footer let's open this in the browser and see what we got
+good our header and footer's showing up let's go ahead and get our sections on
+the board here cool let's go ahead and give our section of
+let's do height and let's give them a height of 300 pixels and then
+we want them to all be a width of what if we look at the image
+maybe this could be like 20 20 20 and then thick one could be 40.
+right like 20 20 20 and 40. i think that'd be close enough
+so our sections are going to all start off with a width of 20 percent
+cool and we're going to give them a border
+not background origin what's that give them a border
+
+02:33
+we'll do two pixel solid black as well uh why don't i have to worry about my
+borders when i'm calculating the width right now
+i don't have to care about the borders when calculating my width right now
+yeah we got the box sizing up top right we have the box sizing so we don't
+really have to calculate the border size as well
+all right and that'll get all of our sections looking the same and sitting
+next to each other beautiful they're not sitting next to each other
+yet because we still need float let's go ahead and give them a float left lovely
+now they should be sitting next to each other
+looks good we still need thick one to be bigger let's go ahead and write a class
+for thick one and let's go ahead and give it a width of 40 percent beautiful and
+i think that'll be all we wrote cool now the heights could be a little bit
+
+02:34
+different to match the uh to match the like the the actual image but that's
+pretty close enough that's the spirit of it and so we'll we'll stay here for now
+all right let's take a look at the css header and footer section
+thick one looks good and i say we achieved our layout if you want this
+solution it'll be in the materials after class cool
+let's get to the main event tonight folks tonight
+we're here to talk about responsiveness or responsive websites the idea of our
+layouts looking great across all different kinds of devices right
+something really big happened to the internet that changed everything in how
+we do it right something huge happened that that revolutionized or changed how
+
+02:35
+we approached web development entirely chat sees it it was mobile phones
+exactly the mobile phone explosion changed everything we could no longer
+get away with fixed screen sizes anymore we had
+to make sure our screen our websites look good across all the different
+devices that folks might actually be using
+when we first started looking at sites back in the day they were fixed i
+remember what is this 14 years ago uh i was building one of my first companies
+i've talked about i'll talk about the street before it was like a reverse
+craigslist where folks that needed stuff could ask for it and people could
+respond saying hey i got that thing for you and um
+i remember everything being built in something called 960 grid the whole
+idea the whole concept was that there was like a photoshop
+
+02:36
+template that i could use where it was 960 pixels wide and
+it would it just was really cool to be able to like build your site with this
+960 grid and so like your site looked really good
+like you had like a good template to use
+um but it meant that your site was fixed at 960 pixels which was like
+that was the jam back in the day because that was like the size of like all the
+normal screens and so it just it just worked when mobile came out
+that no longer was a practice and it took a long time for a lot of companies
+to catch up and realize hey maybe we should catch this train of
+being mobile friendly but for a lot of companies it took them
+a while they had lots of like intermediary steps some of them would
+create like mobile sites specifically had like mdot sites and all these things
+and there were companies that just didn't care one of my favorites was ups here
+in 2017 if you went to their their website this is what it looked like
+
+02:37
+you can use the wayback machine to see it um and this is what it looked like
+and uh no matter what you did to it it kind of just stayed that size if you had
+a bigger screen you just had all this white space there and that that was just
+kind of it and they kind of kept this design all the way this is in 2017 like
+you can see it right here is really tiny april 29th of 2017 this was their
+website right it was not responsive in any way
+shape or form it was fixed it didn't matter if you had a big screen small
+screen this is what you got okay now there's a lot of speculation as to
+like why they did this for so long ups is a big company
+that has a lot of resources they had like intermediary steps that like helped
+fix this but like their core site was still always this right
+and one of the things i always used to kind of think about was that
+they probably just didn't care about mobile
+like they just didn't care it's probably not where they made their money they
+
+02:38
+make their money from like businesses sending a zillion packages a day
+and edith from shipping every day would come to the website
+paste hundreds of tracking notifications in here and they were just used to it
+they had done it for 10 years they didn't want to change it up and so when
+ups finally did kind of like get their stuff together and build
+a site that worked it will not work but like wasn't fixed notice notice what
+happens here look at this site like look at look at look out set up like
+tracking's right here shipping right like when they eventually
+did like modernize it kind of just like shifted it to the
+right a little bit right like they did they didn't want it they wanted to make
+sure that edith was able to come in every day and still do their thing
+and and they just had to like move their
+eyes just slightly to the right a little bit right
+it worked and it probably worked for a really long time they probably could
+hang on and now there's something that works that's responsive but not a whole
+
+02:39
+lot has changed with it right cool this is in direct contrast to sites that
+are like really great and responsive so boston.com is one of the sites i really
+like the show for responsiveness as you kind of
+change the viewport or the size of the screen things happen right now things
+have gotten a little bit smaller columns start to disappear
+right as we get smaller and smaller we go from kind of a three column layout to
+a singular column layout and so what i love about boston.com is that it really
+highlights kind of the three cornerstones of responsiveness what
+you're seeing right here are amazing content decisions right it's not just
+that the size is getting bigger like things are taking up more
+space it's going to a singular column they've made really good decisions about
+what is important and what is not important right and so
+as we kind of bring the screen back up they give us extras we get a little bit
+
+02:40
+bigger they bring us extra right and the really funny thing is
+i used to when i used to teach in a classroom i always had like a projector
+behind me and so we would bring this site up on a projector and i swear i
+don't know if they're still there or not but we brought up a projector which was
+like i don't know like a 60 plus inch screen right
+there were ads all the way on the outside like you can't see them but they
+were all the way out there on the sides and i was like hmm why would you do that
+i was like well if you have a big old screen
+right you probably have some money so let's let's let's let's throw them some
+ads right let's throw some ads right but uh the funny thing here is that
+boston.com had to change right they had to change with the mobile explosion
+when do people get their news right when do people check the news
+
+02:41
+if you're in a metro area when are people checking the news
+yeah during their commute you have so many people that are taking the t in
+boston's what we call the subway right and they want to get just the the raw
+essentials on their commute right and so you need a site that works well on
+mobile if your goal is to sell ads if your goal is to get eyeballs on content
+so you can sell ads and you don't have a site that works well across mobile
+devices you're not getting those eyeballs you're not selling ads you're
+not making money so they had a really strong incentive to become mobile
+friendly and for their site to be really responsive cool now
+when i talk about responsiveness i'm talking about three really important ideas
+fluidity elasticity and content decisions or a
+
+02:42
+site to be considered responsive i think it really needs to have these three
+things so what the heck are these three things fluidity is when everything is a
+percentage or can respond natively you have a fluid site so if we look at the
+layout we just did this layout is really fluid like it can go from a full screen
+right from a full screen to like a mobile size screen and it kind of works
+right it kind of it kind of just works right
+and so we would call this fluid right as as it's resizing it's working
+eventually we're going to make content decisions
+and those content decisions are going to be at certain sizes
+the way that our sites look good in between the sizes that we choose is
+that fluidity the fluidity is what makes it so that it doesn't seem jarring when
+we make our content decisions it kind of just works all the way up to that
+
+02:43
+decision point right it's still fluid up to that decision point then we make the
+decision we're still good so you need that fluidity that fluid underpinning so
+that as you make your decisions it doesn't really matter so much right that
+fluidity is really helpful the elasticity is that next piece and
+elasticity is at its core setting our fonts and text to use a responsive unit of
+measure and so the responsive unit of measure that we're going to use is
+called an m or a rem okay now this is a somewhat tricky of a topic
+but i like to think about some like a very real scenario
+let's imagine you are building a website for your company or for a client
+
+02:44
+and you build out all the css right i forgot that was it here
+you fill out all the css it's 5 000 lines of css right
+and your boss you you take the site to your boss you show it to them and
+they're like leon i love this it looks great um
+i just want all the fonts to be double the size
+right they come to you and say i want i want all the fonts to be double the size
+well guess what you need to do now you need to go line by line through your
+css well hopefully like you're doing like control find right and you need to
+not only find all the pixel values that you made for your font size but you also
+have to do the math to double them right you have to do the math to double so
+you're you're doing control fine through this massive code base
+you're finding all the pixel values and you're doubling them if you had used m's
+
+02:45
+you would have had to make one change on one line let me show you what i mean
+so here we have a section and when you use ms m's get their font size
+from the parent element so here's a paragraph and its parent is the section
+so on my section i put a font size of 10 pixels okay
+on my section i put a font size of 10 pixels so if i made my paragraph 1m
+how many pixels is that paragraph now 10 pixels exactly
+my paragraph is now 10 pixels because the section has a font size of 10 pixels
+on it and the m is a responsive unit of measure it looks to that pixel value and
+
+02:46
+that's where it gets its basis okay now if i wanted to change all of my pixels
+and every single bit of font that's inside that section i want it to be double
+how could i make every single bit of text be double the size
+what could i do i have all these things inside my section now paragraphs heading
+elements all this type of text and i want all those font sizes to be double
+exactly i could come up here i could change this from 10 to 20 pixels and boom
+all of my font sizes are now double the size 1m is no longer 10 pixels now 1m is
+20 pixels so i don't have to go through 5000 lines of css i made one change
+right one change and everything responded that's the beauty of this elasticity
+
+02:47
+now the problem with ms is that anyone can come along and
+put another containing element and if that containing element has a
+font size that's what your m's will be equal to the m's only go
+to the closest parent with a font size so if you're working on a big team
+and somebody else comes along and puts a parent with a different font size your
+m's might not be might not be the size that you expect them to be
+so to not have to worry about like other team members or maybe yourself coming
+along and putting another parent element with a different font size we have rems
+rem stand for root m's and they only only get their font size from
+
+02:48
+the html element whatever size you put on the html element
+is where they get their styling from right so the cool thing now is whenever
+you use rems it'll always look that html element and figure out what to do now
+you're saying leon rem sound great if i ever want it to double the size of my
+text i could go and change the font size here
+and my one ram would now be worth more right rams could be helpful there
+but where rems get really really helpful is that it helps us with individuals
+that may have some accessibility concerns we right now are using
+the i'm right now using i'm gonna say i'm using my browser right now with the
+default font size right the default font size for pretty much every browser
+
+02:49
+is 16 pixels right so 16 pixels that's too big brain for me i can't do
+that math i don't want to be sitting there one ram 16 pixels two rams two
+times sixteen i don't too much for me too much for me right so what i do
+is the big brain move of setting my font size the 62.5 now
+the the quick ones among us would realize that 62.5 of 16 pixels gives us what
+gives us 10 pixels right if you do 62.5 percent of 16 it gives us
+10. so this is just a fancy way of getting back to the 10 pixels so that
+
+02:50
+i can do the math in my head one rem is 10 pixels two rams is 20 pixels three
+rems is 30 pixels but there's one other major added benefit
+and that's kind of the accessibility thing that i talked about if somebody else
+sets their default font size to something bigger well guess what
+all of our fonts will respect that font size that they set
+right if somebody has a visual impairment where they need all the text
+to be way bigger well now instead of telling them screw
+you 10 pixels or screw you 25 pixels right in hard coding the pixel value
+well now as their base font size increases our font size knows how to respond
+because we're using rems all right so if they go in and change
+
+02:51
+their base font size to be bigger our site will will grow with it
+right it'll grow with it so so far we have fluidity
+and we have elasticity as the underpinnings of building a responsive website
+but there's one more and don't worry this is a first pass
+we're going to do more talk we're going to talk about rems and ms again next
+class i know it's a difficult topic this is your first time through it but we're
+going to go through it together again on
+thursday as well there's one other thing content decisions
+right content decisions to have a truly responsive website we
+have to make some decisions about what content we show
+on mobile do we want to show this sidebar right on mobile do we want them to see
+all of this navigational content right on mobile we really don't need
+
+02:52
+them to see any of that stuff on mobile there's three things that people in
+boston care about news weather and sports that's it
+if they're on their phone you better get them their news quick
+their weather quick and their sports quick
+is it a blizzard outside that the pats win and tell me what's happening in my
+neighborhood that's all they care about right and so
+on mobile we're going to make decisions that make it work best for our users
+right and so at different screen sizes we're going to make these content
+decisions what should they be seeing at this size should it be there or should
+it not be there right to make these content decisions we use
+what what do we use to get rid of the content that we don't want them to see
+or to to remove things that we don't care about what do we use
+
+02:53
+exactly we use media queries media queries are how we can make these
+content decisions what gets removed what gets changed what gets stacked
+right all these things to be changed using media queries
+what media queries enable us to do is to say at this viewport or at this
+screen size do this thing in terms of css rules right
+now when it comes time to using media queries to make
+content decisions there's really kind of two schools of thought when it comes
+time to like make those content decisions the first school of thought
+is to just take your design shrink it until it doesn't look good
+that's your media query shrink it again until it doesn't look good that's your
+media query shrink it again doesn't look good that's your media query right
+the other way that become really popular is mobile first
+
+02:54
+mobile first this idea of starting with the mobile layout first and then adding
+stuff as you have more screen real estate right the idea of mobile first is
+that you you start with all the goods like the stuff that people actually care
+about and as you get larger you can add other things that might be relevant but
+aren't the core of what you need now it's up to you which way you go
+mobile first or from large to small and it might depend on how you're like who
+or what you're working on if i'm working with a designer
+that gives me what mobile should look like what
+tablet should look like what what desktop should look like i actually
+start from the largest screen and then work my way to the smallest and when it
+doesn't look good that's where i write my media query i find that a little bit
+easier for me if i'm working by myself without a designer i start mobile first
+right just the stuff that cares and i can add stuff if i want as i get bigger
+it's kind of a personal decision and what i want you to do is i want you to
+
+02:55
+try both ways so when you are working on the content specifically the homework
+that's going to get assigned on thursday i want you to try both so you see what
+makes sense to you then mobile first makes sense or did starting large and
+going small makes sense like play with it and kind of figure out your your
+rhyme or reason for doing this okay now we talked about the three big things
+fluidity which we kind of already got ourselves already in percentages or it
+looks good as we get smaller elasticity will add rems and things like that and
+then these content decisions will start making by the power of media queries
+okay so let's go back and look at our our layout that we just did okay we're
+gonna go a little over today maybe about five ten minutes over today
+um let's go ahead and take a look at the layout that we just did okay
+
+02:56
+here's the layout what i want to do is i want to write some media queries
+that can kind of that can like show this content decisions at play
+so the first media query i'm going to do is at media screen and a max width
+of 600 pixels so whenever you see screen what that really means is zero
+whenever you see whenever you see screen it's basically saying zero
+and so between zero pixels and six hundred pixels i wanna make my sections
+the background color green cool let's see if this works between 0
+
+02:57
+and 600 pixels it should be green let's go back let's refresh
+and let's shrink our size here boom once we got below those 600 pixels
+everything became green right screen just means zero so between zero
+and 600 pixels right we we got this this greenness to start taking effect
+but the cool thing is we can actually come back
+and start adding other media queries on top of this so i can do another media
+query here and i'm going to do at media and don't worry the the the the way that
+we actually stack these in the future kind of changes but this is kind of just
+for us to see it we can say min with and we can do 601 pixels and a max width
+
+02:58
+of let's say 900 pixels beautiful so what i'm saying now is between 601 pixels
+and pixels i want this to take effect so let's go ahead and do section
+let's do background and let's make it i don't know let's make it loo cool
+all right and so the idea here is that between 600 pixels and zero it'll be
+green but between 601 and 900 it'll be blue and let's go ahead and
+shrink our window [Music] 900 pixels blue and then once we go below 600 green
+right above 600 blue above 900 nothing and the cool thing is
+if you bring up the inspector and we don't make it as obnoxious
+
+02:59
+uh you can actually see the numbers the numbers are going to show up right here
+it'll be really small to see on this screen but it does show up right there
+and it does show you as you're making it smaller where you're
+at so i can see that i'm at 937 and i'm ripping 900 right
+and then if i keep going i can see the pixel values going down
+600 boom there you go and the cool thing is you can actually
+right here see these little tablet and phone icons
+we can actually click on these and it'll give you the most common phone sizes
+right you can click on like phones ipads and everything's built right into the
+inspector so if you wanted to see if it looks good on an ipad or whatever you
+could do that from right in here all right so we have a media query from zero to
+600 pixels we have one from 600 to 900 um not only can we change colors but we
+
+03:00
+can actually like get rid of stuff right we can get rid of stuff so if we
+looked we had this idea thick one sorry this class of thick one
+let's target that class pick one and let's get rid of it display none
+there we go display none so what's going to happen is between 600
+and 900 pixels this one's literally going to disappear let's try it
+all right we refresh boom boom boom boom boom boom under 900 look it disappeared
+right it disappeared and they're all blue so what we could do is we can say all
+right at the screen size i want them to disappear
+but i wasn't i want them to take up the full width we still got that empty space
+
+03:01
+let's go back and um make these with 33.33 percent repeating of course
+let's make that happen and then when we come back and we refresh
+now they take up all the space right you go above 900 thick boy comes back
+thick one comes back above below 900. it's gone and everything takes up the
+full window and then below 600 all those rules go
+out the way thick one comes back but it's a different color
+so we have the ability to have really really tight control
+over all of the content decisions that we make
+just using media queries and the way that we write our media queries
+and the way that we stack them and the decisions that we make we'll get better
+at over time right this is kind of just like
+an exercise to show you that you have the power that you have the control that
+
+03:02
+you can do all this stuff it is at the mercy of the cascade still too like you
+have to make sure you still have the right specificity and things like that but
+this is just to start showing you that you can play around with these media
+queries and do things and so part of your homework that i asked you to do
+was to make the um the 15 minutes of pain responsive what i want you to do
+is i want you to make this responsive with at least three media queries
+right once you make it at least three media queries and maybe try to find
+media queries that would make it look good on laptop
+maybe tablet and then maybe mobile right laptop
+tablet mobile at least three different media queries to make it look good
+across those screen sizes and think about what you might do on mobile i
+think something you might do on mobile is instead of having these sit next to
+each other what could you do them having sit next to each other what
+
+03:03
+could you do you could stack them right just like we saw with boston.com
+we look at boston.com when they got smaller like you can see
+this is like side by side right but as soon as we got to the mobile site
+they stacked everything right they stacked everything we have as much
+scrolling real estate as we want you can always scroll until kingdom come right
+like you can scroll as much as you want so stacking probably makes a lot of
+sense on mobile because people are used to scrolling cool
+so homework if you started on it that's great i want you to have at least three
+media queries and i want you to make some decisions right remember it's not
+only just fluidity and elasticity it's the decisions that you make so make some
+decisions as you're making your media queries
+uh one really important thing that we haven't done yet
+
+03:04
+is that we have to add something to our template for all of this to work right
+for all this to work we need to add something to our template please make sure
+you take this meta viewport and you add it to the head of your template so i'm
+going to go to my template i'm going to go to my head
+and write with the other meta keywords i'm going to add this boom there you go
+i might have actually already put it in there for you
+you want to make sure that this is inside of your template this viewport
+with device width right device with what this is going to do is there's
+something cheeky right there's something cheeky these media queries
+these media queries actually don't work on mobile
+these media queries really just handle like you making the browser window
+
+03:05
+bigger or smaller right bigger or smaller like in the main window
+what you need to tell the browser is that hey
+figure out the width of this screen no matter what device you're on like figure
+out right figure out the width no matter
+what device you're on and by having this width equals device with your media
+queries will work not only on like desktop laptops it'll also work on um
+on mobile phones and tablets so if you're ever like making all your media
+queries and then like you check it on your phone and it's not working
+make sure you have this viewport okay now there's one other really important
+thing here you notice my initial scale is set to one that's the zoom level that
+you start off with you always pretty much want to have that at one but there
+is this one other thing that you can add here and it's it's another
+value called user sorry called user scalable and you can set it to no don't
+
+03:06
+ever do this what user scalable no does is it stops
+people from pinching and zooming and making your site bigger it stops them
+from being able to zoom in on their content all right
+some people build these really rich feature full websites it looks great on
+the size that they want it to look good on and they set it to notes that people
+can't like mess with that experience you're screwing over folks that have
+some accessibility concerns when viewing the web about like 10 of users
+need to use a very common accessibility feature which is pinch to zoom
+i always ask my students just to pay attention on the subway if you pay
+attention to the subway you're guaranteed after like a day or two of
+paying attention to see someone like holding their phone close and then
+pinching and zooming it's the most common accessibility feature that we
+need and if you turn that off you're screwing over at least 10 of your users
+right so make sure that you never set user scalable to know and add this meta
+
+03:07
+viewport to your head of any of your templates so you don't have to worry
+about figuring out different types of devices and your media queries will just
+work all right one last thing before we break
+take me a minute or two to get through it i wanted to show you the magic
+of flexbox right i wanted to show you the magic of
+flexbox we've been using floats your homework will be asking you to use
+floats i need you to practice your floats but we will move on to flexbox
+and we'll see a little bit of grid too i just want to show it to you just see
+just so you could see it right just so you could see it and see what it does
+now the cool thing about flexbox is that it helps us to figure out um layout in
+one dimension right rows or columns and there's a lot of like little bits of
+vocabulary that you need to learn but once you learn that little bit of
+
+03:08
+vocabulary you can throw out kind of needing to know percentages or figuring
+out the quick maths you can kind of just use these words and it'll do it for you
+so if you wanted all your stuff to be at the left hand side you could use flex
+start if you wanted stuff to be centered instead of putting margin on the left
+and right or using some sort of auto you just say center and it centers it for
+you if you want it to have stuff with space in between instead of doing like
+20 20 20 and then figuring out like all right 20 here 20 here for the gap
+instead of having to figure out the widths
+and the gaps for those whiffs right you would just say space between it would
+automatically give you the space between if you want it space evenly around you
+can say space around and so this wonderful graphic comes from css tricks
+complete guide to flexbox it is my favorite like article
+on how to use flexbox and it's now part of your homework you must read this
+
+03:09
+article it's a really great introduction the flexbox but i want to show you
+the power real quick there's all these cool things that help
+us but let me show you something that's really fun so let's look at an example
+here i have this lovely flexbox example that's ready to go
+let me go ahead and close the template i'm going to open up the flexbox example
+all right so here's my flexbox example i have
+the html and the css here ready to go and you'll notice that in my html
+i have three sections uh inside of my main and i have two sections inside of
+something that a section has the class of bottom
+i want all of these sections to have equal sizing and sit next to each other
+if we were going to do this with floats i would need to do the quick maths of
+
+03:10
+figuring out the widths of all of these the percentages floating them if i
+wanted to figure out these ones i would have to go figure out different
+percentages and figure out floating them next to each other right but with flex
+you don't need to do any quick maths all right so let me show you
+let's go ahead and do our normal setup like our normal layout here i'm going to
+do my header and my footer and give them a height of 100 pixels
+right give it a border uh one pixel solid black right
+and then let's go ahead and do our sections so section
+let's give them i don't know height like 200 pixels
+and we're going to give them a border uh let's do one pixel solid
+black all right and [Music] yeah so that's all of our sections right
+so we have all of our sections let's go ahead and save this let's open this in
+
+03:11
+the browser all right we're looking like normal
+right we're looking normal here we have our header we have our footer we have
+all of our sections of equal wisp but they're stacking they're not sitting
+next to each other right it's not the layout that we expect or want to see
+if we're doing the old way that floats we'd have to do all the percentages we
+have to float them we have to do clearing we have to do all this stuff right so
+the way flex works as long as the containers are set to flex
+and you tell them how much room you want each thing to take up it kind of just
+works so the two containers we have here are main
+and bottom so i'm going to go ahead and write a rule here for main and bottom
+main and bottom i'm just going to give it display flex
+and i'm going to tell each section to kind of just take up one spot
+
+03:12
+like one spot flex one there we go so i said all right
+main and bottom were flex containers that's it and take up one spot each
+let's save it let's come back let's refresh magic look at that beautiful magic
+look at it we got our three sections in main just sitting
+nice and neat next to each other we got our two
+sections in the one that was in the the class of bottom just sitting next to
+each other no percentages no worrying about clearing or floating
+we set the containers to flex we told them to take up one each and it just
+works so we're working towards this folks we're
+working towards this idea that we're using floats now so that when we're on
+the job we don't get into a pickle but we'll move to flex we'll we'll
+unleash the magic of flex and and grid hopefully that kind of blew your mind a
+
+03:13
+little bit if you haven't seen uh flex yet right
+and we have some some homework to work on uh you're gonna read about flex even
+though you're not using it until next week's right we have a lot of stuff
+that's assigned this week i don't want you to use flex on this stuff yeah i
+still want to use floats we have to start reading about flex so we can use
+it next week so i want you to read the complete guide to flexbox
+and i want you to do flexbox froggy flexbuck froggy is a video game
+that just helps you learn flexbox it's really fun it doesn't really
+doesn't really take too too long to get through
+but it can be a lot of fun just to work through it and
+then of course the most important thing is to uh watch independence day for
+homework cool that's the homework that's coming up
+we have more stuff that we're going to get assigned on thursday on thursday
+
+03:14
+we're getting assigned a lot of like building like building actual sites
+because now you know html now you know css now you know how to make things
+responsive so now we got to start practicing right we
+got to start building real sites real websites that that looked like
+stuff you would build for a client that looked like stuff you would build on the
+job that's what we're moving to starting on thursday
+also i mentioned this idea of starting a cs go server well i made one
+and i worked with somebody over the weekend to get it all set up and do all
+the fancy things that i wanted to be set up as
+it is a 24 7 office server if you've never played cs go there is a map called
+the office this server 400 devs is only the office so
+if anybody ever asks you do you go into the office you can say yes i spent a lot
+of time in the 100 devs office i put a lot of time into the 100 devs office i'm
+always hanging out there so this will be our office now
+
+03:15
+i gotta test the server i'm not gonna make an announcement just like after
+class like an hour two later from now i'm gonna share a server link if you
+want to come in and test the server with me it's 64 slots
+cs go is completely free to play it can run on pretty much any device
+so yeah i just want to have some a fun place people that want to game together
+we'll have the server i'm going to be testing it out and then i'm going to
+turn off the server and then we'll do like a bigger release for it so if
+you're interested probably like an hour or two from now i'll share the link uh
+we'll play it but for now we have to raid
+and so i'm going to go ahead and set up the raid
+we have someone that's working on react native and so let's go ahead sprint some
+love some positivity give them a follow if you haven't given
+them a follow before remember if you do the raid you get uh lovely
+channel points which are coming in handy
+
+03:16
+folks so i hope you had some fun tonight i hope you learned a lot i know the end
+went a little fast but always come back watch the vod i'll
+always share my materials on discord after
+it was really fun starting the idea of networking together don't worry thursday
+we're doing more thursday we're going to see networking again we're going to see
+all this response in this again this is not the first this is not the last this
+is just the beginning all right folks have a wonderful rest of the night hope
+you all have a good wednesday as well and i'll see you at class again on
+thursday let's read

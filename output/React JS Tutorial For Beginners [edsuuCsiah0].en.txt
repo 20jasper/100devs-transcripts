@@ -1,0 +1,1449 @@
+
+00:00
+we're going to talk about 100 devs uh we're gonna jump into like what is react
+what are components what are props what are State we're going to do some things
+to help us learn react see some bad code see some examples and then you're gonna
+have some homework that's a reading and some videos to watch and then next week
+we put more stuff into practice we go deeper I'm leaving out all the big words
+tonight no disrespectful stuff we're just going to do the basics see it
+understand it and we'll get into the heavy lifting tomorrow maybe a slightly
+shorter class maybe a little End early action tonight uh because we're gonna
+we're just gonna let things sink in marinate over the weekend right and then
+come back with these Concepts baked in react folks it's time for some react now
+with react see some examples in action uh but my my
+
+00:01
+warning uh is that we're going to be baddies we're gonna see some bad code
+I'm Gonna Save all the the heavy lifting for next week
+all right uh the place I always ask folks to start with react and what I
+assigned for homework was the react docs
+you'll also notice that the beta version
+of the new docs just dropped recently so
+you might have been reading the docs and noticed at the top bar that there's new
+beta docs react honestly has some of the best documentation in the game when
+you have to sit down and learn a new library a new framework a new whatever
+the place you're often going to start is with the documentation
+and sometimes that documentation is old dusty it's confusing but the react docs
+are pretty good so in the spirit of getting used to reading documentation in
+
+00:02
+the spirit of knowing that you're gonna be transitioning to a job where reading
+documentations become part of your daily
+life it makes sense to get started using the react docs because they are just
+that good for a lot of folks you want to employ strategies to help
+you get through reading some folks will use readers that will read aloud stuff
+to them some folks will install plugins like B-Line reader which makes it easier
+to read through things but you have to get comfortable with the idea of reading
+through material because a lot of times there won't be books sorry sorry there
+won't be videos there won't be tutorials or the stuff you need isn't yet
+available in those types of mediums and so the reading is really important I
+can't tell you how much of my day when I'm learning new stuff is spent reading
+documentation and I want you to get comfortable with it before you're on the
+
+00:03
+job so the homework to start off with start it with the docs cool now
+if you've given it the good old 100 devs try
+right and you still need a little bit more help Mine Wolf in their last
+streams has actually walked through the docks together so once again Community
+talk give it the gold good old 100 devs try right and then after you've given
+that good old 100 try if you still need a little bit more kind of working
+together through it definitely check out my own streams I'll link them in the uh
+follow one follow-up cool let's start with a little bit of es6
+plus review when I say es6 plus what the heck do I mean es6 plus what do I mean
+
+00:04
+mule said after 2015 okay yep acama script yep so the standard of which we
+use to build JavaScript is called ecmascript and in 2015 a lot of
+significant changes happened and it started a development cycle that added
+on to the specification for JavaScript that added a lot of features and so we
+call all these like newer features es6 plus so from 2015 forward kind of all
+the latest stuff that gets baked in the JavaScript and
+a lot of these newer features that you might not have come across too often are
+actually heavily used in react so I like to start off with just a little bit of
+review uh just before we start looking at code tonight the code really doesn't
+matter like you don't have to understand
+
+00:05
+it you don't have to really get intimate with it but as we go deeper especially
+as you do the tutorials especially as we get ready for next week you're going to
+see some of this stuff quite often so it makes us just to kind of highlight it
+very quickly we're going to see classes in the beginning
+throw out the arguments class functions I don't care about right now we'll get
+into that all next week but you're going to see classes again it's important to
+note that classes enable us to spit out objects we have this lovely Constructor
+object that enables us to spit it out we have the ability to have methods on our
+classes and so the objects that we get from these from these classes uh could
+have properties that are signed and they
+could have methods that were assigned as well
+you think of classes like our templates for objects exactly we're going to be
+using it to create components in the beginning before switching to functional
+components all right another thing that you're going to see
+quite often are spread operators and there's both an array spread and an
+
+00:06
+object spread so here are two variables Foo and bar and we can see that they're
+both set equal to an array when I do the ellipses the three dots followed by the
+variable name I can actually pull all the values out of the array without
+having to do things like looping through it Etc right if I create a new array
+with my square brackets using literal notation and I do the ellipses for the two
+variables I wind up with a new array that has all the values inside of it
+kind of replacing any type of concatenation that we might have done
+before or anything we might have done to
+like Loop through we can just spread out these values and create really new
+arrays um and combine different arrays together it makes life a lot
+easier and when we start seeing react code you're going to see this quite
+
+00:07
+often so it's helpful to know all right this is spread operator all we're doing
+is pulling the values out of that array and using them folks are saying I use
+this today on code Wars yeah this shows up in tons of code Wars Solutions so
+definitely something you want to have in your repertoire
+um definitely comes in clutch with code words for sure
+cool uh there's also an object spread which you're going to see a lot
+especially when it comes to react where you have kind of your your style a part
+of a component as well and so if we look at this spread we have this lovely
+object up here called default Style and then inside of this style object you
+can see that you can see that I spread the object
+and what's going to happen is all the all of the values that were in this
+
+00:08
+by one second demo Pro all the values that were inside of this default style
+are now going to make their way into this style object so what winds up
+happening is that inside a style there will also be a color block there will
+also be a font size 12. there will also be a font wait normal and I don't have
+to constantly keep retyping this I can just spread that object wherever I need
+it right now um this code right uh uh this code that we're seeing is going to
+pop up in the sorry I have something in my eye Jesus
+this code that you're seeing is going to pop up in the two tutorials
+um that I just shared with you on the previous slides so just notice something
+
+00:09
+you're going to see kind of over and over again all right um
+we have this idea here that we can pull in these values and then something that
+will also be helpful is that you have to remember that it's still read from top
+to bottom and so what will wind up happening is we passed
+in these three values with the spread but we still override it the font weight
+right from what was originally normal to
+bold and so what you'll see here is that
+the final style object has a font weight
+of bold even though the spread was there the Cascade is kind of still in effect
+mm-hmm it's kind of like a Cascade exactly cool
+all right so we're actually going to see this tonight and so when we get to it
+we'll see all right this is uh some lovely spreading here uh we also have
+
+00:10
+destructuring and destructuring is a really important concept that we've
+actually seen already in our back end code and
+I think it's really important that you take some time to [Music]
+understand it a little bit more deeply because it just does come up a hell of a
+lot and so free codecamp actually has a wonderful article on destructuring that
+is linked here in the slides you can just click that link and read it make
+that part of your homework uh the beautiful thing about destructuring is
+you can do it with arrays and you could do it with objects
+Jason Derulo hey how you doing thank you
+for get this Subs hope you're doing well good to see you yeah
+this is all over the place in uh react yeah it really is you're gonna see the
+structuring everywhere so it makes sense to get comfortable with it
+um here you can see some very simple syntax where we have name and team and
+
+00:11
+we have two values and basically what we're able to do is to pull all the
+values out of this Ray and give them a variable name that we can use so very
+quickly instead of having to like Loop through and like assign variable names
+to each value inside of the array we can use this notation and very quickly be
+able to say all right name is now Bob team is now 100 devs and loop through it
+um array destruction we'll see we've actually already seen object
+destructuring and object restructuring is kind of the same thing uh this is
+kind of following the template from the free codecamp article but in this case
+we have mascot uh with name of Bob and team of 100 devs and I'm able to create
+individual variables of name and team from this original object so when I say
+name I get Bob when I say team I get 100 devs I'm not actually using the object
+I'm just kind of pulling these values out we'll also destructure all the time
+
+00:12
+exactly uh where have we seen where have we seen destructuring so far
+yeah so when we did uh Brad's authentication course
+their authentication the ensure off the insure guest right that ensure auth that
+ensure guest um that was an example of Destruction
+right that was a big old object that were able to pull out the pieces that we
+wanted give them their own variables and use them inside of our files and so we
+carried that code over to our binary upload boom as well and so we have
+already been using destructuring even if you haven't known that you're using
+destructuring so we've seen it in our passcode you're going to see it in react
+
+00:13
+all the time right cool so definitely give this article a read
+and when you see this syntax don't freak out when you see the syntax here don't
+freak out we see the syntax here don't freak out you can definitely go through
+and understand the structuring in more detail and know that it comes up quite
+often cool all right this is uh this is my my warning tonight
+we're not looking at good code uh tonight we're not looking at at clean code
+we're not looking at good react examples we're looking at old stuff
+we're looking at bad stuff we're going to be baddies and write bad code because
+tonight has nothing to do with the code has nothing to do with actually writing
+
+00:14
+components it has nothing to do with the actual syntax it will be using going
+forward tonight is simply I want you to walk away understanding why
+so this is my warning if you're a code weaning get out this is not going to be
+a good class for you you're gonna have a really rough time over the next two
+hours uh so yeah my my warning that I'm about to be a baddie we're gonna be
+right to Bad Code we're going to look at some bad code we're gonna welcome some
+old code all right and uh I always get this question and I
+just want to be very clear um I have people like I've read some of the
+DMS in the past and I'll get this is a very common DM especially when I get to
+react Leon how dare you teach them that that old way of doing things you're
+setting them up for a a lifetime of react failure and my response is always
+how many folks have you helped get jobs in the last six months
+
+00:15
+because if it's less than a hundred you're not on my numbers
+you're not on my numbers if it's less than a hundred you ain't all my numbers
+that means hundreds of companies hundreds of companies that I am seeing
+people walk into I am getting the real boots on the ground
+what they're experiencing what they're working on and I could tell you right now
+one of the most common things that a lot of my folks that are walking into
+entry-level roles are doing is they're updating react code bases from
+class-based components to functional components so why would I not teach both
+right why would I not show you some bad code
+why would I not say hey this is some things you're probably still going to
+see out in the wild right these are some things that I'm seeing my students
+having to work on quite frequently and so yeah I'm I'm gonna still show it so
+
+00:16
+if you're a code weaning you're getting ready to send me that message you
+already know what my response is going to be it's floats all over again exactly
+it floats all over again but that being said things have fundamentally changed
+right and so I want that to be very clear the the way that we're writing the
+ACT is change it's changed over the last year too and for the for the better
+there there are lots of improvements that we're going to talk about next week
+that make our lives easier but tonight's not about any of that it's just
+understanding why I react oh all right react is a library for handling your UI
+that's it have a wonderful night everybody hope you do well have a great
+weekend I will see you on Sunday for the
+continuation of the super review uh that that's it
+all right everybody let's figure out who we're gonna raid let's see who's online
+
+00:17
+no please don't leave me hmm react is a library for handling your
+UI it very simply allows you to write components which you
+can reuse and extend when needed and it does not handle anything else so I used
+a couple big words there we're gonna break down tonight but it's simply a
+library for handling your UI bruh that's it
+what the heck is a UI that's my first question of the chat what's a UI
+to user interface exactly it's a user interface it's the thing
+that our users are going to interface with to use your application right and
+so if we look at an older UI this is kind of Facebook's old UI for folks that
+aren't that aren't hip yet Facebook was the folks that kind of
+
+00:18
+initially helped develop and popularize react and they used it to solve some
+very real problems that they were facing as their code base got larger okay so
+what we're looking at right now is Facebook's old UI like their older user
+interface this is actually one of my past uh cohort members uh Facebook page
+they've given me permission to use it I just blanked out anything that like
+mattered um that's why there's a lot of like missing stuff all right yeah cool
+now when it comes to Facebook sorry when it comes to react
+being a library that handles your UI right somebody asks what's the
+difference between a library and a framework uh you could think of a
+library as kind of just a set of tools but with no like Rhyme or Reason for how
+you should use those tools there is no opinionated stuff behind how you use
+
+00:19
+those tools it's not bringing in other scaffolding for you to use those tools
+it's just a collection of kind of like methods right it's a collection of
+things that enable you to do some stuff we'll go deeper into that on Tuesday but
+that that's kind of it like a framework's going to give you a lot more
+and some people kind of argue whether or not react is technically a framework or
+not but we'll be able to have that argument better once we learn the basics
+so let's save that argument for Tuesday yeah that's a that's a big codeweedy uh
+big codeweenie argument but I don't think we're ready to have that argument
+yet so let's learn a little bit and then we can have the argument
+cool all right so Facebook is I keep saying Facebook react is simply a
+library for handling your UI and Facebook was running into some
+significant trouble as their app was getting bigger as their UI was handling
+
+00:20
+more stuff or seeing more stuff uh so far we've built some very simple uis and
+we introduced an architecture pattern uh
+that we've been using recently uh what's the big architecture pattern that we've
+been using recently that helps keep our applications organized
+yeah it's been MVC and if we're worried about the UI or the
+user interface like the things that our user is actually interacting with to do
+things on our application what part of the MVC structure is react
+kind of going to be existing in yeah it's going to be existing in this
+view area we're actually going to introduce an extension to MVC
+um which which kind of adds a slightly different twist to it but for now we're
+just happy to exist in view territory right our user interface is always going
+to be handled by our views how we get into things like view model we'll save
+
+00:21
+for later but the idea right now is that Facebook needed a better way to handle
+their views and so let's take a look at Facebook's kind of older interface when
+this kind of stuff started kicking off so here's Facebook's old user interface
+let's take a look at all this stuff that's actually happening real quick we
+have posts and posts kind of have all their different complexities
+likes time all this other fun stuff we had stories that were popping off we had
+uh creating posts I don't know if statuses were still technically a thing we had
+um Marketplace and watch and knowing whether or not there are new things to
+watch or new things in the marketplace we had all of our groups and whether or
+not there are new posts in those groups you could explore new things and see as
+those pages were going up or down you had your events that were coming through
+and sometimes it'd be more or less events you had information on the pages
+that you created you can see all the things that recently
+
+00:22
+happen you can see the games that your friends are playing and you could drop
+into those friend Pages again uh you could keep track of whether or not your
+friends were online or not you could see all your events coming through your
+friend requests all your stuff all your stuff on this page and so
+if we are thinking about kind of our current understanding of how we handle
+our views this is a colossal unmaintainable hot garbage dumpster fire of a mess
+right because all of this stuff is going to be in like one what
+like the contents probably in like one big ass HTML file or in our case right
+
+00:23
+now one ejs file there's so much logic happening look at
+all this logic right like are they is there new stuff is is the likes going up
+are there new posts do you have new notifications do you have new note
+friend requests like if we're going to be handling all that pretty much like
+conditional logic right that would probably all be in One Singular what
+right now with the way we've been doing things
+like one JS file right imagine having all of this logic all of this logic like
+all this client-side logic whether or not it should be red or gray or green or
+numbers going up going down like all that stuff if we're thinking about it
+right now right is maybe one ejs file maybe a few if we
+figured out partials right maybe like our header and footer got separate on
+
+00:24
+the partials which we could think of partials as kind of like the beginning
+of components right but all this logic is all over the place right
+all this logic's all over the place all this style is probably in one CSS file
+until we start breaking out so there's just too much if I take a developer and
+I tell them to go and fix something on this page it's over
+right it's over to Define what to fix to be afraid not to break anything like go
+back to kind of even like our object oriented lectures right like is any of
+this stuff abstracted are we encapsulating the right stuff like it's
+like is there like is this maintainable is it easy for new developers to jump in
+and make changes and not lose sleep at night and the answer is like no where
+we're at in our journey right now the answer is just a big fat no
+
+00:25
+but what I want you to do is I want you to take a just a slightly deeper look at
+this and what we're going to notice is that a lot of this stuff is being reused
+okay I feel like a lot of this stuff is kind of repeating itself
+right so we we we're going to have posts and there's probably posts on this page
+like your home page other people's pages are those posts across different pages
+really fundamentally any different not really
+and our stories that appear on this page versus some other place really any
+
+00:26
+different no and so what react really introduced first is an idea of a component
+and then a component really changes the game when you start
+to look at a lot of these uis a lot of these uis are using the same
+thing over and over again right if we look at these shortcuts
+that kind of have the numbers going up it's almost the exact same component
+as the Explorer so we could figure out our logic we
+could figure out our styling we could figure out kind of our content and store
+it all in one component and then be able to reuse it where we need it to
+right and so this idea of breaking things down into
+components really does add to the maintainability of our code
+
+00:27
+and what I mean by that is that one we can keep all of our stuff together right
+we can keep our logic our styling our our content into these components and
+then these components can be reused not only across the page but across our
+entire application and maybe even across other applications is a post
+on Facebook fundamentally any different than a post on
+Instagram right Facebook owns both Facebook and Instagram are they
+fundamentally any different no no I'm not saying this is how it
+actually works at Facebook but the idea is there right like we could write our
+our post component once and then reuse it across our application and maybe even
+across other applications and then the beautiful thing is if any other engineer
+
+00:28
+wanted to come and fix how posts work they know exactly where to go they're
+not jumping through a hot mess of a Javascript file to find the logic for likes
+right they're not jumping through a hot mess of 10 000 lines of CSS to change
+how a post looks right we can store all of that logic all
+of that style all that content into one reusable easy to maintain component
+and so as we start to build out our applications what we want to be able to
+do is see components everywhere if we could start breaking down our
+applications into reusable components not only does it like make your life
+easier when you have to maintain or update or work with other Engineers that
+want to do the same but it also accelerates your development because you
+
+00:29
+can just reuse them I on uh two classes ago I showed you how to
+how to like make your MVPs stylistically look good very quickly
+what did I use to get that landing page done in like three seconds
+it was components that were using Tailwind right and so I was literally
+able to like re-cut like copy and reuse my components and I had a nice header I
+had a nice hero I had a nice footer and boom boom boom
+copy and pasted and and I'm done right now this is kind of like a very simple
+introduction to it but these reusability of components they maintainability of
+the components to make our lives a lot easier especially as our uis start to
+
+00:30
+get more complex so tonight we're going to talk about components we're going to
+talk about something called props we're going to talk about something called
+State and when we use all three of these things combined we can build uis
+that handle our views that really enable us to build faster build more
+maintainable code and make it so that we can not have a hot dumpster fire of a
+massive client-side JavaScript the mess of client-side CSS and all this other
+stuff that's coming through so uh what I want to do now is we're at
+the top of the hour so we're going to take our break when we come back from
+the break we're going to kind of dive into this idea of con a components a
+little bit deeper and then I'm going to introduce something called props which
+really does add flexibility to our components and then we'll bring state in
+and then we're going to see some real examples play around with some real code
+and hopefully walk away tonight having a
+feeling about what react might do for us
+
+00:31
+as we continue on our Development Career so we're talking about components
+let's take a look at some of the components that uh Facebook might have
+been implementing here and let's kind of think about it would be like without
+components just again for a quick second right
+uh let's go and take a look at this uh what do these red dots use like what do
+these red dots used to mean what was that for yeah it was like new
+like new stuff right like new things were either there to be watched or
+there's something new in the marketplace and so if we were doing this like
+originally somewhere in our JavaScript file was like the code to change that
+from Gray to red um there's probably some sort of ajaxi
+
+00:32
+stuff going on we look at any of these updates like there's some sort of way
+that we're like actually getting new information and updating it there's
+probably like if we were doing it like the way we've been doing it like would
+there be a page refresh which if you're refreshing the page for all of this crap
+right like no that can't happen um if we look at something like the bell
+too right like think about that for a second uh that Bell could be like that
+dark blue it could be white it could have a number
+the number has to keep going up right like that's a that's a lot of
+that's a lot of JavaScript to keep track
+of and if we were doing it the way we've been doing it this would all be like in
+a singular file and imagine trying to maintain all of this crap all right so
+the beautiful thing about components as Facebook's UI got bigger and bigger
+
+00:33
+more and more not maintainable by the easy starts with imagination
+components through react gave them some really a beautiful things like if we
+think about this kind of box here as a component
+we can keep all of this logic about the dots we could keep all this logic about
+kind of when they show when they go from Gray to to red when all that stuff
+happens and better yet these dots can be their own component that is reused in a
+larger let's say like feed component or something like that right so we can
+actually start having components that exist inside of other components or
+extend right and so we can really start to think about each
+piece of this UI as a component and that
+component could have all of its logic it could have all of its CSS everything in
+
+00:34
+one place now some folks start to say Leon well this kind of
+this kind of seems like it violates what like Leon you're telling me that you're
+combining like your content your style your JavaScript into this one entity
+called a component uh we're starting to get pretty close to violating separation
+of concerns exactly and so what was the goal of separation of concerns
+what was the goal kind of subtly what was the goal of separation of concerns
+yeah thank you blah it was organization right it was adding maintainability to
+our code it was making exactly well our life easier it was making it so that
+when other developers came and worked on our code
+they knew where to go and what to do and the real purpose behind separation
+
+00:35
+of concerns and why I introduced it so early on is because I want you to think
+critically about the code that you write right like the reason why separation of
+concern is introduced at that point is because I need you to start thinking
+like a developer what's going to make your life easier what is going to make
+the life of the other developers you're working with their lives easier
+and as we add more stuff to our developmental skill set we might
+need to revisit some of these paradigms and so in in essence I mean if you
+really think about it you got got right you got got right like it's where
+we started but there might be some other things
+that might be a little bit better now we've been a little bit further along
+down the timeline right and so when it comes to separation of concerns
+
+00:36
+yes it was about adding maintainability it was about adding organization
+it's about separating presentation and business logic and all that stuff is
+still happening right all that stuff is still happening with components
+it's just a different way of going about it and so will it actually be separated
+onto individual files depending on how you go about building out your
+components some folks will have everything in their component it will
+have the style it will have the logic it'll have everything in one place
+sometimes people will separate out on the individual files that are all
+associated with one component that'll be up to you so
+and the team that you join about how how together things are but you're still
+adhering to it just in a slightly different way and at the end it's still
+achieving the same goals of that maintainability that organization having
+new developers know where to go when they sit down
+when they sit down and the big sweeping change is that these dots now have to be
+
+00:37
+squares right they know where to go right they know where to go right so that's
+the idea of components going forward now
+as we start to think about components we start to think about the reusability of
+our components I want you to pay attention to some things that were
+happening in this UI over here there was something that would show up
+when your friends were logged on what would show up when any of your
+contacts were online anybody remember it would show up there
+before messenger or things like that yeah we would have a Green Dot that
+showed up when that user was online now a question for you
+in terms of like logic like there's an update that has happened there's
+somebody online or there is something new to watch or there's something new in
+
+00:38
+the marketplace is there really any difference between these dots
+and these red dots give me a little creative freedom here
+hey Jesus hey we're in your territory tonight
+if you all have react questions just go to just go to Nick
+on Discord hey hey Zeus they're they're there for you yeah they're
+uh there there's no difference right there's real no difference between
+the green dots that show up here and the red dots that show up here
+except for one change and that change is the color
+so the beauty of react components is that you can pass in what we call props
+
+00:39
+and props give flexibility to your components there's nothing fundamentally
+different between the dots that show up for new things in the marketplace and
+the dots that show up when somebody's logged on except for the color
+and so with props we could pass the color we care about into our components
+right so the component that we're using over here we would pass in a prop of red
+and the component that we're using over here we have passed in the component
+sorry the prop of green we could literally reuse the exact same component
+and just pass in different props we get all the reusability we get all the
+maintainability of having just to maintain one component that is these
+dots but we get the flexibility of saying well over here the dots should be
+
+00:40
+read and over here the dot should be green it's not something we have to go
+and like fundamentally change our CSS nothing we're going like fundamentally
+change any logic we just need to pass in a freaking color so it knows to be red
+for this component and green for that component that's it so components have
+this wonderful bit of reusability if somebody needs to edit how dots function
+across our entire application they go to our dots component right these dots are
+going to show up here here here maybe 20 other places across our application
+we're going to need these freaking dots but in some places we're going to want
+them to be read some place around with them be green someplace where I want
+them to be blue we don't have to want to rebuild a whole new component we don't
+have to rebuild all that logic redo all that CSS we just want to be able to say
+it should be red green blue and so when we use the component we can pass that
+color into it via props and get that flexibility cool
+
+00:41
+could you implement darker mode light mode across the whole app simply with
+props possibly yeah let's think about it that way
+yeah now let's think about another like really cool like key thing to Facebook
+when we're looking at our posts right we're thinking about posts they're a
+posts on Facebook and they're also post on Instagram we said earlier that a post
+on Facebook was fundamentally exactly the same thing as a post on Instagram
+but there's probably just like a few key differences what's probably the biggest
+difference between a post on Instagram and a post on Facebook
+there's really only one big difference right they both have like text or they
+
+00:42
+both have like a text they both have like images right like they both have
+like almost the same stuff but the real big difference in my mind is like on
+Facebook it's a thumbs up for liking and it's a heart on Instagram right
+fundamentally the same thing right maybe a little bit different in terms of like
+text or image or something like that but fundamentally a post on Facebook should
+operate almost the exact same as a post on Instagram
+but the likes are a different icon so what could we use
+to keep the same component across two different code bases that have
+fundamentally the same logic the same kind of styling almost right we just
+want likes and to look different on one versus the other what could we use to
+
+00:43
+pass in a thumbs up or a heart yeah we could use our props on Facebook
+to pass in a thumbs up and we could use our props on Instagram
+the pat to pass it a heart so we now not only get the ability to
+reuse the component throughout our application on Facebook right like we
+could have a post here on the home page the news feed Etc but maybe we could
+even reuse components across different applications as well and this is
+something I do a lot for me I have a lot of components that I have written that
+do key things for me and when I'm building out a new application I can
+just go yoink that component plop it into my react code base and I know it
+has everything that I need I know that it has all the logic all the styling has
+all the content that I need and the ability to reuse that anywhere I
+
+00:44
+want is huge it really speeds up my development cool
+uh so if you build a component you can just reuse it over and over again yeah
+that's kind of the idea because if we really if we really look right like if
+we really look at this UI is there anything different between
+shortcuts and explore like look look at it is there anything
+different between shortcuts and explore not really right
+they have slightly different icons but it seems like they have all the same
+functionality they have all the same style they have all the same logic right
+like they still have like the numbers going up so if we were to do
+this originally right we might have JavaScript handling each one of these
+
+00:45
+like numbers that are going up right we might even have two different sets of
+them for the different areas but we can start to see this as a component so
+maybe this number going up is a component the kind of list of
+links is a component and so we can just reuse these components wherever we want
+so we kind of like copy and paste and boom we got a new component we might
+have to pass in slightly different text these texts might be props that we're
+passing in and we'll figure out ways to do that later on but it's still the same
+thing that we're just reusing and any other page that needs this type
+of thing we can reuse that component over and over again and yes we can have
+components inside of components right and that that that makes it even more
+maintainable because if I want to work on these numbers going up right think
+
+00:46
+about this I want to work on these numbers going up there's two ways we
+could approach it the old way I wanted to work on these
+numbers going up these numbers going up were probably intimately tied to this
+content right there is something in my JavaScript file that was targeting this
+specific place in the Dom there was some JavaScript that I was like using that
+like made that number work with that content or at least that place in my
+content what if I decided you know what Leon I don't want these numbers anymore
+back in the day what would we have done like if I just I don't want the numbers
+anymore what would I have done back in the day
+well now I'm going to my age that cried I'm going to my HTML or my ejs I'm
+
+00:47
+removing the content like the HTML like whatever I'm using for my templating
+language then I'm like trolling through my JavaScript to find all the logic that
+was controlling each of those numbers going up maybe there were some like
+fetches that were pulling data from somewhere like so now like I gotta go
+through all my content in my HTML I had to go through all my JavaScript I might
+even have to go through like a lot of my CSS to pull out all those styles that I
+was using I probably had specific classes for it um
+because that was a big pain in the butt but if this was a component
+right if this was a component and that component was just being used inside of
+another component all I have to do is remove that component and I'm done
+I literally just I just I just delete one line
+I delete one line and it all goes away I don't have to worry about going
+
+00:48
+through all these individual files and if I want to add it back I just add one
+one line and it's back right so we're talking about like the maintainability
+of our code like react can really change your life right if if all your logic
+your style all that stuff is campaigned in one little area the ability to add
+and remove stuff the ability to reuse stuff across your application becomes huge
+yeah and we're going to see some examples of the components in a second
+we're going to see some examples of the component don't worry we're gonna we're
+gonna work through it gonna be able to see kind of all these things in action
+I'm going to show you props and action I'm going to show you the the components
+in action and how we can reuse them all right
+so we talked about components bringing maintainability to our code the ability
+to reuse components over and over again which Dave's time and development effort
+we talked about having props which enable us to pass individual things into
+
+00:49
+our components that we can reuse them we
+want something to be red versus green we don't have to rewrite a whole new
+component we can have that flexibility by passing in props and then there is
+one last thing that we have to add and it's something called state
+you could think about each component having an object that exists inside that
+component that we can access so state is just an object on a component that we
+can access now the really cool thing about this object that exists inside the
+component is that when the state changes right when that object inside the
+
+00:50
+component changes well the component foreign we have components
+we can add a flexibility or components by passing in new things via props
+but each of our components can also have an object we're going to call State
+and when that state changes our components can react now let's think about it
+friend logs on right friend logs on this dot component could have a state
+that says are they online right now are they online is false
+
+00:51
+as soon as they log on that state changes to true
+and since the state changed that component's going to what
+gonna react exactly it's going to react it's going to go from Gray to Green
+all that logic we need to know what happens when the state changes the
+component already knows right the component already knows what
+to do when State changes that that's the beauty of building out these components
+is we we get to put in all the logic set hey when that state changes this is how
+I need you to react right let's look at something else let's look at um this
+this Bell this Bell probably has a state of what
+you figure out what the state might be here
+
+00:52
+yeah it probably has a state remember States just an object right let's just
+keep it very simple for right now let's just think about State as an object it
+probably has a count property when that count property goes from 16 to 17 what
+does that component do it reacts right it knows what to do it
+knows how to go from 16 to 17. better yet let's think about if it was zero
+right let's say there's no notifications right let's say there is no
+notifications and it was just a dark gray or dark blue Bell
+right there's no red box there's no coloring as soon as it goes from zero to one
+that component knows how to react it knows to all right now make it white now
+
+00:53
+bring in the red box now put in a number of one right all of that
+is contained in the component no chasing down some JavaScript file no wild
+conditional logic that's just all over the place
+no chasing down our style changes it's all contained in that component and when
+the state changed it knows how to react if we were going back to the Dark Ages
+and we had all this in a JavaScript file
+right all these little bits of logic all
+this conditional logic all this stuff in a singular file is bad news
+we would start messing up our conditionals we would stop we would
+start messing up like what happens when we get new information it just becomes
+not maintainable and so the idea of bringing components
+
+00:54
+into the mix does quite a few things components bring maintainability they
+bring reusability the ability to have props brings flexibility to the
+components we've already written so we don't wind up having a bunch of very
+similar components we can have one and kind of the unique changes we need for
+each we can pass in as a prop and then the last thing is this state
+and each component can have its own State and when that state changes the
+component knows how to react that logic that style everything is contained in
+that one area we don't have to go chase it down we don't have to worry about
+when we remove components that it's going to break some other places of our
+code base we can add and remove them as we see fit does it make sense
+why we might use components all right is that is that kind of clear
+
+00:55
+like why we might use components yes cool all right that's the goal for
+tonight the goal for tonight is just to understand all right
+components might make our life a lot easier as we start to develop more and
+more complex uis the reusability the maintainability uh
+the ability to to not have to worry about what happens when our state
+changes right like all that's been coded out for us right we we can just add and
+remove them as we see fit awesome so what I want to do now is I want to talk
+through some of kind of the important bits and Bobs when it comes to react
+we're going to see some examples and then we'll we'll end class
+uh there's one other thing too since we're just talking about State real quick
+um and we're going to see it again in a little bit but
+think about all these things where state is changing
+right think about all these things where state is changing
+
+00:56
+State changed let's just kind of state change State change State change State
+change day change day changed change change change change change change change
+change probably each of these third state changing likes to change
+change change change I'm gonna stop here like all these
+things that have to change if we were doing it how we've been doing
+it that's also a lot of what this kind of I know it's a stretch here
+but it's also a lot of what's happening on the page
+if we were to do this in the end yeah exactly Shadow song it's a lot of
+refreshing we don't want to have to refresh anymore and so the beautiful
+thing about react is it has something called the virtual Dom uh has something
+called the virtual Dom so what we're actually doing is all of these
+
+00:57
+things are changing like as all this dates changing and our and our
+components are reacting uh we don't actually have to refresh the
+whole page and better yet we only wind up refreshing the small tiny piece that
+actually needs to be refreshed so we're not repainting the whole Dom the whole
+Dom tree we're using something called the virtual Dom to compare the actual
+Dom versus the change that we want and we're making a patch to the actual Dom
+that just changes this little piece and so I have a I I really like from some of
+the reading that we're gonna do there's a really good example that highlights
+this that we're gonna see like live and I'm going to show you through
+um some cool Chrome tricks how we can actually see that the whole page is not
+refreshing it's just the small things that are cool now uh we have some
+
+00:58
+we have some some some more nice I need to make we're
+about to we're about to go into some some more technical terms we're about to
+see some code I don't really need you to understand this right now
+I I don't I don't really need to understand these bigger Concepts I don't
+need you to understand the the one-way data flow versus two-way data binding or
+any of that crap uh for for now let's just let's just understand what
+components are what's uh what's some props what some State and we'll take it
+from there right when we were using react there's kind of
+two crucial apis that we're kind of consuming react which contains all the
+apis for like how we actually create components and then react Dom which
+tells us how to render those components to the Dom so react actually gives us
+the API for creating the individual components and then react Dom enables us
+to actually take those components and put them into the Dom like that like we
+
+00:59
+have to have some mechanisms for doing those two things and so these two apis
+are what enable us to do it and we're going to see them in some of our code
+there's also another big component of react and it's jsx
+um jsx is just a syntax extension to JavaScript and it's really just a
+shortcut for this specific API and what it does is it just helps us generate the
+stuff that eventually spits out HTML so we can kind of think of it almost
+like our ejs it's going to look an awful lot like JavaScript but some things are
+going to be a little suspect and a little bit different and we'll be
+noticing that some some quirks to it just like our ejs kind of looked like
+our HTML but it really wasn't at the end of the day we're just using it to
+eventually build our component and spit out the actual HTML
+cool we'll go deeper with it next week um there's another really good resource
+
+01:00
+that I really love for react and a lot of my examples are going to be kind of
+built off of some of the stuff that comes in this this uh this overview so
+react.express is just like another resource that I'd like for react
+especially for some of the older stuff that we'll be covering we talked about
+two big things that come to react already we talked about props you can
+just think about props as arguments that are being passed into our components
+just like when we had like functions and we're able to pass into arguments to a
+function you could think about your props as the exact same thing it's a way
+of right right it's the same way of passing in uh values into these components
+right that's it and then we also have uh state which is
+
+01:01
+just an object that's built into the component and when that object changes
+our component reacts and importantly re-renders right so that reacting also
+includes the re-rendering of that component using that virtual Dom to make
+that actual change in the Dom so if we can kind of absorb kind of some of these
+very high level Concepts it will be in a good spot
+remember that virtual Dom is a way of us kind of looking at the Dom as it stands
+right right looking at the Dom as it stands
+and saying I want to make very specific changes and being able to make those
+changes without having to re-render the full Dom uh the way it works is that we
+keep the real Dom and a virtual Dom we make all of our changes on the virtual
+
+01:02
+Dom and based on what we change we say hey just make this very simple update
+right so as we start to build out our components as we start to see these
+things uh estate changing our components reacting and needing to re-render we
+take advantage of this virtual Dom to make the specific individual changes
+that we need to make cool that's all the big stuff I'm going
+to throw out to you for tonight I don't really want to go too much deeper
+because I think and you got to go through the reading you got to go
+through the materials first and then you will come back on Tuesday to go deeper
+into all these kind of higher level Concepts
+do I currently work with react all the time um I think it's something that you
+should have in your repertoire right you're having your repertoire I don't
+think you need to go as deep with it as you might think to get a job it's good
+to understand these high level Concepts it's good to understand what it might
+bring to your code right but I don't need you to go much
+
+01:03
+deeper than the materials that I'm sharing so if you go through this class
+and our classes next week you go through the two courses I shared
+Brad's course in the Ken C Dodds course that's enough you really don't need more
+than that for right now because there's a good chance when you get to your job
+they might not actually use react so you're better off spending your time
+right now especially as we go into the hunt finishing up your 100 project
+investing your data structures algorithms making sure you're doing your
+code words and all the other things I'm asking the basics are enough to get the
+job and as you figure out what your local kind of job market is asking for
+you might invest a little bit more react you might invest a little bit more in
+things like view or angular whatever it might be but I just want you to see the
+basics of what one of these UI type libraries can do for you and you don't
+
+01:04
+really need to go super super super super deep on it to get the job cool
+all right another warning we're about to be bad he's about to see some bad code
+I'm about to see some bad code it's all right we're baddies we're seeing bad
+code it's all right all right so we're gonna look through
+some examples and these examples uh come from the reading that I assigned and
+there's three of them that are on code sandbox and so we're going to look
+through these different examples on code sandbox we're going to play with them
+and um I just need you to let these Concepts
+marinate in your brain uh the rest of tonight over the weekend I really do
+need you to start thinking about components everywhere
+um I like you can look at anything in your life as components
+
+01:05
+and everything that you're doing please over the next weekend just just think
+about components right like like when you're hungry and you're going into
+the refrigerator you can see your refrigerator of a component and your
+refrigerator is made up of a bunch of other components that are inside your
+refrigerator right you might have almond butter inside your refrigerator almond
+butter is a component that exists inside your refrigerator component and your
+your your your almond butter right might have a prop that you passed in of
+crunchy or creamy right that you you might have a crunchy almond butter you
+might have a creamy almond butter right and uh when when you eat it your state
+might change right you might get bigger I don't know right I know it's silly
+but I really do want you to try this I really do want you just to like take a
+few moments throughout your weekend to say all right what's in front of me how
+
+01:06
+could I view these as components what could I view as props for these
+components what would be the state of these components and I want you to just
+to really see components everywhere they're everywhere folks just gotta see
+them they're everywhere they're everywhere all right and so let's see some
+components together and then over the weekend I need you to see them
+everywhere else so there are three examples here that come from the reading
+uh they're all in code sandboxes which are pretty cool uh these code sandboxes
+just enable you to run code directly in the browser so we're actually running
+our react code in here and um right off the Jump please please
+do not think you need to understand any of this code this is bad code
+this is code that we will not be using going forward
+
+01:07
+uh this component is not how we would write components in the future
+it's going to come in the reading so I want to see it now together I want to
+show you how can we did these older class components uh but this is like not
+this is us being baddies writing bad code I do like it because it helps it
+very simply to see some really key features that we need to see uh before
+we move on to how we would actually probably use components in the future
+cool also it's not something that you would ever have memorized uh it's not
+something that you would ever have like in your memory it's just an example for
+me to show you how these things come together
+cool you can see that we're importing react uh what is that going to give us
+the ability to do we import react what is that going to
+give us the ability to do yeah create components remember that
+react is the API that enables us to create the component so we need that we
+
+01:08
+want to create the components and then uh when we import react Dom what is that
+going to give us the ability to do yep to enable us to render them to the
+Dom right remember we actually have to put this stuff into the Dom if we want
+our users to see it on the client uh so one reactive was to create components
+and the other enables us to put it into the Dom and so you can actually see that
+we're using a little bit of what here a little bit of what
+we talked about earlier tonight a little bit of what
+a little bit of the structuring right to
+give us the component that's coming from react and so here with this kind of
+older class-based syntax you can see that I am making a component uh that's
+coming from the components in react so this class of card is the component I am
+
+01:09
+making but it's just a react component I get the name whatever the heck I want I
+could have called this zaboomafoo it would have been fine but since I'm
+making cards that you see over here I called it cards
+and here is everything I am using to make this card component
+and then down here is me actually rendering these card components to the Dom now
+if we look we can see kind of our component is in this
+index.js file and we also have an index.html file this is going to be very
+very common we're going to have some just very simple HTML
+and this is where we're going to actually append all of our components
+right all of our components are going to
+be appended into this div right remember we're going to have components those
+components have to make their way into the Dom the way we make them into the
+Dom is we actually just place them into the Dom in this area so if we go back
+
+01:10
+and we look at our index.js we can see all right we're going to select that div
+which had the ID of app like if we look it has the ID of app we're going to
+select that div that has the ID of app and we're going to render our elements
+to that place in the Dom so all we're saying here is all this
+stuff that I've just highlighted is going to make its way into this div
+this is how we're going to place our components into the Dom so just very
+quickly we have the ability to create components we have the ability to render
+them into the Dom down here we're saying hey where in the Dom I putting this
+stuff and what am I putting into the Dom it's this stuff right here so that's
+very high level just so you can have a rough
+understanding that we're going to build our components we're going to put them
+into the Dom it's not magic we actually have to tell it where to go where to put
+the stuff into the Dom and that's what we're doing with these kind of other
+
+01:11
+simple files now the thing that we really care about is right here
+these three lines right the SE three lines are our actual what
+these three lines are our actual what yeah these are our actual components we
+can see up here that we've created the component called card
+right we've created the component called card and what we are doing down here is
+actually using the this card component and we're just having to use the card
+component three times right we use that component that we created three times we
+did card card card right we use that component three times
+we can actually see what this component spits out
+
+01:12
+what does this component spit out yeah this component spits out a div
+right it spits out a div and the cool thing is you can see that it that div
+also has some Style and so we can see that style is coming
+from up here well style spread the default style so the default style will
+be a color of white a border color of red a border size of one a border Style
+style of solid we're also going to have some margins some padding and then
+wait before we get to this line 16. it looks a little weird here
+
+01:13
+border color border size border Style camo case what's going on here
+yeah it's not actually CSS this is the jss syntax we just talked about that
+that extension right that it's not actually CSS kind of like how our ejs
+was not actually HTML same thing here this is not actually CSS this is the jsx
+syntax that's going to help us to eventually spit out the stuff that we
+care about so it's going to look a little funky it's going to look a little
+different and remember this is bad code we might actually have our CSS in a
+separate file and then just use that file inside the component but for now we
+have everything together so we have some base Styles here the default style we
+spread them into style and then that style is going to eventually be applied
+to our div so when I use card down here I know that this card is going to be a
+div when I use card again here I know that
+it's going to be a div when I use card down here again I know that it's going
+
+01:14
+to be a div now each of these cards here are
+fundamentally all the same but what is different about them
+their colors are all different go back and think to our dots on the Facebook UI
+were the gorgeous styling were the dots fundamentally different between like the
+marketplace thoughts or their friends logging in dots were there were there
+any differences there no it was just a color
+we wanted to be able to use the same component we wanted just those
+components to look a little different depending on what we wanted them to look
+like and so the beautiful thing here is I have this lovely card component
+
+01:15
+that spits out a div however on line 16 you're seeing that each component will
+have a background color that comes from the where
+where this background color come from will come from the props
+exactly it'll come from the props and so when we look at these cards
+we see these cards here we can see that each card has a prop
+what is that prop that each of these cards comes with
+yeah each of these cards has a color prop right each of these cars has a color
+prop and the Beautiful Thing is whenever I go
+
+01:16
+to use these card components I can pass in those different props right and each
+of my components even though they are the same will now each have a different
+background color right this color prop right here is being used right here
+so the very first card will have a background color of sky blue that's why
+this one looks sky blue the next card will have a color prop of Steel blue
+all right so that will have a background color of Steel blue and then the last
+card component has a prop of the color yellow and we have this lovely
+background color of yellow now the yellow is very hard to read that that
+
+01:17
+that white on yellow does not look good so if I wanted this last card component
+to be something different uh it'd be very easy to change it so what color
+should I change it to purple people are saying let's change it to purple cool
+there we go and so now it's purple we're able to pass in a different prop
+and when that component goes to be rendered we can use those colors uh so
+that we can reuse the same card component over and over again but have
+the flexibility for certain things to be slightly different
+we could have a card we could have a um post component
+where we were going and making our posts but we would have props on them that
+were like likes and one could be a heart and one could be a thumbs up right we
+
+01:18
+have the ability to pass in different props that will do different things
+inside of our components we still get the maintainability and the reusability
+of the components throughout our entire application we can still get the
+flexibility should we need it by these props cool I love the color scheme no
+all right so this is the beginning of kind of
+starting to see these components come to life we're starting to see props come
+through um I want to be able to look at a few other examples another example of
+props but also another example of state so we're going to take our break we're
+at the top of the hour when we come back from break we're going to see two more
+examples that further our understanding of props but also help us understand
+State as well we'll get to see some cool things like the virtual Dom in action
+
+01:19
+individual re-rendering and so we'll see a lot of neat stuff when we come back
+from break let's take a look at another component here remember
+you're absolving yourself from actually understanding any of this code it
+doesn't matter we're just here to see some components we're here to see some
+props we're here to see some State understand what they might bring exactly
+as well says to be Baddies let's take a look at another one here
+all right let's go ahead and change this number right now it says at 10 degrees
+Fahrenheit water is considered to be a solid state of matter let's go ahead and
+change this to um let's go and do 33 and as soon as I typed in 33 we could
+
+01:20
+see what what happened what happened here oh it reacted foreign
+so for it to react what else do we know happened here if if this component is
+reacting what what what what happened yeah the state changed exactly uh the
+state changed when the state changed the component knew how to react now what do
+we think in this component example without looking is State like what are
+we keeping track of in terms of State for this component
+
+01:21
+yeah in this case it's the temperature and so if we look at this water
+component we can see that it has a state object and it has a current temp
+property of 10. right it has a current property of 10.
+the cool thing is I have this method here called set temperature
+and when the current temperature changes you can see I'm actually setting the
+state all right I'm setting state to be the new temperature
+if we go all the way down here we can see that this component
+right we can see that this component is a div this component has an input and a
+paragraph right and we can see that it has this lovely like on change method
+once again absolve yourself from understanding uh this code but the idea
+
+01:22
+here is that whenever the number changes we're running this set temperature
+method right so right here when the number
+changes in this input we're running this set temperature method right and that
+set temperature Method All That temperature method is doing is it is
+setting the state to be that new temperature so when I typed in 33
+when I typed in 33 this on change method fired
+and it ran the set temperature method right the set temperature method change
+the state from what it was 10 before to now 33. right
+the 33 and when that set state ran it changed the current temperature property
+
+01:23
+on state from 10 to 33. since the state changed what is this
+component going to do react exactly it's going to react now
+how it reacts we actually get the code out so you can see our lovely render
+method here and we can see all the stuff that's
+going to happen for us to render out this div
+right the goal of this component is to render out this div that has the input
+and also has this paragraph and we could see inside the paragraph that we have
+the this dot state that current temp which is pulling the current temperature
+right it's pulling the current temperature from our state so right now
+
+01:24
+current temperature would be what right now current temperature will be what
+33 nice and then state of matter we're using here as another variable that we
+haven't actually be this defined yet so the things they're going to change in
+this paragraph or the Cur or are the current temperature that's coming from
+our state and then uh the solid liquid or gas will
+leave out plasma for now right it's not liquid or gas that it could be
+and so if we look at this component a little bit deeper here we have our state
+which has the current temperature property we have a method that changes
+that state whenever the value and the input changes and then we have some some
+logic here we're going to say hey if that current temperature and state is
+less than 32 then our state of matter will be solid if it's greater than 212
+or equal to greater or equal to 212 then it'll be gas and if it's not solid or
+
+01:25
+gas we're going to say that it's a liquid right
+I'm going to say that it's a liquid and so when this component goes to render
+and it renders out this div it's going to pull the value from a state which is
+33 and it's going to plug in whatever state of the matter was in this case it
+is liquid right it'll be liquid and so if we look
+down here at the actual component right if we look down here at the actual
+component we can see that we're using the water component
+and this water component has all of this stuff nice neat and contained in the
+component not only do we have the the state we have all the logic for what
+happens when that state changes we don't have to go chase it down
+somewhere it's not in some other wild JavaScript file it's all right here it's
+
+01:26
+more organized it's more maintainable if I want to update this to also include
+plasma right maybe it's not just gonna be water
+I'm gonna have plasma as well we don't have to worry about going and chasing
+down something in our Javascript file we can come right to this component we can
+change just this component and only this component and add the things we want to
+change cool if we wanted to add a Centigrade yes
+that's a really good that's a really good thing to think about we could have
+a prop called type of temp right we could have we
+could have a prop called type of temp and you could pass in Celsius or you
+could pass in Freedom right you passed in Celsius then we would have to have
+some Logic for not being 32 to 12 or whatever right and if you passed in
+
+01:27
+Freedom then we could we could keep these numbers right and so it's up to
+you if you want to use Celsius or Freedom Units and so that'd be a really
+great prop we could then reuse this water component we could have a water
+component that maybe we have a maybe we have something on our site that
+detects based on maybe somebody's IP address or their location if they're in
+say the UK or the land of the free right and so if they're the land of the free
+then we would use the Freedom Units and if they're in the UK they could use
+celsius and we could maybe pass in what we want this component to do with a prop
+right cool so Props there's like a function you can
+think of it as like arguments on a function you're passing something into
+the component it gives a little bit more flexibility to our components so we
+don't wind up having a bunch of very similar components that are just tweaked
+
+01:28
+in very little ways we can reuse our components with the flexibility that we
+need cool all right so this is just a very simple
+way of seeing State we have the state object that has a current temp property
+when it changes our component knows how to react it'll re-render with the logic
+that we have contained here and we'll wind up seeing different stuff in the
+Dom like we can play with it like let's go back to zero we'll get solid let's do
+213 we'll get gas and so we're seeing this component
+based on state changing react and re-render now
+the re-rendering we haven't been able to see that well right the re-rendering we
+haven't been able to see that well I want to show a last example where we can
+
+01:29
+see the virtual dominant action and see this re-rendering actually um
+actually take place okay thank you for the gifted Subs I
+appreciate it for being here thank you all right
+how does it know that it updated it knows that it updated because the state
+changed that's the whole point of react right when the state changes the
+component reacts we don't have to code anything else right we don't have to
+code anything else that's like an event like we don't like we have an event
+listener here that's listening for the on change of the input but we don't have
+to have anything that says like all right when it does change like do all
+this stuff it just we're calling this method this method all that this method
+does is change the state right so if we look at our on change down here when
+this number changes inside the input it's going to call this set temperature
+
+01:30
+method when this set temperature method runs the only thing that set temperature
+method is doing is changing the state and when the state changes
+the component reacts right gonna Force the re-rendering it's going to work
+through all the logic that we've we've put together and then this div will be
+probably different if the state changed in one of these three conditions
+automatically exactly is that what set state is really for so
+that state is just to literally change the state
+we want to change it from whatever we want to change it from 213 to zero the
+way that I have changed state is by setting the state from 213 to now zero
+so the current temperature value is now zero the state has changed since the
+
+01:31
+state has changed our component reacts it's going to force the re-rendering all
+this stuff is going to be taken into account and we're going to have a new
+div that is spit out we're going to talk about you state yeah but not tonight
+Catherine can hey thank you for the hydration cheers to you
+ah Too Legit to Quit I actually point out something really interesting
+how let's let's do this let's type in 213 again how many times did State change
+yeah right now state has changed three times right when we changed it from zero
+to two that was a state changed 21 21 21 that was a state change 13 State change
+right it's just the way we've coded it for now where each of those on changes
+
+01:32
+is its own thing uh and so what you're noticing is that it's it's super what
+it's super what super yeah super fast all right it's super fast
+all right super fast I'm watching a lot of like old like
+Muhammad Ali Clips I'm fast and he's getting ready to fight um Frasier on past
+hit the light switch I was in bed before the lights went off I'm fast
+always gets me oh bad man exactly the best one is he uh makes a reporter
+
+01:33
+hold up their hand and it's like a three minute set up for
+how he's gonna hit the hand and like he's telling him like how to hold his
+hand how to do it more correct and eventually it just goes he's like oh do
+you want to do it again I'm fat all right so yeah it's really fast and why
+why is it so fast though bathing ape it's bad code don't worry about it
+yeah it's fast because of the virtual Dom right I'm not actually I'm not
+actually re-rendering everything I'm not re-rendering this whole page I'm
+re-rendering just this piece here and that piece there and that's why it's so
+fast right it's that virtual Dom that's enabling us to um
+
+01:34
+to do it so fast right and we were doing this like the old way that we were
+updating the Dom nah it's just it's just not
+it's just not good right it's it's not as fast right and so this virtual Dom is
+something that we're gonna see now all right
+here's the last example I want to walk through tonight
+and what we're going to notice is that we have how many components right here
+actually let me open this in a new page how many components am I using
+
+01:35
+kind of a tricky question it's one component but how many times am I reusing it
+four I technically I could break this down into like two individual pieces
+here if I wanted to but let's say it's one but I'm reusing it four times
+and without even looking at the code what do we know
+when I reuse these components four times what what are some things I'm going to
+be using here if I'm seeing four uses of the component
+what am I also having with these components what what are you noticing here yeah
+this component is going to have some props and there's gonna be a prop for
+a color notice how each of these colors is a slightly different color of blue
+right and they're all different sizes so even though I'm reusing the same
+
+01:36
+component four times each time I use it the font size
+and the color is different and so that means when I go and look at this code I
+can expect that there are at least two props
+that are being passed in for each of these components let's take a look
+all right here you can see I'm reusing my counter component four times and you
+can see I'm passing in a color prop and a size prop
+all right color prop and the size property so we can see the very first
+counter component has a light blue and size 16. that's light blue size 16 Sky
+Blue 32 steel blue 80 and then dark blue and 140. same component
+different props that are changing the color and the size
+
+01:37
+let's go ahead and take a look at this component so here's my counter component
+right here's my counter component you can see the end goal of this counter
+component is to spit out a div that has the H1 of doesn't change and
+then a paragraph that has the current count inside of it
+and the specific color and font size once again
+absolve yourself from understanding how this code works this is bad code
+we will we will write better code in the future
+just understand that we're using props and state here so the goal of this
+counter component is to spit out a div that has an H1 which is the doesn't
+change and then a paragraph that's going
+to have a different color and size based on the props that I pass in
+
+01:38
+right so you can see that I'm able to pass in color sky blue size 32 and I'm
+able to use a little bit of what on line 15 to not have to set up individual
+color and individual size yeah a little bit of Destruction right a
+little bit of destructuring right to to pass in that color and size
+and we're also going to be using count which is the property on our state
+so here where you see count it's actually the property that's coming from
+our state now what you'll notice is that this state is continuing to change
+all right which means that this component is constantly doing what over
+
+01:39
+and over again yeah it's re-rendering the state is changing
+and as the state changed our component reacts and it re-renders now the cool
+thing is we have this component did Mount method for folks that did the
+reading that read the docs what is component did Mount what type of method
+is it curious did the reading yeah it is a life cycle method beautiful cool
+now the beautiful thing here is this component didn't Mount lifecycle
+method when does it kick off when does it start running
+component did Mount when do you think it actually starts
+yeah at the beginning when when it's actually yep
+it's called after the Dom has been mounted exactly once this component has
+
+01:40
+been rendered to the Dom this method fires right this method fires and we can
+see that the only thing this method does is it sets up a set interval
+and set interval is going to run once every second this is a thousand
+milliseconds so every second set interval is going to run
+right so once the component renders to the Dom this component starts it sets up
+the set interval and set interval is going to run every second
+right now every single second that this runs what are we doing what are we doing
+yeah we're adding one so every single second we are adding one
+
+01:41
+to our count but notice the method right here set state
+we are updating our state to be whatever count was plus one so
+every second we are changing our state right every second we are changing our
+state which means every second what else is happening
+when State changes our component reacts and it's forcing the re-rendering of our
+component now so I said what is component then Mount
+component the amount is a life cycle method it's just a function that runs
+once this component renders for the first time once this component is in the
+Dom for the first time this method runs and it sets up our interval
+
+01:42
+right so this interval is going to run every second going forward and every
+second it's changing the state to be whatever count was plus one
+right it's a homework method exactly uh so now State's going to change every
+second each time the state changes this component's going to react and re-render
+all right and re-render and we can see the re-rendering happen
+here but now I want to show you something really cool if this is truly react
+what does react come with that's Gonna Save Us a lot of
+it's gonna it's gonna it's gonna help us in a very significant way what does
+react come with that's going to help us with this specific example
+yeah the virtual Dom if this is updating every second that would be a lot of
+refreshing of the page to make this work
+
+01:43
+but with the virtual Dom we don't really do that and I want to show you it uh so
+you can actually get what I mean now in our inspect tools
+so if you go right click inspect uh we've been kind of just seeing like a
+lot of these tools that we've been using and if you think that this is just all
+that's there why do I got a surprise for you actually if you click these three
+dots and you go to more tools look at all this stuff that's built into the
+Chrome tools and uh there is a rendering tool here and
+um for folks that have photo sensitive epilepsy I'm going to need you to stop
+watching and I'll tell you when to start watching again
+um so I'm going to turn something on I want to show an example but it will be
+flashing green on the on the screen so if you're sensitive to flashing green
+colors uh please stop watching now give you another five seconds and I'll I'll
+save verbally when to start watching again okay I'm going to turn something on
+
+01:44
+I click this paint flashing and what's happening on the screen right now for
+folks that can't see is the text that says doesn't change is not actually
+being repainted this flashing green around the numbers is actually the part
+of the Dom that is being re-rendered this paint flashing shows what is
+actually being re-rendered on the page and what you'll notice is doesn't change
+is not being re-rendered it's only the numbers that are flashing green because
+that's the only thing due to the virtual Dom that is actually updating so notice
+my page is not refreshing it's just these individual pieces that are updating
+all right paint flashing is turned back off uh if you have uh epilepsy absolute
+
+01:45
+epilepsy you can you can start watching again I've turned off that feature
+all right uh so the way I got to this was I clicked on the three dots the
+vertical ellipses more tools rendering look at all this other crap that's in
+here rendering and then there's this paint flashing um check box you can turn on
+cool so we could see that even though this whole div is being re-rendered the
+only thing that had to change was this paragraph So the virtual Dom was able to
+look at the actual Dom and submit a patch directly that said hey I don't
+need everything to refresh just this paragraph is the thing that's changing
+
+01:46
+and that's the only thing that got re-rendered on the page cool all right so
+tonight we saw quite a few things we saw the ability to create components
+and components bring what to our code what what do components bring into our
+life when we look at something when we look at something like
+let's look at something like this now when we look at something like Facebook
+what is what are these these components bring into yeah maintainability
+reusability right the ability to like have our code in one place and keep it
+maintained the ability to reuse components as we need to and not have to
+keep adding more and more spaghetti code into the mix not adding more and more
+complicated JavaScript to mix that we're going to forget how to update so ads
+that maintainability it adds that reusability we saw that our
+components also have props and what are these props enabling our components to
+
+01:47
+be able to do what is it what does it add to our components
+yeah adds flexibility we don't wind up with a bunch of components that are all
+very very similar but just changing a few tweaks here and there with the props
+we can have the red dots and the green dots that are the exact same component
+but pass in the colors that we want them to change to right we could have posts
+on Facebook and post on Instagram where the only thing that's different is the
+likes and we can pass in a heart on Instagram and a thumbs up on Facebook so
+the the props add flexibility uh to our components
+and then last but not least uh State gives us the ability right State gives
+us the ability to contain all of our logic in one place and have our
+
+01:48
+components know what to do when that state changes we're not chasing down
+random JavaScript we're not chasing down different logic in different parts of
+our application all the logic about what should happen to that component
+specifically because this is tied to our
+UI think of all these UI flourishes that would have been a hot mess to maintain
+and now all those changes are contained in the component and when the state
+changes when it goes from 16 to 17 our Bell component knows what to do when the
+stuff in the marketplace goes from True from false to true the component knows
+what to do when the shortcuts goes from it goes from
+four to five our component knows what to
+do and we're not chasing down that logic anywhere our components are able to see
+if the state changes they're able to react be able to re-render and since
+we're using react we're not refreshing the whole page we're using this other
+wonderful benefit called the virtual Dom
+
+01:49
+to just submit patches to the actual Dom and just change the things that we care
+about making this way faster as we start building out our uis cool
+so do we see the value that react could bring to the table
+we see what it could do for our uis yep cool all right
+and I did my job this evening I don't want to go any deeper than that what I
+would like for you to do this weekend is please
+read through this free code Camp article
+on destructuring as you saw it came up a lot and you already read the docs for
+homework where's the other reading this and next week of course is react
+there are two new bits of homework that I need you to get through ideally this
+weekend uh one is uh the goat Traverse media's course on react
+
+01:50
+um kind of covers all the big changes that have happened uh there has been a
+big switch from kind of class-based components to functional components
+things like Hooks and all this wonderful stuff was introduced and so
+if you're reading the docs uh it kind of gives you some of the original ways
+things were done uh Brad's video will kind of walk you through some of the
+newer stuff and then uh Ken C Dodd's course is completely free and it's one
+of the best react courses ever made uh so you can definitely check out these
+two resources please before next week so all the heavy Concepts you've kind of
+already been introduced to kind of do it
+as like a first pass and then we'll kind of keep working together on Tuesday and
+Thursday um one thing that we have to keep in mind
+is that we're we're slowly starting to switch away right uh the the source of
+learning will will not be me going forward right the source of learning
+
+01:51
+will will be on you because we only have what five more classes left together
+bless all the hunt Tober shenanigans and then you're on the job by yourself
+and when you're on the job by yourself you're going to join day one and they're
+going to use a tool or technology that you have never heard of
+right a tool of technology that we did not cover in this boot camp or sorry
+this experience all right and you're gonna have to be able to figure it out
+and work through it on your own so react
+is one of those topics that I'm going to
+introduce the basics the why the how but a lot of the heavy lifting is going to
+be put on you to go deep with the materials that I'm sharing and to work
+together next week to go even deeper so I'm I'm slowly slowly fading away y'all
+
+01:52
+slowly slowly fading away and and and hoping that you right that you that you
+understand that that is an attempt to to ease your transition uh when you get on
+the job all right October is upon us uh remember that
+everything is due on Tuesday if you weren't able to meet the deadlines
+before that's okay get it in on Tuesday uh we're gonna have some fun events
+starting to happen before October officially starts uh but I need your
+materials in by Tuesday uh that means you should have been checking in for
+every class you should have all the homework done and up to date you should
+be doing you should have been doing your networking uh you've been pushing your
+your your code Wars every day and remember I'm asking you to each week do
+some prep for hunttober specifically with methods
+right specifically with methods so that when we are focusing on how to interview
+
+01:53
+and we're focusing on how to get through technical interviews I know that we're
+all kind of at a base level meaning that I don't have to worry that you haven't
+seen these methods before we'll still go over the harder ones but I'm I'm
+expecting you to come into October having seen and played with these
+methods uh explored them understand what they do how they work and that way we
+can put them into practice during our month together hey blah me too
+all right the other big one Tuesday your client signature your approved PR
+whatever it may be you're submitting also due Tuesday your 100 hours project
+beautiful MVP do Tuesday it's been a blast seeing all of them on Twitter it's
+been wild some of you really kind of knocked it out the park it's been really
+cool to see all the MVPs come in you're not even done yet you're not even
+
+01:54
+not even fully done all right uh thank you for sharing them
+I I definitely is definitely was really uh really pumped to see all the hard
+work you all been doing gearing up for October all the hard work you're doing
+as you come across the finish line of program and so uh thank you for sharing
+and thank you for putting in that work right
+all right at this this community is only possible because of the hard work that
+you put in to do all this stuff uh and it shows folks are getting amazing
+opportunities folks are learning you're learning in community which is even
+better and so uh shout out to everyone that's still here shout out to everyone
+that's putting in the work I love to see it

@@ -1,0 +1,2523 @@
+
+00:00
+hey yo hey good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well what's going on
+everybody how y'all doing you already get this bag let's go
+what's going on everybody welcome back welcome back
+hope you all are doing well doing well excited you're here by and far
+my favorite class my favorite thing to to to share with you all
+is how to freelance and so tonight i'm pulling out everything i
+
+00:01
+know all of the the things i've learned over 10 years have been in this game
+that will hopefully help you land a paid client utilizing the skills
+that you already have right now you know some html you know some css you can get
+a paid client you can start your freelancing journey so we're going to
+get into all of that this evening you know how we like to do though going
+to start off with some questions so the question of the day is we saw the
+the the new trailer new pokemon main series game so i gotta
+ask you a really important question what is the best pokemon starter grass fire
+water electric what are you feeling what are you feeling a scene in chat
+a lot of fire a lot of fire a little bit of water a few grass here and there
+
+00:02
+and a few a few folks with the electric [Laughter]
+the the new starters just got revealed uh the the fire starter looks a little
+derpy like i like um the water starter looks like what is the other one ducklit
+and then the the the grass cat i don't know i love my grass starters but
+i don't know we'll see we'll see wait until the evolutions come out
+no clue i love it i've never played pokemon i don't get it i i feel that's
+all right it's cool all right we got we got a good mix i
+i'm always grass i'll be grass until the the day i'm done uh started off a
+bulbasaur never looked back alrighty all right cool
+well thank you uh before we jump in while we let folks get in here uh what
+questions you got from me i want to start off with a few questions
+let folks get in here i know folks are running home from work and things like
+that so let's go ahead and get those questions in while we give folks a few
+
+00:03
+seconds to get in here what's your favorite food vegan pho
+sorry two weeks late finally caught out the watch class live hey welcome
+thank you civic i'm still tricked by functions that's all right
+you come you come on sunday on sunday we're going to review a lot of html a
+lot of css we're also going to get some javascript review in too so if you want
+to see some cool layouts and then actually use javascript for real like
+take javascript and do real stuff with it
+come on sunday we're going to go through it oh that's a good one well yeah i'm
+scared to freelance no need to be scared
+we're going to go over all the big stuff tonight don't worry about it
+indifferent hey thank you for the gift it subs i appreciate you thank you for
+
+00:04
+being here hope you're doing well don't worry we're going to make
+everything make a little bit of sense you're going to have time to ask lots of
+questions at the end of tonight's class so if there are things that still don't
+make sense we're going to do kind of like a normal question and answer like
+we normally do but the end of class so as we're going through all this
+freelancing stuff if there's stuff that you're still scared about things that
+don't make sense we have plenty of time to work on that stuff
+somebody said what is my favorite freelancing project um well before i get
+to that do we have enough knowledge to land a paying client yes
+already you have enough information to land a paid client
+so for folks that don't know i'm going to bring this up a little bit we get
+further in uh i run a boot camp during the day right my
+day job is running another boot camp called resilient coders
+and in that boot camp we have folks in the sixth week of
+
+00:05
+program get a paid client so they learned html they learn css and just a
+little bit of javascript and then in week six they have to get a paid client
+in the five years that i have been in charge of program
+for that boot camp we have never had someone not get a client
+let that sink in for a second in six weeks five weeks technically because in the
+six week they have to get the client right all right in the in the in the
+in the sixth week after five weeks of just html css and javascript in five
+years hundreds of people we have never ever not had someone get a paid client
+because you all you need is html all you need is a little bit of css and all you
+need is the tips and tricks we're about to cover tonight so if you have any
+interest in getting paid with the skills that you already have
+landing freelancing clients tonight's the night
+
+00:06
+right we're gonna go through everything i got to help you land those first few
+clients and we have to realize like the reason why
+right the reason why this all started the reason why 100 devs is even a thing
+is because folks were struggling still are due to the
+pandemic and we wanted to see if there was a way to get them the skills that
+would help them get new jobs and to put food on the table in the meantime this
+is the way you do that right the freelancing helps you
+to be able to between now and getting a job have some money coming in but also
+to help you get that job in the long run the
+freelancing is not just a money play it is a getting a job play and we're going
+to break all that down this evening so we're going to start from the beginnings
+here's the agenda we're going to go through tonight we are going to we go
+we are going to go through what is freelancing
+we're going to talk about setting up your online presence to enable you to
+
+00:07
+freelance to find those clients we're gonna talk about finding actual clients
+i don't care if you're in the us if you're remote if you're in the middle of
+nowhere it doesn't matter we're gonna talk about different strategies for
+everyone to find clients we're gonna talk about proposals with real examples
+i'm going to give you examples of the proposals so if you watch this class you
+can literally copy and paste proposals copy and paste contracts copy and paste
+templates copy and paste uh call like like uh
+like pitches like we have everything it's all here in this class we're gonna
+talk about how to deliver for your client how to manage that relationship
+and then we're gonna talk about reinvesting in
+continuing to grow your freelancing empire and at the end we're going to
+leave lots of room for questions so as we work through it lots of things are
+going to come up lots of concerns are going to come up we'll share a slider
+link in a few minutes go ahead and put your questions in that
+slider link that i'll share in a few minutes and then at the end we'll go
+
+00:08
+through the top rated questions and make
+sure everybody feels good and this won't be our only time that we talk about
+freelancing it's gonna come up over and over again because you owe me a
+freelancing client if you're participating in this boot
+camp you all owe me to get a paid client it's one of the first big deliverables
+you have at the end of this month you need a signed contract
+at the end of this month you'll be assigned contract you don't have to have
+the project done most projects take two to four months to complete but i need a
+contract and i need it signed all right let's get into it
+you haven't checked in yet if you haven't checked in yet go ahead
+and check in for me go ahead and uh like and retweet please let more folks find
+this wonderful community let more folks so many folks right now need
+a little bit extra money coming in so many folks right now
+
+00:09
+need a second source of of ways to to to
+put more food on the table so many folks right now
+need that belief in themselves that they
+can do the things they need to do and to provide for their family so let's make
+it so that more folks can find us and get those skills and have that
+confidence in themselves to be able to do things that they do and so please
+like you tweet the more folks can find us cool next
+tuesday we have a networking event so uh we'll be doing our study community
+networking event uh we're gonna be having some other networking events if
+you're not part of a study community yet don't worry so just know put on your
+calendars a lot of folks ask for some heads up for the networking nights next
+tuesday networking night we're going to talk a lot about freelancing skills
+tonight guess what we're going to be talking a
+lot about how to talk to clients we're gonna be talking a lot about how to get
+someone to go from a cold call to giving you money and then you're like leon
+
+00:10
+where do i practice that where where do i where can i where can i talk with
+someone to work through those those ideas those concepts well guess what
+next week we'll be doing some networking and we're going to be a little bit of
+practice for our freelancing as well so next week keep it on your calendars
+please submitting work uh you all have been tasked with reading
+through javascript.info and at the end of some of the
+javascript.info chapters there is some tasks so tonight for homework i want you
+to submit those tasks you can either submit the code you can submit a
+screenshot it doesn't matter whatever you can do to show that you did the task
+that's what i want right so you can go ahead and um
+you can go ahead and just put it in a code pen you can put it in a um
+a screenshot of what you did i don't care just show me that you did it
+
+00:11
+yep there should only been one or technically two but yeah just the one is fine
+cool how do we submit the screenshot you have
+to upload it to some sort of image um re-hosting site
+slim thug hey thank you for the fire that subs hope you're doing well
+thanks for being here cool alrighty next he wants to be fancy
+who wants to who wants to to show up on discord and everyone sees you everyone
+you stand out amongst the crowd people see you typing in discord and they go
+ooh who's that right well tonight's your chance to be fancy uh if you clip
+
+00:12
+something of the stream uh after class i am going to have a thread where
+you can share your clip best clip gets a fancy color on discord
+you will be the envy of all of your friends we're only doing one a stream
+two one a class right so you're talking about if we only have 60 classes you'll
+be one of 60 out of 27 plus thousand right
+so figure out how to clip during one of our breaks and whoever has the best clip
+posted in the thread you get the fancy color
+now leon why why are you doing this it's not an engagement play i promise not
+engagement play i want to start sharing a lot of short form
+content uh right now i just looking at where eyeballs are
+folks that are getting into tech that are getting into
+uh learning how to code they're not investing as much as they used to in
+three hour javascript classes right they
+
+00:13
+are looking for short form content to to see if this could be right for them and
+we got a lot of fun stuff to share with them that might get them excited to then
+come and join us live and invest in a longer form boot camp and so i want to
+take some of the better moments from class the things that are really
+educational the things that are really funny and share that as short form
+content and one way you can help me is by clipping the fun stuff we do right
+here all right and so i'm going to be taking these clips i'm going to be
+turning them into short form content sharing them across other socials so yeah
+best clip get special color on discord alrighty tonight we are talking
+about a lot of stuff we are talking about money contracts
+we're talking about entering into legal agreements
+and what i really need you all to understand is that i am not a lawyer
+
+00:14
+i am not a tax professional i am not a cpa i would rate my level of kind of
+understanding this stuff and where i get
+my major source of understanding is bird
+law and this really isn't bird law right so what you have to realize all right
+this is just my ramblings as someone that has done this for the
+past 10 plus years right you have to realize i'm not a lawyer i'm
+not a cpa i'm not a tax professional as you freelance things might come up
+you might get into a quandary you might get stuck somewhere i'm not the person
+to come to you want to seek out professional help if those things do arise so
+before we jump in tonight before we start talking about
+how to get paid clients how to freelance i really want to make sure that you
+
+00:15
+understand i am not a lawyer and none of this is legal advice i say that again
+i am not a lawyer and none of this is legal advice hold on one second one second
+all right i am not a lawyer and none of this is legal advice some
+folks some folks like it when i'm bigger i am not a lawyer
+and none of this is legal advice alrighty beautiful i am not a tax professional
+and none of this is tax or financial advice and one more time i am not a tax
+professional and none of this is tax or financial advice
+
+00:16
+this is simply the ramblings of someone who has done some of this stuff before
+and i think i've done a decent job at it
+i think everything you could have [&nbsp;__&nbsp;]
+up when it comes to freelancing i have [&nbsp;__&nbsp;] it up i've i've
+absolutely made all the mistakes that are out there to be made and
+i'm trying to synthesize the things that have helped save my butt
+and the butts of my students in the past but understand the only reason i'm able
+to do that is because i've probably messed it all up before so i hope
+tonight you get excited about freelancing i hope you get excited about um
+having this new avenue of expression to to work with others to build really cool
+stuff but realize that it's a journey right i'm synthesizing my journey my
+
+00:17
+perspective in an attempt to help you cool a big
+disclaimer is that this is going to be my perspective and so that's going to
+heavily skew to the us and the uk most of my contracting has happened in
+the u.s and the uk not that these skills won't be
+applicable to everyone i really do think the things we share tonight really
+doesn't matter where you're located doesn't matter where you're coming from
+you can do the stuff we're going to talk
+about tonight i just want to put that as
+a disclaimer i'm from the u.s i know the things that have been tricky in the u.s
+but i might not know the very specific intricacies of contract work in your
+country or your location right so that's something to keep in mind
+last cohort we had students from all over the world we had students in india
+get clients we had students in brazil get clients we had students in the uk
+get clients we had students in poland clients we had students in all these
+different countries that got clients i'm just letting you know tonight my
+perspective is that as someone that's only really ever done client work in the
+
+00:18
+us and the uk cool now the why why do i like to introduce freelancing so
+early and why do i like to make sure that all of my students freelance
+i have two major reasons why freelancing is such a big component of all the boot
+camps that i run uh one is about money and the other is about
+experience i shared the the money issue before but i'm going to just
+reiterate it because i think it's it's important it really does
+highlight why i do this so for me um when i was in university i moved off campus
+and i would often spend the summers working in labs or
+trying to get an extra study in and there came a point where i ran out of
+
+00:19
+money i didn't even have money for food i started asking around to get help
+nobody could help and i was hungry so what i decided to do was to see
+if someone would pay me for the skills that i had i had been building websites
+web applications i had always had an interest in entrepreneurship i had always
+wanted to build stuff and i had been doing that i had had smaller projects
+that i had launched but i really just had html and css skills there was
+nothing really fancy beyond that and so for me i was like wait a minute
+um let me see if someone will pay me for the html and css skills that i have i
+went on craigslist i posted hey i'll build your website web application i am
+in the city that i was in and literally that day someone got back to me said yes
+i need something built they paid a deposit and i skipped my
+whole way to the grocery store to buy pasta and pasta sauce and i ate
+
+00:20
+handsomely for a very long time that moment changed my life
+like that like if you think about like if i think about my life that that was it
+in that moment i knew that i had a skill
+that no one would ever take away from me
+i had a skill that when i needed to turn it on would put food on the table would
+make sure that i could live my life and it it clicked something clicked my
+brain that tech could be an equalizer it could be a way if i if i honed those
+skills to not only get paid but to have a very different life and i had a
+phenomenal life since that moment right went on to raise millions of dollars in
+venture capital i've built some amazing companies i've taught a lot of folks
+tech that have helped them get amazing jobs as well so for me the freelancing
+is something that i want for every single person that ever comes into my
+
+00:21
+classroom i want you to have that belief in yourself
+to be able to get the job done and get paid
+your life is different when you know you don't have to rely on a boss we want to
+rely on somebody else's job when you know you can hustle
+make good money and provide for yourself and your family so to me
+that unlocks something in my brain in my soul in my heart and in my life that i
+want for each and every single one of my students
+and the honest truth is just with the skills you have now
+you can do it just html just css you can do it i've had hundreds of students
+with less skills than you have right now get amazing high paid clients
+i want that for you now like i said at rc their bootcamp run during the day
+
+00:22
+in week six so after just five weeks of learning our students
+in the past five years have never not gotten a paid client within that week so
+tonight i'm teaching you everything that they know everything that the last
+cohort of 100 devs knows to get jobs and sorry to get clients and to do
+it quickly we're going to talk about playing the
+game i'm going to show you how to play the game it's up to you to play it okay
+now the second part the second reason why getting a client
+is so important has nothing to do with just the initial money
+it has to do with the fact that you smell
+every student coming out of a boot camp has a has a has a stench a scent
+and every company you apply to the recruiter the engineering manager they
+
+00:23
+can smell it they can smell that new engineer smell right and that stench
+that smell is what's going to stop you from getting jobs and let me explain why
+when somebody tries to hire an engineer how much do you think it costs to get an
+engineer in the door like to to find an engineer that's going to start working
+for you chat throw it in chat how much do you think it costs to get someone in
+the door and ready to start working that's some pretty good guesses
+it's anywhere from like 10 to 30 000. i work with a lot of companies that
+really do spend that 20 to 30 grand per hire so let's let's just for the sake of
+argument take the higher amount you spent 30k to get someone in the door
+because remember it takes a lot of interviewing time it takes a lot of
+
+00:24
+recruitment time maybe you're paying a recruitment fee maybe you're paying for
+the advertising to get those folks in the door right so let's say 30 grand all
+in to get someone in the door now most engineers take anywhere from
+like three to six months to fully ramp up right most engineers they join a new
+team they start getting some small wins some small tickets completed but like
+really three months to get like up to speed and feeling comfortable on the job
+right sometimes if you have a more complicated team a
+more complicated stack poor documentation that three months can turn
+into like four or five or six but let's say three months so
+you hired an engineer it cost you 30 grand to get them in the door
+and their salary is 100k a year so it's going to take 30 grand to get
+
+00:25
+them in the door 30 grand to get them paid for those first three months
+probably another 10 grand on top of that in terms of like benefits things like
+that and maybe like another 10 grand in terms of like relocation bonuses work
+from home bonuses paying someone on staff to take donate
+their wing like let's say anywhere from like 70 to 80 000
+they get someone in the door and within the first three months to
+figure out if they're a fit 60 to 80 000
+just to figure out if this person can be a good fit for the company
+right to see if they can be an engineer that'll be there for the long haul
+right and the sad thing is if you invest
+all that money they're probably going to stay there for one to two years and
+they're going to jump ship to another company so it is super expensive
+
+00:26
+to get engineers in the door and working and in those first three months you
+might not be really sure if they're fit yet and it might take you that 60k to
+figure it out so now when an engineer comes to the doorstep
+and they don't have anything that proves that they could be a good
+fit that stench is overwhelming that scent is a proxy for
+risk all of us as entry-level engineers are way too risky to hire
+right that scent is risk no company in their right mind can bring
+on an entry-level engineer and risk 60 000 on a hunch on a few coding challenges
+that you did well on maybe one or two interviews that you knocked out the park
+because even if you do that it's still 60k on the line
+
+00:27
+so how do we get rid of this smell how do we take a really good shower how do
+we de-risk ourselves the number one way to do it is to have someone that has
+already employed you if you've already been working for someone else
+the hiring managers the recruiters see that and they go well it worked out with
+those people so probably it'll work out with us
+that's why getting your second or third job is so much easier than getting your
+first engineering role because if you've already worked for
+somebody else for a couple of months a year then that risk that stench is gone
+so freelancing is great we get the bag we get paid
+clients but it's so much more than just the money it's the shower it is the
+getting rid of the stench it is the de-risking of yourself so that more
+
+00:28
+hiring partners more recruiters can say with gusto that you're a good fit you
+should join their company knowing that they're not risking that 60k
+right and the more clients you have the more clients that are willing to be
+references for you the easier it is to get that first job i'm gonna show you
+tonight some folks their portfolios their contracts that took them from
+never having worked in tech to working at some of the biggest companies that we
+all know i'm gonna show you exactly what they did how they did it the messages
+that they sent their portfolios their twitters i'm going to show you
+everything this evening and know that freelancing is not just about getting
+the bag it's also about getting the job that makes sense
+that makes sense why like why freelancing is so important and why i
+
+00:29
+want that for you cool all right now i am going to show you how to play the game
+it is up to you if you want to play it the things i'm going to show you tonight
+i have been called shady for i have been called scammy for
+scummy for i have been called [&nbsp;__&nbsp;] on because what happens
+when you have hundreds of people that have gotten paid clients in five weeks
+when folks that have been doing this for five years haven't is they get a little
+they get a little touchy they get they get a little they get a
+little they get a little hateration in their heart right they get a little jelly
+exactly you get a little salty as i used to say back in the day all right
+
+00:30
+and the things i'm going to show you are going to cut corners
+the things i'm going to show you are going to be what folks that have never
+done this before might consider not the right way
+and my overwhelming response to them is go [&nbsp;__&nbsp;] yourself
+i have helped hundreds of students that need the money
+that need the clients to put food on the table that are in
+the worst of times due to the pandemic this is for them it's not for you i
+don't care about your hot take on templates i don't care about your hot
+take on free hosting i don't care about your hot take on
+stuff that you have no idea what you're talking about you can get out of here
+and you can go [&nbsp;__&nbsp;] yourself all right every time i teach this class
+i get dms i already know i'm getting dms on twitter well leon i don't know about
+
+00:31
+that template thing no you're wrong just just don't just close your eyes
+take out your headphones walk away don't need you what i'm about to talk about
+are things that cut corners but at the end of the day you are still
+going to provide amazing value to your clients
+and you're gonna do what's in their best interest nobody else matters
+right if at the end of the day your clients are happy
+they have the things that they want it that's all that matters
+they can go pound sand exactly so i was going to throw out this disclaimer
+now i'm going to teach you how to play the game it's up to you if you want to
+play it there are going to be some folks out there that want to say uh that
+it might be shady maybe a title unethical
+it might be [&nbsp;__&nbsp;] whatever else they
+can conjure up but they haven't done it and they haven't done it at the scale
+
+00:32
+that we've done it uh at rc or at 100 devs right and so to the haters
+xd thank you for the gift it subs uh to the haters uh please
+uh allow me a a brief reading of the folks that have played the game you ready
+so i i sent out a survey uh to folks that that graduated
+uh and we we had a lot of folks that filled it out
+uh so this reading goes out to all my haters uh and one of the question was if
+you landed a paid client how much were your total contracts worth
+and this is this is to a hundred devs folks that have graduated from the last
+cohort so allow me the reading from last cohort just the folks that
+filled out the survey if you graduated and you're here and you haven't filled
+out the survey i gotta bone the pick with you fill out the survey please
+we need you to fill out the survey so we can we can share this with more folks
+
+00:33
+but a rating a reading okay this is from 100 devs graduates that did the co last
+cohort if you landed a paid client how much were your total contracts worth
+uh please include your local denomination first answer 28 000 so far this year
+200 200 600 1000 canadian dollars 200 800 3 000 pounds 6 400 u.s dollars no
+400 200 8 two hundred one fifty two thousand two
+hundred usd and they made a note that said it was a static website
+two hundred six hundred fifty dollars fifty dollars all right whatever a
+
+00:34
+thousand currently negotiating uh more contracts 250 500 250. 239.96 okay
+two thousand one hundred five hundred one thousand three hundred dollars five
+hundred two fifty eighteen hundred twelve hundred forty one hundred nine
+hundred one thousand two hundred three fifty 1600 1200 300
+it keeps going folks it keeps going and these are all folks from the last
+100 devs cohort exactly jasmine bruh so i'm going to teach you
+how to play the game it's up to you if you want to play
+
+00:35
+but i just read out for the folks that did play but it was worth it to them
+so you want to do 100 devs they said well if you want to do 100 devs here's
+the requirement you owe me a paid contract by the end of
+this month you don't have to have the project done i need the signed contract
+with this side contract the amount must be for 200 us dollars or more
+and it cannot be a close friend or family member member doesn't mean you
+can't use friends or family to negotiate and get somewhere else but 200 or more
+no close friends or family members it could be a friend from three years
+back that the kid that sat behind you in 10th grade math class their fair game
+no close friends no family members 200 u.s whatever that is in your
+denomination now there will be some folks that are not
+able to freelance that this is i'm not calling you out i'm not talking about
+
+00:36
+you um some folks um if this would cause you harm please
+don't do it uh if this would violate your visa please don't do it uh if there
+if taking or entering into a contract is not something you're actually like
+legally able to do please don't do this there will be
+exceptions there'll be other things to do contributing to open source projects
+um working on larger project teams things that volunteering there'll be other
+things that you can do that'll get you most of the same benefits
+but i'm not talking to those individuals i'm talking about the folks that have
+the privilege of being able to do this sign contract end of the month
+it's a beautiful day it's the first of the month you got a full month to do it
+i'm going to show you how you can do it no close friends or family it can be an
+acquaintance now there's going to be a lot of questions that come up as we
+work through how to freelance and so here is the
+
+00:37
+slido for the evening you can do exclamation point ask
+right or you can just go to slider.com and type in that number
+uh at the end of the stream we're going to go through the questions that are on
+the slido please upvote the questions that you
+would want to be answered uh don't put just generic stuff we're going to get
+we're going to cover a lot of material tonight so like don't jump the gun and
+try and ask questions that we'll probably answer as we go through but as
+as things come up if you have questions about them throw them in the slido
+upvote the ones that you care to see answered at the end we will answer them
+together cool we ready we're going to do this thing
+i'll leave the slide up for a second just so folks can grab the number if
+they need it yes please let's go all right all right we're going to jump into
+
+00:38
+what is freelancing and take it from there but one thing i want
+on your brain before we go into this i just read off a lot of numbers
+you saw some that were at the 200 range and you saw some that were in the
+thousands of dollars range the only difference between someone that got 200
+and someone that got a couple thousand was that they asked for a couple thousand
+when it comes to freelancing they're gonna be some folks that
+undervalue themselves and they're gonna be some folks that value themselves
+appropriately that's it that's all there is to it some folks
+know their worth and ask for it and some
+folks have to build up the confidence to get there you right now
+
+00:39
+have skills that no one else has the folks that you're going to be working
+with to build their sites to do this freelancing they're not going to put in
+the time that you put in you're on class 15 hundreds of hours now spent in class
+outside of class homework reading doing building
+no one that's running a business is gonna take those hundred hours to do
+what you just did so they can understand what's going on in the things that
+they're building folks come to me and they say leon what about wix what about
+squarespace what about all these things and my question to you is do you know
+how to use squarespace because if you don't and you're an
+engineer then somebody's running a business won't they're not going to
+spend the time to figure it out so what you have to realize is that as a
+freelancer what people are paying you for is not what you do
+but all the things you had to learn to be able to do the things that you do
+
+00:40
+and they pay you right they pay you for the things
+that you provide business value towards right so remember they're not paying you
+for fingers on keyboard they're paying you for the business value that you
+provide and all the learning and hard work you had to do to get to where you are
+so what the heck is freelancing um i love that this gif because it
+highlights what freelancing really is like in the u.s um
+i think the the number is one in three professionals is a freelancer right 36
+of professionals freelance and that's about 59 million americans
+and so what the heck is it freelancing means you're working as an
+independent person or company rather than being employed by someone else right
+
+00:41
+instead of being employed by a company you're providing value or services to
+another company right and you're working independently
+now there are a lot of other terms when it comes to freelancing and your country
+might have its own terms as well so you might have heard people referring to
+freelancing as self-employed independent
+contractor contract job or contract work or contract role might have heard the
+term consultant or specifically in the u.s 1099.
+these are all terms to mean right right to mean right that you are
+an independent person not being employed but providing value to that company
+now in the us specifically we have two different terms we have w2 and 1099
+folks that are employed by a company they have at the end of the year a form
+
+00:42
+sent to them called a w-2 it shows them the salary they got paid
+all the money that got taken out for taxes right
+an independent contractor at the end of the year will get a 10.99 right it's a
+form in the u.s each country has their own thing so i'm just going to talk
+about the us for right now but each country each country has like
+their own different way of doing it so at the end of the year if you are a
+independent contractor you will receive a 1099
+from a company that highlights how much money you made but they do not do
+anything else when you are a freelancer or an independent contractor
+no taxes are withheld you do not get insurance you get no work extras no 401k
+contributions no no health benefits no contributions to
+retirement right you get none of that stuff but you get the full check
+
+00:43
+and you get to be your own boss and you get to offset or write off some of your
+expenses right right and so it's something to keep in mind that when
+you work for someone as a w-2 you get all those taxes with how to get
+those other perks but you're not your own boss you're not writing off your own
+expenses it's a different beast and so i mentioned this as a huge huge bag
+that if you go this freelancing route your taxes will not be withheld that is on
+you right it is the first thing i must bring up to you remember i'm not a
+lawyer i'm not a tax professional i'm not a cpa but please pay your taxes
+when you work as an independent contractor when you get at 1099 at the
+end of the year no taxes are withheld what most contractors do is when they
+
+00:44
+get a job 30 to 40 percent of that job they put in a savings account right
+at least 30 some people do 40 just to feel a little bit more safe right
+because the company is not taking that money out for you and sending it to the
+government you have to send it yourself and if you wind up freelancing a lot
+you're eventually going to be paying your taxes quarterly in the u.s so
+remember if you are freelancing if you are contracting if you are 1099 whatever
+you want to call it where you are doing work for another company but are not
+currently employed by that company you must set aside some money for your taxes
+cool 30 40 is what most folks do alrighty now tonight
+we're going to talk through all the big things when it comes to
+getting a client we're going to talk about building our online persona and
+i'm going to show you some examples we're going to talk through how to find
+
+00:45
+clients we're going to talk through the proposals that you're going to send to
+those clients we're going to talk about the contracts that you're gonna send to
+those clients we're talking about how to close a client like you you've got
+somebody on the hook how do you seal the deal and talk about delivering that
+value and then reinvesting and building your your empire yeah so
+lots of stuff to get in tonight lots of fun stuff to kind of dip our our toes
+into and what you're going to realize right is that
+it takes a little while to get the momentum going so a lot of this is
+setting ourselves up to win a lot of this stuff has to simmer before you can
+start to generate leads and um a lot of things we're going to talk
+through tonight we're going to get to in more detail even as the cohort goes on
+
+00:46
+cool echo yep always saved alrighty all right let's talk about your online
+persona it's business folks uh there is the the trifecta of your
+online presence uh that you need established if you're going to do
+freelancing in my opinion you want to have a solid portfolio you
+want to have a decent twitter and a decent linked in now when folks
+see this the portfolio the twitter the linkedin they think it has to be
+something um like really intense or well thought like like
+like a meticulous detail no it's actually some stuff that are very simple
+to do you just have to do it the right way so
+the portfolios i'm going to show you tonight are simple but effective the
+twitter i'm going to show you is simple but effective the link that i'm going to
+show you is simple but effective it's not something i need you to run off
+
+00:47
+and spend hours and hours and hours on no we need to set up our baseline
+all right make sure we have the basics covered and then we have to let this
+stuff marinate so when you start your professional presence online
+it's gonna take about six months for all that stuff to really start showing up
+right so you wanna start now no matter if you want to use it down the
+line you want to start now so that over those six months it'll start to
+show up now a lot of folks what i recommend you start off with is using
+your first name last name or your just your name that you identify as as like
+your presence online some folks don't feel comfortable with
+their like personal presence being online and they'll start like an agency
+or some sort of business entity or name that they work under and that's
+something you can do but it's way easier when you use a name or a moniker or
+
+00:48
+something that you can be identified as that works well for your portfolio
+twitter and linkedin right i'm not talking about like setting up an
+llc or anything like that we'll talk about that at the end but just like it's
+a decision you make am i going to work underneath uh a business name or am i
+going to work underneath my own name or the name that identify as right
+the the benefit of working underneath your name is that it's easier to be found
+it is easier to enter into contracts it's easier to kind of get a few leads
+but it's a decision that you'll make is an llc necessary not yet we're going
+to talk about that at the end though cool now let's talk about the trinity here
+we have two examples that i want to show you when it comes to portfolios
+the first portfolio i'm going to show you is our mod extraordinaire blah blah
+
+00:49
+got an amazing thousand dollar contract and then an amazing job if you came to
+the alumni panel uh you heard about the job they landed the amazing salary that
+they locked down uh knowing that they went from kind of no
+technical experience before to a senior role for their first role and it's going
+well so i want to show you blah's portfolio
+and when i was talking to them today the thing they brought up is that right now
+they have too much inbound interest where they're
+literally turning down offers or handing those those like clients off to other
+people and they literally just had somebody
+reach out to them they handed that off to another 100 devs member and that 100
+devs member actually locked down that client
+right so i'm going to show you blah's portfolio first and i want you to keep
+in mind that they got a great client paid a thousand dollars
+they had more clients coming to them that they passed the other folks that
+
+00:50
+then also got those clients they got an amazing job right and let's keep our
+let's keep our mind on that so let's look at blogs first the this is their
+link to their portfolio you can click on it or i'll just type it in
+here's where we are hi my name is barbara i'm a full stack software
+engineer uh please take a look around and right off the bat they can say i
+need a site or i need a dev right they're they're just trying to say like
+what are you looking for you need you need a website built you need a
+developer to join your team uh is your web presence working for you
+right and they kind of give a little pitch about the things that they're able
+to do they show their past work they talk
+about their services they give a little bit about themselves and then the
+ability to connect so very very simple right straight to the point nothing too
+wild out here you don't have to you don't have to really reinvent the
+wheel each time here like it's it's good
+
+00:51
+but you're going to start to notice some things as we move through here [Music]
+spectral salon let's take a look at this what does this look like folks
+what does this look like people are like that's our homework exactly
+their homework but look at it look at the way what they did here this is this
+is expert what they did here this looks like a real salon no one would ever know
+that this was homework right that's what i'm asking you to do when i say make
+something your own make it your own when you do homework
+make it look like a real salon right looks like a real salon you would
+never know say anything about some of their other
+examples too right an artist portfolio a face painting business right they look
+like real sites so even if you don't have clients yet you can build out three
+
+00:52
+sites that are probably just your homework right and add them to your portfolio
+every single person that's been here and
+has done the homework has stuff they can use for their portfolio
+all right now the other thing too is we start to kind of like go down here i
+notice something here we have like a nice contact form
+the beautiful thing is that you're like i'm going to do contact forms i don't
+know how to do email if you use netlify for hosting which
+we're going to talk about in a second which is completely free
+you can literally have a form that you just put the netlify tag on right you
+put netlify on the tag and then that's it that's it you're done
+right netlify and you're done and your forms just work it's literally an
+attribute value pair and then your form works and the and you can you can treat
+it like you can start accepting emails so you're likely i don't know how to do
+forms i'm going to show you it's easy just put netlify on there it's done no
+
+00:53
+php no any of that stuff now the very last thing is you'll see down here hold on
+html5 up hmm interesting it's a template our our fearless leader used a template
+right they did not code this from scratch they used a template right
+you fill in the gaps and you keep moving right because look
+they got a thousand dollar client they had so many people coming to them
+that they literally had to hand off clients to other people they got an
+amazing six-figure job and they did it with the template all right let's take a
+look next person so this is sean uh sean was one of my
+
+00:54
+students at rc and now they've been a tireless mentor at 100 devs and so
+i wanted to keep theirs on there sean went from kind of real no technical
+experience just doing a little bit of learning on their own to now working at
+amazon uh their first client right their first client was for
+fourteen hundred dollars for one thousand four hundred and ninety five dollars
+right so they went from kind of no technical experience a bootcamp
+and then landit an amazing client and a fang offer right let's take a look
+at their portfolio hi i'm sean your next software engineer
+they're not they're not pulling any pulling any stunts here they're saying
+hey i'm your next software engineer hire me today don't delay hire me today
+right and look at their last projects some simple mirn stack stuff that we'll
+do together some fun stuff that they built but nothing here is wild a few
+
+00:55
+sites a few games a few full stack apps and that's it this portfolio
+got them a great paying client and an amazing job offer once again
+what do you think they're using template using a template right
+don't waste your time so many folks when they first think about freelancing
+think they have to do all this crap they think they have to
+have an original design they think that they have to set up an llc they think
+they have to buy a domain they think they have to uh have a business entity
+they think they have to do all the spending all this money to get started
+you can freelance for 100 free if you're spending any money before somebody pays
+
+00:56
+you you have [&nbsp;__&nbsp;] up if you have paid any money
+at all i don't care about hosting i don't care about the mains anything if
+you've paid any money you have messed up that first contract you locked down you
+take that deposit and you can use it do whatever the heck you want
+all right but let's look my favorite thing about this it's changed now
+it's changed now now they're making the big bucks at amazon right so this
+changed but look at their original link to their portfolio let's look at this
+trials.netlify.app what you're telling me you can get a
+over thousand dollar client and an amazing job without even buying a domain name
+
+00:57
+if you're hosting your stuff on netlify not only is it free to host it on
+netlify but you can get this lovely netlify.app and nobody cares nobody cares
+all the stuff that's in your brain saying i have to buy a domain i have to
+buy a beautiful landing page no it just doesn't matter
+all this can be done for free so i wanted to show you these two
+amazing examples because they they took something they made it their own and
+then they focused on the stuff that matters the stuff that matters is
+actually talking with your clients helping to provide value to them
+building that relationship with them all this other stuff you can set up in a
+weekend you can do it for free you have to pay a dime all right all right
+we're at the top of the hour um i want us to take our break and then i'm
+going to tell you the thing that people hate when i share all right we're going
+to i'm going to do it and we're going to they hate it when i share it so we're
+
+00:58
+going to come back to that let's go and take our break
+uh if you're new around here we like to take a break at the top of the hour
+we're in this for the long call we're in this to be software engineers for the
+rest of our career i'm gonna make sure that we're if you're able we're getting
+up we're moving around we're hydrating we're letting our eyes focus on
+something in the distance and we'll be back in five minutes
+so let's go ahead and put five minutes on we're gonna keep looking at some uh
+beautiful stuff when we get back more tips more tricks
+but the the big thing take away here folks
+you start freelancing 100 for free you don't have to pay a dime to do this
+not to pay for hosting not to pay for domains you have to pay for templates
+anything i'm going to show you how to do it when you get back five minutes
+
+00:59
+
+01:00
+
+01:01
+i'll see you soon history do forgot to run ads and run ads for two minutes
+
+01:02
+so folks can join us do yeah nine seconds left on the end alrighty folks
+welcome back alden regat oh no uh so folks that
+weren't here last class i'm running ads during the break because you should be
+taking a break anyway and it stops folks from not being able to join and getting
+
+01:03
+ads or some folks are getting like while
+we're teaching ads so i don't want folks
+to get ads while we're teaching so we're just going to run ads during our breaks
+always a grass type starter thank you rockstar hope you're doing well
+am i required to run ads no i'm not it's like not part of my agreement but which
+will just run them anyway and so folks were getting them while we were teaching
+and that can't happen all right folks come on back come on back
+
+01:04
+let's do this thing alrighty so let's chill the music already so we talked about
+we talked about two portfolios i gave you two examples of folks that
+there's no technical experience before a boot camp right just a little bit of
+learning on their own went from building out a portfolio that
+got them over a thousand dollars each and also both six-figure jobs right so
+those portfolio examples i'm going to show you where you can get similar
+templates in a second the next thing i want to show you are twitters
+there's two people that i think that have done twitter really well that i
+want to highlight one is naya who was one of my rc
+students and now has been a fantastic mentor uh for a hundred devs they did a
+t-spill uh last cohort where they shared everything that they did
+they are the person that has gotten the like highest paid client i've ever seen
+
+01:05
+out the gate and so they shared all the details of how they
+landed a 70 000 client what first client right off the gate uh so i
+wanted to highlight them again because they they destroyed the game
+and so they did two things that i really loved
+uh their twitter changes every once in a while every once in a while like what
+what what they share on their twitter but i love
+their sayings whenever you look at their twitter they do something really well
+uh so the original one they had was your
+inclusive tech leader founder and cto of afros and ai so they branded their
+their agency as afros and ai they label themselves software engineer and black
+tech twitter as like the hashtag of choice right when you come to their
+twitter that's what you see that's what you think they are like that like you
+have no idea who nia is you see that and you're like boss mode right same thing
+they've an earlier one they had with software
+engineer abolitionist community right they put the things in there they care
+
+01:06
+about right even now they change their twitter to earth and code it's the same
+thing they talk their talk they show their strength and i bring this up
+return of the z a thank you i bring this up because
+the way you describe yourself the way you talk about yourself is
+what people are going to believe about you right now nya can talk to talk and
+walk the walk right but so many folks i see when they start their freelancing
+journey still have aspiring in their in their twitter bio i'm an
+aspiring software engineer they have a junior and they're in there and they're
+in their title right no one wants to hire an aspiring software engineer
+no one wants to hire a junior software engineer
+
+01:07
+you're a software engineer you have aspiring if you have a junior take it
+out of your title now no one's going to hire you with that in
+your title talk your talk and then walk that walk right
+so definitely give naya a follow they're an amazing developer um
+and they're a really good example of how to through hard work and really good
+community building will amazing clients and amazing contracts cool
+the other person we can't talk about somebody that's amazing and able to build
+uh great relationships and land amazing clients without talking about sam
+so sam is a hundred devs alumni they're now a developer advocate a material ui
+and they share some of the best right the best right some of the best
+information on how to freelance how to get clients and they have a phenomenal
+
+01:08
+story about how they went from learning the technical skills and immediately
+applying them uh to bring in more money than they were at their
+normal job and so i love the advice that they share and they've
+helped a lot of other 100 devs folks make more money
+get better clients get bigger contracts and so that's why they have their own
+hashtag sorry their own their own command here in chat you can do
+exclamation point sam and get their link as well but definitely give nai and sam
+a follow they're two people that i know have done the best at
+taking the raw skills they have and translating it into clients and their
+twitter is something that you'd want to model as well now
+we're going to talk about how to build those relationships as we kind of
+continue on but the reason why a portfolio and twitter are so important
+is because twitter ranks really high so if you are trying to get like the the
+
+01:09
+the above the fold on google stacked with your name or your agency name
+twitter is that thing that's going to help boost in the search engine results
+and so some folks don't feel too comfortable
+twitter but you got to get comfortable with it because it will help any of your
+other stuff rank a little bit higher right so that's why i push twitter
+last is linkedin when folks are trying to evaluate if
+they're going to work with you to build their like products they're
+typically going to google you and hopefully they find your portfolio
+they find your twitter and then a lot of folks will look for your linkedin and a
+lot of folks kind of freak out about their linkedin
+so i'm going to show you a linkedin of someone that's gotten good clients but
+also has gotten a great job uh so andy is one of my past students and
+um i just want to show you their linkedin and i have permission to share
+all this stuff like i'm not putting people on blast i asked the permissions
+
+01:10
+when i first did the the cohort uh so here's andy's linkedin
+and i they're they're an engineer at draftkings
+and i want to show just kind of their their basic activity they have their
+experience as an associate software engineer they have their experience at a
+boot camp and they have the thing they did before that's it
+three things you're gonna see this pattern come up over and over again of three
+things i don't care what you've done in the past i don't care what you're going
+to do in the future you really only need three
+things all right so you saw one thing from their past their boot camp and
+where they're at now if we go back and we look at at sean's examples right if
+we look at sean's resume you're gonna see this pattern of three show up again
+they have what they did in the past they have uh what they're doing now and
+
+01:11
+their boot camp experience right and so what you're going to have happen
+is that i'm going to share eventually resume templates right and
+other templates as we kind of go on we're always going to have this like
+rule of three where you're going to talk about something you've done in the past
+and talk about your boot camp experience
+and until you get a job your third thing is your freelance experience
+right you're going to talk about a past job your current your current experience
+right and then your freelance experience and so we're going to put that on our
+resume we're going to put that on our linkedin and the way we talk about it
+right the way we talk about it is we talk about your past experience framing it
+framing it as something that's going to lead you to tech you talk about your
+boot camp experience not as a boot camp we never put those words anywhere on our
+resume our linkedin our portfolio we talk about 100 devs as an agency
+
+01:12
+and if folk give you pushback you say the agency has a training program and
+that's what you're all in right you're you're all in 100 devs academy right
+you're in the training program of the agency and then you have your own
+freelancing whatever you want to call it
+first name last name consulting whatever you want to call it those are the three
+things that you're going to put on your resume you're going to put them on your
+linkedin you're going to put them on your portfolio and you don't have to
+stress about other stuff if you want to fill in more stuff you have a longer
+work history that's okay but a lot of folks are coming to us with maybe a
+shorter work history or some gaps and so those three things
+are what fill the gaps and your freelancing is smaller or larger
+depending on the gaps that you have to fill if you haven't worked for the past
+year do the pandemic it's the best time ever to say oh i was freelancing for
+that past year if you have a larger gap well guess what you are freelancing
+during that gap and then you're going to get clients that are references that
+
+01:13
+help you get past that smell and help explain that gap now as we start to work
+in the future i'm going to give you resume templates
+i'm going to give you linkedin templates i'm going to give you all this stuff
+it's going to make it easier to build out those presences in terms of gearing
+for a job but this week for your homework i'm going to
+ask you to build out your portfolio and actually build out your twitter i'm
+going to ask you to build out your linkedin you're going to keep it simple
+just enough that when you're talking to a client and they google you or they
+look at you on linkedin or they look at you on twitter they see something and
+they go oh okay i can talk to this person that's all we're working about that's
+all we're worried about for right now in the future we'll build more stuff we'll
+do more stuff etc now some folks are currently working
+somewhere great that's one of your three right you're gonna have wherever you're
+
+01:14
+currently working and then either 100 devs or you're freelancing but keep it
+simple nothing too wild cool now the thing that i get the most hate for
+the thing that um i know i got a dm already for like i
+just i just whenever i talk about this especially we got so many people here i
+just don't have a dm about it and there'll be some person that's gonna be
+like well i don't know about this go [&nbsp;__&nbsp;] yourself all right so
+here you go are you a developer true are you a designer probably not some of
+you are though right so if you're a designer equals true then
+you should go ahead and design your portfolio
+but if you're not a designer or designer is set to false you should use a
+template okay so are you a designer if so go ahead and
+
+01:15
+design the portfolio of your dreams but if you're not a designer get out get
+over it use a template and here's the other thing too
+if you're not a designer and you're working for a client use a template
+for your clients huh i gotta get bigger if you are not a designer
+use a template for yourself and use a template for your clients remember
+your job is to provide value to your clients
+they are going to appreciate the cost savings that you provide to them by
+using a template if they had to pay for a designer to
+design something and then for you to build it that cost real money
+so by using a template they wind up with something very professional
+
+01:16
+something that helps them accomplish their business goals it saves them money
+and it's easier for you that is a win-win win we all agree all right
+can we tell them that that's up to you some folks come off the cuff i use
+templates it saves you money some folks don't tell their clients to use
+templates and they go that's kind of up to you that's your move that's what i
+said i'm going to show you how to play the game
+it's up to you how you want to play and how you want to play it
+some folks don't snitch on themselves some folks snitch on themselves it's up
+to you how smooth a talker are you will your client care will your client
+even know what the heck you're talking about right
+can i share something that i that i'm allowed to tell you lawless client
+
+01:17
+wanted a wix website let's sink in for a second thousand dollar client
+wanted it done on wix all right you want it done on wix i'm
+happy to do it do you know how to use wix the client will say no great i will
+build you the site of your dreams on wix it's going to cost a thousand dollars
+right that's that's how the conversation went
+right remember it's about the value you provide not the tools you use
+alrighty now i've shown some templates uh the place i like to start with
+templates right the place i want to start with templates is html5 up
+um they're completely free and from what i could find uh they're just not shady
+uh a lot of these places where you download free templates it's always
+
+01:18
+weird stuff weird ads i don't know it's a hot mess
+but html5 up from what i can see and what i've used are
+pretty good templates just regular html nothing more wild than html and css
+right completely free to use and no shady stuff and um
+you'll notice as you look through html5 up i think we broke it oh great
+as you look through it you'll start to notice some stuff wait a minute oh
+this editorial template that looks pretty similar and if we keep scrolling
+let's see where's the other oh this photon template looks kind of similar
+i don't know we gave it the old 100 devs hug of death
+that's all right it'll come back up when we're done all right so
+
+01:19
+html5 up completely free easy to use free to download has helped
+lots of folks get high paying clients why would you use anything else
+right why would you use anything else well after you get your first client right
+after you get your first client you want to reinvest right you want to reinvest
+and so after your first client you might move on to some more
+advanced templates that are a little bit closer to the niche or the the the job
+that you're trying to do and you might look at things like rap bootstrap or
+theme forest these are like pretty popular places to get templates there
+are so many other places to get templates but the idea here is you don't
+do this on your first your first rodeo right after you get
+some money coming in the door you can always upgrade but the idea here is that
+
+01:20
+you can do it for free cool hosting you can do it for free
+netlify.com drop is the easiest hosting you will ever find
+you literally take your folder and drag it to the browser window and it
+is hosted you can then change the domain to whatever you want it to be
+at netlify.app right 100 free i have so many clients and i know so many of my
+students have their clients solely on netlify entirely for free
+because for most of the client you're working with early on you're talking
+more like mom and pop businesses lower traffic where it just
+it just doesn't just doesn't matter right how much traffic they're going to
+
+01:21
+get they're just not going to get a lot right and so netlify is completely free
+you get a netlify app if you want and then if they want to get a domain you
+charge them for like you put that in part of your proposal right
+this works everywhere yeah um it should work for pretty much everyone it's
+completely free hosting it's super easy to host stuff you literally drag your
+folder into the browser and it's hosted that's it
+that's it you're done right so you don't have to worry about hosting you don't
+have to worry about templates it's all free
+how do how is it free how do they make a profit well it's very cheap to host
+static sites and by static we just mean like html css a little bit of javascript
+now that's kind of trivial to host it's very little money but they want you to
+integrate netlify as your development tool right so um now that i build bigger
+sites with beefier front ends i still use netlify i got got they hooked me
+with free stuff that i use for myself and all my clients but as i want more
+
+01:22
+featureful stuff i want bigger stuff i want other stuff then you pay a little
+bit right but the idea here is that you don't
+you have to pay out the gate just works it's free it's easy to use uh yeah
+but it's not but it's it's very like i don't want to like say that people like
+oh like i'm gonna no it's just that there are other services that they
+provide and once you're already in the ecosystem it's just easy to use those
+other services too juicy said do we need to write
+server-side stuff for these basic websites that's up to you and your
+client a lot of the first clients you'll probably work with won't have back ends
+and if you do get with a client that wants a back-end we're going to talk
+about how to handle that in a bit domains uh i showed you someone that got
+
+01:23
+that got an amazing high paying client a job at a fang company and they just use
+netlify.app so you don't need anything other than netlify.app for yourself
+a lot of times your clients will want to put their site on their own domain
+right and so what i'll typically do is i'll have them buy a domain on one of
+these two registrars or if you want your own domain you can buy it on these two
+registrars i love namecheap i've been a namecheap
+customer for 10 years now plus probably um they have always had amazing support
+whenever something's been a problem um they they have helped me they've gone
+out of their way um they they do all they do the most right they do the most
+in the best way possible and they've just been a phenomenal host right so a
+phenomenal domain host provider right um
+and so for me i use namecheap for all my domains
+
+01:24
+now sometimes uh namecheap doesn't have uh like the special tlds like the really
+weird endings like not.com.org but like the weird ones and when i want a weird
+one that namecheap doesn't have i use i want my name right so name cheap and i
+want my name are pretty much what i use for all my domains you don't really look
+anywhere else um i love namecheap uh an interesting and i do it for right now
+like 70 of their employees are from ukraine and so right now they're getting
+a lot of like namecheap is doing right by their
+employees which i always love to see and so if you're interested in
+supporting a company that employs ukrainians like that's just another value add
+for namecheap right now cool articus hey thank you for the hydration
+
+01:25
+cheers to you what about godaddy no just know godaddy is a horrible company
+with horrible support the most misogynistic commercials i've ever seen
+like no just stop godaddy is the papa john's of the domain
+world exactly godaddy is the papa john's of the uh domain world and normally i'm
+pretty like i don't i don't like to make i don't like to say stuff like that on
+stream but no they they deserve no just don't use godaddy namecheap is amazing i
+want my name is amazing and just don't like this is like one of the things where
+it's like just take my advice on these two please um there's so many other
+domain providers that that are out there i've used them all like i've used a lot
+of them and i just constantly come back to these two because it just they just
+work they get out of your way they have great support a lot of the other domains
+are kind of owned by like two or three big companies and so even if you think
+like they're separate they're not namecheap is now kind of part of one of
+
+01:26
+those but yeah just just don't go you won't go wrong using these two cool
+and none of these are like just to put out there none of these are like none of
+these links are like scammy like none of these are like referral links or
+anything like that like i would never use those without like yeah i would just
+never use those so these are just like my actual opinions there's no like
+referral link or anything happening there cool
+all right so now we've talked about how to
+set up your online presence you now have
+a decent portfolio that's using a domain for free hosting for free templates for
+free you set up a twitter that has a great intro that explains that you are a
+software engineer not aspiring not junior you got rid of all that stuff
+during the break and you have a linkedin that's just simple you're keeping it to
+three things so that way all that stuff can start to marinate
+right all stuff can start to marinate and when folks eventually look for you
+
+01:27
+online they find those things so now we're gonna talk about finding clients
+this is the part where folks get a little a little scared a little a little a
+little shooketh but it's not it's not wild i'm going to
+give you a process uh that has worked for all of my students and we're going
+to go through it together cool when you're looking for clients right start close
+tell your friends tell your family and post on social media all your social
+medias even if you gotta dust off the facebook and post for the first time in
+three years put everything out there you will be surprised when you talk to
+your friends that somebody from your your your third grade soccer team
+there they now run a barber shop and they need a website right
+tell your family you never know your brothers cousins uncles best friends
+
+01:28
+twice removed they they they're starting a new coffee company
+and they need a new website the more you put out there to your
+friends and your family and honestly explain to them what you do hey i'm a
+software engineer i build websites and web applications for different clients
+if you ever know someone that needs a website or web application send them my
+way it's that simple but tell all your friends tell all your family
+you will be surprised who comes out of the woodwork
+to say oh i heard from so and so that you do websites or web applications i
+need help right put it on your xanga put on your aim away message exactly
+whatever whatever you got put it out there
+right by telling your friends and family
+you will be surprised i i say this every
+single time i teach this class and i get all these messages leon somebody twice
+removed from church his best friend's brother they they want me to build
+
+01:29
+something and they get the client so please tell your friends tell your
+family and then share it on the social media that you have and you will be
+surprised what comes to you that's the first place you're going to get clients
+right now the next thing you want to start doing is going local
+right all of you are networking locally right the idea is that
+you try going local first and then if locals not
+the bee's knees you go to the closest metro area
+is the same thing for freelancing the being local
+is the biggest advantage you will ever have when it comes to freelancing
+we're going to talk about ways for folks that live in the middle of nowhere that
+don't have a local area to to network with or to get clients from we're going
+to talk about how to do that but you have to understand for folks
+
+01:30
+that do have the ability to be local that is your biggest
+advantage and so you want to make sure that as you are networking you are
+introducing yourself appropriately when you're going to these meetups
+you're going to these events right and you introduce yourself you say hey i am
+so and so i am a software engineer and i build websites and web applications for
+clients in the and then you say wherever you're from so i would say hi i'm leon
+i'm a software engineer i build websites and web applications for clients in the
+la area i do that to every single person i meet southpaw said what
+if i don't want my current employer to know we are doing this don't tell them
+they don't know what meetups you're going to they don't know where you're
+where you're going you might be a little bit safer on your social media um but
+that's that's up to you i'm going to show you how to play the game and what's
+
+01:31
+up to you you want to play and how you're going to play it right
+so um the the joke that people always give when i when i when i mention this
+is that if you ever watch the office there's one character that does this
+amazingly well it's bob vance bob vance vance refrigeration throughout
+the entire show bob always introduces himself as bob
+vance vance refrigeration you will never meet bob vance from vance's
+refrigeration and not know what they do it seems funny
+but it works every single person that has ever watched the office knows who's
+bob vance is and they know what they do who like if you think about any other tv
+characters do you know what their profession is like off the rip
+this is like a secondary a minor character in a show and we all remember
+what the profession is because that idea works and so when you're going to these
+meetups bob's burgers exactly when you go to these meetups
+it it sounds a little silly at first but hey i'm leon nice to meet you i'm a
+
+01:32
+software engineer i build websites and web applications for clients in the la
+area uh how are you doing what do you what are you why did you come here
+tonight right like it's it seems a little odd at first but the more you do
+it the easier it becomes and then every single person you meet you build that
+relationship with knows what the heck you do and you're local to start right
+you're local to start and so as you're networking you're meeting
+these folks locally start telling them what you do and maybe off the rip with
+the the introductions a little bit hard but maybe try and let folks know
+throughout the conversations now you've told your friends you've told
+your families you've put it out there on social as you're networking you're
+letting folks know what you do that's like how like 70 of my of my students
+get clients like off the rip 70 friends family um
+social media and networking that's like 70
+
+01:33
+of how folks get clients it just works right next is listings using local
+listings so local listings are things like craigslist
+facebook marketplace facebook groups next door your local chamber of commerce
+right any of these places that are local now a lot of them are crap
+like a lot of them just don't work or there's a lot of weird stuff that
+happens on them but a lot of my students still get amazing clients heck i even
+get amazing clients from things like craigslist like you you're like what
+it's not gonna be your main vertical it's not gonna be the main way you get
+clients but it's worth it to check once a week and to post once a week if you're
+able that hey i'm a local software engineer you put in big bright letters i
+am local i will meet you at and you insert the famous hot dog site i would
+
+01:34
+love to talk to you about your web development needs right remember remember
+the the local thing is your shtick when folks are putting stuff on these
+listings or putting it out there they're going to get inundated with like
+hundreds of messages of folks that are not local you have to infuse the
+localness in the way you talk the lingo that you use and the messages that you
+send right so if you are talking to someone you say like hey i'm a local to
+nashville let's go to this wonderful hot dog psych and talk about your project
+right you got to infuse that locality to help you stand out we're going to talk
+about other folks that are not local we're going to talk about in a second
+but local is your value ad it is the thing that will help you stand out from
+the onslaught of other folks that are reaching out on these listings now
+you've done friends you've done family you've done social you've done told
+every single person you've been networking with remember you're
+
+01:35
+networking every week you owe me three coffee chats i'm sorry three network
+connections and two coffee chats a week that's a lot of folks that now know you
+are a freelancer and it compounds the more you network
+the more people that know the more people that are willing to
+come your way you're now putting out on all these listings you're talking to
+folks on facebook marketplace you're talking in facebook groups that are
+local to you you're doing all these things you now have like a strong face
+the next step is to talk to places that you know right the places that you go to
+right your barber the nail salon the hair salon the
+restaurants right look at the places that you know
+is there something that they don't have about their web presence do they have a
+web presence right help them right you know them you know they're
+they're they're offering best talk to them
+
+01:36
+right a lot of my students first clients are their barbers a lot of my first
+students are the restaurant that they've been going to since they were little
+that doesn't have a website right now a lot of these local places
+are hurting uh folks want digital when the when kovitt hit like the people went
+digital and so if they haven't kept up with that wave they're missing out on a
+lot of clients they're missing out on a lot of opportunities you could provide
+them tremendous value by helping them modernize or making whatever they did
+sign up with during the pandemic actually work better right
+and so you've now told friends family you you've put on social you've been
+networking and telling everyone you've done the listings you talk to the places
+you know the next thing is to be outbound pick a niche and go for it so
+
+01:37
+uh when i used to teach in the classroom and rc
+we would do we call it we call this process hustle week so they have you
+have five weeks of instruction and then your six week we have off and all you do
+is get a client right hundreds of folks in that week you've gotten a client
+but every once in a while we have some students that struggle
+and so one of the very first times i did this we had a small group of folks that
+were struggling and so i said hey let's get a client together today and
+that's what we did we did a three-step process that got us two
+clients in one day let me say again two clients one day so in the morning
+we picked a niche we said we're we were located in boston he said all right
+what's that what's your niche what what what can we help folks with like who can
+we provide value and what are there a lot of and so our answer was restaurants
+we said all right well restaurants right now are having to modernize they're
+having to go online they need digital menus they need ability for folks to
+
+01:38
+order right they're getting if they're competitors on uber and they're not
+they're they're getting disrupted right and so we're like we could probably
+provide a lot of value to restaurants and help them modernize and come online
+and so we said all right we're gonna go at restaurants and for two hours
+all me me and my students that were doing this process with me we compiled a
+list of every single restaurant in boston it only took us like two hours to
+put it up against all of us we found all the restaurants in boston and uh
+mecca pre hey 609 thank you so much for the 10 gifts it subs that's wild
+thank you so much thank you for being here appreciate you
+all right we take we made a list of all the restaurants and so i'm going to
+share a list of restaurants all this is public info but don't be like a weirdo
+and start calling people or anything like that these are all restaurants that
+um were in boston and we found them and we put we
+
+01:39
+found their their business name right and then we said do they have a website
+and is it shitty i should probably need to change that uh
+so we just we just found all these we found all these places and we split it
+up by different people right so there's different different people for different
+different restaurants right but we found all these restaurants we said do they
+have a website and is it bad and then we dialed for dollars
+right we said all right we have all these restaurants we found them all
+we're gonna start calling and our goal is if they don't have a
+website to get them a website and they have a bad website to get them a better
+one right and so we we start dialing for dollars
+and um you'll notice we kind of have like three different color combinations
+uh red was uh they didn't answer or they
+told us to [&nbsp;__&nbsp;] off they're just like don't ever call me again um
+and then blue was like we couldn't talk to the
+manager or something weird was happening and green was like they were interested
+
+01:40
+like they were like all right like like we left a message or like there was
+something that we could probably reach back out to them again and so what
+you'll notice is that like we're like half of them we told like like we got
+rejected the other like third like nobody like it
+just didn't we didn't work out and like a third was like people that were like
+oh interesting tell me more nobody picks
+up the phone anymore they're not getting called they're not getting calls and
+they're not getting calls from people that are local remember local is an
+advantage right and so we were like all right
+i'm not some sales guru i've run sales teams in the past uh but these are some
+folks that have never sold anything in their life so for folks that were not
+charismatic that some people are saying charismatic
+some folks that have never dialed for dollars before how did they do it well
+i gave them a script and the script was super
+simple it's not some some wild script that they had memorized where they were
+
+01:41
+elite sales teams no right it was a very simple script hi this is bob
+do you have a website where i could see your menu that's what we say on the
+phone hey do you have a website where i can see your menu
+and then there is a decision tree if they said no right
+uh if they like so they'd be like all right odd question um can we see your
+menu right they say uh you like you have a menu and then now it's the kick kick
+off the conversation right like hey do you have a menu that would get the
+conversation going right and then i would say huh odd question but is the
+business owner available so it didn't matter if they had a menu or they didn't
+have a menu it didn't matter it was just to get them talking right then i would
+say huh odd question is the business owner available right and you're like
+business owner who says that right but then if they said no then i would
+say hey what is their name and when are they normally around right and if they
+asked why i would say oh i'm a boston-based web developer i make
+websites and would love to help out a local business if they said yes i am the
+
+01:42
+owner we would say great i'm a boston-based web developer i make
+websites and would love to help out a local business if they say yes they are
+busy i'll say great i'll call back in a few minutes that was it
+this was the simple script that we used i had what was it five or six students
+dialing for dollars this is not some woof of wall street thing that like
+folks are saying this was it this is this super simple simple decision tree and
+there was two things that i held my students to right two things
+you could only ever get off the phone if one of these two things happened one
+they had to agree to a package of at least a hundred dollars
+or two they had to hang up on you that was it that was the only outcome
+for my students the person had to agree to a package
+of at least a hundred dollars where we set up their website
+
+01:43
+or they had to hang up on us and we were calm
+we were persistent but we weren't mean we weren't pressuring them we were
+asking lots of great questions good qualifying deals right like we weren't
+we weren't doing anything that would be like
+like bad we just weren't getting off the phone until they agreed to a package or
+they hung up on us right and we got hung up on a lot but we were calm we were
+cool we were collected we were professional we were nice the whole time
+we were trying to joke and have fun with them
+right and they would either hang up or they agree and so my students did this
+for all the restaurants that you just saw and at the end of the day we had two
+clients and the clients weren't for a hundred dollars we had a client for i
+think it was like 500 and 800 right and we yeah so we were like what's
+inside we called this company instadyne.tech it's not up anymore but
+it was for a while we built a really quick landing page using a template and
+when people asked us who we were we would say oh we're instadying.tech we're
+
+01:44
+a local agency that helps restaurants like yours and that's it for dollars has
+short and simple script and by the end of that day we had two clients so
+you can start with friends you can start with family you can start with your
+social you can as you're networking letting folks know you can be local
+using your listings and that doesn't work you can always dial for dollars it
+does work now i showed you how i created a list
+i gave you my script the call folks it works
+you're going to get hung up on a lot you're going to uh get
+rejected over and over and over again but uh in the end
+
+01:45
+it works and some folks go really deep into the sales world they watch the
+video i asked you to watch today called
+[&nbsp;__&nbsp;] you pay me and they start to really
+like the sales process and they get better at this outbound
+uh outbound exactly is a numbers game it's not
+the game i really play anymore i have a lot of inbound now but i did a lot of
+networking to get that inbound coming in so it's kind of a personal preference
+which way you go about it inbound outbound some people prefer
+some some folks really hate the networking piece so they'd rather just
+talk to a thousand strangers that's just what they like to do right it's up to
+you cat hey thank you for the hydration cheers to you
+alrighty what if getting away from cold calling is one of the reasons i like the
+sound of web development well good you don't have to cold call to uh to get
+
+01:46
+clients i don't code call cold call anymore ever to get clients mine's all
+inbound um but i'm just showing different strokes for different folks
+right like some folks like the dialing for dollars some folks really like the
+networking some folks prefer just to keep it friends family and social it's
+up to you alrighty last in this realm of finding clients
+is going wide so you've done the local game you've done everything you can
+locally the next thing is going wide so there are kind of three big things when
+it comes to going wide and this is also the advice for folks that are not
+they don't have a local area to invest in right they're maybe not close to a
+metro area local is not a thing for them and so they have to start going wide
+
+01:47
+one of the first places that folks start off by going wide are gig sites they'll
+go to upwork or fiverr or freelance like all these gig sites now
+gig sites are really really hard because you're competing against a lot of folks
+and so if you're going to use gig sites you have to do two things i've had
+hundreds of students try using gig sites the only ones that ever see be really
+successful do two things one they invest heavily and making sure
+that their presence on that gig site is all up to par they get all the all of
+the like accoutrements you can put on your profile everything
+and then the second thing is they price everything really high right when you
+use these gig sites there it's a term i don't like to use but it's the truth
+it's a race to the bottom right it's a race to the bottom right it's it's
+it's this idea that there's so many people competing and they're all just
+
+01:48
+racing they give the cheapest price because they think
+they think competing on price is the thing to do
+never ever ever compete on price it doesn't help you land good clients the
+clients that are that price sensitive are not the clients you want to work
+with if you go on these gig sites and you price higher folks see that and they
+go huh they must be providing a lot of value to price it at a thousand when
+everyone else is pricing it at a hundred right and so the folks that did gig gig
+sites the only way that it's ever worked is by having a really tricked out
+profile and then also valuing high but otherwise i stay away from the gig
+sites i've tried them all it's just not the best time investment
+there's a better time investment and that's building authority right
+folks that build authority can get around a lot so what do i mean by that
+pick a niche right pick a niche if you are
+
+01:49
+in an area where there is no localness you are fully remote you'll never have a
+metro area near you where you can do this in
+or you're in an area some folks like to think that certain areas are saturated
+there rarely are but for some reason you think maybe local can't work for you
+the best strategy i have seen for folks to get clients when they don't have a
+local area to to balance off of is to build authority around a niche so you
+pick something and you become the expert at that thing
+it could be restaurants it could be barber shops it could be nail salons it
+could be something where you know that industry inside and out and you build a
+presence around that niche i've done this before with dental offices
+i built up a whole agency that just worked with dentists
+it was great dentists are horrible clients to work with but i had an
+
+01:50
+amazing blog i had a lot of content when i would talk to dentists they would see
+that i was the authority on how to get clients to come into dental offices how
+to build their web presence right and so they would pick me over all the
+other folks that were talking to them because i built up authority you can do
+this i don't care if you live in the middle of nowhere have no network you
+start today you pick your niche you build a blog you build authority you put
+out content right right you put out content and you
+slowly build up that train of content and then you build out a list of folks
+that are in that niche and you reach out to them right it takes a long time
+but it's a way to get through it um you can start a blog tonight node former
+sponsor of the of the stream completely free to start a blog sam has an amazing
+
+01:51
+blog that they started that helped them build authority in the freelancing world
+right in the freelancing world and so yeah exclamation excitation point hash
+note thank you and different um you can start a blog tonight and so for
+folks that can't go local building authority is the way to go
+this would seem like a long-term investment it is you're talking about
+building a niche and becoming the expert
+in it so that you can serve your clients best awesome all right now
+the next thing we're going to talk about is we've built up our online presence
+we're either going local or building authority now we we have found a client
+and we start the conversations with those clients
+now it's time to build our proposal like what are we sending to them what are we
+
+01:52
+negotiating with them how are we getting them to pay us like how do we do the
+pricing how do we how do we know like what to charge them
+well that's what we're going to talk about next
+but before we do so we're going to take a break
+so let's bring our five minutes up here when we come back from five minutes
+we're gonna talk about how do you price effectively like how do you like
+actually figure out how much you're gonna charge someone right we're gonna
+talk about the proposal you send to them once you agree on what's going to be
+built i'm going to show you real actual proposal templates you can
+use starting today i'm going to show you
+real contracts that you can use starting today we're going to
+paint a beautiful picture we're going to
+walk through all that stuff together and then we're going to take probably about
+30 minutes to answer all your questions you might have about freelancing
+if you haven't already submit your questions to the slido
+and upload the questions you want to see answered during the question and answer
+period alrighty folks uh let's start the timer
+
+01:53
+if you're able to please get up move around hydrate uh let your eyes focus on
+something that's not the screen and we'll be back in five
+i'm gonna run ads because we we should be running ads
+
+01:56
+so folks don't get cut off during stream all right cn5 folks tinker said
+
+01:57
+i have a co-worker that i'm friendly with there's a youtube channel but no
+dedicated website do they count uh yeah those count just like no like like not
+your best friend or your family like you want to push yourself to try this stuff
+folks won't see ads if they have a sub some folks asking
+spell i use a shure sm7b how many paid clients will you have by
+the end of this cohort it's up to you the requirements at least one
+is paypal okay for taking payment uh it can be if that's the way that works best
+for you but um check is also good paypal is weird because then you have to worry
+about like chargebacks and stuff like that all right folks
+drinking some cold brew tonight yeah a lot of folks will use zell or
+check or some sort of wire stripe there are there are a bunch of platforms that
+
+01:58
+you can use all right folks come on through come on through
+can you get a signed contract over email yeah and there are plenty of platforms
+that do contracts now to like docusign and stuff like that
+not shuffling paper anymore these days really especially with the pandemic
+all right so talk about a lot of ways to one build our presence and two to um
+start finding clients and it's a process at first finding clients is very hard
+but it's something you tackle one at a time you tackle building your presence
+you tackle talking to friends and family then you talk tackle trying to do it
+while you're networking like it's pieces that you build up over time right but
+
+01:59
+the thing is you can do it i've had hundreds of students do it from all
+walks of life it feels really uncomfortable at first
+but you have the skills you have the ability
+you will be able to do it and if you get
+stuck or have questions or you're trying
+to find ways to make it work for you ask lots of questions uh especially this
+coming weeks on discord try and figure out something that's
+going to work for you and then like i said if there's things that are actual
+barriers to you doing this process we're going to decide
+things that you can do either volunteering
+working on open source projects things like that cool
+alrighty so we've used some of these channels to maybe get a client we're
+starting to talk to them we are going to want to send them a
+proposal so what the heck is a proposal a proposal is kind of like a simple walk
+through of what you are going to provide right
+you are going to come to an agreement on what they need and what you can provide
+
+02:00
+that satisfies those needs and then you're going to send them a proposal
+that details everything that's going to be delivered
+to them in the end and we're going to talk about like how to come to that
+agreement we're gonna talk about like how to figure out what the charge for
+that but for now let's just get that proposal idea in our brain so we can
+explain that in a second or two so there are two really great proposal
+uh templates that i recommend and that's
+proposify and hand a doc uh they're both completely free
+and you can click through and look at them i think we might give them the hug
+of death uh so here's the proposifier that i linked to
+and it's just a really good template you can see it's an overview of goals the
+scope of services additional recommendations and a bunch of other
+stuff time frame all that stuff goes in here so i actually recommend right
+
+02:01
+i actually recommend combining this proposify and this panda doc one together
+right like there's there's two different ways about going through it
+but you kind of take what you want from each of them but
+completely ready to go proposals you don't have to pay somebody else you
+don't define them they're completely free this is what you're going to use
+it's going to break down like what you're going to do and what you're going
+to send to the client in the end that's what a proposal is right
+the other thing folks kind of um worry about our contracts we're going to get
+that into a second so here is a real example from one of my
+past students that's now at amazon i have their permission to share this with
+you all and so here's like what their proposal
+looked like that they sent to a client uh design logo for the organization uh
+ibrahim has agreed that the client will be able to request multiple edits of the
+logo design estimate for the logo design was 300
+the final website development in qa would be 700 and the total estimate
+would be a thousand dollars when the website is completed the client agrees
+
+02:02
+to pay a hundred dollars monthly that keeps the website functional and updated
+occasionally the client can end this agreement anytime if they feel there's
+no longer need for the service any longer so this is just a real example
+of a simple piece of a proposal that has actually
+wound up paying one of my students a thousand dollars
+and uh they actually worked in a retainer uh some students really like
+the idea of a retainer having that monthly coming in and so the retainer is
+something that i no longer do but i used
+to do a lot and the idea is that you can charge clients
+maybe one billable hour a month where they know that each month they get at
+least an hour of your time and you have that recurring money coming in so a lot
+of folks like to do that a lot of my students do it
+i don't do that anymore just because i didn't want to be on the hook for it i
+don't want calls at like three o'clock in the morning to bring people's sights
+back up and i didn't feel like i was providing enough value or that time i
+
+02:03
+feel like i i felt like i was kind of tricking them right like
+they signed up maybe they used it for the first month and they just forgot
+about it and for me business relationships are always about providing
+value both ways and if i'm not providing value i don't feel comfortable with it
+so i stopped you know but this is a real world example
+definitely give ibrahim a follow just because people are don't share their
+contracts people won't share their proposals but this is like a real world
+example where they broke it down uh also creating
+logos and stuff like that is pretty easy namecheap has a free logo maker that's
+really easy to create logos i love it namecheap is amazing i love their logo
+maker brand is 100 devs create a free logo all right let's create our our logo
+uh with the namecheap logo maker left middle or right chat left l m or r lmr
+
+02:04
+all right we got m l m or r left middle or right
+oh this one's close you are going m again l m or r
+if people are getting caught up in the slow mode too well a lot a lot of l's
+here cool l m or r definitely l ah middle yeah i think still the l l m or r
+well r has got it this time you want the thick boys and definitely a m again
+cool color i was going to pick blue blue green purple red brown or orange
+
+02:05
+throw it in chat blue purple red i think the the blues or greens have it uh
+i'm gonna go oh purple came through too green green has it all right we go get
+cool uh favorite icon let's do like computer search for computers
+nah search for code oh it's fancy i like that one uh i like that one
+maybe the thicker or that one too there we go
+uh maybe not this one maybe maybe the that one
+cool all right let's continue with those three icons there we go all right
+so now there's like a bazillion different logos that you can choose from
+
+02:06
+everyone you like the most you all picked horrible fonts
+y'all picked horrible thoughts uh oh i like this one this one's clean
+there we go and there we go look looks good on the
+business card it's good on the t-shirt merch coming soon folks look at that
+beautiful and then you can just download it and there you go super easy
+throw that in your proposal you're off to the to the races that'll be 300 please
+cool so proposals you can use either one of
+these examples or combine them i like combining them uh this is a real world
+example and then the last kind of piece here is the the contract before we talk
+about like how to price and how to send the proposal okay so contracts are
+something that kind of gets a lot of folks kind of uneasy uh they
+they they don't know like what a contract really is they get they get
+
+02:07
+nervous about it but contracts shouldn't make you feel uneasy um they shouldn't
+be scary contracts are simply there to protect both parties
+right so a contract should be a two-way thing it shouldn't be in favor it
+shouldn't favor one person more than the other it's actually like not a good
+contract and might not hold up remember i'm not a lawyer now this is legal
+advice but for me a contract is really important
+because it just says what happens when something goes wrong
+and as you are freelancing stuff will go wrong
+you will send out shitty proposals your proposals get better with time
+you will agree to things that maybe you shouldn't have agreed to you will take
+on clients that pay you too little and ask for too much
+right like freelancing is hard it takes a while to get good at freelancing right
+
+02:08
+and so uh a contract is really just there to make sure the parties know what
+happens when things go wrong not that things will go wrong but if they do you
+both know how things are going to shake
+out the video i had you watch the [&nbsp;__&nbsp;]
+you pay me video is all about this it's just about like why contracts are good
+why they help both parties and why you should always use one now i actually
+start off with friends families you definitely need contracts even if my
+mom's getting a contract right i don't care who you are you're getting a
+contract and you're getting a proposal because contracts are there just to help
+both parties and to say what happens when things don't go right
+the closer you are to somebody the more you want to contract because you want
+that relationship to be good and for both parties to agree to what happens
+before things go wrong right right you you want a contract just so
+that you know what happens when things go wrong and to have thought thought
+
+02:09
+about those things and talk through them together before something happens
+it's not about trust it's not about um having to to to
+enter into litigation or anything like that it's just so that when things don't
+happen the way that you expected them to happen you know what the next steps are
+and that just eases the process for everyone
+has nothing to do with like those other pieces it's all about everyone coming
+into an agreement as to how you're going to treat the relationship cool
+i like to use the contract killer uh it is a completely free contract uh that
+you can use right um that has all this stuff spelled out
+right it has all this stuff spelled out you tell a story of a sign something
+went wrong i like i told you in the beginning anything you could mess up
+i've messed up i have done it all i'll talk about it i'll talk about that
+
+02:10
+in a second let me let me talk about the contracts and i'll talk about the time
+things went wrong all right i like contract templates to start right
+after you get your first client then you upgrade so there are two contract
+templates that i really like uh the first is the contract killer template uh
+you can click on it it's on github and they also have their own website and
+it's a full breakdown of everything that you need to put into your contract for
+when you're working right when you're working with a client it's all here it's
+everything you need not to worry about anything else there's maybe like two
+additions that i would make sure that are also in here um but it's a really
+great place to start for your contract you don't have to
+worry about figuring out something else you can use this and be off the to the
+races uh this is really cool i really like the people that did this if you get
+your first client and you use their contract they have like a way to donate
+to them i would donate if you get a thousand dollar client and you use their
+
+02:11
+contract give them a donation that's worth it to me um but our one of our
+fearless alumni that we always talk about sam
+they actually took this contract killer and they changed some of the language so
+contract killer is made by people in the
+uk so there's some spelling there's some like words that we might not use in the
+us so sam went through it and actually changed the wording so that it matched
+what we might say in the us and so there's a second link here to like sam's
+updates and i definitely highly recommend that as well right so
+depending on where you're coming from or which one you want to use they're both
+there so now you've have an online presence you've figured out some ways to
+find some clients you have a way to create good proposals you have a good
+way to write a decent contract uh there are some important bits that i
+want you to have in the contracts before we talk about like sealing the deal and
+
+02:12
+closing the opportunity right the two big things that you must have in every
+single contract are the two paragraphs here
+never ever agree to do any work without these two
+things in place the first thing is an indemnification clause the
+identification clause says hey we're writing code
+things can and will go wrong because it's code it's never going to be
+perfect and what this means is if the code that i write that's something that
+causes you to lose money or to incur some damages in any way shape or
+form it's not my fault that's the risk that you're agreeing to when you work
+with me and we write code that may not be perfect right so
+let's say you you went down the restaurant niche
+right you went down the restaurant niche and you build out a restaurant website
+that has um online ordering and that online ordering platform messes up
+
+02:13
+and they drop they drop a couple orders right so maybe they drop a couple
+hundred dollars worth of orders that indemnification clause saves it from
+being your fault right so you don't ever want to do work
+without that first paragraph in line because it stops them from coming after
+you well it's not going to stop them coming after you but it stops it from
+being on your end right so always have an indefinition clause and then the
+second piece is kind of what happens and who owns the code that you write
+and so this this clause here talks about giving a
+i'm just going to read it and then i'll explain what it means
+we'll own any intellectual property rights we've developed prior to or
+developed separately from this project and not paid for by you
+we'll own the unique combination of these elements that constitutes a
+complete design and will license it to you once paid in full
+
+02:14
+exclusively and in perpetuity for this project only unless we agree
+otherwise so what this means is that you don't own any of the other work that
+i've done you only owe the you only own the work that i've done for you and
+technically right technically you don't actually own the work i do
+i am giving you a license to this content that is exclusive and in
+perpetuity and for this project only now why do you think we do this why do we
+do this but give them a license an exclusive license why do we do that
+for our portfolios exactly we still own it all so we can still
+highlight it demo it on our portfolio and if we're freelancing
+
+02:15
+there are probably pieces of our code that we're going to reuse over and over
+and over again in other projects so if we don't own our code we can't reuse it
+in other projects that doesn't make sense we did we did all this work we
+can't put on our portfolio that doesn't make sense so we do our work
+and we give them an exclusive perpetual license to it so we can still be able to
+do the work that we do right now the other big piece here was once paid in
+full amazing movie um they do not get this license right
+until they have paid us in full right and so they might have seen the
+work they might have been playing with the work but they do not have any claim
+to it until we have all of our monies when you enter into an agreement
+to work with someone i always recommend you get a deposit
+
+02:16
+i only do work with 50 up front i will never work with you unless you
+pay me a 50 deposit up front i do that 50 of the work right you're
+happy with it then you pay another 25 up front i work you feel happy with it
+i finish that last bit and i am paid in full and
+once i am paid in full i transfer things onto your server
+you will never have access to the code it'll never be on your servers you will
+not have your license to it until i am paid in full
+is the deposit refundable absolutely not because you're paying me to do the work
+i don't want to get halfway through a project and then you no longer want to
+do it i only do work that i have been paid for
+i only do work that i've been paid for so i'm going to do 50 of the work
+because you've paid me 50 up front you're going to pay me the next trunk
+
+02:17
+i'm going to do that work you're going to pay me in full and i'll finish it out
+all right and so that's how i save myself from getting getting burned ask me why
+ask me why i do it that way somebody asked me why i do it that way yes why
+because i have been stiffed plenty of times i have not gotten paid i have been
+burned i've been people have tried to pay me less anything that could happen
+has happened and so i get a deposit right and in fact actually my very first
+project i got a deposit right i knew i knew enough to ask for a deposit up
+front that's how i bought my pasta and pasta sauce so i've been burnt anyway
+you can be burnt so get a deposit only work for work that has been paid for now
+when folks are first starting out it's harder to ask for like 50 up front but
+something in good faith is always worthwhile asking for 10 25
+right you want to make sure that they have skin in the game too it doesn't
+
+02:18
+make sense to do all this work for them to just not pay you in the end right
+so don't get got make sure you have these two important bits in your contract
+and then the last thing i want to talk about is how to close
+you have an online presence right you have an online presence
+you start to reach out to you start to reach out to clients
+clients are reaching out to you you're building out proposals that have
+all the highlights of what you're going to build for them you are sending out
+good contracts the last thing i want to talk about is how to close and
+how i close comes down to one magical question i love being on the phone
+for me whenever i'm working with a client it's always on the phone
+and i do one thing on the phone and one thing only
+
+02:19
+tell me about your project that's it there's not some amazing speech i give them
+not anything that's that's wild i just say hey it sounds like you have a really
+interesting idea tell me everything about your project
+and i let them talk they'll talk for 30 minutes 40 minutes an hour sometimes if
+i give them the time and i'm taking really good notes
+everything their dreams their wishes their hopes their desires their third
+grade crush everything they could ever want in this
+project i'm listening okay amazing i'm digging a little bit deeper tell me a
+bit more you said you want this thing tell me a little bit more about that
+thing right i just let them go off on the largest
+tangent ever about everything they could ever want to be in this project right
+and then at the end i say wow this sounds like an amazing project
+
+02:20
+there's a lot here what is your ballpark budget and some folks go
+how dare you ask me about money what do you think i am right and you go wait a
+minute there's a lot here we just talked for 30 minutes about all the bells and
+whistles and everything that you want i need to know what budget you're working
+with to build all of this stuff because here's what i want to do for you
+i want to build you a proposal that highlights everything i can get done at
+that budget now i could build a proposal for a thousand dollars sorry i would
+never say a thousand dollars i would say i could build a proposal for ten
+thousand dollars a hundred thousand dollars i could put a proposal for one
+million dollars that doesn't help us if we're not in the same ballpark i don't
+have that time to build out all these different proposals at all these
+different price points so what is your ballpark budget
+it doesn't have to be exact like where what are we talking about we talking
+
+02:21
+about a thousand five thousand ten thousand right
+and then they'll give you the budget sometimes they'll say i actually what is
+your hourly rate no no i don't do hourly rate i need to know what your ballpark
+budget so i i know where we're at least talking about and i'll tell you
+everything i can get done at that budget you gave me a huge laundry list i'm
+going to tell you exactly what i can get done off this list that i think is the
+most impactful and i'm going to get it done at your budget
+right so i never give them an hourly rate and i'll have i'll keep saying this
+over and over again and 99 of the time they'll eventually give
+me the ballpark budget uh skipping hourly rate is really important
+because hourly rate does nothing there is uh an amazing youtube channel
+called the future which is about building an agency and
+they have something that i there's this one talk that i really love and they
+talk about hourly rate and so the hourly rate punishes me
+
+02:22
+right it punishes me christo exactly that's their name christo
+um punishes me for being good at my job right because if i take more time right
+if i take more time you pay me more money
+but i'm not going to take that time i'm good at my job so i'm going to do less
+time but you're going to get a better product so you're actually punishing me
+for being good at my job that doesn't make sense so how about you
+give me your ballpark budget i let you know
+what i can get done at that budget and if we agree great if not i'm going to
+connect you with three other freelancers that might be able to do more for you
+right at that price point so i would love to build you a wonderful
+proposal that takes in everything that we just talked about at your budget that
+i think would be a huge win for you and your business but if it doesn't work out
+that's okay i'll connect you with some folks that i know are really great
+
+02:23
+friends that won't steer you wrong that's it
+that's it they give you the ballpark budget and then you build them a
+phenomenal proposal that takes into account all the things
+you wrote down about what they want that
+you think you can get done at that price point and you're doing the back of the
+the menu like the back of the the back of the napkin numbers and your brain be
+like all right i think it's going to take me this amount of time so this is
+how much i can get done right but you you do that on your end
+right you think about all right if the ballpark budget is 5 dollars what can i
+get done for them at that five thousand dollars that leaves me the things i need
+left right you're gonna need to think through that that like all right
+i think it's going to take me this number of hours i want to make this
+amount of money per hour right you do that all yourself you're not ever going
+to share that with them but you're trying to figure out all right what can
+
+02:24
+i build at that price point all right when you're talking to clients there's a
+couple big things you need to keep in mind the what is your ballpark budget is
+the magic question but when you're talking with clients i need to do a few
+things you need to be firm right not mean not pushy but firm right
+don't let someone try and convince you to take less money or to do more work
+those clients never work out be firm of what you can get
+done at what price point and that means you're going to lose some clients
+but that is always a good thing losing a client is the best thing that
+could ever happen because if it's starting off like trouble
+it's going to be trouble and it's going to end with trouble right so be firm
+be clear in what you can get done and what you can provide and what you can do
+and then there's two things that you must always live up to as a freelancer
+
+02:25
+under promise and then over deliver right
+under promise the things that you can do and then
+exceed their wildest expectations right the other thing that you have to do as
+you're negotiating or figuring out what's going to go into the proposal is
+that you have to leave room to get help both in time and money every contract i
+have ever worked on i take how long i think it's going to
+take me to finish and i double it if i think it's going to take me a month
+i say two months if i think it's gonna take me two months i say four if i think
+it's gonna be three i say six i leave myself enough room that if i get
+in trouble i can get help this is the biggest thing you have to do for your
+first freelancing client because you might run into some trouble and you're
+going to need to get help right so i always leave room in my timeline to get
+
+02:26
+help from other folks and i always leave
+room in my budget to get help from other engineers
+a lot of times there might be problems that i can't solve on my own and i'll
+need to bring in some other engineer to help me with that problem so i always
+leave room my budget for that to happen if i really do feel like i can really
+crush the project and i don't think i would have any trouble i still leave
+room for something odd to come up maybe there's some like weird bit of
+functionality that i don't feel comfortable building out and i'll bring
+someone else on right a lot of times with higher paid clients
+i'm upfront with it hey i'm really good at talking with clients
+making sure that you're getting the best value like best value out of this
+relationship possible but i work with a team of other engineers they're going to
+help me get some of the work done right and so always leave room for time and
+always leave room for money get a deposit we already talked about this
+
+02:27
+in the beginning your deposits might be lower and then you'll build up to
+getting at least a 50 deposit and then it's time to deliver the goods right
+delivering the goods comes down to a few
+things remember when we're delivering on the project we've we've done all the
+hard work we built out our we built out our presents we've done the
+work to get the client in the door uh we've given them a monster proposal
+we've given them a monster contract they're super happy with the value that
+we're going to provide at the price point that we feel
+comfortable doing it we left ourselves room in both time and money now it's
+time to deliver the goods when it comes to delivering
+the goods remember always under promise always over deliver and always
+communicate regularly people that communicate regularly can get away with
+
+02:28
+anything they want when working with a client if you are
+if you are communicating regularly you can get away with being
+a little short on time you can get away with sometimes asking for more money
+the most common thing that happens with folks when they hire or work with
+another freelancer is that they get ghosted or they don't really know what's
+happening every friday send your client an email
+here's what we got done here's where we're gonna go this is where we're at
+every friday every friday my clients get an email i don't care if i got nothing
+done that week or if i got everything done this week they have to know that
+consistently i'm not going to leave them
+in the dark i'm going to communicate and they're always going to know where we
+stand this will help you get out of so much
+hot water when you need an extra week they're going to give it to you every
+single time because they never had to guess where you were
+
+02:29
+if you're a little over budget on something they'll at least come back to
+the table right so i like to make sure every friday my
+clients get an email i actually schedule them
+and then i add more stuff to them as the week goes on and then i actually ping
+them on wednesdays too so on wednesday i'll be like oh we just did this really
+cool thing right so wednesday to get a message that says
+i hope you're doing well today like we just did this really cool thing this
+feature's live look at it on the test server whatever and then friday is like
+the formal update here's everything we did the week
+at the end that's why my clients come back right time and time again my clients
+have come back because they value that communication and how
+quick i am with it and how much detail i give right a lot of folks hold stuff
+back they're afraid to give the full picture no i don't care if it's good i
+don't care if it's bad you're going to get you're going to always know where i
+stand and that takes a lot of weight off their
+shoulders it gives them a lot of relief and they'll come back for that
+
+02:30
+and so that kind of leads me to this idea of of kind of coming back
+there's one other step here and then we talk about this idea of coming back uh
+get help when you need it right you're communicating regularly there might be
+start to realize wait i'm not gonna hit this deadline i'm not gonna be able to
+figure this thing out get help you've left enough room to get help you left
+enough room to figure things out get help come to discord i don't know how to
+solve this problem right there'll be so many people that are ready ready to help
+you even with your client work there will be so many folks that maybe you can
+bring on board to help with the project right and so get help right get help
+don't suffer in silence make sure you get help especially when working with
+clients right so many folks from 100 devs last cohort
+came to discord when they were working on their client projects to talk through
+details to figure things out to ask for recommendations about how to solve
+problems that's what we're here for make sure you ask for help even with client
+
+02:31
+work cool last thing is reinvest all this stuff is going to suck at first
+your proposals are going to suck your contracts are going to suck your your
+portfolio site's going to suck it just is because we're we're using stuff off
+the shelf we're doing it just to to get stuff done we're bad as we write bad
+code right but as you get that first client in take that money to reinvest
+and and if you have the privilege to reinvest right if you have the privilege
+to reinvest use that to bolster everything now
+i talked about this idea before we get into the investment about like clients
+coming back and why that's so important uh i've had years
+where my income has relied on freelancing if i'd if i wasn't
+freelancing i wouldn't have had any money in some of the years that i've
+been doing this right when things got tough i knew i could freelance to bring
+money in the door i've had years where i have freelanced
+my freelancing has brought in more money than my day job
+
+02:32
+right and so this could be a really powerful thing
+but what i don't want folks to think is that it's easy
+it is very hard to freelance it is very hard to go out on your own
+right and have the the amount of clients
+it takes to sustain your salary right so
+many folks think oh i'm going to quit my job i'm going to freelance and that's
+going to be it no freelancing is the most stressful thing you will ever do if
+that's what you rely on if you don't have an emergency fund right
+if you don't have an emergency fund and you go a month without a client that
+[&nbsp;__&nbsp;] will will devastate you i the the lowest lows i've had
+are when i was freelancing and didn't have enough money in the bank to like
+tie me through to the next client so when folks are thinking about this i
+need you to keep in mind that freelancing is something that at first
+is supplemental and you can build up to it and eventually the way most
+
+02:33
+freelancers make their money is through repeat clients
+i looked at my my contracting from the past couple years 50
+of my freelancing income came from one client 50
+came from one client that came back continuously time after time we call
+these evergreen clients it's really hard to find an evergreen client but it's
+what makes up most freelancers money they have some clients that just come
+back with work time and time again and they come back to me
+right because i get what they need to get done at a good budget
+i communicate my ass off and they're never left in the dark about what the
+heck's going on so they give me all their business
+i say that to highlight that all the other freelancers that i know that
+freelance full-time they either have an amazing network or
+they have a few of those evergreen clients that they can rely on and they
+have a war chest like six months of expenses fully ready rocked and rolled
+
+02:34
+that's not touching anything else so that if they get through a slump where
+they're not getting any new clients they're good to go so i say that
+because if your goal is to just do freelancing you're in for a really wild
+ride do i have lots of friends that do it yes do they love it some of them do
+some of them hate it but just know that you need to
+build up to it right all these things we
+talked about tonight are not easy and at first they're going to be kind of
+they're going to be pretty hard and not really that great all right
+after your first client if you have the privilege reinvesting those monies can
+be put to really good use right you can be uh can be put to put the good
+use right you can build a better portfolio you can build a
+better proposal you can build a better contract you might want to set up a
+business entity you might want to bring in a lawyer to look at your proposals to
+look at your contracts you might need a cpa or a bookkeeper to handle all the
+
+02:35
+inbound stuff that you're coming in right and so after your first client if
+you have the privilege do things the right way right i showed you the freeway
+that's good enough to get started once you have monies coming in
+maybe and reinvest if you have the privilege in doing things a little bit better
+right right and so a lot of folks ask me leon do i need a
+business entity do i need an llc not in the beginning
+llcs limited liability corporations what they do is they help protect you from
+your assets if you don't have any assets you don't need an llc
+nobody's coming after your bubble gum collection right so if you don't have a
+house or expensive car or things like that nobody's coming after you for for
+nothing right so you don't need an llc an llc is just there to protect you
+like your business from your assets right so a lot of people like come out
+the gate with an llc you know like you just wasted five ten grand setting all
+
+02:36
+that up um because you used the lawyer to do it when you could have just went
+through the like state's way of doing it which would have cost
+you way like a tenth of that right um so just be careful
+the the first the first run through this
+your first few clients give you the cash flow if you have the privilege to use
+that then you reinvest in all this other stuff yeah
+yeah llc's don't cost 5 10k you can normally if you're in the us each state
+has a different process anywhere from like 50 bucks to i think west california
+now like 5 800 like each each state's different right or you can use like one
+of those services to help you set it up but in the beginning you don't need any
+of that get some clients coming in the door and then reinvest those monies and
+things that you might need to do the right way cool and once again i'm not a tax
+professional i'm not a lawyer all this is just ramblings of things that i've
+learned on my journey through this right back at it hey thank you for the
+
+02:37
+hydration cheers to you alrighty so we talked a lot tonight folks
+we talked about we talked about building our online
+presence i gave you some good examples that i hope you go back to look at their
+portfolios look at their twitters look at their linkedins copy everything right
+was it good artist copy great artist steal right the reason i gave you all
+these things is that you can go back and
+use them look at them make them your own look at their twitters looked at their
+linkedins then we talked about how to get clients
+think about what strategy you're going to use first you're going to talk to
+friends family you're going to put it on all your social you're going to talk
+about it when you do your networking this week maybe you're going to dabble
+in some doing some local postings maybe you're
+going to dabble in a little bit of cold calling whatever you need to do think
+through some things get the ball rolling at first it's hard it feels weird it
+
+02:38
+feels awkward it feels uncomfortable but it gets easier with time
+all right then we looked at some proposals you could go you're going to
+go back look at those proposals you're going to see oh that's they laid out
+that's how they do a timeline that's how they break down the design and all that
+stuff right then you can look at the contract oh that's what the contractor
+said there's too much detail for us to cover it in one class you got to go back
+and look at it right then we talked about how to close how to seal the deal the
+magic question what's your ballpark budget we talked about how to price
+don't price hourly price based on their ballpark budget provide them a proposal
+at that level where you can get done at that level
+and then in the end we talked about how to reinvest right you got some money's
+coming in if you have the privilege we use them the everything set up cool
+so we got about 20 minutes left and i i promised that i would save it for
+questions so you can use the slido link at slido.com use exclamation point ask
+
+02:39
+here in in discord sorry discord in twitch chat and you'll get the link
+and i'm gonna go through the questions cause i know there's a lot of questions
+about this uh we're gonna have a couple of our office hour sessions where we
+just spend time on this freelancing stuff right so i know there's a lot here
+and there's a lot of other questions you might have and so
+we'll have time where we talk about this again right this is not our only class
+where we talk about freelancing we're going to incorporate a lot of this stuff
+into our homework it's not that's going to come up in classes over and over but
+let's go ahead and take a look at some of these questions then we'll end with a
+raid all right first question remember you can upload
+the questions that you care about how do we handle hosting for a website
+for a client you use netlify right you open up netlify you drag it in and
+you're done well let's see if i can make sure let me see real quick that
+will find accounts drop all right here we go
+
+02:40
+so here's netlify.com drop you literally drag a folder onto this location and
+you're done so i would typically ask my client to set up a netlify account
+uh they'll share their credentials with me in something like lastpass or i don't
+know one password any of the password managers they'll share it with me
+and then i will take a folder so let's um let's look at bachelor code from last
+class all right here we go here's my bachelor code number one
+i'm just going to drag the folder here it's uploading
+and then boom here you go the site is live
+that's the link you can change this link to be whatever you want and we're good
+now bit warden exactly any of those password
+magic doesn't matter whatever whatever you use um and then you can change that
+link if you want so a lot of times uh it's on their account i don't use my
+account i make them set up their own stuff sometimes when i'm ready when i'm
+
+02:41
+ready to host it for them remember i'm always working on my server right on my
+netlify until they've paid me in full and then i go and do this on their server
+right that's it and so you saw me do it in three seconds
+i literally just dragged it over we can go ahead and change this url if we want
+so uh normally i'll set one up where it is like the client's name at netlify on
+my account show it once they pay me in full i do the same thing for their
+account we're done and dusted now if you're doing full stack web applications of
+course hosting is a little bit different we're not there yet cool next question
+hi leon how are we supposed to deliver a website for a client don't we need to
+know quite a bit about hosting databases back in in general no
+
+02:42
+most of your clients at first will just be static sites uh just like
+just basic stuff html css a little bit of javascript you're gonna be using
+templates for most of this stuff that's it
+right and so you won't really need any anything else you won't need databases
+or things like that once we get further into the cohort and you learn how to do
+back-end web development then yes then you'll need some other things but by at
+that point you'll know how to do all those things as well
+should we use other hosts not really the other hosts are more complicated they
+don't give you as many features and they're not free all of them so i really
+do like netlify for this like simple stuff yeah do they give you passwords no we
+use a password manager so i'll get them set up with any of the normal password
+managers bitwarden lastpass one password they'll put all your they'll create
+their accounts they'll put their passwords in there and they can share
+them with me when it comes time to transfer stuff remember everything's
+done on my servers until i'm ready to to put it on their servers and that's when
+we ask for all the passwords and stuff what about github the host yeah that's
+
+02:43
+fine how many sets can we deploy on netlife i don't know if there's a max it's a
+lot what do you recommend for getting paid
+like an invoicing system that's kind of your personal preference
+checks zell is typically the way to go i've even done like cash app and venmo
+with some more hipper clients eventually once you have a lot of
+freelancing work coming in you'll use a bigger platform to do your freelancing a
+lot of folks use like fresh books or xero or quickbooks or things like that
+but in the beginning you don't need any of that stuff you don't need to pay for
+any of that stuff you can just ask for a check or a zell transfer or something
+like that yeah and you send them an invoice you send them an invoice yeah
+there's a you can just google invoice generator and that's what i've used for
+pretty much all my invoices what kind of work should we avoid uh
+
+02:44
+that's up to you i think anything that makes you feel uncomfortable just don't
+do if the client's asking for too much and too little time if the client's
+asking for too much with too little money you just gotta let those clients
+go it should be a good you should feel good going into an arrangement if you
+ever feel like it has it isn't going well like the contract didn't go well
+the proposal didn't go well it's time to stop and let that client go it's you
+should both feel happy you should both feel like you're both getting value
+right the clients you feel like they're getting a tremendous amount of value
+you should feel like you're getting a tremendous amount of time and money for
+your your services right if you're under 18 can you land a
+freelancing gig yeah i've had a lot of folks under 18 get get jobs as
+freelancers anonymous that i love you all right
+
+02:45
+should we include monthly maintenance in our contract or is it more a headache
+than it's worth that is a huge decision that you will have to make for yourself
+a lot of my students love maintenance contracts
+i personally used to do them a lot i don't do them anymore i really want i
+realize that my clients come back because i provide a lot of value
+you might be providing a lot of value with that maintenance contract if you're
+not providing value then i wouldn't do it i i don't like maintenance contracts
+cause some folks kind of like sucker people into them or like they don't they
+feel like oh i'm not going to do any work and i still get money each month i
+think that's the wrong way to go about your freelancing the way that my
+freelancing has always grown is because people have been always well not always
+like i've had some stuff go bad right but by and far most folks have been like
+leon was great to work with and they tell other people that's how your
+freelancing grows right and so i i if i don't if i'm not giving a lot of value i
+
+02:46
+don't want to do it what's an example of maintenance you
+would do sometimes they want to update some text they want to
+make some quick changes maybe they want to replace a menu each each month right
+or maybe the site went down and they need some help getting it back up stuff
+like that can you show the password manager for
+clients it's just you're going to use lastpass bitwarden onepass just google
+password managers and pick one it's not really like anything special
+lastpass yeah just use one and that's only at the end that's after you've
+built everything remember everything's on your servers until the end
+are we responsible for the copy on the site sometimes it's up to you
+um if i'm working with a client that has no idea what they want sometimes i'll
+throw that into my proposal hey i'm doing the design which will be a
+
+02:47
+template i'm doing the copy which is just stuff i'm gonna make up right and
+that all adds to the money in the proposal
+sometimes you'll work with a copy editor
+or you work with somebody else to do the
+copy or they already have copy they want to throw in it's kind of up to you
+if we build a website with squarespace wix etc is that something you can put in
+your portfolio yeah absolutely yeah what is copy copy is like the text on a
+website like the text on the website yeah like the words that you put yeah
+yeah text on the on the site um a lot of freelancers or folks when
+they're new to freelancing get they get worried about squarespace
+or they get worried about wic so they get worried about like these static site
+builders but they're just tools that you can use to make your life easier
+a lot of clients some some clients want to use them and so it's up to you to
+decide if you're going to use them or not or if your clients want them or not
+
+02:48
+but they're just tools right somebody's running a business doesn't want to have
+to learn how to use those tools they might but a lot of these folks that i work
+with early on were older they they didn't like want to
+invest the time they had like kids and like
+they're they're at their jobs all day long and then at night they want to
+spend time with their family they don't want to be investing their nights and
+weekends in learning how to use squarespace or wix right so they pay me
+to not have to worry about it and then even if they did use those other website
+builders right they something happens right like they
+don't know how to like make that bigger or move it around right and then it just
+caused them headaches they'd rather pay me to come in and do their logo do their
+design do the do the setting up the site make sure it all works and have someone
+to talk to to help with ideas to help figure out how to do online payments and
+all this stuff that they don't know how to do your job as a software engineer is
+
+02:49
+to solve problems and the moment you become a freelancer not only are you
+solving technical problems but you're solving business problems too and so
+instead of them having to think about how to do it you do that research
+if they're a restaurant and they want to offer online ordering it's your job to
+figure out what is the best way to get them hooked up with online ordering
+right you have to do the research you'll have to play around with it you have to
+ask questions on discord and then bake that into the site right
+you're going to figure out how to do all
+this and at first you you just ask a lot
+of questions right and you figure it out
+what are your feelings on wordpress it's good certain clients really like it a
+lot of clients will ask for a cms or a content management system something
+where they can go in and make quick changes and not have to bother you to
+make those changes wordpress is one of the biggest versions of those so a lot
+of clients ask for it and then you'll have to watch a tutorial
+on how to use wordpress it's not hard you'll figure it out
+
+02:50
+but there are plenty of other cms's that are way easier to get up and running
+than um than uh then wordpress including netlife netlife
+has their own cms built in which is pretty cool
+how quickly do you make a proposal oh amazing question i hope we still have
+everyone this is a huge bit of information that i did not share early
+on that i need it to on the conversation where i asked them
+the magical question this i'm so glad you asked that question i would have
+been really pissed if i had forgotten this all right when you
+finish that conversation about the ballpark budget right
+and they give you the ballpark budget your immediate response should be great
+i'm going to build you a proposal that incorporates all the things we talked
+about at that budget do you have time to talk on thursday
+right like the next day like do you have time to talk this week how about
+
+02:51
+thursday so today's tuesday i would say hey i'm gonna build you an amazing
+proposal i'm going to send you the proposal tonight you're going to get
+that proposal tonight it's it's it's 9 30 but you're going to get the proposal
+tonight i work quick i deliver a lot of value and i want to
+show you that we're going to start this relationship off right so tonight you're
+going to get the proposal do you have time this week to discuss
+the proposal together how about thursday you make sure that you have scheduled
+the next call right it doesn't have to be tonight it could
+be tomorrow right like i'm gonna get this thing in your inbox first thing
+tomorrow morning right right but you you make sure that you get it to
+them quickly and then you don't hang up until you know the next time you're
+talking to them you don't want the lead to fizzle right
+a lot of times you'll send a proposal and then you'll go back and forth for a
+week trying to find the next time if you're already talking to them make sure
+
+02:52
+you set up the next call send them a calendar invite saying discussing such
+and such proposal right and then you work on the proposal you
+send it to them as quickly as you can same day next day
+in that proposal you say look really looking forward to our call on thursday
+on thursday you get in that call and you work through the proposal with them you
+i like to do it on the phone because you can hear
+you can hear what they like what they don't like you can hear the uh or i
+don't know right and then you can massage the proposal to fit what they're
+looking for sometimes you might charge a little bit more money maybe you might
+maybe you might do a little bit less right maybe you negotiate on time one of
+the biggest things i negotiate on before we leave the proposal stage and go to
+the contract stage is how long i'm going to take the work on it sometimes
+i won't negotiate more money i'll just negotiate hey
+you know what this is a big project it's
+
+02:53
+going to take me more time so instead of four months how about five or six right
+and so the idea here is that you want to make sure that you don't let leads
+fizzle you have the magic question what's your ballpark budget you're going
+to get the proposal same next day then you already scheduled a call to talk to
+them next cool are you normally one client at a time no
+i normally have like two clients at a time sometimes more sometimes less
+how do i price things that we don't know how to do you're never pricing anything
+you're looking at their budget and you're going to think through what you
+can do at that budget so if they say they have a budget of 3000 you're going
+to look through everything they want and you're going to sit there like hmm
+is there a reasonable way for me to build what they want you're going to
+google you're going to look at you're going to look at different builders
+you're going to look at different tools you're going to look at different things
+
+02:54
+is there a way for me to piece through what they want and can i give myself
+enough time and enough money to get it done right
+so you never pricing anything you're just working off their budget and what
+you think you can get done at that budget
+you've got a hundred dollar budget i'll i'll give you a wink and a smile and
+send you an invoice right like i'll work with you i don't care what your budget
+is i'll tell you what i can get done at that budget um i take every meeting
+anybody that has an idea i take the meeting i find a way to provide them
+value even if it's a wink and a smile and a firm handshake right i've given a
+lot of firm handshakes and never worked with that person but i try to hand them
+off to other engineers that might be able to work with them at that price point
+you know and so i actually have referred a lot of
+folks to other people and when they have a bigger project they come back to me
+they remember how i treated them they remember i still gave them 30 minutes of
+my time that i still answered all their questions and then i referred to
+
+02:55
+somebody that worked really great with them so they either go back to that
+person they come to me with the larger project
+how would you fire a client that's typically in my contract there is a walk
+away clause that's in all my contracts what does 200 of web dev look like
+that's up to you and how much you want to build
+a lot of my students by this point in program
+they can they can take a template and write some html and css to make it look
+good to plug in their info right let's say you have a restaurant you would find
+a restaurant template you plug in all their info it might take you four hours
+and that might be a two hundred dollar project for you four hours of work at
+fifty dollars an hour is not bad um the original
+the original two projects that i did like the original two packages we sold
+
+02:56
+in the example where we dialed for dollars that was 500 and 800. if you're
+working minimum wage you just made minimum wage in one day
+like your whole month you made your whole month's salary in one day if you
+do this process right so it's kind of up to you and what you
+feel like you want to get done at that price point
+and then remember taxes and stuff like that as well
+what do we show our first client as a portfolio or skill set based on what we
+know right now look at blah's portfolio they got a thousand dollar client
+and an amazing job and the stuff that's on their portfolio are the homework
+assignments that we did this is the homework assignment right here
+i've i've already given you what needs to be on your portfolio
+
+02:57
+if you have done the homework you've made the homework your own you have
+portfolio pieces y'all get it now you see what i'm trying to do
+i'm trying to build what i'm trying to shape you into it all builds on top of
+each other we add pieces block by block by block and we make it
+right do you get it there's a reason why i gave you the hair salon
+there's a reason why i gave you a restaurant website we just talked for
+four hours about a restaurant website three hours of our restaurant website do
+you get it now do you see do you see what i'm trying to do ah
+i love that question all right let's let's answer like five
+
+02:58
+more questions and then we'll do a raid more questions and we'll do a raid
+we don't get got we go exactly we don't get guy we go get
+all right how do you pass a sniff test when you're building a template website
+for clients they don't know and they probably won't ever
+you know it's up to you to massage the templates to look good
+but a lot of times you'll they'll have no idea like if we look at blah's site
+this is this is a template this this looks like a template i think it's
+template but this is beautiful this is perfect don't snitch on yourself
+and ship it this looks great what what hair salon wouldn't be
+um happy with that you know so it just it just won't come up
+
+02:59
+i'm currently laid off by taking a client i would void my unemployment what
+suggestions to avoid this talk to the unemployment office i have
+seen folks make deals with unemployment to be able to do freelancing so first
+step is to talk to unemployment i have tons of folks that have still been able
+to freelance and be unemployment at the same time don't do anything that would
+[&nbsp;__&nbsp;] up your unemployment so talk to them first um
+and like i said we're going to offer other suggestions that'll help you get
+rid of that smell right that'll be like working on um open source projects
+that'll be volunteering things like that you can do
+all this stuff but not have the payment piece
+still have contracts you still have proposals you you so my favorite thing
+is like if you save applies to disability exactly
+my favorite thing is like if you know that you can't charge you still do the
+
+03:00
+exact same process and then you give them a discount on your services so you
+you you find a non-profit that needs all this stuff right and you they have a
+budget of five thousand dollars you go through the exact same process and you
+go you know what i really enjoy working with you all i'm
+gonna give you a five thousand dollar discount on this first project but
+i need you to be a reference customer uh for not only this like for any future
+clients that i have any jobs things like that i'll give you a five thousand
+dollar discount we'll get this project done at no cost but you have to be the
+best reference that has ever existed in tarnation and i'm gonna put you to work
+for a couple of other contracts right so you still do everything the same way
+and you still get value the value to you might be different though
+what's a good timeline strategy whatever you think it might take you you
+double so i think most of my like first timers do
+
+03:01
+like around four months for their project
+what do we do with the clips i'll create a thread in
+uh probably the general channel after class
+uh my wife owns a marketing firm she's willing to pass me some work helping her
+with editing websites also creating websites would this be okay i think it's
+great to do but push yourself to get clients that come not from close friends
+or family so i think it's still great to do
+but you still want to push yourself to figure out this process independent of
+that all right templates red flags and interviews no
+um what's the best way to handle billing collecting payment kind of already
+talked about this there are plenty of services online that help you but just a
+normal check or zell is also fine just make sure it's in the in the comment
+all right what if i'm not entirely confident in my
+
+03:02
+ability to code yet especially with javascript doesn't matter
+i would say most of my students that get clients don't know javascript yet
+right yeah they just don't because it's only html and css you're talking about
+like taking a template and filling in their info that doesn't take any
+javascript it's just html or css and you'll your javascript skill will
+increase your backend skills will increase and then you'll keep adding
+stuff onto this as you go there's a lot more questions here
+uh so i actually really like these questions keep adding questions keep
+uploading questions and i think i'm going to do like a special session this
+week maybe the tomorrow night i might just play pokemon and answer your
+freelancing questions or something weird just because there's a lot of them and
+we're going to answer more during office hours but if folks want to keep asking
+more freelancing questions i think we'll just create like a time to to answer
+
+03:03
+those questions so i'll probably go live like either yeah
+probably tomorrow or friday um and we'll just we'll just go through
+rest of these questions thoughts on gen 9 i'm all for it i i'll always play a
+mainline game um but yeah so we'll find a time to answer more of these questions
+this sunday we're going to do a more like in-depth office hours we're going
+to do html and css review we're going to look at some layouts we're going to add
+javascript to those layouts and then we'll talk a little bit more about
+freelancing as well i think that office hours will go a little bit later than we
+normally do them and so let's go ahead and end with a lovely
+raid uh you know we like to we like to spread some love some
+positivity you haven't given them a follow give them a follow give them some
+likes and then i will see you all i will see you all
+on thursday if not tomorrow let's go ahead and raid
+
+03:04
+i'm gonna set it up right now one second alrighty let's see
+all right hiccup interactive is live uh they're amazing developer they also do
+like game development so let's go ahead and give them a raid
+remember you get extra channel points for for doing the raid i'll see you all
+over there have a good rest of your night hope you're excited to start
+freelancing let's get some let's do a raid
+thank you everyone hope you had a great night be over there peace

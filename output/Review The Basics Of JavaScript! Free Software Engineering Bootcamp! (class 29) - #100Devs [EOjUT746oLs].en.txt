@@ -1,0 +1,2125 @@
+
+00:00
+let's go [Music] let's go [Music] good good morning good afternoon good evening
+no matter where you coming from hope you all are doing well welcome back
+
+00:01
+so excited to have you uh you were truly and dearly missed uh a week is too long
+folks it's too long i hope you had some fun with the break i
+hope you're able to use it however you need it to use it if you needed that
+rest and relaxation i hope you got it if you're part of the ketchup crew and
+you're using it to get caught up with us live hope you used it and uh
+you did a little bit of a mix like me hope you had some fun i know a lot of
+folks are grinding out the code wars i keep a check on the clan they see what
+people are doing some of you all were willing over the break
+what you all do that's the question of the day the question of day is you do
+anything fun over your break i was sick no no good to see you too
+sleep how old did ring a lot of people played elden ring i can see that family
+time i like it the 30 hour js class let's go all apis all day nice
+
+00:02
+got a little bit of working out in all right i see you
+bought a house hey congrats birthday congrats
+so many folks were sick i have a theory about this i always used to get sick
+every year on christmas break every year all throughout college all
+throughout like my working life every year christmas time got sick and i
+always thought it was you got engaged hey congrats shrimp
+um i was convinced it's like my body just like saying all right we're gonna
+hold off until you take this break and then then then you get got
+right and so i i was afraid that that might happen to some folks at the break
+uh so if you did get sick i hope you're feeling better that's wild
+clockwork said uh friend and i got caught for multiple hours every day what
+dro hey congrats on being a dad that's awesome
+
+00:03
+hankie's like a mother hey i love it learn to not get got and watch the wire
+that's how you learn it johnny i got you at the end with the card
+three clients over break what three clients are rick that's wild
+are we grinding the pokemon league tonight kinda kinda
+first tech convention kubernetes and graphql that's awesome this is cool
+you're gonna have to give me a moment here it's like seeing all my friends again
+it's been too long i feel like i feel like i was in like you know like in
+school like you don't talk to your friends for like a week or so back in the day
+they all know they all went on vacation or something now we're back
+potential first client all right all right quit my terrible job well congrats
+got two clients thank you jesus henley on a i don't
+
+00:04
+think we go on the same line there ate some fries had a good one oh island
+catching up three clients jeez ate some dominoes two job offers that's wild
+hey glad you're all back glad to have you oh boy you know what
+we're already 2 000 strong whenever we take a break
+we always have a little bit of drop off and so it's good to see the drop off
+we're still above 2k i love to see it i i have my worries i i don't i hate that
+i hate to do breaks because i i know that when there's a chapter end some
+folks peter off but we're still above 2k baby let's go i love it
+i love it 2 000 i want a thousand devs that that's my internal goal i haven't
+
+00:05
+said that out loud but i just said it i didn't mean to say it but i said it
+juggling biohazards hey thank you for all the gift it subs i appreciate it i
+owe you uh a whisper i saw it i'll get back to you soon yeah [Laughter]
+i we had a hundred devs that's not enough i want a thousand
+and i'm gonna get me my thousand devs that's all i gotta say
+i want a thousand i'm gonna get i wanted a hundred i got a hundred now i want a
+thousand and i'm gonna get a thousand you heard you heard i wanted a hundred
+what did i do what did i do when i said i wanted a
+hundred what did i do i got me a hundred now i want a thousand i want a thousand
+that means yes you you're here i want you to get a job this is it's a hundred
+deaths it'll always be called a hundred devs in spirit we gotta keep that spirit
+
+00:06
+alive but know that i want a thousand i want it i can taste it i can smell it
+i can feel it i want a thousand another one exactly
+uh we we we've been moving i i don't think we're close to a thousand yet uh
+but we've been moving i don't know if you all been in that celebrations
+channel or if you've been in the uh twitters
+people be getting jobs already and i'm like cool that's neat like but uh yeah
+that's been cool uh and so i i think the the my goal is
+because i get to i get to peek underneath the hood a little bit i get
+to peek on earth a bit one of my one of my favorite the things i want to do the
+thing i want to do at the end of this cohort is like release all the numbers
+like every bit of data that i have i want to put out there into the world
+because i don't think there's enough data out there i think a lot of boot
+
+00:07
+camps like hold on to this data they're kind of like afraid to show it
+but uh i want it all out there because we got some really impressive numbers
+right we got some really impressive numbers and the only other person that
+i've ever seen do it like honestly was was cs50 their very first cohort they
+released it and i think that's really powerful to be able to see that data and
+so one of the things that i i keep a track of
+is like homework submissions because i think that's the people that are really
+here right we do have some folks that like we're a public platform we're on
+twitch we do have folks that come and uh and see us
+but uh when i look at the data i'm able to see some interesting things so
+very first class we had what like 7 400 people that showed up
+those those are the tire kickers right the folks that come along what is this
+
+00:08
+boot camp thing like what is going on but what yes booty licker has returned
+booty licker hey how you doing hope you're doing well it's been a minute
+[Laughter] oh i've missed you i really have missed you i hope you're doing well
+good to see you [Laughter] that's awesome booty lickers and og
+folks they've been around good to see you uh i i hope that you all come back and
+and you know next we do another cohort probably gonna happen i love to see when
+folks come back it makes my day um so i was talking about numbers real quick so
+7 400 tire kickers not something i'm going to hold myself to first homework
+how many people do you think submitted the first homework
+
+00:09
+let's throw a guess in there first homework a little over 4k
+yeah a little over 4k first homework second homework 3 500 right 3 500
+right so second homework we had about 3 500 people that submit the second
+homework so that's kind of like my that's that's like my starting number
+that's what i'm looking at right i'm looking at that 3 500 as like my
+starting number and the fact that we're still at over 2k uh
+right after a break which is always we always have people that take a
+little while to come back after the break uh and so for me this is uh
+this is pretty cool and those numbers actually probably inflate a little bit
+because we do have a lot of folks that follow along at their own pace right so
+i i actually kind of think the numbers we have now are represented the numbers
+that have been here since kind of the beginning we definitely don't like come
+
+00:10
+on don't let me toot my own hair like we definitely lost some folks right for
+sure but they're not they're not that bad it's not that bad
+and that makes my day it really does because i'm always afraid to take breaks
+uh when we looked at the last cohort uh the the breaks that that's always where
+folks dropped off and so i wanted to start off with that because if you are here
+you are doing what thousands of other people have not been able to do
+right and i say this but i really need this to be like in the back of your
+brain right that you are doing something that so many other folks set out to do
+and they're not able to do it i don't care how ahead or behind or on
+point you think you are by showing up you are doing more than hundreds of
+thousands of other people that have set out to do the same thing have been able
+
+00:11
+to do so i think that's worthwhile to highlight to celebrate that after a break
+it felt i know the break felt good i know it felt good
+but the show back up they're ready to carry some more boats and some logs to
+keep putting in the work to go through the trough of sorrow you
+you might you might have you might have been able to like
+you were in the swimming pool next to the trough of sorrow
+and you decided to jump back into the trough of sorrow
+that's [&nbsp;__&nbsp;] impressive there's not that that that that's
+that's built different as the kids say right like you are built different
+for for you to have seen the pain you know what it is now you know what
+the trough of star you know what you're in for and so to have an easy out
+to be taken out of the trophy sorrow for a week
+
+00:12
+right to be taking out a trough star for a week to feel good have some more free
+time to be able to play the video games to hang out with family more and then to
+come back a week later and say screw that good comfortable feeling
+i want to get in the trough of sorrow that's built different
+nobody ever can take that away from you ever
+i don't care for the rest of your life how things go you made a decision
+to put away the comfort to put away the things that felt good to put away that
+free time to take time away from your friends your family your loved ones from
+your hobbies and your interests and say i want to be a software engineer
+
+00:13
+i want to get a job in tech and i'm going to do what it takes to get that job
+that's huge because it's really easy to not click on twitch
+it's really easy to just disappear we don't get got we go get
+so i'm glad you're all back i'm super happy to have you we have a lot of stuff
+to get through tonight some some spicy review we're gonna do a review tonight
+but it's gonna be spicy these these problems the first couple are okay are
+we we're gonna keep it pokemon themed tonight so the the first gym that we're
+going into the boulder gym right we're we're gonna be
+they're gonna be a little okay when we get to that cascade gym it's
+gonna get a little bit spice here we make it to the thunder gym oh boy
+it's gonna it's gonna get it's gonna get up there right so just when i say that
+we're getting reviewing but before we enter the review i needed to say
+y'all are built different it takes a lot
+
+00:14
+to come back from a break and you did it so i'm happy you're here
+all right we got some fun stuff to get into i'm gonna jump right into it i got
+you're gonna have to let me get spicy for a minute though i got i gotta talk
+about some stuff to happen people get big mad
+it's every single time i teach people get big mad well especially
+especially when i talk about resumes like people get big mad i got three
+emails from people three saying that leon you're contributing to the problem
+you're you're leading people astray oh no
+no son i got deets to prove it i've been doing this longer than you i've gotten
+more people into jobs than you i've gotten more people to learn how to code
+
+00:15
+than you nah son they say this ain't my only gig this ain't it i've been in this
+game for 10 years um so you're gonna have to give me a second
+i'm going to get spicy in a second not right now i gotta i gotta gotta get into
+i gotta get comfortable i gotta get loose but i i don't i don't respond to those
+emails they're wildin i get them all the time because people don't realize
+that there's a system in play and i don't give a [&nbsp;__&nbsp;]
+about that system i'm here to get people jobs i don't care about no companies
+i don't care about the respect of my fellow engineers i could give two shits
+what somebody sends to me in an email i'm here to get people jobs and i'm
+[&nbsp;__&nbsp;] good at it and i always like i always always go back to 50 cent
+
+00:16
+i always go back to 50 cent because i ain't here to play in the normal system
+50 cent has an amazing an amazing bar that always gets stuck in
+my mind and his bars were listen you got to get in here close his bars were
+i'm just a crook with a deal if the record don't sell
+i'm gonna rob and steal i don't care about the system i don't care about
+people feeling some type of way about you calling yourself a software engineer
+you are all software engineers you are all gonna get amazing jobs
+and if the records don't sell i'm gonna do whatever i can to get you a job
+if i gotta sing a different song i gotta
+sing a different tune if i gotta rob and steal guess what i'm gonna do it
+[&nbsp;__&nbsp;] it we go get we don't get got so i'm gonna
+get spicy i'm gonna get spicy i have to i have to
+
+00:17
+because because if i don't every once in a while i think you might use a little
+you might lose a little faith so give me give me a moment to get spice a
+little bit later on but let's let's get into our stuff we got to get into let me
+get loosened up a little bit here we don't care if they agree they just
+need to get out of our way hell yeah hell yeah
+that's not financial advice y'all it's not financial advice
+people just need to read more books they don't read books enough anymore
+all right so we're going to talk about what's coming up
+are we going to talk about what's coming up we're going to talk about
+100 dabs and what it's going to look like over the next couple of weeks
+people need to touch more grass we're gonna review the big four together
+we got some spicy review with arrays and objects we'll be looking at things like
+map reduce filter uh things that we haven't seen in a while
+
+00:18
+and then if we have time we'll touch on a little bit of objects but i feel like
+this class might go a little bit over with the the two first reviews
+and then we'll probably just end there all right
+before we jump into it i always like to make sure i can answer some questions
+before we get started um did you finally see batman now that's streaming i
+it's funny because we had a break and i didn't have time to watch it but i
+hopefully yeah i'll hopefully get to it maybe this weekend
+what did i do for the break um i got an analog pocket
+and i was playing some pokemon sapphire that was that was like the thing i did
+for myself but it takes like it takes like five days for my brain to realize
+that i'm on a break and it's very hard to not do work so i really had like a
+two to three day break uh but once i did hit it i was feeling good
+
+00:19
+i was at coachella i was in coachella uh what's your opinion on reaching out
+to a potential client to be a subcontractor like you are going to
+subcontract out the work i do that all the time i think it's one of the best
+things you can do did you get an overwatch two beta key i
+did not but one of my students told me they got an extra for me so hopefully
+i'll be able to use that can the u.s hire someone from iran so
+there it's the the the way that we hire folks in the us is really really weird
+uh we have an h1b visa process which is like one of the one of the bigger ways
+to bring folks in that process is scuffed to all bomb all
+beyond belief i've gone through it two or three times with employees it goes to
+raffles sometimes where like even if you have somebody that wants to hire you
+there might not be enough opportunity for you to come in so it's a hard
+
+00:20
+process um definitely something we'll talk about more as we get into uh the
+actual job hunt which we'll get to in like two weeks we'll have like full
+classes on the hunt and i'll answer all the questions as best as i know about
+getting hired especially from other countries
+can you explain more about the 100 hours project so we're getting we're almost
+there um pretty soon we're going to be start thinking about a lot of stuff that
+we're going to need for the hunt and part of that is our 100 hours project
+it's a project where you think 100 hours into building something from scratch so
+that when you're in interviews you're actually showing the interviewer a full
+project from beginning to end that you've built
+because i tell you folks coming out of boot camps don't ever have it they don't
+ever have someone that's really theirs that they didn't just follow a tutorial
+they didn't just copy it from somebody else in the boot camp that has something
+that's truly your own it's something that helps you stand out in this process
+i have had contacts telling me about paid internships it's something that
+people are taking on at this time i think it'd be pretty hard to do an
+
+00:21
+internship and kind of program at the same time uh if it's a good internship
+they're paying you well that's probably the better gig if
+it has a guaranteed conversion the full time i never recommend
+apprenticeships or internships that don't have a guarantee to full time uh
+it's just kind of a dead end and they always have to be paid never no paid
+it's a social media app hard to make in 100 hours we'll do a version of
+instagram together across like two classes so like in six hours and then
+part of your like one of your team projects will be
+to build a social media app so you'll do that in like six hours as well so
+once once i'm telling you it seems so far away
+it seems so hard to like right now the idea of like what the back end can be
+
+00:22
+seems so distant and large but it's not that hard once you
+understand apis and you understand a little bit more glue we're going to be
+building our own back ends super quick it's going to be pretty easy
+i want to say easy it's definitely difficult to understand there's a lot to
+learn but once you learn it you're a beast and i want that for you i i like
+the moment people like there's like the the biggest joy of being an educator
+is like seeing that moment when it clicks in people's brains that they can
+build the things that they want to build right
+there's just a moment in all of my students journeys when they sit down and
+they go oh i want to build this and they like i can see it like i can see like
+all the gears they're like holy [&nbsp;__&nbsp;] i
+can build it it's like they get like they get like sucked up and like there's
+something in your eyes that just changes and i can i can see it i can smell it
+and it happens for all of my students and i want that for you and when we get
+a little ways into the back end you're going to feel that way too
+
+00:23
+and so yeah building apps will always be hard but it won't be like this nebulous
+box that you have no idea how to do it you at least always be able to get
+started and have a concrete way of going about trying to accomplish the things
+that you want to build and so that's coming soon
+and that's why we do the 100 hours project because that's where you learn
+that you can do it cool all right let's keep pushing
+all right so this week uh we have so for folks that were that were that
+redeem the reviews so chibi and there's one other person that
+reviewed that pulled i think a portfolio
+review send me a mod mail please send me a modmail we can set that up for you so
+if you do redeem those channel points send me a man mail we'll set it up all
+right this week we're doing review tonight and we're doing the beginnings
+of object-oriented programming on thursday so we're getting into all the
+weird stuff encapsulation abstraction all the stuff that we've
+
+00:24
+been reading about we're gonna put it into practice give real examples uh my
+my favorite gif of all time is well at least in terms of teaching it's the
+cardi the cardi b but like why like but why is i think so much of stuff is never
+taught about like why you would actually want to use it so my promise to you as
+we go through object-oriented programming you'll know why certain
+things are used why it's a best practice
+and so that'll be on thursday that we'll start that
+welcome mighty you found the right place the exclamation point 100 devs to learn
+more all right next week we're going to put into
+practice the stuff we learn on thursday and then we're going gonna learn async
+await and promises async await and promises are pretty much
+like the last really big thing we need to understand
+
+00:25
+about javascript before we move to the back end once we understand the oop and
+async await and promises we're ready for the back end and then we're going to
+move right into the back end so uh this week review op next week oop
+async await promises and then the back end is this a promise you'll have to wait
+and see all right you know squidward can throw it back mm-hmm
+could we got the moves for sure easy all right if you haven't checked in
+please go ahead and check in uh it's how we do attendance
+and it's also how more folks throw how more folks find us uh so they don't have
+to pay obscene amounts of money to do a boot camp they can learn it all for free
+
+00:26
+don't delay check in today please cool uh we were on a break
+just so you know we were on a break which meant that i took a break too
+uh squidward tina hold on paul paul this is a poll worthy question
+all right there we go we have a poll just to confirm uh squidward or tina
+
+00:27
+just you know if you know you know all right so it was a break and so the
+this is for who who's who writes the baddest code that's what we need this is
+this is this is for going forward who who writes the bad code for us this
+is this is an important feature of our boot camp all right
+uh it was a break so i was on break too which means i'm catching up
+and so i got through pretty much all of the mod mails
+that were kind of like super urgent i'll
+be able to catch up with the rest of the mod mails today and tomorrow and then
+i've gotten through pretty much tina wins it all right tina tina wins that
+was easy um we know they use tina going forward thank you very important 65
+
+00:28
+all right i've been way too long this is this is this is what happens
+this is what happens when i'm not allowed outside the house all right cool
+uh so i got through all the ask leon uh as a big reminder
+right as a big reminder please don't send me dms
+don't send me dms i don't see dms i don't read them there's too many my dms
+are open uh discord is like a big platform for me
+in terms of like other discords like there's some too many people reach out
+to in dms and and i won't see it however if you post in the ask leon channel
+you will get an answer from me or one of our mods if it's something
+that's already been asked a bunch of times or if it's something that they
+that they can help answer as well so if you need something
+
+00:29
+a question put it and ask leon if for some reason it has too much
+personal detail send a mod mail that way those are the two major
+channels that i i check all the time you will get a response from me uh if you
+use mod mail or the ask leon definitely use askleon first that's the easiest for
+me to get through i try to get through it every couple of days and then mod
+mail if it has too much sensitive information dms they don't get they
+don't get seen no cool all righty he's gonna get a little funky
+i am going to start testing some stuff in terms of my setup uh i want to
+uh i want to start having some other folks come live with us uh
+and so we're gonna start testing like having other people here on stream with
+
+00:30
+us and so it's gonna get a little funky you're gonna hear me testing some stuff
+feedback is always welcome if if the music is weird or my sound is weird let
+me know because i am trying to change a lot of stuff um just just know that it
+might get a little funky as we kind of go over the next couple of days um
+oh yeah so for for the [Music] the merch winners and like the raffle
+winners uh you should have gotten an a like a message from me on as a whisper
+or the pokemon card winners i just saw your message i'm not sure if i got them
+but by end of day tomorrow everyone should have gotten at least an
+initial whisper from me and then stuff's gonna start going out this week so i
+took last week to kind of get everything
+packaged up and like all the laptops and everything from best buy and so things
+are ready to go out so probably this week it'll go out it always takes me a
+little while to get everything so sorry for the delay but you should um
+you should hear from me this week i'm going to make sure i get to everyone by
+
+00:31
+end today tomorrow cool all right everybody said no networking until may
+may is getting up close i best buy myself i buy the i got got
+i buy the microsoft laptops from best buy uh
+because it's just easier to get them because they're always in stock
+yeah i guess that's i'm okay i think they care right i don't know that's
+where i get them though yeah microcenter's too far
+all right no not working until may uh client deadline
+deadline may 5th and remember if you are not able to get a client there are
+two alternatives you may volunteer for a grassroots organization
+
+00:32
+still do the same process still please you need to get the proposal the
+contract and they're signing on the line to be the best reference customer that
+you've ever had and then you also could contribute to free software open source
+first timers only is an amazing resource right an amazing resource
+an amazing resource to get your first contribution
+we have to get one of these three things done
+if you are contributing or participating in this
+experience you have to get a client you have to volunteer or you have to
+contribute to free software there's really no if ends or buts around this
+this is what's going to help us stand out and actually live up to the things
+that we claim right we claim a lot here right and
+these are one of the things that we need to be able to claim the things that we
+claim all right uh youtube is slowly getting caught up
+i've edited everything and so you'll see
+
+00:33
+youtube go up um today thursday saturday so we'll be caught up soon on youtube
+and if you haven't subscribed to the newsletter i share cool stuff in the
+newsletter more frequently than i do on discord and
+going forward there's some goodies that'll be coming up in the newsletter
+that you don't want to miss out on [Music]
+just by typing in newsletter you don't actually join the newsletter you got to
+click the link to sign up for the newsletter so just just so you know
+we're 13 000 plus strong on the newsletter 13 000 plus strong
+and our open rates are absurd our open rates are absurd like i want
+i'm like when i say at the end of the cohort i'm putting all the data out
+there i'm putting all the data out there like i'm going to i'm going to give you
+right now we have thirteen thousand four hundred and fifty five
+
+00:34
+uh folks signed up for the newsletter our last email had a 50 open rate the
+one before that had a 52 open rate 48 53 56 48
+ain't nobody else in the game doing this folks
+ain't nobody else in the game doing this that's wild
+that's wild i was talking to to microsoft
+and uh microsoft said it's the the best they've ever seen
+right like literally hands down the best they've ever seen their roi was off the
+charts y'all showed out hard and we're i can't share anything yet
+but we're cooking up some stuff that's going to be wild like never before seen
+there they they see the power of this community and they're like what can we
+do like how can we how can we how can we show up how can we support
+and what can we do to like keep the train going and so they're
+
+00:35
+coming to the table we're talking some wild ideas folks like
+really like i know i kind of ham it up sometimes i'm not hamming it up right
+now it's it's about to get about to get i don't know in these streets
+bill gates give us toasters all right uh discord we uh a big update
+for discord is a lot of folks have asked recently
+we have a lot of kind of affinity groups
+and some specialized channels um but one question i kind of always get a lot is
+hey how come there's no lgbtq plus like channel
+we do have the study community which is new um but last cohort we created that
+channel and the folks that were in the channel
+voted to make it private and so we've had it there since the beginning right
+but it's always been private and so what we're going to do is we're going to
+archive that channel so it'll always be there for those folks and we're going to
+
+00:36
+create a public one um that anyone can participate in because i really hate
+when people come to discord and they don't see that space for them and so um
+i'm what that's what we're gonna do we're gonna we're gonna sunset the other
+one uh that was private and make a public one because the study community
+is already kind of public you had to like opt into it but there will be that
+channel that we will see public um so that way when folks come to our
+community they know that this is a space for them um and it's not gonna be
+private anymore so that'll that'll be happening this week so you'll see that
+open up i just wanted to say it on stream before i did it because it might
+be confusing for some folks that are in the private channel cool
+and then we're eventually going to do some discords updates we have a lot of
+channels people have been requesting there are some channels that people
+really aren't using or not really using appropriately so we always are tweaking
+right uh shout out to the mods we have the best moderators on planet earth for
+keeping discord that is 30 000 plus people strong now
+
+00:37
+30 000 plus people strong uh i can't tell you the stuff that the mods have to
+do to keep that all running we have an amazing community
+but when it's that big it's that public we get we get some
+we get some some folks that want to come in and while around and we we we don't
+let that happen uh and so if something ever does happen
+realize that there's 30 000 plus people just tell myself send a mod mail um so
+that we can help right cool also uh nobody wants to date you just
+since we're here you give me a little time this is this is that we're back
+from a break uh nobody wants to date you don't message people because you think
+they're cute like [&nbsp;__&nbsp;] off like that's
+that's not that's not this space um as soon as we find out you're banned
+like you're never coming back like it's done so uh so please like come on
+don't be that person i don't know why it happens right and
+it's not it's not like something that's like rampant but it happens enough to
+
+00:38
+where i have to say it uh and so if somebody make you feel uncomfortable let
+us know on mod mail we'll handle it uh there's no place for that this is this
+is strictly for learning how to code i don't care how cute you think you are
+other people are this is not a dating channel
+alrighty ah we are going to do a live crafting your story class on friday um
+we did the resume class not because i want your resume locked down it's
+because i need you to start thinking about some really key bits of
+information that are gonna make up your story
+right and so that resume class was not supposed to be the end-all be-all of a
+resume it was just to get us started thinking about our experience and how we
+phrase our experience how we how we talk about our experience so that we can
+start percolating those ideas in our mind
+now the extension of that is your story it's the reason why you are
+
+00:39
+it's the reason why you're showing up in that interview
+and how everything you've experienced in your past has led up to this moment as
+being your moment to shine right and so a lot of folks have a really hard time
+connecting their past self to their present self in terms of being a
+software engineer and so we're going to practice crafting this live and i like
+to do it live because what i do is i'm just going to
+bring people up we're going to do this on discord i'm going to bring people up
+onto the discord stage you're going to give me your background and then we're
+going to craft your story live and we're going to do quite a few of them so you
+can start to see how we can massage things push things around so that we can um
+make it better will it be recorded i'm going to try
+we have not recorded a discord stage yet so i'm going to install a bot
+that hopefully records it i can't make any promises
+
+00:40
+we're gonna try it but it might glitch don't worry we're gonna do this another
+time as well so we're gonna test hopefully it'll record but if it doesn't
+we'll do another round of it don't worry um
+but that's the idea so come on friday if you want live crafting your story i
+think it's a really important part of uh program uh because it really does help
+you to start thinking about why you're special you're amazing your experience i
+don't matter i don't care what it is can be massaged into the way that makes you
+a phenomenal candidate for pretty much any job it's about seeing your value and
+articulating in a way that the person across from you sees it as well cool
+kind of dev we're gonna at the bot that people sent me should do it so i think
+we should be okay all right office hours on sunday we're going hard
+on office hours this sunday we got a lot of stuff to kind of go into some i want
+
+00:41
+to cover some some harder topics i want to go deep into git
+uh so we didn't really do our get bowl so we're gonna do our git bowl we're
+gonna spend a lot of time on git github um walking through pushing stuff getting
+more comfortable with all that so office hours will be at minimum like
+the normal three hours uh we're not gonna do it it's not gonna be nine hours
+once we get all the way through javascript we'll do another big review
+class but i think there's a lot of stuff that we have to review right now
+that doesn't make sense in like a longer review format like git github and all
+that stuff but once we get all the way through
+javascript we'll probably do a longer review probably like five hours at least
+cool all right now it starts to come up leon we're almost halfway through
+
+00:42
+will this really be enough for a job yes it will be ask me how i know
+because we got hundreds of folks jobs through this exact program last cohort
+i've been doing this for 10 years 10 years i've been in this game
+i've helped thousands of people learn how to code i've helped hundreds of
+folks get jobs as software engineers the stuff i give you
+is not something that i've just made up it's something that i've tested battle
+test it battle test it right i [&nbsp;__&nbsp;] up everything
+me me eight nine years ago i'm sorry to those students i [&nbsp;__&nbsp;] it up
+but me now i've learned some things i've learned some things
+and i'm trying to distill all the things i've learned into what i am telling you
+and i've always said from the beginning i'm going to show you how to play the
+
+00:43
+game it's up to you if you want to play it i'm playing a game
+at the end of this game the folks that play it with me get a job that's it
+i don't care about anything else the reason why i make up wake up in the
+morning is to get folks jobs the reason why i go to work every day is
+to give give folks jobs the reason why i stream for almost 400 hours last year
+because i want to get folks jobs that's all i do all i care about
+i don't care about companies i don't care about software engineers that went
+to traditional route and they feel bad about themselves that want to be
+gatekeepers to this industry they can go [&nbsp;__&nbsp;] themselves i really
+don't care now my methods aren't the scrupulous
+i'm not going to say that i am the most ethical person has ever walked this land
+
+00:44
+because there is a system in place and i am saying [&nbsp;__&nbsp;] that system
+yes i realize that there are structures in place
+i don't agree with those structures i fundamentally want to burn those
+structures to the ground if i'm standing in the ashes
+with my lighter and everything's in flames but all my folks have jobs i'm happy
+and if you can't see that there's a system that you've bought
+into that you're playing into that you're leading folks through without
+thinking about it you're part of the problem it's not me it's you
+i got a couple big things that i think about every single day a very famous
+aboriginal activist has a famous saying i it's literally on my wall i have three
+
+00:45
+sayings on my wall this is one of them one of the sayings is
+if you've come here to help me you are wasting your time
+but if you've come because your liberation is bound up with mine
+then let us work together let's say it one more time i'm actually
+i'm gonna i'm gonna look at my wall and read it you come
+here to help me you're wasting your time but if you have come here because your
+liberation is bound up with mine then let us work together
+i'm not here to [&nbsp;__&nbsp;] help i hate that word i'm not here to help
+that's not me i'm here because there's a system that's [&nbsp;__&nbsp;] up
+and i see a way to punch through it and get folks that are hurting jobs
+we started this because of the pandemic i started my actual work because at the
+end of the day i care about getting black and brown folks jobs
+
+00:46
+that's that's what i wake up every day trying to do realizing there's a system
+that created a 30 unemployment rate in our communities of color
+that before the pandemic had a double-digit
+double [&nbsp;__&nbsp;] digit unemployment rate in our communities of color
+in the second largest tech economy in the world
+let me let me say one more time i was in boston we had the second largest tech
+economy outside the valley yet we had double digit unemployment rates in our
+communities of color how do we exist in the second largest tech economy
+that have double-digit unemployment
+rates because there's a [&nbsp;__&nbsp;] system and it's broken so i don't care
+about you gatekeeping calling somebody a software engineer
+i don't care if you don't understand my methods because you haven't read any
+books on pedagogy that's not contributing to that system
+
+00:47
+i don't give a [&nbsp;__&nbsp;] i'm gonna do things i'm gonna move in ways
+that are slick that are smooth and i'm gonna show you how to do it too
+because at the end of the day i'm trying
+to get folks through hurdles and systems that push against us
+now i don't care who you are where you come from
+the system's going against you if you're a non-traditional learner if you do not
+have a four-year cs degree the system doesn't like you so we're gonna push
+we're gonna do things that make us better than those other candidates
+
+00:48
+so we're breaking a system but we're better than the candidates that that
+system produces everyone that comes out of 100 devs will
+have a paid client have volunteered with an organization who have contributed to
+free software will have a 100 hours project while worked in teams will have
+contributed to an agile process will have a portfolio a linkedin a crafted
+story all these things that their counterparts coming out of four-year
+degree programs or other boot camps won't have they won't
+so i'm going to read an email uh i i'll never share names that's not
+what we do around here i i have no i have no no reason to do
+that um if you know who this per for some real reason you know who this
+person is you had a coffee chat you saw them on twit on twitter this is not
+
+00:49
+don't ever send hate somebody's way don't even talk to them seriously this
+is this is not this is not what we do but i want to read this to you because i
+want to answer this person i know they watch the streams i want to answer you
+through i'm not going to ever answer your email because we're just not we're
+just not there we're just not there we're built different you're not it's
+okay let me tell you how you [&nbsp;__&nbsp;] up all right let's read this
+and the only reason i read it is because i get i get like one of these a week
+i get like one a week and i think it's important for you to understand
+the the things that i'm thinking through right the things that i'm thinking
+through um because it helps you understand why we do the things that we do
+here together all right all right first first thing here first thing
+
+00:50
+you ready hold on let me get i'm gonna go to chat up here with me
+suggesting that a hundred devs learners are software engineers
+at 100 devs is very misleading those who will follow your advice might
+pass the first screening but have a significant chance of being caught lying
+in the second and will feel terrible about themselves if they get caught
+that's why we do 60 interviews who cares we understand every single person here
+understands we might get got on one but we ain't getting got on 60.
+we might get got on one or two but we ain't getting got on 60 and
+that's avoiding your whole idea that these individuals are not software
+
+00:51
+engineers you are and you are software engineers at 100 devs you show up
+you go through a training program you get real clients
+you you help real people build real code every single person that graduates that
+has gone through 100 devs has at 100 devs worked with real clients gotten
+real work done have gotten paid and just because you haven't figured that out
+doesn't mean people are gonna get caught some people might not like it
+somebody some folks might like not like the idea of what we do that's okay
+hundreds of other companies that i've worked personally with don't care
+or they won't ever ever even think about it
+you are all software engineers you have all written great code
+
+00:52
+you have all written great code you have all gotten paid clients you will have
+all gotten volunteer clients you have contributed
+to free software and you will have done it while you've been with 100 devs
+i don't get that i don't get it next next it goes on it goes on
+it goes on and it just gets me because this is this is like this is one a week
+it's one a week if it was just if it was just people just don't get that they're
+contributing to a system that is broken that is oppressive that keeps people in
+unfortunate situations and they can't they can't even see it
+even though they type it out they can't see it all right next
+the other issue i have with your approach is that you have no real rigorous
+
+00:53
+process to evaluate that your students have indeed acquired the skills
+i don't believe students work as graded for example or that there is a pass fail
+mechanism to move forward or relearn things therefore i do not could you imagine
+writing this email therefore i do not think you can justify
+someone who is employed as a software engineer hundred does has indeed
+inquired the skills and is ready for their first job
+of a set of interviews contrary to what you're suggesting on stream
+let me let me let me say that's very very clear something that i believe
+in my core of my being at the very core of my being the oppressed
+or just as capable of the oppressors let me say it one more time the oppressed
+are just as capable as the oppressors if you cannot see that there's nothing i
+
+00:54
+can do to convey my system of teaching to you
+there's nothing i can do that'll help you understand if you don't believe that
+fact because what happens when you institute things that time and time
+again have been shown to introduce racial bias like testing
+is what you do is you say i am the person that can judge you and
+what you are able to do [&nbsp;__&nbsp;] that
+each and every single one of you is smart enough
+capable enough to know whether or not your application does what it's supposed
+to do every single one of you knows whether or not your site
+looks like the site that i gave you to build
+
+00:55
+i am not the arbiter of your truth i am not the arbiter of your worth my grade
+means absolutely [&nbsp;__&nbsp;] [&nbsp;__&nbsp;]
+because each and every single one of you can determine
+if you've succeeded or not and to think that folks are incapable of
+self-evaluation to think that people are incapable of
+understanding if they have done good or bad is just out of my mind wild
+wild to me wild if one person's freedom is dependent on another person's choice
+we can never be equals if one person's freedom is dependent on
+another person's choice we can never be equals a lot of this pedagogy comes from
+
+00:56
+a book called pedagogy of the oppressed definitely you need if you're if you're
+watching this you need to read that book each and every single one of you are
+capable of determining how well you have done how well you are doing and you can
+reach out when you need clarifying points or questions right on our discord
+i looked i wouldn't come here and talk wild i looked in all of our help
+channels folks get help sometimes there's a 50 60
+message thread and sometimes you gotta ask more than once but you'll get help
+code quality does not matter right now it just doesn't matter this early in the
+game you're gonna learn so much more by building breaking and doing and at the
+end of the day you can evaluate yourself you don't need
+
+00:57
+my rubber stamp of approval so let's let's let's read the end here
+and then we'll move on we'll move on we'll take our break
+i have admired your approach to solving the problem of misrepresentation in tech
+and the ingenuity of your model and methods but with this stream your
+initiative flips into being part of the problem instead of the solution nasan
+the funny thing is you thought i was contributing to the problem
+you are the problem and the fact that you don't see that that's a little scary
+now i'm not going to give any context or
+anything around this but i just want you to to see that and to see the things
+that come our way to see the system that doesn't want us to go out here and get
+they want us to get got they want us to get got but we don't get got
+we go out and get and so the fact that you showed up here
+
+00:58
+the fact that you put in the work day after day the fact that you come and
+write code get paid clients write code for
+grassroots organizations contribute to free software
+the fact that you will have an understanding of the tools the methods
+the technologies that underlie your code that you will be well versed in the
+efficiency of your code in both space time that you will understand the core
+algorithms and data structures behind the things that you write that you will
+have projects you have built from scratch from beginning to end that
+you've sunk hundreds of hours into that is what makes you a software engineer
+not what i say not what some random ass person on the
+internet says not what somebody on twitter says at the end of the day
+this is your choice you make it you don't have to listen to me in fact if
+you leave now you never look at my face again that's okay i'm i'm happy with
+that i'm okay i'm not happy with it i'm okay with it
+
+00:59
+i am not the arbiter of your success i am not the person whose decision
+determines your freedom and the ability to do things what you want to do in life
+you are a [&nbsp;__&nbsp;] software engineer we don't get got we go get so
+with that we take a break we take our break
+and when we come back we show them how wrong they are
+we show them how wrong they are we're going to write some phenomenal code
+we're going to get some good review in we're going to put in that work
+we're going to put in that work you're already software engineers you don't
+need to prove it to nobody but we're going to show them they're going to see
+we're going to see the [&nbsp;__&nbsp;] that we can
+do that other folks can't do folks coming out of four-year programs folks
+coming out of the boot camps the [&nbsp;__&nbsp;]
+that they can't do because they don't got it in them we're built different
+we really are all right folks let's go ahead and take
+
+01:00
+our break if you're new around here we like to be healthy we take five minute
+breaks to the top of the hour we take five minute breaks the top of
+the hour uh if you're able if you're able
+get up move around hydrate uh for folks that aren't able to get up if you're
+able to get some stretches in your hand if you're still able to let your eyes
+look somewhere it's not the screen try that please it really does make this
+marathon of learning how to code a little bit smoother let me put the timer here
+
+01:01
+lots of good review to get into seeing five
+
+01:05
+
+01:06
+okay i'm gonna run ads so that people don't get them when they join [Music]
+y'all spitting in this chat those who embody the problem will see a
+solution as a problem ours all right folks come on back come on
+back hope you had a good break all righty
+how's bob still smiling with the man you scarf on the season a
+all right folks come on back jason derulo hey thanks for the gift of sauce i
+appreciate you being here i hope you're doing well
+
+01:07
+i don't know jason derula can we mention what's coming up soon
+we we have it coming up on the books we're getting it on the books hopefully
+soon yeah all right so one of our next friday we're friends
+will be jason derulo talking us through their entire journey into learning how
+to code uh it it's a it's a it's an amazing journey story i think you're
+gonna learn so much from it uh so one of our next friday with friends coming up
+very very soon uh will be uh with chase under rulo all right folks uh real quick
+real quick just real quick you're here you're here at 100 devs
+who's gotten a paid client or worked for a volunteer client or has
+contributed to free software you just put a a yes in chat for me please
+
+01:08
+just put it just put it a a yes or something come on now come on now
+we don't get got we go don't stop it don't stop i'll take the kind of i'll
+take those hey it don't don't stop i don't know
+what the heck you're talking about it don't stop
+kc minus hey they've been 10 gifted subs
+that's wild yeah thank you everybody for the subs uh thank you everybody for the
+the the twitch primes a lot of primes today i appreciate it thank you everybody
+um we're getting ready to oh so we have a
+big announcement next week it's not this announcement um but i am ready to
+i'm ready to announce how much we raised for uh rc last year um because i did my
+taxes so i said i had to wait till we did all that to figure it all out um
+
+01:09
+show the music here uh and so i'm gonna share all the data so you can
+actually it's not gonna be from me you'll see it and then you'll have like
+the receipts of me sending it to rc but all of the
+uh all the subs all the bits anything that comes from twitch that goes to rc
+at the beginning of the year we already sent them what was it
+over three grand at the beginning of the
+year and so we're about to send a little bit more than that
+for this past year yeah so thank you so much it really does mean
+a lot um the the subs the especially like like the all the stuff was the
+primes all that goes directly into our emergency fund and so when folks need
+mental health support they can't afford a doctor or a psychiatrist or medication
+which is ridonkulous sometimes it really does come out of that and we
+had no emergency fund like we ran out and so it's definitely been a big help
+
+01:10
+so i appreciate y'all you know all right uh we have a big announcement next week
+like i'm super hyped for this announcement it's gonna be a really big
+announcement so i don't want to spill too much we're gonna have a lot of stuff
+to go over next week um we're gonna share how much we we raised for rc in
+the last year uh we're gonna announce something pretty big uh so next week
+just not keep that in the back your brain big big things big things
+all right let's get our review in we got some some pokemon badges to earn
+here we gotta get uh get a little spicy with this review
+so we're gonna go through the review if you're new here we always like to do
+some space repetition some active recall and things that we've learned today's a
+great class if you're just joining us or just catching up we have a lot of folks
+from the ketchup crew that are joining us live for the first time uh if you're
+part of the ketchup crew could just do like cc
+uh in chat for me real quick just so i can see that you're here or if you were
+part of the ketchup crew and now you're live
+look at this folks look at the folks that are able to take the the break
+
+01:11
+be able to get part of the ketchup crew to be able to join us live and so uh we
+always like that when we come back from break to do a little bit of review i'm
+always gonna include review because it's attempted to how as adults we learn
+but this is huge to see hey shout out to all the ccers all the ketchup crew good
+to see you glad that you're here with us
+live hope the break helps you catch up a little bit more
+all right it just goes on and on i love it all right chat what's a program
+what's it what's a program chat yeah i'm proud of y'all too a lot of folks
+were saying they're proud of the ccs it's it's it's hard to be part of the
+ketchup crew we're not gonna lie right like it's hard to to to have that that
+that muscle to to go at it uh and to know that you're catching up huge big ups
+very proud of y'all for sure i'll echo that yeah program instead of instructions
+
+01:12
+beautiful and the act of writing those instructions in a language
+the computer can understand is a programming well
+the programming language we're using is javascript we love javascript because it
+is one language that we can use across our entire front end and back end so it
+makes learning how to build full stack web applications quicker it's super in
+demand and it's something that we can pick up together to build whatever it is
+that we want to build in terms of web development
+all right talk about the big four the variables the functions the loops the
+conditionals we have a variable a variable enables us
+to do what what does the variable enable us to do
+what does a variable enable us to do yeah store stuff store information it's
+a bucket holding some values exactly it was just to store stuff into memory that
+we can use later on uh creating that space in memory is called declaration
+giving that space and memory of value is called assignment we can do both
+
+01:13
+declaration and assignment at the same time let's go we also have conditionals
+which we can check to see if something is true if something is true we do
+what's inside the curly braces if it if the condition is not true we can move
+on to an elsif which again will check to see if something is true if it is true
+then we do what's inside the curly braces if all of our ifs and else ifs
+are not true the else will auto magically run right it will automagically run
+cool we can also do multiple conditions where we [Laughter]
+so many people just one bingo you can do exclamation point bingo uh here in chat
+that'll give you the bingo card for the day uh made by our lovely alumni
+dab the bolacal and cross uh both of which are now gainfully employed
+
+01:14
+uh dab was also og member of the stream team shout out to the stream team
+holding it down mine wolf wow wells rufio wow some bangers if you haven't looked
+through their vods and we got we got another folks coming soon we got another
+person coming soon folks i'm really excited we're going to announce it this
+week the next person the stream team all right we can do multiple conditions
+where both conditions must both sides of the double ampersand must be true so if
+name is leon and status equals ballen we can also do or right where we can say
+if the day is saturday or it's sunday it's just as long as one of those is
+true we do what's inside the curly braces mega cringe
+you're new around these parts huh uh functions what are functions
+
+01:15
+chat what are functions yeah there are sets of instructions oh i
+love that reusable sets of instructions exactly
+sets of instructions that we can reuse ideally like once we get like our
+once we get into it really doing one action as a best practice and they kind
+of form the building blocks of our programs the things that we can reuse
+over and over again to do the same sets of instructions
+our functions have a function declaration and a function call
+your function will not run until you call it and when you call it you pass in
+your argument so you call mom to argue i have a healthy
+relationship with my mother i don't call to argue but when you call you pass in
+your arguments those arguments find themselves
+into the parameters let's look at an example here yeah
+
+01:16
+your pad wasn't on one second there we go so here we have our function
+declaration of yell and we have the call here we have the
+argument of hello that maps into the parameter of word wherever i see word
+it is string hello cool chat what are loops what are loops what
+are loops what are loops yeah they just needed us to repeat some
+action multiple times uh so we can repeat something over and over again
+multiple times we saw a lot of different loops so far for a while we even saw
+some that attached to arrays like for each map etc cool
+we have our traditional for loop here where we set up our increment we say
+when that increment should stop like when we should stop doing our loop and
+
+01:17
+how much that increment should change each iteration so this would be starting
+at one going as long as one is less than
+five and each time we go up by one so we
+do one two three four we'd add up to one
+to five since five is not less than five we would stop and we would not continue
+this for loop if you're new here we're going a little bit faster this we have
+full classes on all this material if you want all the past classes
+just join our discord i station point discord it'll give you access to
+everything once you agree to the rules there's a follow-on materials channel
+you can go straight to that pin post it'll bring you all the way up to the first
+assignment and you can also join the catch-up crew
+to kind of work through this material at your own pace as well alrighty
+let's get our boulder badge uh so we have some
+starter code here once again the starter code is on discord if you need it i
+haven't already got it we have this lovely boulder badge here i'm going to
+
+01:18
+open up the javascript i'm going to open up the index.html boom
+i have our boulder badge here and uh if we look in this javascript
+file we got some things to do here like i said there this one's okay we're gonna
+get a little bit spicier as we go on so there's definitely stuff for everyone
+here to learn and like i said always say as much as you can done in the time
+allotted and then we'll go over it together i'm
+gonna put eight minutes on the clock for this one a little bit more than we
+normally do but there's a lot here so take your eight minutes
+try and get as much done as you can and then we're gonna go over it all together
+time to get your fingers on the keyboard folks this is this is where we go to
+work right put in the work try your best if things don't make sense give it the
+old google and then we'll be back in eight minutes to go over it together
+
+01:19
+go for it looks like code wars abdom's added two minutes to the timer
+we'll make this a 10 minute timer then there we go got 10 minutes folks [Music]
+thank you hebdoms [Music] i'll getting too many channel points we
+gotta we gotta we gotta switch up some of these these costs
+just all caps dull down i wouldn't loving the pokemon team this week can
+
+01:20
+you figure out what i did during break thank you sudo katya a there you go
+cool dude i'm really into it i've been playing around with it a lot
+no five hey thank you for the gifted subs what happens if you run out of pokemon
+cards not gonna happen the knock is just a it's a
+
+01:21
+something you can redeem for i think it's like 20k channel points
+i think that's the first time somebody's redeemed that this cohort
+
+01:22
+good luck with the amazon interview uh ah so some folks are seeing that that
+exactly that code wars grind is paying off right now uh jace
+jason if you're cool yeah if you want us to give away on stream
+send me a mod mail we can figure it out that'd be cool to do on stream
+dakota simba's doing well they're on like a really specialized diet other
+
+01:23
+than that they're doing fine you got this uh
+you want to make sure that you've like done like the amazon specific questions
+and uh send me a mod mail just so i can be in touch
+will there be another break during boot camp yeah we're gonna have a few of them
+we're gonna have a break in june um for for a little bit just so that
+folks can actually start working on a project and then we'll have another
+break towards the end of program but it's really it's not really like a full
+break it's just so you have time to work on your projects that's awesome blender
+
+01:24
+oh you got some folks coming in dunzo's already what get out of here
+spending your free time on a dnd app minimal that's awesome
+uh p it's not a test we don't do tests around these parts now this these are
+coding like code alongs so we take breaks where you write some code based
+on the things that we just learned then we go over it all together
+tower if that's what you're happy with definitely count to my book
+how can we assess how long a project would take um
+you can try and break it down into smaller parts and think about each part
+and how long that would take you often kind of just talking through it
+with another engineer can be a good way if you've never built something similar
+i often will talk to other engineers if it's something completely new
+
+01:25
+if i've never done it before i'll say i'll get a better time estimate i'll do
+that and then keeping track of like your own i don't want to say velocity but
+keeping track of your own like how long it takes you to complete stuff over time
+will give you a better estimate of how long it's going to take you to do stuff
+in the future drink we're we're almost halfway through
+we're doing like 60 classes and we're on class 30 right now to a week sorry
+around class 29 to a week i can't see your name because it's too
+dark let's see oh multi hey wow congrats good luck
+
+01:26
+we'll go over test towards the end yeah uh which you can just put them on there
+and the folks asked you can go deeper no idea tower no idea
+talon if you're still struggling have you done every single thing that was in
+our list we had that full class on it some folks
+try one or two but they don't do all of them do all of them and then do them all
+again like repost make sure you do it multiple times um
+it's hard it's a lot of work doesn't come easy
+have i blasted through more than 208 cues on code words for the break that's
+
+01:27
+wild congrats really one they're pretty public about what they look for
+um so post maybe an ask ask leon and i can i can share what i know
+how to hear max all right little less than two minutes folks
+dig deep remember go as far as you can we're gonna go over it all together
+also remember you can always just mute me you don't have to listen to me or the
+music you can just mute me and then come back when you see the timers up that's
+why i leave it up hey glad to see some duns coming in
+
+01:28
+has been amazing hey there there's a hump to code wars right like once you
+get over the the hump of like how cold wars works understanding that you're not
+always gonna be able to get the answer that you're not always gonna understand
+what the heck they're talking about like once you get past that and you're able
+to spend more time on the analysis you start to build up it becomes a little
+bit easier a little bit easier and then you hit your flow pretty dope
+dart i said what is your idea of an analysis on a problem you don't
+understand at this stage just look at the solution never spend
+
+01:29
+more than 20 minutes on the code wars um if you don't know like if you're if
+you're hitting flow and you feel like you could actually solve it sure keep
+going but if you've just been like staring at it googling have no idea
+don't spend more than 20 minutes look at the solution spend more time digesting
+understanding the solution breaking it down that's always going to be way way
+way i don't understand why people don't there's some things that i just feel so
+duped by all right folks come on back come on back let's go over this together
+there are just some things i just feel so duped on that i just put so much time
+and energy into in my life that then to come out later to understand like that i
+just did it so wrong right and i i love when i find these
+things out because like your life is never the same
+the first one for me was like understanding that even though i had
+done very well academically i actually did not know how to learn i had a very i
+have a very good short-term memory or i used to until sarah quill destroyed that
+
+01:30
+but i had a very good short-term memory and i was able to use that to get
+through school very very very well but i never actually learned how to learn i
+didn't know anything about active recall space repetition stuff would go in one
+ear and not the other after i took the test like i just never actually learned
+how to learn so that was like a big thing i was like how come this is
+how come this is not taught every and every university at every middle school
+it just seems really wrong to me then the other thing to me is that when i was
+first starting to do coding challenges i used to do project
+i can never say it right euler project oiler i forget i always
+say the name wrong i don't know um which are like math related they're like code
+wars but they're they're all math related and so this is like 10 years ago
+euler there you go yeah and um i would do them i would get some of them
+but i would just bang my head for hours just like not knowing
+
+01:31
+like how to solve it and i would sit there for hours and hours
+and then somebody's like just look at the solution and i was like just look at
+the solution you can do that like you're allowed to just like google solutions
+right and then i just looked at the solutions and i've learned so much more
+looking at solutions than i did from banging my head against the keyboard i
+used to literally sit there and then literally bang my head on a keyboard
+thinking that would do something when i should just looked at the solution and
+then did it again once i understood the solution because now i've actually
+learned it i've done the space repetition because
+i'm doing it again and when i see those same patterns again i'm i'm like
+let's just say that like code i'm i'm talking to the code wars
+folks right now i'm gonna i'm gonna add i want them to add like a little line
+that says like after 20 minutes look at the solution all right um
+
+01:32
+that like there's those things that like blow your mind all right let's take a
+look at this together all right variables cool
+you are getting ready to face brock for the boulder badge you want three pokemon
+on your team that have each evolved that have each evolved at least once
+you have bulbasaur which is at level five and evolves at 16. caterpie which
+is one involves at seven and we which is at one and involves at seven as well
+create three variables to store the number of rare candies each of your
+pokemon would need to evolve uh rare candies increase your level by one and
+then create a fourth variable called total candies that sums all the rare
+candies for you so let's go ahead and create our bulbasaur candies
+and we're going to set that equal to all right they're at level 5
+and they evolve at 16 so we could just do like 16
+minus five like if we really don't want to do the math
+
+01:33
+if we don't want to do the math we could just do that all right let um caterpie
+hey thank you for the raid thanks for bringing the crew along
+how are y'all doing what are we all working on thanks for the raid
+hey what's going on everybody uh right now we are working through
+coding challenges that are all pokemon themed so we're working through some
+basics of programming variables conditionals functions loops and then
+they're gonna get the problems gonna get a little bit more spicy we're gonna see
+things like map and filter and uh some some other fun things to do
+thank you for the raid hope you're all doing well i hope you all had a good
+stream thanks for coming through uh for folks that are new we're running
+a 30-week software engineering bootcamp where you can learn everything you need
+
+01:34
+to get a job as a software engineer welcome everybody
+cool right so we had our bulbasaur candies uh how about our caterpie candies
+cool all right and so we set our caterpie
+which is level one it involves at level seven let's do seven minus one
+and then let our last one which is weedle candies
+equal and i think it's the same thing that they evolve at seven and they're
+currently at one and so there we go alrighty
+now the last thing we need is a is a sum let's do let total candies equal
+and then we'll do our bulbasaur candies plus our caterpie candies plus
+
+01:35
+our weedle candies all right that's good to me and then
+this way to do this see what we had to do with it
+finally create a four favorite multiple candidates and sometimes all the
+rankings let's just console.log to make sure it's actually working uh so let's
+go to console.log total candies let's go ahead and save it uh if this is
+working it should be 11 plus 6 which is 17
+17 plus 6 was just 23 so we should see 23 right let's see the console
+refresh boom 23 into the console quick mask looks
+like it's working to us got that beautiful boulder badge
+i am the proud owner of a boulder badge from the 1998 pokemon world tour
+i got my boulder badge on the first try got my cascade badge on this first try
+
+01:36
+and i lost the tournament and i was very sad all right
+i actually have like the like the official badge like it's like it's like
+that big i should put on my desk i'll maybe i'll grab it during break yeah
+and i got the first i have a legit gen one mew
+on a flash cart because the batteries do die and the official certificate of
+authenticity i know luxosaurus all right next one
+conditionals and functions all right you have a charmander in your party
+charmander can only battle if the temperature is above zero degrees
+celsius create one function that converts fahrenheit to celsius and
+another function it tells you whether or not charmander can battle beautiful all
+right so our first one we're going to create like a function that converts the
+fahrenheit to celsius so let's create a function here
+
+01:37
+and we're going to call it uh far height to celsius cool fahrenheit to celsius
+and we know we're going to take in a temperature so it's going to say temp
+because that's the temperature that's going to come in
+i don't like using just the word temp though because it could mean like
+temporary or something like that so i'm going to say temp val
+or temp i just probably spelled out temperature there you go temperature cool
+what's wrong with this though what's wrong with this function so far
+yeah i did a capital f in chat i did a capital f it's not a constructor
+function it's just a function no capital f good guys good eyes good eyes all
+right so let's go ahead and then say let's create a variable called converted
+
+01:38
+val um or let's call it convert it to cell
+and we're going to set this equal to and then what's the anybody know the math
+what's the math if i put the math in in in chat for me math and chat for me
+please temperature minus 32 times five knives okay so we'll do temp temperature
+uh minus minus 32 and then we're gonna times it by five
+divided by nine well it looks good all right so now we have our function
+uh that can [Music] do the conversion but we haven't done anything with the
+converted value what should i probably do with this converted value
+i want to return it because what i'm going to do is i want to call this function
+and get the converted value so i'm going to return
+
+01:39
+convert it to celsius and that way i know that this function spits out the
+converted value so i can pass in any fahrenheit value
+and get back a celsius value cool now the next function we have to create
+is a function that tells you whether or not charmander can battle
+so let's go ahead and create a function here i'm gonna call it can charmander
+battle cool and so can charmander battle and we should let's see it's really
+conversation no question it tells you where that charmander can battle so i
+think we're gonna need the actual we're gonna need the actual value right
+like when we probably when we call can charmander battle we should pass in like
+the current temperature so current temp right so we should pass in the
+current temperature right to figure out uh what the current
+
+01:40
+temperature is we'll have to call the other function to convert it but at
+least we're passing it in so now we have the current temp let's get the the
+the like new value so like let's get the convert it and set it equal to
+fahrenheit to celsius and we're going to pass in current temp so my goal here
+right my goal here is i am calling this function here
+in line here so whatever gets spit out of this function
+is what converted is going to equal right and so that's the idea the idea
+here is that i have one function whose sole job is to convert fahrenheit
+to celsius and it spits out that value and then i'm calling that function
+
+01:41
+down here with the current temp so it should take whatever the current
+temperature is i'll get that converted value back it's stored inside of
+converted and the neat thing is maybe eventually i want to create um different
+different characters that deal with different values so maybe i can
+eventually have like a celsius to fahrenheit like i'm starting to separate
+some of these these things out so i can reuse them as needed all right so now i
+should have the converted value and the next thing i just need is i just
+need to know whether or not charmander can battle uh so i can just do a what
+what can i probably do yeah just a conditional cool so we'll say if
+convert converted is greater than zero if it's greater than zero then we know
+
+01:42
+charmander can battle beautiful else charmander cannot battle cool
+i think that looks good we have the function chart can't turn
+cancer our mandate battle we're calling our converted function and then we're
+just doing our conditional let's go ahead and call it i did it ternary
+definitely could do a ternary here definitely doable
+uh i'm just typing it out i think it's a little bit more readable right now
+all right let's go ahead and call it can charmander battle and
+zero degrees celsius is 32 degrees fahrenheit so let's pass in 31
+because that should be charmander cannot battle so let's go ahead and come back
+here let's refresh all right charmander cannot battle uh
+
+01:43
+and then let's do 33 because that should be over zero let's go ahead and save
+all right charmander can battle there we go
+we did see something interesting what's something interesting that could happen
+here well you return true or false for candy cane battle that's a cool idea
+yeah if somebody throws in zero that's not technically
+it's not technically greater than zero right so there is like this we have to be
+it does say above zero so i think we're good right we don't account for like
+zero at all uh it does stay above zero degrees and
+so we're good with this but yeah something i did think about i'm like hmm
+they throw in zero yeah all right cool let's see this last one here
+all right you have joined an underground pokemon league in this league trainers
+
+01:44
+can use any number of pokemon print to the console pikachu i choose
+you x times where x is the number of pokemon the trainer you are battling has in
+their party i'd be totally down to start a pokemon fight club
+i've always wanted to do like really big money games in pokemon
+like big money games like kind of like how like fighting game
+community does big money games but like on the line yay there we go
+all right uh this is just i'm just gonna use a simple loop here
+uh i'm gonna call this function under it's underground one word or two words
+underground pokemon league and i'm gonna take in uh party size
+
+01:45
+cool so party size and i'm just gonna have a loop in here
+and this loop i'm gonna start counting at one
+so i'm just gonna set up i for increment we're gonna set it at one
+and we're gonna say while i is less than uh or equal to party size
+cool party size we'll go up by one and then all we want to do is to the
+console log print pikachu i choose you cool let's just throw that in there
+looks good let's do um a party size of six
+underground pokemon league let's throw in six and let's see if this works
+never speed underground was my favorite racing game that was a really good game
+
+01:46
+boom pikachu i choose you we can see it printed six times the console it is
+working awesome cool first try alrighty questions about these ones while we're
+here as always you'll get my solution code after stream why don't i have to do
+partysize.length because i've already passed in it as a number
+maybe maybe if we passed it in as an array uh so maybe let's see maybe if we pat
+like if we passed in their party as an array maybe things would be different
+right but this i just passed in as a number i didn't really clarify if it was
+like a number or an array but let's let's just say they passed in their
+their value as an array um so i'm just going to comment out this one here
+and let's call it again underground pokemon league and let's
+
+01:47
+just pass in an array of pokemon uh bulbasaur [Music] uh we had what was
+the ones we had up top caterpie and weedle all right so now they have a party of
+three uh what's the only thing we have to change for this to work
+let's do there's only one change we have to make here for this to work
+yeah we can just add dot length here there we go
+and now we'll see that there are three values inside of this array so
+partysize.length would be uh 3 and this would run three times let's
+confirm that that is true boom there we go now this is one of those things
+that i want you all to do when someone folks ask me leon what do
+you do when what do you really do when you're doing code wars this is what i do
+with my code wars especially if i did like if i didn't
+
+01:48
+know how to solve the code war and i'm looking at the solution i look at this
+solution and i go hmm what if it was an array
+and then i fixed it so that the array works what if what if there was
+what if there were spaces right like like like that idea of like
+playing with this code right like you've seen the solution part of that
+analysis should be to like play with it break it ask questions about it and and
+tweak things and try getting those tweaks to work that's part of the
+analysis that i do uh airasi said prep yes we'll cover
+when we get to our hunt classes uh we're
+gonna talk about prep you already saw if you were in hello rufio's stream the
+prep method for working through the code wars and that's for like when you're in
+an interview scenario i do prep until my eyes bleed um you know
+but we'll get there cool keep pushing folks we got more badges to
+
+01:49
+get this evening definitely got to get to that cascade badge
+all right chat what are arrays a prep is a system that i use for
+working through all of my coding challenges
+we're not there yet because we're kind of just starting code wars and we're
+getting into it but once we get to the hunt like the like how we
+start thinking about getting a job um we're going to spend more time on it
+and we'll cover prep we'll cover star we're going to cover all these different
+uh things that we need to do to do well in interviews
+yeah razer toaster is exactly our toasters uh a data structure stored
+as an order collection what oh it just stores stuff and there's an
+order to the thing that is stored uh in arrays the thing that's tricky is that
+
+01:50
+they start counting the stuff at zero right start counting them at zero
+so that means we have indexes that start at zero and it is an ordered collection
+of stuff we like to joke and think about bill gates toaster because we can put
+anything into bill gates toaster and it always generates new slots as we need
+them beautiful alrighty declaring arrays there are two
+major ways to create arrays one you see here using
+literal notation where you just use the square brackets chat what is the other
+way that you can yeah we can use a constructor that could build a race too
+cool the funny thing is i don't hear the knock for whatever reason
+i don't hear it on my output but i know that you all hear it which is
+interesting i love one i love when stream finally
+like when you all finally figure out certain things because that knocks it on
+
+01:51
+there for a long time i don't think anybody's really used it before but now
+now everybody's gonna be using it cool so we got our little notation
+when we declare our arrays we can put values into the array and we can put any
+type of value we learned about so far any data structure so far whether it's
+strings booleans numbers other arrays when we start working with our apis we
+saw objects with arrays with objects inside of arrays like it gets wild folks
+anything can go in there with our arrays we start counting the
+elements based off of their indexes of zero so we would have our first second
+third fourth element but if we care about the slot that they're in those
+slots have indexes and we start counting those at zero so zero one two 3
+and we can use those indexes to pull stuff out of the array so if i ask for
+the zeroth element i would get zebra if i asked for the first element i would
+
+01:52
+get undefined why would i get undefined if i asked for
+index one in the new array yeah there's nothing there there's an
+empty value so that is undefined beautiful
+not only can we get stuff out but we can put stuff in so i can go ahead and use
+that index to put something into the array so here i'm putting string bob
+into the array beautiful we can use the length property like we
+just saw to figure out how many elements are in the array remember
+the length counts one through whatever so you don't have to worry about
+the index being at play there however if you want to use the length to get an
+index you're always going to be off by one that's why we see a lot of that
+minus one because we want to account for starting at zero
+all right we can also iterate through our arrays we saw a four each where the
+four h will run once for each element in our array it's going to pop off the
+
+01:53
+element and its index tint pops off its element and its index and
+some of the other similar methods do the same thing where they can pop off the
+element and its index hint pool and now we have a lovely cascade badge
+to earn but before we adventure no peaks no peaks
+before we adventure to get our cascade badge uh it is time to take a break
+alrighty folks thank you for putting in the work thank you for being here thank
+you for pushing your mind thank you for getting in this review
+trust me it pays off in the long run they get this repetition in so let's go
+and take our break well deserved five minutes on the clock
+if you're new around here if you came with the raid we like to be healthy we
+take our breaks to the top of the hour please if you're able get up move around
+hydrate kiss some babies play with some dogs look out your window get your eyes
+
+01:54
+focused on something that's not the screen i'm gonna run ads so folks
+actually take a break appreciate y'all for being here
+
+01:57
+
+01:58
+
+01:59
+all right let's do this thing so you do um you're all right folks come on back
+got a a cascade badge to uh to win here this dominoes for you hey i appreciate
+you thank you all right folks come on back
+what's your favorite pokemon generation uh i i'm gonna get some hate for this
+but it's hands down sixth gen x and y x is the best pokemon game ever i i'm
+not a i'm not a i'm not a i'm not a playing for story type of person
+
+02:00
+i'm i'm i'm there to take names and and win some some badges type of person you
+know and pokemon x had the best online of any pokemon game ever in pokemon x
+you had the pss system where somebody in japan would like walk by
+you could tap their name you could trade
+with them you could battle them and then work all the way up to them being on
+your friends list so that you could talk trash to them while you battled them
+that hands down is the best the best system pokemon has ever had
+but yes all right let's get into it folks
+we have this lovely cascade badge to to get uh this one's gonna be a little
+spicier if we go ahead and look in here go to cascade badge
+index.html we have a javascript file i don't think i fixed the image let me
+check to make sure the image works or not no it's broken let's fix the can
+
+02:01
+somebody figure out why the cascade badge is not loading
+why is the cascade badge not loading i spelled it wrong yeah if we look this
+is this is cascade that's my no i'm not gonna say anything uh cass
+cast cast day cass cast day test caste there we go let's put a kick cast day
+save that let's go back to make sure it works oh that a lovely cascade badge
+all right i always got to be careful two things
+uh one thing we haven't really i haven't i haven't done it to y'all yet but
+eventually i'm gonna forget the script tag remember if you want if you want the
+if you want your javascript to run you got a link to it and so you always have
+
+02:02
+the script tag at the bottom but i can't always guarantee it's going to be there
+so if you're troubleshooting you're like leon i tried it all it's not working
+make sure it's linked okay just telling you all right if we look at this cascade
+badge we got um some arrays problems we got some some doozies of a problem
+here so i'm gonna put 10 minutes on the clock for this one this is a lot of time
+because i want you to go as far into it as you can feel free to skip around if
+you need to remember go as far as you can in these 10 minutes and then we're
+gonna go over it together all right we'll go over it together
+we'll talk about some of the homework we'll talk about a project i want you to
+work on and then i think this might be the first time we actually end early
+
+02:03
+alright folks go at it 10 minutes can i get the badges oh let me see if i
+
+02:04
+
+02:05
+
+02:06
+can grab them real quick right back me silky shared in the ask leon channel i
+would love to see the game you've been working on
+new horizons this is all harris heller stream beats
+i'm actually in a pokemon fight club in discord
+first rule of pokemon fight clubs we don't talk about pokemon fight club jeez
+luzix said what are some specs to be looking for affordable laptop to code
+with um there is a subreddit called suggest a laptop
+just go there follow their rules paste the things they need and they will
+
+02:07
+literally find you the best laptop for your preferences at your budget
+they're they're beasts with it so i would definitely go there suggest a
+laptop on reddit a woven this is the cascade badge you
+have about five minutes and then we're gonna go over it together
+uh in a tech interview what queue would their javascript questions fall under it
+really does depend i've seen eight sevens and sixes quite frequently i
+think once you feel comfortable with sixes you're ready to like you can start
+interviewing beforehand but once you're comfortable with sixes you're ready for
+a lot of interviews not all of them but a lot remember a lot
+
+02:08
+of our folks even have technical interviews uh i don't understand question three
+what you're looking for and we're gonna go over in depth is
+does the index like can the index go into that number like is it like can you
+can't divide by zero so it doesn't count but one one can go into six uh two can
+go into 32 3 can't go in the 82 4 can't go into 9
+but 5 can go into 25 so that's what you're looking for
+
+02:09
+we're gonna don't worry we're going to break that down if that's too soon
+yeah i think i think it's really important my recommendation for a laptop
+is hold out as long as you can until you get a job because the job will most
+likely give you a laptop anyway so i'm a big fan of getting an old
+chromebook the crispy nuggets at it an old chromebook
+put linux on it and that's enough for web development uh an old thinkpad an
+x220 x230 put gnu linux on it and called a day
+that's that's enough to get you through learning um you don't have to spend more
+than 150 if you need a laptop uh to do well
+get a job and then they'll give you a better one
+you need a laptop for interviews uh nowadays yes because a lot of them are
+still remote or something that you can write code on i should say
+you attended a virtual conference and won a macbook pro that's awesome
+
+02:10
+[Laughter] montana said or buy it from costco and return way later shh
+we've talked about we've talked about the best buy loner program here on
+stream before well i have not yet but i will it has been a while my apologies
+that's awesome cloud so the so if you're a best buy rewards
+member you get a month and then if you're like a like the next
+
+02:11
+tier up it's like 60 days um yeah costco is probably better because they
+they take it back whenever be careful you're gonna get another
+email yeah i'm releasing too many of the secrets this evening
+uh worldsworth you can do anki totally in the browser you don't need to
+download anything for anki just use the web version yeah
+dragon said after two weeks they try to stick you every stocking fee be careful
+there are certain things that do over stocky beats that's that's why that the
+best buy loaner program used to be way better but they kind of caught on yeah
+costco is 90 days for electronics that's good to know yeah this is not financial
+
+02:12
+advice folks make sure you read the policies
+i'm down cloud i think definitely by the
+end of this cohort it'd be great to have
+all right 20 more seconds we're going to go over it together
+alrighty come on in come on in let's go over this together folks all right
+
+02:13
+so folks asked here is my competition badge or the nintendo training tour
+in 1999 yes yes believe it or not uh i don't know where i actually have
+two boulder badges so this is the boulder badge
+and i don't know where my other boulder badge or the cascade is because we move
+some stuff around i'll probably find it take another break but
+um so i have the cascade badge and then folks this is it the mega memory card
+that has the gen one mew i have the official certificate of
+authenticity that matches it as well i don't know where that's at the moment
+but i have it this is like all right and it's backed up on an original gen
+blue cart with a fresh battery i'm gonna say
+
+02:14
+all right my flexosaurus is coming out people people ask me leon is pokemon
+thing is this new for you i'm like nah son
+i've been in the pokemon since this this
+this is this is this is og pokemon stuff right here toys r us
+sent out a vhs tape hyping up the the the franchise before it even came out
+before the franchise even came out before toys r us even had anything
+they had this vhs tape that they sent out
+and i used to watch that vhs tape every single day and be like this shit's gonna
+be amazing and then i couldn't i didn't get the game when it came out
+because didn't have funds like that but johnny i'm not going to say their last
+name they let me borrow their pokemon blue i i
+i looked that's the only time i ever talked wild to my mama because she was
+like leon time to go to bed and i'm like ah i gotta catch i gotta catch the
+pokemons as i was like sitting underneath the lamp in my living room um
+
+02:15
+so yeah shout out to johnny johnny c i'll just say that you're a real one and
+then eventually i got my pokemon blue and it's been in a wrap
+alrighty erase your pokemon party order which is a list of pokemon right which
+is a list of pokemon has been leaked to misty i forget when i write this stuff
+please create a function that reverses your list and prints it out to the
+console so when you're battling you don't want people to figure out your
+your pokemon order and so misty has figured out our party order and we have
+to reverse our our our list of names so i'm hearing some words here i'm
+hearing list of names so far what we learned in javascript
+when we hear like a bunch of names what am i going to use here
+yeah i'm going to use an array so i'm going to have a function that takes in
+
+02:16
+an array and i'm going to want to return the or so i'm going to want to print
+this to the console the reverse of the array and some folks in chat already saw
+it so let's go ahead let's create a function we're going to call this reverse
+party and we're going to take in our party list
+and we're going to return the reverse of it return
+and we could probably just do it like this party list sorry i keep saying
+return we want to we want to console.log it console.log
+and we want to console.log partylist.reverse reverse reverse cool
+so that should take whatever the array is and reverse it now a lot of folks
+kind of get tripped up with the reverse because uh reverse is a what method it's
+a method that works with what every body clap your hand
+
+02:17
+yeah it works with a raise and so some folks get tripped up because they're so
+used to doing split reverse join that they don't realize that it's not a
+string method it's an array method that split method is what takes the string
+and turns it into an array for you to reverse if you're doing that palindrome
+question that shows up all the time on cold wars
+i keep writing retards i'm so used to code words me too yeah comes in a lot
+all right so let's go ahead and make sure this works let's go ahead and call
+our function reverse party and we're going to pass in
+an array and so let's pass in an array of pokemon bulba charmander pika chu and
+butter for butter free there we go all right so let's save this and let's
+go and open this one in the browser make sure it works
+
+02:18
+and i'm going to put the console i'm going to refresh i don't see anything oh
+i see butter pikachu bulba there we go cool we called it
+and we saw that butter was first then pika then char than bulba so it has
+actually reversed our array of pokemon cool
+i did the exact same array that's wild all right so that first one done so
+let's keep pushing here all right create all right given two integer arrays
+a and b both of length of greater than one create a program that returns true if
+the sum of the squares of each element is strictly greater than the sum of the
+cubes of each element in b i thought this was pokemon i thought we
+were playing here all right let's take it let's read this
+
+02:19
+out a little bit see if we can get what the heck's going on here all right
+leon no math also leon this mess we gotta so so the reason why i gotta
+mix some of these in i gotta pepper them
+in is because this is the [&nbsp;__&nbsp;] you're
+gonna see during interviews right the reason why codewars is so helpful
+is not that you get better at programming not that you can like write
+code more efficiently but it's the fact that you can actually understand when
+these types of questions are being asked to you
+because the first i don't know say 100 code wars that you do
+it's really the phrasing that gets you right it's really the phrasing that can
+get you and in an interview right in an interview where they're
+saying this nonsense to you and you're a
+little hype you're a little i don't know
+a little nervous right it can just it it happens to a lot of us you'll just kind
+
+02:20
+of glaze out right and so you want to get comfortable with these phrases with
+these terms with the way of the questions being asked to you and that's
+where code wars really can can help eventually we'll get the lead code of
+course but the the phrasing is something you pick up by doing these code wars
+over and over again so it's not a shock to the system when you see it if you saw
+this question and you were like that means you need to do more code worse
+you know it will help with that shock to the system the phrasing is definitely
+probably the worst part cool all right given two integer arrays when
+somebody says integer arrays what does that mean true integer arrays is what
+what am i just saying there yeah an array of numbers so i have two arrays
+that are full of numbers one is going to be called a the other is going to be
+called b and they're going to both have at least
+one number in it so all this means is that we have two array of numbers one
+
+02:21
+called a one called b they're both at least greater they both have at least
+one number in them and we're going to create a program that returns the sum
+of all the squares of each number in a so we're going to add a bunch of numbers
+together to get a sum but we're squaring each number that was in the array and
+then adding it to the sum right so if we had an array that had two numbers in it
+right two and three we would square the two we would square the three
+right so this would be four and this would be nine and then we would
+add them together and we would have 13. right so we're we're going to sum
+all the numbers but after we squared them so whenever i know i'm going to keep
+like a sum i'm doing something over and over again
+
+02:22
+uh what am i going to use here what's the method that screams out in your mind
+as soon as i say i got to sum something yeah reduce comes to my brain
+i think i'm going to do two reduces one reduced for the squares and the
+first array and another reduce for the cubes on the second array
+and then i'm just going to compare them so i actually think this is just going
+to be uh i think i could probably like just create a function here
+uh we're going to call this compare square and cube
+and we know we're going to pass in two arrays
+and they've already given us the name for these arrays or the names of our
+parameters a and b and i'm just going to return
+the reduction of a and b and just throw a greater sign in there i'm going to
+have this greater sign so i'm going to i'm going to have the a reduction so a
+
+02:23
+dot reduce on this side and i'm going to see if that's greater than the b
+reduce on this side that's it so i'm we have to fill in what's in the reduce but
+that's the idea a will reduce down to a sum
+and b will reduce down to a sum and then i'm going to compare
+if the a reduction is greater than the b reduction
+cool we know that our reduce takes in two parameters we just kind of know that
+syntax what are the two parameters that we always have with the reduce chat
+yeah we got our accumulator and our current value
+and then all we're going to do is add to
+that accumulation so we know we're going to keep adding to that accumulation
+but what are we going to add to this accumulation what are we going to keep
+adding to this accumulation it's not just the current number what
+
+02:24
+are we doing to that current number yeah we're squaring that current value
+so this one we're squaring it so there are tons of ways to square we
+could do math dot pow and take in the current value and say do
+it to the second power uh in this case we could just do uh c times c
+that would work that'd be a square right and we can also do the other shorthand
+that we learned i think a couple classes ago of the square the
+that shorthand for square so astric asterisk 2 is shorthand for squaring um
+and then just to be safe i'm going to put my zero at the end here
+and that zero is just gonna it's just gonna help me with what
+just it's just helping me if there's a there's a certain what
+yeah it helps with the initial value specifically of the accumulator so we
+
+02:25
+don't deal with is it a string is it a number right it gives us initial value
+to start with it helps us with the type conversion there's a lot of goodies that
+we can get by by having that number there to start so we're just going to
+put it there um and we should be good especially since we know that we're
+adding to the accumulator cool and then the second reduce is almost the
+exact same thing we have another accumulator and another current value
+and we're going to add to this accumulator but this time it's going to
+be a what it's not going to be a square it's going to be a what
+a cube exactly put our zero there to protect ourselves and this looks good i
+think we can kind of make this smaller just to see it on one line
+i definitely i'll make it bigger again i just want to have it all one line as we
+
+02:26
+talk about it a little bit bigger there we go yeah so for now have it
+online but we'll make it bigger in a second so the idea here
+is we can eventually call this function uh compare square and cube and we can
+pass in two arrays and i'm gonna pass in two arrays that
+are exactly the same i was gonna do two two two just to make my math easier and
+two two two here all right so let's let's break this down
+i did not study it off my break no no no this is just code wars tomfoolery here
+let's take a look let's walk through it we'll we'll
+this we wouldn't be able to see the result on this one so let's just talk
+through it first all right so this first array this two two two array
+
+02:27
+falls into a wherever i see a it's that first array so here's this first array a
+and we're running on a we're running a reduction of it we're reducing it and so
+reduce always returns what reduce returns what
+a singular value right it returns a singular value so it reduces all the way
+down into one value and so we know out of this reduction will be a singular
+value right and so what we're going to do is we are going to
+start off with an accumulation that we are going to start adding to
+so the very first time this runs r2 is the first value of c
+and we've gone ahead and created an accumulator that starts off at what
+
+02:28
+zero we have our accumulator starting off at zero we're gonna pass in two
+all right so zero plus two squared so that's what two squared is what four
+so we add four to our accumulation and so now our accumulation is no longer
+zero it is now four and then we run again
+we pass two n is the second iteration of c we're going to do it again where we
+square 2 which is 4 but now we're adding 4 to the previous 4 and we are at 8.
+the very last time this runs we pass in 2 again
+we're going to square 2 again we add that 2 to our accumulation
+and we're no longer at 8 we are at 12. so this first value
+
+02:29
+this whole reduction reduces all the way down to what 12
+right reduces all the way down to 12. great now let's look at the other side
+we have b reduce so now we're going to call if we see b here we see that b
+is the second array wherever i see b it's that array
+so it's the same thing as if i had plugged that array in here it's the same
+thing as 2 2 2 being here right we're reducing that array instead of having it
+there instead of it having there we have the parameter of b
+all right now the very first time this runs our accumulator is at zero
+and we're gonna take our two we're to plug it in and 2 to the third
+
+02:30
+gives us what 2 times 2 is 4 4 times 2 is 8. all right so our first value is 8
+and we add that to the accumulation so our accumulation
+is eight after the first run then we know we're gonna pass in two again
+that's another eight so plus eight we're at sixteen
+and then the last two gets entered in a c we wind up generating another eight
+adding eight to 16 and we're at 24. now we can do it on the abacus if we need to
+so we can go ahead and start over again and we're going to go ahead and reduce
+
+02:31
+our all right so this is it's an abacus you know why it's an abacus
+because in the west we are taught how to count wrong
+here let me let me demonstrate to you uh that you probably count wrong
+when i say seven plus five what do you do a lot of folks are gonna do this
+right there lockwood's gonna do that a lot of folks in our brain will be like
+all right seven plus five so that's that's we chop the
+five into a three that gives us a ten and then we have the two left over so we
+add the two to the ten right that's just like the wrong way to think about math
+like that's so much extra work to do very simple like math but that's just
+like how we grow up being taught math we are literally taught math wrong
+
+02:32
+uh so i'm working on learning how to do math correctly
+and that's why i have an abacus on my desk i want to think about numbers in a
+better way abacus class once i get better at it i may be
+all right so this was this is hard if you haven't seen reduce yet
+uh it is difficult if you are still kind of learning some of the basic methods
+we've given a lot of homework that had these methods already in it and you're
+going to see these over and over in code wars you have
+to know these methods reduce just has to be something that you're comfortable
+with you can use over and over and over again and so
+make sure if you're not comfortable with reduce
+you go to the mdn you spend time going through it you make sure that you then
+practice your reduced methods on code wars you can type in reduce and find
+
+02:33
+problems that just use reduce and practice them over and over and over again
+right like wait how do we count leon you can't
+leave us like that uh maybe on maybe during office hours we could i can
+demonstrate some some quick maths to you all right
+so what we did here is we did two reductions right we reduced a
+to a sum we reduce b to a sum we are seeing the lovely um
+shorthand syntax the square and cube and let's go ahead and make sure this
+actually works got a console log it because we we
+
+02:34
+didn't really do anything with the value there we go all right let's save it
+let's go back let's refresh all right and it's false right it makes
+sense that it's false right that the the cube would be um
+that sorry that the square would be greater than the cube we know
+that that's false so it worked right we know that a squared
+is always probably going to be less than b squared when it's the it is going to
+be less when it's the same exact numbers right that's all
+now we could start mixing it up we could start throwing in other numbers here
+right like we could keep this two two two but make this like four four five
+all right save that and then that's definitely true right
+
+02:35
+the the bigger number squared is better than the or sorry bigger than the
+smaller numbers cubed cool all righty next one here actually let's just let's
+just breathe i just want to say one more second on this one and then we'll move
+on so we have the idea here this reduce the reduce all it does and if you're if
+you're struggling with reduce just know it's the same thing every
+single time i think that's the big thing
+with these with these methods is that we
+think that it's it's the trick or you're going to get got no it's the it's the
+exact same thing every single time right and so there's always going to be
+an accumulator there's always going to be a current value right
+right is always going to be greater there's always been accumulators always
+going to be a current value what you do to that accumulator like do we add these
+
+02:36
+values do we subtract them multiply them divide them that's what can change so
+what we decided to do here is that we cube every number sorry we square each
+number and then add it to this pile of numbers right so we add it to a sum we
+have a sum that's being kept here so we keep adding numbers summing summing
+summing over here we did the exact same thing we're keeping a sum but we're
+adding the cubes each time cube add cubed key bad cube ad yeah
+should i be up creating a new repository each time i upload my daily code wars
+challenges no you only need like one repo and then what i recommend is once you
+have that one repository just create a new js file and push your js file yeah
+so the idea here is that you want to have like each time you do a code wars
+put it into a js file and then push that
+to github so you get those green squares when recruiters look at your at your
+group at your github profile and they see those green squares boom good to go
+
+02:37
+awesome today i really felt like a software engineer hey i'd love to hear it
+i know a lot of folks are from the ketchup crew so this might still be a
+little bit new don't worry spend more time on the analysis than you do
+on trying to solve next one all right return a new array
+sorry return a new array consisting of elements which are
+multiples of their own index in an input array all right so what
+we're going to have here is we're going to have an array of numbers
+and what we want to figure out is if that number is a multiple of its
+index so let's take a look at that let's try to break down what it's being asked
+and then we'll kind of read into the rest of the problem here so in this example
+
+02:38
+we have 22 negative 6 32 82 9 and 25. if we put the indexes under them right
+why'd i do that boom there we go uh if we put the indexes under them we
+would have 0 1 2 3 4 and 5. so now we want to figure out is are these indexes
+able to divide evenly into the number right so like can these numbers go in
+well we can't divide by zero so we're just gonna we're gonna we're that's
+that's a no can one go into six yeah one can go into six that's a good one
+
+02:39
+can two go into 32 yeah so that's a good one and 3 go into 82
+not evenly no so it's not a multiple right 3 is not a multiple of 82 because
+it can't go in evenly that that's not a good one can four go into nine nah
+can't go not evenly so it's not a multiple and can five go into 25
+uh yes it can and it can evenly so that's a good one
+whenever you're trying to solve these challenges
+now with that attitude uh you have to like play with the values they give us
+there's a reason why code wars gives you these test cases
+even if i have no idea how to solve it i
+still play with the numbers and see if i
+can figure out a pattern right let's see if i can figure out a pattern and a lot
+of times just by walking through the test case i go oh that's what that meant
+and that's how i figure out what to actually do so always play with the test
+cases that they give you um because they can be a huge yeah exactly a huge hint
+
+02:40
+uh as to how to go about solving the problem by working through these test
+cases i now kind of have a better idea oh when they say multiple they mean can
+the number go into it evenly and so i know a way that i can check to see if
+a number can be divisible evenly what can we use there what could we use
+um to see if it's divisible evenly yeah modulus exactly
+some of the instructions are vague exactly and that's why we do code wars
+so much is that we get used to these vague instructions these these things
+that are kind of weird right and we get more and more comfortable with that
+terminology don't feel bad if the terminology doesn't make sense until you
+put in that work with code words that's why we do it cool um
+cool so we did that we know that 1 goes in evenly two goes in evenly i goes in
+evenly we only want those three values so since i only want those three values
+
+02:41
+right this is what those three values what what methods could i use here to just
+give me those three values yeah this is like a good candidate for
+filter for me i think a filter is really good here and so all i'm going to do
+is filter out the values where the index
+can divide evenly into the element right like 1 divides evenly into 6
+2 divides evenly into 32 5 divides evenly into 25 so i'm just going to
+filter out the elements where the index uh can go into evenly
+and so the cool thing about filter is it's going to make this it's going to
+make this problem pretty simple if you know what filter gives you so let's go
+ahead and create a function here is i'm going to call like is multiple right
+and we're going to pass in an array and we're just going to return
+
+02:42
+our array.filter now when filter runs what does filter grab as it runs excuse me
+it grabs the element the index and the array
+all right the element the index and the array but if i want the element the
+index and the array i need what for the element the index in the array i need
+what for the index sorry the element the index and the array what do i need if
+i'm going to grab the element the index and the array
+i need those parameters exactly so i can just go here i only i don't
+need the array i just need the element in the index so i'm just going to do e
+and i e for element i for index if i wanted to i could also grab the array
+but i don't really need it for this example so i'm going to grab the element
+and the index and then i am going to just do my
+
+02:43
+modulus math that we should feel a bit comfortable with now
+so i'm going to do e mod i and if that's equal to 0 then i know
+that i went into e evenly right thanks pierce
+i i'm looking for i to go into e evenly so let's let's run these numbers and see
+how this works so the very first time this runs let's say we're using this
+array here the very first time this runs what is e chat what is e yeah
+e would be 22 and i would be what would i be yep it would be zero
+and so this does not pass our check uh zero does not divide evenly into
+
+02:44
+twenty two uh we we run into some issues with the dividing by zero right
+and so we are going to it doesn't pass the vibe check uh so
+this does not get included in the filter it's just not included
+right it's just not included cool let's look at the next one the next
+time this runs e is negative six right so e would be negative six and i would be
+one because that's the index the negative six and one one
+divides evenly into negative six so that's going to be included in the filter
+right that'll be included in the filter that element will be included in the
+filter now remember filter returns a what what is filter return
+what is filter return it returns an array just like map returns an array
+
+02:45
+filter returns an array so if you pass the filter you get added to this new
+array so this new array that we're creating now has the negative 6 in it
+great the next time this runs we're going to grab 32
+and it's index of 0 1 2. so 32 and 2 we know that 2 divides evenly into 32 so
+that means that 32 passes this filter check
+and goes into the new array that we're creating then we have 82 and
+it's index of three three does not go into 82 so it doesn't pass right right
+doesn't pass this check and so it doesn't get added to new array
+then we have nine and four four does not go into nine evenly so it
+does not pass this check nothing gets added to the array and then the very
+
+02:46
+last one we have is 25 and five five goes into 25 evenly so it passes this check
+right passes this check and then 25 is added to this array what we would
+wind up returning right what we wind up returning is this array this array
+would get returned cool could we have used map instead sure you could have
+um but i think filter is a little bit more applicable here because we are
+trying to filter out values right we are trying to filter out values
+you're going to find you can really kind
+of overlap a lot of these methods if you wanted to but it's kind of like a
+semantic argument right we are literally filtering out stuff so we should
+
+02:47
+probably use filter cool now remember we we had homework
+on all these methods if you're if you're a little little lost here make sure you
+go back to those array methods homeworks that are in the following materials and
+then this is practicing code wars and like i said i don't think all these had
+to click tonight i think maybe some of these you might have been able to get
+but it's about being exposed to them understanding what's going on spending
+some time on the analysis so you can start to kind of digest it and the array
+cardio yeah that was pretty helpful too cool all right last one here
+given an array of integers as strings and numbers
+return the sum of all the array values as if they were all numbers return your
+answer as a number so i know i'm getting a sum of a bunch of numbers
+
+02:48
+right i'm getting a sum of a bunch of numbers what method should be
+going off in your brain when you see a sum of numbers from an array
+yeah reduce exactly reduce should be you should be seeing reduce reduce reduce
+reduce reduce reduce alright so let's go and try this
+so we're gonna go and create a function here and we're gonna call this um
+some of array values uh yeah let's just call it sum of values
+well we know we're taking in an array and we are going to return it so we're
+going to return the reduction of our array oops sorry reduction of our
+array we know that our reduction always has right our reduction always has an
+
+02:49
+accumulator and a current value we know that we're adding to the
+accumulator because it's asking for a sum return the sum so i immediately just
+know this is just something i'm not even thinking right here i'm just saying all
+right accumulator plus right not even thinking just adding to the accumulator
+and we're going to turn the sum of all array values as if they were all numbers
+so that means we're probably going to have some values that are not numbers so
+let's go ahead and call this real quick and then we'll finish it
+sum of values and let's pass in an array we'll pass in like five three two
+and one right so let's save this let's just add the
+current value to the accumulator and let's see what we have working let's
+just see let's just see what happens right i'm going to comment out this one
+up here just so we don't see that run and i'm gonna comment this one out here
+
+02:50
+so we don't see that run let's just have a simple reduce here
+and let's see what happens uh ideally we know that five plus three
+is eight plus two is ten plus one is eleven so we should see 11
+right let's just see what happens what i call it sum of values
+oh i didn't finish my reduction reduce forgot my uh my parentheses
+all right let's save it let's go back let's refresh all right unexpected token
+
+02:51
+line 27 let's see what we got what am i missing folks oh i didn't console log it
+oh and i added an extra when i didn't need it there we go
+all right there we go let's save this let's console log it fourth try
+all right so in the console we see 5 321 when it should have been 11. all right
+so what's happening here yeah we're getting that concatenation in the house
+concatenation is happening so what do we want to do with current value what are
+we going to make sure that that is what do you want to make that it would
+make sure that that that is a what the number so let's go ahead and use the
+number method here all right so now all of our values will
+
+02:52
+be treated as numbers let's go ahead and save this let's go ahead and refresh
+what hold on wait a minute all of our values are numbers now why am
+i still getting the concatenating happening um yeah the start value
+since this is still starting with a string
+what is it setting the accumulator to to start with
+what does the accumulator starting with starting as a string
+so our accumulator is starting as a string so we need that that savior
+that is the zero so now we will ignore that this is
+string five the accumulator will start off as a number and um should be good
+there we go now we got our lovely eleven seven try cool
+
+02:53
+so we got to remember that that zero can really save your butt down the line um
+should we go like should we go like full code wars brain
+so we should be we should never go full cold wars should we go full cold wars
+
+02:54
+all right let's let's go full cold wars it's just r all right there we go
+okay i think we just went full code wars here folks let's see let's see if this
+uh this works oh i didn't i didn't change it uh let's change it to s
+boom we got our 11. full code wars [Laughter] oh boy
+when you spend a half an hour sorry when you spend 20 minutes trying to solve
+something your solution is like 40 lines long and then you open up the code wars
+and it's this and you're like what the [&nbsp;__&nbsp;]
+look at like you look at you you're like you look at like your 40 lines and
+
+02:55
+you're like and you look at their like one line and they look back at you like
+every time that's every single time on code warriors
+to this day this happens to me every single time
+all right let's talk about what happened here never go full code wars
+i think i think what we have here is still pretty readable i like it um so
+what do we have here all right we have a lovely function expression
+uh we're using our arrow syntax right leo are you gonna teach us regex
+hell no don't use regex if you don't use regex to solve codewords unless you
+absolutely have to even if the number one solution uses
+regex don't use it because you're not going to use that like in an interview
+um knowing the basics might be helpful but you should be learning how to solve
+stuff not learning how to write regex redrx is like a like a way of dealing
+with strings and a bunch of other weird stuff
+
+02:56
+um yeah but for code wars fight the urge to use regex and solve them
+uh naturally all right so let's see what we got here we we named our function s
+and we have our arrow function where we're taking in an array
+so the r is holding our array we are reducing the array and whatever
+happens to this reduction is returned because we have a what chat
+what do we have it what do we have when we're using an arrow function
+yeah it has an implicit return so we don't need the return keyword whatever
+this reduce reduces down into like it's going to reduce down into
+an individual value that value will be returned implicitly we don't have to say
+return there inside of our reduction we have our
+
+02:57
+accumulator and our current value and then we got some javascripty stuff here
+um this syntax the plus in front of the variable does what
+what does that plus in front of our variables do you're an area operator hey
+yeah it's the same thing as same thing as wrapping it in number
+right it makes it a number right and so here i'm setting the accumulator to be a
+number and then here i'm setting the current value to be a number and
+unlike everywhere else in javascript the thing that really grinds my gears is
+that this won't work because for this very specific time and moment in
+this very specific moment in time space actually matters in javascript so
+you got to have that space there right yeah and so we have a wonderful
+
+02:58
+full code wars brain solution here but i i don't don't don't ever go full
+code wars write out stuff with good variable names with good function names
+that somebody else was to come along and look at your code they know what the
+heck is going on alrighty folks hope you had a good review i want to
+talk a little bit about homework real quick uh and then we're going to get
+into some a thursday's class super meaty folks get your rest come
+prepared we got some heavy topics to get through as we jump into oop
+um so i want you to do one thing uh before thursday's class normally i
+always give homework that is due the week later but i want to do one thing
+between now and next class uh in the code for today there is this uh
+
+02:59
+lovely rainbow badge and the rainbow badge is already set up
+to use the pokemon api right so what i want you to do between
+now and thursday if you are able is i want you to build something with the
+pokemon api um somebody maybe enters in a pokemon and you get their type back or
+something just playing with it get get something to work using this api
+uh it's set up so that you can do it it's actually set up to have nested
+calls so i want you to play with it just get your apis we don't have enough time
+to get the apis today so play with the api work
+get something working bring it back right
+right i was really close to ending early but we didn't so make sure you work on
+the pokemon api between thursday's class
+uh due next tuesday is some reading some push reading if you want and a video to
+watch thursday we are going through object-oriented programming so please
+come rested ready to rock and roll and we're gonna have a lot of fun kind of
+pushing into it all right let's do a raid uh the raid
+
+03:00
+i've been wanting to do for a very long time uh they used to stream with us in
+in the og category of science and technology um but now they're in just chatting
+uh what they do is they're a a phd candidate in chemistry
+and they do like a bunch of like cool building out of an open source science
+lab and a bunch of other really cool stuff uh so please join me over at
+freckled sciences channel as always send them some love
+give them some follows please they're an
+amazing streamer i'll see you over there have a wonderful night so happy that
+you're back so excited that you're back excited to keep pushing we got a lot of
+good stuff baked in for thursday and next week let's get it but let's raid
+peace everyone peace youtube

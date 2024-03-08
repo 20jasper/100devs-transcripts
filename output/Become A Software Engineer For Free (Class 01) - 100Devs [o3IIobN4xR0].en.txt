@@ -1,0 +1,2419 @@
+
+00:02
+oh yeah wo oh boy y'all brought some friends huh y'all BR some friends huh
+let's go good morning good afternoon good evening no matter where you're coming
+from hope you all are doing well welcome look at
+
+00:03
+y'all look at y'all what's going on every everybody welcome welcome welcome
+hope everyone's doing well let's goo chat spicy tonight we'll turn on the
+slow but for now let's let let let's let let's let's get a little a little
+excited a little hyped glad you're all here you brought some friends it's good
+to see you nice to meet you if this is your first time this is your first time
+on Twitch just go ahead and put in first time or first into chat for me please
+let's get used to using chat here folks but first if it's your first
+time there's no way that I'm paying attention to the to the subs or anything
+that right now I I want to see the first welcome glad you found
+us now how did you find us if you uh if you if you found this from Twitter give
+me a thumbs up in chat for me please you
+
+00:04
+found this from Twitter give me a thumbs up
+if you found us from Reddit give us a thumbs
+up hey we out here we ain't we ain't outside but we live we ain't outside but
+we live what's going on everybody we got a lot of fun stuff to
+get to tonight this is day one of a 30 week software engineering boot camp and
+we got a lot on the plate this evening we're going to take some time to get to
+know each other a little bit we're going to take some time to get to understand
+the opportunity that's in front of us we're going to talk a little bit about
+what it means to become a software engineer how you can actually do that
+we're going to talk about how to actually learn a lot of
+folks set on this path and they don't get to the end because they never
+actually learned how to learn so that's what we're starting tonight and then
+
+00:05
+we're going to get to some basics of HTML so we got a lot to a lot to get
+through now if you were on Discord which you all
+should be exclamation point Discord and chat if you're not on
+Discord there was a question and I always like to go live with a question
+enables me to get to know you a little bit see where folks
+lean and so the question today was would you rather have every movie
+that you watch slowly transition into Shrek or would you rather every song you
+listen to slowly transition into Allstar by
+Smashmouth now we got a lot of shrikes in here I don't think I've seen all right
+there we go I saw one all star that was It smash M be wild and recently I don't
+know if you saw some of the stuff they've been getting into but I think
+
+00:06
+Shrek might be the safer bet here all right we're good we got the Shrek folks
+in the house all right everybody welcome welcome welcome glad you found us glad
+you're here we're about to do this thing all right so before we dive too deep
+into actually learning tonight I want to
+take some time to explain why we're here what we're doing and hopefully
+that's what you signed up for so tonight we start a journey to becoming a
+software engineer by the end of class tomorrow you will be a software
+engineer let me say one more time you know what I'm going to go big Le on here
+let's let's get close by the end of class on Thursday
+
+00:07
+let's say Thursday Thursday sorry class Thursday by the end of class on Thursday
+you will be a software engineer you will
+all have written code now there are some some nerds in the bunch that are like
+well Leon just writing codes and not being a software
+engineer knock it off if you can write code you understand the systems and
+tools behind the code that you're writing and you conduct yourself as a
+professional you're going to call yourself a software engineer we're going
+to have some haters that are are going to disagree with us but
+them what we're here to do today is to lay that foundation so that by the end
+of 30 weeks not only you a software engineer not only have you gotten paid
+clients not only have you built tons of real projects sunk a 100 hours into a
+fully custom project of your own not only have you contributed to open source
+
+00:08
+but you are fully prepared to enter the workforce as a software
+engineer right out the gate I'm going to tell you one thing that I hope sinks in
+today don't get got we go get we don't get got we go get exactly one thing that
+I hope sinks in today and that learning to code is a journey but you can do
+it I've seen folks from all walks of life all shapes sizes shades Creeds do
+it so I honestly believe in my heart of hearts you can do it but learning to
+code is not enough we're going to talk about that later today learning to code
+is not the only thing in fact it's a small part of what it takes to get a job
+and so we're going to talk about the whole journey the way that you go from
+maybe just figuring out if this is the career for you to actually Landing that
+
+00:09
+job and this isn't our first rodeo folks this is cohort 2 our last cohort saw
+75 folks get jobs yes I know Leon you said 70 you said 72 in the Tweet well
+guess what I got three more for y'all I got three more for y'all uh so we're at
+75 now now that journey is a long difficult Journey but we're going to get there
+together if you just turn off the screen and you never listen to me again here's
+what I want you to to take away you need
+a community if you're going to learn how to code you need a community when you
+get stuck and something doesn't make sense you don't give up you go to your
+community what we built in the last cohort is hands down the best community
+
+00:10
+to learn code live online and we're going to keep it that way so if this
+isn't for you and you still want to learn how to code that's fine find your
+people find your community but what we have is an amazing one and you're seeing
+it in chat right now we got a lot of new folks with us tonight we got a lot of
+old folks too we got a lot of alumni folks that already put in those Blood
+Sweat and Tears to get their jobs but they're coming back because they want
+you to be successful mentors that want you to be
+successful folks that have walked this walk have talked that talk and now want
+to help you do the same thing there's a lot of you I love seeing
+it all right before we get too deep into it uh you're noticing a few things
+happening here uh there are these these sub notifications that are going off uh
+that is something that you can do on Twitch you can you can give a small
+
+00:11
+amount of money and your name pops up and the sub goes off I want to be very
+very very clear you do not have to sub I know and
+then somebody drops a 10 bomb I do not want you to sub honestly and anything
+that does get subbed it's donate it to the nonprofit that I work at during the
+day you literally cannot pay me money for anything that I do I will never ever
+but any of my content behind a pay wall you will always have access to
+Everything I Do for free the goal of this boot camp is for
+you to go from zero experience to a job with paying
+0 I will never even recommend a book a course a tutorial that is not
+free right now there's a window open folks my there is a window open and in
+
+00:12
+this window you can become a software engineer for free and without a
+degree and I want to help you on that Journey I'm going to tell you a little
+bit about myself and how I got to that where we are now why I started this boot
+camp right so I'm going to give you a little bit about a little bit about me
+just so you understand the person that's going to be talking to you for the next
+30 weeks so my background is I was very blessed I grew up in Philly and in sixth
+grade I had a computer science class it was in
+qbasic if I've got some old heads in here and maybe you know about qbasic but
+it's it's it's it's it's a throwback all right now in this sixth grade computer
+science class where I was writing qbasic I got a sailboat to go from one side of
+the screen to the other and I I lost my  I thought I had magical powers I
+
+00:13
+was hooked I was doing anything I could do to learn how to code uh but I didn't
+have a computer I definitely didn't have a laptop like that's the thing I always
+wanted and my dream of Dreams was a was a laptop so I would take my my butt all
+the way down to the library every day after school and Tink around with
+stuff then I was blessed uh in Philly we have magnet schools I went to ens which
+is engineering and Science and during high school I had two two years of C++
+classes two years that's wild so I know that my background is one
+of amazing privilege cuz back in the day
+we didn't have programming courses and I had three years of it before I even got
+to University when I got to University uh at Yale I didn't study any code I went
+all in on biology uh in my mind Dr lawyer dentist was the only opportunity
+
+00:14
+the only way to change my future and so that's what I went all in on around my
+junior year I started to get this entrepreneurship bug I wanted to I
+wanted to build I wanted to create I wanted to build nonprofits and companies
+and I started to pick up a little bit of code to like do those things to put up
+landing pages and then in my senior year I dropped out of Yale
+I joined an incubator called Tech Stars I raised a bunch of money uh for my
+first company which was called social sigh we did scientific surveying for
+academics what we did was uh you would say you a psychologist and you need to
+run a survey not only did we have the tools to create your survey but we also
+had the participants that would take it uh we were in 4,000 different
+universities I had an associate position at Harvard
+
+00:15
+and we had hundreds and hundreds of academic articles that used our software
+and while I was doing that I got jealous I got really jealous dude is a
+nerd I am a nerd I'll take I'll wear that proud uh I got really
+jealous my Engineers that were on my team that were that were at my company
+they could think of something and bring it into existence they had a supreme
+superpower the idea the technology whatever they wanted they could chug a
+Red Bull and get it done and so I pushed myself to learn the
+code I wanted that superpower and I got pretty decent at it eventually uh after
+interacting with General Assembly which is another big boot camp company they
+asked me to start teing a class and then teaching a class and now I'm
+distinguished faculty with General Assembly I've been teaching their
+
+00:16
+parttime time courses for almost 10 years now and about halfway in my journey at
+GA I saw the power of what you could do at GA in 12 weeks we were giving people
+those superpowers and about 5 years ago I wrapped up my company and I joined a
+nonprofit called resilient coders so at resilient coders we started in
+Boston Boston has the second largest Tech economy outside of Silicon Valley
+yet when we looked in our communities of
+color we saw double digigit unemployment
+rates how do you have the second largest tech economy but communities that have
+double digit unemployment rates it it makes no sense but there was a
+disconnect the individuals that needed those jobs the most did not have the
+
+00:17
+skills yet to obtain those jobs and so that's what we do at RC RC is a 20 week
+intensive boot camp for folks of color in the Boston Philadelphia and now
+Pittsburgh area and in those 20 weeks they get the skills they need to command
+amazing jobs in the last year 100% of our graduates have gone on to get
+amazing opportunities we just sent eight people to Amazon in the last year we're
+sending individuals to fangs to amazing top tier startups but what we're doing
+is we're we're showing that there is a way to take these skills teach it to
+those that need it the most and have their lives and their future change for
+the better so when the pandemic hit I'm not a
+doctor I'm not a nurse I can't gear up and go do something effective but I have
+a skill that I think I'm somewhat decent
+
+00:18
+at and that's teaching people to code so I started 100 devs um 100 devs was made
+so that folks that were hurting that were in the feeling the pandemic could
+get those skills that I've seen change other folks lives and use it to change
+their own now a year later 75 jobs doesn't sound too bad but it's not
+100 this program is called 100 devs and I want 100 not 75 I want 100 so we're
+doing it again and that's why you're here I didn't hit my goal yet so we're
+doing it we're doing another round and there's one other thing I want
+to while we're at this point of the story there's one other thing I want to get
+to let's let's rewind a little bit back to when I was in
+university uh when I was in university I get a little choked up when I tell a
+story so bear with me when I was in university I moved off campus and there
+came a time when I was hungry I didn't have money for food and I didn't have a
+
+00:19
+way of getting it quickly and what I did was realized you
+know what I can make websites so I got my ass on Craigslist I made a
+post and that same day someone responded they paid me a deposit like actual
+monies a deposit and I skipped the skipped all the way to that grocery
+store I skipped all the way there I was happy as could be got myself enough
+pasta and pasta sauce to last me a small year and uh that that day changed my
+life it changed my life in that moment I knew no matter how hard it
+
+00:20
+got no matter if I got fired I lost my job nothing mattered stay with me I had a
+skill a skill that no one could ever take away from me a skill that would put
+food on the table a skill that kept me fed and I want that I want that for
+you I want that for you at the end of the day that's what I want for you
+now there's a lot of you here which means that we got a lot of applications
+that came through and I read them I'm not through them all there's a lot of
+y'all a lot of people showed up today there's a lot of y'all but I read
+them and the stories that you shared the the the things that you're
+
+00:21
+going through are real I see see you I hear you and I'm going to work my ass
+off so that you feel the way that I feel about having that skill that's why I'm
+here I want you to go home today knowing that if you put in the work you give me
+those 30 weeks you won't just have a job you'll have a skill that is
+yours that you can tap whenever you need it to get the things that you
+need that's why we're here and it's not just me there are literally hundreds of
+folks in this chat right now that have already done it that want you to be
+successful there are thousands of us on Discord that want to help you get there
+
+00:22
+mentors that are giv giving up their nights and weekends alumni that are
+giving up their mornings and Saturdays because they want you to have the same
+thing that they unlocked we don't get got we go get
+exactly Pam we don't get got we go get so I know it takes a little bit of
+trust I know it takes a little bit of belief but you don't have to believe me
+today you don't have to believe me on class on
+Thursday but give me a couple classes and I think you'll start to believe that
+what we're talking about is real heck you can go on our Discord and
+go into our celebrations Channel and see
+all the folks the jobs they got the real salaries that they
+share the clients that they were able to
+lock down you don't have to take my word for it but but if you're not there yet
+
+00:23
+that's okay I'm going to work hard to gain that trust and I realize that yes
+the program is free you will never pay me a dime I
+don't want your money there's nothing you can do to give me money all these
+subs and donations they get donated to resilient coders and specifically that
+goes into a fund or emergency fund for mental health support when folks need an
+emergency doctor or medication or things
+they can't afford that's what those that money goes
+towards just because a program is free and money doesn't mean it's free in
+time I know that a lot of you that are here right
+now are giving up time with your family you're giving up time from the ones that
+you love you're some of you right now are in the break room trying to hide as
+you watch on the on your phone I a couple people wrote wrote out a about me
+
+00:24
+about that right it's not just money it's time and I won't take that time for
+granted you give me that time you're going to walk away with
+skills so yes program is free you'll never pay a dime you'll never be given
+something that costs money uh that you have to do uh and I will respect that
+investment of time that's my promise to you cool now hopefully you are here
+because you want to be a software engineer the thing that we are focused
+on is called Full stack web development software Engineers write code but you
+can write code for lots of different things you can write code for your
+mobile phone you can write code for robots you can write code for
+
+00:25
+refrigerators these days but we're focused on the code that's going to run
+in your browser like Firefox or Chrome the things like when you think of a
+website that's what we're here to learn software engineering is your profession
+your specialty will be web development okay now A A lot of people are using the
+the channel points and all that stuff don't worry we're going to get to all
+that if if twitch can be overwhelming at first right twitch can be overwhelming
+at first we're going to ease into everything okay we're going to ease into
+everything I know it can get a little a little hectic a little hectic right
+especially with so many people we're going to ease into it we're going to
+explain things but don't feel like you have to have everything locked down
+today that's not today's goal today's goal is to present the opportunity for
+you to get a taste of what it's going to
+be like in the classroom but things will come with time and if things don't make
+sense that's all right you're going to come to Discord
+
+00:26
+and we're going to help you figure out all the things that you need to figure
+out so on Discord we have lots of wonderful channels uh we have so many
+folks there that have been tirelessly over the past couple weeks responding to
+all your questions the as Leon channel has exploded uh in all the best possible
+ways uh we're going to talk about all that but no there's a community to
+support you and right now you don't need to have an understanding of everything
+you don't have to understand what all these little bits and Bobs are doing
+we'll get there with time 30 weeks is a significant chunk of time give yourself
+a little bit of Grace and we're going to get there
+together all right so going to go a little Leon
+here all right tonight we're covering the basics and we're going to start off
+by talking about software engineering as a
+
+00:27
+career then we're going to move into the course how it's structured the things
+that'll be due what is expected all the things that you're going to need then we
+will move into learning how to learn learning how to learn right it's the
+most important thing you walk away from this course people were like Leon I
+learned how to code no you learned how to learn you are all going to join jobs
+that use a different stack different Tech technology then that we're going to
+learn but the skill that you're going to have is the ability to pick up anything
+quicker than your peers and that starts tonight that starts with you learning
+really how to learn then we're going to move into
+something called the client server model that's basically how the internet works
+and then we're going to see a little bit
+of code and get our toes dipped into the world of HTML just a little
+
+00:28
+bit you don't need anything tonight just to be here to join us to watch I'm
+not going to ask you to write code tonight I'm not going to ask you to use
+a text editor tonight uh you can just be here participate in chat and you'll be
+good all right I always to start off with
+questions before we always dive in each lecture I always start off with
+questions and so I know there's a ton of questions so I'm going to take just one
+or two right now because we're going to cover a lot of stuff tonight and I'm
+sure he going to answer a lot of your questions do we get points for chatting
+you get points for being here so when you're watching the stream you get
+something called Channel points those Channel points can be redeemed for a lot
+of stuff some silly some serious so the silly stuff will be like you keep
+hearing those sounds that pop up uh eventually we'll turn back on like I I
+
+00:29
+have a vast collection of Pokemon cards for I think it was like 50,000 Channel
+points you can get a Pokemon card sent to you so there are lots of things you
+can do with those Channel points will there be smaller groups yes
+there's a lot of you here right now that's too overwhelming for a lot of
+people so we will over the next week or so be breaking up Discord into smaller
+groups location Affinity things that will make it so you have your group of
+people to bond with and go through this experience
+together no Tech skills uh that's fine the expectation is that you have never
+uh coded before that's the goal here and like I said tonight tonight
+we're we're we're reveling in the uh the the wild this here but we'll turn on
+
+00:30
+slow mode uh and make sure that it it it seems a little bit more easy to
+participate in uh as we kind of continue
+on we need software uh the only software you're really going to need is a text
+editor which we'll cover later on and a browser that's it those the only two
+things you'll need for the entire 30 weeks cool all right there's going to be
+lots of questions I always like to start off with a few but if you come on
+Sunday all right on Sunday you are able to ask any question you want we spent
+three hours last Sunday just answering questions right and so we will this
+Sunday again have office hours you can come ask bunch of questions and it's
+
+00:31
+just a question answer session for the entire day that's it so we're going to
+definitely come through uh on Sunday and
+if you have lots of questions that's the time to come through and get those
+answered all right now let's see if we can uh turn down the sub alerts real
+quick uh I'm going to mute the sound alert just for now because I I know that
+that has to be a little overwhelming there you go yeah so the sound alerts
+are are muted for now I know tonight's the the first class and so people are
+okay that didn't work obviously uh let's see if I turn them all the way
+down I think that should work all right we'll see if that does it
+um the idea here is that there's a lot of folks tonight a lot of folks are are
+
+00:32
+showing out splashing out it'll it'll chill down a little bit all right so
+we're all here to be software engineers and there's good reason for why you
+might want to be a software engineer these days right
+now there is a gold rush of sorts that is
+happening and everyone is flooding into this space of wanting to learn how to
+code and that's okay there's plenty of room for us and we'll talk about that in
+a second and the reason why it's becoming such a popular career choice is
+because it has a very high pay right right now the average is 92k a
+year it is what we would say is one of the happiest careers right did y'all
+hear that sound did that still go off for you make
+
+00:33
+yep all right hold on one second let's see hm give one second
+here sound alerts turned off one second here oh that was the
+that's that was that my bad so that was sound alerts there give me one second
+here folks and alerts properties all right here we go I turned
+off the sound alerts but not the actual properties so let's go ahead one second
+
+00:34
+here all right so what we're going to do
+is I'm going to turn down my alerts here there we go beautiful there we
+go should be back we're good so now you won't be able to hear
+the transitions or anything but for next class I'll have that figured out I know
+it's just so many folks right now um so we'll do it that
+way cool so we shouldn't hear any uh shouldn't hear any alerts now uh because
+I've turned off the sound for everything
+cool uh when I when I when I want to use my sounds I can bring it back
+up we can hear the transitions all right well that that should be fine
+then all right cool so we are good we don't hear the alerts we
+
+00:35
+hear the transitions beautiful all right so career in software
+engineering reason why a lot of folks are looking to move into software
+engineering right is the idea that it is a high paying job 92k average right now
+for software engineers in the US and the other beautiful thing is that it
+constantly shows up on the happiest careers list right so if you look at the
+past five years right you look at the past five years every single year some
+sort of software engineer some sort of software developer has shown up on that
+list and then the other beautiful thing is that you don't need a degree to
+become a software engineer so you're telling me that there is a high-paying
+happy career that you can learn for free and you don't need a degree well
+
+00:36
+everyone should be running to it and a lot of folks are saying is the market
+oversaturated hell no now it's oversaturated with folks that don't know
+what they're doing we have a 100% placement rate in
+my at my nonprofit during the day in terms of students that graduate our
+program getting a job 100% we have more people trying to hire
+our students than we have students double triple but here's what happened when
+people found out that there was a high paying happy career that you can learn
+for free didn't require degree that knew that right
+now they could get into it we had a lot of these programs pop up and a lot of
+these programs predicated that the only thing you needed to get a job was to
+
+00:37
+learn how to code well I'm here to tell you that learning to code is not the
+thing that will get you a job what what did he just say I was here to
+learn how to code learning to code let me get big
+here just so people people don't get lost here learning to code
+will not get you the job it's a small portion of
+it it's a small portion of it but it's not the only
+thing what if I told you because this is true half the
+folks half the folks that got a job from 100 devs this last cohort half of
+
+00:38
+them did not have a technical interview let me say it again half of the
+folks that got jobs did not have a technical
+interview so a coding boot camp that just teaches you how to code is leading
+you astray people were like what how he found the right place
+so when it comes to getting a job coding is definitely something
+that's going to help you is definitely something that will
+come up in a significant number of your interviews but the
+networking the building a rapport with the individuals that have open jobs and
+
+00:39
+application the way that you apply to jobs has more impact these days than
+just your raw coding ability so we're going to spend a lot of
+time on things that aren't just learning how to
+code this boot camp is going to teach you more than that because that's not
+the only thing that contributes to you getting a job now the other wild thing
+that happened is when this industry propped up when people realized that you
+could have a high-paying happy career that you could learn for free with no
+degree well a lot of boot camps popped up that spit out generic just generic
+coders there are whole crops of boot campers that have the
+
+00:40
+exact the exact like line by line projects in their
+portfolios like you could see whole like if you go look at boot camps you could
+see whole groups of individuals that graduated that did not have a singular
+line of code that was different so no wonder people are saying
+oh it must be saturated or or or there's too many no there's a bunch of people
+that have no idea what they're doing that have all the same projects that
+have all the exact same experience that haven't tell their resume that haven't
+put any work into networking that haven't made connections in the industry
+and they smell they smell they walk in the
+room they can't even get in the room how you going to hate from outside the club
+
+00:41
+you can't even get in they can't get in because they smell there's a stench a
+recruiter spend 6 seconds looking at your resume and they know it's all
+cap they know you can't code there's there's there's nothing there's
+nothing on your resume in your experience on your LinkedIn that would lead
+that would lead to you actually being successful on the job and so right
+now there's a window that's open there is a window that is open
+where you can learn to code learn how the network learn the things that you need
+to differentiate yourself in the market where you can get a high-paying happy
+
+00:42
+career that you can learn for free with no
+degree but I have no idea how long that window will be open right now the window
+is open for a couple of reasons a lot of folks say Leon why aren't like CS grads
+taking all these jobs well when you go to a four-year University you are very
+lucky if you have two classes that teach web
+development like that's like the best program I've ever heard
+of right you're going to spend more time on compilers and CS Theory and all this
+stuff that nobody wants to pay you for they want you to build web applications
+and you at best probably got one class of that in
+
+00:43
+University so so at 100 devs we teach the practical skills the things you
+actually need to get a job and then I task you once you're getting paid to
+learn the theory to go get the dusty ass books and
+learn the theory but here we learn the Practical stuff the stuff that people
+actually want to pay you to do and then once you get the job you fill in the
+gaps don't do it the other way that's one of the reasons why this window is open
+the other reason why this window is open is because right now you can learn one
+language that does it all you can learn JavaScript use that on
+the front end you can use that on the back end you can use it to do everything
+you need for your job and you only have to learn one
+thing if you go to a 4-year CS program you probably never learned that
+
+00:44
+language like what how is there one language that you can use across the
+whole stack and this language it makes me mad I get angry I'm sorry I'm getting
+I'm getting angry this language is literally the most in demand
+language let's get big it is the most in demand language and you're not teaching
+it that's why the windows open that's why the windows open there
+are a lot of folks in the market that don't have practical skills that don't
+have anything that shows to an employer that they know actually how to code and
+they haven't put in the work to build their Network so they can actually get
+into the interview for the job that's the biggest that's the hardest thing the
+
+00:45
+hardest thing is actually getting the interview you go on
+Reddit right you go on Reddit and you'll read poost I apply to 500 jobs and I
+haven't heard anything 500 jobs and I haven't heard anything and I and I just
+sit there and I'm like if you applied the 500 jobs and nobody got back to
+you it's because you up you didn't do it right you smell you
+smell your portfolio is busted your resume is busted you don't have anything
+
+00:46
+that shows to him employer that you actually know how to code you got
+got and you just clicked apply never ever ever just click
+apply if you ever just click apply it's the same thing
+it's the same thing as you printing out your
+resume and lighting it on fire actually no you just clicking apply is worse than
+you burning your resume let me tell you why because if you printed out your
+resume and lit it on fire there is a small chance that that piece of paper
+lit your curtains on fire your house caught on fire thankfully the sprinkler
+
+00:47
+put out the fire right house didn't burn down thankfully but the fire department
+still had to come when the fire department came there was somebody on
+that like the fireman was like in your room and they saw that you had vs code
+like your text editor open and they go oh wow you know how to code my brother's
+cousin's Uncle works at this company downtown and they've been looking for an
+engineer for the past two months and they haven't gotten like how about I I'm
+sorry that your your curtain's caught on fire why don't I connect you so maybe
+you can get a job that is more likely to happen and get you a job than you
+getting a job just by clicking apply so there's a window that's open
+
+00:48
+there's a window that's open right now where you can get a high-paying job that
+is the happiest job like five years running that will provide for yourself
+and your family that right now there is a
+practical way for you to compete against individuals coming out of fouryear Cs
+programs where there's a practical way for you to learn the things that are
+actually in demand that companies actually want and if you do it right you
+can get a job now you're saying Leon it sounds great right sounds
+great but why doesn't everyone do it why doesn't everyone do
+it well here's the reason why not everyone does it learning to
+
+00:49
+code and putting in all the other work that it takes to get the
+job takes a really long time we call this the Troth of
+Sorrow many of folks have endeavored to become software engineers and many of
+them have failed trying to cross the trough of
+Sorrow here's where a lot of you are right now you want to see where you're
+at right now now a lot of you are like right here you're on Udi
+Hill right you keep buying those UD Demi courses
+you're you swipe that credit card like ah boom you throw in the credit card at
+the at the at the screen you're like oh look at me now just bought a Java course
+ah just bought a JavaScript course ah like python course ah
+right you never finished one you bought a bunch of
+
+00:50
+them but you definitely didn't finish one if you got if you got more than
+three UD Demi courses that you've never actually even started in your account
+right now just just give me a thumbs up in chat you can just you can just put up
+you can put up or thumb you if you got at least three that you've never even
+started put up I got to put up too we did this during office hours I'm guilty
+I got it too boom there you go I put my own
+up so we got to stop and we got to ask ourselves why do we keep buying all these
+courses that we're never going to do and haven't gotten us closer to our
+goal and there's two big reasons the first reason is it's very
+
+00:51
+easy to spend money and feel like you've done something right it's a very low
+cognitive effort thing that makes you feel like you're taking a good step
+toward your goals all right so a lot of people will
+over and over again spend money right getting got because it feels good they
+feel like you're working towards progress right the other reason why
+people do this is because some YouTube told them
+to some YouTuber told you that you needed to buy the course to get the
+job some YouTuber told you that if you didn't spend that money you weren't
+going to get the Fang job somebody told you that you could get
+a Fang job from their course and unfortunately you got guys
+
+00:52
+that's okay around here we don't get got we go get so you found the right
+place people are saying what's Fang Fang is like the big top tier companies
+talking about Facebook Amazon Apple Netflix Google
+right if you come to me you say Leon I want to go work at a Fang I don't know
+how to code I've never coded in my life but I want to work at
+Fang don't let me be the way the person that gets in the way of your dreams
+but let me tell you a little bit of what that sounds like that sounds like to me
+you know you know Uncle Uncle Ray Ray that like comes around every once in a
+while and they tell you that story about how they almost played for the Yankees
+that's what it kind of sounds like they never played baseball a day in their
+life but they come and they tell you that they're going to play for the
+Yankees right it's the same thing as you coming to me and saying Leon I I me and
+my dad toss the football around I'm going to go try cry out for the
+
+00:53
+Eagles okay there there is a small chance that you will transition
+from never having thrown a football to going and playing for the
+Eagles don't don't let me get in the way of that
+dream but I'm here to be a little bit more realistic I'm here to help you get a
+job and I want you to keep your sights lasered focused on the
+pleora the thousands of jobs that are so
+much more easy to get into than shooting for the Eagles or the
+Yankees we can all go play in our wreck league and that's what I'm talking about
+I want you to all join a wreck League company I want you to get paid good
+money be happy have time for the ones that you
+
+00:54
+love and for your hobbies and I want you to be able to do that within 30
+weeks so I'm not going to sell you on a dream I'll leave that to the YouTuber
+you love to watch I'm going to sell you on something that's realistic that you
+can accomplish that you can get done and then once you are getting
+paid once you are getting paid you got that that cheddar coming
+in then study your ass off and go get that Fang job and I'll be there to
+support you I sent 10 people to Fang very recently but let's get paid
+first all right so let's get back to this trough of Sorrow all of you are
+kind of like right here right now and to make it through the trough of
+Sorrow you got to do a lot of stuff you got to go through the
+muck very quickly probably today if not tomorrow or Thursday you're going to
+
+00:55
+find yourself kind of plummeting down UD Demi
+Hill and then you're going to have 20 weeks of being in the
+muck and after those 20 weeks of in the muck you're going to start to have some
+Wiggles of false hope these Wiggles of false hope is when
+people like start responding to your emails for jobs or when you get that
+first really big interview this is going to happen to most of you
+you're going to get a really great interview at a company that you'd be
+really excited to join and you're going to go into the
+interview and it's not going to work out
+that's just the truth that's the Wiggles of false
+hope we tell individuals that they have to apply to 60 companies
+60 and we know already that we don't just click apply these these are 60
+
+00:56
+companies that we have networked our way into where we're talking to a living
+breathing human being at those companies that's what I mean by 60
+companies that we applied to about 10 of those interviews are going to go
+horrendously wrong like slap their mama throw up all over them bad
+about 40 of them are going to go so so and about 10 of them are going to go
+amazing like could not have gone better you did everything the it just went well
+your best friend you're you're going to their summer house the next weekend like
+just amazingly well and out of that you'll get two offers step back here for a
+second right you're you're going to go through the muck of learning how to code
+
+00:57
+and then you're setting up for 60 real applications not just clicking
+apply all right so that's why people don't go through it it's it's daunting
+it can be anxiety inducing but remember what I said
+earlier today is not the day you don't have to have all this figured out we're
+going to give you the tools the techniques the tricks the things that
+you need to make it through this trough of sorrow and on the days that it feels
+the worst you have a community to fall back
+on community is the only way I've ever seen folks truly make it through the
+trough of sorrow and after today you might say Leon sounds great this isn't the
+
+00:58
+community for me and that's okay that's okay but you need to find one you need
+to find one that's going to help you get
+unstuck when late at night things aren't going well and you've been racking your
+brain you should stop and go to sleep by
+the way but you're going to need someone some group of people that can help you
+get unstuck what we've been able to do in the last cohort is build an amazing
+Community folks that are going to help you get through the muck through that
+trough of sorrow and come out the other end and there's a lot of folks here
+right now that are new but they want to help to when you learn
+something you're going to teach it to those around you and in a week from now
+when there's something that you don't know guess what there's going to be
+
+00:59
+someone else to help you everyone needs to know right now that
+there is a cost to this program Leon you're like there's no cost this it's
+free it's no money yes you'll never pay me
+money but here's the real cost of this program when you graduate when you get
+that job the expectation is that you turn around and you bring three more with
+you that's it that's the real cost you're going to get there you're
+going to turn around you're going to bring three more with you and I don't
+mean I don't mean a lazy half ass bring three with you I mean you're busting
+your ass to answer people's questions you're giving them
+time I put a thousand hours into this cohort last cohort a thousand think
+about that 300 plus of them were just live another 300 preparing and getting
+
+01:00
+everything going and then at least over 100 maybe 400 500 of 10one
+time there are so many people in this chat right now that I've spent hours on
+the phone with where I've picked up the phone to
+talk to an employer to to Hype them up to say they're the best person I've ever
+interacted with so the real cost here is that when you get the job you
+make it to the other side we go back to the trasar when you make it to the
+promised land you turn around and bring three more that means you're going to
+hold that window open a little bit longer you're going to make sure your
+people make it through you're going to make sure that
+they know what they're walking into when
+they go into that interview you're going to make sure that they're
+
+01:01
+prepared you're going to make sure that the people that helped you
+along the way you're there to help when it's time so if you're not
+ready for that type of cost just Just Close Your Eyes just take
+out the headphones it's okay you can leave it's fine this community is a
+community I don't know how else to say that any better you're signing up for a
+community a community that wants to help each other support each other and when
+they make it to the promised land turn around and bring more with them you
+can't say I didn't warn you you can't say I didn't tell you I'm making it very
+clear that that's the cost of this program and if that's not something
+you're willing to sign up for that's okay close your eyes like click exit you're
+
+01:02
+good now there are three other things that are the real core things that help
+people be successful in this journey like without these three things you're
+not making it to the promised land you're not getting through the trough of
+Sorrow I've been teaching people to code for 10 years I've taught thousands upon
+thousands people to code I've helped hundreds get jobs and I've picked up
+three key things that help folks make it through the trough of sorrow and I'm
+going to tell you about them when we come back from our
+break because around here we like to be healthy we like to make sure we take
+breaks at the top of the hour becoming a software engineer is a marathon not a
+Sprint we have to be doing stuff that that enables us to remain healthy and be
+
+01:03
+able to get through these 30 weeks so if you are able I'm going to bring up a
+timer if you're able I want you to get up and leave the
+screen I want you for five minutes to take an actual break to let your fingers
+relax to hydrate to go and look out the window let your eyes focus on something
+that's not the screen and then we'll be back in
+five okay so you're going to take those uh five minutes and when we come back
+from the five minutes I got to say thank
+you to a lot of folks uh thank you Greco
+for the 10 gifted Subs there have been a lot of people that have been in here
+dropping Subs uh I don't want to break up class to say thank you to everyone
+but I will do that when we come back from break so take five minutes and
+we'll keep going after the five starting now
+
+01:04
+
+01:06
+and uh I'm going to take my break too be right back y'all
+what's going on everybody I won't I won't go into any more like slides or
+anything we'll just chill going on everybody you're a twitch new that's all
+right it'll get easier we'll spend time we got a long time
+together you're excited for what's to come me
+too what's your over watch main Arisa right
+now mayor service it keeps cutting out that's all right the vods will be
+available uh as soon as class is over any vets there are a lot of
+veterans in this cohort uh we're going to have a special channel for y'all um
+definitely something I'm super interested in supporting lots of amazing
+programs out there for veterans uh I taught a vets and Tech cohort at GA
+which is uh vet and Tech is the the person that started Craigslist created a
+
+01:07
+support group for for veterans and funs courses and stuff it's pretty
+cool how do you do your hair that's always like the biggest we're going to
+we we're going to do a whole class just on my hair
+prep OGX products shea moisture kind of it you have 1.4 micro Leons hey there we
+go is class every day no it's every Tuesday and Thursday at 6:30 p.m. eastern
+time don't worry Jay how about the beard I take way less care of my beard than I
+should definitely gets dried out too much uh do I need Twitter yes we're
+going to talk about that when we come back we we got we got to get into the
+actual course and how it's going to be set up but we're going to go over all
+
+01:08
+that stuff so don't worry how is attendance I haven't looked whoa
+okay we ain't outside but we live let's go 7K all right yeah we go for about
+three hours are the cats in the background yours no they're not mine just a
+gift we outside let's go are you married yes I have a wonderful
+wife top so far was 7,300 that's wild what can we do to stay motivated oh
+that's a good question it's about discipline not motivation we'll talk
+about that don't worry all right folks come on back come on
+
+01:09
+back hope you had a good break make this a little bit smaller
+come on back folks hope you're able to rest a little bit hydrate a little
+bit had a lot of folks in here earlier with the the subs I just appreciate
+everyone for that uh let's go ahead and chill the music here a little bit so
+folks know to come back uh we had diece solution with 20 gifted Subs Danny
+Thompson in the house with the 15 gifted subs thank you so much for being here
+deep fried penguin with the 10 have to figure out another way to say
+thank you to everyone because it's it's it's a lot I'll get better at it this is
+this has been this has been uh the most people we've definitely ever had in chat
+so I promise I'll get better at as we go through and like I said um never ever
+feel like you have to do that that's that all goes to the nonprofit I work at
+during the day do I know Spanish I know a little bit and I have been very much
+
+01:10
+like taking lessons so I have like a tutor I've been meeting like twice a
+week with my Tor I'm trying to get way better at it my wife speaks
+Spanish cool all right folks let's get into this
+again all righty so talked about Community being the goal but I promised
+you that there were three things three things that my students
+that I've noticed over the years are are very good at uh that helps them right
+that helps them get through the trough of Storrow to learning how to code all
+right and those three things are managing frustration being consistent
+and taking care of yourself now when I used to teach classes in meat space
+right where like students actually had to come into the classroom you remember
+those days that's wild uh students actually had to come into the classroom
+students would come in they would sit down and within like the first few
+
+01:11
+minutes I knew whether or not they were going to be
+successful shrimp said repeat that I got
+you shrimp I got you I said back when we used to meet in person right people
+would come they would sit down and literally within 10 minutes I knew if
+they were going to be successful or not and I can tell you how I knew they were
+going to be successful it was how how they dealt with
+frustration there are two types of individuals that are going to be on this
+journey there going to be some types of individuals that sit down to learn how
+to code and think that learning how to code or their lack of coding ability is
+a reflection of their intelligence their
+IQ all these things which are absolutely not true your ability to code is a
+reflection of your ability to put in hard work to sit reading Dusty
+
+01:12
+documentation for hours on end to struggle and fail over and over and over
+again and then ultimately come out the other side of the trough of Sorrow it
+has nothing to do with where you started
+I have seen folks from all walks of life I've had individuals that have been
+returning citizens and hadn't touched the keyboard in five years the folks
+that were caregivers it this does not matter learning to code is not about raw
+intelligence or IQ definitely those things can help but it's more about how
+you deal with frustration there was a very famous
+study that came out not too long ago that looked at when did individuals lose
+their ability to be fluent in a language and for a while folks thought
+that they lost their ability to become fluent in a language like in the teens
+
+01:13
+like early teenage years and what they found out was people don't really lose
+the ability to become fluent in a language they just get
+older and when you get older you lose the ability to manage your frustration
+because when you're a kid and someone says go do this thing go study you do
+it right you do it right neuroplasticity
+is thing it is it is but what this study showed is that it's it's more this
+idea that you could eventually become fluent in the
+language but you are now in charge of your own life you decide when you go to
+bed you decide when you wake up you decide what to eat and when we start
+doing that our ability to get more frustrated is is present and that
+
+01:14
+frustration is what stops you from learning and so there is a
+mindset that my most successful students have if you're ask me like who's the
+most successful the most successful students
+I've had are the individuals that say you know
+what whatever Leon said today I did not get and you know what the stuff that
+Leon said yesterday I didn't get that either and the stuff a week ago is still
+not clicking but I know tomorrow's my day tomorrow this stuff will make sense
+tomorrow I will have figured it out and I will keep working until it
+does two different kinds of people and it comes down to you managing your
+frustration ADHD gang in the house uh so for those that don't know uh I have
+
+01:15
+bipolar disorder and I also have very severe attention issues uh that leads to
+the next topic here consistency when I first started to
+learn how to code I had a very severe problem with
+consistency consistency is hands down the biggest factor in your ability to
+learn how to code and retain it going into the future and let me tell you
+why a lot of folks come to me and they say hey Leon I want to learn how to code
+I'm going to study 10 hours a day they come to me they say Leon I'm
+going to study 10 hours a day no you're not you've never done that
+before you've never studied that much before and even if you did it wouldn't
+
+01:16
+be good studying so that's a lie and what I'm here to tell you is
+that you don't need to do 10 hours a day you just need to be consistent every
+day so class is about six hours a week on Tuesdays and Thursdays and then
+outside of class you should expect to spend about
+10 10 to 14 hours depending on how well the week goes and the folks that mess up
+or the folks that say I'm going to spend 10 hours on Saturday
+studying why do you think studying for 10 hours on Saturday is a bad
+idea what do y'all think they burn out exactly it's the
+weekend I got to do now we outside you know like can't be spent our
+
+01:17
+weekend's doing that you're all goofy all silly it's because you can't it's too
+hard but here's the real thing maybe some people can study those 10 hours but
+next Saturday is actually the baby shower and then two Saturdays from that
+it's the the parents are coming to town and so you skip that one
+Saturday and then after you skip that one Saturday you're behind and then once
+you're behind you just stop right so instead of chunking huge
+hours on time spans that you're probably not going to hit we want to spread out
+our learning through a period every day and be consistent in that learning every
+day one to two hours a day is plenty to get a job within the 30-week time span
+all right and that consistency every day actually has a
+
+01:18
+scientific mechanism that we're going to
+explore in a few minutes right so if you want to learn how to code you got to
+learn to manage your frustration which is something you can do it's something
+you can practice something you can exercise you have to be consistent
+you're committing to studying every day not just one day a week one to two hours
+and I know that's a big ass for a lot of folks for some folks that's a huge ass
+you got life you got responsibilities you got things you got to do and so I
+respect the hell out of folks that can figure out those one to two hours a
+day and then the last thing that I've seen on this list of three things that
+have helped my students be successful is the ability to take care of
+
+01:19
+yourself most folks burn out that's it most folks lose that endurance to keep
+going they start off trying to do 10 hours a day and then within two weeks
+they're too tired they start off trying to do 10
+hours a day and within a week their fingers hurt their arms like literally
+hurt you are way better off getting that one to two hours
+in right getting that one to two hours in and then
+sleeping eating right exercising a little bit I'm a big boy but getting
+that exercise in just a little bit I'm not talking about like going to the gym
+I'm talking about walking you got to make sure your brain
+is healthy if you want to learn this skill do you all know like if you if
+like chess Grand Master when they're in tournaments how many calories do you
+
+01:20
+think a professional chess player Burns just by playing chess in a
+tournament how many calories do you think oh people already know people read
+the article or they've been around here for a little
+while professional chess players burn 6,000 calories in a tournament 6,000
+calories in a tournament and they're sitting there moving pieces around it's
+because that cognitive effort I had to look this I looked this up right before
+class because I didn't believe it either because I I've been I threw it out like
+I got to be correct it's 6,000 calories that cognitive effort has a
+real toll on your body so if you've managed your frustration you set up your
+life in a way that you can be consistent and to set up your life in a way to be
+consistent you might have to talk to your partner you might have to talk to your
+family as Dr Eric Thomas said you called me but you called me at the wrong time
+
+01:21
+right you might have to put things into different places so that you can be
+consistent and then if you manage to have that privilege of the time to
+actually study don't waste it by burning out and not taking care of yourself
+learning to code is a marathon not a Sprint Princess Sparkle bomb said I believe
+that I haven't done School in a decade and this class is wearing me out it will
+and so we got to be healthy we have to know that we're going to take our time
+and we're going to ease into things but most
+important is I've I'm going to lay out what I think is the best path for you to
+learn how to code the path that has helped hundreds of my students get jobs
+the path that I've have seen work for folks time and time again that's helped
+
+01:22
+them to not burn out to actually finally learn this and to get the soft skills
+they need to get a job and I'm going to ask for a little bit of trust and a
+little bit of patience there's a lot of you here way more than we would have
+expected we're going to figure it out right but if for some reason the
+path I'm laying out is not the path for you if it's not the path that makes
+sense for you that's okay don't let your dreams be dreams don't let some random
+dude on the internet stop you from doing what you want to do and accomplishing
+what you want to accomplish just do it do it just do it just do it so just
+do it make your dreams come true just it all right so let's talk about the
+
+01:23
+course we're doing we're doing this motion for the course right we're doing
+this motion for the course everything with time all right you don't have to
+come in knowing how every little thing works you don't have to come in with any
+coding experience we're going to get there together and we're going to take
+our time we're going to ease in over these first three weeks none of this
+stuff is a hard requir M until we are 3 weeks in so I'm about to say some stuff
+that I I'm going to ask you to do but none of that's a hard requirement until
+we make it right until we make it three three three weeks in okay till we make
+it three weeks in we're going to we're going to go slow we're going to take our
+time okay now the materials that you need for
+class right materials for your class are always going to be on Discord uh if if
+you're not in our Discord you can do exclamation point
+
+01:24
+Discord and every day we have a channel called the follow along materials
+channel in that follow along materials Channel you will find everything that
+you need for the day there will be the slides that I'm using right now there
+will be the link to check in there will be uh
+motivational poems uh things that are going to help you get through the class
+so if you're not on Discord right you want to make sure that
+you are and that's just Leon the.com Discord or you can explation point
+Discord and it'll take you there all right cool
+now every class I am going to share a tweet if you want to be in touring and
+Hopper which we'll talk more about if you want to be in either of those houses
+
+01:25
+liking and retweeting that tweet is mandatory for everyone else I would love
+if you did it but not mandatory uh I asked you to do this for a few reasons
+one I want more people to find out about our community to find out that they
+don't have to pay tens of thousands of dollars to learn how to code and that
+tweet helps more people find us and see what we're doing and want to join okay
+now the other reason why I want you to get used to checking in and using
+Twitter is because it's going to be one of the biggest Tools in our Arsenal to
+get a job okay I told you that learning to code isn't
+enough it's the networking that's going to be one of the biggest impactors on
+you getting a job Twitter is by and far the best tool to network with other
+
+01:26
+Engineers okay so yes I'm asking you to do it as a requirement of the program
+but I'm also just trying to get you to find other people on Twitter to work
+with to interact with to network with so that you can get the job that you want
+cool another requirement of the course is that you network each and every
+week you are going to network with three individuals that are already in Tech
+meaning that you're going to reach out to them you're going to connect with
+them at least three each week now a lot of you might be freaking out be like Le
+I have no idea how to network right I have no idea how to to
+network I have no idea how to interact with people you might be saying I am the
+
+01:27
+most introvert of introvert right that's okay we're going to have
+full classes on how to do this appropriately and we're going to find
+ways that work for everyone uh whether you're the most extroverted or the most
+introverted we're going to find a way for you to network and build up those
+connections of individuals that going to help you get a job right
+because at the end of the day at the end of the day it is not rly
+your coding ability but the individuals that you've connected with are going to
+help you lock down these jobs remember if you just click apply you might as
+well light your resume on fire I'm going to
+also ask you right I'm also going to ask you to have two coffee chats each week
+which is where you sit down with someone and have a longer form conversation
+
+01:28
+about their experience in Tech right how do they get to where they are what are
+the things that they're learning right now what are the things they're doing
+right and like I said right now we're easing in everything none of these are
+requirements until week three and we're going to have full classes on how to do
+this all right but if you want to know how people consistently get bigger
+and better jobs it's because they put time in doing
+this that's it they know how to code but the real differentiator is their
+Network there will be homework all right after each class you'll have some
+homework that homework will always be due a week later so tonight you have
+some reading and some watching to do and that reading and watching will be
+due next Tuesday so the stuff I assigned tonight the stuff that's already on
+
+01:29
+Discord will be due right will be due a week later on
+Tuesday at first you'll be submitting stuff through Google forms and then once
+we get further into the course and we feel more comfortable with things like
+the terminal we'll be using GitHub to submit all of our projects and all of our
+homework all right cool can't find the Discord channel it's
+the follow along materials Channel cool there's no like specialized channel
+for it it's just the follow along materials channel is where it'll be
+listed cool we do not start with GitHub GitHub is confusing as so is the
+terminal so is G all those things are just not stuff you need to start off
+
+01:30
+with like the ease into things we're going to start actually from zero right
+if you if you are starting from zero you've probably never used the terminal
+we're not going to start there just doesn't make sense we're going to ease into
+it eventually once we have a command of JavaScript I'm going to ask you to do a
+coding challenge every single day every single day that's right no
+weekends every single day not yet though not yet not until we get to
+JavaScript but you're starting to see how folks have been successful in this
+program hopefully hopefully the the the the the the it's becoming a little bit
+more clear why folks were able to get jobs right right he said Leon I came
+here to learn how to code but I didn't know it was going to look like this I
+
+01:31
+didn't know that you're going to be asking me to spend six hours in
+class be consistent studying at least one to two hours a day networking with
+three individuals each week having two coffee chats each week doing a coding
+challenge every single day homework on top of all of that right
+now we go back back to the trough of Sorrow you are officially at the
+peak the peak is for those that have gone up the hill they've
+mustered up the courage right to to come and say I want to learn how to
+code all right they've mustered up the courage they've got into the top of the
+hill and they looked over and when they looked over they
+saw a lot of material that they had to work through they saw that they had to
+
+01:32
+be checking in they saw that they had be doing networking each week three
+individuals two coffee chats they saw they'd be submitting homework they saw
+they'd be doing a coding challenge every single day in preparation for getting
+that job and when they looked over that Hill they had a choice here are your two
+choices right right the first choice is you can go down that Hill screaming
+screaming crying for your mama or you can be
+Beyonce that's my options for you right now if you are
+here you can go down this hill screaming and crying for your mama or you can be
+Beyonce Beyonce's having fun they realize it's going to be a
+
+01:33
+journey they're going to be ups and downs and they're all equally
+exhilarating you are going to feel lows that you may not have felt in a long
+time where things feel really dark nothing makes sense things aren't
+clicking it sounds like brish is coming out of my mouth but I promise you that
+right after that dip is an exhilarating ride
+up and so you're going to give me 30 weeks and some of you are going to go
+through these 30 weeks screaming and crying for your mom that's okay I ain't
+here to judge and some of you are going to go through this like Beyonce you're
+going to have fun you're going to enjoy the process
+process you're going to make lots of friends and you're going to give your
+
+01:34
+all each and every day knowing because you've managed your frustration that I
+may not know it today I might not have known it yesterday but I'm going to get
+it tomorrow be beyon oh no I gotta fix I always hit the end and then that
+happens all right we've chosen to be Beyonce hopefully
+a big question that I keep seeing coming up in in uh in chat and people ask me a
+lot is Leon is there a syllabus no there's no syllabus we are
+learning full stack JavaScript you will learn HTML CSS JavaScript node react and
+mongodb now like Leon why no syllabus why are you not giving me the full
+outline of the course I'm going to tell you why because if I give you the full
+outline of the course a couple things happen one there's some research that
+
+01:35
+came out of Harvard that shows that people drop at the chapter end so
+basically once the chapter's over that gives you permission to stop I don't
+want that to happen to you the other reason why is because a lot of you don't
+know it yet but you're code weenies I'm a code weenie too it's
+okay what that means is is if I gave you
+the full syllabus you're going to charge ahead you're going to do every single
+thing that's on that list you're going to be putting in 10hour days and a month
+from now you're burnt out and we never hear from you again so to save you from
+yourself to save you from yourself there's no
+syllabus if you're like Leon I hate that
+that's the dumbest thing I've ever heard fine all my stuff is on YouTube bye
+trust the process I've been doing this for 10 years helped hundreds of folks
+
+01:36
+get jobs taught thousands of people to code it'd be really silly really silly
+for me to put a thousand hours into a course and not do something that takes
+me 10 minutes there's a reason behind it cool all right if
+you are joining you are agreeing to our rules we've built a phenomenal
+Community we've helped dozens of folks get
+jobs and I'm proudest that folks can get help when they need it and the folks
+that give their all to this community and so I am protective of this
+community folks that are wilding in chat I see you I'm coming coming for you I'm
+coming for you you're going to be banned
+I'm going to go through this chat with a fine tooth comb and I'm banning all
+
+01:37
+y'all I'm going to love every second of it right so if you want to join this
+community you're agreeing to our rules when you join our Discord you agree to
+some rules I'm going to read them again because I want you to be very clear what
+these rules are all right so the quick the quick rundown
+and this is specifically here and on Discord uh no non-safe for work stuff
+especially on the Discord we're here to learn how to code no one's here to find
+the love of their life we're here to learn how to code and get phenomenal
+jobs no illegal discussion this includes hacking piracy stuff like that you want
+to sell the seven C's on your own that's okay don't do it it here on
+Discord uh no ban evading if you switch your IP stuff like that we're going to
+find it anyway you're just making more work for us but we're going to ban you
+
+01:38
+anyway no discrimination be very clear on this this includes using racist terms
+slang sexist or ableist terms making others feel bad for their race gender
+sexuality or disability if you can't be a good human
+being get the out this isn't for you if you can't be a decent kind caring
+person leave please just do us all a favor because eventually you're going to
+get banned anyway just leave right now please you're you're doing myself and
+our moderators a huge service by just leaving now
+cool no advertising don't spam stuff here in chat don't spam stuff on Discord
+um so on our Discord don't post your YouTube your Twitch your other discords
+
+01:39
+uh your social media we have a self-promo channel that that stuff can
+go in um but specifically this includes private study groups and other things
+that split the community right I'm not putting a thousand hours into this
+cohort right for folks to run a muck and ruin it for
+others we keep our spaces moderated for a reason if you try to lead people to
+another space that is not moderated by our amazing team of volunteer moderators
+that's a problem because we've had that problem where folks break off a little
+bit they still try to be involved but  goes sideways and we can't be there
+to moderate so if you're sharing other communities on our Discord you're
+sharing other private study groups it's just a ban we we want to make sure that
+the community stays together that we're able to protect everyone that we're able
+
+01:40
+to create a safe learning environment and we can't do that
+cool don't ignore your warnings or mutes we're nice people we're going to warn
+you we're probably going to kick you if you do something weird um but we're
+going to tell you why and then one thing that I really
+want you to take the heart right there some other stuff here no abuse no toxic
+Behavior no spam um but there's one thing I want you to really live by if
+you're going to be a part of this community
+please before you type anything or say anything in our Discord voice channels
+ask yourself one very important thing is that the
+nicest kindest thing right that you could type in that moment that you can
+say in that moment let me say it again let me get big here real
+
+01:41
+quick before you type anything on Discord before you type anything in this
+chat is that the nicest kindest thing that you could say in that
+moment if it is not don't say it or get the out I don't understand why this
+is such a hard problem for a lot of people but it is this is some of you are
+in this in this in this right here with us right now and this will be the
+hardest thing you've ever done in your life but if you want to be a part of
+this community that's the cost before you type anything before you
+say anything in our voice channels is that the kindest most
+helpful thing that you could do in that moment if it is not don't do it and if
+you do do it bye-bye we didn't bust our asses over
+
+01:42
+the past year to build a wonderful Community for that not to
+continue cool be a decent person I got it exactly myself and our moderators are
+going to hold you to it now tech for a lot of folks is not not a welcoming
+space there are going to be a lot of Gatekeepers there going to be a lot of
+people that tell you no we don't need that in our own
+Community we don't need that coming from our own
+people you are going to be ahead of someone at some point in this cohort and
+you're going to be behind someone at some point in this cohort we all have
+bad days we all have responsibilities outside of
+
+01:43
+learning that's okay when somebody asks a question don't be a jerk answer their
+question and do it with kindness when someone misses something in
+class right when someone misses something in class don't make fun of
+them for missing something in class if they don't understand something make
+sure they understand it if you can't agree to be the type of
+person that puts helping others and being kind above everything else this is
+not the community for you go to stack Overflow find some other Discord
+group and you're like Le you spend a lot of time on this yes damn right I'm
+spending a lot of time on this very specific
+point we have a wonderful community in our Discord That Grew by 10 ,000 people
+
+01:44
+in a week I refuse to have that Community change
+into something that it is not I will go through and delete all of y'all I'll
+just I'll just go back I'll go back 10 days cut it all and bye-bye like it just
+just gone I'll delete every single one of y'all I don't care because what we
+built is special it does not exist anywhere else online
+it just doesn't I've been around the block I've tried to learn a lot of
+languages and I've have been met with hate I've been met with disrespect I've
+been met with people that don't give a  that's not us that's not a 100
+devs that's not learn with Lon and if you can't get that through your brain
+and commit to it get the out I'm going to give you a second I'm going to
+
+01:45
+stop talking I'm put the music on go ahead go
+please put the music on I'm giving him a second hold on sometimes it's hard some
+people just close their eyes they forget they got to click the button it's it's
+the it's the little X you click that and you're gone
+cool you're all here so we're agreeing we're agreeing to these rules we're
+agreeing to be kind and positive first we're agreeing to to to see the best in
+each other um my executive director at resilient coders has a
+brilliant line like a few lines I'm just going to read them because they're
+they're brilliant and it's the thing I want you to keep in your brain and the
+thing that they always tell our students
+
+01:46
+and I'm going to tell you right now this is Dell for the folks that know be kind
+to one another be the type of person who stays positive and gives people the
+benefit of the doubt see the best in people Embrace diversity of backgrounds
+of perspective of things we can choose and those that we can't accept your own
+failures and those of your peers as an important part of the process exactly be
+Beyonce all right now I've said it I'm going to keep saying this if you don't
+like what I'm saying right now like go like it's going to keep coming up
+because I refuse to build a community that's just like everything else in Tech
+
+01:47
+that's not us all right we've laid the groundwork here we've laid the groundwork
+here let's get into learning how to learn now a lot of
+folks don't make it through that trough of Sorrow not through any fault of their
+own they don't make it through the trough of Sorrow because they might not
+have ever really learned how to learn you're already putting the wise in
+chat right they might not have actually ever really learned how to learn the
+things we're about to talk about are just absolutely criminal to me that they
+are not taught in every school every University
+these things are the things that are going to help you get through these next
+30 weeks and so just real quick to lay lay some groundw work
+here you're already doing it this is hilarious have you
+
+01:48
+ever reread a chapter multiple times while you're trying to learn something
+if just reread a chapter multiple times type yes everybody did wise too too
+early type yes I want I want some effort here give me a full yes if you've ever
+reread a chapter multiple times while trying to learn something I love the
+first time viewer if come on you got to get interactive with you're not going to
+make it these 30 weeks if you're not typing in chat if you have the means
+to all right next question have you ever taken copious notes like you wrote
+a lot of notes as you were trying to learn something give me a yes in
+chat have you been taking notes tonight put a yes in chat we haven't really
+gotten to any content yet if you have you taken
+
+01:49
+some have you ever highlighted like you wrote all those notes and you spent a
+lot of time like highlighting and going through them highlighting them can't
+tell you how many highlighters I went through all right let me blow your mind
+here for a second all of those things rereading taking notes and highlighting
+they do nothing nothing thing to help you
+learn like Liam that's what I've always done I've always taken lots of notes and
+highlighted my ass off and reread bazillion times doesn't
+work it wasn't you seventh grade English
+class it wasn't you you just didn't know how to study you're like wait a minute
+Excuse me yes they don't work about to tell you why they don't work and I'm
+going to show you what does work okay what if
+
+01:50
+there were two strategies I can give you two strategies right now what if there
+were two strategies that enabled you to learn stuff faster more
+efficiently and forever the rereading the highlighting and taking notes that
+ain't it but there are two things you can do that we're going to learn right
+now that are going to help you to learn stuff faster more efficiently and
+forever and those two things are active recall and spaced repetition now you're
+going to have two videos to listen to for homework that go way deeper into
+these two topics because they are so important literally when I teach this is
+the first thing I don't care what topic I am teaching I don't care where I'm
+teaching at these are the first two things I'm telling you I teach at the
+
+01:51
+Harvard Business School maybe like once every year twice a year and at Harvard
+Business School I open with these two things because it is criminal that we
+are never taught these things it it is absolutely wild that I made it through
+my entire educational Journey without knowing these two
+things all right active recall here's a chart this comes from Ali abdal they
+have an amazing video that's actually your homework that walks through a
+process called active recall all active recall is is when you are done reading
+something you recall the things that you just
+read now I have attention issues here's a here is a very common thing that
+happens because I have attention issues I will read through a chapter and it's
+as though I like teleported it's like I'm at the end of the chapter and I'm
+
+01:52
+like what just happened cuz for the past five minutes I've been flipping pages I
+definitely my my eyes have been moving but I have no idea what I just read
+right it took me until like 10 years ago like adulthood to know that like other
+people did that and it's because we never were taught actually how to read
+appropriately when it comes to studying so if your mind's blown let me tell you
+what helps actively recalling when you get to the end of a paragraph
+stop and recall to yourself what you just learned if you have attention issues
+you're going to be stopping more frequently in the beginning if you don't
+some folks can get to the end of like a page or some folks can even get to the
+end of the chapter but the idea is when you're done learning something new you
+
+01:53
+talk to yourself say it out loud the things you just learned uh you all saw
+Bob during the break me and Bob have whole last
+conversations right where I am telling them all about the stuff I'm learning
+all about the weird things that are going on in my code and if Bob has his
+headphones on as he does right now I talk to my duck it's chroma out so you
+can't really see it but I have a duck that I talk
+to Bob was The Mannequin that was sitting on my chair when I left I talked
+to my duck some days me and Bob were on the outs and I talk to my duck when I am
+learning something new I stop every like chunk of text like every paragraph of
+text I stop and I say to my duck what I just learned and and at the end I recall
+everything I learned in that chapter and here's why here's why there
+
+01:54
+was a study that was done where they gave a group of students four different
+groups of students one chapter of I think it was like a biology textbook I
+forget I doll will bring it up in the video one chapter let's say of a biology
+textbook to read one group read it once so here is
+the group that read the chapter once here's the group that read the
+chapter four times four times here is the group that read it and then did like
+a spider map like they did some other things that like got them like actively
+into learning and then here is the group that read it
+once and recalled the things that they just learned
+now let's say this one more time let me let let me let me let let me let me let
+
+01:55
+me just let me let me just bring this down a little bit here this group read it
+four times they read the chapter four times this group read it once and did
+better if you're not mad right now you should
+be this group read it four freaking times this group read it once and then
+just talked out loud to themselves about what they just learned and they did
+better I don't know which one of my teachers
+
+01:56
+want to step up but somebody's catching hands how how can there be a
+way how can there be a way where you do a fourth of the work but do better
+that's active recall right that's what active recall can do a fourth of the
+work but still do better so you bet after you learn something at a 100 devs
+the thing you should be doing is recalling when you are done class
+tonight when this stream ends we do a raid but when when that raid is
+
+01:57
+done right when that raid is done you need to stop and
+recall the things that you just learned right now something that people
+do is they like to take notes here's how I twist
+notes we'll talk about the rate at the end don't worry about it for right now
+here's how we do notes don't take notes take questions don't take notes take
+questions as you're learning something write down a question right what is a
+study practice that can enable me to do a quarter of the work but get better
+results because at the end of class right at the end of class you go
+back through your question s and your questions are your active
+
+01:58
+recall so don't take notes who has that emote the the Great British Bake Off
+emote it was hilarious take questions and then at the end of your lecture quiz
+yourself by going through your questions cool that's active Recall
+now the sad thing is if you put in the work even to actively
+recall we have something called the forgetting
+curve right we have the forgetting curve let me take a sip here thank you thank
+you uh Memphis we have something called the forgetting
+curve now this was a study of one so it's like not the best research uh but
+it is a something that's been repeated and you can actually see it within
+yourself as well what this person did is every day they would
+
+01:59
+memorize a thre digigit like a threel combo like three just three letters and
+then they would quiz themselves right they would quiz themselves 20 minutes
+after an hour after at all the way down to 31 days after and what they
+found is that that threel combination within 20
+minutes there was like a 40% chance they forgot it let's say that
+again let's say that again with just in 20
+minutes there is like a 40% chance that whoop in one ear out the other
+so if you are trying to learn how to code guess what software engineering is a
+cumulative career meaning that you have to remember the stuff that you've done
+
+02:00
+in the past so you can build upon it and build up your knowledge over
+time even if you put in all the work you do all your active recall by the end of
+31 days there's like an 80% chance exactly poof gone
+gone you learned it you forgot it and you're gone right and
+so a lot of people put a lot of time into these tutorials they put a lot of
+time into learning how to code only for two months later to remember a damn
+thing I can't tell you how many tutorials I've done that just a few
+weeks later I would would have to restart the whole
+tutorial and that contributes to being in the trough of Sorrow cuz people just
+don't realize that one they were taking notes the whole time they were
+
+02:01
+highlighting their asses off I can't tell you how many notebooks I have full
+of stuff that I took notes on and highlighted that I will never ever
+remember so active recall helps you learn the material but we know as humans
+we have this forgetting curve and when we come back from break I'm going to
+teach you or show you how you can never forget anything that we learn together
+or anything that you learn in the future forever there's a very simple tool that
+you can put into place that will enable you to reap the benefits of your hard
+work and not forget the code that you learn so we're at the top of the hour
+and as you know we like to be healthy around here we take a break at the top
+
+02:02
+of every hour it's a marathon not a Sprint we're going to take care of
+ourselves and so let me pull up the timer here please if you are
+able get up get away from your chair walk around if you're
+able grab some water hydrate do some light stretching let your eyes focus on
+something right let your eyes focus on something that's not your
+screen because we're in this for the long haul all right we start the timer
+here we put on the tunes and I will see you all in five minutes because I'm
+
+02:03
+going to take a break too I'll give you Bob so you're not lonely TN five
+
+02:05
+folks we don't get got we go get yo not back yet going to chill until the
+timer's over what are mini Leons for you can use
+your channel points to unlock a bunch of
+stuff from like silly stuff that happens during stream or eventually uh like
+getting resume reviews and stuff like that was that a Manu scarf
+yep proo thank you for the hydration cheers to you what's my favorite Pokemon
+
+02:06
+typing um grass cuz I like Bulbasaur I don't know it's not the competitive
+answer but it's still my favorite leech seed all the fun stuff that comes along
+with it I don't know what the starters are going to be in the Legends
+Charmander Psyduck was the best Abra was
+the best in in Pokemon Blue just cuz you could if you got Alakazam or whatever
+the way to get Al gazam was like it was over it was a wrap Leaf blade
+exactly favorite anime Attack on Titan I'm I'm I'm not like deep in the
+anime though actually I'm going to say cowboy bbop cuz I'm an old
+head what's the blue circle for I just didn't take it off
+do you play OverWatch with your students
+quite a few yeah we have a game together Channel definitely down to play some
+
+02:07
+OverWatch or some fun stuff favorite superhero
+Batman did I get the Pearl Diamond remake of
+course I play Apex I played it once or twice but never really got into
+it favorite video game definitely Pokemon I like Pokemon X and Y I think
+I'm a little weird in that regards but that was the only gen where you really
+felt like you were like a real trainer cuz you could go from like meeting
+someone in game to them being on your like friends list with video like with
+sry not video with voice chat so like really felt like you were actually a
+Pokemon trainer that could play with folks from anywhere around the world and
+then they got scared of voice chat in Pokemon games probably for good reason
+and got rid of it all right folks come on come on back
+come on back hope you had a good break hope you're able to stretch relax a
+
+02:08
+little bit grab some water let's get this all right so we before we took our
+break we talked about this idea of active recall being the thing that
+actually helps you learn right like that the idea of actively recalling the
+things that you just learned is the tool to use as you are learning material and
+we talked about probably not taking notes but taking questions so that at
+the end of the night or at the end of your studying session you can go back
+and recall the things that you just learned all right now the forgetting
+curve is the devil at play here because even if you do your active
+recall let me chill the music here even if you do your active recall there's a
+
+02:09
+good chance that you forget the material right you forget the material
+and so I promise you when we came back to tell you how to flatten or get rid of
+this forgetting curve and the way that we get rid of the forgetting curve or we
+flatten it is with repetition okay now what happens the very first time that we
+learn something right the very first time we learn something by the end of
+three days there's a nonzero chance that we've forgotten it right like we we
+we've gotten to like a 40% chance that we've just like forgotten it right but
+if we were to review that material right just
+once we push our 60% memory retention ention from 3 days to S let's think
+about this if you just reviewed your material right if you just reviewed your
+
+02:10
+material once you flattened your forgetting curve by a whole
+week if you were to review it three times right that flattens out the
+forgetting curve even further and with enough with enough
+repetition Nick hey what's going on thank you with enough with enough
+repetition with enough repetition that forgetting curve becomes flat and we
+just don't forget stuff we just don't forget stuff right
+and so if you're going to come here and you're going to put in all the work
+you're going to put in all the hours all right Bu The Rock song coming on right
+if you're going to put in the work you're going to put in the hours you're
+going to put in all this time to learn stuff you owe it to yourself to do the
+
+02:11
+strategy that's going to make sure you don't forget
+it briefcase said well what constitutes reviewing we're going to use a tool
+called space repetition I got you what space repetition means is that
+we are going to space out our repetition what that means is we're going to see
+the same material over and over again right the same things that we learned
+we're going to make sure we see them in some formulaic algorithmic way we're
+going to see them over and over again and just by that idea of repetition we
+make sure we don't forget stuff right so here is on a scale of like if you're
+going to remember it or not right on a scale if you're going to remember or not
+if you just learn something once right there's a a good chance that
+you just forget it if you recall that information once
+look at this just literally recalling once look at what your percentage jumps
+
+02:12
+to you jump over 20% just by recalling once that means if
+you took questions during our lecture and after lecture right after
+lecture you just review the things that we learned earned your retention jumps
+20% one one one one recall 20% so that's why active recall
+works you just do it once you got like 20% more chance of remembering something
+and then if you repeat it multiple times your ability to remember things goes up
+and up and up and up and up and up and up and up now here's the really
+
+02:13
+interesting thing here is space repetition and here is repetition in
+Mass this repetition in mass is when you
+take Saturday to study over and over and over
+again so that that's the people that want to put 10 10 hours in on a on a
+Saturday right where you just sit there all Saturday repeating stuff
+right it literally look look here is I swear is this lower hold on how is that
+possible how is that right here is you you repeating a bunch of times in one
+session versus recalling once right so so this makes sense this makes sense let
+me let me explain here and Ali abdal is going to explain it way better than I
+can right in in a full video for you but here's the idea let's say I learned
+
+02:14
+something and in that same session right in that same session I repeat it to
+myself a 100 times I'm not going to say 100 but let's say I repeat to myself a
+bunch of times so there's no recalling it's just that one session I just do it
+a bunch of times right that is worse than learning something and then
+recalling it once at a later time right and then here is if you space out your
+repetition so you can see how significantly important it is to space
+out your repetition and not just have a day where you study you have to do this
+every single day here's the science you don't take my
+word for it Ali abdal is the the the master of this and they're going to
+guide you through it through these two videos that I've shared now you're
+saying Leon space repetition sounds amazing I can flatten my forgetting
+
+02:15
+curve never forget something how the heck do I do that well we do it with
+anky anky is a free tool anky is flash cards with an algorithm behind them
+that's all it is it's flash cards with an algorithm behind them if you've ever
+used flash cards great you were getting some recall in but it wasn't good enough
+because there's no algorithm behind it what anky does is it does the space
+repetition for you you review a card and then if you get the answer right it's
+going to show you that card in two days if you get it right again it's going to
+show it to you in a week to get it right again it's going to show you in a month
+I have some cards that I won't see until I'm like 7 years old right because once
+you review the material enough your forgetting curve is flat you just won't
+
+02:16
+forget that stuff anymore all right so we're going to use anky anky is
+completely free do not pay money for anky remember I'm never going to give
+you anything that you have to pay for it is completely free on Windows Mac OS
+Linux G new Linux uh it it's completely free on Android and in on the web if you
+have IOS the app is $25 do not pay for the IOS app just use your web
+browser right you can use the anky web which I have conveniently linked for you
+right here you can do all the stuff in the
+browser I I create all my cards on Mac OS and I review them on an Android
+phone right I highly recommend that you only create your cards in one location
+and then you review them wherever you want but if you're like Leon that sounds
+
+02:17
+amazing wonderful we're going to have a whole kind of like class on how to use
+anky better right but as the co-work goes on and we're starting to actually
+learn more and more material an is going to become your best friend anky is
+something that you're going to use every single day all right so I got two
+questions for you I just gave you the cheat codes to learning right active
+recall space repetition I don't know why it's not on the front page of every
+textbook but this is how you actually learn things so now I'm going to ask you
+a very important question why should you create your own anky cards and not use
+someone else's throw it in chat give me some ideas
+here why should you create your own cards and not use someone else's
+exactly the simple Act of creating your own cards is an active recall
+
+02:18
+session so by creating your own cards you get a full repetition of active
+recall in and it's going to be the things that you actually learn that
+you're recalling that that cognitive effort that you put into learn pays off
+when you use your own cards this is also why you should never use
+somebody else's notes or somebody else's questions if you're using somebody
+else's notes or questions you didn't get your own active recall in and it's
+something you have to get better at remember software engineering is a
+cumulative career it's something you're going to be doing for the rest of your
+working days and so you have to get good at using these tools and strategies you
+are all going to leave this program and join a company and on day one they are
+going to use a tool and a technology that we have not learned together and
+you're going to have to learn it on your own so you better be good at creating
+
+02:19
+your own anky cards taking your own questions getting your active recall in
+feeling comfortable with space repetition because you're going to have
+to do this every single day for the rest of your
+life cool next question question for you
+I can see why tutorials can be a trapped exactly tutorials are a trap because a
+lot of times it's low cognitive effort reading highlighting notet taking all
+low cognitive effort when we do low cognitive effort tasks the the
+connections in our brain don't form the same way when we do high effort tasks
+active recall space repetition are these high effort tasks that actually Force
+the Connections in your brain to solidify cool next question for
+
+02:20
+you why should you use anky every day high effort exactly it's spaced
+repetition every day right it's space repetition and exactly
+consistency right we said the three things that I noticed in my students
+that were successful were they manag their frustration they were consistent
+right they were consistent and they took
+care of themselves well using anky every day builds that consistency it makes
+sure your forgetting curve is flattened it makes sure you don't forget the
+things that you did it's high cognitive effort you're forming those connections
+in your brain and it works it just works so if you're here and you're saying to
+yourself Leon I was never successful at learning how to code
+before but you didn't use active recall and you didn't use space repetition
+
+02:21
+that's why the folks that do active recall and space repetition and take care of
+themselves they learn how to code a lot of people say Leon I was never
+successful in school because you didn't know how to learn they don't teach this
+I wasn't good at math because you didn't know how to
+learn now you do you're going to put it into practice and I guarantee you if
+you've ever said those things to yourself before things change once you
+start putting these two things into practice said how long is class uh 3
+hours we always go 3 hours get your refunds folks
+FKS if he went to University he didn't teach
+this all right now the fun stuff is that there are some other tools and
+
+02:22
+techniques that are going to be really helpful as well these are the big ones
+like if you just do these two you're good life changed you'll learn and not
+forget stuff heck you could be like Leon I hate you your voice sounds annoying
+I'm going to leave that's okay make sure you do these two things with your next
+tutorial cuz you're going to actually learn more just do that please that's
+all I ask of you this is where you stop with us cool make sure you use these two
+things going forwards now the beautiful thing is that there are other tools and
+tips and tricks that are going to help you be successful as well and so your
+first big set of homework is to go through Dr Barbara Oakley's course
+called learning how to learn uh they have broken down all the science behind
+how adult and specifically adults learn and they're going to give you all the
+tips and strategies you need to continue we've covered the two big ones but that
+
+02:23
+course is going to give you the rest now like I said a lot of folks come to
+learning how to code with all these preconceptions about how they
+learn there are no visual Learners there are no uh kinesthetic I
+got to touch things learners it's all made up it's not real it really it just
+it's not a real thing it's the things we
+tell ourselves to get over the fact that
+we don't have good study habits and it's not our fault we never learn this stuff
+right it's not true you can look it up don't take my word for it look it up
+you're like L I've been a visual learner my whole life no you got got that's
+something somebody told you 10 years ago when you were struggling in school to
+make you feel better but it's not true you need real study habits active
+recall spaced repetition are real study tips that are going to help you learn
+
+02:24
+the things that you learn cool deep breath everybody I no this a
+lot especially if you haven't been in a learning environment for a while three
+hours can be a bit but uh I appreciate you and I thank you for putting in the
+cognitive effort for put putting in the active recall for putting in the space
+repetition and for being here right now I can't tell you and you can see
+them how many folks out there want to learn how to code in the new
+year right how many folks want to learn how to code in the new year but how many
+of them are not going to put in the high cognitive effort tasks they're going to
+keep buying courses they're going to keep taking they're going to do all
+these things that are not going to actually help them to learn so now you
+know what you got to do it's hard it's not easy but if you decide to give up
+your nights or your weekends or time away from the ones that you love I
+
+02:25
+respect the H out of you and let's get it we're going to get the bag all
+right got a little bit more than a half an hour a little more than a half
+hour and we're going to start off by learning what the heck the internet is
+and then hopefully just a smidge of HTML I don't think we're going to go over
+tonight I think we'll be able to hit exactly the three hours um but we're
+going to this will be the first thing that we learn
+now I kind of mentioned this at the beginning but I just want to be really
+clear before we get into like the big topic we're going to learn
+tonight this is a jobs program I know it says like free coding boot camp free
+software engineering program but this this is a jobs program the idea is for
+you to get a job okay that that's the goal we're we're covering way more than
+
+02:26
+just coding to help you get the job and what I really want to click is that for
+a lot of folks learning the code can be a lot of
+things I'm a I grew up loving puzzles you give me a hard challenge I'm about
+it I'm going to do it I'm going to have fun with it I'm going to love it so for
+some folks coding can be a way of like getting daily challenges that they work
+through for some folks they love to code because it could be creative you can
+bring things to life it's like playing Minecraft on like super energy pills
+right you can you can think something and build it and people around the world
+can play with it and enjoy it and then for some folks it's about making
+money I started off my story telling you
+you the reason I did this and the reason I got into it is to get the money
+there's no shame in that make your money that's why I'm here
+
+02:27
+and that's why I think a lot of you are here too I hope that in the process of
+making that money you start to enjoy the things that you're doing as well right
+you start to see the beauty and how the internet works you start to see the
+beauty in HTML you start to see the creative side where you can build things
+but let's not front and pretend that that's why most of us are here
+cool I'm a bag Chaser me too all right so you all hear to be software Engineers
+but the focus of this boot camp is web development
+remember we said a software engineer could write code that works in a lot of
+different places the code that we're going to write works in the browser like
+Chrome Firefox Safari the things that you would normally use to like access
+
+02:28
+websites and web applications that's what we're here to learn how to build we
+will be software Engineers we're going to have software engineering
+fundamentals we're going to know our data structures our algorithms we're
+going to know our tooling and support we're going to know a little bit of math
+behind all that stuff and our focus our specialty will be full stack web
+development so a lot of have you signed up for becoming full stack web
+developers without maybe knowing what a full stack web developer really does
+we're going to solve that today that's what we're going to get into now before
+we jump into it what the heck is the web or the
+internet let's let's let's separate the web from the internet there's actually
+two different things what's the internet
+you're all here to become web developers
+to build things that exist on top of the internet what the heck is the internet
+and participation in this class you can say whatever the heck you want you could
+say Beyonce's Network yes you could say Beyonce's Network and that counts you
+
+02:29
+could say cats that counts cat videos that counts I want every single person
+that's still awake that's still here to throw into chat what the heck they think
+the internet is I want to see a bunch of like firsttime typers this is your
+chance wires I love wires networking computers I love it an
+addiction yes Community yes memes yes the Matrix yes come on give it to me
+information yes man I can tell a lot of people watched
+like like early 2000s NBC the information Super
+Highway all right I see a lot of people saying a wire uh it means that you
+probably snuck ahead and watched my video uh but yeah we're going to start
+off with that idea of a wire so let me go to whiteboard here let's start off
+
+02:30
+with an idea of a wire now on this wire we're going to have two different
+kinds of computers we're going to have client side
+devices and we're going to have servers cool so we're going to have a
+wire and we're going to have two different kinds of computers on this
+wire now client side devices are the computers that we use to consume things
+that go across the internet so client side devices might be like your phone
+your laptop a tablet a desktop whatever you're using to consume
+that content is your client side device whatever you're using to watch me right
+now that's a client side device fold said what's with all the
+
+02:31
+nuns all right I'll I'll explain what the nuns are the nuns are an emote that
+you get on this channel uh you can get emotes from subbing or from just using
+your channel points because you never need anything you never need to sub for
+anything like it just doesn't do anything um but the nuns are an emote
+that we have because well my mom was the best uh my
+mom always found free stuff for me to do all the time and uh it didn't matter
+what it was if there was a raffle if there was something we got it all right
+and so I remember I got to go to Six Flags I got to ride I think it was
+called the Medusa like eight times in a row two hours before the the Six Flags
+opened up because my mom filled out a form at Wendy's and we won well my mom
+found out that that there was a free art class every Saturday morning run by
+nuns and so uh every Saturday guess where I got dropped off to hang out with
+
+02:32
+the nuns and learn how to draw so my drawing as you can see is not that great
+so you can't blame me you got to blame the nuns go to Philly find you some nuns
+and say why can't Leon draw better it's not me it's them so that's where the
+nuns come from all right we got two different kinds devices
+julo I love that name jundo thank you for the five gifted
+Subs uh we we have two different kinds of devices on this wire that is the
+internet client side devices that we use to consume and then other types of
+computers out there on this wire called a server
+now take a wild guess as to why we call this computer a server
+why do we call it a server what do you think that computer does on the
+internet it serves exactly it's called a server because it
+
+02:33
+serves and what it does is it serves up different kinds of content a server will
+serve up a bunch of different things HTML SS JavaScript these are all languages
+that we're going to learn together but when we are on our client side
+device we can make requests those requests leave our client
+side devices and find themselves all the way at a
+server that server can hear that request and respond with something that is the
+backbone of the internet this idea that we have some devices that can make
+requests and some that can respond with stuff now let's step back a
+
+02:34
+second Rob thank you for the hydration let's step back a
+second if I asked you to open a Word document what program would you use
+right what program would you use to open a Word document
+not trying to trick you here yeah you probably use like Microsoft Word right
+you might have another program that opens it but like Microsoft Word right
+what if I asked you and throw this in chat what if I had a PDF what program
+could you use to open a PDF Adobe maybe preview if you're on a
+Mac right but Adobe right so we have this idea that like we have these
+programs that can run on our client side devices and these programs are really
+good at opening certain types of files word can open Word documents
+
+02:35
+Adobe can open up PDFs well running on our client side devices we often have a
+program called a browser and that browser is really good
+and when I say browser I mean like Firefox Chrome Internet Explorer these
+browsers are really good at opening certain types of files specifically HTML
+CSS and JavaScript files they can open those files and display what you are
+seeing on your screen right so often what we will do is
+we will be on our client side devices we
+will be using a program called a browser and from this browser we are able to
+make requests to a server that server is just another
+
+02:36
+computer out there on the internet that can hear that request and has some code
+that tells it what to do right I like to think of this as like a
+restaurant right the client side is like you sitting at your table
+and the back end or the server is like the kitchen from your table you can make
+requests to the kitchen and the kitchen will send you back
+food right you don't really care too much about what's happening in the
+kitchen you really kind of just care that they give you the food well this is
+the exact same thing that's happening on the internet you are sitting in the in
+the in the booth making requests on your
+client side the device those requests go to some server or kitchen and you get
+stuff back now the beautiful thing is that our client side devices our
+
+02:37
+desktops our phones our tablets all have that program called a browser and the
+browser can run the files that are being
+sent back from the server so when we get food back from the kitchen we are able
+to eat it but maybe there are some things that we couldn't eat well a
+server could work the same way a server could send you a file that the browser
+has no idea what to do with and it just wouldn't know what to do and it wouldn't
+run it but when we send to the browser HTML CSS JavaScript it knows what to do
+with that stuff cool now let's do an example let's
+pretend that we are going to order from dominoes uh I love using this example
+because I am actually no longer allowed to order food from Domino's so we are
+going to pretend uh my wife is just across the hall from me like they're on
+
+02:38
+the other side of this wall I ain't trying to get got uh so we're going to
+pretend okay we're going to pretend that we're going to order food from
+Domino's everyone's saying why I'll tell you why all right here's why I a grown
+man am no longer allowed to order dominoes when when you are walking down
+the street and the Domino's delivery person pulls their like they're driving
+past you they pull over they get out their car they walk up to you they say
+hey Leon how's it going they grip you up
+and they're not delivering you pizza and you're with your wife that is the exact
+moment you are no longer allowed to order food from dominoes so we're going
+to pretend I'm going to pretend on my I'm not even going typeing in my phone
+I'm afraid it's all right I'm okay to be
+scared um I'm going to pretend that from my client side device I am going to go
+
+02:39
+to dominoes.com so I type dominoes.com into my client side device that request
+leaves my phone that request leaves my phone makes
+it all the way to Domino server and Domino
+server Domino is like wait a minute wait a minute was that
+Leon is that Leon did Leon just order something from
+dominoes did we get him back is he in the house the all return to order
+dominoes and they're they're throwing up their kids are going to college
+everything's good in the world we're going to we're going to
+we're going to pretend we're going to pretend so I've typed in dominoes.com
+pretending into my phone that pretend request is made to Domino's server they
+go wild and then they go hm what should we respond with well they're going to
+
+02:40
+respond with HTML CSS and JavaScript they're actual individual files right
+they're actual individual files but each of those files handle something
+different so once the response comes back to my phone I see do website in its
+full Glory if you if you've never been to Domino's and I haven't been there in
+a while I haven't been there in a while right but back in the day when you went
+to Domino's website there was a beautiful picture of a pizza at the top
+and going down the middle going down the middle was a list of
+ingredients all of that content that you saw like the picture the text
+that was all powered by HTML no snitches exactly tiny that was
+
+02:41
+all HTML so if you've ever been to a website and you saw content your client
+side device just consumed HTML freely on so if you've ever been to a website
+and you saw like text or images that was HTML now
+Domino's website was beautiful back in the day the ham was pink the pineapple
+was yellow the peppers were green the ingredients were like centered so like
+that color that positioning that style that was all powered by
+CSS so if you've ever gone to a website and you saw content that was HTML you
+ever been to a website and it didn't look like a hot dump dumpster fire that
+was CSS and then the kudagra the the the the the the the end of all
+
+02:42
+websites was that on Domino's website you could drag the ingredients on to the
+pizza [Music] you could drag the ingredients onto the
+pizza and that was all powered by JavaScript so if you ever went to a
+website and you saw content that was HTML if it ever looked good and not like
+a hot dumpster file that was CSS and if you could ever do things like drag and
+drop interact that was all JavaScript now now that's all stuff that's
+
+02:43
+happening on our client side but somebody honestly that was hilarious uh but
+that's all happening on the client side like we're seeing all that stuff on our
+device but there's a lot of stuff that has to happen on that server on that
+server there's a lot of things that have to happen right they got to be able to
+process our credit card they got to be able to look up my
+2,000 orders right they got to be able to store the new orders into a database
+right keeping track of all the orders that somebody's ever made so there's a
+lot of stuff that has to happen on the server that's set up so that we can
+handle the requests that are coming in right when they when I make that request
+to die dominoes the server needs to process my credit card it needs to send
+my order to the local dominoes it needs to store my order in a database all this
+
+02:44
+stuff that we never see is happening server
+side right so you are all here to become full stack web
+developers what that really means is that you will be able to write code that
+runs on the client side like the HTML the CSS the JavaScript and you will be
+able to write code that runs on the server things that enable you to process
+credit cards store stuff to a database hear those requests for pizzas coming in
+right and we actually have words for that folks that just focus on what the user
+sees right are client side developers or frontend developers folks that focus on
+just the server side are called backend developers and individuals that do both
+
+02:45
+the front end and the back end we call them full stack
+developers now a lot of people come to me saying Leon I just want to be a
+front- end developer or Le I just want to be a backend developer if you've
+never built a full stack web application you honestly don't know what you prefer
+yet some people think that like the front end might be more
+creative or that they that the back in might be more mathy no it's not they're
+they're very different things but give yourself a chance don't close yourself
+off CU you might like one more than the other but here's the
+thing you got to know both at least the basics you can't be a front-end
+developer that that doesn't know how the code you're writing interacts with the
+backend that's how you lose your job right people feel like they're going to
+go into just the one specialty no you got to know the full
+
+02:46
+stack right you got to know the full stack and you're going to know the
+basics and then once you know the basics
+you've built a full project from scratch then you make those decisions because
+you all every single one of you here will have built a 100 hours project a
+project that you put 100 hours into you've built the front end and the back
+end and then you can stop and say all right well maybe I like this or that or
+maybe both so come in with an open mind all right now I said that this whole
+thing is about sending requests and getting responses from our client side
+device we made a request for dominoes.com that request found its way
+to the server and then a response found its way back and the way that this all
+works is that those requests are actually going across real wires let me
+show you those real wires here we go you got got to look behind my
+
+02:47
+drawings here are the wires here are the transatlantic internet cables uh
+there're these big ass wires that go across the ocean that enable our
+requests to move around the world inside each of these big wires I've been told
+is that there are eight fiber wires in between in each one and each one of
+those fiber wires can transmit up to 53 terabytes per second now I have never
+downloaded a an illegal Blu-ray rip like who does that right but if you had you
+would know that like a good quality Blu-ray around 3 GB so we're talking
+about the entire Blu-ray collection going across just one of those wires per
+second there's eight of them in this tube and then look at all these cables
+everywhere in the world right they're just everywhere so that's how our
+
+02:48
+requests are actually moving around the world and the funny thing is these
+requests only have 3 seconds to go from the client to the server and back if it
+takes more than 3 seconds people bounce that's that's the professional term for
+this it's called Bounce rate like how many people just leave right now it
+seems simple at first but there are a lot of things in between our requests
+from our phone or our computer all the way to Domino server and
+back typically if you're like on your laptop or your desktop you are maybe
+connected on WiFi and the Wi-Fi is you're going to you're going to make
+a request from your device it's going to go from your Wi-Fi to your router
+through your modem and one of the first places and give me some leeway with all
+this like you could spend your whole career on just like one portion of this
+
+02:49
+right and this is kind of an overview so give me a little bit of leeway here but
+one of the first places your request is going to go is an
+ISP what's an ISP throw it in chat what's an ISP anybody know
+somebody said is that where network engineering comes in it can be the start
+of it yeah it's an internet service provider these are the individuals that
+we pay money to to connect us to those big old wires right
+now I'm not a fan of the isps I'm really not they charge a lot of
+money but I kind of get why those big cables that I showed you they're not
+really ran by like the big folks that we're thinking of like Verizon Comcast
+those are more like government other really big service providers maybe some
+of them right what Comcast and Verizon and all these other isps are really good
+
+02:50
+at or what we call Last Mile they're really good at connecting your house to
+those big pipes right and there was an article not too long ago about when
+Verizon came into Boston they laid fiber may I want to take a guess what the
+article said it cost them per block to lay fiber how much you think it cost
+them per block take a guess five million a
+block five million a block so I kind of get it I don't like paying the money but
+I kind of get why they charge so much it's a lot to lay that last mile cable
+and connect us to those wires cool Next Step that our request will probably go
+through is something called a DNS anybody know what a DNS
+
+02:51
+is yeah domain name server or system depending on you're talking to but let's
+say domain name server a DNS is just another computer out there on this wire
+and the computer is really good at doing
+one thing it's a really fancy phone book
+hold that in your head for a second it's
+a really fancy phone book all right if I was throwing a party and I asked you to
+show up at my back porch please don't show up my back
+porch please don't do it it's not an invitation but if I was having a party
+and I wanted you to show up to my back porch what could I
+do what could I give you that would enable you to get to my back porch
+a lot of people are saying an address would an address get you to exactly my
+back porch get you close it's not going to get you exactly to my back
+
+02:52
+porch coordinates exactly I could give you the GPS the longitude and the
+latitude right to my back porch and with that you could get exactly there the
+same thing happening on the internet we typed in Domino's.
+that wasn't enough to find that server we needed something called an IP address
+an IP address is kind of like the latitude and longitude to get you to
+that server so remember I said DNS was a fancy phone book all that's really in
+that phone book is an address and the IP address right because when I'm giving
+you the directions to my back porch I could say go to 37111 491
+912 comma -42 1.14 11119 like that's the coordinates to my back porch right like
+
+02:53
+I could give you those coordinates will you ever remember the
+coordinates to the back porch there you got them right no you
+will never remember those coordinates and there's no way in hell you remember
+the coordinates for a bunch of other people so instead of latitude latitude
+and longitude and us having to remember all of those things we have addresses 32
+Cherry Street right they're very easy we
+can remember 32 Cherry Street instead of the latitude and longitude you're all
+like I got anky now I got it give me the
+latitude longitude right and so the idea here is that we in the real world have
+addresses to get around and on the internet internet we have the same thing
+but instead of addresses we have URLs dominoes.com well dominoes.com is the
+address it is not the latitude and longitude to that server so we need a
+
+02:54
+DNS when we give them address dominoes.com the URL it gives us the IP
+address here's the IP address for Domino's 139772 4421 01
+that's not Domino's IP address I'm not that I'm not that bad come on now give
+me give me a little bit more respect than that all right but the idea here is
+that it's it's something like that where we would type in dominoes.com our
+request goes through the ISP if we paid the money then it goes to our DNS and
+then the DNS would give us that IP address and with that IP address we
+could eventually make it to our server there are lots of other steps in between
+this is just an overview that server has some code running on it right that code
+hears that request comes in and knows what to do maybe it's going to fetch
+some HTML CSS in JavaScript maybe it's going to store an order but that code
+listens to the request and knows what to
+
+02:55
+do and then once it's finished with that request it sends a response and that
+response goes all the way back to the client side but guess what that response
+is going back through all these hoops right got through all these hoops right
+that we just jumped through to get to the server and this all works because of a
+very important tool right a very important tool called
+https HTTP there we go we'll say HTTP right we have HTTP all this works
+because of the hypertext trans trans ER protocol it is the way that we were able
+to make these requests and send these responses right hypertex transfer
+protocol actually sits on top of some other stuff
+
+02:56
+PCP IP there's a bunch of other stuff that like is happening to make this work
+but the idea of being able to send a request from a client and get a response
+from a server is because we're sending all this through this protocol
+now something fundamentally changed about the web a while back something
+that changed this whole game for the better kind of gave it up already what
+changed about HTTP that made all this better the S exactly we got
+https or hypertext transfer protocol secured what used to
+happen is every single request you made went through this entire chain this
+entire network across all those cables and every single person in between the
+hundreds of people in between they all got to see what you were requesting and
+
+02:57
+the response you were getting back let that sink in for a
+second back in the day not me not my friends not people I knew but back in
+the day people would go to Starbucks and they would run a program called fire
+sheet and when they ran that program called
+fire sheep it would show them all the requests that were being made on that
+Network so you could see all the sites they were signing into all the passwords
+all that stuff before we had the S once we got the S things got
+encrypted the funny thing though is that you can still see what's being
+requested and you can still see a lot of information about that user you can see
+where that user is coming from you can see what type of computer they're on and
+you can see the site that they're requesting like the
+URL and so something really interesting happened with the isps is that the
+
+02:58
+isps w a court case that said hey not only can we record all this stuff like
+the site you're going to uh the the computer that you're on not only can we
+record all this stuff we can sell it to the highest
+bidder right and so all your isps are doing that now because they have like
+the legal authority to do it all right so all the requests that you're making
+are going through this entire network uh and everyone can see them cool
+now who uses an incognito browser great Incognito browser really
+doesn't do anything it does one very specific thing I'm about to show you the
+only thing in Incognito browser does you ready about to show you the only thing
+an incognito browser does you ready for this pay attention ready 3 2 1 that's
+the only thing that an incognito browser saves you
+
+02:59
+from did you see what I did hold on let me let me slow down right you ready boom
+that's what it just saved me from right if I had used an incognito browser the
+things that I looked for right the the the things that I searched for in the
+past aren't like stored locally on my machine right
+but does it mean that the websites I'm going to nobody can figure out like my
+ISP still knows that balloon website that Everyone likes to go to right like
+my ISP still knows uh what computer I was on when I
+went to those sites right and so you you got to be careful folks all the
+Incognito browser does is just so that if your your your loved ones sit down
+and they want to practice their Pomodoro they don't get
+surprised okay now a lot of you are looking at some stuff that you don't
+want other folks to know right you don't
+
+03:00
+want your ISP to see you don't want your
+DNS to see you don't want all the people in between to see that website you love
+going to so much and so there is a way to protect yourself and it is a
+VPN a VPN stands for a virtual private Network it is somebody else's computer
+that you send your encrypted traffic to and then that computer makes the request
+on your behalf so you run a program on your computer that encrypts your traffic
+it goes completely encrypted through your ISP through the DNS to this
+computer where that computer decrypts it and then makes the request on your
+behalf now PE vpn's love VPN because they think it makes the them more secure
+um but here's the thing uh VPN is only secure in the sense that you trust that
+provider more than you trust your ISP right let's say that
+
+03:01
+again a VPN only works if you trust that provider more than you trust your ISP
+there are ways to roll your your own vpns and stuff like that but that that's
+all it does so even if you're using a VPN you're still trusting somebody else
+to not log your searches to not log all the things that you're
+doing so if you want to buy your drugs and guns online please don't do that
+just through a VPN there are other ways we'll save that for another class
+though save that for another class some folks are saying tour the onion Network
+yes there there are things like the onion Network where instead of it just
+being a request and a response to a server you you got to bounce your
+request around to dozens of other computers each time it's peeling off a
+layer of the onion until it makes it to where it needs to go and then it bounc
+through all those relays again but please if you um are trying to buy your
+
+03:02
+drugs and guns online don't just use a VPN all right now if you've hung around
+this long you now know more about the internet than
+99.999% of people on this Earth and I need you to go into the world and do
+good with it so I'm going to KN you all hold on real
+quick you are all newly KN at developers of the web go on and do well with this
+information you now know how your request leave your client side devices
+and make it to the server you now know that your ISP and the DNS are in between
+listening for it you now know that a VPN can protect you if you trust your VPN
+more than you trust your ISP you know there might be other things like tour
+that can keep you a little more more safer you understand that your requests
+are going across these wires using a protocol called HTTP and at the end of
+the day the way the internet works is by sending requests from a client and
+
+03:03
+getting responses from a server over these 30 weeks I'm going to teach you
+how to write the code that runs on the client side devices the code that runs
+on the servers and everything else you need to get a job as a software engineer
+that focuses in full stack web development cool all
+right where we at we're a little over we're a little over give me uh give me
+five five more minutes five more minutes five more minutes we're gonna go just a
+little bit over little bit over Jazzy girl thank you for the 10 Subs give me
+give me five more minutes we're going to go a little over
+here all right who's heard of HTML 5 we talked about HTML being the content on
+the page right talk about HTML being in the content page who's heard of
+something called HTML 5 yep I see a lot of you have heard of
+
+03:04
+HTML 5 HTML 5 is the fifth version of HTML right it is the fifth version of
+HTML the idea is that when the web first started the web is like what we use to
+view these websites right the internet's the wires the the system but the web is
+something that sits on top of it and when the web first came out um there we
+had what we called the browser Wars all these companies said if we make the best
+browser we will own the internet and so you would write code that work for one
+that just literally didn't work for another and so so sir Tim burner Lee
+rode in on their White Horse and they said wait a minute hold on hold on hold on
+I I helped make all this stuff why don't we agree to some standards so that the
+web will work for all and people kind of ignored them for like 10 years but
+eventually they came to their senses and people started agreeing to these
+
+03:05
+standards and the worldwide Web Consortium or the w3c was created it's
+the standards body that says hey let's all come together all the big folks from
+all the big browsers all the big universities and people that are voted
+on boards to protect the web and push it Forward well we are
+on the fifth version right the fifth version of what HTML could
+be and with this fifth version we got some new
+stuff if you've ever watched a YouTube video in on the browser in your phone
+you were dealing with HTML 5 video back in my day I had to open I had to
+open right I had to open another program on my computer right to run
+
+03:06
+videos all right then we got things like flash and silver light which made
+running videos in the Brows a little bit easier but then the web progressed even
+further and now we have HTML 5 video that enables us to run videos in the
+browser if you ever listen to SoundCloud or Spotify in the browser that's HTML 5
+Audio if you've ever played those IO games like the agio sither.io like these
+games that happen in the browser they're using HTML 5 canvas for all the
+animations and stuff like that uh funny thing is that most of them are not
+multiplayer if you turn off your Wi-Fi you keep playing the game all the
+same I didn't know that that kind of broke my heart a little bit um a
+geolocation when you go to to a website it can ask for your location like do you
+want to let me know where you are or do I have to do Shady stuff like sniff your
+IP address to figure out where you're from and then the last thing that we got
+well not the last thing but one of the last big things we got with HTML 5 was
+
+03:07
+this idea of websockets it was uh old like open peer-to-peer connection so if
+you've ever spent a late night on chat roulette or a megal talking about
+politics you were benefiting from websockets so all this
+stuff right right all this stuff is new it came by pushing the web
+forward and we're on the fifth version of it
+co tonight this is the most important thing I am going to show you uh thank
+you for all the gifted Subs I appreciate you um tonight this is the most
+important thing that I am going to show you it's called the Golden Rule Ru or
+separation of concerns right the idea being here is
+that the idea being that we want to keep
+
+03:08
+our concerns separate our HTML should be kept separate from our CSS our CSS
+should be kept separate from our JavaScript and never should these things
+mix remember HTML was our content CSS was our style
+and JavaScript is our behavior and interaction so when you go to a
+website and I asked you if I asked you to add an extra paragraph right if I
+asked you to add an extra paragraph uh to your website what technology would
+you use if I asked you to add an extra paragraph what would you use nice
+HTML if I asked you to uh make something pink what technology would you use nice
+CSS and if I asked you when you click something I want it to wiggle what would
+
+03:09
+you use JavaScript remember not Java Java is
+a different language JavaScript nice now the idea here is that we don't want to
+put CSS into our HTML or HTML into our JavaScript we want to keep them separate
+why is this such an important rule the Golden Rule why is keeping our concerns
+separate such a big deal why do you think yeah makes it easier to read and for
+organization it's for Organization for yourself and it's Organization for the
+team that you work on right when I come back to my code and I want to make
+something purple I know to go to my CSS I don't have to look anywhere else I go
+straight to my CSS and when someone on my team wants to add more text they can
+go directly to the HTML right and when I come back to my
+
+03:10
+code six months later I have no idea what the heck's going on but I want to
+make something wiggle I know I can go straight to my JavaScript and I don't
+have to worry about anything ever being mixed so a lot of tutorials that you
+will do will sometimes mix all these things together don't you want to keep
+your concerns separate it's one of the first kind of serious things you're
+going to accept as a professional software engineer that there are these
+rules these paradigms that you agree to to set a standard for your
+code all right we're going to head off with just some HTML I know we're a
+little over tonight we're going to end off with a little bit of HTML if you do
+have to run don't worry the VOD will be immediately available after class I
+don't normally ever go over with class I just want to make sure we get to this
+little bit of piece tonight uh and then we'll stop so we're stopping very soon
+less than five minutes all right the first thing I said we were going to
+
+03:11
+cover is HTML we talked about HTML CSS and JavaScript being the languages of
+the front end the interesting thing is that HTML and CSS are not technically
+programming languages they're markup languages whereas JavaScript is a fully
+featured programming language we're going to start off with HTML then we'll
+move into CSS and then we'll move into JavaScript over the next couple of weeks
+HTML like any language has what we call its
+syntax right its syntax meaning the the rules and Rhymes that we have to use
+when we write that language HTML syntax is very simple every bit of content on
+the page must be wrapped in tags so here you see a little bit of text called Hol
+world right s text called Hollow world that must
+be incased in an opening tag and a closing tag right an opening tag and a
+
+03:12
+closing tag so here I have some text hello world and I'm going to have an
+opening tag and a closing tag now there are lots of different kinds of tags that
+we're going to learn on Thursday asan those tags has a
+reason why you would use it right there's a reason why you would use that
+tag as opposed to the other tag and the interesting thing is that there's really
+only like 30 tags that you really need to know so by the end of Thursday's
+class we'll have a pretty good handle and all the tags that you're going to
+want to use this makes you miss Myspace yeah we're going to talk about that on
+Thursday actually um a lot of developers
+got their start there right so this idea is that whenever you're writing HTML
+everything must be wrapped in tags uh there are like two tags that kind of
+cheat this images and inputs since they're already content they don't need
+closing tags they're already content themselves but let's not get ahead of
+
+03:13
+ourselves when you have content wrapping in tags so let me show you some code
+real quick and then we're going to stop for the
+evening all right so we're going to go ahead and look at this about page and
+then we'll stop with that about page so here's some
+code right now it is just text right but if I want this to be HTML if I want a
+server to be able to respond with this so that this file can run in my browser
+I need to wrap every bit of content inside of tags please don't code along
+tonight we'll start coding together on Thursday that's why I said after
+Thursday you will be true software Engineers you will have written your
+first line of code tonight just pay attention to what I'm doing so I can
+explain a concept for Thursday's class you're
+going to need some sort of text editor or something like code pen or glitch
+
+03:14
+where you can write code but don't worry we'll start off class with those things
+you don't have to download anything ahead of time this text editor is what I
+use called vs code and it's what I use to write pretty much all of my code here
+I have some plain text and every bit of text must be wrapped in what chat all my
+texts must be wrapped in what exactly must be wrapped in tags and
+remember I said there are different tags for different reasons or different
+purposes when we're choosing tags we care about one the importance of that
+element and two the semantic meaning behind that content and so what I will
+wind up doing is wrapping all of this text in actual tag so here's a tag that
+I'm going to wrap this in called an H1 you're going to notice that this H1
+
+03:15
+opens and then the H1 closes and the only difference right the only
+difference is that lovely little forward
+SL so you're going to notice that pretty much all your opening tags are going to
+look like your closing tags except for that forward slash all right now I chose
+to wrap this first class 100 devs in an H1 because I thought it was the most
+important content on the page there are going to be tags that we use that help
+us to know if something is important there going to be tags that help us to
+know what type of content it may be right and so the idea here is that we're
+eventually going to wrap all of our content in the appropriate tag right now
+first class 100 devs if you came to this
+website that's what I want you to know I don't want you to walk with anything
+else except for that so it was the most important if we look at this text
+
+03:16
+here we have a big block of text if you were to read a book or a magazine and
+you saw a big block of text what would you call that big block of text in a
+book or a magazine there there you go we
+call it a paragraph So in HTML we have a P tag this right here that open carrot
+and the p is the P tag that opens and we go to the end and we close our P tag
+right so we have this lovely open and we have the lovely close boom open and
+close now we also have here a a bunch of locations we might say
+we have a what of locations yeah a list of locations well
+
+03:17
+in HTML there are two kinds of lists there are ordered lists and unordered
+lists right to me yes these might be in alphabetical order but nobody's getting
+in trouble if these are not in the right order think of like a recipe or yeah
+think of like a recipe if you like try and make a recipe but things are not in
+the right order right if you try to make
+a recipe but things are not in the right
+order you're going to wind up in trouble
+like if you try to put like the cake mix before you put in the water and you put
+it into the oven before you stirred it you're going to have a bad batch of
+brownies right you're going have a bad Bratch of brownies so for me it doesn't
+matter if these are not in order so I'm going to use an unordered list I'm going
+to have my UL that opens and I'm going to take this closing tag and go all the
+way to the end and make sure that my entire list is wrapped in a
+
+03:18
+UL right now what do you typically have on a list like if I had a grocery list
+what goes on a grocery list items exactly
+items go on our grocery list and so here I have a bunch of items that go in this
+UL we're going to call these list items and so what I'm going to do is I'm going
+to go ahead and I am going to wrap each one of
+these in An Li and you're like Leon what is this developer magic that you are
+doing well don't worry you come back Thursday I will show you you how to do
+cool stuff like this and this is the reason why we use a text editor it's the
+reason why we don't just like open up a Google doc and start writing code there
+are tools and tricks and things that you can learn inside of your text editor
+
+03:19
+these shortcuts that make writing code way easier right way
+easier now down here we have another what another block of text so we
+probably have another what another paragraph exactly so we're going
+to reuse our P tag here P tag is going to open and we're going to come over
+here and our P Tag's going to close nice now the cool thing is we can
+save all of this and then what we can actually do is if we want we can come
+back to our browser and see it in the browser don't worry about how to do this
+we're going to go over all this stuff on Thursday but here is our lovely website
+that we just built right using some very basic HTML tags the thing that really
+catches my eye first is that this first class 100 devs
+
+03:20
+is big bold black and beautiful much like myself but what's interesting about
+that what should what should handle something being big and bold right what what
+should handle that being big and bold what should be what should that
+that should be CSS did I write any CSS I don't think so let me check I
+don't see any I don't see any CSS no I didn't so this is the browser Wars alive
+and well remember how I said the browsers kind of just did their own
+thing and they applied their own style and they did whatever the heck they
+wanted but we're still fighting that battle and so when we come back on
+Thursday I'm going to show you how to solve this problem to make sure that
+when we write HTML it's just HTML we'll eventually Le how to write CSS to handle
+
+03:21
+this right and we're going to progress into learning the basics of HTML so I
+hope you learned some stuff this evening I hope you had some fun kind of laying
+the groundwork for the course laying the groundwork for to
+come understanding how you really should approach the learning process active
+recall spaced repetition I hope you had fun learning how the internet works at a
+very basic level and I hope this little sniff of HTML get you excited for
+Thursday because we're going deep on it and if tonight the HTML didn't make any
+sense don't worry we're going to spend all Thursday just on HTML making sure it
+makes sense and make sure it clicks now now you don't want to
+run you want to hang around for a second because we are going to do a raid and
+
+03:22
+when you raid you get more Channel points so we're going to raid one of our
+best mentors in the community um someone that always shows up time and time uh
+again for our community and so we're going to raid them and whenever we do a
+raid uh the whole point is just to spend share some love and positivity to give
+them a follow and to see what they're up to in building we only ever really raid
+folks that are developers as well and so this developer is someone that really
+knows their stuff and turns up to help you all the time so give them some love
+give them a follow and I will see you all hanging out over there when you're
+done with the raid and you're done hanging out make sure you do your active
+recall start your space repetition and I will see you all on Thursday thank you
+for a wonderful first class everyone uh I'm starting the raid and we're going to
+go over there in 10 seconds so don't forget Thursday 6:30 p.m. eastern time
+
+03:23
+we go live we're diving into HTML I'll see you all over there with the raid
+peace

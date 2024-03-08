@@ -1,0 +1,2089 @@
+
+00:00
+hey good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well
+welcome back folks another thursday let's go
+let's get us some hey what's going on everybody welcome in welcome in welcome in
+good night tonight um tonight's a good night we we got a lot
+of some some spiciness with the rays a little bit a little bit more of these
+these fancy methods a little bit just a little bit of review a little bit of the
+fancy methods and then we're going deeper with our objects we're going to
+look at not only using literal notation but also using constructors adding more
+
+00:01
+more spice to our objects getting us ready
+for next week when we start using apis and using objects to build really cool
+stuff but tonight we're going to build some
+really cool stuff too we're going to see functions come together
+we're gonna see how we can have functions doing one task and then using
+them in correct ways and fun ways so lots of fun stuff some good review some
+good practice with arrays some good stuff with objects glad you all are here
+you know what i like to do we like to start off the beginning of course
+with our questions if you got some questions
+maybe i got some answers let's gamble we'll get some gambling in tonight don't
+worry we got some we got some uh some yolos to be had
+got some yolos to be had for sure uh we're gonna be doing a
+rock paper scissors game together and then we're going to play some rock paper
+scissors we're going to see we're going to see if people really
+
+00:02
+really put up these channel points or not that's what's a yolo yolo is when you
+put it all on the line you throw all the channel points into the wind and you
+hope for the dub either double or you don't
+we saw somebody win almost 40 or is it 50 000 channel points last last stream
+you only live once exactly alrighty the question of the day however
+question of the day would you rather be rescued by batman
+or spider-man but batman or spider-man in chat for me batman or spider-man
+please well i said i think i lost 80k one time oh no oh batman coming in hot
+actually it's pretty split a lot of spider-man's now good a few batman's
+this one's hard i feel like being rescued by spider-man
+be way more fun like you're swinging through the air like you're having a lot
+
+00:03
+of fun but i might be able to convince batman and give me some of the cheddar
+you know like i feel like batman being your friend
+could lead to more opportunity than spider-man being your friend i don't
+know what that makes me if i'm already trying to gold dig all my
+superhero rescues but i feel like i feel like more fun with spider-man but
+you know i might get a little something extra with batman you never know
+could you imagine you're like falling through the air actually can can we wait
+for batman to get here please spiderman hold on hold on is batman is
+batman coming let's look around real quick all right all right you got me
+all righty folks you know what we like to do you always like to give folks an
+extra second or two to get in here if you're new welcome we're running a 30
+week software engineering bootcamp where we go from zero to employed
+if you need the materials for tonight we're going to have lots of practice
+
+00:04
+fingers on keyboard you can always do exclamation point discord in chat
+use our discord to get the materials you have to agree to the rules and then
+there is a follow-along materials channel that you can use to get all the
+materials for what we're doing tonight alrighty folks you got some extra
+questions i got some i got some answers for you i let folks get in here
+don't forget to get your hydrations in today
+what's your favorite x-men nightcrawler easy alrighty get in here
+uh what's the purpose of notation that uses the three dots that's a spread
+operator it uh it enables you to kind of have the full array explode in that
+
+00:05
+position so instead of having to like put everything in there it can kind of
+spread open and be in there we'll see that later on so it's a good good
+question though yeah spread operator if you want to look up what that is
+all right i got a question i archived some projects on glitch to be neat are
+they still available for you to see in the homework submissions or i need to
+re-upload submit you don't have to re-upload or submit don't worry if you
+submitted them with some other other links we got them already you're
+good that spread operator got me in code wars yeah it comes up quite quite a bit
+it comes up quite a bit in code wars especially if you're looking at other
+people's solutions you're going to see that spread operator a lot in the code
+wars so that's the beauty right when you're when you're doing your code wars
+either you solve it or you look at the solution always look at how other people
+did it and you're going to pick up so many like tips and tricks and so for a
+
+00:06
+while when i whenever i'm learning a new language and i'm doing code words for
+the first time i uh i stay googling stuff there's so many
+little like quirks of each language that you only get when you're doing
+challenges every day and so that's why code wars is also so important you just
+pick up on all these little things that we'll never have time to cover live
+together but if you're doing your code wars every day you're learning something
+new about the language every day leon one of my friends showed me his
+technical interview and i understood most of the words in the technical
+interview he got the offer i thought it was cool to understand when i knew
+nothing three months ago hey matt that's awesome good to hear that
+alrighty folks let's get into it let's see what we got to get into today
+so we are talking about functions and loops and
+we're going to review some arrays we got some fun stuff to do with arrays and i
+
+00:07
+think for the first time we're going to really see functions that serve one
+unique purpose being used to build a larger app so we're gonna see some fun
+stuff with functions we're gonna see some good array methods just to get some
+more practice with it i know a lot of folks are doing the array methods in
+their code wars so we're gonna see some fun ones like reduce
+some of them that were in the reading that we hadn't a chance to get over yet
+then we're going to go deeper into objects and setting ourselves up really
+well to move into apis cool leon it seems like i can't really get
+the grasp on js i tried everything you've told us repetition repetition i
+always feel like i understand quite a bit but every time i face the problem
+either in code wars or the task for homework my mind goes blank what else
+should i do to help me understand more well i mean when your mind goes blank
+that's not necessarily a bad thing i think that happens to most folks when
+they start seeing these problems for the first few times
+
+00:08
+that idea of like you're looking at a problem can trigger a lot of stress it
+can trigger a lot of emotions of like fear and doubt and so that's why i say
+when you're first approaching code wars don't beat yourself up
+just look at the solution right until until you start doing these
+challenges more regularly right your brain might just switch off
+and so you got to get comfortable with the problems first you gotta get
+comfortable with like the way they phrase stuff or how they um or how they
+how they like like the terminology that's being used and so when you're
+first doing these problems probably for the first week or two you're probably
+just like looking at it going i understand some of these words and then
+just looking at the solution it's not worth it to like beat yourself up over
+not understanding how these like very weird questions are being framed
+the thing that you have to do though the thing that you can never ever do
+
+00:09
+is look at the question look at the solution and not commit it
+to memory it has to be in your brain you have to be able to
+look at that problem again and know exactly how you're gonna solve it and so
+when you see that problem you immediately if you don't know how to
+solve it look at the solution spend spending spend that amount of time you
+would have spent solving on analyzing typing retyping until you don't have to
+look at the solution anymore add that question to your anki and then every day
+be reviewing that question and the solution because i guarantee you there
+are going to be parts of that question that show up in other questions later on
+and if you're looking at a bunch of code wars and it's still not it's still not
+clicking right it's still not clicking it just means that you haven't seen
+enough of those patterns yet eventually you build up this this this muscle this
+repertoire of of problems that you've seen and when you look at a coding
+problem you'll go oh that's the pattern from this thing and
+
+00:10
+so that takes a while some folks that'll take a week that sometimes it'll take a
+month if you're doing code wars every single day though within two to three
+weeks that starts to be like easy especially if you stick to level eight
+fundamentals you're only doing eight cues and you're doing the same types of
+problems in a row don't be the person that does an array problem than a string
+problem than an object problem jumping around because you won't see the
+patterns that way you have to do all the array problems they have to do all the
+object problems you have to do all the string problems don't jump around
+because then you won't notice the patterns so almost always when my
+students are saying like leon i've done code wars for a week i'm still having
+trouble it's they haven't committed the past solutions to memory and they're
+probably still jumping if you're doing all that just give yourself a little bit
+more time it takes a little while yeah yeah you can actually search for the
+specific problems and then that way you're doing only arrays for a while or
+
+00:11
+only strings for a while yeah cool alrighty
+let's get into it folks we're going to do some quick review we're going to have
+a a good kind of practice problems to get our fingers on the keyboard and
+we're gonna keep going so if you haven't
+checked in yet please go ahead and check in exclamation point check in uh if you
+uh haven't followed along in the following materials or followed along on
+twitter go ahead and check in for me give that a like a
+retweet so more folks can find us alrighty
+submitting work i want to see your tasks work so at the end of the reading that
+i've asked you to do there were some tasks i want to see how far you got in
+this task what you're able to do so please go ahead and make sure you submit
+it your work for the tasks that you've done thank you and
+
+00:12
+it pays to open the newsletter folks so if you open the newsletter and you
+filled out the secret form uh we gotta we got a raffle that we have to do right
+now so i ain't getting got no more what i do
+is write a stream starts i i grabbed everybody's twitch names from the
+newsletter from from that form and i put it in a random name picker i ain't
+getting got no more no more free raffles here you know what i'm saying so
+if you open the newsletter and you click the secret raffle and you
+filled in your info we're about to do that raffle now
+it pays to open the newsletter folks it really pays next week next thursday
+and newsletters will be popping that's all i got to say
+how do you sign up for the newsletter you can do exclamation point newsletter
+exclamation point newsletter and that'll get you signed up cool
+so the newsletter goes up before class 30 minutes before every single class
+kind of just talks about what the class is going to be and i always put little
+
+00:13
+secrets in there i always put like it's a little bit of extra tidbit
+sometimes i do raffles sometimes i just do words of encouragement so
+newsletter don't miss it all right for the folks that threw in their
+names we had about over 500 people that clicked the link before class started
+and so i'm going to randomly pick your name now ready here we go all right
+toto by africa 1313 uh go ahead and send
+me a whisper and we're going to get some merch coming your way next week so next
+week we we we launched the merch and toto you are getting uh a t-shirt coming
+your way so congratulations folks it pays to open the newsletter alrighty
+health first we talked about this last class uh make sure you're doing the
+things that you need to do we're hitting our stride now right we're hitting our
+stride now meaning that we're doing a lot more where fingers are gonna be on the
+
+00:14
+keyboard a lot more gonna be building a lot more you're doing code wars every
+day like your fingers are going to start to hurt please make sure you're taking
+care of yourself make sure you're getting your stretchers
+in when we take our breaks make sure you're actually taking your breaks make
+sure you're hydrating good sleep right if you need to take a day take a day if
+you need to miss the class mr class it's okay we'll be here we got the catch-up
+crew your health comes first and i feel like i always have to say
+this i have to say this to every cohort i teach because
+every single culture i teach i have folks that go to the emergency room
+because they don't take this serious right we don't they don't take this part
+serious your body is going through a lot of physical challenges as much as the
+mental challenges of learning to code right so make sure you're taking care of
+yourself because here's where it starts to
+this is where the the the rubber starts to hit the road folks it's where you're
+starting to develop that wear and tear and so please
+before before the pain sets in take care of yourself
+
+00:15
+coding challenges you should be doing a code wars a day a code wars a day you
+haven't been doing your code wars a day it's okay now's the time to catch up
+right now is the time to catch up make sure you're doing one a day level eight
+cues fundamentals next week next thursday we learn about
+git and github after next thursday you're going to be pushing your code
+every day to github every single day you're going to do a coding challenge
+and then you're going to push it to github and the reason why we do and why
+this is so important is one you get that daily practice every single day you get
+to do something practical every single day you get to solve a challenge by the
+time you're ready to interview you're a lean mean interviewing machine but
+also once you start pushing every day any recruiter hiring partner someone
+that looks at your github they're going to see oh this person's really about
+this life they're pushing the github every single day so please get your code
+wars in level eights fundamentals only stick with eights make sure you're doing
+
+00:16
+the same types of problems over and over again and
+next week after we have our class on thursday you're gonna start pushing your
+challenges every day when you're going up against another
+person for a job and they're trying to compare two candidates the thing they're
+trying to figure out is do i want to work with this person for the next two
+years and can they really code and so they're going to look at your github and
+if they see all these commits all of these things that you're putting on
+there that you're doing every single day that's going to help tip the odds in
+your favor we're gonna start turning things up
+folks that's why the health comes first we're gonna start seeing the the
+intensity turn up just a little bit in terms of us getting our fingers on the
+keyboard more doing more practice problems going deeper with our lecture
+we're going to slow down a lot of the repetition at the beginning do a little
+bit more uh meet at the end of each each class and uh
+
+00:17
+there are some folks that want to push right so when you're doing a boot camp
+of this size there are some folks that are going to be a little behind they're
+going to be some folks that are right there with you and there'll be some
+folks that want to push uh so for the folks that want to push
+you're going to start to see me recommend some extra stuff to do
+not every class but maybe every other class right so if you're in the position
+where you're feeling you know what i want to push a little bit faster i want
+to do a little bit more i'm going to start giving you that work in case you
+want it cool now when you see that push work
+it's not something you have to do it's for folks that have the privilege of
+time right and they have the the the the
+means to do it right so don't worry that if you're not doing the push work it's
+just for folks that really do want to push so we're going to have a
+stratification of folks across the across the pond here and we want to make
+sure that folks want to push they can push it so you'll notice in the follow
+along today there was a little section a little bit extra work is something you
+
+00:18
+want to push yourself to do i can hear this gif so could i
+all right we mentioned it on tuesday but next week is the best week
+ever we got something every single day of the week next week we we got we got
+we have our our office hours on sunday but then we're gonna have something
+monday tuesday wednesday thursday and friday so stay tuned we're gonna be
+announcing some fun stuff that we're going to be doing all throughout the
+week it will be the best week ever and uh culminating so part of our best week
+ever is our sponsored stream on the 31st so
+next thursday we have our get and github
+class a fundamental class we got to know
+how to use git we got to know how to get all of our our work up on github and so
+microsoft is coming through to sponsor that class we got tons of swag to give
+out we got laptops to give out make sure you're here on thursday it's
+
+00:19
+gonna be a lot of fun now part of your homework was an
+introduction to github by microsoft so microsoft actually has a really cool
+uh introduction to github that's part of your homework when you go and click on
+that link you're gonna see like an email submit
+uh if you fill out that email submission
+you get entered into an extra raffle for a laptop so if you want to get entered
+into that raffle for an extra laptop go ahead and give the email you don't
+have to but if you want to be entered into that raffle uh submit your email
+and you'll be entered into that raffle and then you're going to see two things
+in that link the intro to github is your homework i need you to go through that
+class before next thursday if you don't go through that class before next
+thursday you're going to be behind and i don't want that to happen so please
+click that link if you want to be entered in the extra
+raffle fill in your email if you don't just do the intro to github and that way
+we're prepared for thursday it'll be a really fun class but it's also a really
+
+00:20
+important class all right yeah you can just put 100 devs for the
+company or whatever yeah alrighty folks let's get into our
+review and then we have a pretty cool well i think it's a pretty cool coding
+challenge uh to do together already programming program program is just a set of
+instructions we write to tell a computer what to do
+and therefore the act of programming is simply writing those instructions in a
+language that the computer can understand
+the language that we use that helps the computer understand what the heck we're
+talking about is javascript pdot hey thank you for the hydration cheers to you
+we learned about the big four one of which was variables our bucket that we
+can store data in we can set up the space in memory with our declaration we
+
+00:21
+can assign that space of memory of value and we can do both at the same time so
+here you can see that let age equal 25 we're doing the declaration and the
+assignment at the same time beautiful sorry my uh
+my ipad wasn't connected one second beautiful alrighty
+we learned about our conditional syntax where we can check to see if a condition
+is true if it is true we do what's inside the curly braces if not we can
+move on to the else if to see if that's true if that's not true we automatically
+run the else the else does not need a condition and get as many l-stiffs as
+you want this is quick review for us if you if you haven't been here before
+we spent whole classes on this stuff so we're gonna go a little bit fast as we
+just kind of get in our space repetition alright you can also have multiple
+
+00:22
+conditions where you're looking for both things to be true where if your name
+equals leon and your status equals ballin get a wink that's for you
+we can also see if the day is saturday or the day is sunday so we can do or
+we're just checking to see if just one of these conditions is true as long as
+one is true then you can do what is inside the curly braces alrighty
+functions we learned about functions our functions are simple sets of
+instructions and we're going to see these in action today we're going to see
+how these functions can be reusable and how they can perform an action for us
+that we can reuse over and over again we know that our function comes down to
+two pieces we have our function declaration and our function call when
+we call our function we pass in our arguments we call mom to argue our
+
+00:23
+arguments fall into our parameters where we see our parameters it's whatever we
+passed into the function so here is an actual function called
+yell we passed in hello as an argument it falls into our parameter word
+wherever we see word it's actually going to alert hello
+we're going to see these functions in actions in just a few seconds here folks
+and we're going to see some interesting things about the alert later on today
+all right we talked about loops as part of the big four our variables our
+functions our conditionals and the loops were the last of the big four then we
+added on our arrays we added on our objects but our loops are just a way of
+doing something multiple times we enable us to iterate through an
+action over and over again we've seen four we've seen wild we've seen four
+each we're even seeing some other array methods that still do looping like map
+
+00:24
+and filter and some other ones that still loop through all of our content
+already the original for loop we saw we set up our counter we say when the loop
+ends and how much we go up by each iteration and here we would just be
+console logging that counter each time the loop ran we saw
+some other loops like we said while and for each and now let's get into some
+review so if you go ahead and open up the materials from today
+we're going to continue with our power ranger themed review and we have a turbo
+review so there's a lot here folks in this turbo review we got some variables
+questions some function questions some conditional questions some looping
+questions and i want you to jump into this i really want you to to to shift
+into turbo exactly and uh see if you can get through these and we're gonna go
+over them together but i'm gonna i'm gonna put a healthy
+10 minutes on the board here healthy 10 minutes on the board here
+
+00:25
+go ahead open up your your code and have at it
+and play some music for you remember you can always turn off the
+sound while you're working if you need some peace and quiet
+otherwise i will see you in 10. you got this dig deep
+this is the turbo review turbo review apple juice bang equals is just not
+equal in value bang equal equals is not value and and
+
+00:26
+value and type just like double versus triple equals
+uh seven minutes you can use that whatever doesn't matter either one is fine yep
+while if we get to react after we learn full stack
+can you talk about how variable can take an argument if the variable is declared
+
+00:27
+to a function so variables in javascript can hold anything including functions
+can you put a 4-h inside of a map i guess technically you could
+you're going to run into some efficiency issues
+i'm on class 13 am i that far behind no i mean we also have the ketchup crew so
+feel free to kind of catch up at your own pace and then join us live
+is it bad practice to put loops inside of other loops uh it depends on the
+
+00:28
+problem and what you're trying to do eventually we'll we'll cover our data
+structures and algorithms and we'll we'll be able to figure out the
+efficiency of the code that we're writing it's not something you should
+worry about right now stinker you can yep irony should
+tech all the homework is in the following materials channel
+you can just search in that channel for the class that you're trying to work on
+
+00:29
+and all the materials are there hey turn up fred yep you can also do exclamation
+point semicolon if you want to learn more about it in chat
+i'm behind for classes should i watch this first or watch your live class
+right now i would catch up with the other classes and join us live
+for office hours though gar for github you're going to make also
+be committing your homework we're also doing lots of projects as we kind of
+continue we wind up doing more projects as time goes on
+
+00:30
+like even like less class more projects 1 pm eastern time on sunday or office
+hours alright folks we're halfway through dig deep you got this
+lozie it's in the follow along materials channel
+chara no join our discord exclamation point discord and join the catch-up crew
+
+00:31
+george you can sorry if it's hard we're going to go over it together
+
+00:32
+oh dab that sounds fun cold probably og green right
+mine that's awesome hey well hopefully hopefully folks were there and this is
+review for them you tell them that hey you're not you're
+not currently looking for opportunities but you will in a couple months and we
+would love to reach back out then gotta know because i don't know how to i
+wouldn't i don't want to have to figure out how to vent them
+yeah i mean this this rock paper scissors comes up in cold war wars quite
+
+00:33
+frequently or very similar aspects of it across a lot of problems
+this be doable there's pieces that you should be able to get for this maybe not
+everything but it's involved maybe you have to do some googling
+it's all right though you feel behind we're going to go over it together
+please make them a shopify site then ozzie on our discord you have to agree
+to the rules and then once you do there's a follow long materials channel
+
+00:34
+okay yeah we're gonna do a class on online presence stuff like that later on
+we gotta learn how to use github before we can talk about optimizing our github
+so are we allowed to google help for this
+assignment always you're always allowed to google
+even on the job you're supposed to google so i wouldn't make you not google
+if that's what you're supposed to do on the job right
+the code wars rps coming in clutch yeah it shows up quite a few times
+
+00:35
+can i google an interview some interviews yeah depends on the interviewer
+all right folks come on back let's look at this together if we can get this one
+underneath our belts here come on in come on in
+all right how far you got let's try and do it together
+all right let's chill the music alrighty so close that's all right sorry
+let's go over it together declare a variable and assign it your
+favorite drink as a string make sure there's no white space on
+either side of the string and print the value to the console
+what did you all come up with to make sure there's no white space on
+either side of the string what'd you come up with ooh trim yes so
+trim is a method that if you haven't come across any of your code wars yet or
+the reading yet you probably would have googled it and came across a trim all
+
+00:36
+right so we'll use trims let's go and declare a variable um let fave drink equal
+this one's always so hard baja blast right but um
+can't leave it about i'm gonna have to do uh diet diet let's do capitalize diet
+vanilla coke from friendlies there you go if you know you know
+but the like the like the legit syrup you know like the legit the legit
+vanilla syrup they have it friendlies you know you know it's all right
+all right so i intentionally put some space on the beginning
+and the end of this string and so what i want to be able to do is i want
+to be able to when i print it to the console
+not have those spaces so i'm going to reassign favorite drink
+
+00:37
+i'm going to set it equal to favorite drink but i'm going to do trim beautiful
+and so just looking at trim what do we know trim is
+just by looking at trim what do we know this is
+what is it yeah it's a method all right we're gonna keep that in our mind it's
+gonna be it's gonna be a method later on
+let's keep that in our brain for now and then it says print it to the console so
+let's go ahead and do our console.log let's go and put in fave drink let's
+save it up let's make sure we open this one in the in the browser
+alrighty we got our power rangers turbo there we go cool i gotta get you got to
+get the hand exercises in there all right let's look at our inspector
+let's look at our console here and we should see diet coke from
+friendlies and we can see that there's no space it starts right at the
+beginning so the trim worked it got rid of the space for straight all right
+
+00:38
+look at this next one here declare a variable assign it to a string
+of multiple words check to see if one of the words is apple
+all right there's lots of ways that we can like check for words in a string
+what are some what are some things that you came up with to see if a word is in
+a string oh i see some folks that did what i did
+includes would definitely be one uh search is one that i think is a
+little less less known or i mean it's definitely out there but i think that
+people haven't seen it as much yeah includes could work search could work
+there's some ways you could split it there's some other like fancier things
+to do i'm just going to use the search method
+so let's go ahead and try that let's go ahead and assign it a string
+it has to be a string of multiples i'm going to say an array of multiple words
+
+00:39
+it's a string of multiple words so let's go ahead and say let stra equal
+and we're gonna put in some words in here bob duck
+apple let's keep it lower case because that's what it's looking for apple and
+dog there we go bob duck apple dog beautiful
+all right so it's a string of multiple words all right so the string was the
+key there bob duck apple dog and we want to see if apple's in there
+so there's something we can do i'm going to console log it just so we can see it
+we can console.log stra which is just short for string search
+and we can look we can put the thing that we're searching for
+inside of that search so i'm just going to put the word apple in here so let's
+save this and let's see what we get all right we got the number nine
+
+00:40
+we got the number nine so that means that the search worked it found it did
+find the word apple what do you think the nine means
+where did it where did they get the nine from yeah
+let's count let's count it let's count let's go back let's take a look all right
+0 0 1 2 3 4 5 6 seven eight nine so a is in the ninth position in that
+string so it's kind of like the index of the string right start it counting with
+zero with the b and so a was at the the ninth
+index in the string uh so that's cool so if you do the search and it finds a
+match it returns the character and there you go like the
+character index of where that word started now the cool thing is if you
+let's see if we put in let's let's let's misspell let's let's put in something
+
+00:41
+that's not in there let's put um uh let's put in phone
+right and let's go and save this let's go ahead and refresh
+all right we see what happens when it's not in there we get a what we get a
+negative one right we get negative one so negative
+one is like saying hey we looked in that string and we didn't find it so now we
+know if it's in there we're going to get a number
+if it's not in there we're going to get negative one right
+there are always different ways to solve this my part of my job is to show you a
+bunch of different stuff right so there are other ways to do this absolutely but
+if everyone knows the easy way and i'm going to show you some other ways too
+that's kind of the point right we got we got to have some fun we got to see all
+the different ways to do it you're going to see other ways in your code words to
+go about this stuff but i'm going to try
+and show one that maybe you haven't seen cool
+all right so we got we got the search of the string we were able to find that
+
+00:42
+there wasn't a phone we got negative one so how could we check to see if
+if apple was in the string or not like how could how could
+we how what could we do what could we do to just to figure out
+like to say like yes or no like what if we wanted to like console.log yes or no
+yeah we could just do a conditional right we could just do a conditional so
+let's go ahead and change this from a console lock to like an if
+and if it's if it's in there let's say as long as it doesn't equal what
+as long as it doesn't equal what yeah we can see as long as it doesn't
+
+00:43
+equal negative one we can go ahead and console.log yes else we could console.log
+no right have it covered regex no and i probably won't
+when you're doing your code wars and your code challenges really push
+yourself not to use regex regex is a quick way to solve a lot of this stuff
+don't use it when you're doing code wars yeah
+definitely something you can pick up when you're going into interview season
+but when you are like actually trying to solve problems you're way better off
+learning the different methods and the other ways of solving stuff then you are
+like really investing in learning regex when it comes time for interview season
+sure pick up the basics but when you're going through code wars don't use it
+cool all right so we had y'all can look it up everybody's like
+what is regex it's regular expressions it's ways of kind of like using some
+
+00:44
+shorthand notation to do stuff uh specifically with strings and string
+manipulation uh so it's really easy to like check to see if stuff's in a string
+add stuff remove stuff and so when you do your code wars it comes up a
+lot um and a lot some of my students kind of over
+invest in it and it never pays off dividends
+you'll be in an interview and you'll solve a rejection you'll be like great
+can you can you actually code it though so
+add it to your repertoire at the end not something you should worry about though
+all right we're not searching for phone though we're searching for apple cool
+so let's see if this works let's save this boom we got a yes
+we know that we know that apple was in this string and this conditional works so
+search for the string apple as long as it doesn't equal negative 1.
+
+00:45
+why why do i say negative 1 as long as it doesn't equal negative 1.
+why am i saying not equal to negative one yeah if this
+if this search did not find apple it would return negative one
+so as long as it doesn't equal negative 1 i know that it did indeed find apple
+right i know that it did it did indeed find apple so as long as it's not
+negative 1 i know that if it returned any other number that it did find apple
+so i can go ahead and say yes if it was negative one i can go ahead and
+console.log no beautiful all right create a function that returns rock
+paper or scissors randomly what can we use here what could we use here
+
+00:46
+to figure out if something is random how well sorry how can we get a random
+number yeah math.random we've seen this before so i'm going to use math.random
+here to help me figure out how to return
+rock paper or scissors randomly so let's create a function
+i'm going to call this rock paper scissors beautiful and
+the very first thing i want this function to do
+is to give me that random number so i'm going to say let random equal
+i'm going to do math dot random now what math.random does
+is it returns a number between zero and one
+so it's going to give me like a decimal between zero and one for some folks that
+kind of hurts our brains a little bit so instead of saying is between zero and
+one imagine it was going to return a number between zero and 100
+
+00:47
+right it's just going to randomly give me a number between 0
+and 100 right it's really between 0 and 1 but let's just use this as a better
+example so if it's going to return a number between 0 and 100
+and i want something to occur a third of the time because i want it to
+either be rock paper or scissors if i want something to occur
+a third of the time i can check to see if that number that was returned is less
+than what yeah make sure that it's less than 33 if
+it was less than 33 i should go ahead and return rock
+if it was less than 66 i'll return paper and if it wasn't less than 33
+and it wasn't less than 66 then the only thing it could have been is a number
+between 67 and that 99 which means i should return scissors
+right so that's the only thing i'm doing i'm just using this math.random to give
+
+00:48
+me a random number and once i have that random number i'm
+going to have a conditional right i'm going to have a conditional
+that says all right was it less than this do this was it less than this do
+this and it was if it wasn't less than those two things then the only other
+possibility would be for it to be the other one so let's go ahead and do
+that i'm going to do a conditional and i'm just going to say if
+and we're going to say if random is less than what we know that
+math.random returns between zero and one it really does do zero and one so uh
+what do we what are we looking for here yeah less than point three three cool
+if it's less than point three three let's go ahead and return rock elsif
+what are we going to check for if random is less than what
+what are we going to check for this time if it wasn't less than 0.33 what's the
+
+00:49
+next thing we check 0.66 nice and if it's if it's less than 0.66 we'll
+go ahead and return paper cool and we'll do an else and so if it was
+not less than rock a third of the time and not less than paper the other third
+of the time what's the only other thing that it should be scissors exactly
+now remember it doesn't return one like one's not a possibility it's between
+zero and one yeah cool alrighty so now we should randomly return rock
+
+00:50
+paper or scissors so let's go ahead and just uh call this one
+so let's go ahead and save it let's go to our console here
+let's go ahead and do rock paper scissors we'll run it we get rock let's
+run it again paper let's learn it again scissors that was perfect couldn't have
+asked for a better one there cool so you can see as we keep calling
+this function it keeps giving us a random value between rock paper and scissors
+nice all right let's go ahead and look at the next piece here
+and what i like about this this is a singular function that does one
+job right it does just returning of rock paper scissors so it's a function that
+uses some stuff that we've seen before to do one thing return rock paper
+scissors let's look at this next thing create a function
+that takes in a choice so meaning like we can play the game like we we will
+
+00:51
+give a choice of rock paper scissors and determine
+if you've won the game of rock paper scissors against a bot
+using the above function so what i'm going to do is i'm going to be able to
+create a function that takes in my choice and then see how my choice compares
+to the botch choice and to see if i win to see if i lose or see if i tie cool
+so let's go ahead and create a function here and my function is just going to be
+i'm just going to i'm just checking to see
+i guess i'm checking to see who won so i'll i'll see i'll see um
+i'll create a function here i'm gonna call it check
+check win i was gonna check to see who wins
+all right and i'm gonna take in a choice i'm going to call my parameter choice
+
+00:52
+nice and let's go ahead and what we're going to do is
+we have our choice that's coming in but we also need
+the bot's choice so like what the bot chose how can i get what the bot chose
+what could i do to get what the bot chose yes i could simply just call the
+function that we wrote above so let's do that let's say let bot choice
+equal uh rock paper scissors and i'm just going to call it
+right because what's going to happen is when i run this when i when i make this
+function call this function call is going to run this function
+right and whatever comes out of it it's either going to be returning rock to
+this position or it's going to be returning paper to
+this position or it's going to be returning scissors to this position and
+
+00:53
+so bot choice won't actually be this function call be whatever gets returned
+from the function call so once bot choice runs it's as though i
+had plopped in if i if it's what it came out to be rock there and now wherever i
+use bot choice it's going to be rock cool so now that we have
+the choice that i'm passing in as the player i'm actually going to call this
+player choice just to make it a little bit clearer player choice
+cool player choice and bot choice and now to see who win i got to do some
+conditional logic uh what i need to do now is just check
+all the possible combinations right all the possible combinations of
+how i could have won so let's go ahead and say player choice
+
+00:54
+uh pl if player choice equals rock and bot choice equals
+what what what what how could i win if i chose rock
+what's the what was bot choice have to be for me to have won
+yeah it would have had to be had to be scissors right
+so let's go ahead and put in scissors so if player choices rock and bot choice
+is scissors then i know that i won and just to keep this kind of like together
+i'm going to wrap these in parentheses here cool so now i have like this one
+this one condition for how i could have won
+if i want to do a if i want to check for a different condition what bit of logic
+do i need so i have one condition where i would have won
+
+00:55
+what type of logic do i need to check for a different condition yeah i need or
+so i'm gonna say or so if it wasn't that winning condition
+check this winning condition so let's say player choice was paper
+all right let's say player choice was paper and bot choice
+was what what would bot choice have had to have been for me to have
+won if i chose paper yeah would have would have to be rock cool
+let's do another or here what if i chose what if player choice equals scissors
+
+00:56
+right and bot choice equals what what would a bot choice have
+had to have been if i chose scissors for me to have win paper beautiful
+all right so are there any other conditions for me to win
+i have a rock condition i have a paper condition i have a scissors condition
+no there's no other wind conditions um let's go ahead and do the tie condition
+so what would constitute a tie player choice equals what
+
+00:57
+would have to be to be a tie yeah it had to equal the bot choice cool so
+if i win i should do something in here so let's just console.log you win
+uh if player choice equals bot choice i should say you tied and if i didn't win
+and if i didn't tie what's the only other thing it could be you lose exactly
+
+00:58
+cool so i now have the ability to call my previous function
+which will give me rock paper scissors then i am able to compare my choice
+to the botch choice to see if i won compare it to see if i tied and if i
+didn't tie or win the only thing i could do is lose so let's go ahead and
+[Music] let's go ahead and run this i am going to go ahead and play player
+choice and i'm going to pass in rock let's see if this works or not
+uncaught reference error player choice is not defined and look it says line 42
+line 42 player choice is not defined let's go take a look at it 42
+
+00:59
+player choice is not defined what did i do what's wrong with this
+it's not the function name the function name is check win
+the function name is check win i was too busy looking at the parameter
+and i used a parameter so it's the function name is checkpoints
+let's call it check win beautiful let's save that let's go ahead and run it
+you lose [Music] let's go ahead and run it again i'm going to refresh the page
+you lose you you tied man i'm losing hard
+
+01:00
+you tied you lose you tied you lose you lose you tied you tied you win damn
+[Music] we can't win yo my code's hating my code's a hater [Laughter]
+i mean i can't win it oh damn that's hilarious that's how
+that's how that's how life goes some days that's how life just goes some days
+all right let's take a look at our code here um
+we got our rock paper scissors make sure
+it actually is random less than 0.3 less than 0.6 that looks good to me
+our our win logic looks good all right let's do a yolo let's do a yolo
+uh i'm gonna go ahead and create a prediction here start prediction win or lose
+
+01:01
+win lose i'm gonna start a prediction here go ahead
+call win or lose if there's a tie we just run it again
+so there's a tie we win we run it again so win or lose if there's a tie we run
+it again i think this one was just 30 seconds i didn't click the minute
+got like 10 seconds left to get in all right let's see what we got
+all right let's refresh the page three two one you tied all right
+all right let's let's run it again let's refresh the page
+
+01:02
+we tied the guy run it again keep you in suspense you lose
+i feel like more people would lose just because of the way that it was that it
+was rigged up now see this is the fun part was was it
+rigged i don't know you got to check the code it's you got to check the code if
+you're better at code you win more channel points
+all right so let's go ahead and uh do the prediction here prediction outcome
+choose outcome it was lose complete the prediction
+complete prediction there you go hope you enjoy your your channel points
+who uh who yolowed the most let's see just give me the see details
+oh pasta i think put up put up put a big chunk i think 49k went one way
+
+01:03
+different hey thank you for the sub that's wild
+juggling send me a whisper for somebody in science and um software sorry
+software and game dev uh who you want to do the raid for
+you're the 17 most in different that's wild
+all right yeah juggling biohazards uh did the guide the raids you get to pick
+samia whisper as we get closer to the end of stream
+all right let's um let's finish this up and then we can take our break uh
+actually it's working so we're we're working here let's take our
+break and then we'll do the loop let's take our break and then we'll do
+the uh the loop cool so five minutes in the clock if
+you're new around here we like to be healthy we like to take our breaks
+and so we're gonna put five minutes on the clock if you're able get up move
+
+01:04
+around hydrate and then we'll be back we'll be back in in five
+different hey thank you for the 10 gifts itself that's wild thank you so much
+thank you for being here hope you're doing well
+all right five minutes on the clock different thank you
+put some music on i'm gonna run some ads see you all in five
+
+01:05
+
+01:09
+good to hear and different [Music] you yeah so it doesn't matter if you're in
+germany send me uh samia whisper you're good i'll ship it to you
+ship anywhere in the world all right folks come on back come on back what
+different well i'm away too get out of here [Music]
+a different a thank you for the 20 gift itself that is wild
+um eternal make sure you send me a whisper send me a mod mail about the
+resume review and mj builds a thank you for the hydration cheers to you
+
+01:10
+and carsey sorry i saw i missed the two minute timer carzie the next timer we do
+we'll add two minutes to it all right i missed that all right folks come on back
+different hey thank you for the gifts of cells i appreciate that
+yeah we got to do the the pokemon card too we have time at the end of this
+class we'll do it if not we'll do it during the best week ever oh
+can we get another cheap hydrate day yeah we can do one soon
+all right folks let's go back and finish this last bit this last bit is the
+kind of how can we do this multiple times with the loop so
+it's going to read the instructions here
+create a function that takes an array of choices
+play that game x times where x is the number of choices in the array
+
+01:11
+print the results of each game to the console i think this is this is pretty
+this is pretty easy uh for this one i think we just have to
+use the loops that we've seen so far and just run the call that function
+multiple times so let's go ahead and do this let's create a function
+and call this play game x times beautiful
+and then we're going to pass in a number or just we're going to say num just for
+numbers so a number of times and let's go ahead and we can just do
+or sorry no we need to pass in an array an array of choices
+pass in takes in an array of choices so this is our parameter is going to be an
+array so what i'm going to do here is i'm going to go ahead and do array
+then we can just do four each i actually don't like how it set that
+
+01:12
+all up i'm gonna type it out for each cool and then in for each
+i am just going to call the the check win so i know there's a choice coming in
+and i'm going to call check win with that choice
+i think that's all we have to do here let me set it up let me try it out and
+then i'll walk through how how i think it's going to work
+play games x times let me pass in an array i'm going to pass in rock then i'm
+going to pass in paper and then i'm going to pass in scissors cool
+so let's go ahead and save this i'm going to comment out this one so
+it's really we should see three we should see three win loss or ties
+inside of the inside of the console so let's go see if this works let's refresh
+
+01:13
+and we gotta lose tide lose damn [Laughter]
+can't get no love from the code that i wrote yo i'll code hating today damn
+all right let's run it let's run it let's run it one more time let's let's see
+come on you can't be that bad come on all right you win you lose you win
+that's what i'm talking about that's what i'm talking about some wins some
+losers some wins you know you got to get the wins in there
+all right let's take a look at what the heck is going on in here so i am
+calling my play games x time function here is the function the function
+takes in an array and so this array is being plopped into the parameter of r
+
+01:14
+it's being prepped it's being plopped into the parameter of r right
+and so wherever i see r it's our array that we just passed in
+right so you can kind of think of it as though this right here
+i can just yink it this right here is now sitting
+right here right we passed it wherever we see r it's the array that we just
+passed in right so the rock the paper and scissors
+is sitting there now the cool thing is the four each is going to run how many
+times how many times is this for each goblin going to run
+yo funny what's up how you doing yeah that 4-h calm is going to run three
+times because there's three elements in the array and each time it runs choice
+is going to be that element from the array so the very first time this runs
+
+01:15
+choice is what chat what is choice the very first time this runs
+yeah it's gonna be rock rock is gonna be a choice the very first
+time this runs so what we're gonna do is we're gonna pass in rock
+into the check win function and if we look where the check win
+function is it's as though we passed in rock here
+and so wherever i see player choice it's going to be rock
+so here's player choice of rock and the other cool thing is when we ran the
+check win function we also asked this rock paper scissors function to run so
+that ran as well we got to come up here we got it we got to come up here to see
+see what won from the rock paper scissors function so the really cool
+thing about this is not only we're using the rock paper scissors function we're
+
+01:16
+also using the player choice function we're also using our loop
+spider lady thank you for the bits all right so let's take let's let's run this
+back again let's look at it all right so we we we're running the for each once
+for each item in our array the very first time choice is going to be rock
+we're going to pass rock into the check win functions let's go up
+and take a look at the check win function we know that player choice is going to
+be rock and so anywhere i see player choice it's now rock rock right
+and so before this check win function can see if i won or lost it also has to
+figure out what the bot threw so we come up here
+to see what the bot through and it's going to either return rock
+paper or scissors so in the check win we wind up comparing rock
+
+01:17
+to whatever came from the rock paper scissors function
+and then we do our either you win you lose sorry you win you tied or you lose
+and that's it and then we run this three
+times so we should see three results the first time we pass in rock the second
+time we passed in paper and the third time we passed in scissors and so this
+check when function's going to run three times
+which means how many times does this rock paper scissors function run three
+someone said leon what's a real world scenario where you use this many functions
+this is how a lot of your programs are going to come together this this this is
+this is programming folks this is it right here
+this this is this is this is the bread and butter this is what we do all day
+
+01:18
+long because if we look at what's happening here
+it's the core of what we said functions do functions are really good at doing
+one thing and then we can reuse them as many times
+as we want so if we go back and look at this code i think this code's really
+important and i know the first time you see this it can be
+mind-blowing it just it just seems like a lot especially if like the array
+stuff's still not clicking you got to come back to this you got to understand
+all this code tonight if there's one thing you come back and review please
+make sure it's this turbo review because it it just really is that
+important because if we look we have one function that is determining
+uh a a bot choice rock paper or scissors right
+then we have a whole other function that's checking to see if we won
+and then we have a whole other function that's like running the game
+this is how our programs are going to be broken up into like individual reusable
+
+01:19
+pieces because let's say i wanted to play a different game
+what if i wanted to play rock paper scissors lizard spock
+right i wanted to play a different game i want to play rock paper lizard spock
+do i have to change the playing of the game function
+no i don't have to change the playing of the game function
+i might have to change check win a little bit and i might have
+to change rock paper scissors a little bit right but i don't actually have to
+change the the the playing of the game and so
+very quickly we can start to see how this could be reusable
+to even play other games what if i wanted to play um coin flip
+what if i want to play a coin flip game well instead of it being a best out of
+
+01:20
+three it'd be a 50 50 a heads or a tails so i
+could change this to 50 50 instead of 30 30 30 or 33 33 33 right and then my
+check win could just be a slightly different change and the playing of the
+game could stay the same so eventually we wind up breaking a lot of these
+larger projects into smaller repeatable instructions
+that are our functions and that's programming folks the programming is
+sitting down and thinking through all right how can i break this really large
+task into digestible steps and how can i write these digestible steps in a way
+where they can be reused and so that's the beauty of
+like programming and so this is i really
+like this example because the first time you see all these different functions
+coming together cool all righty let's keep pushing let's keep pushing
+
+01:21
+i hit the gotta hit the pose writing this code 100 times tomorrow hell yeah
+cyber hell yeah that's what i want to see rip my weekend alrighty erase
+chat what are arrays please what are arrays they're toasters nice
+my biggest enemy it feels like that sometimes sometimes
+there's some code that i'm just like me and you are not friends
+there are just some concepts in programming that just hurt my brain and
+and me and me and them are just not friends so i feel it if if toasters are your
+worst enemy it's okay it gets a little bit easier with time
+already toasters what the heck do i mean by toasters right all i mean is a data
+structure that can hold other stuff a data structure that can hold other data
+
+01:22
+structures one thing that can hold multiple elements and so that's why i
+like a toaster because a toaster is one thing but it can hold the bread the
+toaster strudel the bagel the hot pockets right
+and we like to think of bill gates toaster because as our slots fill up we
+always get room for one more there are two ways to create a raise
+this constructor way we're going to finally see constructors tonight and
+then this will make a little bit more sense but the way we've been creating
+arrays is using literal notation meaning that
+we are using the actual square brackets now when we declare arrays we can plot
+values in and remember an array can hold any other
+value that we've seen before it can hold strings booleans numbers other arrays
+anything is fair game inside the arrays and the tricky thing about arrays is we
+start our indexing at zero meaning that the elements
+
+01:23
+start their slots the toaster starts its slot at the zero slot and moves forward
+so the tricky part is if you're trying to get new york city out of this array
+you would have to use its index of zero not one
+and the cool thing is we can use these indexes to get stuff out of an array we
+can also use these indexes to put stuff into an array
+and we saw something that could be really tricky is that you can have an array
+that gets set to another array so you can overwrite a whole array using
+another array and we also learned that arrays have
+properties like length and length will tell you how many elements are inside of
+your array and then we learned that we could
+iterate through arrays meaning that we can move through and pull the values out
+of the array which makes them really powerful not only can a race hold all
+this data but we can pull data out and loop through it
+so we saw a traditional for loop that we
+
+01:24
+could move that used to move through our content but we also saw a method that's
+built in and works with arrays called 4-h we just saw it a few seconds ago for
+each will run once for every single element in the array and the goblin that
+runs it grabs the element the index and the array every single time it runs it's
+up to you however to have the buckets to throw that content into if you don't
+have the buckets you can't use it inside of your function cool
+we also saw some methods that we can use with arrays and if you did the homework
+you saw even more methods that you could use right
+even more methods that you could use to get the
+to to do stuff to our array so we saw the ability to
+take something off the front of the array using shift
+we saw the ability to take something off the end of the array with pop
+
+01:25
+and when you use shift and pop do you actually mess with the original array
+when you do shift and pop do you actually mess with the original array
+yeah you do when you use shift and pop you are
+literally changing that array it's literally pulling it off the array
+either from the front or the back beautiful
+and then when we do unshift we can put something on the front of the array
+and when we do push we can put something on the end of the array so we can shift
+off the front pop off the back unshift on the front and push on the back and so
+um when we looked at it we had we had  unshifted dielon and we had pushed
+dylon onto the end of this best wrappers 2020 but then we also had map
+and map will run once for each element in the array but the beautiful thing
+about map is that it gives us something different in the end what does map give
+us for something in the end what what does what does map do for us in the end
+
+01:26
+it gives us a new what it gives us a new array and so you can
+see for this map it didn't really matter what we were doing we were taking in
+dailon we were taking in polo g we were taking in dailon it just didn't matter
+the only thing this map spits other than the hot fire was dylon so it didn't
+matter the this map was going to run three times and it's going to return
+dylon three times and so best wrappers of all time which is the new array would
+have had dylon dylon dylon and then to finish it up we unshifted dylon onto the
+front we pushed dylon onto the end and if we were to console log the best
+wrappers of all time we have dailon dailon dylan dialing and of course
+dailon beautiful already let's look at this space review
+all right so we have space review i'm gonna close these two
+
+01:27
+inside of space review we have a js file an index file and this space review
+uh i really want you to do the first one let's let's just do the first one today
+we're gonna do this the first one we're going to save these other three for
+office hours so if you want to do more array practice come to office hours you
+want to do some object practice come to office hours we're just going to do this
+first one create an array of numbers sum all the numbers and alert the sum so i
+was gonna put three minutes on the clock for this one um but we had
+we had who did it we had uh carsies uh that added two minutes to timer so
+we're gonna do five minutes on this timer uh to do the first problem
+
+01:28
+five minutes on the clock go as deep as you can with this one um
+you can do it the old school way you can create just a for loop
+and loop through and add all the values we've done that already together in
+class you could try using the reduce method so this is uh space review
+and we're just going to try and do the first one if you finish the first one
+and you like burn through it try the other three we're gonna go over those
+other three during office hours so go ahead four minutes left on the clock you
+
+01:29
+got this dig deep you got this so got a lot of dunzos you do all the extra
+
+01:30
+ones get out of here google is your friend google is all our friends for sure
+definitely what some of these challenges we're doing space review just the first
+one what up dambo arasi yeah you would have to code that in the original
+dark i was pulling up my i normally have the activity feed like below
+on my left hand monitor but i like to have it on up top of my right hand
+monitor and i didn't have it up so i needed to pull it back up so that i
+could see um the like rewards and stuff that were coming in
+yeah so i was like trying to like get it to work
+
+01:31
+i also keep my notes over here so often i have to look at my notes to remember
+what the heck i'm doing no worries lerner holy smokes i did it hey congrats
+are you talking about client alternatives today we're going to do
+that on tuesday and i'm going to push the deadline back
+a little bit so the the deadline is going to get pushed back a little bit
+
+01:32
+but that'll be part of best week ever reduce has been the most difficult we
+understand but i just did it hey let's go turn up
+he's gonna add two minutes to the deadline nice
+there were a lot of array methods into reading which do you think are the most
+important ones to know i think all the ones that are in the in the in the
+reading are like some stuff you have to know they come up in a lot of problems
+never cheating to google it there's no such thing as cheating and learning how
+
+01:33
+to code all right folks come on back let's look at this together
+alrighty come on let's look at this together
+thank you to casey for the extra two minutes on this one
+alrighty create an array of numbers and sum all the numbers alert the sum
+uh we could do something like like a for loop we actually did this
+problem with a for loop before but i want to use the reduce method because
+you all had to do the reduce because you all had to learn the reduced
+method and i think it gets a lot of focus in trouble when they first see it
+so i was going to create a numbers track can you give me some numbers please 42
+
+01:34
+19 77 33 all right 33 i'm gonna do one more let's see 57 all right
+beautiful so now we have an array of numbers i want to sum all the numbers
+and so i'm going to go ahead and create i'm going to go ahead and create a sum
+and i'm going to set it equal to uh using a reduce method so i'm going to do
+numbs dot reduce and the cool thing about reduce is it's
+a method that's going to run once for every single element in our array just
+like map will do it or for each we'll do it reduce is going to run
+once for each element in our array and we're going to pass in
+this arrow function here and this arrow function is going to run once for each
+element in the array but reduce grabs a few specific things kind of like how it
+
+01:35
+for each you have to grab the element and the index well every single time
+reduce runs you kind of get two values that are important there's technically
+more than two but there are two that are important the first value is called an
+accumulator and the second value is whatever the current value is so i like
+to say acc for accumulator and c for the current value
+and then what we're going to do is we're going to simply
+add our current value to the accumulation so accumulator plus current value
+and so what i'm actually saying here is every single time that this runs
+i want to add something to an accumulation
+and so the very first time this runs i want the accumulator to start at a value
+and so i want my i want to have control over what my accumulator starts at so
+you'll often see something like this comma zero and so with the comma zero
+
+01:36
+it's going to show my accumulation is going to start at zero
+and this is going to be helpful it's gonna be helpful for a lot of
+different things like type type error like like like weird typing stuff
+but for now let's just say oh we're going to start our accumulator at zero
+all right so the very first time that this runs
+my accumulation i'm gonna give myself some room here the very first time that
+this runs my accumulation is at zero and my current value would be what what
+would the current value be the very first time this runs
+yeah the current value would be 42. so my accumulator is 0 and my current value
+is 42. what i'm going to wind up doing is 0 plus 42.
+that means that my accumulation like we could just keep track of it over here
+
+01:37
+is 42. then this runs again and my accumulator this time
+is 42. and i'm going to add the current value which is 19.
+oh blind and sign up for this didn't sign up for this so that would be
+19 plus 42 which is 61. so our accumulator is now 61.
+beautiful bust out the calculators for me all right we're at 61.
+all right the next time that this runs the accumulator is 61
+and the current value is 77. so if we add 77 to 61 the accumulator is now 138.
+
+01:38
+it's 138. all right then we do this again and now the accumulator is 138 plus 33
+right so now the accumulator is going to be at 171 beautiful
+now the next time that this runs the next time that this runs we're at 171
+and we're going to add the last current value which is 57
+so that means that our accumulator ends up being 228 228.
+our accumulator winds up being 228 which means that sum winds up being
+228. so it's as though we we cancel out this line and we're at 220. you want to
+
+01:39
+know what's really freaking sad though hold on i'll show you what's really sad
+one second is that i've been working through this book
+the secrets of mental math like i've been going through this
+hardcore like i've been doing it i've been going through it but
+but there's there's something called stream brain
+and i've asked other folks about this stream brain is really true like when
+i'm streaming i am way less efficient i promise you i i swear i am way less
+efficient than i am like in real life like sometimes my typing doesn't work
+right like my fingers are hitting weird keys like i can't do basic math like
+so it's just like when you're on stream it's like a different thing i don't know
+
+01:40
+it's not like and it's not like stage for it like i'm over that by now right
+i'm over that by now but it's just like some like basic tasks like i wonder if i
+could like juggle i'm really good at juggling i wonder if i could juggle on
+stream right it's because you're being watched yeah i don't know there's
+something weird about it yeah all right so that's how reduce works
+reduce is going to run once for each element in the brain right
+reduce is gonna run once for each element in the array
+and we can do whatever we want with that current element to an accumulator so
+let's say instead of um instead of adding to an accumulator we could
+subtract it from an accumulation or we could divide it from an
+
+01:41
+accumulation or we could even multiply it to an accumulator
+and if we knew that we were going to be multiplying to an accumulator what
+should we change about this reduce yeah we should probably start the
+accumulation at one just that we're not doing like multiplying by zero each time
+now this idea of like starting at zero or starting at one is is like not a full
+truth it's just helping us avoid some things
+that are actually really problematic when using reduce what if we had like 42
+in here and we tried to do the accumulation let's uh let's let's save this real
+quick oh we didn't console.log the sum oh so
+we have to alert the sum let's go ahead and alert sum and let's save this
+and i'm going to get rid of the zero for right now so let's just go ahead and
+
+01:42
+save this and i'm going to run this in my browser
+and you can see we got all like this concatenation that was happening right
+and so we had all this concatenation that was happening oh look at that
+that's beautiful oh that black range is lit ah hold up
+you know i'm not gonna front pink ranger always has the best poses every single
+time pink ranger has the best poses all right so we have like that weird
+concatenation going on i'm gonna put it back to zero i'm gonna show you
+something with the zero refresh it's still doing the concatenation right
+so when i say like typing and stuff like that it's it's not like changing types
+for us right that's something we have to understand so it's not like changing
+types for us it's just helping us to say what we want
+
+01:43
+the first type to be like do i want it to be like a number do i want it to be a
+string and so in this case we're saying hey start the accumulation off as a
+number and not a string which is if you're doing some some code wars this is
+going to be something that's going to pop up so just keep that in your brain
+that sometimes you're going to want the accumulator to start off as a number and
+you're going to need this comma 0. and if you don't you're gonna
+run into some tricky issues all right how could we fix this so that this would
+work what can we do to make this work oh folk man's been doing some code wars
+yeah i'm seeing some i'm seeing some folks pulling out the
+here we got so we got some code war answers we got some cold war answers in
+
+01:44
+the chat hold on let's see this what [Laughter]
+oh we got we got cold war's brain right now i see y'all
+so what we've seen in the past is that we've seen this right
+we've seen that we like hey give us the number out of the current value so if
+it's string 42 we would get number 42 and of course this this would this would
+work right but there's some there's some like uh
+there's some code wars type answers that you're gonna start seeing
+where this does the same thing in javascript just the plus sign will do the same
+thing and then you can even like get rid of the um the zero by doing like that
+which does the conversion on the accumulator and the current value so
+it gets wild out here folks that's all i'm going to say
+so be careful on these cold war streets i'm going to change this back for the
+
+01:45
+for the poor souls that are running back this code all right chris said hey
+code words can get wild it could really chem alright so reduce
+i know reduce when you first see it is really kind of confusing
+but i hope after seeing me like step through it uh it makes a little bit more
+sense all reduce is doing is setting up a bucket for accumulation
+right it's just setting up a bucket and then each time it runs the current
+value grabs the value out of the array and you can do whatever you want with
+that current value in relation to what you're storing in the bucket
+the very first time this would run we have zero in the bucket and so we'd
+grab the current value which is 42 and we throw it in the bucket now the
+bucket is holding 42. then we grab 19 and we throw it in the
+
+01:46
+bucket so now it's 42 plus 19 and so that's all you're doing with reduce and
+definitely eventually reduce gets more you can do more complicated things
+with it but it reduces down to a singular in this instance reduce reduces
+down into a singular what what does reduce reduce down into
+kind of like how you have like a reduction that when you're cooking what
+did i reduce reduce down into yeah reduce down into a singular number
+right and that number was stored in sum so in our case this
+reduced all the way down to what was it 228
+and then we alerted that sum which was 228 so that that's all reduced is doing
+it's just reducing it down into one thing
+right and then we're alerting that thing cool all right let's
+leon with the cookie tears hey i'll tell you what so uh i was an associate at
+
+01:47
+harvard for a while i used to teach a lot at harvard i always taught like um
+like front-end web development stuff specifically at the business school and
+harvard has like some of these like really cool classes
+and one of the classes was a cooking class but it wasn't like you like go and
+learn how to cook they would just pull in all these like really dope people
+that are like in the food world and so um there's this really amazing
+uh fermented foods guy that works at noma that they brought in
+i was so like they're so like i would just go like to all these friday cooking
+community things like these friday cooking classes so i know all the terms
+i got hella terms for cooking stuff that like i didn't know was like a legit
+thing to do yeah that's my flexosaurus i'll throw it out there but yeah so i
+got the cooking terms i got you all right we're gonna save these three
+for office hours so if you want to get if you want to get
+
+01:48
+a little head start on office hours there you go let's jump back into the slides
+please talk about how that's like that's that's how you do [Music] a photo
+we need a mod photo law if you're here we need a mod photo we we need like
+like all of us in different poses that would be that would that would be
+amazing i'm gonna ask i'm gonna ask y'all to take a photo we're gonna we're
+gonna we're gonna we're gonna photoshop it up it's the best week ever folks
+leon power rangers cosplay on stream i'll do it we gotta think of like a goal
+yeah i think of like uh oh can we do uh hold on we can do this one second
+
+01:49
+how do i set it up um when we take our next break i'll set it
+up i'll sit up i'll set up a goal and if we hit a certain number of channel
+points i'll i'll come to class in my power rangers costume
+there we go for best week ever i'll see if i can get one in time
+is juggling going to be part of it hey get what you pay for right all right chat
+what are objects everything that is true objects are everything
+specifically they're a collection of variables and functions right that's all
+an object is an object is just a collection of variables and functions if
+you used the variable before and used the function before you can understand
+
+01:50
+objects however when we are tying our variables and our functions to our objects
+right we call them slightly different terms
+what do we call a variable attached to an object what do we call that yeah
+called a property exactly and what do we call a function attached to an object
+a method nice so we've already seen this like objects yes they're a little weird
+there's a little bit more syntax we have to learn some dot notation some curly
+braces here and there but we should already feel comfortable because we've
+already already been using variables and functions in the past so
+let's keep pushing i like to think of a physical object
+when i first thinking about objects and so the physical object that i like to
+think of is a stopwatch what are some properties
+
+01:51
+of this stopwatch don't give me the value give me the properties that this
+stopwatch could have it could have a color property a brand a shape a size
+a thickness yeah a minutes property a seconds property so those are all
+properties the values would be like black or round or
+accu-split but the properties themselves are the actual attributes that make up
+the stopwatch water resistance equals true exactly what would be some of the
+methods tied to this object what are some of the methods tied to this object
+yeah start stop beep reset these are all things that the
+object can do functions right when we have functions tied to an object we call
+
+01:52
+them methods nice all right we talked about properties we
+talked about methods and we've seen this we've seen this last class but let's
+take a peek at it again when we are creating an object and we
+just use the curly braces uh what type of notation do we call that we have
+we've created an object tau using what type of notation
+yeah literal notation and today we're going to see the constructor way of
+creating an object as well so here we've literally created an object then we can
+also create an object using a constructor which we'll get to a little
+bit later today now once i've created my object i can use
+what type of notation to add properties and methods
+what type of notation can i use to add properties and methods to my
+object yeah dot notation so here i have set stopwatch
+
+01:53
+current time equal to 12. so i've added a property of current time to my
+stopwatch and i've given it the value of 12. here i have set the telltime method
+using dot notation on my stopwatch so i've given i've given my stopwatch
+object a tell time method now how do i know that tell time
+right tell time is a method how do i know it's a method
+it's tied to a function exactly whenever you see it tied to a function that's a
+method because the the function is tied to the object beautiful
+and then down here we have the object stopwatch
+and we are doing what with the telltime method what are we doing down here with
+
+01:54
+the telltime method what are we doing with the tell time method there
+we're calling it exactly we're telling it to run the only tricky bit here
+is that we are passing in stopwatch.currenttime which at this moment is 12.
+it's 12. so it's as though we had passed in the number 12
+into this telltime method it's an argument exactly and so wherever we
+pass 12 into time wherever we see time it's as though i
+had actually put in 12. so if this ran we would see printed to the console the
+current time is 12. now when some people first see this and they
+see this string down here they're they they kind of get confused
+but you don't have to be confused because you've been doing this over and over
+
+01:55
+and over since the first day of javascript you have all done using this method
+calling a method passing in a value into a method you've used it pretty much
+every single class that we have ever done let's look at some of the code we
+literally just wrote look at this console log
+it's the exact same thing hold on let's take a look we have an object
+a method and we're passing in an argument it's the exact same thing if we look
+log is a what if you if you only look at log what do you know it is
+it's a method and the methods tied to what object using dot notation
+
+01:56
+what is this method tied to console console has to be an object look
+console we're using dot notation log so that means we've been using console
+log this whole time and the whole time we've been using
+objects we've been calling methods and we've been passing in
+arguments the whole time folks it's always been objects it's been objects
+the whole time console's been an object this whole time you've been using
+methods this whole time so when you look at this
+don't get don't get tripped up don't get confused you've been doing this since
+class one you've been using methods tied to objects
+same thing with our console log it's a it's a method
+
+01:57
+tied to the object of console you got guy so this is what i'm saying like if
+you're like the the when i learned this my mind was obliterated exactly my mind
+was blown i just i just like it just exploded on me right
+the whole time we've been using objects we've been using methods and we're going
+to see more and more of them we're going
+to see them as we get further into today and we learn about prototypes today
+we're going to see this taken to another
+level that's what i said when i promised you your brain was going to maybe
+explode a little bit you kept this from me
+i promise to make your brain explode a little bit this is this is this is part
+one of it we're going to take a little bit further
+once we learn prototypes to see how objects are really doing all the work for us
+all right what i would like for us to do is
+we're at the top of the hour so let's take a break
+we come back from the break we're gonna do our objects practice uh the lost
+galaxy practice and then we're gonna move on to constructors and some other
+
+01:58
+ways to create objects and then we're gonna learn about prototypal inheritance
+and all the power it brings to javascript but before we do that we're
+going to take our break if you're able please get up move around hydrate
+take care of your hands folks let your eyes focus on something that's not the
+screen take your five minutes and when we come back
+we'll get into this objects practice uh sm0220211k thank you for the hydration
+
+02:03
+cheers to you all right folks how about it you're
+all right folks come on back come on back
+simba camp maybe for the best week ever we have cinema cam come back i don't
+
+02:04
+know maybe we got some things planned i don't know alrighty
+all righty let's go ahead and keep pushing here
+when you'll be going over the portfolios
+and projects probably not this up coming with the week after yeah
+by the week after alrighty let's keep pushing objects
+so far we've made objects one at a time right so we made objects one at a time
+but what if we want it to make a lot of objects
+all right we're going to make a lot of objects
+what if we let's see let's see let's see let's say we want to make a car right a
+car is an object what if we wanted to make a lot of cars what would we need
+
+02:05
+what we need yeah we need a factory if we want to make a lot of cars we need
+a factory and that factory has to be put together
+in a particular way that would help us spit out a lot of cars
+well when it comes to objects we have a means
+of creating a factory that spits out objects and so
+if we ever wanted to be able to create a bunch of objects
+we would need to build one of these factories
+now the first type of factory we're going to learn about is something called
+a constructor with es6 like the newer versions of
+javascript we got some syntactical sugar that sits on top of constructors that
+
+02:06
+bring classes to javascript even though we have classes in javascript
+underneath the hood is still constructors and something we
+call prototypal inheritance and so today we're going to see these constructors a
+way that we can build something that spits out a bunch of objects and then
+later on we'll add some of the syntactical sugar to help us create classes
+and so we start to kind of think about why might we need these things
+we saw today that we could eventually start combining our functions
+to do different tasks we had a function that could
+randomly pick rock paper scissors we had
+a function that could check if we won we had a function that could play a game
+what if we could package all of that stuff into one object
+
+02:07
+we could then maybe spit out a bunch of objects where we're just changing little
+pieces at a time so we could have a factory that would spit out games
+and all we would need to do is change some of the things we pass in we change
+something we get a coin flip game if we change something we get rock paper
+scissors if we change something we get rock paper lizard spock if we change
+enough things we wind up with like i don't know let's say checkers if we
+change enough things we we get we get chess but if we're thinking about games
+there's a lot of stuff that's similar across all the games we're going to have
+winners losers we're going to have the ability for for a player to do something
+for the bot to do something and so that's what we're building up to
+we started to see how we can combine all these functions together eventually
+we're going to want to be able to have collections of properties and methods
+
+02:08
+that we can use and reuse and pass in different bits and bobs to get what we
+want so let's start pretty let's let's let's not start there let's
+start with this idea of maybe we want to create cars
+so we're going to need to create a car factory
+here's what my car factory looks like don't let the syntax overwhelm you at
+first here is our car factory and what this car factory is going to do
+is enable us to spit out okay cars enable us to spit out cars so this is a
+constructor it's just the what if we're looking at it it's just the what
+
+02:09
+it's just a function it's just a function and they're gonna be some kind of like
+quirks to it we're to notice that the function has a capital letter
+that capital letter does nothing it doesn't do anything
+right it doesn't actually do anything it just helps us know
+that this function is a constructor it's going to be a function that spits out
+spits out objects right it's going to spit out objects right and so
+somebody's saying why why not a class because we're not there yet remember we
+said classes are just in tactical sugar on top of constructors and so we want to
+know what a constructor is before we get the classes
+right so when we're looking at it it's just a function there's nothing wild
+here there's nothing there's nothing there's nothing kind of
+that makes this special we give it a capital letter just that we know as
+
+02:10
+humans that this is a function that's going to spit out objects for us
+alrighty now if we look we're taking in a bunch of
+values we have a bunch of parameters set up and then down here
+we're going to call our constructor function we're going to call our constructor
+function and we're going to notice that there's one really unique keyword here
+and that's the new keyword this is where
+some of the power is coming from this is what's going to help us to create these
+objects and so we have our first use of the constructor to create an object
+and we're gonna pass in honda civic silver and four so anywhere we see honda
+
+02:11
+anywhere we see car make it's going to be honda anywhere we see car model
+it's going to be civic anywhere we see car color is going to be silver
+and anywhere we see number of doors it's going to be four
+right and so what we wind up doing is we wind up setting all of the properties
+that are going to be on the object that comes out of this constructor
+so what we're going to see is that any car that comes out of this constructor
+is going to have a make property a model property a color property
+
+02:12
+a doors property a honk method and a lock method every single car that comes
+out of this constructor is going to have
+all of those properties and all of those methods and so we don't have to
+we don't have to rewrite this code every single time we
+want to make an object when we did our when we did our
+when we did our creating of our object right when we did our creating of the
+object we didn't have this constructor right we had to do it all by hand
+every single time so what i want to do is i want to create an object by hand
+one more time before we jump to doing it with a constructor so let's go back
+
+02:13
+and open up objects lost galaxy and in our objects lost galaxy
+i want you to create a mouse object that has four properties and three methods
+but i don't want you to use a constructor i want you to do it old
+school by hand give create a mouse object give it a four properties and three
+methods cool this we're gonna put let's put three
+minutes on the clock here three minutes on the clock here you got it dig deep
+
+02:14
+mouse object four properties three methods do it old school by hand
+you can do the animal or the the the actual physical object that's up to you
+
+02:15
+we're gonna go back to the constructor and cover this we haven't gotten there
+
+02:16
+yet i can find the object in the animal that's awesome
+why is stopwatch not camo case um because it's one word
+yeah stopwatch is one word got some dunzos coming in all right
+all right let's go come through let's do this together
+got a lot of dones proud of y'all well done well done let's do this together
+i'm gonna go with a computer mouse instead of a
+animal mouse and i'm gonna use my mx ergo as the mouse that i will be talking
+
+02:17
+about today all right this is this is the the mouse that has saved my my
+thumbs and my hands uh so i'm gonna i'm gonna i'm gonna use
+this mx ergo as my mouse all right so i'm gonna go ahead and use literal
+notation to create the object let mouse equal and i'm going to use my
+curly braces so now i have my mouse now i'm going to set some properties on
+the mouse uh what are some properties of this mouse
+we think this mouse what are some properties of this mouse
+brand yes let's do mouse dot brand we'll set that equal to logitech um [Music]
+mouse dot color so it's going to color equals black let's go ahead and do
+
+02:18
+using model so mouse dot model set that to mx ergo and we need one more uh
+wireless okay so let's do mouse dot wireless and we'll set that equal to what
+a boolean of true nice doesn't always have to be strings could be any any of
+the any kind of like anything you normally put in a variable you can put
+in here so i got a brand of logitech color black model of mx ergo and is it
+wireless set to true beautiful all right let's do some
+methods what are some methods of my mouse
+yeah we got we got some clicks we got a right click we got a left click all
+right so let's go and do mouse dot left click
+equals uh we're gonna set it equal to a function because it's a method
+and we're gonna go ahead and say uh you click the left mouse button
+
+02:19
+we're gonna console.log left click cool let's go ahead and do mouse dot
+right click i'm gonna set that equal to a function
+beautiful and we'll go into our console.log and we'll do right click cool
+and then what's one other one scroll okay let's do mouse dot scroll
+and we'll set that equal to a function and console log jump you know you know
+so in in counter-strike we bind our scroll wheel to our jump yeah
+
+02:20
+so that's how you jump fast in cs go all right so here i've built out a mouse
+object i gave it a brand a color a model wireless a left click the right click
+and a scroll however wait a minute hold up i got this mouse but i also
+have this mouse i want to create a new object that is this mouse
+what what do i have to do what do i have to do oh
+oh all right well maybe maybe i can maybe i can make a little bit faster on
+myself by just like copying everything and then i'm just going to come down here
+and we got to do it all over again i'm going to paste it
+at least what i'll do here is i'll use some some some dev magic
+
+02:21
+and i'll say like mouse 2 right mouse two it's still logitech it's still black
+um but it's not mx ergo it is the pro wireless
+all right it's the pro wireless it still is left clicked it still is right click
+and the function still does the same um oh i got another mouse
+what do i got to do oh again let's let's do some dev magic yeah yeah yeah yeah
+
+02:22
+yeah yeah yeah all right mouse three this time it's apple this time it's silver
+it's a magic track pad two yellow it's magic trackpad two get
+out of here i ain't got the the first one it's the second one you know what
+i'm saying uh but it still has left click it still has right click
+but scroll is like probably very different um slide two fingers up
+that's how you scroll right slide two fingers
+it's a little different i ain't jumping with this trackpad so
+what we'll recall this code this code is this code is very this code is very wet
+all right it's not dry at all i'm having the copy and paste i have i have i have
+
+02:23
+50 lines of code 50 lines of code that should really i
+should really have only had to set this up once
+and then pass my values in i should have only had to set this up once
+and then pass my values in and so that's exactly what a constructor does for us
+and constructor enables us to set something up once
+and then pass the values in so i don't have to sit here and set up a make a
+model a color a doors a honk a lock for every single object i want to create so
+i could i could sit here and copy and paste and add a
+bunch of stuff and do it all by hand or i could use a constructor that spits out
+the objects for me and that's all it is it's just it's just a function that's
+
+02:24
+going to spit out the objects for you so there has to be an easier way
+and that is constructors it's a template exactly it's a blueprint to create this
+car it is a template to create this car and so down here i am using the template
+to create a car object and what i'm doing here some of these
+folks get kind of confused with this what i'm actually doing is i'm just
+setting the properties on that object so any object that comes
+out of this function is going to have a make property a model property a color
+property a doors property a honk property just like i did over here with
+brand color model wireless but instead of having to type the name
+of the actual object each time i just replace it with this
+right i just replaced it with this and then whatever object is coming out
+
+02:25
+of my constructor has those values that's all it means for now eventually
+this will hold more weight for us but all we're doing is just saying hey
+whatever whatever object comes out of this function has this property and this
+property and this property and this property and this property and instead
+of hard coding the name of the object we just use this so that it gets added to
+each of those objects so let's take a look at this let's um
+let's copy this constructor and i'm going to open up my inspect tool
+here i'm gonna go to console and i'm gonna plop in my constructor
+hit enter and now my constructor is in memory so now i can take this line here
+
+02:26
+and i can create a car boom and then you know what i want to create another car
+and instead of having to copy and paste all of this stuff like i did
+for my mouse all i have to do is call that same constructor with some new info
+and so now i write the constructor once and then i can make as many cars as i
+want right i can make as many cars as i want without having to constantly
+constantly retype everything and if we look if we look at it we can
+ask for honda civic we can ask for honda civic
+and if we look at what it gives us back it gives us an object that has
+a color of silver a door is a four the hawk
+
+02:27
+the the lock the make the model it's all there on the object that got spit out
+when we made honda civic if we asked for tesla roadster
+we get all the stuff that got spit out when we used it we have the color of red
+the doors of two the honk the lock the make the model it's all there
+so if we were to actually kind of do it line by line we're going to create a new
+object using this make car constructor this is the factory we are going to use
+and we are going to pass in honda we're going to pass in civic
+we're going to pass in silver and we're going to pass in 4.
+wherever i see car make it's now honda that means my
+
+02:28
+honda civic object is going to have a make property of honda just like
+my mouse had a brand of logitech then that means that my
+object is going to have a model property that is civic
+it means that my object is going to have a color property that is silver
+and it means that my object is going to have a doors property of four
+it also means that my object is going to have a honk method of
+bp and it's gonna have a lock method of locked this
+number of doors and so the cool thing is that this is referring to the object
+itself it's referring to the object itself so right now
+
+02:29
+the object that's coming out of this factory what is its doors property set to
+the the car that's coming out of this factory what's this door set to
+it's set the four we passed in four so this would alert locked or
+doors we can look the doors property has been set to four that's what we passed
+in so we are going to alert four doors and so this enables us to be able to spit
+any type of cars out of this factory without having to do more work so
+basically parameters and arguments they are parameters and arguments the the the
+constructors aren't anything fancy they're just they're just functions
+and we do it again here we're going to pass in tesla
+
+02:30
+we're going to pass in roadster we're going to pass in red
+and we're going to pass in two wherever i see whenever as i'm creating
+this object it's going to have a make property of tesla
+it's going to have a model property of roadster
+it's going to have a color property of red
+it's going to have a doris property of two
+it's going to have a honk method of beep beep
+and it's going to have a lock method of i locked and it's going to look at
+itself two doors and so the beautiful thing here
+is that we can continually use this factory we can use this constructor
+function that keeps spitting out more and more cars
+but we don't ever have to wind up copying and pasting and doing it all by
+
+02:31
+hand we do the hard work once and then for each
+object we create how many more lines of code is it for each new car i want to
+create each new object i want to create how many lines of code is it
+it's one that's dry as let's go let's go let's go this is huge
+we can now create as many we can create as many objects as we want and we don't
+have to use more lines of code we just use one line of code come on let's go
+all right now if we look in the inspector and we go to our console
+and we ask for the honda civic that we made already
+we can see something very specific about honda civic we can see
+
+02:32
+the factory it came from we can see that honda civic is an object
+that came from what constructor what constructor did this honda civic
+object come from make car exactly so we can see the factory that this car came
+out of right so any object can look at itself and it can see where it was made
+right it can look at itself and see its parent
+it can see its parent you can see all right i'm honda civic but i came from
+the make car factory now let's say we made a bunch of teslas
+right we made a bunch of teslas but we forgot
+
+02:33
+we forgot we made a bunch of teslas let's say we made millions of teslas
+but we forgot to give them like to to make the radio work
+right sorry let's say bluetooth we forgot to turn on bluetooth right
+we made millions of teslas this didn't happen this is just an example let's say
+we made millions of teslas but we forgot to turn on bluetooth back in the day
+what did we have to do with cars if the cars all left the factory and they
+didn't have something what did we have to do with those cars
+we had to recall all those cars all those cars had to go back to the factory
+or back to the repair shop we literally had to recall all those cars to come
+back and get bluetooth the cool thing about tesla's though
+
+02:34
+the cool thing about tesla's is that they can update through wi-fi right they
+can update across the cellular connection that each car has so if we
+made millions of teslas that did not have bluetooth we could do
+an over the air update and they would all get bluetooth
+let's keep that idea in mind here we made a bunch of teslas
+and the teslas when we made them did not have
+bluetooth so if we look at the tesla we passed in tesla roadster red two
+if we ask for the tesla over here we can see that it has color doors honk
+lock make model but it doesn't have bluetooth if i was to ask for tesla roadster
+model it would give me roadster if i was to ask for tesla roadster bluetooth
+
+02:35
+i get undefined it it does not have bluetooth so what tesla can do
+is they can say any car that was made from the factory now has bluetooth
+they flick a switch and any car that was made from the factory now has bluetooth
+so what tesla is going to do what are tesla roadsters going to do
+the tesla roadster is going to look at itself right it's going to look at itself
+and it's going to say you know what i don't have bluetooth
+let me check with my factory and it's going to check its factory
+and if the factory has bluetooth then guess what the tesla roadster now has
+bluetooth and we can do this we can do this i'm going to go ahead and do make
+car prototype bluetooth equals true here we go make car prototype bluetooth
+
+02:36
+equals true there we go so now if i ask tesla roadster if i look
+at tesla roadster does tesla roadster have a bluetooth property at all
+look look don't don't guess don't don't guess look does tesla roadster have a
+bluetooth property at all on itself on itself no there's no bluetooth there
+the tesla roadster itself does not have bluetooth however look what happens when
+i do this it has bluetooth what we just saw the the the roadster itself does not
+
+02:37
+have bluetooth yet when i did tesla roadster.bluetooth i got true
+so what happened is that the tesla looked at itself
+it looked at itself and it said hey do you do i have bluetooth
+and the tesla looked at itself and said you know what i don't have bluetooth but
+what i should go check is my factory and it checked the make car factory and
+i said hey make car do you have bluetooth and the factory is like yup
+and so since the factory had bluetooth tesla got that over the air update and
+now it has bluetooth so tesla didn't have it but it went up
+to the factory to get it and now it has it this is how inheritance
+
+02:38
+works in javascript this is called prototypal inheritance what we're going
+to do is whenever we're trying to see if a object has a property or method
+is that it will check itself first it will always check itself first it's
+always going to check itself to see do i
+have that property do i have that method and if it doesn't
+it's going to look at its factory or wherever it was made hey factory do you
+have that property or method and if it has it it'll use it
+all you think about this is like let's say i don't have a car
+i can go up my inheritance chain to see if someone has a car
+so if i don't have a car i can go to moms and say hey moms do you have a car
+and if my mom says no i can go to grandma and say hey grandma
+
+02:39
+hey grandma do you have a car and since grandma has a car guess what i got a car
+grandma's got a car i got a car right so if i looked at myself
+i didn't but i went up my my inheritance chain i went up to ma hey
+ma do you have it no grandma do you have it yes so since
+grandma has it i can use it i got a car same thing's happening with our objects
+the object is checking itself then it's checking its constructor
+and then it can keep going up this prototype chain all the way until we get to
+the global object prototype remember how i said every single thing
+is an object well it really is and everything inherits from this great
+
+02:40
+great great great grandparent of an element
+right this great great great grandparent of an object we inherit things from and
+so we see this over and over and over again we've seen this so many times it's
+quite interesting we can do something like this
+we could do something like this where we could say let num equal to
+and then i could alert num dot to string what would happen here
+if i if i ran this code ignore nor this stuff up here ignore that
+i ran this code what the heck would happen yeah
+we would wind up seeing alerted string two why would a number
+
+02:41
+have a string method it doesn't make any sense why would a
+number have the ability to make it a string what if numbers didn't actually have
+the ability to turn itself into a string what if this whole time
+we have been going up the prototype chain the inheritance chain to find
+two string on the global object prototype so the number checks itself
+the number didn't have two string the number checks its factory hey
+numbers do we have this two string if it doesn't have it it keeps going up the
+inheritance chain until it finds the global object prototype let's google
+
+02:42
+this let's see if let's see if we can do this global object prototype
+all right object object prototype let's start here all right if we look at
+the object prototype this is this is the this is this is the global object
+prototype if we look we can see all these methods that are built into it
+right that are built into it and if we look wouldn't you know
+there's a two string on it so even if our number did not have to string
+even if it's factory did not have its it to string it can go
+all the way up to the global object prototype and since on the global object
+
+02:43
+prototype is this ability to turn things into a string the numbers have it
+because every single thing in javascript is an object and they all
+inherit from the global object prototype so all this time
+we've been using methods and properties and some of the time the
+thing we were using the properties and methods on had no idea what the heck we
+were talking about but it went up the prototype chain until it got to the
+global object prototype and then it had access to it we've gotten got we go get
+but at this point might have gotten got just a little bit just a little bit cool
+so if we were to look at this we could even see this on the tesla right
+
+02:44
+we could we can even see this on the tesla
+if i do this right here tesla roadster doors how many doors are on the tesla
+roadster if we go here if we ask for tesla roadster
+dot doors we get two back so two is a number does tesla roadster
+have a two string method i can see a honk and a lock
+but i don't see a two string yet if i was to do this
+if i was to go ahead and do tesla roadster doors dot two string
+we get that string two back we just saw that tesla roadster does not
+have a two string method so it went and checked what
+tesla roadster didn't have two strings so where's the first place it looked
+where's the first place it looked it's factory right it went the mom went
+
+02:45
+to the factory it went to mom and went to the factory
+and it said hey factory do you know anything about this like two string
+and the factory's like i've never heard of it and it's like oh i gotta go
+ask grandma yo grandma you ever heard of this uh this
+two-string thing and grandma's like of course of course i've heard a tuesday
+i've been using it for years and then grandma shows us how to use two string
+right shows how to do two string and we can turn our number of doors into a
+string number of doors it's prototypal inheritance it's this
+idea that even if we don't even if our objects do not have
+that method or property we can check the constructor
+and then we can check any of the prototypes that we're coming from and
+what we'll realize is that there are actually a bunch of prototypes
+there is an array prototype there's a string prototype so if we look up um
+
+02:46
+i'm just going to google it array prototype
+should probably throw mdn on that now they got us look at that
+right if we look at array and we look at the array prototype
+look at all this stuff that's on the array prototype
+all the stuff we've been using filter for each includes map push pop reduce
+they're all here these are how the methods are tied to the arrays and then if if
+if this function if sorry if this array prototype doesn't have it
+it can go up to the object prototype it's all chained together
+folks it's all coming together it's all coming together even the array has all
+of these methods on it but if that it doesn't exist on the array it goes up to
+
+02:47
+the object and we saw that the object has all those other methods on it
+let's look at number can we see can we see number um let's see
+let's do string prototype see all these methods on string
+prototype we we saw search earlier right split search
+repeat replace so all these things are just sitting
+on the string prototype beautiful so and that's a lot to take in but
+hopefully hopefully your mind got blown just a little bit the first time
+this like once i started seeing these like gear start to turn
+right it my mind kind of broke a little bit
+
+02:48
+we've been bamboozled yeah so this idea that everything is an object
+a lot of the methods and the properties that we've been doing are just
+things on this prototype chains that we're like inheriting to use
+and so as we start to learn more about objects we'll play more with all the
+stuff we learned tonight we'll we'll we'll kind of see we'll kind of see the
+properties and the methods and all the stuff that we can use
+and even if the object that we create doesn't have it we can inherit it from
+other places cool all right where are we out we got we're
+close to the close to the ends here well
+getting close to the end here we do have let's see we do have a
+
+02:49
+a let's code which is to which is to make a street fighter object
+right it's to make a street fighter object and so if we look at this real quick
+let's see street fighter we have a i'm gonna do this yeah we got
+enough time we're gonna do this i'm gonna put five minutes on the clock
+i want you to utilize the constructor we just learned
+about the constructor we just learned about you can you can literally
+copy and paste right i want you to use the constructor we've built to make a
+street fighter constructor uh basically i want you to build a video game
+constructor if you've never played street fighter i want you to build a
+constructor that spits out a video game character that could fight
+okay let's go ahead and set up a five minute timer we'll do four
+minutes four minutes four minutes four minutes to build me a constructor
+
+02:50
+or a strife street fighter instructor there we go four minutes on
+the clock how about you got this dig deep we're gonna go over it together and
+
+02:51
+then we'll raid [Music] sorry uh somebody said for the
+apple mouse would a different scroll function be on the prototype and no i
+think if we were building an actual mouse constructor we would have a scroll
+type and it would either be like wheel or trackpad
+uh mac the global object can change to to impact all of javascript yep that can
+
+02:52
+happen ctrl alt funk hey thank you for the gift of subs thank you for being here
+minutes folks you got this dig deep got this folks a minute left
+
+02:53
+prototype is just a fallback source of properties and methods
+it's all it is just a fallback source of properties and methods if the object
+doesn't have it itself it checks its prototype often
+from the constructor that it was made from so if the object doesn't have
+bluetooth it checks its prototype to see
+if it has bluetooth and it can go up the
+prototype chain until it finds what it's looking for
+why two different words in the constructor this stop make equals car
+make because when i make this make equal make people
+get confused and don't understand that the right hand side is a parameter and
+the left hand side is the property being set on the object
+so if i was doing this for the for like my personal time i would do them the
+same thing but i like to make sure people can see
+
+02:54
+that one's a property and one is like the actual method
+iron we're gonna have to get a little bit deeper into how javascript runs in
+the browser to answer that question all right folks come through let's do
+this together all right we got this we can do this
+all right we're going to make a constructor for a street fighter character
+so i'm gonna make a constructor here so i'm gonna need a function
+and i'm gonna say make um i'm just gonna say sf character
+right and then since i know this is going to be a constructor what do i have
+to change about this because i know it's going to be
+constructor what should i change capital m exactly now does adding that
+capital m do anything nah doesn't do anything it just lets it just
+
+02:55
+lets us and other developers know that hey this is going to be a a constructor
+function that's all it is just just so that we know you're all in on a little
+secret now come here let me tell you so when you when you
+get in get in here a little closer when you see a function
+and it starts with a capital letter that that's going to be a constructor
+function now you're in on it you understand cool we're good
+a little a little secret between us alrighty now we want to be able to take in
+some things that that four properties and three methods so
+what can a fighting game character do i'm gonna say um punch kick block
+and i do everyone do like a special move like a special move
+i like taunt let's do taunt taunt and then special move cool beautiful
+
+02:56
+so we got we we got like four four properties i think when it passed in
+and then i'm gonna have like four i'm gonna have i'm gonna have three the
+three methods yeah all right so let's go and do the properties this dot punch
+equals equals punch now i was just talking about this where
+a lot of times you're gonna wind up having the property on the method
+be the same name as the parameter what you have to realize is that the
+right hand side the right hand side is actually the parameter
+and this is just the property that's going on
+the object so this dot punch means that the object is going to have a punch
+property and i just need this to be the same as
+this that i can grab the value coming in so that's why you're going to see a lot
+
+02:57
+of the times that the property and the the parameter are the same
+all right so let's do this dot kick equals kick this dot taunt equals taunt and
+this dot special move equals special move beautiful so now
+we have all the properties being set we can pass in the punch to kick the taunt
+the special move let's go ahead and create some methods
+so this dot what are some methods that we should do
+no i'm going to change this to something else and change this to jump now
+change it to saying i'm gonna i'm gonna i'm gonna call this like saying
+like or catchphrase catchphrase there we go catchphrase i'm gonna change
+
+02:58
+this to catchphrase beautiful equals catchphrase beautiful all right
+we have a a greeting we have throw we have special sound
+we got some other stuff coming through i like it all right let's do our let's
+let's let's let's create a ton the reason i change it because i want it i
+want it taught to be its own thing so i'm going to do a function
+and i'm going to say uh i'm gonna say let's go ahead and do console log
+um i'm actually going to do tech so i can use the the keywords here i'm going
+to say you can't handle my and then i'm going to use special
+
+02:59
+move so i'm going to go ahead and use my my my template literal here my my bling
+syntax here i'm gonna do say this dot special move so my talk could be you can't
+handle my special move and then i'm gonna have like a this dot winning
+and i'm going to create a function and i'm going to say a console log here
+and i'm going to say haha and then i'm going to say my catchphrase
+there we go so when i win i'm going to say and then my catchphrase
+and then we need one other one this dot uh what should we use
+
+03:00
+what's one more give me one more dash okay dash missed me
+missed me that's that's the dash you missed me all right
+so now i have a constructor whatever comes out of this constructor
+should have a punch property a kick property a catchphrase property a
+special move a taunt a winning and a dash all right let's go ahead and let's go
+ahead and try this um let's do like uh like um
+let's use like an actual character first it's going to do like ryu
+and we'll set ryo to new make sf character we didn't like pass in like name or
+anything name probably would have been a good property but we're gonna do like
+
+03:01
+i'm gonna say like high punch high kick and catch phrase
+does rio have a catch phrase i don't know we'll just we'll use scorpions
+and get over here we know that's not theirs but we'll just
+say that that's reused for now uh and then the last one is special move which is
+god this is it to you right token uh token here we go cool so now we have ryu
+and ryu should be a character that has a high punch a high
+kick a catchphrase of get over here and then a
+special move of hadouken all right so let's go ahead and
+let's go ahead and run this so i'm going to save it here
+
+03:02
+i'm going to open this in the browser bring it on oh this is world watch here
+smack this was a good bringing on actually i'm gonna retract that it was
+an okay bring it on all right so if we ask for ryu we can see that we get a
+make uh street fighter character which is good we actually it worked so our
+constructor worked for charlie and so we can see that it has a catch phrase a
+dash method a kick of high a punch of high a special move of hodogan it has a
+taunt and a winning method so let's go ahead and try using ryu
+and let's try doing um taunt and i gotta use my parentheses because
+it is a method boom you can't handle my hadouken
+because it pulled out that special move from ryu that worked um let's go ahead
+
+03:03
+and try not taunt but what was our other one it was winning let's try winning
+beautiful aha get over here so now it's using the get over here beautiful
+and let's do the last one which was the you can actually actually let's let's
+just ask what was on there so let's see ryu we can see that we had a taunt a
+winning and a dash let's do the last one which was the dash ryu dot dash
+beautiful whoop missed me beautiful all right so we got a bunch of
+properties and methods all being tied to the constructor
+something i would like for you to do is try making some additional characters
+on your own we'll go over all of this during office
+hours so office hours we're going to do some more of the array methods that we
+
+03:04
+skipped we're going to redo building the constructor and we're going to build a
+couple more street fighters with the constructor and then we're going to go
+over prototypes again so we're going to go over the prototypes we're going to
+see how prototypal inheritance actually builds and then once we can get through
+this like once we get through this on on on sunday
+we're good we can start doing apis and a lot of other fun stuff so
+thank you for putting in the effort putting in the work for being here or
+making your brain meld just a little bit i hope you learned a lot
+we have some homework that i want to talk about right before we do the raid
+and we have um juggling biohazards they used all their
+channel points to guide the raid so let's let's make it let's make it count
+for them your homework you have some videos to watch
+and you have some intro to github to do from microsoft please make sure you use
+the link when you do the intro to github
+it's really important that you have that done by thursday so that we can spend
+
+03:05
+all day thursday doing git and github and having a lot of fun so i'm really
+excited for the best week ever we're gonna kick it off on sunday i will see
+you all on sunday for review uh let's do
+our raid we're going to respawn press up this was juggling biohazards they spent
+all their channel points to make this happen
+let's go ahead and raid that channel it looks like they're doing some some
+unity game development all right folks i'll see you over there
+have a good rest of your night queuing up the raid
+hope you had fun hope you learned some stuff already folks
+see you over there and hopefully see you sunday peace you

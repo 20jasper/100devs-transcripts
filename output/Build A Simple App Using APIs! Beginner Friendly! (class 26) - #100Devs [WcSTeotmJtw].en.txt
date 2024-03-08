@@ -1,0 +1,1975 @@
+
+00:00
+hey first try good morning good afternoon good evening
+no matter where you are hope you all are doing well welcome back we online
+we online took us a minute but we online let's go we ain't outside we online
+what's going on everybody [Laughter] thanks for hanging on
+class isn't canceled we're back in the building way online third try uh the
+i was a dumb dumb stream labs updated i was like ah all
+right i'll let the stream labs update go through no problem
+nothing i checked all my settings checked everything looked good and then
+uh went to go live so everything was good until i went to go live once i went
+
+00:01
+live it was like oh you need a new graphics driver so then i had to go get
+the new graphics driver and that was some some fun stuff but we're back we're
+online we're ready to continue the best week
+ever thank you for being here i think i should probably send out another like
+we're actually live message let's go ahead and make sure we actually uh
+let folks know that we're here cool i'm gonna do that real quick
+looks like we're looking good everyone can hear looks like we're doing good all
+right let's send out one more message actually we are live
+all right there we go we are actually live cool there we go
+maybe maybe they got some of the riff raff out maybe it's just the cool kids
+
+00:02
+left all right folks welcome back and we had a couple people come in
+hello it's rufio hey thank you for the raid i appreciate it thanks for coming
+through lee 1990s 1097a thank you for the raid
+thanks for bringing some folks through all right folks
+we gotta we gotta finish up the best week ever
+and you know what we like to do we always start off with some lovely
+questions and so uh the question of the day was what was your best what was your
+favorite part of the best week ever that's today's question what was your
+favorite part of the best week ever we had a lot of stuff folks
+there's a lot of things that happened we uh we had uh
+not one but two new members of the stream team hello it's rufio meinwolf
+joining the stream team we had uh nick's a wonderful talk the
+first friday with friends session we had a sponsored stream by microsoft
+this is kind of wild just saying this all out loud
+
+00:03
+we held our place down on our place throughout the four days
+that's a lot it's a lot i've seen a lot of our places i love it
+i love it i feel like our place was the winner that's where we came together as
+a community to to to to fight off the void oh glad you're all here hope you had
+some fun during the best week ever we're not done yet we got a few more raffles
+to do today uh we have some other fun things to do new merch so
+a lot of fun stuff to get to this evening tonight should be
+trying to get this because we kind of we kind of lost some time in the beginning
+so we'll try and recover some of that time and
+if everything goes well we'll be able to get through our objects just some light
+review some things we've already seen before
+and then jump into these apis uh tonight we're going to play with three apis the
+dog ceo api that we started with last class and that mine wolf was using on
+
+00:04
+their stream get some of that recall in get some of
+that practice in then we're gonna be using a cocktail database api uh to get
+some drinks and some cool stuff going on
+the screen and then if we have some time
+left over we'll play around a little bit
+with the nasa's apis and will set up the homework for your weekend which is to
+start building some cool stuff with actual apis this is where it starts to
+get real fun for me folks i think this is where you have enough skills to be
+dangerous you can start getting data from other other places and starting to
+use to combine that to build really neat stuff so i'm hoping after tonight's
+class you feel like you're you're ready to start messing around with some apis
+start pulling some data from some other places start combining it in ways to
+build the things that you want to build so super excited let's get into this
+let's wrap up this best week ever with a banger folks don't worry we got some we
+got some lovely raffles to get through we got some other fun stuff to get to uh
+but let's jump into it uh if you haven't gone ahead and check
+
+00:05
+in please go ahead and check in for us uh exclamation point check-in does
+nothing it just gives you the link you have to go to twitter and do the liking
+and the retweeting i always appreciate when you do that it helps more folks
+find our lovely lovely community and uh since since we we weren't actually live
+for a little while i think we need some folks to realize that we're actually
+back online and live so i appreciate it uh for uh for doing the look at the
+likes and the retweets it always helps all right
+remember we had some some some breathing
+room this month some breathing room this month no networking until may
+client deadline got pushed to may 3rd so if you are kind of been struggling to
+get that client you got a little bit more time to get it uh and we're
+chilling the networking just for a month to give us some time to focus on
+building right tonight your homework is to build to build some real projects
+with some real data with some real apis and so you need a little bit of time uh
+
+00:06
+to to to be able to focus on those things cool we also had this idea of client
+alternatives right so if for some reason you're not able to uh seek out a paid
+client there are two things that we could do instead
+i'm talking to my first real potential client didn't think it would get one hey
+congrats kismet got my deposit congrats that's huge
+yeah i think that my client's so excited
+hey that's what i'd love to hear yeah uh it's been really cool to see on the
+celebration channel if you're getting clients come on
+now if you're getting clients posting the celebrations channel come on now folks
+you gotta you gotta celebrate the wins so many folks are getting clients and i
+see it on twitter i'm like what are you doing getting the celebrations channel i
+want to hear that you won we need that place to be lit so when you get a client
+posting celebrations channel please louise
+
+00:07
+got a paid client and i just did one for charity nice
+fine alternatives uh you can remember you can volunteer for a grassroots org
+so if for some reason you're not able to get a paid client some folks have visa
+issues things like that you volunteer for a grassroots
+organization but you still do the full process you still have a client
+you still you still have a contract you still have a proposal
+i just got my first seven thousand dollar client what that's wild congrats
+that's huge political season is upon us yeah that's
+true a lot of grassroots orgs are gonna be uh kind of uh turning up the steam
+and so great time to find one of those orgs to work with
+you can also contribute to free software open source software shrimp fest
+1500 client that's wild all right if you got a client
+put that you got a client in chat and if
+
+00:08
+you're feeling real spicy put the amount if you got a client to say client
+and if you feel spicy put it 25k client get out of here that's wild two clients
+200 got a client got a client got a client got a client got a client got a
+client seven hundred a thousand five hundred holy smokes look at this folks what
+
+00:09
+hold on what bruh what we don't get got we go get holy smokes what wow wow wow
+wow that's huge that's huge wow super proud of all y'all i didn't think
+uh we'd get that many that quickly that's pretty wild
+wow you broke me for a second damn we out here we online folks i don't know
+
+00:10
+what else to say damn look at us go let's go damn
+all right well i gotta stop myself from crying for a second we're doing good all
+right no water works yet that's wild folks congratulations
+everyone that got the client and congratulations everybody's still
+pushing still trying to get the job done that's wild all righty folks
+well a lot of you don't need the alternatives but they're here
+volunteer for a grassroots org or contribute to free software uh
+because we we talked about this on on on tuesday the idea that a lot of stuff
+can be assuaged or or smoothed over when you
+have a paid client and that's why it's so important why it's so important
+cool that's wild congrats everyone uh also youtube we're up we're we're we are
+we are kind of almost caught up the git and github clash just went up on
+
+00:11
+youtube today uh you'll see tuesday's class i'm going to edit it i'm
+going to edit it as much as i can and i'll probably make it unlisted so
+tuesday's class will get edited and probably be unlisted if i can remove the
+names i will do it so i'm not making a promise yet but i'm going to try and get
+it a lot of folks have asked for it um but if i can edit it in a way that i
+think makes it look good we'll make it unlisted video otherwise we are caught
+up on youtube so people are also posting they got jobs
+already this is this is just wild give me a moment folks damn
+cool other than that youtube should be
+caught up this you know what [&nbsp;__&nbsp;] it
+this is i said what was my favorite part of the best week ever it's just right
+now it was this right now is the part the best part of the best week ever
+so many of you got clients already that's real money what
+
+00:12
+ted talks too hey thank you for the gifted subs thank you for being here
+and amy loose smiles hey thank you for the hydration cheers to you
+this really is the best week exactly indifferent this really is
+the best week ever holy smokes all right folks youtube's caught up
+uh i try to post as soon as i can remember we always have a delay because
+twitch uh part of our partnership agreements we can't post right away so i
+know a lot of folks do like to catch up on youtube uh it's i don't monetize the
+youtube so there's no ads there so if you've been like watching the vods here
+on twitch you're probably gonna have a way better experience on youtube uh just
+because it there's no ads so if you're if you feel like you need to catch up
+with some of the videos probably use youtube instead of the instead of the
+vods and uh yeah leon being stunned that his method works
+
+00:13
+i know it works but it's also a whole different thing to see like
+a hundred plus people show out that they've gotten paid
+clients in like one and go that's that's pretty wild
+also a lot of you don't actually type in chat [Laughter]
+coming after you uh so i know there's even way way more uh so that that's
+pretty funny cool best week ever all right
+merch so many folks wanted merch so we got some merch options it's not open yet
+yeah you you're wild folks uh it's not open yet uh so many folks went at merch
+i gave you a couple days heads up um and so there's a couple big pieces
+that'll go back up it's not live yet there's a couple big pieces that'll go live
+
+00:14
+and let's see boom there we go does the verge go down already
+i think it went down already oh boy i don't know if i can even show
+it it won't even let me show it all right so there's a couple things
+i'll i'll explain i'll draw it for you i'll draw you what maybe i can show you
+this page i don't think there's anything here um
+i'll do i guess i can take screenshots on my end let's see boom
+
+00:15
+all right so it was the same as last time we had the og 100 dev software
+engineering shirt and in both kind of the kind of like normal cut and then
+kind of a like the more rounded cut and then we had three new items
+that were in limited stock and i literally don't think it can like
+load fast enough it was wild so i'll pull it up here
+here were the the other ones that are not loading for some reason we had uh
+we had a very very very exclusive 100 dev shirt just to see how the print worked
+we had the r place the r place lovely pixel t-shirt
+and then uh stickers as well because i wanted to be like a way cheaper option
+
+00:16
+as well for folks that wanted it so if it all sells out we'll do another run
+um but i always want to do like limited stuff whenever we do launch it uh but
+yeah it looks like merch went down real quick i literally opened it while i was
+talking okay here we go here we go oh cool cool we're good we're good we're
+good all right so merge should be up now uh you could see
+uh the stuff that's that's still here super limited quantities
+and uh there's the lovely limited edition stickers from our time in our place
+uh we have our lumen edition our place t-shirt uh the 100 devs in this is sour
+stands pro which is my favorite font plus the 100 folks asked for it uh it's
+a little bit of an inside joke they always use source sans pro for
+everything if you know you know the og search for folks that wanted them
+and then we have the lovely only fans match fanny pack uh everything here is
+at cost there's literally no profit on any of this stuff as cheap as they will
+let me sell it is what i sell it to you all there's no profit you made on any of
+
+00:17
+this stuff except for the fanny pack because i find it hilarious to charge
+full price for it so all these all of these are um
+like no profit on them at all and then the fanny pack is this the max they
+would let me sell it for i sell it for max because it gives you the only fan
+match and i can't sell my body for that for that cheap cool
+alrighty so that that's more folks asked for it if it sells out we'll do another
+run and maybe a month or so maybe it'll be like a monthly thing
+but i really folks a lot of folks asked for the
+the our place so i made the stickers and the t-shirt because i think that was a
+really fun experience so merch is up i can hear the the things coming in
+and so we're gonna we're probably gonna chill those sounds there we go
+
+00:18
+and one of these days we're going to do our own merch and so
+there is the shipping is more than a sticker sorry i don't know how much
+shipping is on the sticker we will in the future do our own merch
+where i'll take stock ahead of time because i want way bigger sizes and some
+smaller sizes as well uh so this is kind of like the testing ground to see what
+works and then uh we will continue from there so
+everyone asks for it you got it merch is in here i'll let you all kind of
+panic through that and then like i said maybe like a every other month thing
+we'll do more merch some limited edition stuff and some of the og stuff
+the hoodies were all out uh the hoodies were all out and so like
+the hoodie the quality that we really liked they did not have them like in stock
+right now and so we'll bring the hoodies back hopefully like the next merch drop
+
+00:19
+because i know a lot of people want them it's just that the quality one that we
+really liked um they didn't they they just didn't have them right now so
+uh next time they're back in stock we'll do another one yeah
+yeah master shout out to octo shrimpy who designed the r place version yep so
+the the the the logo for the the that we actually placed in our place
+was done by octo shrimpy thank you for pasting that uh and that's the the
+design we actually put in our place so octo shrimpy uh i got a shirt coming
+your way so after shrimpy we got one coming your way
+just uh send me a mod mail please cool all right yeah i think a lot of folks
+are going to get caught at the payment stage because some of this stuff was
+
+00:20
+limited quantities alrighty uh this is the best week ever
+but it's the best week ever because uh uh quite a few folks has helped us get
+here along the way i really want to do something bigger
+but there are some thank yous i would like to say today
+uh this best week ever has honestly been the best week ever seeing everyone come
+through to to to come support the new members of the stream team to come to
+our first friday with friends in huge numbers we we literally locked down
+the top of the software and game development category like we just lock it down
+polo rufio had number one on the science and game dev
+uh category the entire time mayan wolf number one on the science
+and sorry software and game development category the whole time we lock it down
+right we had 700 plus people come to our first friday with friends this is wild
+
+00:21
+this community is a massive and it's amazing and i think it needs to be said
+that it doesn't happen this way like an accident right it's the hard work of
+everyone that's here it's the hard work of all the folks that show up time and
+time again that come to class that type in class that show up on discord uh it's
+it's it's because of y'all and behind the scenes there are a lot of folks that
+actually helped make this run really smoothly so i want to take a second to
+say some thank yous and then i want to start maybe like
+highlighting a person every week because i just don't think folks realize
+that it's not just me that there's a lot of folks behind the scenes making this
+all happen so i want to thank the mods real quick so blah cat and motion i'm
+going to use like your discord name because i don't know if you know if you
+want to use the other names so blah cat emotion div ker and different ghost
+jennifer chris miriam and kieran thank you i call him
+
+00:22
+memphis thank you so much to all the mods i don't think you realize
+how much stuff they do on a day-to-day basis uh answering questions all
+throughout discord filtering out weird messages making sure the community is
+upholding to a great community to be a part of making sure our rules get
+enforced it doesn't run well without our lovely
+lovely mods so thank you thank you thank you um
+each one of these mods has something that makes them amazing and makes them
+uh make this kind of go smoothly so i'm going to take a
+second just to say an individual thing for each one and then i will i will like
+i said do something bigger as we kind of go go throughout the weeks
+uh blah right off the rip any of the big improvements you've seen
+on discord or part of the community has been their hard work if you're in a
+
+00:23
+study community it's because of their hard work if you [Laughter]
+if you are seeing any of the newer stuff we're doing to try and bring people
+together that's all blah that's not me that's blah so uh
+blah has an amazing ability to uh work not only with the folks going through
+the cohort but our alumni bring people together build community and then
+they're also creating content too like what so thank you blah cat emotion
+shows up when we need them the most uh is always there to kind of lift folks
+spirits and some of the channels that we have that are newer and um always
+appreciate their their help uh here here on uh twitch as well uh one time
+actually putting it into putting it into only mode giving me a small
+small heart attack as i didn't realize what was happening and bringing it back
+uh but really do one of the most positive people i've ever interacted with that
+
+00:24
+brings joy to this community in untold ways uh in different ghosts
+like come on now so many folks are getting jobs because
+of the help indifferent has given folks the the the attention the the
+the helping look at code the being a sounding board for so many questions
+every time i go into the askleon channel and different is there going going to
+go into battle and answering so many questions for the community and so
+i i would be swamped swamped uh without indifference hard
+work so thank you different ghosts occ is the most articulate person i have ever
+come across they they we will have somebody that will send a mod mail where i am
+absolutely stumped on how i'm going to respond to this person and then i like
+refresh and occ jennifer uh has written out a beautiful
+
+00:25
+reply that like makes the person seen and heard and
+answers their question in a way that i just probably wouldn't be able to do
+chris is in a similar vein in the channels where the questions are
+the hardest chris is in there making sure that they're pulling in
+resources making sure people have a good direction and
+i would not be able to answer the amount of questions i answer without chris
+jumping in there and and pulling everything together specifically in the
+ass leon channel difker divker makes the server run uh
+i i don't i don't think i don't think folks see this a lot
+but the server runs because of difficult uh all these little things that would
+slip by my mind they see they bring up and they they help us work to fix it
+they're always answering questions they keep a pulse on everything i actually
+
+00:26
+don't know how they are in so many channels
+but difficult is able to cut just like the just the overseer
+and whenever something's going down they're the first to see it they bring
+it to our mod chat we're able to handle it so so many things that would have
+been distractions to the community so many things that would have been things
+that we don't just want here that we want to fix and solve has come because
+of their hard work miriam uh is is is someone that brings a
+lot of joy to twitch they're the person i see the most on twitch out of anyone
+else just kind of answering questions being here and then showing up in a
+different time zone which leads us also i'm going to call them memphis i've
+always called them memphis kieran memphis [Music] we're a global community
+and the bulk of our folks uh that that are on the mod team are are
+
+00:27
+not in a different time zone but miriam and memphis are and they show up
+and when memphis shows up it's always the most warm kind
+response that you could ever possibly think of always saying hello making sure
+that folks feel welcome and so i i just the the community would not have been
+shaped the way it was shaped without memphis showing up to um
+to to be welcome and kind to folks especially when everyone else is asleep
+there's some other folks too that i want to mention just quickly uh telescope
+scenes they're technically a mod but they lead our project team and um
+they actually help us build some really beautiful things that we're going to
+hopefully bring to y'all very soon so i went to throw it out there and then we
+we have uh two two other mods that were are og's that i just wanted i just wanna
+throw it out there alyssa o'kayla they held it down for the longest time for us
+
+00:28
+and um like i said there's so many folks that i want to thank there's so many
+folks that make this community run and and be able to do the things that we do
+so this is just the start i really do want to give praise to a lot more folks
+to the stream team the folks that put themselves out there for others to to
+benefit others for everyone that shows up all the folks that are that are
+mentors and helpers on the channel thank you thank
+you thank you thank you um but i i needed to end the best week ever
+by throwing at least some of those praises out because this community is an
+amazing community it's helped so many folks learn how to code it's helped so
+many folks get jobs it's how so many people get clients that we just saw
+today like my mind is blown and it doesn't happen without it being intentional
+without it not being an accident and so these folks give up their nights their
+weekends their days to make sure that this continues to go on so i want to say
+
+00:29
+a huge thank you to everyone and then also a huge thank you to you
+we're a big community now a big community thousands of people our
+discord is almost at 3 000 30 000 people that's huge when i look at the
+reach that 100 devs has on twitter we're seeing over a million in organic reach
+that's a million eyeballs that are seeing the stuff that you are working on
+that blows my mind and so are we outside we outside but we online too
+we online right and so thank you to everyone that takes some time to help others
+that takes some time to improve the community to make it better than when
+you joined that doesn't go unnoticed and so thank you thank you thank you
+cool all right we got that out the system i i like i said i want to be able to
+highlight some more folks as we go throughout the weeks but we couldn't we
+
+00:30
+couldn't get through the best week ever without saying those things alrighty
+tonight we're going through objects we are going through apis
+we're going to have some fun we're going
+to build some things we're going to do a little bit of reviewing and then we're
+going to go deep playing with the api so
+we feel comfortable so that for homework we can build some apps with these apis
+already uh people are oh yeah this is actually
+something that i wanted there's actually something to bring up because we got
+through the good stuff people are starting to talk about people
+not showing up for coffee chats i don't think it's 100 devs i really don't
+i think the folks that are here that are showing up
+that are part of this community wouldn't do that to people
+
+00:31
+but when your hashtag has a million people that see it in seven days
+a million people that see it in seven days i don't i don't think it's us
+i really don't i think that if you're on twitter
+and you're using the hundred devs hashtag you gotta realize that there's a
+million people that just saw that hashtag in seven days [Laughter]
+so i i don't know what to say more on that i think the real community is
+honestly on discord i love i i think twitter has its place
+but uh come to discord that's where most people hang out
+you don't have to worry about the riff raff that are out there
+and uh if you are a person that's scheduling coffee chats please show the
+[&nbsp;__&nbsp;] up or just let the person know that
+you're not going to show up but i think we've talked about this enough to where
+i honestly don't think anyone that is here would actually do that anymore and
+so um yeah that's what happens when you you're on
+
+00:32
+an open platform people use the hundred devs hashtag as though they're using
+some other hashtag like 100 days of code it's okay um just know that it's not
+just us anymore we're big we outside we online what can i say
+bring them the discord if you see folks that want to be helpful
+you see folks that that want to support the community bring them to discord but
+that's where they're going to interact with the most folks that's where they
+can be the most help in our help channels um yeah might not just be twitter
+[Laughter] yeah we had a million eyeballs on that
+hashtag in seven days a million in seven days that's wild that's so wild
+but uh so with all the good that that comes with that so many folks coming and
+joining our community joining our discord
+our discord has grown by ten thousand in what like a month and a half like
+
+00:33
+yeah come on now you got we got to take the good with the
+bad and so i definitely feel bad for folks that that open up public calendars
+on the internet for random people to sign up but kinda hard change the number
+maybe maybe that's how we really end alrighty
+so tonight let's start with a little bit
+of review and then once we get through a little bit of review we'll take our top
+of the hour break alrighty programming chat what's a program
+it's a set of instructions exactly it's a set of instructions that we write to
+
+00:34
+tell a computer what to do and therefore the act of programming is
+writing those instructions in a language that the computer can understand
+the language that we write that the computer can eventually understand
+is javascript and we're starting to get into the we're starting to get into the
+groove with javascript folks we're starting to see some of the uh the the
+realness of it we're starting to see we're moving from just patterns to maybe
+understanding what's happening when we look at our code when we used to see
+like document.queryselector.value we didn't know that value was a property
+and query selector could be a method and document was an object right but now
+but now we can start to to see what's happening underneath the hood a little
+bit as we start to go deeper and part of
+that is getting comfortable with objects and we need to get comfortable with
+objects because one of the main paradigms we're going to use going
+
+00:35
+forward to help us bring structure and organization to our code is something
+called object oriented programming right object oriented programming
+and so to get there we have to feel really comfortable with objects and so
+we're going to have quite a few quite a few classes on
+getting through apis because with apis we can play with our objects and then
+once we're feeling really comfortable we'll introduce object-oriented
+programming we'll get comfortable with this like really important coding
+paradigm and then we'll move on to the back end
+uh we do have to do something important thank you for uh mentioning it in in
+chat we haven't done the uh the newsletter raffle yet the newsletter raffle yet
+and so i'm just going to go ahead and grab all these twitch names
+slot remember folks it pays to open the newsletter
+
+00:36
+pays open news if you're not on the newsletter exclamation point newsletter
+follow that link sign up for the newsletter
+so many folks have won t-shirts and and amazing raffles from the newsletter
+so for those that opened up the newsletter and filled out the secret
+form that was in the newsletter today this one's for you
+i see folks trying to fill it out now you know what you're in here if you
+filled it out right now you're good still all right so
+let me pull this name picker here all right we had 1500 people that entered it
+uh when i met before i mentioned it fifteen other people that meant that and
+entered before i mentioned it remember it pays to open the newsletter folks
+sometimes there's a secret there's a secret raffle in there sometimes they're
+
+00:37
+not i don't know you gotta open it you gotta see also all the goods come in the
+newsletter first so many raffle bots in chat nah they're
+not raffle bots they're just really eager people [Laughter]
+alrighty paddy d9 paddy d9 congrats on your t-shirt i will send you a
+whisper here on twitch uh everyone that won raffles up until today
+you should have received a whisper from me on twitch uh and for folks that had
+even older ones that were mod males you should receive the message from me
+already if for whatever reason you won something and you have not heard
+from me send a mod mail please but you should have heard from me already uh
+
+00:38
+petty d i'll get to you uh after stream cool
+awesome and like i said we got a couple other raffles today too folks
+and uh we're gonna get to our top of the hour break in just a second so like i
+said we're building up to this idea of using objects right of using objects and
+what are objects we still got project letters and things
+like that to announce as well yeah what are objects
+everything exactly more specifically though we know that everything in
+javascript really boils down to objects but what are they um
+they are collections of variables and functions i like that
+but they're collections of variables and functions
+but when these variables and functions are tied to an object what do we call
+
+00:39
+them what do we call them yeah we call them properties and methods
+so if you know what a variable is and you know what a method is
+sorry if you know what a function is you know what a variable is you know what a
+function is and you combine them into one thing you're dealing with objects
+right an object have a bunch of variables a bunch of methods that are
+tied to it but we call them properties and methods all right now
+i like to think of objects when it comes to physical objects and so what i would
+love for us to do is to take our break and then when we come back we're going
+to think through some physical objects we're going to think through
+how to build out a constructor again we're gonna see all the things that we
+got into with objects beforehand we're gonna do that we're gonna take a break
+we'll come back we'll start with our physical objects and then our goal is to
+get to building a constructor together today and then moving on to apis
+
+00:40
+all right folks let's go ahead and bring up a five minute timer
+remember don't dm me dm me won't get to me if you want something and you haven't
+heard from me a mod mail please not dm mod mail
+all righty folks put in five minutes on the timer here
+alrighty if you're able to please get up move around
+
+00:41
+hydrate and i will see you in five come on now
+well we added two minutes to the timer so let's uh when this gets to four i'll
+change it to six and i'll run some ads as well [Music]
+more our place shirts maybe we'll probably do another drop right all right
+i'm gonna change this to six minutes then we're gonna run some ads and i'll
+take my break as well boom all right folks see in six minutes two
+
+00:43
+
+00:44
+
+00:45
+
+00:47
+minutes was add it to the timer and run some ads boom in a bit [Music] so
+
+00:48
+bob was on strike so simba unfortunately just had a procedure
+and so he's like completely out of it he's home but he's completely out of it
+and so i was just laying with him and i forgot to put bob up
+he's doing all right yeah all right folks welcome back let's get into it
+alrighty so we had two questions how do i submit the homework no homework to
+submit tonight uh no no homework to submit tonight
+oh scotty from strange parts raided and we were on a break get out of here
+strange parts hey thank you for the raid hope you are doing well i hope your
+stream went well hope you're feeling better too hey
+
+00:49
+no worries thank you for being here thanks for the raid welcome welcome
+uh yeah we had a lot of folks that really enjoyed coming and hanging out
+with you the other day and seeing you i hope you finished the the
+the wood rack that you were working on but uh thanks for stopping by raiders
+thanks for the raid hope your stream went well alrighty
+see this is the best week ever so we're we're wrapping up the best week ever and
+so come on now change prices hands down i'm gonna i'm gonna say one of like
+definitely my favorite youtube channel [Laughter]
+like heads down my favorite youtube channel uh i've i've watched all your
+videos like way too many times so i appreciate you coming by thank you
+for bringing the crew and uh hopefully we can stop by your way again soon
+thanks for the raid all righty so we we had two questions
+that i saw as i came back uh let me see actually let me put the
+
+00:50
+youtube channel in let's see let me pull it up real quick here we go
+boom i'll put it in chat if you have it definitely subscribe
+some of the best videos on youtube hands down cool alrighty
+we had two questions that i noticed as we were coming back uh one was
+one was homework uh nothing to submit for the homework you had to do it but i
+don't need you to submit anything for it and going forward almost all of our
+homework will be submitted on github so if you haven't watched the uh
+the github course or the class that we did that was sponsored by microsoft make
+
+00:51
+sure you catch that video on youtube make sure you watch it that way you feel
+a little bit more comfortable with git and github and then next week we're
+going to walk through submitting the actual homework on git and github
+yeah so the idea here is that you will eventually stop using like the google
+forms and weird stuff like that and we'll submit all of our work on getting
+using git and submitting it on github and so if you haven't caught up with
+that class yet please make sure you do maybe re-watch it just so that you feel
+more comfortable with it practice pushing up some stuff to github and then
+we'll start using that to submit for class again cool the other question uh
+the other question i saw is what are some practical uses of objects and so
+we're going to see that today one of the beautiful things about
+objects is that they're used all throughout javascript whenever you're
+trying to build anything you're going to be using it in a series of a bunch of
+
+00:52
+objects right and so we're going to eventually get to a way of thinking
+about anything that we're building that's going to be in an object-oriented
+approach right so right now it doesn't have to be something that's like a a
+wild connection that you have in your brain yet we're still kind of gathering
+all of our tools and once we have all of our tools we're
+going to use these tools to not only build stuff but to kind of think about
+our code in a very specific way and so yeah it seems a little weird we're
+building cars and tony hawk pro skaters and other weird stuff but eventually we
+have all these tools and we understand the mechanics behind them then we can
+kind of change how we build going forward so that's the goal and so
+it really is just a collection of properties and methods of of of these
+kind of functions and variables but whenever we're building anything we can
+think about those things in terms of a collection of variables and functions so
+
+00:53
+whether it is a board game or a a even kind of like building out some of
+the core functionality of our web applications it's all going to come down
+to objects at the end of the day so give me a little little faith to get
+there we need a little bit more tools in our tool belt i don't like jumping
+straight to that because i think it's too hard to take it all in in one go but
+we're building up to it we'll get there cool for now let's worry about like what
+an individual object is right when an individual object is and that individual
+object we can think by starting off of just a physical object and so
+the object that we we've talked a lot about during class is just a stopwatch a
+stopwatch is great because it does have a really strong collection of properties
+and methods what are some properties of the stopwatch we have on screen
+
+00:54
+yeah color property uh a brand property a shape property
+a material type property that's cool we haven't talked about that one before um
+a weight property that'd be a cool one a model property
+even like a minute seconds and and milliseconds property right
+and so notice how we're all talking about the properties
+and then all these properties have values so we have the
+color property that would be the value of black
+we have the shape property that would have the value of round we would have
+the brand property that would have the value of accusplit we would have the
+model property which would be the value of pro survivor we would have the
+minutes property which would have the value of three so we have all these
+properties and their associated values that make up this one object but this
+
+00:55
+object also has functions or methods actions that it can do what are the
+methods that are tied to this very physical stopwatch object
+yeah we can kind of see some of the big ones right there start and stop and
+split and reset right all these things that the stopwatch can do
+the actions it can take right so that start that stop the mode the split the
+reset uh we can we can utilize all those things uh to
+to to make our object be able to do stuff right and so whenever we're
+thinking about any object it can be a stopwatch it can be a car
+there are going to be properties and and methods that we can tie to it and
+that's going to keep carrying on through our code as well
+we're going to start to see these things today when we get to our apis our apis
+are going to have these properties that we can use and start to build with them
+and so we'll get more and more kind of usefulness out of this as time goes on
+
+00:56
+all right how have i created a stopwatch on this line right here
+i created a stopwatch object using what type of notation here yeah
+literal notation uh when we're we're literally creating
+the object because we've used the curly braces directly
+now i've added the very first property to my object here using what type of
+notation yeah dot notation exactly so i've literally created an object on this
+line and then i added a current time property that had the value of
+and then i added a tell time property right a tell time property that
+sorry not tell time property a telltime method how can i tell that this is a
+
+00:57
+method yeah it's assigned to a function so i can see that this is a property
+because it's set equal to any other data structure that we've
+learned and we can tell that this is a method because it's set to a function
+beautiful and we see that this function is very simple it takes in a value and
+then it will say the current time is that value
+using a template literal and then down here
+we are calling that telltime method and how can i tell that i am calling the
+telltime method how can i tell that i'm calling this telltime method
+yeah the parentheses exactly i can see that there are parentheses and i can see
+that i'm passing in an argument that is using the current time property of the
+stopwatch object so i'm literally passing in 12 here
+
+00:58
+right i'm literally passing in 12. all right passing in 12. and so
+we can go ahead and say that this is kind of just the number 12 there because
+stopwatch current time was 12. so we passed in 12
+we passed it as a parameter and we wind up seeing the current time is 12 print
+it to the console beautiful alrighty all right we had this let's code of
+objects lost galaxy so let's go ahead and take a look at it real quick and
+we we've created a dog object before let's go let's check what's it what's a
+different object that we could create not not not a dog we've already created
+a dog what's another object that we could create
+pizza i like pizza pizza's a good one so let's change this to create a pizza
+
+00:59
+object that has four properties and three methods and i don't want you to use
+a constructor wait is it just it's just coming through
+the notification is just coming through strange parts thank you again for the
+raid uh thank you for bringing your crew over
+here uh thank you for all the content you put out i love it all right
+so this is in the objects lost galaxy folder and if you need the materials maybe
+you're new maybe you came here with a raid uh you can get all of our materials
+on discord so if you do exclamation point discord you agree to our rules
+there is a follow-along materials channel that has all the materials that
+we're going to be using including our apis today so you definitely want the
+materials if you're going to be hanging around for a little while longer so i'm
+going to put just like like three minutes three minutes on the clock here
+even if you've got this down pat really try and build this out go go for the win
+
+01:00
+here three minutes on the clock you got this
+you're creating a pizza object that has four properties and three methods
+yeah you gotta agree to the rules and then you'll see a follow-along materials
+channel that has all the materials in it for today
+yeah it said dog we already did dog does let's swap at the pizza this is review
+
+01:01
+all right folks two minutes and we're gonna go over it together don't worry
+what does pizza do exactly oh i like that pizza toppings as an
+array i think it's a cool idea i was charged a couple times yeah
+they'll sort it out the stream labs handles it pretty well
+i'm sure that eventually it'll it'll clear uh if not hit up stream labs
+they're pretty good about supporting the folks
+
+01:02
+on my drink i'm drinking some some coffee today just some instant coffee
+all right 45 seconds and we'll go over it together
+instant sacrilege sometimes that's all that's all you got time for it's a long
+day i drink coffee at this time of day i'm
+up forever there's there's one beautiful thing about being bipolar and taking
+medicine that knocks you out it doesn't matter what i do as long as i take my
+meds i'm out the best part of adhd coffees has no
+power at night so that is actually interesting
+coffee ain't got nothing on seroquel exactly all right folks come on back
+
+01:03
+let's go over this together i always like the joke one of the the
+very first time i got put on um i don't know i think it's not joke it's
+just a story uh the very first time i got put on adh
+medicaid adhd adhd medication i took it and i took the best nap of my life
+like i took my adhd medication i was ready to like get [&nbsp;__&nbsp;] done
+and i just took the the best nap i've ever had in my whole entire life and i
+found that that's like a pretty common thing like if you get folks that have
+certain types of attention issues they take the the adderall or whatever and it
+just helps them like get good sleep so the complete opposite of what i was
+expecting but it was it was good took a glorious nap your first day hey i
+love to hear it vlog exactly yeah all right let's create this pizza object
+
+01:04
+so we're going to use literal notation to create it so we'll say let pizza
+equal and then we have our curly braces beautiful
+now what are some some so what are some properties
+what are some properties that our pizza could have size toppings
+and crust let's go and do pizza size equals large cool pizza dot toppings
+equals and we can use it we can use an array here that's a really good
+suggestion to use an array so i'm going to do spinach and i'm going to do um
+onion and i'm going to do um jalapenos yeah we'll stop there
+
+01:05
+or banana peppers but not i could do banana peppers too can never spell banana
+banana peppers there we go cool all right so we
+got our size we got our toppings what's something else we could do
+peppercinis no i can tell i can tell you're not domino's gang when you say
+pepperchinis that's some papa john's [&nbsp;__&nbsp;]
+crust we said crust exactly crust what type of crust do you all like
+say thin crushed you're wrong stuffed hell yeah there you go stuffed crust
+[Laughter] uh so that's four properties we need one
+more property one more property uh sauce heavy sauce always heavy on the sauce
+
+01:06
+heavy on the sauce for sure cool oh we gotta add garlic too we
+forgot garlic on the topic that's the best topping
+there we go beautiful all right so we got our four properties and we need
+three methods as somebody said excellently in chat what can pizza do
+that's a good one made it delivery time it's part of the pizza i say console.log
+
+01:07
+calculating uh pizza dot [Laughter] burn mouth oh yeah buddy [Music]
+there we go all right and what's the last one
+let's see what's one more we can do frisbee [Music]
+i have no idea i spell frisbee there we go frisbee equals
+i'm just gonna say console log there we go nice
+all right here we go we got our pizza with four properties three methods
+
+01:08
+they're looking beautiful we got a size topping crust and sauce property an
+estimated delivery time burn mouth and frisbee function um
+now if i wanted to create another pizza what would i have to do copy and paste
+exactly if i want to make a whole other pizza okay um all right
+
+01:09
+all right so now we're pizza two pizza two and now we can change it up small
+people got mad with the banana peppers or remove the banana peppers
+a lot of people said thin crust i don't know where how your mama raised you but
+thin crust i guess and then uh heavy people just like normal sauce
+all right so so new york crust is not thin crust
+right like new york style is not thin that is that correct like to me new york
+is foldable but not thin i think thin is like something new that chain
+like chain restaurants made up to like serve you less food
+i love a good foldable slice but i think thin is different
+
+01:10
+all right so what all this all this humming and hauling was if i wanted to
+create another object i would literally have to like copy and paste right did i
+not copy and paste what there we go not only did i have to copy
+and paste and change everything if i wanted to keep making more pizzas i
+would keep copying and pasting over and over and over again right and each time
+i copy and paste it i'm taking out more memory
+and this code is not very what this code ain't what code ain't dry
+we online we can't be right and dry we can't be writing wet code anymore we
+online can be writing wet code it's just it's just not dry
+so how can we solve this problem of wanting to create a lot of pizzas
+like we like domino's comes through they're like leon pull up we need you to
+
+01:11
+make a bunch of pizzas what can we create that'll enable us to
+make a bunch of pizzas a constructor exactly a constructor it's
+a pizza machine right it's a constructor the constructor will enable us
+to make as many pizzas as we would like and so we saw this idea of a constructor
+already we tied us the idea of wanting to make a
+bunch of cars coming out of a car factory but we could do the same thing for any
+type of object whether you want to be a pizza or a car factory so
+let's go ahead and keep that pizza machine in the back of our brain because
+we're going to build a constructor that is for our pizza so let's keep that
+pizza machine in the back of our brain when we get to building a constructor we
+will use the pizza to build our constructor but let's look at the
+constructor syntax first and then we'll build our constructor together so
+
+01:12
+here we have a constructor to make a car the idea is that i can
+write my constructor once i can write my constructor once and then
+i can make as many cars as i want eventually i'm going to make my own
+constructor for my pizza that way i can make as many pizzas as i would like
+now somebody asked like why like why well one
+is that we don't have to keep rewriting code over and over again
+but eventually we also get to unlock some secrets of javascript that
+prototypal inheritance that we've talked
+about in the past when you're using your constructors you get access to that we
+get eventually access to things like the the prototype chain so we can write
+exactly more modular code that we can write code that takes up less memory we
+can take rate code that's more efficient but to get there we got to understand
+what a constructor is and then eventually what the prototype is so
+
+01:13
+let's start with this idea of wanting to create a bunch of cars from this lovely
+car constructor you can see here that i am creating a function
+and that function starts with a capital letter what the heck does that capital
+letter mean yeah it's a constructor it doesn't give it any special powers
+or abilities it just says hey the the function that's about to follow is a
+constructor when you use it with this new keyword you can get a what
+when you use the constructor with the new keyword you can get a what
+yeah you can get an object an instance of that object yeah you can get an object
+
+01:14
+you get a car you get a car you maybe if if if if 100 devs turns into a
+million dollars maybe we're raffling cars and not t-shirts we can dream can't we
+all right [Laughter] so here we have this idea that we're
+going to create a new object from this make car constructor
+right this make car constructor uh we could go ahead and um
+we can create as many cars as we would want from this constructor but instead
+of having to copy and paste all of these lines every single time we
+wanted to create a new object we only have to do new and then call the
+constructor new and call the constructor and so we can turn
+making a hundred cars into a hundred lines instead of a hundred times this
+
+01:15
+many lines of code all right cool so when we go ahead and we use this
+constructor notice that we've passed in four what what are what are these called
+for what yeah we're passing in four arguments and
+those arguments going to be placed into the parameters of the constructor so
+honda finds its way into car make civic finds its way into car model
+silver finds its way into car color and four
+finds its way into number of doors so wherever i see car make
+it's now actually honda wherever i see car model it is civic
+wherever it is car color it is now silver
+and wherever his number of doors is now for okay
+also the object that's coming out of it right the object that's coming out of it
+also gets this honk method the beep
+
+01:16
+[&nbsp;__&nbsp;] uh it also gets this lock method
+locked and the cool thing is whenever you see this dot doors what is this
+referring to what is this referring to yeah the object itself so how many doors
+would this object that we just created have if we ask for this doors how many
+are we getting yeah we're getting four we passed in four
+number of doors was four so this that doors is for remember this is referring
+to the object itself cool now if we want to create a whole new car
+well guess what we don't have to sit here and type all this crap out again we
+can go ahead and just call the constructor again
+don't forget our new keyword and we can pass in all these values again
+
+01:17
+out will come out of this car what will come out of this out of this constructor
+will be a car that has the following properties it'll have a make property a
+model property a color property a doors property and two methods hunk and lock
+so let's go and take a look at this i'm going to grab this real quick and
+i'm gonna put it in my terminal my console sorry and
+now that constructor function is in memory
+and i can go ahead and let's just grab the roadster line boom let's grab it
+yoink there we go so now we have created a tesla roadster and if we ask for it
+you can see that it has a color property of red a
+doors property of two a honk method how can i tell that honk is a method here
+
+01:18
+how can i tell that hunk is a method here yeah i can see that it's like the
+parentheses and if i open it like that f parentheses let me know that's a
+function that's there same thing for lock is let me know there's a function
+there so it's a method it's tied to an object we say there's a make property of
+tesla and a model property of roadster i can even ask for these things i could
+say like tesla roadster dot make and get tesla back
+now there's one other really cool thing i can see what about this tesla roadster
+when i asked for all the information that was stored in memory about this
+tesla roadster was something that i noticed about where it came from what
+can you see where it came from yeah we can see the constructor the
+factory that it came out of and we can see that it's coming from the make car
+factory right we can see that this is a an object that comes from the make car
+
+01:19
+factory any car that i create out of this constructor we will be able to see
+that it comes from the make car constructor and since it comes all these
+objects come from the make car constructor what's a cool thing that
+they all share what do you what is any car that comes
+out of this constructor share [Music] people will be watching the videos back
+people will be doing the homework yeah they get grandma they get the
+prototype right remember the object can always check itself for
+properties and methods but if it does not have that property
+method it can go up the prototype chain the inheritance chain to find those
+properties and methods and once the object is done checking itself
+
+01:20
+where is the first place it looks to find those other properties and methods
+where's the first place it goes yeah it goes to the the mama constructor
+exactly it goes out to the constructor function it checks itself
+then it checks the constructor function and eventually can go all the way up the
+prototype chain until it gets to the what until it gets the what i need to make
+that like i need to like oh that's a good project idea would it
+be an amazing project like when i do this it does like the more you know across
+the stream that's i can do that i can detect this hand i can detect my hand
+using microsoft's cognitive apis uh they're a wonderful set of apis that
+enable you to uh use machine learning at your fingertips
+
+01:21
+without having to be a machine learning practitioner
+so maybe maybe that's something we'll work on
+all right so yeah we would check the object itself right and then
+uh we could check the object itself and then we could
+look at the constructor's prototype see if there's anything there if not we keep
+going up the chain and you hear me referencing grandma because that's kind
+of how it really works let's say i didn't have a car
+i could ask my mom for a car if she didn't have a car she could ask grandma
+for a car and if grandma has the car well guess what i get to use those
+properties and use that car it's the same thing with our objects when it
+comes to javascript alrighty uh one of the things we've
+noticed is that if we ask for our roadster like let's look if we go ahead and do
+
+01:22
+um tesla roadster i think it's still memory yup if we go and do like tesla
+roadster dot uh bluetooth uh we can see that we get undefined we
+can see that the tesla roadster does not have bluetooth and so what we can do is
+we can actually update the make car prototype so make car prototype bluetooth
+now i can do this and the next time i ask
+for tesla roadster bluetooth i get true what did the tesla roadster check first
+because now when i do tesla roadster.bluetooth
+i'm getting true what did it check first it checked itself first
+it did not have bluetooth so then it checked the prototype and since we just
+gave the prototype true when we asked tesla roadster that
+bluetooth it returned true it didn't have it
+itself right it didn't have it itself so it went up to the prototype
+
+01:23
+i could do this though now where did it get true from itself i added bluetooth
+to the object itself so when tesla roadster went and checked bluetooth
+right did it have bluetooth yes it did that tesla roadster now had
+its bluetooth so did it have to go up the prototype no it just stopped
+let's create another car from the um from the mate car prototype let's go
+ahead and say um it's a cool car i'm gonna give me a car
+
+01:24
+because i get streamer brain nsx frs tacoma
+i saw a rivian for the first time it's pretty dope r34 gtr
+prius there we go prius that's what i'm looking for
+so we're going to go ahead and do uh toy yoda prius sometimes i just have fun
+said apres equals new make car and we have to pass in the four properties
+so the four properties we have to pass in are the make so this is uh toyota
+you know what makes a prius cool people don't know what makes a prius cool
+is that you can leave the ac on all night long so you can like if you're
+
+01:25
+going to live out of a car the prius is the one to do it
+i was really into living in my van for a
+while it's a story for another day but i always wish i had air conditioning
+yeah you can leave ac running the whole night because it uses the battery not
+gas and in the middle of night if the battery gets too low the car will kick
+on just for a few minutes top off the batteries and then ac starts blowing
+off the battery again toyota and then car model uh prius
+and then we wanted to go ahead and say car color
+and we're gonna go ahead and say gray and then we're going to go ahead and say
+number of doors for cool so now if i ask for toyota prius
+and i ask for bluetooth you can see i'm going to get true but
+let's just get the object back first toyota prius let's look at it
+
+01:26
+does toyota prius itself have the bluetooth object
+can we get 100 devs bumper sticker i have a i have a no bumper sticker policy
+that's when you jump the shark as a community yeah there's there's no there's no
+there's no bluetooth property on this prius wait a minute
+if you look at tesla roadster it has a bluetooth property
+why does the tesla roadster have a bluetooth property of true
+but the new toyota prius we may not have it because you added it leon [Laughter]
+
+01:27
+because i did i added it i added it directly to the the tesla roadster
+i used dot notation to add bluetooth to the tesla roadster
+but we can see that doesn't change the constructor still any any car coming out
+of this constructor no longer doesn't have that bluetooth property so when i do
+toyota prius dot bluetooth where is it getting that bluetooth
+property one more time yeah it's getting it from the
+constructor's prototype the prius checked itself it did not have bluetooth
+it went up to the prototype uh uh sorry i went out the prototype
+chain to the to the make car constructor that make car
+constructor did have the bluetooth property so toyota prius has that
+
+01:28
+property how about if we do this though doors dot to string all right
+doors we know toyota prius does have a doors property
+um and it was a property of four right and we wanted to go ahead and grab
+we wanted to grab that number that door that was a number
+right and turn it into a string did toyota prius have a tostring method
+it doesn't matter if it was already a string or not stay with me no
+twitter prius did not have a two-string method
+did the make car constructors prototype have to string nah
+so where the heck did it come from it went all the way up the prototype
+chain exactly to the global object prototype grab two string off of there
+
+01:29
+and it was able to use it went all the way back down the prototype chain and
+since the global object prototype the global object prototype since it had it
+we were able to use it nice thanks grandma alrighty now
+let's go ahead and code our constructor i want to open up we have a
+a set of uh an object's constructor fun is the name of the folder
+objects constructor fun is the name of the folder objects constructor fun
+i want you to create a constructor that has four properties and three methods
+right four properties the three methods and i want it to be our pizza
+
+01:30
+constructor so make a pizza constructor with four properties and three methods
+we're gonna put three minutes on the clock
+get as far as you can go and then we'll go over it together
+larry phil this is class 26. join the discord join the ketchup crew
+never too late all right folks three minutes on the clock you got this dig deep
+
+01:31
+we're building a constructor that has four properties and three methods
+ziggy they are they're the go to follow materials channel they're there
+
+01:32
+did i label it wrong on discord [Music] see no it says 26. welcome nicki's
+glad you found us got quite a few folks from colombia in the community
+40 seconds left folks you got this as far as you can
+are objects common in front of development yeah they're common front
+end back end we're going to use them across our stack as we kind of continue on
+
+01:33
+yeah we'll see the class syntax in a few seconds i like it too
+why is it called a stack stack is a pretty common term across
+programming but also it just refers to all the things you need to get your job
+done you have a bunch of these different
+tools that you throw in a stack which is a data structure but
+all right folks come on back come on back let's take a look at this together
+alrighty so we wanted to create a constructor with four properties and three
+lovely methods and so let's go ahead and create our constructor
+and i was going to go ahead and say function and we're gonna call this a pizza
+machine uh but what do i need to change about my function name here
+
+01:34
+what do i need to change about my function name here yeah it needs a capital p
+remember that capital p doesn't really do anything it just lets us know right
+it's just it's just between us see me and you that that's a constructor
+all right cool and um we're going to have a couple
+different properties let's look what our original properties were
+we had size toppings crust and sauce remember that for me size toppings crust
+and pasta size toppings crust and sauce all right there we go
+so now i'm going to go ahead and set up all of the properties and what keyword
+do i need to use so that the objects that come out of our pizza machine have
+those properties what keyword do i need to use yeah this
+
+01:35
+this dot size i'm going to set it equal to size
+and i think a lot of times when i do this people get kind of confused
+this right here is creating the property on the object
+like when we look at our objects and they have like the size
+property and it has some value that comes from here
+right this.size is giving the actual object the property of size however this
+right here is just a what on the right hand side is just the what
+just a parameter is this the parameter yeah we could call it we could call it
+whatever the heck we want we could call it um rainbow
+unicorn and it wouldn't matter we just have to call it rainbow unicorn here
+it's just common practice that the this that's binding the property to the
+
+01:36
+object and the parameter are typically just the same and so we'll just always
+kind of keep it the same but i want you to make sure that you know
+that one is a parameter and one is actually binding that property to the object
+cool so we'll do this dot size equals size and we'll do the same thing this dot
+toppings equals toppings and then we'll do this dot cross equals crust
+and this dot sauce equals sauce cool alrighty next we got to go ahead and we
+got to add our methods so what were our methods that we had let's see
+
+01:37
+delivery time burn mouth and frisbee all right let's go ahead and create those
+let's go ahead and create those so we'll go ahead and do our lovely this dot
+estimate it the livery time and we'll set that equal to a function
+and that function will be a console log and we'll just say calculating for now
+calculating cool next one was burn mouth this dot burn mouth equals a function
+
+01:38
+and that function we'll just stay at console.log and we'll just put in there
+there we go and then we have the last one this dot
+can't believe i keep forgetting it frisbee
+and let's go ahead and create this as a function as a console.log that is
+there we go cool alrighty now let's go ahead and create a new pizza let pizza
+equal and we can go ahead and what keyword do we need to create our first pizza
+new and we can use our pizza machine we can pass in the size uh large
+
+01:39
+toppings we can pass in as an array i'm just gonna say spinach and a garlic
+the go-to's as one might say and then we're gonna pass in crust which will go
+deep dish dust time just to show chicago some love and then sauce
+we're gonna go for sauce what are we feeling for sauce we're saying alfredo ugh
+barbecue sounds kind of good though i'm gonna say white sauce
+i don't know do you all have like white pizza where you come from that's like um
+it's like a white sauce with like tomatoes and banana peppers on it
+
+01:40
+that's that was always the best pizza it's not alfredo though it's not alfredo
+sauce that's something different this is this is like a really nice
+you're from philly we have a place called celebrities they have the best
+white pizza i've ever had in my life cool all right so we got a new pizza let's
+save this and let's go ahead and open it in the browser and see how we're doing
+so let's open it in the browser wrong browser
+boop all right here we go let's open up the inspector
+and we should be able to see a pizza cool great we can see that the pizza is an
+object that was made from the pizza machine constructor we can see that it
+has a burn malfunction a crust an estimated delivery time method a frisbee
+method sorry mouth as a method sauce property of white a size property of
+
+01:41
+large and a toppings property that's an array look at this go look at us using
+all of our different data structures look at this go all right
+it's clicking all right so i like to hear seen a lot of that tonight oh it's
+finally clicking hey let's go turn up congrats thank you for hanging out for
+it to start clicking a little bit all right so we created our pizza
+uh what if i wanted to we would what have we forgotten
+on our constructor what what could we add to our constructor so that all of
+our pizzas had something what could we do what what what is our constructor
+missing cheese type oh big facts so let's go ahead and do pizza machine
+dot prototype dot cheese or chess hanging up
+
+01:42
+excuse me how fancy you are and um let's go ahead and start by saying false
+those be true or false that's what we'll do we'll say true or false cool
+and so now if i ask for pizza dot chess you can see it's false so did pizza
+itself have ches no it had to go up to the pizza machine
+prototype to get that chess and see that it was false beautiful
+um somebody asked during office hours and i thought it was a really good
+question so i want to make sure we take a second to mention it while we're here
+eventually not now this is too advanced for right now
+but eventually we can use this prototype to our advantage right now
+let's say i'm domino's how many pizzas do you think domino's makes a day
+
+01:43
+that's like a consulting interview how many pizzas does dominoes make a day
+do you think y'all guess i'm wild all over here
+thousands maybe a million i don't know i don't know let's let's just say there
+let's let's just let's let's let's throw prices right rules out the
+window and let's say a hundred thousand pizzas a day hundred thousand pizzas a
+day and so if we were building a pizza machine
+and we made a hundred thousand pizzas and we gave each one the frisbee method
+how many google says 1.5 million pizzas a day all right all right
+so let's say 1.5 million pizzas and every single pizza that comes out of
+our constructor has that frisbee yeet method
+
+01:44
+how many methods do we have stored in memory if every pizza that came out the
+constructor had a frisbee method how many frisbee methods would we have in
+memory 1.5 million because every single object that we created
+would have that method if we look if we look at pizza right now
+we can see that it has its own frisbee method
+that frisbee method's not coming from the prototype that's the method that's
+on the frisbee that came out of that constructor
+right it got it from the constructor but it's not sitting on the constructor the
+object has that itself right the object has that itself that's
+just the name of where it came from that's not actually the prototype that
+
+01:45
+pizza has its own frisbee method so if we made 1.5 million pizzas it's
+not inheriting that we just made 1.5 million pizzas that all had their own
+frisbee method which means we have 1.5 million frisbee methods in memory
+what would have been a lot better for us to do if we knew we were going to make
+millions of pizzas it would have made a lot of sense for us
+to put it on the prototype right that way the the pieces that got made
+weren't holding on to their own version they could all share one version and so
+we just lost if we did that if we put it on the prototype we 1.5 million methods
+come out of memory and we can just use one that's on the prototype
+so eventually we can start using these objects to do stuff that makes our code
+more efficient that makes our code work a little bit faster or use a little
+
+01:46
+less memory but like i said that's that's for that's for the future but i
+know some folks were thinking about that
+and it came out during office hours so i wanted to mention it again you know
+why wouldn't you do that with every method maybe you do maybe we'll get
+there maybe we will do that [Laughter] cool all right before we take our break
+uh i want to show something real quick uh actually let's take our break when we
+come back from our break we're going to look at quickly the class syntactical
+sugar and then we're jumping into apis and we'll finish up class by playing
+with our apis working through our apis when we come back from our break yeah
+we'll do a raffle so let's take five minutes on the clock cool
+
+01:47
+go ahead and press play here i'll see you in five minutes if you're able
+please get up move around hydrate this last hour of class is gonna be great
+we're gonna have a lot of fun with the apis we're gonna get a raffle in but
+please if you're able to get up move around and i'll see you in five
+
+01:48
+i'll bring back bob for you and that's what you want thank you noor [Music] so
+
+01:49
+
+01:50
+
+01:51
+
+01:52
+[Music] so do uh [Music] all right folks come on back come on back all right so
+we saw the traditional constructor and with the newest versions of es6 plus
+
+01:53
+when i say es6 plus what the heck do i mean yeah so there is a specification for
+javascript kind of like the rules for how javascript should come
+together kind of the the the the guidelines for how javascript should
+come together and that's called ecmascript and those kind of versions or the
+versions of this get updated every so often and so in 2015 there were pretty big
+changes to the standard and so we call anything that happened from like 2015
+forward es6 plus and what we mean is like all the big changes forward that
+happened and so one of those big changes were they added some syntactical sugar
+to stuff to make javascript a little bit more digestible for folks coming from
+other languages right and so one of the things they did is what we
+have on the screen here which is a class books coming from other object oriented
+
+01:54
+languages we're very used to having classes but prototypal inheritance is a
+little bit different and so to make them feel comfortable
+they gave them classes which kind of obstructed away the prototypal
+inheritance it's still there it's still underneath the hood it's just a little
+bit looks a little bit different so feels feel a little bit more comfortable
+so going forward we won't write our constructors using like the older syntax
+you'll see me using the class-based syntax to do it and there's really only
+uh one real difference that you kind of see it break down into
+two main sections the constructor area and then your actual methods so instead
+of doing like this dot honk equals and then a function you give the name and
+your parentheses and your curly braces like normal and that's the method so
+this make car constructor has the constructor bit here just like
+normal and then our methods follow after so it's very similar to the constructor
+
+01:55
+that we're used to just a little bit of sugar to make a little bit different
+somebody said who makes the changes uh there are committees or like boards that
+make changes to these languages whether it is html css or javascript and you can
+actually like run for office for some of
+them right um every so often people have
+to be like voted on to the to the to the teams
+and so it's a big deal like if you get really into this stuff that you want to
+help push the specification forward and then like there are people that are like
+in charge of saying like yes or no and they all vote kind of like a board for
+javascript basically um so that's pretty cool all right let's do a raffle
+it's not open yet let me go ahead and open it first um all righty not yet
+
+01:56
+all right not yet all right here we go you can do
+exclamation point raffle to get in excretion point raffle again this is for
+learn with leon swag let's do one a minute
+here just to give everybody a fair shot exclamation point raffle to get in
+you got this get in get in you two could be the lucky owner
+the the the merch cell's out folks this might be the only way to get it [Music]
+how are we doing with the store let's see if there's still anything in there
+[Music] nope merch sold out folks merch sold out that's wild i love it
+
+01:57
+as you get your merch you gotta you gotta rep it
+throw it in the discord showing us that you got it tweet me
+alrighty folks come on back alrighty let's go ahead and pick the
+winner i'm gonna close the entries here and i'm gonna pick the winner in three
+two one jasmine hey congrats on the win jasmine hey congrats
+on the win uh i will get a message your way here you're gonna whisper for me
+here on twitch so keep an eye on your whispers and i'll reach out to you after
+stream cool i'm gonna go ahead and complete this one
+and make my little note over here cool well we're gonna do another raffle
+
+01:58
+before we do our raid this evening so still another chance to get a lovely
+lovely 100 dev swag package cool all right apis what the heck are apis
+chat what what the heck is an api we haven't announced the project
+portfolio winners yet we haven't done that yet what are apis oh
+a lot of things over here application programming interface app what's that mean
+application programming interface what huh a simple interface
+
+01:59
+for some complex action simple interface or a complex action so i have
+in front of me i can't unplug it i'll use the different
+let's use let's use um my lovely uh pokemon pikachu 2
+who's currently mad at me i have to shake jacob so he doesn't get mad
+i have this lovely pokemon pikachu 2 and if i want it to turn this
+off what could i do what's the most primal thing i could do to turn this off
+i could smash it i could just throw it on the ground sometimes pikachu gets to
+my nerves i could just smash it break it and it would turn off
+maybe i could rip the battery out and it would turn off
+but uh that's probably not what the makers of this want me to do
+
+02:00
+they probably want me to use the interface that they have given me
+and press the right button to turn this on and off so
+we could have done something extreme like smashed it or ripped the battery
+out but the makers have kindly given me an interface
+and that interface is the button to turn it on and off so
+we can think of this turning on and off as a very complex action there's a lot
+of stuff that has to happen for this to turn on right the button has to be
+pressed power has to fill capacitors the the power has to leave the capacitor go
+to the lcd screen that screen then needs to display the right pixels to see
+pikachu in all of its glory that is a very complex action and turning it off
+is the same thing we have to like power it down the power has to leave the
+
+02:01
+screen has to turn off all these things have to happen
+for this to turn on and off and i don't have to know how any of that works
+i don't have to know what's happening from the
+power leaving the battery to powering the screen
+i just press a button or i give it a shake and that's my interface to turn it on
+right that's my interface i see a lot of people throwing out
+abstraction you're right we're going to get there right and so for me
+i like to think about this in a another way too i had a simple interface that
+turned my pikachu on and off but i also like to think about a restaurant
+a restaurant when i sit down the restaurant gives me a simple interface
+that enables something complex to happen in the kitchen what is the simple
+interface that a restaurant gives me that enables me to have something
+
+02:02
+complex happen in the kitchen yeah a restaurant can give me a menu
+and i can select what i want off that menu that menu is my interface and when
+i select something off that menu i can then have something complex happen
+in the kitchen and so when i select my let's see what do i want pizza right
+we'll be going with pizza when i select my pizza off the menu
+i don't actually know what's happening in the kitchen i don't know how long
+they're stretching the dough for i don't
+know exactly what's in the sauce i don't know exactly what type of vegan cheese
+they're using i don't know where the spinach came from right i don't know
+description i don't know what's happening in the
+kitchen i don't know if they're washing their hands exactly i don't know what's
+happening in the kitchen all i know is i had a simple interface
+
+02:03
+something complex happened and then i have a delicious delicious pizza right
+same thing is happening when we use right when we use the apis that we're
+about to use but instead of it being a menu and the menu being an interface
+the url that we have is our interface based on the url that we use
+we are making a request for some complex action to happen on a server
+that action happens and then the server responds with some information
+so just like the menu enabled me to make a request for some food a url will
+enable me to make a request for some complex set of data or some sort of
+action that happens on the server and get a response
+now there are apis that we can use from everywhere we have web apis that we're
+going to use tonight where we're worried about getting data from a server but
+there are apis built into our computers there's apis built into everything that
+
+02:04
+you use because all an api is is a simple interface for something
+complex you've been using interfaces all day long you might have used the light
+switch you might have hit a key we have all these beautiful interfaces that we
+use all the time that enable us to do some complex actions cool
+now when we talk about an application programming interface
+we gotta we're gonna we're gonna start throwing out some of those more meaty
+terms but let's save that for for tuesday let's just worry about like what an
+interface is in this case our interface will be a url all right it'll be a url
+we'll use that url that url will enable us to make a request to some server
+that server will hear our request and it's going to do a bunch of stuff
+it's going to do a bunch of stuff once it's done doing that stuff it's
+
+02:05
+going to respond and the stuff it's going to respond with
+is typically going to be formatted in json the apis we're going to be using
+tonight the web apis that we'll be using tonight we'll hear our request
+and respond with json or a javascript object
+right javascript object notation and so we're going to get this lovely
+object back and so once we get this object back we
+can do whatever the heck we want with it we can pull different properties out we
+can run the methods that it came with but all we're doing
+is we're using an interface which instead of it being a light switch or a
+button or a menu it is a url the server here's our request
+it has some code that's been written to hear that request
+generate the response and then respond with that json
+the stuff that's sitting on the server that hears our request and generates the
+
+02:06
+response what kind of code is that yeah that's back end code a lot of the
+first back-end code we're going to write is the build our own api something that
+here's a request knows how to generate a response and then responds with that
+json object so we're going to use other people's apis
+tonight but one of the very first things
+we'll do in the back end is make our own apis and so i think that's pretty cool
+all right so here is a simple bit of syntax
+that enables us to access web apis while using a url
+we plug in our url or our interface and we're able to get some data back from a
+server so here i have a couple big pieces we have this lovely fetch method
+
+02:07
+and you can kind of see we chain these other methods the then the then the catch
+eventually we'll build up to why we're what these are these are
+promises we don't have to worry about that yet when we get the object oriented
+we'll learn about promises then we'll learn about async await we'll learn
+about all these other wonderful things that we will learn down the line
+but let's not worry about understanding what the heck
+a promise is let's not worry about wondering what the heck async away is
+let's just learn how to use an api and get some data and have some fun with it
+cool so this fetch is what enables us to use our interface
+i promise i won't worry exactly enables us to use our interface which is
+just the url and we're going to get some data back
+and this very first line here says hey just treat whatever is coming back as
+json so just that treat it as like a big old object
+and then whatever came back we're going to pass through this parameter of data
+
+02:08
+so whatever we get back from that server is going to be passed into this
+parameter of data so if i want to see what's coming back from the server one
+of the first things i'm going to do is just console log data
+if something was to go wrong our error will be printed to the console
+so we don't have to worry about how this is working
+or what exactly it's doing tonight that's not our goal we'll have plenty of
+time where we break down this line by line by line also we've got to know that
+this is a pattern that we can use to make a request to a server and get
+some pretty cool data back that's it that's where i want your brain tonight
+all right we're going to make fetch happen tonight and that's all we're doing
+know that we can plug in our different urls and we can console log the data that
+comes back or use it however we want what does rest stand for it doesn't
+
+02:09
+matter what it what this would be because this is just a what
+res and data are just what they're just parameters yeah we could
+have called this robot we could have called this unicorn it really doesn't
+matter it just it just it's pretty standard for people to use res short for
+response like the response you're getting back
+from the server and then people use all different types of parameters whatever
+they want to call it here but if you look
+this is just a a method right we can see that it has the parentheses we're
+running it right kind of like if we had like a map
+or a for each or other things that we've seen before just parameters yeah cool
+this is out of your comfort zone no it shouldn't be because we're we're
+trusting in this idea that none of this matters except for two things one
+that this is where we plug in our url and two this is where we see our
+response that's all we're worried about tonight all this other stuff is gravy
+
+02:10
+we'll get there down the line json derulo hey thank you for the gift
+itselves thank you for being here hope you're doing well
+jason derula always shows up when we need the most alrighty so
+we looked at an original example which was our dog photos example so
+let's go and take a look at this again uh we have this idea
+if we go to the dog photos example we have an html file and a js file
+and what i want to be able to do is get a dog photo from the dog ceo api
+and place that photo into the dom if i look in my html file i have an image
+right an image i wouldn't be able to take the value i got from the dog ceo api
+
+02:11
+and plug it into this image here now we've done this once together very
+quickly in in class uh last tuesday and then if you were with
+mayan wolf mayan wolf went through this in way more detail than we're going to
+get to right and so what i want you to do is i want you to take three minutes
+you're really going to copy and paste copy and paste
+see if you can get the value out of the object and then see if you can plug it
+into the dom cool we're gonna put just a few minutes on the clock here
+let's put four minutes on the clock i want you to go ahead
+we want you to go ahead grab the value right grab the value
+see if you can plug the photo into the dom let's go ahead and i'll pull up the
+slide that has you can see the code we're going to use
+
+02:12
+the code that we have we already have the interface which is the dog ceo api
+i need you to go and get a response from the api and plug that
+photo into the dom try it yeah three minutes 30 seconds to make it happen
+we already did this try it again why does data have curly braces and res
+doesn't because res is on one line using that implicit return and then data is
+also an arrow function but we want to be able to have multiple lines so we have
+
+02:13
+the curly braces because we might not just do it all in one line
+arch we've actually done this before in class
+you're really just copying and pasting on this one
+and then mine did it as well my wife did it as well so yes
+you should be a little bit more comfortable with this
+then it's because that's just how it works that's how they built it out they
+built it out to handle those two specific things in that order
+
+02:14
+rest is just a parameter click on whatever you want but it's short for response
+no way juice to go way faster can we have a yolo maybe maybe
+i gotta be careful with the yolos folks are getting too close
+if i paid you would you eat papa john's no
+
+02:15
+pretty comfortable there's no amount of money that would make me papa john's
+the crafty sheep thank you for the hydration cheers to you
+what if they sponsored a class never i they would never be able to sponsor
+this stream your ads are papa john ads hey i can't
+hate the game right can't hate the game we do is talk about pizza on this stream
+
+02:16
+it makes sense all right let's go through and take a look at this together
+i am going to copy and paste boom copy i have my fetch boom
+i already have my url in place right like i already have my url where uh my
+interface let's go ahead and save and see what we
+have working for us let's go ahead and open this in the browser
+let's open up our inspector go to the console and we can see we're
+getting an object great we're getting an object we see
+that that object has to what to what true properties nice yeah i have no
+control over the ads so uh if you keep spamming ads it does
+nothing for me i can't i can't help you i'm sorry we run ads during the break
+and um normally that works for most folks but sorry uh
+
+02:17
+nothing i can control there messages and status we have two
+properties right we have two properties message and status and so it's part of
+one object right and so what i can do is i can grab
+either of these properties right so let's go and take a look
+if we look at our fetch we can see that everything that's coming
+back from the server is gonna pass through this function yeah
+yeah if you refresh and come back in you get you get pre-roll ads
+and so yeah i think that's just kind of one of the downsides of refreshing
+unfortunately yeah cool so everything that comes back from
+this server right everything that comes back from this request
+is going to be passed through into this method and going to be passed
+through data so wherever i see data right wherever i see data
+
+02:18
+that's the response that has come back from the server and so you can actually
+see us console.log right we console logged the response that came back
+and since we console logged that response right since we console logged that
+response we were able to see the object that came back from the dog ceo right
+he's so cute he can't really stand up yet so simba got up off of his like
+mattress that's probably more expensive than my mattress and like stumbled
+closer to me and then kind of laid on the on the carpet next to me
+he's doing all right he's good all right so we can see that
+
+02:19
+we got the object uh back from the we got the object back from the api
+so what happened is if we were to draw this we had my laptop
+that request left my laptop went to the dog ceo server
+the dog ceo server heard that request and it did some stuff maybe it had to go
+to the database maybe has like a database of dog photos
+like the code went and got the photo from the database or the link to the
+photo from the database and then it responded to my machine with that data
+and that data was formatted as json and so we were able to use that json
+object and what we did with it is we console logged it
+and the cool thing is since it's just an object now
+right once once we know that's an object
+
+02:20
+we can we can treat it like an object we saw that it had two properties it had a
+message property and a status property and we can see
+that this message property is just an image so let's go ahead and just do
+data.message save it come back refresh and now we're just getting that image url
+now before we use the image url i got to ask you a question
+for the first year that i use this code to get data back from an api
+do you think i could code it from scratch
+like probably for like the first year i ever used this code
+i was using it all the time every every day every week
+no hell no i had no idea what this meant or how it worked or
+or what all these bits meant i just knew if i used this specific code
+i could make a request to this url and get my data back
+
+02:21
+eventually i learned more right i learned what promises were i
+learned a single way i learned all these other things
+but for like literally the first year that i was working with eight probably
+more than that probably like first two years i was using apis i had no idea
+what any of this crap meant or what was really happening underneath
+the hood i just knew with my big brain that if i put the url there
+i got some stuff back and i could use it
+that's it so take that pressure off your shoulders right now you don't need to
+know more than that makes requests gets a response back that's all we're doing
+right now all right so i am console logging that url that to
+the image but let's actually use it so document.queryselector
+
+02:22
+let's grab the image grab the image and we are going to
+use the source we're going to change the source of that image and we're just
+going to set it equal to data dot message cool let's save it
+let's see if we can get it to work let me move this over a little bit
+let's refresh boom [Laughter] oh looks like uh so i used to have a dog
+named cheeky's and that looks that reminds me of cheeky's
+although i would never would have been able to get a hat on her that would
+never would have happened that's so cool let's refresh see if we
+
+02:23
+get a different dog back this time no fluffers so each time
+i refresh i'm making a new what each time i i refresh i'm making a what
+yeah i'm making a request to their server
+and their server hears that request and it responds
+with that lovely json that i can use i can take that object right
+i can take that object i can pull the pieces out that i want and i can use
+them to my advantage so what i did is i went ahead and i grabbed the uh
+url that they gave me i saw that i was getting back a bunch of data i'm able to
+parse through that data and grab the bits and bobs that i want cool
+now if you want to see this taken to the next level
+you got to go back and watch mine wolf's vod uh so mine wolf if you if you're
+
+02:24
+watching me live right now you'll notice underneath my name there
+should be like somewhere that says a hundred devs
+a hundred devs is our stream team you can see all the folks that are on the
+stream team if you click on that you'll see mine wolf you can go directly to
+their channel and grab the vod after class if you want uh it's also linked in
+the follow-on materials channel watch the vod if you want to take this
+to the next level right they use this added so much more stuff to it spent
+more time going through it so you can see how you could use this to make even
+more even bigger of a project cool it's working hey cool
+let's move on to our next one so next the next api i want to use or the
+next interface i want to use is the cocktail database
+and the cool thing about the cocktail database is that it gives us a lot of
+different interfaces that we can use to our advantage so here we go
+
+02:25
+i went to thecocktaildb.com that was a risky type
+and inside the cocktail database you can see there's a bunch of these interfaces
+which are all just different urls that i can use to get different data back
+right i can use to get different data back so we're going to use this to get
+different drinks back from the database um just so that you know there is a
+non-alcoholic version of this so if you don't want to be dealing with alcoholic
+drinks you can use the non-alcoholic version of this as well cool
+so the first kind of url that i see or the first interface i see is the
+cocktaildatabase.com all this stuff but at the very end
+i have the question mark s equals margarita
+and so if i make a little bit bigger so we can see it we can see that it's
+question mark s margarita and so what we're going to notice
+
+02:26
+right what we're going to notice is that sometimes we have the interface
+which is the url but sometimes we can add query parameters
+so that the server knows specifically what we want
+all right it shows the query parameters that it enables me to say look you know
+what i don't want any specific kind of drink i want a margarita back and so we
+can use these query parameters to get certain stuff back from the server now
+the server has to be coded to be listening for those query parameters so this
+interface this url has been coded on their end so that when it sees s equals
+it only grabs stuff that's tied to whatever you put there
+so let's go ahead and take and look and see if we can use this
+uh with what we've been using so far so i have the shots
+
+02:27
+object shots folder and that's where i'm going to start so object shots and what
+i want to be able to do is i want the user to be able to enter a cocktail
+and then get the name photo and instructions on how to make that cocktail
+so the idea would be that the user could enter in a margarita and they would get
+back the name the photo and the instructions on how to make the margarita okay
+so i want folks to take a few minutes to try this on their own remember you're
+just gonna take the fetch that we used right the fetch that we used
+you're going to use that fetch here you're going to use the new interface
+the new url see what you get back see if you can parse through what we got
+back see if you can use it to your advantage
+all right so this is in the object shots uh you want to be able to enter in a
+cocktail and get the name the photo the instructions and place them in the dom
+
+02:28
+the url itself is in the slides uh and it's
+and you can use it i'll leave the slides
+up so you can see if you need to grab it um and then
+we're gonna put five minutes on the clock here and then we'll go over it
+together i want you to try try play with it break it see what comes back
+have some fun with it put the link in chat too
+
+02:29
+you're getting some chorus errors make sure you're using https
+checking off your vpn on and then you have to google how to get around it
+yeah make sure you're using https this is what we're doing
+these just be able to enter in a cocktail get the name the photo and the
+
+02:30
+instructions and put them in the dom all right got this
+we talk with about api keys yeah when we get there let me get there so
+why did the fetch get different dog images instead of a specific one because
+
+02:31
+they just returned a random one with each request glad to hear it stormtrooper
+very make sure you're using the right url double check
+
+02:32
+we'll go through it together instructions are in this in the actual
+uh setup you're just trying to get a drink back that's all
+
+02:33
+a minute left and we'll go over it together 30 seconds and we'll do it together
+you get errors you got to google them errors are a good thing punch in the
+right direction no errors is when you got to get scared
+all right folks let's go over this together come on back
+all right so we had our fetch um that we had from the previous the dog photos
+let's just grab this fetch and let's put it over here into the the object shots
+and we just need to change the url out so i gave you the url on the slides
+let's try this url first if anything happens with it
+
+02:34
+make sure it works if not we'll grab the one directly from the site
+boom let's save it and i'm just gonna go ahead and open this in the browser
+so open it in the browser let's open up the inspector
+and we're getting a fail to load resource error file not found undefined one
+we go to our line five we have an error here
+we have an error it told me on line 5 there is an error
+what's the what's the line 5 error it's probably not a message property
+right that was specific to the dog cpo the dog ceo api that i was using let's
+go ahead and save this let's go back and uh let's refresh again we'll refresh
+
+02:35
+great awesome we got a lovely drinks array back
+and if we look at this drinks array there's a lot of stuff in here
+we got like this object let's see we have an object that has a drinks property
+and that drinks property right that drinks property has an array inside of it
+right has an array inside of it let's go back and take a look oh we also have
+this stuff done here right we don't need this anymore boom let's get rid of this
+that'll probably get rid of the error too we can just see the object in there
+cool so i got back an object and that object has a drinks property
+and that drinks property is an array of objects we see that right all the
+objects that are inside of that so let's
+just narrow this down a little bit let's just grab the drinks property and see
+
+02:36
+what we get so data dot drinks cool the data dot drinks
+and now we're just dealing with the array right we did we saw that there was
+drinks in there there was there was an array in there
+right so we just had drinks to drill into it to drill into it just a little
+bit and now we're just dealing with the array
+we can see that the array it has a bunch of objects inside of it
+how could i grab the first object out of this array index zero yeah let's try it
+drinks index zero let's save it let's see what we get
+remember this is all about being playful trying it sometimes it works sometimes
+it doesn't and there we go now we have just an individual
+
+02:37
+we have an individual object that came out of that array that came with that
+big old object so all i did is i just drilled down right let's let's delete it
+and go all the way back let's start with just data just data let's start there
+we can see that we got this object back and that object has a drinks property
+which is an array and if we look it's an array of objects
+so i can go drinks and then grab the first object
+using our array notation so let's go ahead and do dot dot drinks
+square bracket zero it's gonna grab the first drink out
+let's save this and refresh again and so now i'm getting an individual drink we
+can see that it is a margarita um we see all this stuff about like all
+the stuff that came from the uh from the the response
+
+02:38
+and so i like a few things here i want i want the drink
+name oh here we go extra drink is probably the name of the drink
+i'm gonna want the thumbnail like the picture of the drink and then i want the
+instructions on how to make the drink and i'm gonna want to put them into
+the dom so let's go ahead and do that do we have anything in our html let's just
+check oh we do we have a place to put the name
+we have a place to put the image and we have a place to put the instructions
+so we'll just target the h2 the image in the h3 cool
+h2 the image in the h3 let's start there so we can just do our normal document
+dot query selector and we're going to target that
+
+02:39
+h2 and we're going to put inside of it whatever it was in that first drink so
+we know that it's data.drinks0 let's grab that to start and then
+what was the name of the property for the drink name i think it was just a drink
+all right extra drink so we can just do straw drink let's copy that and do dot
+drink all right let's save this let's see if
+we get anything popping up into the h2 all right
+margarita showing up in the h2 spot right margarita showing up in the h2 spot
+nice cool let's go ahead and let's take a peek while we have the object up
+
+02:40
+let's see um straight drink thumb is the name of the property that has the
+image in it so let's go ahead and try using that so i'm going to do my document
+dot query selector i think this is one of those ones where you're probably not
+trying to frantically copy along with me just pay attention to what we're doing
+so that we can kind of get there together but with an image i'm not using inner
+text what am i going to use to change an image yeah source
+and it's going to be the same thing we have up here the data drinks zero
+but instead of being extra drink it was extra drink thumb the straw drink thumb
+was the name of the property that was holding the image url
+
+02:41
+let's save this let's go back let's refresh that's a massive image
+that's a really big image let's just do some quick css real quick [Music]
+css style.css come down here oh we already have
+something for the image let's go and do image let's just do with i don't know
+well let's not do with let's do height 200 pixels there we go height 200 pixels
+and that should just make sure that the image is smaller
+they're not save right let's refresh there we go cool
+so now we have like the smaller image and the last bit was the instructions
+was the instructions so let's see in here uh straw
+instructions is what it's called let's go ahead let's go back to our javascript
+
+02:42
+we're going to target that h3 document.queryselector let's target the h3
+we'll use inner text again remember inner text just enables us to put text
+inside the element we're going to grab the drinks again
+but it's not going to be drink thumb we just saw that extra instructions
+and i don't trust myself to spell it right so i'm just going to copy it and boom
+and so this is a lot of like your early api work where you are just kind of like
+looking at the object picking it apart trying to get pieces
+out playing with it sometimes it breaks sometimes it's not sometimes you dig
+deeper sometimes you have to go back up a level let's save this let's go back
+cool so now we have a margarita with the photo
+and the instructions to make it let's go i love it cool um but right now
+
+02:43
+this is uh hard-coded this is hard-coded this will uh only
+this will only give me margaritas i need a way of like changing what this is
+so that i can get stuff that's not a margarita so what i want to do is
+inside this html we have an input and a button so what i want to do is i
+want to get the value out of the input and use that as part of my request
+so we're not hard coding margarita right how could i
+get the value out of the input when i press the button what do i need
+
+02:44
+we need an event listener so let's go ahead and create an event listener
+uh and there was nothing special about that it was just button yeah it's just a
+button doesn't even have an id there's only one button so we just use the
+button so we can say let's come up here document dot query selector
+we'll say button and then we'll say add event listener
+we'll need the click and then we'll call our function uh get drink cool
+let's go ahead and create a function called get drink
+and what i'll do is i'll put the fetch inside of that function
+and the reason why i need to put the fetch inside this function is because i
+eventually only want the fetch to run once i've gotten the value out of the um
+
+02:45
+the value out of the input so let's how do we get the value out of an input
+we've seen this pattern before definitely should be in your anki by now
+yeah dot values let's do document dot query selector input dot value
+and we we have to do what with it right now it would just like poof out of thin
+air use a template i got you it would just poof out of thin air um
+you gotta store it so let's just call this like let drink equal and
+that'll be the value that the user entered and then we want to plug it in here
+so what we could do is we could use a template literal
+where i turn this into ticks and instead of hard coding margarita we can
+
+02:46
+put in our bling drink there we go try it if it'll be on one line there you go
+so now what's going to happen is we will click our button
+will grab the drink out of the input and then instead of just having
+margarita hardcoded it'll now be it'll be whatever drink we pass in cool
+let's save this let's not get wild right off the gate let's use the
+thing we know already works let's grab the margarita and [Music]
+what time is this in there we go and let's come back here let's refresh
+uh notice how we're not getting anything by default anymore right
+notice how we're not getting anything by
+
+02:47
+default because we've now said all right we gotta plug in what we want
+we're gonna click the button first try let's go first try
+the training wheels are coming off just like rip my shirt that's only fans
+content or else i would let's try a different type of drink let's try gin
+nothing makes you want to fight like gin all right here we go we got a gin fizz
+back with the image and the ingredients to make it
+i'm a whiskey drinker though so let's do whiskey beautiful we got a whiskey sour
+all right got a whiskey sour and we get the image we get the shake and ice
+
+02:48
+first try and you can still see that we um
+you can still see that we have the like the still the console logs are there so
+you can see the console log that's coming through each time
+but we're using the data a little bit differently now so
+we click the button which fires our function get drink
+the first thing we do is get the value out of the input
+and then we make our fetch like normal except this
+url this interface that we're using it has a query parameter
+that enables us to plug in the different drinks that we would want beautiful
+now we can get different drinks back now there's a couple of things that i
+want you to work on because we're we're kind of at the end of our time tonight
+there's some things i want you to work on for homework one
+
+02:49
+this right now would have a hard time with having spaces
+in the drinks that we're asking for right so if we ask for a drink that has
+a space in it right now it might it might might not work we'll actually use
+a template literal but try it out see if you can make it work with names have
+spaces in it now the push homework is we know that when we make a request
+right if we console log let's get rid of the drink zero because we don't want
+just the first one let's save this let's go back let's refresh let's put in gin
+we can see that when we put in gin we get 20 different drinks
+right we get 20 different drinks and so what i want you to do
+is i want you to see if you can make it cycle through the
+drinks that's the push homework the push
+
+02:50
+homework is to see if you can make it be like a carousel right a carousel
+of drinks and the non-push homework is try this without a template literal
+and see if you can get it working with things like a moscow mule a drink that
+has a space in it the template literals help you here but if we didn't use a
+template literal play with it but really what i want you
+to do is just play with this right play with the code here break it see what you
+get back from the objects that are coming in tear it apart right
+make sure that you play with this stuff apis are meant to be played with you're
+meant to for stuff to break and to get on discord and say why am i getting this
+error so please as you are playing with this come ask questions on discord make
+sure everything is going the way you want it and then have fun with it make
+this app do something we saw all look at all this data that we have for each
+drink there's no reason why you can't have other stuff showing up
+
+02:51
+different ingredients showing maybe maybe yours is ingredients showing up right
+cool now there's one other thing i want you to work on before homework
+idel hey thank you for the stretch hold on you know we gotta
+i can't do this live oh yeah okay thank you for the stretch all right so
+the other bit of homework that we have tonight is instead of playing just
+playing with the cocktail database right that's what i want you to play with
+make it different do something to it break it if you want to push see if you
+can get it to be a carousel the other bit of homework is nasa has a
+
+02:52
+bunch of wonderful apis right nasa has a bunch of wonderful apis
+uh one of these apis is the picture of the day i want you to try and getting
+the nasa picture of the api the nasa picture of the day api
+working can you get an image back from nasa
+and then we will take it a step further during our next class next class we'll
+work with the nasa data to not only get photos back but to get them back for
+specific dates at a specific time right so we can we can we can we can get them
+back and we'll be able to handle a bunch of edge cases so your homework i want
+you to work on before next class is to play around with the cocktail database
+try the different urls try the different
+endpoints try these different pieces and play with it have some fun with it and
+then try and get the nasa picture of the day api working we have um
+
+02:53
+some other stuff here in the homework remember i want you to play with the
+cocktail database try getting the nasa api working and then your homework that
+won't be due tuesday which will be due thursday is to build three really simple
+apps like we just did i want you to try using some public apis
+to build some simple apps just use the fetch that we did
+plug in a different url and see what you get back some of these apis in this
+public api list won't work they just they're just it's just an old
+list so some of them will work some of them won't
+make sure you're still doing your code wars daily make sure you're still doing
+your anki daily and uh thank you for the best week ever and we we can't we can't
+we can't just end the best week ever like normal
+we gotta end the best week ever with a very special raid and it is my absolute
+
+02:54
+pleasure and privilege to raid hello its rufio one of my dreams folks is to
+always just raid folks that are part of the stream team and so hello's roofio is
+holding it down for us we're going to go ahead and raid them tonight if you
+haven't yet please do me a favor give them a follow
+it's amazing to see somebody code from a different perspective it's it's amazing
+to see them code through things that are not through my eyes you will learn so
+much more uh about the things we're working on when you watch somebody else work
+through them where you participate and help them work through the code as well
+so we're going to go ahead and raid hello it's rufio
+have a wonderful rest of your evening have a wonderful weekend good luck with
+the homework and i will see you all for office hours on sunday
+if any of this stuff is tripping you up come to office hours we're gonna have
+some fun playing with more apis and we're back at it next week more more api
+
+02:55
+fun bigger projects better projects i hope you're ready to have some fun peace
+everyone have a good night peace youtube

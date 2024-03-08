@@ -1,0 +1,2126 @@
+
+00:00
+hey good morning good afternoon good evening
+no matter where you come from hope you all are doing well
+i always forget it the hair is what i can't do i can't do the whip you know i
+try but it's splattering everywhere what's going on everybody welcome back
+hope you all had a wonderful wonderful thursday
+and i'm glad you're here with us now let's go look at everybody let's go
+all right tonight's a good night we got two really cool apps that we're going to
+build out we're going to get a little review in first we always like to get
+our space repetition in uh we're going to talk about maybe our break next week
+what what is that huh what what's going on we're gonna talk about that then
+
+00:01
+we're gonna use our api knowledge to build out two really cool apps one we're
+gonna build a tool that folks that play dungeons and dragons can use uh to help
+look up stuff and to help them with their campaigns then we're going to
+review a little bit of local storage and once we have a little bit of review
+of the local storage we're going to build a tracker app we're going to build
+a track wrap where we can use the open library api to look up isbns of actual
+books keep them stored locally on our machines
+and then have users be able to come back see all the books that they've read and
+be able to see that kept over time our apps no longer disappear on refresh
+we're starting to build all these little
+pieces together so we can start building
+real apps that real users could use that
+actually have value that people can come back to time and time again
+i'm ready folks hey thank you everybody for the hype yo
+
+00:02
+gmack thank you for the five you get to subs i appreciate that and fox hey thank
+you for the uh the raid thanks for bringing everybody over
+and israel is raj we'll get you that pokemon card later today hey
+all right happy thursday everyone glad you're here let's get into it you know
+how we like to start you got questions i got answers the
+question of the day however question of the day
+is what should our next emote be we have all these extra emote slots that we're
+not using that we should probably start using
+what do you think our next emote should be bub by neville boom a smurf ooh
+just get just get dmcad by domino's and just go for it leon winks and no send
+nudes got me in trouble [Laughter] a barbara oakley emote oh a flexosaurus
+
+00:03
+oh i love the flexosaurus that's a good idea flexosaurus automagically
+no blah blah hates automatically i can't do that there
+code weenie all right i see a toaster all right all right
+goblin we got some good ones look at these these are good these are good
+head banging them bangers only well that's a good one too
+all right i'm taking notes folks i'm taking notes oh i'm a baddie [Laughter]
+just i'm a baddie oh that'd be so good to use another chats
+all right i'm a tina twerk i'm making i'm making notes i'm gonna
+write them down we're gonna work on it we're gonna get these new emotes coming
+in a zebra emote a zebra remote yeah be a good one beyonce roller coaster
+all right i got you these are good all right
+now any questions before we jump into i always like to give folks just a few
+
+00:04
+seconds to get here if you're new welcome we're running a free 30-week
+software engineering bootcamp where we take folks from having never coded
+before to employable i don't know if you've seen that celebrations channel
+recently folks the number of folks that are getting clients
+some folks already getting jobs it's wild i can't believe i lost 50k last class
+hey i'm sorry you live by the yolo you die by the yolo it's only one way
+how do i handle fetch of data with another fetch uh you can actually nest
+your fetches it gets really ugly but you can nest them that's the easiest way to
+do it eventually you can assign stuff to variables and then eventually we'll use
+async awaits which solves a lot of these problems so like the easiest thing you
+can do is just nest your fence your fetches
+it feels bad but it works and then as we get further along we'll we'll learn
+
+00:05
+tools that stop that from having to happen
+i haven't watched the other api classes can i follow along with this one it's
+going to be it's going to be a little tough you can definitely try um you'll
+definitely pick up some things because we always do review and then you can
+maybe apply those things to your other classes the other ones as you catch up
+yeah yeah we'll get through async await we'll get through promises and all that
+fun stuff yeah then it makes this so we want to we want to be able to use apis
+play with apis be able to take stuff put it in the dom and we're almost there we
+almost have everything we need to be able to build real apps with these apis
+there's like two more things we're going to learn today that enable us to like
+append stuff a little bit more readily into the dom and then the other thing we
+have to learn is like how to keep it in the dom so that if our users refresh the
+page or go away and come back the stuff is still there once we have that we can
+
+00:06
+go wild and so i'm excited yeah definitely mine wolf if you haven't
+watched their streams as well definitely
+doing a lot of api review so if you feel
+a little behind with the apis definitely check out their vods they go go really
+in depth i'm really excited to have them on the stream team because i know it's
+helping a lot of folks cool people write all the api data by hand
+somebody's got to do it right a lot of times it's a lot of work to
+like build out all the data that's in an
+api uh you might not be doing it by hand
+you might have like a like a form or you might build a tool that helps build out
+all the data but it has to be entered in
+somehow it's not magic right and so yeah
+it is a lot of work to build out some of these apis like when i was when we were
+looking at that pokemon api i don't even want to know how long it took to just
+like get all the data in one place and like i'm sure there are like places like
+bulbapedia and stuff that kept track of it for a long time but if you just had
+to start today and collect all of it too long
+
+00:07
+a lot of people these days will do um they'll split out tasks like that on
+mechanical turk and uh you can have people from like all over just like do
+one and you have like 10 000 people doing it and then you can build them out
+quicker alrighty folks let's jump into it let's get into it we
+got some stuff we got to talk about today and then we're going to get more into
+our apis all right we are going to do a little
+bit of review we're going to build two new api projects we're going to play
+with local storage and we're going to talk about the homework if you haven't
+already please go ahead and check in zema said how do i mark attendance you
+can click that little link to twitter there because when folks
+type in the exclamation point check-in that brings up the tweet just go to that
+tweet like it retweet it uh it helps the
+community grow it also makes sure that i know that you are here so when we get
+towards the end of program we have a lot of stuff that's just going to be for
+
+00:08
+folks that have been here that have been working through the program and so we
+need to make sure that you've been here so the check-in is your attendance and
+also helps folks find us cool now remember just typing in check-in
+doesn't do anything you have to go to the tweet and do it there
+can i delete something i push to github yeah you can delete the repo if you
+would like but know that there are lots of bots and stuff that once you push
+some things it's there forever cool all right remember no networking
+no networking until may we have all of all of april to to focus
+in on some of the things we're going to focus in on uh no networking until may
+client deadline is now the fifth oh i gotta tell my demo pro there we go
+
+00:09
+it's now the fifth i forgot to update it uh because we have a major holiday on
+the third yeah cool just got a client today congrats angel cakes that's amazing
+congratulations uh remember if you for some reason are
+not able to get a paid client meaning that you're not like allowed to get a
+paid client some folks have visa circumstances or things like that
+remember they're all two alternatives you can volunteer for a grassroots
+organization you go through the same process you still get a contract you
+still get a proposal done you just have an amazing reference at
+the end instead of money you can also contribute to free software
+uh there's this first timers only which is a great place to start find
+communities that want to be helped but dude said is this a boot camp or
+just random lessons it's a boot camp no exclamation point well it's an agency
+with a training program and so go ahead and do x-men point
+
+00:10
+hundred dabs you can learn anything you want to know about the program
+sorry passion alrighty if you haven't joined the code wars clan
+you're missing out when we come back the perks
+the perks that some folks are going to get from being in the clan whoo
+we come back we got some uh we got some good stuff here all right
+remember if you're joining the clan it's the whole
+portion it's this whole thing it's not just 100 devs
+submitting work we had a lot of work that was due today and so i want you to
+go ahead and make sure you submit your work you don't have to do it right now
+but you can if you haven't done it before class make sure you get it done
+after class uh there's a form uh the form is asking for your
+your kind of some of the bigger projects that we've worked on the past couple of
+
+00:11
+weeks and the three api pieces that you're supposed to do by today
+so go ahead and submit if you haven't already and uh if not
+if you haven't finished if you if you weren't able to get it done well
+now you have some more time you have some more time uh because no
+class next week so a lot of folks have been asking for a
+break a lot of folks have just been saying like you know what i'm just there
+i'm hanging on just a little bit right i'm hanging on just a little bit and i
+just need a little bit more time to either get caught up or to take a
+breather and so next week we will not have any class so there will be no like
+me covering new topics uh we won't have anything that you would miss okay so
+next week no class uh we start sunday so sunday is a holiday so we won't have
+office hours on sunday we won't have class on tuesday and we won't have class
+
+00:12
+on thursday cool now it's up to you how you want to use this break
+some folks will use this break as an actual break
+your brain might be might be churning a little too much these past couple weeks
+right and so some folks might actually take a full break
+be weary of that this is where we lose people
+when we do breaks is where we lose a large portion of folks that just never
+come back okay so if you are doing a break know that we
+come back in a week not this sunday the next sunday and we keep pushing forward
+all right now the interesting thing here is that we're taking the break
+tuesday thursday so you can take a full break if you need it
+a lot of folks however will take this break to get caught up right a lot of
+folks will take this next tuesday and thursday that class time to get caught
+
+00:13
+up and to fill in the gaps they need to fill up
+so i always like to say that a break may not really be a break it's up to you
+and just because we're on a break doesn't mean there aren't some
+expectations of each other right just because we're on a break doesn't mean
+that we we just run out and do whatever the heck we want right and so
+on the break there will be a couple things that i'm going to be asking of
+you uh if you don't need if you need that if you need that week to to mentally
+unwind and and and and not think about code that's great but i think a lot of
+folks need the break to just catch up and reinforce the things that they
+learned without having the expectation of being live for class so if that's you
+we're gonna have two work together nights right so next tuesday and
+next thursday we are going to have work together nights so it won't be any class
+
+00:14
+but we're going to break up the remo into different floors right and break up
+the remote to different floors and so one floor might be part of the ketchup
+crew and trying to catch up uh one floor might be folks that are
+struggling with apis and work on apis together we're gonna make it so that you
+can find your people to work with maybe you want to work with your study
+community to get stuff done but we're going to hold tuesday and thursday as
+work together night so if you feel like you want to come and work with some
+other 100 dabs you want to get to know some folks you want to get some
+networking in come to those work together nights tuesday thursday but
+know that there is no expectation of class there is some work though
+and there is there's three stratifications of work
+some folks need to catch up and so i hope you take this week this break
+to catch up if you feel like things are going at a good clip you just want to
+reinforce the things that you've learned
+
+00:15
+i want you to work through this intro js course
+it's by codecademy it really does like hold your hand through a lot of the
+material just a way to get all those little things back in it's a full course
+it's like a it's like a 30-hour course get through as much as you can i really
+do like it to reinforce we got you did get got uh we we i really
+do like folks to work through it and maybe you don't take the week
+the whole week to work through it but make sure that it's on your your your
+list to get through yeah has anyone gotten a job yet we've
+got a lot of jobs already yeah we've got
+a lot 100 plus from last cohort and this cohort's already taken off it's wild
+did we already do this yes you might have done some of it might have done
+some of it but now you're doing all of it cool
+would you say to do this course or work on odin project definitely this course
+
+00:16
+yeah this is just more like hand-held uh it is just something to get a little
+bit more practice in a little bit more syntax practice
+right so i i think this is a definitely good thing to go through especially if
+you didn't finish it already um don't pay for it go up until where
+they make you start paying that's it yeah cool
+and then the last thing that i need you to work on is this professional
+checklist this professional checklist we need to
+start getting all of our stuff together to get ready for the hunt right the hunt
+is going to be a lot of work and we want to make sure that you have
+all your stuff pulled together so that we can go into that process with ease
+different hey what's up so after this week when we come back we're doing
+object-oriented programming and then we're moving right into the
+
+00:17
+back end and as soon as we hit the back end we also start the hunt
+and so this week while you have more time especially if you've already finished
+the js course i need you to work on this professional checklist and so uh
+let me pull it up real quick um all right i need you to look at this checklist
+and there's a lot of stuff that's on here
+and there's a form that i'm going to ask you to submit when you're done
+and so there are some tools to install grammarly which is just going to help
+you with grammar as you're typing buffer which will just help you stay
+engaged social media wise as you go into the hunt so just to have them signed up
+for i want you to start thinking about your blurb like why folks would hire you
+
+00:18
+over someone else right why would somebody why would somebody hire someone else
+and then i want you to make sure that you have your portfolio your resume
+your linkedin your angel list your github your twitter your cover letter
+your cover email and you're going to notice all right you're going to notice
+that there are examples for each thing cool
+did they make grammar do you have to pay for grammarly now like you can't even
+use the basic version anymore i just use the free version
+don't ever pay for anything i'm never going to ask you to um pay for anything
+yeah free works yeah yeah thank you alright cool cool yeah there's totally a
+free version that's just a browser extension that you have um in your that
+you can put on like chrome and it just works cool
+so this is a checklist i want you to get through the uh the checklist uh and i
+
+00:19
+want this done by tuesday april 26th a lot of this stuff you already have or
+have been thinking through so it's just about time to kind of pull this all
+together so we're taking a break break means no class
+up to you how you want to use this time if you honestly need a full week off
+take it but you better be back here on sunday not this sunday next sunday
+if you want to use this break as a way to catch up
+please use it i really recommend i really recommend this js course right
+and then if you take the rest of the week i want
+you to work on your professional checklist i think if you can get through
+those three tasks we'll be in a really good spot going into the back end so
+take your time catch up work through the course
+work on your professional stuff still do
+
+00:20
+your code wars still get your networking in and come to our work together nights
+but no actual class time cool sunday april 24th get bowl uh so
+on the 24th right the 24th i want you to come back and we're going to work
+a lot on git github getting our work on github we're going to spend a lot of
+time that sunday kind of just drilling all the things that we need to be ready
+for like the next half of course so come back on sunday april 24th we're
+going to do a lot of get work a lot of github work we're also going to spend a
+lot of time with apis as well looking at some of the bigger errors
+that folks get with apis we're gonna spend some time troubleshooting course
+errors all those fun things so this week it's up to you how you spend your week
+some folks are gonna take a full week off
+
+00:21
+if you take a full week off i expect you to be here on sunday the 24th because i
+need you to be here to get back those gears get going
+some folks might take the week to catch up they might not have class they might
+take advantage of not having the class time they might dial down their
+networking well we don't have any networking sorry for for april they
+might dial down their code wars just for the week right to catch up invest your
+time to catch up some folks are going to work on this course and everyone
+hopefully that week or that weekend will get through the professional checklist
+cool sunday 24th get bull lots of git github
+stuff and a lot of the more tricky stuff with apis just to get our get all that
+stuff out the way and then when we come back that week we jump right into the
+the fun stuff of object oriented and then back in because we're almost
+halfway through the course folks uh get bull will always be the normal
+
+00:22
+time we start on sunday which is 1 p.m eastern time cool
+taking this week to go harder hey that's up to you like i said folks can take
+this week to to push to catch up whatever you need i want you to have
+this time and i don't want you to feel a certain way about using that time the
+way you want to use it we're taking this space for folks to be able to use the
+time to their own advantage alrighty let's get into it folks we got a lot of
+stuff to get into uh this night we have well wherever you're coming from day
+morning so we're gonna do a little bit of light review
+and then we'll probably uh jump right into our first assignment alrighty
+another super review soon probably when we get all the way through to the end of
+like basic javascript we'll do a longer review again i don't know if we'll go a
+
+00:23
+full nine hours but i'm feeling like a five hour is definitely in our future
+cool alrighty folks let's get into it a program is what chat what's a program
+beautiful a set of instructions and therefore the act of writing those
+instructions we call programming we write those instructions in a language
+the computer understands we call it programming the language we use to write
+our instructions thus far is javascript it's a beautiful human readable language
+we can communicate our ideas to each other
+and that javascript can then be broken all the way down into something the
+computer can understand wonderful chat what are loops for loops yeah
+
+00:24
+repeating a set of instructions or repeating a set of actions multiple times
+so we can repeat an action some number of times we've seen a lot of loops so
+far we've seen four while we've seen things with tied to arrays like four
+each a lot of fun ways to loop through our content a lot of ways to loop through
+and do multiple actions repeatedly beautiful with our for loop we had our
+setting up of our counter we said when the loop would end and we
+would increment by this amount each time remember you can also don't have to
+increment just by plus one you can increment by plus five if you wanted to
+plus equals five you wanted to you can de-increment you can do whatever the
+heck you want in there and uh it just enables you to do this set of
+instructions that many times uh in this one we know that it would print one two
+three four but never print five because five would be less than five and
+like i said if you're if you're new here we're going through this pretty fast
+this is all review you can definitely join our discord exclamation point
+
+00:25
+discord agree to the rules you'll see all of our past classes all the past
+stuff you would need we also have a wonderful catch-up crew where you can
+catch up and go at your own pace to the material all right chat what a raise yes
+yes they are bill gates toasters how do you think bill gate how many
+toasters do you think bill gates has thrown chat how many toasters you think
+bill gate has how many houses do you think they have
+how many toasters are in those houses you know what
+i bet you bill gates doesn't know how many toasters they have
+that's a fun question all right they are toasters
+and what do we mean by toasters we mean one thing that can hold a bunch of other
+
+00:26
+things right we use it as an ordered collection of stuff
+and when i say an order collection of stuff i mean that those things that are
+inside the containing thing well they are numbered starting with zero
+right so we have our index that starts counting at zero and we go from zero
+until we run out of slots where things are being placed
+we can create arrays in two ways using a
+constructor or using literal notation we
+see little notation here with the square brackets we can when we declare our
+array and assign it a value we can already assign it with values in it
+and then we have to remember the values that are inside of our array we start
+the indexing at zero so if we want the zero index out of our array this one
+would give us new york and if we wanted london we would use the third index
+beautiful not only can we put stuff in we can get
+stuff out using the index so here i'm getting the values out by using the
+
+00:27
+index this is really helpful really helpful when we get to our our apis
+because the apis often give us back content that has arrays in it and arrays
+with with objects in it right and we have to pull those objects out of those
+arrays so we had to get comfortable with these arrays so that when we move to
+apis we know how to deal with the content we're getting back
+all right we can not only get stuff out we can put stuff in which is really
+helpful and we can always use properties like
+length to get us to tell us how many elements are in an actual array
+we can also iterate through arrays we've seen four each which helps us iterate
+through arrays you're gonna see four each today when we get data back from an
+api we're gonna use that for each to loop through all the data we're getting
+back and use each piece and eventually we're going to use those pieces and
+append them to the dom cool chat what are objects we're blazing
+
+00:28
+tonight what are objects chat they're everything everything
+would that be a good emote too and everything about i think that's
+something we got for that on the list yeah they're a collection of variables and
+functions collection of variables and functions exactly and so when we
+talk about those variables and functions that are tied to an object we give them
+a slightly new name we call those variables properties and we call those
+functions methods and when we think about objects we can
+actually think of a physical object i like to start with a stopwatch and we
+can imagine all the properties that a stopwatch might have the current time
+property the color property the shape property might also have some methods
+
+00:29
+like tell the time or start or stop cool if you want to pull something specific
+from an object that itself is inside of an array
+are there nesting indexes well you would have to use the index of the array to
+grab the object and then once you have the object you can use it just like a
+regular old object we're actually going to see that today mod we're going to see
+that in a little bit we learn how to build apis absolutely so
+we're we're learning how to use them and consume them so we can start building
+them and you're going to realize that a lot of the things that we do first in
+back-end development or really just building out apis cool
+right here i'm adding properties and methods using what kind of notation
+
+00:30
+yeah dot notation lovely all right let's get into it chat what are apis
+what's an api yeah okay i see some of you okay
+simple interface for some complex action i love it simple interface for some
+complex action what are some interfaces that you use
+that enable a complex action to happen what are so what are so what are what
+are some what are some simple interfaces that you have a remote nice
+power button home buttons key fob that's a good one vcr get out of
+here well those vcr tapes are going wild right now price wise toilet flush
+
+00:31
+lightsaber on exactly stove okay nice these are all really simple
+interfaces that do something complex when we turn the knob on our stove
+you've got to think about all the stuff that has to happen this natural gas that
+comes through it's ignited by an igniter and it forms a big flame where did the
+gas come from you don't know all these complex things happen just when you turn
+a knob key fob think about all the stuff that
+has to happen for your doors to lock that key fob has to send a signal the
+car has to receive the signal has to know what to do with the signal has to
+know that it's your signal has to know to then trigger some electronics that
+move and and lock the car all that complex stuff happens because
+you have a simple interface that is a button on a key fob i love it
+the one that we use that got me into some trouble last class is that i love
+to think of an api as a menu at a restaurant
+i have my menu i point to my noodle soup and i say noodle soup please and then
+
+00:32
+something complex happens in the kitchen there is a combination of of broth and
+rice noodles and vegetables and tofu that all gets put
+together in a beautiful bowl i don't know how they're dicing i don't know how
+long they're cooking i don't know what's been put in water or what and then it
+all comes out in a beautiful bowl right a beautiful bowl that i get to
+enjoy so very simple interface that was a menu that led to some really complex
+action that provided a beautiful bowl of soup
+i had a coffee chat today with someone that's building apis that's dope already
+so the apis we've been using so far have mainly been web apis
+meaning that we have an interface that enables us to make a request to a server
+that server hears the request there's some code that's set up to gather all
+the stuff it needs to respond to that request and then it responds and so far
+
+00:33
+the data we've been getting back from most of our apis has been json but we're
+actually going to see today that apis can really send whatever the heck they
+want one of the apis that we're going to use first really tries to send like
+html and you have to be a very you have to
+give it a very specific query parameter to get that actual json data back and so
+we've been using web apis that give us a
+url as the interface that url enables us to make a request the server hears the
+request and responds with some stuff and ideally we're getting some json data
+back some objects back that we can use beautiful all right we saw
+for right now fetches are how we are making our api requests eventually we'll
+get to async away and promises and all that good stuff we understand that these
+really are promises if you've read ahead and so we'll get there
+i like for you to play around and enjoy apis and then we'll slowly peel away the
+
+00:34
+onion and you'll understand how it works under the hood alrighty
+we also saw that when we were using the fetch we could pass in query parameters
+with our urls and the query parameters are just a way of getting a little bit
+more specific when requesting data from a server so with query parameters i can
+say hey don't just give me any cocktail give me data on margaritas or whiskey or
+other things that we passed in right and so the query parameters really
+do give us a lot of flexibility on this interface right this interface is just a
+url but we can think of these query parameters as like the what on our remotes
+you think of these query parameters as like the what on our remotes
+yeah they're like the buttons on our remote we use margarita here and the tv
+turns on we use whiskey and it switches to hulu we we type in jin and it
+
+00:35
+switched to netflix right like we can think of those just query parameters
+like extra buttons on our interface that enables us to get different data back
+wonderful wonderful is a question mark mandatory in all situations it depends
+on how the server is expecting your interface to come through
+most of the time you're going to see that you will have a base url that the
+api has provided you and then they're going to give you a bunch of key value
+pairs that you can append to the url to get specific data back right and so the
+way you start those key value pairs is with the question mark and then you do
+key value pairs for each different thing you're appending to that
+url each key that you're asking for so uh we see like s here for search uh we
+saw what sum we had to put like an api key what some we're going to see today
+
+00:36
+we can add more and more robust things uh to our urls now there are some urls
+that don't use the query parameters but instead just have forward slashes and
+then specific information you put after the slash and so we're going to see both
+types today we're going to see types that just have the forward slash and
+we're going to see some that have the query parameters it really comes down to
+reading the documentation yep the documentation is going to tell
+you how the interface like what they're expecting
+for you to do to get that data back if you're having cores there as i see
+folks kind of bringing that up use different apis for now and then come
+back on the 24th we're going to spend a lot of time working through and
+troubleshooting course errors but for now it's just not worth it to struggle
+with them just find different apis each server can can respond in different
+
+00:37
+ways and sometimes there are protections that are put in place to help stop like
+your files on your machine from like having access to the internet and that
+can lead down to a whole different rabbit hole so we're going to save that
+for when we come back on the 24th uh but for now just choose a different api
+cool and a lot of times folks are forgetting
+like the s always copy and paste the url directly
+yeah and always just try your urls and postman first right
+yep make sure you have your s for https and try them in postman first that's how
+i can move through a lot of apis to find which ones i like because a lot of apis
+that are out there they're no longer supported they've been down for a year
+you have no idea and so i think one of the hardest
+parts of using apis is like finding the apis that are actually useful um yeah
+
+00:38
+cool all right let's keep pushing alrighty so the first project
+i want to work on tonight is i want to be able to use this lovely
+uh dnd api so if you click on the link on the slides it'll take you to the api
+right and i'll put it in chat as well just so we have it cool
+so the link is in the slides but it's also there in chat
+this is this dnd api returns everything that you would want about anything
+in the fifth edition so there's a lot of really cool stuff that you can get back
+
+00:39
+um it pretty much has everything um and so for those who don't know what
+dungeons and dragons is it's a tabletop role-playing game uh it's where you can
+have really cool adventures that you probably couldn't have in real life and
+uh there's a lot of kind of things you have to know to exist in the world or
+there's all these different kinds of monsters and spells and stuff like that
+and so it's actually kind of non-trivial to keep it all in your brain
+and so a lot of people will sit down and they'll have like books with them or
+they'll have cards with them or things that'll help them
+remember everything and so what i want to build is an app that enables us just
+to like look up stuff and uh and then i want you to run with it right and so
+we're going to use this api and the first thing i want to do
+is just see how the api works see what we can get back from it and
+and then go from there to build maybe a little simple app with it before we take
+
+00:40
+our first break so here is the base url it's this dnd 5e api dot co flash api is
+the base and you can see that there give you some
+example uh some examples there's a full documentation that goes through like
+everything that there is and so like i said a lot of times documentation can
+get wild but there's so much here so much here yeah so much here
+but we're just going to use their first example that they gave us which is the
+spells of acid arrow and so i'm going to go to my
+i'm going to clear out i was testing before class i want my postman
+and on postman i always just click plus and it just gives you a new way to make
+a request and so if we go ahead and paste in the base url that's good
+and then they also gave us kind of some like the next thing to look for
+
+00:41
+and it was spells slash asset arrow so this is kind of one of those
+apis where they're not using query parameters right it's kind of just the
+way the url is formatted for now we're just following along i'll give you some
+time to work on this yourself yeah so follow along for now and then i'm going
+to prompt you to to do something i just want to show you postman how i first
+kind of like look at apis i think one of the things folks struggle with in the
+beginning is like leon what would you do
+if you just found an api and you want to see if it like works or does the things
+or see what it has right and so for me i'm going to show you my process of how
+i like actually figure stuff out and so for me
+i would go to the site it's linked in the slides and i put it in chat already
+but i'm going to grab the base and then i'm going to type in spells asset arrow
+and postman so spells acid spells slash acid arrow cool and now that it's in my
+
+00:42
+postman i can click send and we can see all this stuff that comes back right
+all this stuff that comes back i can see that i get kind of the name of
+the spell i get a description a shimmering green
+arrow streaks towards the target within range and burst into a spray of acid
+right and so i'm able to go ahead and see all
+the stuff that comes with it uh we can see range we can see casting
+all this fun stuff we can even see things like classes and
+sub classes and so i think it's pretty all the stuff that's coming back with
+this api and so what i want to do is be able to now that i know this api
+works i want to do something simple i just want to be able to
+get some data back to start and what i think i want to do is i want
+
+00:43
+to be able to have my user enter in a spell
+and i want to see the sub classes that can use that spell
+all right so i want to be able to enter in a spell and then i want to be able to
+see the sub classes that use that spell so what i'm going to do is we have in
+today's materials if you're new and you need the materials you can do
+exclamation point discord join our discord
+once you agree to the rules you'll see a follow-on materials channel and that'll
+have all of our starter code so today i have starter code and you see i have
+this lovely dnd folder and in it i have a main js and an index.html
+in the index.html we have an input we have a button and we have a place to
+
+00:44
+put some stuff all right a place to put some stuff
+dnd streams when we've we've talked about it we have a lot of folks that
+play d and d in 100 devs i'd be down i'd be down to do uh to be fun to do some
+fun cool alrighty so we have this like nice little starter
+code i'm gonna open this in the browser just so we have it open
+and what i want to have happen is i want the user to be able to enter in a spell
+and i eventually want to see the subclasses that can use the spell you
+can see the subclasses down here right right beside my head i want them to go
+in there and so what i would love for you to do is i want you to take and put
+some time on the clock here i want you to get this api working you
+got the starter template here i want you to get it so you're getting some data
+back i want you to get it so you can get these sub classes right and
+if you want to really kind of go to the next level
+
+00:45
+get these subclasses showing up in the dom we're going to put some time on the
+clock your goal is to get this api working read the documentation use postman
+play around with the starter code that we have here
+get data coming back from the api and start getting stuff into the dom you can
+hard code it at first do what you want to do we're going to put we're going to
+put some some time on the clock uh so when you play d and d your character can
+have a class like the things that it can do or like what type of character it is
+um but one thing that happened is that what
+if you had like two people that wanted to be a wizard right
+what if you wanted two people that wanted to be a wizard a wizard can go
+down a lot of different paths in life right
+you could have like a wizard that goes and does good you get a wizard that does
+goes and does bad and so these sub classes in the fifth edition are kind of like
+journeys that your character can go on and then when you're playing with other
+
+00:46
+wizards it's easier to kind of keep track of like who does what and all the
+wizards don't have all the same stuff right they don't all do the same thing
+and so the subclasses just bring a little a little bit more spice or
+seasoning to the game and so you're yeah schools of magic
+stuff like that yeah one went to one school of magic the other wizard went to
+the other school of magic and so when you look up these spells you're going to
+see like the class that can use it but also like these subclasses are going to
+come up as well so i'm going to put some
+time on the clock here it's going to put maybe timer
+let's put five minutes on the clock i want you to get
+as far into this as you can getting that subclass coming in
+and then trying to get the subclass into the dom and then i'm going to show you
+some cool stuff about how to get multiple elements into the dom using a
+loop so five minutes of the clock you got this dig deep
+
+00:47
+and then we're going to go over it together dagger we really haven't gotten the
+promises yet for now just use apis we'll get to promises later on [Music]
+i am not feeling the newer stream beats there we go that's what i need my life
+uh what you have to do is actually at the top of the file
+fetch some data using the dnd api and place the subclasses in the ul
+
+00:48
+that's what we're trying to do all right jordash welcome subclass subclass
+we're using that spells api we're getting some data back from the spells api
+and what we want is if we look there are these subclasses that's what
+we're trying to get into the dom do bodega it's passed through a promised chain
+
+00:49
+was basically imagine like a function calling a function and passing stuff
+along as it does it use the spells that they give you in the
+documentation you don't have to know anything about dnd to do this because
+they already have give it to you in the docs use the one that we just tried
+
+00:50
+together links are always in the slides man with milk congrats
+see delay i always check my links in postman first because sometimes i just
+want to make sure that my code isn't the thing that's causing the problem so i
+use postman to test every time used postman so much as i was making an
+animal crossing thing that's awesome oh got some folks coming in done nice
+
+00:51
+minute left and we're going to go over it together
+can you walk through postman sure i can show you how how i used it but i just
+click the plus sign and plug in my link that's that's pretty much it [Music]
+sometimes if you're using certain clients you have to like download
+something to your computer but it'll prompt you to do that
+
+00:52
+and you also don't have to use postman coding the links are always in the
+slides you don't need the links from me that they're in the slides use the
+slides alrighty folks come on back come on back alrighty
+let's take a look at this together all right folks
+i'm always going to put the links in the
+slides i see so many folks that couldn't find the link all you need to do in the
+slides click right here these blue ones are links right
+always click these these are always going to be links for whenever i need
+you to do an api right so boom that's going to be the
+link when we do the next one over here boom that's going to be the link oh
+alrighty so what i want to do is i want to use this
+
+00:53
+api and i don't have to know anything about this api what it does i just want
+to see what comes back right i want to see what i get back when
+i use their example right and so they've always been links yeah they have been
+oh yeah but i'll always always i'll always
+tell you where to get it right so i said a couple times it's in the slides god
+gotta hear it i'm telling you i'm telling you it's gonna be in the slides
+all right now i'm gonna take this link right i'm gonna take this link
+and i'm gonna use it with postman uh postman there's a lot going on
+but you you do have to like log in and they're gonna ask you to like download
+something to your computer so they can make requests
+uh you can there's so much stuff in here but i just go to my workspace
+
+00:54
+that's it and then there's this plus sign i click the plus sign
+and i can plug in the urls and so this one was the base url and then
+i saw that the rest of the url was spells asset arrow and so i can go ahead
+and plug in asset arrow and i can test it by clicking send
+and i can see nothing came back so i saw that i that i got an error
+why did i get an error i put the wrong link right i didn't use
+the full link so if we go back we can see that it is spells
+asset arrow so i like using postman just because i can catch these things before
+
+00:55
+i'm in my actual code because once i'm in my actual code
+the question i always have in the back of my mind
+is is it their link that's not working or is it my code that's not working
+and so postman just enables me to kind of check these things really quickly
+i use it pretty much all the time i always have it open uh when i'm working
+with apis and that's what i do cool so now i have a link that's working
+i'm gonna go back to the code that we have here we can see that this this link
+is already in here and we're using the same
+we're using the same setup that we've been using for the api template that
+we've used for all the apis that we've seen so far we have a button
+we have a button that gets clicked and when it gets clicked it runs this
+set of instructions called get fetch and in this get fetch
+
+00:56
+we can see that i can grab the choice right i can grab the value that was in
+my input and i'm plugging that into my spells and so if this is to work
+we should be able to just console.log our data
+and it should work just like the example
+did in postman so i'm going to save this i'm going to open this in my browser
+i'm going to open up my inspector and in this console i'm going to type in
+the same thing that they gave me to try which is acid arrow
+so asset hyphen arrow i'm going to click get spell data
+and boom we got our lovely object coming through right
+and so we can see that it's working we're getting data back from
+the dungeon dragons api here and we can even see the stuff that we care about
+
+00:57
+down here these subclasses what kind of data does subclasses give
+what kind of data is stored in that subclass yeah it's an array
+it's an array of objects so where this gets a little bit more difficult
+is we're going to need to work with this array we're going to be
+able to grab the array grab the objects out of the array
+get the data that we care about out of those objects and then append it all
+to the dom so there's a lot to be done there to
+kind of start working with this data get it showing into the dom it's going to
+walk through this one more time and then we're going to take our break and we
+come back from the break we're going to start actually doing it so we can see
+that we have our input and our button and we have like this place where we
+want to put the sub classes if we look at our javascripts
+
+00:58
+we have our event listener it's listening for the click on that button
+when it hears the click on the button it runs the get fetch function
+we can see that we're grabbing the value out of the input in this example it is
+the acid arrow that we put in there and then we plug that asset arrow
+into our url using our query string sorry our template literal here
+and then when we make our fetch we use that string that now includes asset
+arrow we got the data back we were able to see the data we console logged the
+data and that's why we were able to see it in the console
+cool so we're going to take our break we're at the top of the hour if you're
+new here at the top of every hour we take a break
+it's clicking leon whoo that's what i like to hear alabama boy
+it's click hopefully we do this a lot more times it it takes a little while
+right it takes a little while but we'll get there and so we're going
+to take our break because at the top of the hour if you're able please get up
+
+00:59
+move around hydrate let your eyes relax on something that's not the screen if
+you can't move from where you are maybe do some light hand stretches if you're
+able and we'll be back in five when we come back we're gonna start digging into
+this data we got back from the api we're gonna start seeing if we can play with
+that array see if we can peel into those objects and we're going to see for the
+first time really how to loop through that array and append every single thing
+that we got to the dom alrighty folks [Laughter]
+all righty i'm going to start the timer see you in five
+i'm gonna run some ads so you have to take the break soon
+
+01:00
+
+01:04
+archer dr levi the fitness doctor i recommend their their stretches um
+
+01:05
+ready folks come on back come on back alrighty let's take a look at this
+together let's keep pushing we got some data coming back some uh
+some some errors that folks are coming in that that were folks were kind of
+saying that they were having uh was a lot of folks forgot the hyphen
+right so a lot of folks when they typed in asset arrow they forgot the hyphen as
+they typed it in and guess what without that arrow is probably not going to work
+right so if you didn't put the hyphen yeah it's not going to it's not going to
+give you the data that you want because that's what they're expecting
+we could figure out ways to clean that up that'd be a good thing to do right
+figure out ways to clean that up i'm gonna move this stuff up here above the um
+the the image and put it up here just so we have it
+above the image because the image is taking up so much time so much room
+
+01:06
+there we go cool so that was the hyphen that was uh some
+things we could do we could definitely clean it up we could we could do some
+splits some replacing we could do some fun stuff but uh for now just make sure
+you actually typed out the correct the correct string and then
+the other thing that i saw some folks running through like leon i did it but
+there was no data coming through uh we had to console log your data if you
+didn't set up the console log then you wouldn't have seen anything in the
+console if it worked because there would have been nothing there
+make sure you had the uh the the console log there or she won't see any of the
+data coming through when it does work cool all right so
+we have our console log which means that
+this should be working let's put back in our asset hyphen arrow
+let's get spell data and great we have this lovely object okay i got console guy
+[Laughter] if yeah just telling myself the computer
+does exactly what i tell to do and nothing else nothing less help me with
+
+01:07
+all this api stuff a lot that's a really good thing to keep in
+mind we're getting to the point now where if you don't tell it to console
+log it it's not going to console log it right so that's something that we kind
+of just glaze over and it's one of my favorite like i love that like i love
+when i get those errors because there are so many there are those some of
+those types of errors you're going to run into where i'm like it didn't work
+because i didn't tell it to do work right i didn't tell it to do the work so it
+didn't do it right we we as humans we jump
+we do 50 000 things at one time computer can't do it you got to tell it to do
+this and then this and then this and it slows this down gives us a better pace
+of life right i love those errors cool all right so we plugged in asset error
+we got some data back and if we look the thing we care about is the sub classes
+and right now we see the subclasses is an array let's
+just do data data.subclasses and see if we can get that array by itself
+
+01:08
+um so data.sub classes let's save it and let's see what we get now
+i'm going to refresh acid arrow boom get spell data
+and boom we got this lovely array and in the array we can see two objects
+we can see it has the name of lore and the other one has
+the name of land are these actually subclasses are lore and land subclasses
+i'm going lg magic missile that's my us that that's like the best
+when uh new folks do the lost mines oh that's such a good good spell cool
+they are okay that's interesting [Laughter] i'm not up on my subclasses
+
+01:09
+cool all right so there's lore and land and if we look
+we can see that there's one of the zero index and one at the first index and
+it's just the name property and so i think i can just grab the name property
+if i grab the object out of the index like if we step back and think about
+this what this is giving us like what this data subclass is giving us is an
+array and in that array are two objects and i'm gonna want the object and once i
+have the object i can use all the properties that are inside of it like
+dot name etc right and so maybe i could hard code this
+right now i could do subclasses zero which would be that first object
+remember subclasses is an array and in that array are two objects
+
+01:10
+right and so subclasses 0 would give me this object if i did it again
+like if i console logged this twice sub classes one
+would give me the second object right it would give me the second object
+so i can hard code this right now by doing zero and one
+and if we look each of the objects has an index a name and a url so i'm just
+going to use the name how do we know which object to use by
+playing with it or reading the documentation
+a lot of times you have no idea what these apis are going to return to you so
+you got to get in there you got to get in the muck you got to play with it you
+got to see all right what am i getting back is it the thing that i want right
+is it the thing that i want or do i have to do something else to get the data
+that i want and that's kind of the tricky part with apis in the beginning
+is that like if the documentation is trash then you're gonna have a really hard
+
+01:11
+time with that api cool um so i think we just use dot name here and
+that's what we're going to use i'm going to use dot name and that's why
+being comfortable with your arrays and your objects is really important because
+that's that's the way we're going to use
+data as we kind of continue on all right
+so let's see if we get lower and land by hard coding these let's refresh
+asset arrow again with the hyphen let's not forget boom
+all right now we're getting lore and land right
+we could put these into the dom right away
+but if i just hard coded this if i just like hard-coded these into the dom
+what's the problem i'm gonna run into different spells different answers
+
+01:12
+exactly we might wind up with a spell that has more than two subclasses does
+anyone know a spell that has more than two subclasses
+oh it's the high spell missile you spell missile
+i'll use fireball if this doesn't work yeah i'm not a spell
+i'm a baddie and i spell bad uh no oh well this is different lauren fiend
+polymorph now burning hands let's see still just two oh you know what oh you
+know what you know what we're not doing this this is this is it
+
+01:13
+this is the problem you run into when you hard code stuff because it's only
+the two things are still hard-coded hold
+on hold on hold on let's get back to our
+code the two things are still hard-coded i just did it in real they just did it
+in real life it was engagement i swear i was just
+here for that i got i did because we weren't actually console logging all the
+data so let's console data.subclasses we weren't actually console logging it
+uh so we were just we were just console logging our hard-coded versions but we
+weren't actually console logging all the subclasses so let's let's go back and
+try again uh let's refresh let's try burning hands
+all right they had two so now we can at least see that there is two right um
+
+01:14
+i think they might all have two well polymorph had zero that was a good
+one yeah that was good polymorph had zero let's see
+so we got an empty array so if we were hard coding that could be a problem
+fireball has three let's try fireball boom that's two um
+so we're seeing at least at least some have zero right some have zero some have
+two right and there could be one that has beacon of hope i trust the rust let's
+see beacon of hope let's see boom there we go and this one has three
+
+01:15
+thank you rossi this one has three so we had just hard coded
+if we had just hard coded zero and one we'd be missing out right we'd be
+missing out on the third value and we saw that play on real time i got i hard
+coded it and i was like why am i not seeing the third why am i not seeing the
+third because i wasn't console logging all of them so now we know that
+now we know if we why are these like tabs weird that's bothering me
+uh now that when we when we go to put this into the dom we know that if we
+were to hard code them we'd run into some trouble right we could just plug
+this stuff into the dom and be done but what i really want to do
+is i want to loop through the subclasses and append them to the dom and so in my
+
+01:16
+in my html i have an empty ul what i want to do is i want to append
+well let's let's go back here for a second hold on what goes in ul so it's
+been a while since we've touched some html in css what goes in our go goes in
+our yield all right [Laughter] lis go into our into our ul our list
+items cool all right we might need to do another super review for some of y'all
+mayonnaise get out of there all right so i want to be able to loop through all
+the subclasses we know sometimes we get zero sometimes we get two sometimes we
+get three so we'll be able to loop through them
+and so i'm gonna i'm gonna go down here and i already know that
+data.subclasses returns a what append means to like put something in or on
+an array so what method do we have what method do we have that enables us
+
+01:17
+to loop through an array yeah four each why does it do that i don't like that
+for each i was going to type it out all right we get this lovely for each
+and this for each will enable us to loop through the array
+and so the very first thing i want to do
+is i just want to grab the first element all right it's going to grab that first
+element and i just i just i just want to append it to the dom right i just want
+to take the element and i want to well not something let's just put it in the
+console first let's just make sure this is working
+cool so if this is working what we should see is each element
+printed to the console i'm just gonna i'm gonna comment these out for now
+
+01:18
+all right we should see each of them each of the like objects append it to
+the dom so let's go ahead and see if we sorry put into the console let's see if
+this does anything let's save it let's go back
+let's do let's let's i'm going to copy beacon of hope let's refresh
+and type in beacon of hope and all right great we we just logged what
+what did we log here we logged all three what yeah we logged all three objects
+and so i use the el short for element remember
+this is just a parameter this could be anything we could have called this robot
+and then console logged robot and it would have worked just all the same it's
+just it's just a parameter uh since i know that i am looping through an array of
+objects what do you think a good parameter name could be
+
+01:19
+yeah like object or i i don't like i don't like using the like maybe maybe
+object might be a protected word but like we just do like obj right short for
+object obj short for object and then we don't
+actually want to console log the objects we wanted to grab the what off of each
+of these objects we could use subclass that could be a good thing too
+the name so i'm going to do object dot name cool let's save this
+let's make sure this works and then i'll walk through why it works refresh
+beacon of hope boom we got our our three subclasses
+that get printed to the console and so this loop is just a generic for loop
+what it is doing is it's running once for each object in the array
+each time it runs it's grabbing that object
+and pulling the name property off of it so
+
+01:20
+data.subclasses when we did the beacon of what was it beacon of hope when we
+did the beacon of hope that subclasses had an array that had three objects in it
+for each ran the first time grab that first object and then pull the name
+property off of it or each ran the second time grabbing the second object
+and grabbing the name off of it and then for each run the last and third and
+final time grabbing that third object and grabbing the name off of it
+right so all this 4-h is doing is enabling us to loop through that array
+and grab each object that's in that array we can see that that array
+had three objects in it and all we're doing is looping through grabbing each
+of those objects right right grabbing each of those objects
+and grabbing the name property out of them we can even look we can see that
+
+01:21
+each of them has a name property that we're grabbing name name name beautiful
+now instead of instead of printing it to the console i want to put it into the
+dom i'm gonna put it into the dom and so what i'm gonna do here is on this for
+each i'm gonna do my curly braces and why do i need curly braces what is
+curly braces gonna enable me to do just multiple lines exactly multiple
+lines gives me like a block that i can put multiple lines in so i'm going to
+keep the console log here because i think that might be helpful for us to
+see what's going on but now i what i want to do is i want to create an li
+to go in my ul i want to put the the name the sub class name into that li
+
+01:22
+and then i want to append that li to the dom so i'm going to do a little little
+pseudo code here create an li um add text to li and then append the li to the ul
+cool so these are some things you might have
+to look up if you've never done before that's why we're going to do them
+together so we're going to go ahead and create an
+li so i'm going to do const ally and i'm going to set it equal to
+anybody know how we can create an li anybody come across this yet
+anybody with in mind will streams that saw this
+yeah it's create element i think this is aptly name document dot create element
+and we can tell it what type of element we want to create and in this case it's
+
+01:23
+an li boom we've created an li and the cool thing is we've stored this
+li that we've created in the variable called li
+i love it this is where it gets fun folks right all i told is i said hey
+create an element in this case i'm creating an li
+and i'm storing it in the variable li so now wherever i use li that's the li i
+just created so now i can add text to this li
+anybody know how to add text to the li inner text is something that we've seen
+but there's there's another way too let me show you let me show you so li dot
+text content so the the content of the li
+
+01:24
+what do we set the content of the li to where we set the content of the li to
+what does it need to be what content should go in our li
+oh [&nbsp;__&nbsp;] i figured out what it is i remember what it was
+name is now a tld so when you do dot name it thinks that it's a url and you are
+going to get auto modded so whenever it sees dot name it thinks
+that it's a url that you're typing in so you can't type in dot name without
+getting auto modded but yes we would say object dot name
+tld is like the like you know like dot com dot org
+dot co dot io well now dot name is one of those and so
+um it'll think that you are trying to put urls into chat yeah top
+level domain exactly cool so we're gonna grab that object name
+that we've been grabbing the ones that we've been console logging we're gonna
+
+01:25
+put that content inside the li and then the last thing i need to do
+is append that li to the ul and so all i'm gonna do is i'm gonna i'm gonna
+grab my ul document.queryselect ul and anybody know how to append my li to
+that ul yeah pen child somebody's like how do folks know this well they know it
+because they were hanging out with mayan wolf part of the
+100 dev stream team and they went through something similar
+all right penn child and we're just going to append the li now in this case um
+in this case what is l i here what is is it what is l i here
+what is it yeah it's a variable and it's the variable that's holding the
+
+01:26
+li that we created the li that we put some text into and now we should see
+that li be appended to the dom right so here is my hand and i am appending
+my switch pro controller to it because i'm ready for honda civic
+let me show that again in real time here is my hand and i am appending
+my switch pro controller for it i'm taking y'all are taking this this
+week to to work to catch up i'm taking this week to grind
+i'm gonna come out a lean mean smash fighting machine i'm ready for you
+right here's my hand i'm appending the switch pro controller to it beautiful
+he's not even in chat good i don't need i don't need him getting any more
+
+01:27
+channel points i don't need them anymore all right i suck at smash i'm gonna get
+rolled but it's gonna be fun all right so
+we now have the ability to loop through all the subclasses we're creating an li
+each loop we're putting the content in the li and then we're appending that li
+to the ul so if this works what about mario kart oh you don't want the smoke
+you don't want the smoke it i could play blindfolded and still
+beat you you don't want the smoke cs go you don't want the smoke
+i think it has to i think it has to be a switch game though because that's like
+what what i can probably get set up for stream you know
+all right let's see if this worked we're having too much fun let's see if this
+
+01:28
+worked all right beacon of hope boom first try let's look at this
+got the three subclasses showing up um let's do asset arrow
+two showed up um oh but we didn't do something what should we we we we have a
+new error that we're running into um that would be like clearing it
+right we'd have to like clear all the all the lis right
+i'll save that for your homework i'll let you figure out how to remove
+stuff from the dom if you wanted to clear it out on each one
+we could do something really really simple we could like refresh but i'm
+going to save that for your homework yeah cool but it's working let's say beacon
+of hope boom we're getting the things put in there
+let's refresh the page let's do asset arrow
+
+01:29
+boom subclasses are going in there love it let's take a look at the code let's
+walk through how we did it all right let's take a look
+oh if you want to see how to do it you can go and watch mine's vod where they
+walk through how to do it there we go that's how we get the engagement
+mind walk through how to remove the child there you go
+all right let's take a look we have our click event for when we
+click on the button right where we click on the button when
+we click on the button it runs this get fetch
+the very first thing get fetch does is we look at our input we grab the value
+
+01:30
+out of the input right we grab the value out of the input sizer welcome uh grab
+the value of the input we store that value inside sorry store
+that variable value inside the choice variable
+we plug that choice variable into our template string here and then we use
+this whole string to make a fetch we send that request to the dnd 5e api and
+it sends us back this massive json object
+right this massive json object and what we do first is we console log that
+massive amount of data we get back and we saw that there was a sub class
+property that's what we wanted that's where the goods were so the first thing
+we did was just console.log the data.subclasses so we could see it and
+when we saw data.subclasses we saw that it was an array
+and that array had multiple objects in it so we said hey
+we can't just hard code this because what if there's zero what if there's two
+
+01:31
+what if there's three different objects in that array so what we decided to do
+was loop through [Music] each object in that array so each time
+for each runs it's grabbing one of those objects
+and once we have the object we can do whatever we want with it we can pull the
+name property off we can do whatever the heck we want so we got the object and
+what we decided to do was create an li we put the name of the subclass in the li
+and then we append it that li to our ul we're having fun now folks look at this
+
+01:32
+this is wild this is wild this is wild a pen child is not a function you did a
+lowercase c instead of a capital c capital c
+or a lot of times folks will type in chat what if we did like this very small
+tweak some of them i'm happy to do but a
+lot of times i think you should just try it right like if you if you wanted to
+see would something work with inner text try it would inner text work here right
+try it take this code break it play with it try out these little things that's
+what you learn so much from having those little those little
+little epiphanies as you try and play and break and open and do things in your
+own way so the biggest thing i hope for is that when you have this because i
+always share the solutions after class when you have the solution if there is
+
+01:33
+like why did leon do it this way and not that way that you go and try it you
+break it you you see what happens right you got to do that that's how you're
+going to make things learn how you're not going to forget stuff it's part of
+that like it's the active recall in the moment but that exploration is what
+makes a phenomenal engineer when they go hmm they don't just walk away they
+figure it out they go all right let me figure out how i can do this that and
+that you know so definitely i try to cover some of them in class but i would
+love if you all took that to heart and said you know what i'm gonna try as soon
+as we're done i love it for the first time they said break
+it i've been getting a whole lot more first tries i love to hear it cool uh we
+
+01:34
+are making good time uh some folks asked to run it back one
+more time so let's run it back one more time and and we will
+we'll move on to our next application all right so we went to the dnd api
+right we went to the dnd api they have so much stuff here look at all
+this documentation you could you could be reading all this
+look at all these different endpoints that they have like all these different
+pieces of the api that you could use but before going too deep into the sauce
+we said all right here's the example that they give so that's what i'm going
+to use we first tried this example in postman
+just to see if we got some data coming back i like to use postman in the
+beginning just so i don't have to set up my files i don't have to worry about
+like is my is my javascript like i want to worry about any of that weird stuff i
+just thought it postman it was working so i was like all right this is an api i
+
+01:35
+could probably use when you're first starting out
+especially if you were trying to do the homework right
+if you were trying to do the homework the hard part of like finding three apis
+was just finding three apis that worked and that you were excited about um
+a lot of times like if there's stuff that wasn't on that list that you didn't
+like you could just google like the thing you're interested in and api and
+you'd be surprised how many apis that are out there cool
+all right so i know that my time's not gonna be wasted i know that this is
+working right i know this is working so what i
+want to do is i want to go ahead and plug this into my api template
+everything that you saw here when we first started was part of the template
+we had the normal input that we have the normal button that we have and i just
+had to i just added two things like a place to put the the the i added a ul
+which is a place where i'm gonna put all of my subclasses in cool
+
+01:36
+so first thing we have here is our event listener our smurf that is waiting for
+the click right it's waiting for the click on this button why don't we just get
+the value out of the input on page load right the first thing we do
+is once it hears that click we get the value
+out of the input why do we wait for the click
+yeah if we just did it if we just if we move choice right if we like
+moved this line here like just out of the function it would
+happen on page load and the user would never be able to type in their their
+thing they were looking for fast enough the page would always refresh before
+they could type in their stuff and so we make sure it's inside the
+fetch as soon as the user clicks the button hopefully they've entered in
+
+01:37
+something before they click the button we'll grab the value out of the input
+and we're going to plug it into the url now where the heck did i get the url and
+where did the heck did i know to plug in the choice over here
+where did i get the url on how did i know to plug choice there yeah
+i read the docs i read the documentation for this api
+you have to read the docs so many times docs are going to tell you exactly what
+you need to do how to do it and if you read the docs well or get used to
+reading documentation you can start to suss out like how it's going to work how
+it's going to do it's going to do so i read the docs i got the url from the
+docs i plugged in the choice and the very first thing i did was just
+like console.log i always console log first don't go deep into building
+console.log make sure stuff is working make sure that you uh understand what's
+like what you're getting back so i got back that big data right i got all that
+data back and i peered through and i saw ah there was a subclass
+
+01:38
+property that i could use and that subclass property
+when i console logged it showed me that there was an array and that array
+had some objects in it so i knew that i was going to have to loop through
+that array and grab each object and once i grab that object
+i was going to grab the name out of it and put that in an li and then put those
+lis into the dom now there's only one place we put lies and that's a ul and so
+that's what i did down here i know that data subclasses was an array i used for
+each to loop through that array if there were two things in the array
+this for each was going to run twice if there were three things in this array
+it's going to run three times and if there was nothing in the array it
+
+01:39
+wouldn't run at all and so what i did is i said all right this is the parameter
+it's going to hold the object i console.logged the name property on
+that object which was all the subclass names
+and then i did three important steps i created an li
+and i stored it in a variable called li i could have called it robot could have
+called it unicorn but since it's an li i called it an li then i put the name
+in the li so now i just have like an li that has some text inside of it
+and then the last thing i did was take that li and append it to the ul
+all that did was put if this was my ul here comes my li
+
+01:40
+i appended the li to my ul yup kimberly the li goes into the ul in the html cool
+yeah html is not too wild here just the ul that i added to the template
+alrighty let's keep pushing folks this was a good
+like if you understand like come on if you understand what the heck's going
+on here like even if you can't do it from scratch right you're gonna have to
+re-watch this class you're gonna have to put this stuff into your anki deck
+you're gonna have to play with it for a little while but if you understand like
+think about all this like all the [&nbsp;__&nbsp;]
+you have to know to understand if you're even close to understanding
+this right like if you understand that oh i clicked the button in the dom and
+when i clicked that button i got a value out of an input i plugged that value
+
+01:41
+into my string using a template literal you can use the bling syntax to do that
+i then used that url to make a fetch that fetch got me some data back from a
+third-party server out there on the internet that that server sent me a
+bunch of data and i parsed through that data using dot notation i saw that there
+were some sub classes in there i uh i then looped through those subclasses
+because it was actually an array of objects and i was able to loop through
+that array of objects i pulled out each object i got the name property of off of
+each of those objects i created an li i plugged the the name property into that
+li and then i appended that li uh to the ul that was existing in the dom so when
+the user enters something they actually see it like what what
+
+01:42
+come on now if you're even like fifty percent here like if you're if
+you're even just like i get fifty percent of these words you are in
+the one percent of all one percent of people on this world that has any idea
+what's doing this because you know how much work you got to put in to
+understand just about 50 of this you know much work you got to put in
+some blood some sweat some tears some long nights you got to put in to
+understand this [&nbsp;__&nbsp;] this is why not everyone is a developer
+right it's hard [&nbsp;__&nbsp;] work but you're showing up you're putting in
+that work and even if you understand 50 of this you're so far beyond
+all the folks that come to me and say leon i want to learn how to code what do
+i do do this and then i never hear from them again
+hundreds thousands of people that send me that message here's what you got to
+
+01:43
+do they don't want to put in the work you're doing it so i don't care if you're
+deep in the trough of sorrow i don't care if you understand 25 of this you
+have to understand how far ahead leagues miles ahead of folks that want this but
+don't put in the work to get there you've been showing up time and time
+again to put in the work and if you keep doing it
+if you keep showing up you keep putting in the work you keep going through the
+trough of sorrow you make it to the other end and so we got this break coming up
+use the break to your advantage to do whatever you need to do but whatever the
+[&nbsp;__&nbsp;] you do don't stop it's a marathon not a sprint i don't
+care if it takes an extra month if it takes a little bit less it doesn't matter
+you keep showing up you keep putting in the work you're going to get there and
+
+01:44
+you're already miles miles miles ahead of all these other folks that say they
+want it but they really don't you owe you cool alrighty so the really cool thing
+about the really cool thing about this api is there's so much stuff here
+there's so much stuff here i really like this api because you could really build
+uh a bunch of stuff for a lot of different folks if you want
+to help dungeon masters be able to look up spells quicker you could build that
+app if you want to be able to like show all the sub classes for every
+class in in the 5th edition you could do that right and so i like this one
+because there's a lot of meat here and this is an api that could actually spit
+out some pretty good portfolio projects and if nobody told you a lot of software
+
+01:45
+engineers are big nerds and so you have a dnd app on your portfolio that gives
+you something to talk through with that nerd during your interview
+and so yeah if you don't play dungeons and dragons it's cool throwing this on
+your portfolio because it's going to open up some conversation to enable you
+to talk to that to that person and um yeah so i i like some of these i like to
+call them nerd bait in your portfolio it just makes it a little bit easier to
+have conversations with folks and uh you'd be surprised how much of a
+difference the maker that can be when it comes time to getting a job
+talk about smelling good exactly ford all right
+do any of the nerds surf you'd be surprised
+yeah you'd be surprised especially like in cali yeah
+all right let's keep pushing folks all right we we talked about last class
+about local storage i love local storage local storage is
+
+01:46
+what's going to enable your apps to be real
+for users to be able to come back over time to actually use your app like you
+could put an app just on netlife host it for free
+but if you're using local storage folks can actually use them they can come back
+stuff can persist they can refresh the page and not everything disappears and so
+if you're talking about adding some stuff to the apps that
+you've already built it's local storage it's a game changer it makes your apps
+real you invest in building something you add it make it look good and you add
+local storage you might actually have users that come back over time to use
+your app all right and so we're not talking like huge amounts of
+data yeah it has a limit we're not talking huge amounts of data but look at
+wordle wordle just stores the statistics and wordle became an internet sensation
+
+01:47
+right people all around the world every single day playing the same game
+and it uses local storage if wordle can use local storage you can use local
+storage and then sold for millions of dollars exactly
+every single person by the end of this cohort will be able to build wordle very
+quickly in fact if you're with mine well they've already built it right and so
+by the end you can definitely build wordle and if they if you if like you
+have the power to build an app that can be sold for millions of dollars that's
+pretty wild all right let's talk about local storage
+real quick and then we'll take our break and when we come back from our break
+we're going to build a cool app that uses local storage we're going to see
+some some bits or bobs that we could start adding to our projects everything
+that i've been showing over the last few classes
+is just so you can start to build real stuff
+
+01:48
+right if you can use apis you can build real stuff with real data if you can use
+local storage you can build real stuff that persists and so i really hope that
+you take all this stuff right and use it to build bigger apps
+you don't have to wait for me to give you an assignment if there's something
+cool that you want to build try it if you get stuck come to one of
+our working together nights on tuesday and thursday next week go to discord say
+like i'm stuck on this but like start building start thinking of little things
+that you can build because that's where so much of your learning is going to
+come from all right local storage uh local storage allows you to store
+data across browser sessions right and so the idea is that your user
+can close their browser they can close their tab come back and still have
+access to a small amount of data there's a way that we can put stuff into
+local storage by saying set item uh so we say local storage set item we give it
+
+01:49
+a name and we give it a sorry a key and a value and we put that key value into
+right right that key value into local storage
+we can also get values out of local storage so we can say hey get that item
+of best friend and it would give you the item you don't need the bob here that's
+a mistake and then you could also remove an item from local storage so you have
+the ability to put stuff in get stuff out remove stuff and you can even clear
+all the local storage if you would like so what i want to build
+is a book tracker app i want our users to be able to enter in a book that they
+have read and then it stores it in local storage
+so we're going to use a an api that looks up the isbns of books it gives us
+the title of that book and then we're going to start storing those titles into
+local storage so that our users can keep coming back and have like their own
+
+01:50
+version of say like of like goodreads or something like that cool all right
+we're close to the top of the hour so let's go ahead and take our break if
+you're new around here we take we put five minutes on the timer at the top of
+every hour to be healthy to move around if you're able to to let your eyes focus
+on something that's not the screen to kiss some babies walk some dogs i'm
+gonna put five minutes on the timer i'll see you all soon so five minutes i'm
+gonna run some ads you actually take a break and i'll see you all in five
+
+01:55
+[Music] you all right folks come on back come on back
+
+01:56
+we got a lot of dnd players huh yeah this is a vive i'm feeling this
+and it gave me the perfect fade a turn up all right folks let's go through this
+together let's talk about this app let's see we're going to build a book tracker
+michael the learner hey to you as well alrighty so
+i want to build a book tracker where the user can
+enter in an isbn like the numbers for each book like the unique number for
+each book i want to be able to then grab the title and then store that title
+in local storage so that whenever the user comes back they can see all of the
+like they can see all of the books that they have read over time
+so that's the goal and to do this we're going to have to
+learn a new api look at a new api we're going to have to learn a little bit
+
+01:57
+about kind of local storage and how that works
+and we're going to kind of take it from there
+just to get started i'm going to use this api
+you can click the api here in the link on the slides once again you can click
+the link on the slides once again you can click the link on the slides
+and i'll also put it in chat so here's the api
+there we go that's the api we're using today and uh this api
+is a little funky in my mind it works i like it i've used it
+but there's a lot of different stuff here and i think it's a good
+
+01:58
+it's a good example of how most apis kind of shake out right
+if we look there's like you jump in it's like the the open library has three
+types of book apis the works api the additions api the isbn api and the books
+api generic great all right so worx is a logical collection of similar editions
+oh boy and so this is where it just kind of goes off the rails right like like
+you could scan vr a thank you for the five gift
+itselves i appreciate you thank you for being here
+make sure you get yourselves that's a wild
+if you get the subs everyone uh a lot of folks using the prime today thank you
+for the prime subs appreciate it thank you for regular subs all right
+uh if we look at this api we have a lot of like you got to kind of read it right
+you got to like scroll through and see what works what doesn't work and so
+
+01:59
+a lot of times i'll be honest when i find a new api
+i kind of just like look until they give me an example
+and then i just kind of grab that example and try it out right
+and so i'm just i i see here that there's like a like a
+there's a bunch of different like urls and stuff like that and um
+you can you can kind of scroll for days to find it and there's all this
+different stuff in here um but i'm just going to grab some stuff
+and and see if it works and so i'm just going to grab this first one and um
+i don't know let's see what's here let's grab this let's see if it works boom
+i'm going to go ahead and create a new kind of tab here i'm going to plug it in
+and uh see what i get all right so it actually works the link works
+um and we're getting some certain information back
+
+02:00
+some folks are saying what does curl mean so curl is a command line utility
+remember how we talked about the terminal and how there are some programs
+that could run in the terminal well curls like that it's like a fetch but it
+works inside of the terminal like through the command line yeah it's like
+a way of making requests exactly all right so that that worked i just
+grabbed the url to see if like it would work inside a postman and it works i'm
+getting some stuff back i'm getting like the isbn back i'm getting
+some i don't know what this lccn thing is so
+actually i'm kind of curious if i just remove this lccn do i get anything
+different oh yeah i just get it without the um without that that other data so
+a lot of times i will take the url and i'll just play with a little bit to
+see what kind of data i get back um to see if it's working but right now
+i don't see the the title i want the title like i want to be able to
+
+02:01
+to pass in a in an isbn and um and uh get the title back robodominate
+thank you for the bits so let's go ahead and go back to this documentation and
+i'm i've done this already like i already know
+what i'm looking for but i want to show you like a realistic take of what i
+would do when i come to a new api uh i don't i don't really spend all the time
+reading honestly i just start taking urls and like start like looking through
+it and so i i look for where they give examples and if they give me an example
+i can see like there's like a title in here
+so maybe whatever url they're using here would give me the title as well
+i'm just going to grab this one and i'm going to go back
+and i'm going to plug it in and i'm just going to see what i get back all right
+
+02:02
+i am getting some stuff back i am getting number of pages i'm getting covers
+i do have the title here i am getting the title from this one
+uh so there is there is a title in here somewhere
+um and it looks like we have a lot of stuff on here i don't know what this js
+mcd stuff i'm gonna try removing that i'm definitely gonna keep the format
+json query parameter because i i want the um i definitely want it to be in json
+if i get rid of that format thing i don't get all the details so the thing i
+just deleted seems to be kind of important so i'm going to keep that
+there because when i have that there i get all the details that i need cool
+what happens if i remove the format.json let's see i don't know this is part of
+that play i talk about right like i just play with it i see what i get what what
+it what it what it does and what it doesn't do and oh interesting
+can you see what it did here i know it's a little small to see
+
+02:03
+but you can see that it sent like an object it's like it's like it's
+like a variable is now there it's not it's no longer like a like a nice clean
+object it's like it's like a variable that it gave me huh that's interesting
+let's add it back and when we add it back we can see we just get like the raw
+object which is way easier to work with probably
+uh so yeah so there's a lot of little things here i think this could work i
+think we would be able to plug in um our isbn and get some some stuff
+happening there are a lot of other like endpoints on here like the urls that are
+on here i think some of them are easier i actually think i wind up using a
+different one and so i'm going to leave it up to you to pick the endpoint that
+you use but what i want to do is i want you to make a copy
+of our api template so we have the api template uh that's like i believe it's
+the set up as the pokemon api yes it is the pokemon api
+
+02:04
+i want you to make a copy of your api template and i want you to get back a book
+title i want you to be able to enter in an isbn so for folks that don't know an
+isbn on the back of books there's often these numbers the isbn numbers
+either use the isbn they give you in the docs like just like the um
+the generic one that they have like right here or grab a book that's near you
+and and plug it in so what i want you to do
+i'm going to put some time on the on the clock here
+use your starter templates use the api template get
+the title of the book coming back like i
+want you to console log the title of the
+book they should be able to enter in the isbn and get the title of the book back
+so i'm gonna put some time on the clock for you to do that and then we're gonna
+
+02:05
+go through it together and then once we've got that working we're gonna dig
+deeper and start storing this stuff in local storage all right
+this is one of your three api apps that's pretty dope all right let's go
+ahead i'm going to kind of just leave open i'm just going to open up my api
+template here i'm just going to use this
+one the javascript i'm going to close my dnd
+and i'm just gonna bring oh it's the nasa one now right this is nasa uh so
+it's not the longer the pokemon one is nasa this is even better it's still the
+same stuff uh go ahead and get the title
+coming back from this api it's up to you what route you use read it play with it
+figure out which one you're going to use and then get it working let's put five
+minutes on the clock here five minutes and we're gonna go over it together
+go for it how do i duplicate the folder depends on
+
+02:06
+your operating system you could just do a mine on mac os that's just right click
+duplicate you could just copy and paste it you know
+book 503 axios better we're not there yet though
+yeah we'll get there we're going to go to async await and then we'll get to
+axios when i say endpoint ping pong i just
+meant url like the url you get to choose what url if we look at the um
+api there's so many of these different urls you could use some of them are
+going to give you the title data some of them are not so i'm going to let you
+pick it you got and part of this is like reading the documentation and figuring
+
+02:07
+out what url you want you want to get back a title for when
+they enter in an isbn like the number of the book my
+
+02:08
+oh no sorry to hear that multi always rams always rams
+better nellie we're just trying to enter in an isbn number and get
+a title back we're gonna go through it all together too
+miner thank you for sharing um well this is always i always i'm playing um
+stream beats by harris teller this one is unwind and recharge
+is there a way to have multiple resolution on a single video what do you
+
+02:09
+what do you mean catchy resolution in a single video i mean like
+a lot of the big players like youtube you can change your resolution based on um
+it really comes down to having the highest resolution possible and then the
+player being able to choose goodwill hey congrats
+got a lot of dunzo's coming in that's good to see
+don't worry we're going to go over it in about a minute 30 seconds
+me too now get me too seven minutes yeah if you can store it
+in a variable that can save you a lot of look up time
+not really super speedy but more so that your code will be drier [Music]
+
+02:10
+trying to get the trying to get the title [Music]
+oh thank you for the gift of sub i appreciate that
+we just want to see the title yeah we just want to see if we can get the title
+put it in the console that's about it do you have a suggestion for basic paid
+domain hosting i mean like just buying your domain buying your domain i
+recommend namecheap where i want my domain
+
+02:11
+um but i mean like hosting just i just use netlify for free
+all right folks come back let's take a look at this together come on back come
+on back i'm feeling maybe maybe i'm i'm feeling maybe our first real end early
+i'm feeling it but i think we i think we might we might do it you know why
+when i first planned this lesson i planned it um because we had just made
+partner we just made partner on uh on twitch when i last planned this session
+so we've got a little bit of room to play with here it might be our first
+real end early heading into our break ended into a holiday weekend we'll see
+[Laughter] one hour later spring break all right uh so we have all the nasa
+stuff in here what i want to do is i want to find one
+
+02:12
+of these the urls that like actually works
+uh what urls did you all wind up using that was easy to get the title i see all
+some folks like saying to use certain links or something like that which one
+did you use don't you don't maybe just don't put like the um
+the full link because it'll get blocked out the isbn one
+all right so it looks like there was the works the editions the isbn and the
+books it looks like folks are saying the isbn ones let's take a look this is
+works this is editions this is isbn and all right here's here's one of the links
+oh and i guess this is just where the isbn goes it's just like the end of it
+so let's try this and see if it works i'm gonna plug it in and uh
+
+02:13
+i just had the raw link right that was what it was yeah raw link let's see
+all right we got something back but look
+it sent us back what did it look it sent us back like html
+right it sent us back like html data is this like formatted already oh yeah
+it's all in here but it's html interesting um we before we used to do the um
+i swear when i pasted it and did it we had the and was it
+uh format is like and format equals json let's see if this does anything
+nope still the html let's go ahead and take a look at the
+docs and see if they give us anything to get the json data uh
+all right here we go you may add dot json to the end of your
+url to request response in json instead of html so this is one of those weird
+apis where you can get html if you want it if you want the json we got to add
+
+02:14
+that dot json to the end jason all right let's go ahead and just uh the
+add format doesn't work for this end point dot json look at this go
+let's go there's so much stuff in here and so this is this is another reason
+why i really like postman right like i'm able to play
+i'm able to um mess around and uh it it i i don't have to worry about like like
+being in my actual javascript file like i can see everything that's in here all
+right let's see if we get what we want boom title fantastic mr fox beautiful
+i also have a book here that i want to test real quick to see if it works i
+want to we want this to work for a bunch of books right so i have my
+my spanish workbook here so i'm going to uh plug in the isbn of my spanish
+
+02:15
+workbook seven eight one two six zero four six three one three two
+all right let's see if this works oh yeah
+there we go you can see my spanish book showing up
+uh it has the title there if i need it um cool so it's working so it's working
+not only with the the with the like the value they gave me is
+like the the default like the test value but it's working with an actual book i
+have near me so boom are you anchoring that book hell yeah i'm making that book
+anki was made to learn languages like that was like the original use for it
+so if you're trying to learn a language hell yeah mikey decks are gonna be plump
+all right so now we know this works we know it
+works not only with the test isbn like the number of the book but also with a
+book that i have next to me so i feel pretty comfortable using this i know i'm
+getting json back let's get this working let's uh let's just get this working
+
+02:16
+and make sure that we can use it so here
+we have our template which is set up for nasa right now
+i'm just going to open this in the browser and um i'm going to open up the
+inspector before i start making changes one thing i always like to do
+is just see if it works right like sometimes your templates
+don't oh that's so cool oh my gosh i just got data back from nasa that
+blows my mind like if i could go back and tell like six-year-old leon like one
+day leon you're gonna know how to write code that gets
+beautiful photos back from nasa my mind would be blown look at that that's
+beautiful um so i always just like to test my my
+template code to make sure it actually like works right make sure it actually
+works so now i know it's working uh the thing that we're probably going to
+change though is that this is now a date
+
+02:17
+input so i want to change this back to a text input and uh i'm probably just
+going to leave everything as it is and the only other thing i have to
+change is the um endpoint right like the url
+so let's go ahead and plug in the url that we just tested
+in postman right we just tested this in postman we know that this url works so
+i'm not even gonna i'm not even i'm not even gonna try and use a like use my
+variable like the choice variable or like my template literal at all i'm just
+to save it and see if it actually like does anything so refresh click the button
+boom um i still have the media not support it contact nasa immediately i love it
+[Laughter] please don't contact nasa all right so it worked and we got um
+the book back that i had entered that looks good to me uh
+
+02:18
+what we can do now i'm just going to get rid of all this stuff is that's in here
+um that way don't worry about like the nasa alerts or anything like that i
+still have my data let's once again let's just run this to
+make sure that it works even though i chop some stuff out still working now i
+want to get to this part here i want this to be what the user enters so i
+know i'm already inside of a template literal how do i know that i'm inside of
+a template literal how do i know i'm inside of a template literal
+the ticks exactly boom boom choice you don't thought we could get this done
+in five minutes i do i do think some of you could get this done in five minutes
+but it's never completed whenever we do assignments during class it's never
+completed it's get as far as you can that's the point as far as you can
+
+02:19
+all right we got our choice plugged in we should be able now to grab our choice
+i'm just going to go to post one real quick and grab that number yoink all right
+uh let's go to our site and refresh let me post in my number
+i don't need the json though and boom all right we're still getting the
+spanish book uh and i'm able to type in my own number and get it let's grab
+their default number and make sure that that works the fantastic mr fox
+boom working fantastic mr [&nbsp;__&nbsp;] let me just refresh a
+little easier to see for everyone so i'm
+gonna paste in the the default that they gave me all right i got it in there is
+
+02:20
+the title and it's fantastic mr fox so it's working so we have the ability to
+have the user click a button when they click the button it gets the value out
+of the input we're plugging that value into our open library
+api url we're using the fetch to make to get that that url cool all right
+so what i want to do is i want to be able to start
+i want to be able to keep a book tracker so i want to be able to each time the
+user enters in a book to store that data in local storage
+but what i want to do first is make sure let me just make sure i can get the
+title let me make sure you get the title
+
+02:21
+first like that's that's what we want to work up to let's get the title
+let's refresh let me grab this this number again and close these
+all right let me type in the fantastic mr fox great i'm getting the title
+let's put this title in the dom all right let's see what we got in our html um
+let's move the h3 up here oh we already had name
+we can just put it in name i guess let's put it in name so we'll put it in
+the h2 so let's go ahead and target the document
+we could do document.queryselector we could target the h2
+
+02:22
+and we could put inner text equals and we could do data dot title
+all right let's make sure that we are taking the stuff
+and putting it into the dom correctly let's i'm just going to grab the number
+before we refresh all right let's refresh let's plug in the number
+all right cool we got fantastic mr fox showing up in the dom
+we still have it in our console log it's looking good looking good um
+so right now i am grabbing the title and i am putting it into the html
+the problem however what would be the problem if i wanted to keep putting in
+multiple multiple multiple books what if i wanted to put in multiple
+books what would be the problem i would run into
+
+02:23
+right now it just kind of overwrites itself exactly so let's
+let's not have it overwrite let's just kind of concatenate
+let's concatenate here so how can i make this concatenate plus equals yeah
+plus equals so now it'll just concatenate each time so let's save this
+let's go back and refresh uh here's fantastic mr fox
+i'm gonna click it the first time boom if i was to then also do it again
+you can see that we can keep kind of concatenating fantastic mr fox
+i could even um grab the number from my book that i have next to me
+
+02:24
+and plug that in and there we go now it's concatenating that book as well right
+cool so now we're able to put all of these books into the dom
+we can now have like a nice list of books that we're putting into the dom
+maybe we even make li's and put li's into the dom right some of those we
+could do that now but we have like the list of books
+now the problem with this list of books is what
+what's the problem with this list of books it looks ugly uh no the problem is
+and it all goes away right it all goes away yeah we could
+work on formatting right we could you know like we could like um
+we could put a little a little a little like space after it or something like
+that we could put like like commas or something like that we could do a bunch
+of stuff right but the big problem right now
+is as soon as i put all this effort to enter in all my books
+
+02:25
+and then i hit refresh and it just goes away no way
+so what what could we use what could we use to help solve this problem
+yeah local storage all right let's try local storage uh let's look at our local
+sources see if there's anything in it right now maybe i forgot to clear some
+old stuff let's see application local storage so we can see bot scores in there
+uh bot score from the other day is in there that's pretty neat so there's
+still something in local storage uh if i wanted to clear it what could i do what
+could i do to clear local local storage dot clear boom
+all right i cleared it if i go back to application we can see there's no key
+value pairs in local storage now cool uh so if i wanted to put my book title
+
+02:26
+into local storage what could i do let's say i want to i want to put put title
+into local storage what could i do yeah set items let's try that let's do
+local storage dot set item we're gonna call it books and we're gonna put into it
+data dot title data.title cool now we set the item to be data.title
+let's go back let's refresh i'm going to grab their their their number here
+and let's put it in let's click the button and cool so now not only do we have
+
+02:27
+the text in the dom but we have the text in local storage so if i refresh
+if i refresh right we can see it's gone from the dom
+but it's not gone from local storage that's pretty cool so what should i do
+[Music] instead of putting data.title into the dom
+what should i put into the dom yeah we could do get item yeah so
+instead of instead of just using the title raw we could do like the get item
+so let's go and do local storage dot get item
+
+02:28
+and we're going to get the books item so i just want to make sure you can see
+it all in one line for a second right we're gonna put just like we had
+inner text before to put it in the h2 instead of it just being data.title
+we're just gonna get the item books and use that to put it into the dom cool
+so let's go ahead and save this let's go ahead and refresh and if it
+works we'll go through and see why it works
+all right so let's go ahead and type in let's just grab the fantastic mr fox
+number let's plug it in let's get pokemon great fantastic mr fox is in
+
+02:29
+local storage we can see it in the dom and if i refresh we get any errors
+you get any errors what happened what happened
+look i refreshed i thought the whole point of putting into local storage
+but the whole point was that it that it would be there i thought i
+thought it would be there would be there for me all right let's take a look
+when do we actually put it into the dom does it happen on page load
+is it up here on page no it only happens when we click the button
+right it's only get the way we have it right now it only gets put when we click
+the button so let's go back and take a look i'm not even going to put a number
+
+02:30
+in here let's just click the button all right we updated we updated it to be
+undefined let's go ahead and plug in the number
+boom fantastic mr fox is getting plugged in there cool
+let's refresh let's try it again great so now we got it where
+it puts it in once we click the button um maybe we do it on page load as well
+let's just do it on page load and maybe we don't do plus equals anymore
+maybe we just reset it we reset it to whatever is in local storage so whatever
+the heck is in local storage that's what
+we're going to set it to be equal to and
+i'm going to do it on freaking page load as well
+i'm just going to copy this yoink put it up here save it
+
+02:31
+and let's run the page again all right i see you mr fox
+so now on page load no matter how many times they refresh see me refreshing
+they see me refresh and they hate in right it stays there no matter what
+cool we don't get guy uh i can also right now the way it's set up i can like
+just completely override um books and so if i just completely override
+what's in books um now it's complete spanish step by step premium second edition
+and no matter how many times i refresh it it keeps showing up right like the
+user can come back and come back they could close it they
+could come back right and it just stays there because it's not pulling from
+anything other than local storage cool now that's not what we came here for
+folks it's a book tracker right it's a book track i want to track
+
+02:32
+all my books not one book i want to track all the books
+so let's go ahead and take a look let's make sure we understand what's happening
+right now and then we're going to take it a step further all right so
+uh we have on page load we are grabbing whatever is in local
+storage under the key of books right whatever is in books
+we're going to go ahead and plug it into the dom that's why when we refresh
+right that's why when we refresh the book shows up in the dom right away
+now how the heck did we get something into right how did we get into
+the local storage so when we click our button we run the get fetch method
+we grab the number that the user is plugged in from the input
+we plug that into our open library url as a template string and so this will be
+
+02:33
+the url that we will use to make our fetch
+we go ahead and we make our fetch to the
+open library server we get back our data and the very first thing we did was
+console log that data all right so we console logged the data
+and then we realized that once we console logged the data
+we had the title property and so what i did is i took that title
+and i set a key of books on local storage that had that title so
+that's how we got books fantastic mr fox and now that there was a book in local
+storage what i decided to do was make sure that i
+used that local storage to update the dom so whatever was in the books uh key
+i plugged that into the dom here so i am
+
+02:34
+setting the value into local storage and i am updating the dom using local
+storage i'm no longer just taking the raw data back from the api i'm using
+local storage as my source of truth all right
+so now the problem is i don't want to just keep replacing books
+i want to have a list of books a list of books so what could i do
+arrays get messy inside of local storage let's just let's just use strings for
+
+02:35
+now let's just use strings what could i do i could just concatenate
+yeah i could just concatenate and update my storage with that concatenation
+all right so what i want to do is instead of
+constantly resetting it like this let me comment this out real quick let me
+create a variable let books equal and what i'm going to do is i'm going to
+get anything that's already in local storage so i'm going to get anything that's
+already in local storage under the key of books
+so this would give me every single book that's already in storage
+what would i want to add to those books what i want to what would i want to add
+
+02:36
+here what i want to add here yeah the title of the book i just got back
+so i can do a little concatenation here let's do plus
+i'm going to i'm just going to put like something in between just as like a
+delimiter and then i'm going to add data dot title so what this is going to do
+is when they click the button i'm going to get everything that's
+already in books that's going to give me the string
+right that's going to give me the string and then i am going to
+concatenate the new title and so once i have that new title what i will do
+is i will update my local storage like i'll set my local storage
+
+02:37
+but this time it'll just be books so what the heck am i doing here
+what am i doing here let's take a peek so if i grab all the books that are
+currently in local storage let's look the only book that's in local storage
+right now right is complete spanish so what i would be doing in this instance
+is grabbing the complete spanish and then if i had looked up fantastic fox
+i will be concatenating the colon and then the fantastic mr fox
+so now i have not only the all the books that were already in local storage i
+also have the new title as well what up true and so we're going to be able to
+
+02:38
+concatenate them together and then i take this whole new string
+i take this whole new string and i put that into local storage
+and then down here all i do is i take that new value and i put it in the dom
+let's see if this works and there are a lot of things that are
+going to help us down the line stringify parse like if you know some more of
+these like more advanced json tools like there are better things we could be
+doing here but i think this is kind of like stuff that we should at least be um
+yeah at least be getting close to some stuff we've seen before without pushing
+too far all right let's go back and take a look all right let's refresh
+we got the complete spanish step by step
+already in the dom so we're looking good we see in our application it's already
+
+02:39
+complete spanish is already in there let's grab the fantastic mr fox boom
+let's grab that isbn let's plug it in three two a one let's go first try
+and let's uh let's try refreshing it we refresh it's still there nice
+all right it's looking good looking good for straight first try
+thank you [&nbsp;__&nbsp;] let's understand how this works
+and then we're gonna solve one very important problem
+we're gonna there's a there's a problem with this right now and it's not just me
+i'm a problem but there's also a problem with the code if we do something weird
+so let's go ahead and take a look at it let's see if we can make sure that we
+
+02:40
+understand what it how it works all right let's see
+uh html file is just our normal html file that we have for the api template
+we got the button we're clicking on the input where we're putting the isbn
+numbers in and then we're just putting everything into this h2 here yeah cool
+so if we look uh we do something on page load we actually
+take whatever is in local storage and we put it into the h2 so before
+anything happens on page load we're saying hey whatever is stored in local
+storage underneath the key of books put it in this h2 right put it in this h2
+all right now we also have our event listener and
+so when we click this when we click that button it runs the get fetch function
+which is the normal function we've been using
+
+02:41
+we grab the value out of the input which is the new isbn number
+we then plug that isbn number into our url using the template literal right
+and then we get our response back from the api
+we can see that there is a title on the response that we got back and so the
+tricky part here is we want to be able to update local storage but we don't
+want to just completely wipe through everything that was already there
+what we do is we take whatever was already in local storage
+and we add the new title to it so we actually get whatever was in local
+storage and then we just add the new title to it and we store that in the
+books variable right so whatever is already in storage we grab and we add
+title to it so if i already had in storage uh magic school bus solar system
+
+02:42
+right what i'm gonna do here is i am going to grab magic school bus solar system
+and then i'm going to add magic school bus animals
+and then that's what gets put into local storage
+so the next time i ask for local storage i get back both right
+and then the next time i entered in a new book let's say i entered in magic
+school bus human body right i would get out of local storage the
+human body sorry i would get in local storage the solar system and animals
+that is already in there and then i would add the human body
+
+02:43
+and then all three of these would get put right would get put into local storage
+and so i'm using the idea that i can get what's already in there add something
+new and then put that all back in that's what i'm doing here right so i'm
+grabbing whatever books were already in there
+adding and concatenating the new title and then setting local storage to be the
+stuff that was previously in there plus the new one
+cool and then the last thing i do is get that value out of storage
+and put it into the dom however we have a problem
+we have a problem if you're showing duplicates we got rid of that plus
+equals that was here that was probably it right we got a problem though and it's
+not just me today what's what's the problem that we could run into
+if we clear local storage we're going to run into some issues so
+
+02:44
+let's go ahead and take a look let's in the console just clear it local storage
+got clear all right we cleared local storage and now if we were to refresh
+there's nothing in local storage right so we don't get anything that shows up
+that's at least good um and we put in our isbn we have null in there at first
+right we have like this null right we have this null that's in there
+let's go ahead and try adding the other number as well
+it's still working we can refresh but that null is in there
+why the heck do we get that no what do we think is happening there why why is
+
+02:45
+that no all right why is that no look on the very first time
+yeah on the initial call exactly on the very first time that this runs
+is there anything in local storage with the key of books the very first time we
+cleared storage and the very first time this runs would there be anything in
+local storage nah there wouldn't be so we actually already saw how to handle
+this last class what can we use to handle this so that
+we don't have the null that bothers us yeah we could have a conditional so
+let's do the conditional that we did last class so we're going to do if
+
+02:46
+right and we're just going to check hey does local storage dot get item books
+right if it's not no right if it's not no right if it's not no
+we're in a good spot right we're in a good spot so if it's not null
+if it's not no what do we mean what does
+that mean if it's not no what do we know it has something right it has something
+so can we just if it has something could we do this cool
+so there's two things we have to do we're gonna have this and we're gonna
+
+02:47
+have an else all right so one of them one of them we are going to
+do what we already have here the other one we are going to
+just set the the the local storage right we're just going to set the local
+storage let's let's just play here let's let's comment this out let's just play
+real quick let's go in here and let's just do this let's do uh local storage
+set item we're gonna set it to be books and we're gonna set it to data dot title
+cool let's just save this let's see what happens see what happens stay with me
+all right local storage set item all right let's save it
+oops sorry books there we go books cool let's save it let's see what happens
+let's let's uh we got to clear local storage first
+
+02:48
+all right so i cleared my local storage and i refresh you say there's nothing in
+local storage let's grab fantastic mr fox let's plug in the title
+let's get our pokemon and we saw a fantastic mr fox but
+let's check our application we can see that it's in the dom right so it worked
+there was nothing in there so we set it right we said it to be meant fantastic
+mr fox right but we didn't put it into the dom so we need
+to go ahead and uncomment that part that puts it into the dom either way no
+matter if it's the if or the else we want to put it in the dom
+right we want to put it in the dom so we're going to we're going to uncomment
+this part we know that there's we know that they're now
+we know that this first part works so let's go ahead and grab our other part
+
+02:49
+that we already had down here and plug it in let's copy it
+let's just play and see if it works right let's just play
+and i'm going to uncomment it all right let's let's see what we're
+getting now let's save this let's save this let's go back
+let's refresh we got a fantastic mr fox in there already
+let's grab my spanish book let's enter it now we got we got the complete spanish
+in there we got the fantastic mr fox in there if we refresh everything's still
+there in the dom i'm refreshing i'm refreshing let's clear local storage
+let's see if our original problem is still there local storage dot clear
+
+02:50
+boom we cleared it if we refresh nothing's in there let's put my spanish book in
+all right it's working now even even if we clear it we don't have the uh the uh
+even if we clear it we don't have the problem of that null anymore right
+cool we got rid of null let's go and take a look and see what happens
+when we get local storage get item books right
+if there's nothing in there what would we get if there was nothing in the books
+key of local storage what would we get we would get null right we get no
+right we would get no and so what we want to say is hey i'm gonna say hey
+let's get rid of the bang let's get rid of the bang and see what happens here
+
+02:51
+let's get rid of the bang let's see what happens let's go ahead and clear it
+let's try it again i want to see it play with a little bit
+let's refresh put it in boom you get the null again
+all right so we know we need that bang there so let's think through it
+what are we saying here we're saying if it's false
+right we're checking to see if it's falsy right
+if it's false right if it's false we need to go ahead and put something
+
+02:52
+into local storage right right we need to go ahead and put
+something into local storage if we're if the if we have something
+that's null in there we want to go ahead and put it into local storage
+right no by by itself is a falsie value right it's a falsie value right and so
+we say not falsie basically as we're saying we're saying not falsely we're
+making this true because our conditional only runs when it's true right so
+if there's null we're going to go ahead and set it to be the first book
+right the first book and then for every other iteration this
+will now be false the after the very first time we put something into local
+storage we don't need this if anymore and the else will run every single time
+
+02:53
+so this if is just handling the very first time when we have nothing inside
+of local storage every other time we can just concatenate and add to local
+storage cool alrighty so if we save all this up we now have a beautiful
+book tracker where you can plug in all the isbns of your favorite books
+and it will keep track of them you can refresh and come back and it will work
+as long as you don't clear out your local storage and so i know this is a
+simple idea and yes i know that we're doing isbns which don't make any sense
+but the idea here is that with these very simple tools you can start building
+apps to have persistence you can start plugging stuff into the dom you can
+start doing all these things that are real apps
+
+02:54
+and so come back and play specifically with these two apps that we've built
+tonight play with them right fox hey thank you for the hydration cheers to you
+because there are so many edge cases that we didn't think through right there
+are so many edge cases what if i like don't put anything in now i have undefined
+fix it make it work with undefined right uh there there are what if the book
+has uh has a semi like has a semicolon in it right there are so many like these
+weird edge cases that can come in with these problems and so if you're looking
+for like leon what do i you keep saying to come and break and play what do you
+want me to do well first try try solving some edge cases
+try try changing it instead of getting the title can you get something else
+right try playing with it if you if you're having some trouble kind of
+you understand when i'm doing it but then when you go to do it yourself
+that's always the case you need to play with the code more
+
+02:55
+you're going to have my full solutions on discord after class
+delete everything type it again get it working delete everything type it again
+brook leak hey thank you for the five good decels i appreciate that thank you
+for being here thank you for uh being so active in chat tonight too it was
+appreciated cool so let's go back and talk about the next
+week before we end with a lovely raid so we do not have office hours on sunday
+due to the holiday and then tuesday and thursday we have a
+work together nights so if you want to come and work on some stuff together
+work on apis if you're part of the ketchup crew and you just want to work
+with some other members of the catch-up crew to get caught up
+i'll be there hanging out i'll be answering questions i'll be jumping
+around tables just to say hello to folks and see how i can be of help but if you
+need those tuesdays and thursdays to get work done come to our work together
+
+02:56
+nights so you can get help done but we won't have actual class
+right we won't have actual class it'll just be time to catch up and use it
+however you need for some folks they're going to take that full week just to
+recharge but if you're ready to grind a little bit and you haven't finished the
+codecademy.js course i highly recommend it and the reason why i recommend it
+because it's going to give you all the practice over all the little things that
+we've done over the past few weeks together and then make sure you get a
+start on your professional checklist these are all the things you're going to
+need squared away before we get into the job hunt there's a lot here with really
+good examples so you can get started uh this uh next week or so so
+let's go ahead and set up the raid it's been wonderful having another class
+with you all i hope you had some fun building this is where it starts to get
+fun we're gonna get into oop and then we get in the back end and our apps get
+
+02:57
+even more powerful so uh let's go ahead let's see who's live all right
+here look on to uh vape juice yet are they still live let's see
+all right let's go over vape juice jordan uh we're gonna go ahead as always
+please send them some love give them some follows
+i'll see you over there folks have a wonderful wonderful week have a great
+weekend i'll see you all next week if you come
+by to the work together sessions love to have you there
+please build break put together have fun with the code and enjoy your time see
+you all over there let's raid peace youtube

@@ -1,0 +1,1668 @@
+
+00:00
+the speed run getting a job folks I'm going to show you
+how I would find the companies the messages I would send the step-by-step
+instructions that I would follow to build out my Hit List to go about the
+hunt in the appropriate way all about transcending being a clicker
+right we don't have any clickers in this community
+clicker is someone that posts on Reddit hey apply the 400 plus jobs and I I'm
+not I haven't gotten one yet you know why because you and the just clicked
+
+00:01
+you're a clicker no Clickers we don't click apply WE Network our way
+in we get our work in front of real living breathing human beings
+that can can see what we've been able to do that can see our githubs going back
+most that can see our full stack projects that can see the clients that
+can see the volunteer organization that can see the pull request that can see
+the open source contributions that can see the group projects that can see
+all the work that you've done which always goes out the window
+when you just click apply so no Clickers we're here to build Out The Hit List
+live my goal tonight is to find 10 companies that I could
+realistically apply to right 10 companies uh that I could submit my
+
+00:02
+proposal to I'm gonna do five that are local to me because local is always a
+value-add and then I'm gonna do five that are like Global remote companies
+that companies that will hire you no matter where else you live in this in
+this beautiful world right so we're trying to get 10 within the first three
+hours I'm gonna go slower tonight because I want to show you my process I
+want to show you the things I think through the things that I would actually say
+and then we're going to run it back on Tuesday and I'm just gonna lock in music
+will be playing I'm gonna get 30 done in in three hours that's the goal so
+tonight's a little slower we're going for five and five right we'll probably
+take the full the full class period though just so I can explain how I'm
+doing it the things I'm thinking through and then I'm going to show you how you
+could grind out your Hit List in one class period That's the goal and then
+we're gonna do it again because we got some Hit List to do live for folks that
+
+00:03
+won uh one of the Raffles back in the day so uh
+let's get right into it I always set off with some questions if you got some
+questions I got some answers you got some questions I got some
+answers let's give folks another minute or two to get in here and then we'll get
+started I know you said people shouldn't donate
+would you rather folks donate instead of gifting a sub
+um gifting Subs help others not have ads so I I guess that's good but I like
+don't like don't sub don't don't get don't donate like no
+can you go over the Big O notation for the stand-up problem uh no because that
+problem wasn't about the Big O notation um the Big O notation was uh something
+that we're gonna work up to during stand
+up it was more about our methods so once we learn a little bit more we can come
+
+00:04
+back and talk about the the bigger notation Leon why do you still do this for us
+like why because I want you to get jobs I've been on the other end of not having
+food and Engineering was the thing that put food on the table
+you can't have that experience and not want it for others that's why I do what
+I do I want you all to get jobs I want you to have high paying high growth jobs
+where you're happy and then I want you to turn around and
+help three other people do the same thing it's not about money
+the program is free but there's a cost
+and the cost is answering [&nbsp;__&nbsp;] questions on Discord it's answering
+questions here in chat it's turning around when you get a job and hiring
+three other hundred deaf folks to pull up along with you that's the cost
+
+00:05
+we do that we we start to make a dent in folks that need help most
+hey thank you for the gifted thumbs [Music] you know I have to I appreciate that
+thank you for being here and thank you for all you do for the community
+can't stop me Leon I appreciate you cool I appreciate that ghost as long as this
+Discord exists I'm happy to be part of it and working to help others get us
+where we all want to be hell yeah let's do this alrighty
+uh looks like we got through some good questions here
+if there's any other big ones beautiful all right so we're in it we're
+in It to Win It like I said I'm going for 10 right
+
+00:06
+I'm in it for 10. I want five that are local and five that are remote uh that
+are hiring anywhere I'm gonna take my time show you exactly what I would do to
+not click apply to get myself in front of real people and so that's what we're
+gonna do um before we start just in case we got some clickers in the audience
+I just want to demonstrate briefly uh what clicking does one sec I need I
+
+00:07
+need to get something all right if you are Clicker this is your resume
+and it's accurate because people that just click apply this is what their
+resumes always look like blank nothing do you see any full stack projects no
+do you see any client work no do you see GitHub with with three months of daily
+history no accurate this is what a clicker's resume looks like
+right if you click apply if you click apply this is what happens some ASMR going
+all right if you click apply this is what you're doing with your resume right
+
+00:08
+Yee that's what you just did you just you just you just eat it you
+might as well have printed out your resume crumpled it up and eated it
+out the window Emma B said knock the trees Leon not the
+trees and here let me tell you why printing out your resume thank you Emma
+beef for highlighting this very important Point let me tell you why
+clicking apply is worse than printing out your resume and eating it right
+because when I crumpled up my resume and I needed it I I made Emma be angry
+MMB is all up on Twitter right now Leon is littering
+Leon doesn't care about the environment the trees they the they may be a good
+software engineer but they don't care about the environment right and they
+tweet it Emma B and I go way back this is this for funsies uh they they tweet it
+
+00:09
+and somebody sees ah there's Leon again destroying our forest but they can code
+oh well I've been trying really hard to hire an engineer and maybe they might be
+a good enough engine if if they can still be an engineer with this many
+people that don't like their inaction on the environment uh maybe
+they're just a really good engineer so let me actually let me slide in their
+DMS let me sliding the DMC are you looking for a new engineering job and so
+me printing out my resume crumpling it up angering the math is online
+was actually more effective than clicking apply and I actually eat
+it that out my window and as I eat it out the window
+there just don't happen to be a falcon that thought it was a a white a baby
+
+00:10
+white snowy owl and the falcon grabbed it and and it flew off into the distance
+right and and it flew over the 405 and it didn't see
+it didn't see the Tesla coming down the 405 and the person in the Tesla wasn't
+paying attention because they had the self-driving going on and the the bird
+and the Tesla just boom and it it startled the person that was
+in the front seat and they immediately turned on the
+windshield wipers and the the blood is being I should say that the bird is
+being smeared across the windshield and and through the the mess they could see
+a small glimpse it says Leon software engineer and they go oh
+damn this is a sign I I've been trying to hire a software engineer for a while
+
+00:11
+and they they reach over and and pull my
+resume out out the [&nbsp;__&nbsp;] as they're going
+down the 405. they see my email and they
+send me an email saying hey I don't know if this is Destiny or not but we got an
+open position and and that's how I got my last job right so so literally
+printing out your resume crumpling it up and eating it out the window is ten
+times better than just clicking apply so please don't be a who you know
+flicker all right we don't need you all right do the things that we know are
+going to help move the needle get your hard work you've worked two damn hard
+to just click apply so tonight I'm going to show you the way
+I'm going to show you how you can find individuals with open roles the real
+messages you could send I'm gonna put them all in a document I'm going to
+
+00:12
+share the document after class you don't have to furiously type along everything
+I type you'll have at the end of class tonight and then you are going to do the
+same thing you are going to start building out your
+Hit List over our next two classes we will do more hit lists I'm going to do
+it live I'm going to show you how I can beat the world record Hit List building
+together but tonight I'm gonna we're gonna take time
+I'm going to show you the reality of it things might go well they might go bad
+you never know like this is real like I I haven't prepped this I took a quick
+peek at some stuff but I have no idea what I'm about to get into
+when I start looking on these sites and and the people that we find all right
+alrighty so we're going for five and five five local
+five remote and the reason why I'm doing the five local first is being local is
+an advantage you should always try and start local
+
+00:13
+uh if you're privileged to have a location that actually hires Engineers
+uh you start there and then once you've exhausted the uh the local job market
+you move on to a remote and then you move on to Global remote and so tonight
+we're going to start local then we'll go remote and then we'll get Global remote
+alrighty so I am blessed to be in La uh so the first
+place I am going to start is in Los Angeles and tonight I'm gonna start off
+with a site called Angel list angel.co jobs is the site I'm gonna
+start off with uh the reason why I like this site I'm gonna put it in chat here
+uh is because once you sign up I'll go to Lily on a second uh once you
+sign up it's a little bit easier to find folks that are already working at these
+companies I showed you the Hit List magic which shows you all the open roles
+like how you can find all the open jobs and all the job boards and all that
+
+00:14
+stuff so we'll do that probably on Tuesday or Thursday next week when we're
+trying to go for gold right like when we're trying to to go for for the world
+record I'll I'll pull out all the tricks but as you're starting to get a little
+bit as you're first starting out your Hit List to get comfortable with the
+process I recommend starting with angelish and I'm going to show you why
+because it's easier just to find folks that are already working at the
+companies and so that's what we'll start off with
+um then as we get further into The Hit List building I'm going to show you
+other sites uh we're gonna move on to building out like going into specific
+job boards that work well uh using companies like matter Mark that will
+show you all the companies that have raised money Reese recently like that
+would have budget to actually hire they were going to pull out all the tricks to
+beat our world record but tonight I'm going to show you the things I do the
+steps I take the tools I will use and we'll do it together we're gonna have
+
+00:15
+some fun uh as always I like please don't be weird I'm gonna be
+pulling up all public information but it's gonna be real people with real
+lives uh don't be uh uh uh an oddity and and do something inappropriate please
+um let's go ahead and jump into this uh let's let's make sure that there are no
+I'm gonna you know I'm gonna give a quick second for all the
+clicker is the leave if you if you know you're a clicker just get out leave this
+isn't for you I'll give you a second I'm going to take a sip of my tea
+what if I'm a recovering clicker as long as you know the errors of your ways
+
+00:16
+you're welcome all right let's do this all right so I'm going to start off with
+Angel list and right away on angelish you can you
+can have some filters so I have software engineer I'm going to add a few other
+things here uh full stack uh front end and back end might not move the needle
+too much when it's just uh LA but once I turn this remote off
+to remote including remote jobs this will have a bigger impact right
+um so right now I'm going to say no remote and you can put some filters on
+it if you want right away uh some common filters people will do is they'll just
+restrict to like node or something like that I don't right out the gate restrict
+node if I'm if I'm if I'm staying local right if I'm staying local I don't
+um I don't filter right away if I notice that it's becoming overwhelming then I
+can start filtering out for JavaScript no just to find those experiences but I
+
+00:17
+kind of want to get a pulse uh on what folks are asking for and I might pick up
+a skill over a weekend to add to my resume so that I can add to The Hit List
+uh one thing I might do is I could exclude some keywords I might exclude senior
+uh staff uh lead and actually I'm not going to get rid of
+lead because that looked like it chopped off significant so we're just getting
+rid of some of the ones that that I I don't feel like for this first wave of
+my my search I I'm not going to include uh you could even leave these off for
+right now because it's still local you're definitely gonna want these when
+we go remote um because remote's gonna uh give you so
+it's gonna be like four or five thousand
+different leads and you're going to want to narrow those down to better fits for
+you when it's local you can fudge a lot more uh company size was also kind of
+
+00:18
+important to me I find The Sweet Spot between like 11 and a thousand is where
+I've seen students have the most success early on doesn't mean that folks that
+are applying to bigger companies or smaller companies doesn't work it's just
+something that I think through like medium-sized companies typically I've
+had better results with so something I'm going to pay attention to not something
+I'm going to filter right now and I was going to start with these
+these results okay now the other thing I'm going to do is I'm going to filter
+by last active so you could do most recent like most recently post
+um but active says jobs who engage most recently first so I want folks that are
+like actually on Angel list that are actually posting
+and I think that's a better way to sort by uh than just kind of like recommend
+or anything like that so last active I'm gonna do
+I have the the different jobs that I might be interested in I have my area
+
+00:19
+and remote is off so now I feel like I can start looking through these results
+now before I start looking through the results I want to make sure that I have
+my sheet so exclamation point sheet in chat if you don't have your networking
+sheet remember the networking sheet also has The Hit List as a tab so I'm in the
+way I'm just in the way it was right there right there there's two tabs
+right there's two tabs behind my head one says networking and one says Hit
+List uh we're using The Hit List The Hit List is the tab that we're using and so
+
+00:20
+you can just do file make a copy right make a copy and then call it like
+whatever you want so networking uh yeah just make a copy of it
+save it to your drive and and now you have your own copy of it
+and once you have your own copy of it you can just shift to The Hit List um
+and what you'll notice is that everything you need here to kind of keep
+track of what's Happening right all right keep track of what happening
+so I'm gonna have on my Hit List the company name uh the date that I added
+them to the spreadsheet so like did I add this company a year ago today
+whatever the link to the job description sometimes I put like the role if I'm if
+I'm going fast I'll kind of skip this stuff here and then I'm going to start
+
+00:21
+putting my contacts that I found at those companies so the goal is to find a
+company that's actively hiring find real people at that company right uh whether
+the name whatever their position uh did you send them an email excuse me did you
+send them an email a Twitter DM a LinkedIn message like
+what did you do uh to get in contact with them and then did you have any
+follow-up steps did you get a coffee chat did you send a thank you letter
+remember if you're looking at exclamation point templates here in chat
+you have plenty of thank you letter templates that you can follow to send
+your thank you letters after your initial contact right thank you Stephanie um
+so we have our Hit List where we have the the name the
+role the person we reached out to what we did with that person so do we have a
+coffee chat did we did we follow up Etc so just a good place to keep track
+
+00:22
+of The Hit List when I'm going fast I like to use the sheet just to get all my
+contacts on here once I feel like I have
+a decent hit list I got the 60 companies that I found that are like local first
+and remote and I've I've kind of massaged it a little bit I might move to
+a different platform I might move to a hunter I might move to a notion with
+like individual cards for each of these contacts something that might help me
+visualize the process a little bit better but in the beginning I use the
+sheet I like going fast I like adding stuff and not having to think move
+whatever just plop it in and keep moving speed is the name of the game when
+you're first kind of getting started with your hit list and so I just have my
+sheet exclamation point sheet if you need it here in chat if you need the
+email templates exclamation point templates and chat you got them so now
+we have our sheet we have our templates we have our Angel list I'm gonna start
+looking at some of these jobs will be the use of notion some folks just like
+
+00:23
+to have like a kanban board where they put each person on a kanban board and
+they move it to like sent a message had a coffee chat asked for a referral right
+and they just kind of like moved the cards across
+I find that takes too much time for me and I prefer the sheet in the beginning
+once I'm deep in like reaching out to folks and like I've already done the
+prospecting then I think the kanban board makes a little bit more sense and
+I'll show you that next week you can use GitHub projects yep exactly
+like they're they're plenty of free tools that do the kanban boards
+but what you're noticing is that this is a process this is real work and um
+the folks that are just you know clickers just doing click click click
+click click click click click click click click click they
+this is why it doesn't work if you're putting in all this work
+
+00:24
+and they're just doing uh come on now come on now come on now
+all right so we got our results we're looking software engineer full stack
+engineer front and back end we're looking in the LA area remote is off no
+filters let's take a look what we got all right so this first part is you just
+kind of like click through you see something that might interest you
+software engineering intern remember we're going fast we're not overthinking
+anything all right GoodRx is America's HealthCare Marketplace they have a
+software engineering internship great I don't care about how much money it is
+whatever it is it just seems like it's in my area it could be a good thing
+hiring contact right away this is why I love Angelus look the person I should be
+talking to is legitimately listed already right boom you can also
+take a look at all the team members right and you can see all the team
+
+00:25
+members that are listed on Angelus so these are all potentially folks I could
+reach out to but whenever a company lists the person you should talk to uh
+that is the person I am going to reach out to first so let's actually click on
+their their profile here uh technical acquisition partner to high
+growth and emerging startups uh there's no Twitter linked here but maybe a
+LinkedIn is cool uh so their LinkedIn is here
+I have a mutual connection let's go let's go boom let's go oh easy easy let's go
+[Laughter] foreign so I don't even need to send them a cold
+
+00:26
+message right like if let's see what they have um contact info
+is just linking to their to their profile here uh so this is interesting
+because there's no first oh message boom messages are open hell yeah
+open messages this is easy let's go hold on 10 second warning five seconds
+[Music] all right it says free message why I don't know but
+
+00:27
+because I have some free message something premium whatever uh it might
+be because I have premium I don't know but the messages are open because a lot
+of folks don't have messages open why does it say free why I don't know anyway
+messages are open I don't have premium so I don't I'm not sure why but it just
+sometimes people can have open messages all right uh this is actually something
+I went to school with so I could actually probably reach out to them and
+see if they really do know them um but since the messages are open I'll
+start off with that before I send a message um before I send the messages
+let's see can I find anything about them uh they just have their UCLA um
+good RX so it looks like they went straight from UCLA into GoodRx let's
+look at their profile real quick recruiter
+
+00:28
+there's really not too much for me to go off on this profile
+so what I'm going to say is I would send I would send a subject
+right so subject would be all right first let's get them let's get them on
+our uh hit list so we found them Hit List we're gonna say company GoodRx
+uh URL to the position the person I'm gonna say LinkedIn so I'm gonna put the
+LinkedIn there I'm gonna grab their name from LinkedIn boom
+and put that on my Hit List as well and I'm gonna put the URL to the job
+on here as well all right so there's a couple ways I'm
+
+00:29
+probably going to go about this right because now I have the the messages were
+open on LinkedIn um if not I could go through my friend
+that knows them but I feel like I could just probably reach out to them directly
+and so with the message there's really nothing here I really do
+like to find something special um best place to eat on UCLA campus cool hey
+Fergie I'm gonna say something along the lines of I saw that good RX
+
+00:30
+uh was hiring on Angel list I would love five minutes say engineers
+I saw good exercise hiring Engineers on angels I would love five minutes of your
+time of your time to discuss the open rolls or your
+favorite place to eat on UC UCLA campus as I am spending a lot of time
+there recently UFO have a great rest of your week cheers yeah boom
+all right and so this is kind of right off the Jump remember
+
+00:31
+can't lose a job that you don't already have right can't lose a job
+that you don't already have what I'm going for is something
+that will get them to open the message right
+something that will get them to open the message something that will get them to
+actually give me the time of the day right
+and so that's what I'm gonna go with uh and then before I send it of course
+going to proofread best place to eat on UCLA campus I saw your good exercise
+hiring Engineers on angels I love how much you're trying to discuss the open
+rules or your favorite place you know you say is campus as I'm spending a lot
+of time there recently have a great rest of your week cheers Leon boom uh so I
+spelled you were wrong all right uh or your favorite place to eat on you so
+this campus 20 a lot of time there recently our grocery week cheers and
+
+00:32
+haven't found a good spot yet boom there you go
+I don't have grammarly installed on this
+profile I actually don't even know if it would work in here but cool so that's
+something I would send and I'm gonna add that to my list here
+of just messages that I would send um with the
+with the message right like we're going here we went for we got what we wanted
+right we said like hey uh Saul GoodRx was hiring Engineers on
+ageless well if I'm into your time to discuss open roles or your favorite
+place to eat on UCLA's campus and I'm spending a lot of time there recently
+and haven't found a good spot yet right so just something that opens up the door
+that that is that is that is simple that will maybe get them to open it I I
+don't care if it's funnier like it's just something that that would get them
+
+00:33
+to to open right uh is the smiley face unprofessional it doesn't really matter
+I I like this one it's your own personal voice I like smiley faces in certain
+spots when I'm trying to be cheeky right like I know that I'm reaching out to
+them on LinkedIn I know they're getting all these dry ass messages from folks I
+know that they're like getting all these things that are like hi I have five
+years of experience I graduated from MIT in 1985 like no like
+let me try and be a human right and I can't lose a job that I don't already have
+right yeah more friendly exactly right and so
+uh I thought I always go for it I always make sure they tell them they have a
+good week like something that might catch their eye because they just they
+were at UCLA right trying to come across as more casual and if I if I lose it I
+lose it who cares right I lose it I lose it who cares right but that's what I
+
+00:34
+would say great so that's my first company I would also just take a quick Gander
+um at other folks that are on here uh to see if there's any like engineer
+type folks [Music] um if if this person didn't get back to me
+I might go towards one of their found like one of their like maybe not
+Founders because they're a little bit bigger of a company
+um yeah they're like 200 people once you get over 200 people the the founders
+really stop responding but you'd be surprised at like under 200 they they
+respond to me quite a bit um but I don't really see any other
+Engineers so I would start here uh I would maybe list this in my hit list um
+just just here in case uh I don't hear back from Virgie I would put this on my
+
+00:35
+list and then come back cool all right remember
+overthinking messages in my business exactly it just don't overthink it just
+do it just go get in the flow you're trying to send out 180 of these a hundred
+180. three people at each of the companies if you're here sweating a smiley face
+oh boy just shoot your shot and move on doesn't matter
+all right let's go back let's take a look at some of these other open rolls
+what a what a dub on the first one right what a dub on the first one
+uh of course no it's all gonna be it's
+all gonna go to [&nbsp;__&nbsp;] after that uh edify
+
+00:36
+node.js developer web developer in Santa Monica they have a listed person Julia
+oh nothing though this is the person supposed to be reaching out to Eddie Phi
+let's give him a good old Google edify Julia oh here we go LinkedIn message
+or messages open let's go all right let's go
+oh I was big Leon I'm just getting hyped
+I'm sorry let me go through and show you what I did all right so
+uh edify so I clicked on the web developer role that they had uh it's in
+Santa Monica which is which is next to La they had Julia but there's nothing on
+
+00:37
+their profile uh so I just gave them a good old Google their name
+and so I just did their name and edify and the first result was their LinkedIn
+um and it's open messages I'm not sure if they're like trying to give me like a
+free premium or something it won't let me click why um
+I do see they're trying to give me a like it might be like I'm not sure if
+they're open uh or if it's like a free premium or something like that uh one of
+the things I I heard is that LinkedIn always does um
+LinkedIn always does like events and they always sponsor so many events right
+all right so they are open messages thank you for checking MLB right uh they
+are open great so LinkedIn does so many events or sponsors so many events
+um the cool thing is if you go to any of those events they always give out
+premium like you can just talk to any of
+the people that are running the event or at the event and say hey I'm going
+through my job search can I get like a pass for premium and they they just give
+
+00:38
+it out like like free candy so you can always get if you if you're trying to
+get premium LinkedIn which you don't honestly need I'm going to show you how
+like I do it when their things aren't open
+um you can get it from just going to one of those events
+yep I got six months free from an online conference exactly yeah
+all right so messages are open uh um University of Oregon student athlete
+University of Chicago Courts for kids Staffing corporate
+they have any other links no Twitter or anything let me just give them a Google
+again real quick I we have a Twitter that pops up um
+nothing pops up I'm going a little slower than I normally would just
+because uh I'm not doing like a super super speed run I don't see too much
+
+00:39
+let's see do they have any activity uh post do they have any posts [Music]
+Serena go uh junior developers on the front end team
+if you're coming out of a boot camp with some react and a typescript project
+
+00:40
+experience we may be very interested in you hi Julia [Laughter] [Music]
+hi Julia I saw your recent posts uh here on LinkedIn looking for Developers
+that have developers uh coming out of a boot camp experience
+
+00:41
+with react and typescript projects here is the project I built for X client
+that uses react and typescript would love
+five minutes of your time to talk about open roles have a great week cheers
+yeah boom uh now why would I ever mention a boot camp unless they actually
+they actually mentioned it no but they did so I would copy link the post
+
+00:42
+um I would I would like link to boom something I would link to the post
+hi Julia I saw your recent posts looking
+for developers coming out of a book of a bootcamp experience with react and
+typescript project here's a project built for x-line to use this react and
+typescript I'm really excited excited about what is what does edify do
+what does edify do what do they what do you do
+let's go to the website real quick create the best customer experience at scale
+
+00:43
+um I might include that about edify and feel as though my past customer
+experience and my engineering skills could be the perfect combo for
+what you are looking for I don't like that it's too long
+all right so recent posts looking for developers uh coming out of
+a bootcamp experience with react and typescript here's a project built for
+excellent use react and typescript low five minutes to talk about your open
+
+00:44
+roles really excited about the what was it again customer here we go
+customer experience space cool all right there we go hi Joey so your
+recent post linking it looking for developers coming out with boot camp
+bootcamp experience with react typescript projects here's a product I
+built for next client that uses react and typescript we love five minutes
+you're trying to talk about open roles really excited about the customer
+experience space have a great week boom foreign Another One Bites the Dust
+boom boom boom boom Another One Bites they're gonna get the same message 100
+times if you message these people you're a fool
+
+00:45
+you're just gonna get blacklisted like don't reach out to these people
+honestly if I hear that you reached out to these people um like don't that's not
+gonna be a good day for you like that's not a good look for us it's
+not a good look for our community uh don't do it
+yeah we don't we don't want to be bombarding these people with messages
+and actually the the same message right uh be cool like don't be don't be that
+person yeah if if I if if we find out that's like a
+problem then I can't keep doing this right and so don't be that person please
+
+00:46
+don't ruin it for everyone else yeah all right we got two already I like it
+two so far let's keep going I'm gonna clean up my My Links here all right
+let's see what else we got here Epsilon three QA let's see
+is it easy to find someone they have a link
+now all right I'm Gonna Keep moving I might come back to that one
+I'm going for speed front end engineer and they use emojis
+
+00:47
+they're speaking my language Sydney Tom no link Sydney Tom let's see
+uh let's go ahead and see Embrace is the name of the company is there a website
+that they list Embrace IO um cool to embrace IO type in this person's name
+all right Sydney Tom Embrace IO uh no open messages contact info
+is just their LinkedIn looks like they're more in product than they are um
+looks like they're more in product than like recruiting but that's actually
+going to be a value add they went from from design
+
+00:48
+they went from recruiting to product design
+interesting we can use that let's look at their website real quick to see if
+they link the people on the website uh sometimes they just put like email
+addresses and stuff like that on the website so let's go to their website
+real quick um there we go about us is what I'm looking for about us
+there why combinator company that's cool or no they
+Port white combinator all right I don't see I don't see any
+like people or anything like that linked to the company and so what I'm going to
+try doing is I don't see their let me just try Google one more time here
+
+00:49
+and I'm going to do I'm just going to put Twitter see if their Twitter comes up
+um their corporate Twitter actually their corporate Twitter was linked here
+let's see if they follow Sydney if you see their name tell me
+I'm sure there's a way to search for this I just don't see it um
+all right I don't see it let's just try to uh let's not do that all right so I
+don't see their Twitter I don't see I just see their LinkedIn
+
+00:50
+this could be them Sydney 90 let's see no Sydney Wells not you all right so
+what we're going to do is we're going to use another website called Hunter
+uh dot IO and I'm gonna put the company in embrace.io and
+it looks like they're they're format is first name at embrace.io right
+first name could be an embrace.io and uh I think I could just use that
+so let's go ahead and I didn't control that I didn't control F I just scrolled
+
+00:51
+so you got you got to get in your Flow State you know all right so
+um it's a small company there's a good shot that there are not two Sydney's
+with this spelling um so I am going to go and shoot my shot here and
+uh just send an email and so it would just be how do I say that Sydney boom copy
+so it would just be Sydney right at embrace.io
+oh did it actually pop up hold on let's do that again slower
+or that might be somebody else like in my contact book
+
+00:52
+oh Google Google with the assist Google coming through you got got [Laughter]
+Google snitched yes let's go all right do we have
+anything about Sydney though we just know that they went from recruiting the
+product uh or it went from recruiting to her product um
+going from recruiting to product we know that from their LinkedIn I'm going to
+close this um so let's go ahead and write that email transitioning to product
+
+00:53
+would love to learn about your experience transisting trend position ing
+use grammarly folks just use grammarly if anything you learned tonight just use
+grammarly because my spelling my grammar is atrocious um a
+Sydney always double check your spellings that's like the biggest
+mistake you can make early on it's just like not spelling their name right
+person's name is the sweetest sound in any language all right so we're gonna
+say this and we're gonna take a break we'll do this one take a break uh Hey
+Sydney I saw that embrace is looking for engineers on Angelus
+and you were listed as the contact I noticed on LinkedIn LinkedIn that you
+
+00:54
+transitioned into product and I am currently trying to do the same thing
+would you happen to have a few minutes to share your you have to share your
+Journey with me have a great week cheers yeah hey Cindy I saw that
+I saw that Embrace is looking for engineers on Angelus and you were listed
+as the contact I also know also I noticed also
+
+00:55
+also I noticed on LinkedIn that you transitioned into product and I'm
+currently trying to do the same thing would you happen to have a few minutes
+to share your journey with me have a great week cheers Leon boom
+this is really tiny there we go bigger better short and sweet exactly
+right short and sweet um not not really going for like the quick win um
+right not going for the quick win um that's it
+uh if they don't have their messages open should we add them directly on
+LinkedIn with a note you can I think that's kind of like my like my normal
+process is I add them to my hit list right I try LinkedIn messages if they're
+open Twitter DMS if they're open if Twitter message if Twitter DMS are not
+open LinkedIn messages aren't open and I
+
+00:56
+can find their email then I'll just send the email with a message like this if I
+don't ever hear back from the email then I might try sending the connection on
+LinkedIn and when you send a connection you can send a message
+uh I thank you for pointing it also not Leon is speaking their message out loud
+to catch some mistakes I do this with all my textual messages to ensure
+they're actually good uh yeah I do the same thing uh the reason why I like I go
+slower of my emails is I always read them out loud uh so hey Cindy I saw that
+and braces looking for engineers on Angelus and you were listed as the
+contact also I noticed on LinkedIn that you transitioned into product and I am
+currently trying to do the same thing would you happen to have a few minutes
+to share your journey with me have a great week cheers Leon boom easy ask if
+they are the contact they're going to respond um
+I'm going to change this from experience to Journey
+
+00:57
+um just because experience sounds like like a Spam message
+cool all right I'm gonna add that to my list here I'm gonna make sure that
+Sydney is on my list boom just I'm just putting these all
+here so you have all the messages that I'm actually sending um let me grab the
+the actual uh subject here and I'm gonna make sure that they're on my hit list
+well I almost forgot to add into my Hit List um
+I didn't add the other person too oh I'm slipping
+
+00:58
+all right job listing for embrace full Embrace URL uh name was Sydney Tom
+uh I have their LinkedIn somewhere that I could put in there as well and
+that's good for now and what was the other company that we did it was Julia
+uh edify edify it was Julia and I'd put their link I put their
+linked in here I just forgot to do it but you you it's what you would do um and
+let's make sure we put the edifier Roll in there before we lose it
+I just click on the actual role which is web developer joint
+
+00:59
+all right and it was Julia magdalino boom putting the URL in there
+all right cool so I'm going I'm going to okay I would normally going about twice
+the three times the speed um if I was doing it just without like an
+audience here uh but that's kind of what I'm going through like I hope that
+you're starting to see like that I'm not
+really overthinking it uh I am trying to find some way to kind of connect with
+the person even so briefly uh through the messages I'm sending just looking
+for little Snippets of the thing that might get them to open the message uh I
+don't really care if it works or not I'm just trying to shoot my shot 180 times
+and if you do shoot your shot 180 times you start getting responses back they'll
+start snowballing into actual uh interviews and interview interviews
+
+01:00
+actually become jobs so this is the real process uh when I ask folks to fill out
+your hit list this is exactly what I would do if I was looking for a job in
+my local area so we're gonna take our break because we're at the top of the
+hour we are going to uh we are going to do two more local and
+then we're going to do five remote and we'll see if we can get all that done
+within our three hours time are you even reading the job description to see if
+it's a good fit are you just reaching out for everything
+the sun touches I apply for everything the Moon
+cast a warm dewy glue over I apply foreign
+
+01:01
+to you if you get in your head trying to find good fits before you even get a
+response from someone you're just putting too much energy into it you're
+not doing it right you might as well just start clicking apply all right so I
+don't overthink it if I get if I get a response from them right if I get a
+response from them then I do my research I do my digging I make sure that I'm
+well prepared for that conversation but the only thing I'm honestly looking for
+right now is is it a job in my area and is it something that I think reasonably
+is a good fit so like know it is a good fit web developer is a good fit did I I
+skipped over the senior Java like the senior role in the
+language I don't I don't code in right um I skipped over the quality assurance
+engineer because I just didn't feel like doing it but
+everything the sun touches you apply to and then you you you collect your
+
+01:02
+winnings does it pay money exactly all right
+how do you handle when you network they message back but they send you an online
+application link to click apply how rude uh then you apply and like I
+would send it like if they send this home I send a cheeky message back I am
+totally in the camp I can't lose a job that I don't already have
+uh so if they send that back uh I I it depends on the company
+I I always say something like do you want to get McDonald's after work or
+something just that would just that would just be out there that they would
+they would have to respond right I don't know exactly what it would be but it'd
+be something to get their like attention right
+um if you're getting a lot of those then you're not um
+you're not crafting your messages in a in a in a way that seems approachable
+
+01:03
+like look let's look at my look at my messages real quick right let's take a
+look at this best places to eat in the UCLA campus
+I'm asking them to respond I'm already connecting right it's they know that I
+put some effort into this right I had to do like like the bare modicum people
+that are sending out those messages are just getting spanned with folks reaching
+out to them and so when you do so when you take this this little extra step to
+make it like approachable you get less of those types of responses um
+I I like my my message to like my subject to Julie was like thank you for
+talking about me like of course I was gonna get them to look like that might
+make them laugh if I can make them laugh a little bit I know my responses are
+gonna increase right um same thing with transitioning the
+product I'm not really even making it about the role right like I like I don't
+even I just want to talk to them about their journey and the product and I'm
+generally interested like how they transitioned in the product we are all
+
+01:04
+transitioning into product roles or engineering roles right and so I'm
+generally interested in that and so if you're just going for the kill right
+right if you're just going for the kill you're gonna get more of those types of
+like just click apply responses but if you're individualizing it you're making
+it a little bit funny you're giving it something to to answer then those types
+of responses decrease and remember we're trying to do this at
+like three different people at each company uh and so one person might do
+that but the other two might not there you go
+are you gonna do some other examples of other websites besides Angelus yeah
+probably on our speed run though uh Angelus is a really good place to start
+for most folks but uh use The Hit List magic uh search
+that I gave you all in the slides from previous classes and that's you can find
+up all your open roles yeah alrighty uh let's go and take our break
+
+01:05
+because it's the top of the hour all right folks come on back come on back
+uh Hunter only gives me the customer service emails uh that's what we're not
+we're not actually looking for their real email we're looking for the format
+of the email like if we look there is actually one email here that
+helped me and it was this Eric embrace.io so I knew that if they're
+using first name at embrace.io that it might be a good shot of it just being
+first name and embrace.io because they're smaller
+right and so then I plugged that into Google and Google snitched and maybe
+that's actually the right email address or maybe I get a uh uh could not send
+message and then I find a better one but
+that's kind of I'm just trying to figure out like is it first name last name is
+it first name is it yeah you know let's get a few questions in before we
+kind of go back into uh hunt mode here our company's more responsive if they've
+
+01:06
+recently received more funding apps absolutely
+um so one of the things I I will show you probably on Tuesday for some reason
+the website's down right now I've kept trying to connect it might be my vpns or
+something but there's a website called matter Mark uh which is a similar
+company to Crunch based but it's completely free
+uh and what you can do is you can just see companies that have raised funding
+like startups that have raised the money and if I see a a tech company that's
+raised a good series a series B there's a good chance that they might be hiring
+and I try and reach out to those companies quicker especially if they're
+in my area I said red flag the company has one year
+preferred front-end experience but also says they want a senior front-end Dev
+for the description can it be one year scene can a one year be senior a zero
+year can be senior depends on the company uh it just doesn't matter don't
+overthink any of those things just Network your way in and then deal with
+
+01:07
+it later mm-hmm do you recommend reaching out to
+companies that just got accepted into Tech Stars no because they have very
+little money maybe if they like if they get a year in
+um and they raised their series a or something but early on they they have
+little money yeah we had blah on the t-spell on
+Friday they started off as a senior yeah so the interview is where you're trying
+to sniff out the red flags in a company yeah I I really pay attention to how I'm
+treated during the interview process right I'm really that's what I pay
+attention to like how was I treated was
+that I feel like they had their [&nbsp;__&nbsp;]
+together like did they send out like good emails did they follow up with me
+like was I treated well was that was their stuff organized all that leads me
+to build a picture and then once I get an offer I go in and ask all the
+
+01:08
+questions I talk to all the people uh and that's when it kind of gets real
+I thought I was saying Jasper for some reason the site's not loading today it
+was bought by full contact oh they might have yeah they might have sold
+yeah I thought it was just down but maybe they got bought by somebody else
+you can use crunch base it's the same thing but I believe crunchbase like
+gives you only a certain number of free ones
+um before it goes away but that's that's just another strategy it's not a
+strategy you have to use I just find that strategy has worked for a couple of
+my students in the past where if you live in a city specifically City that a
+city that has like um I don't know like a decent Tech economy
+then the like looking at folks that have raised money in your area could be
+helpful uh crunchbase started charging you for
+the first one we'll find something else that does it similarly
+
+01:09
+cool all right let's get two more local and then we will move on to the global
+remote feel free to ask questions as we're going through this
+um like I'm just trying to show you like a real process and then once you get
+into a flow you do this a little bit faster all right let's take a peek go back
+all right n-i-n-h-n global a wholesale fashion
+Marketplace one week ago web developer back-end developers click on web
+developer they have anyone listed no one listed there they have people
+
+01:10
+see all their team members you actually die uh nah
+I'm gonna go with something else their their stack is also like really not
+I mean I could go down that but I'm just trying to do a speed run an engineer
+build the Netflix of high school education hell yeah I might actually
+submit this one uh talk directly to their CEO that's cool
+anyway all right let's see do they have their messages open
+
+01:11
+Angeles what's going on all right uh uh subject
+launched Uber Freight that's pretty cool UPenn ba UCLA MBA
+uh they're LinkedIn let's see if they have open messages are open let's go
+all right so the messages that we would send would be
+all right so we know they're passionate about like education
+let's see if there's anything else here ex-athlete turn serial entrepreneur
+
+01:12
+any negative and positive because probably injury is contagious uh um Nomad Uber
+the uh UCLA um a hockey for the Colombian ice hockey team that's pretty cool
+remember a Soho House all right now there's a lot there let's
+also look at their Twitter real quick always early never flake
+I might use that I think that's the easy in
+don't want your ZIP code or your family Association of status dictate the
+
+01:13
+subjects you can take that's pretty cool all right we're gonna go with that
+all right let's send them a message to be early and not flake
+there we go that would be the hook there they say that pretty quite often so I'm
+gonna I'm gonna use that uh I promise to be early not flake hey Michael
+'s always tricky because you guys sometimes it helps to see if you can
+find if they refer to themselves as Mike or Michael um
+looks like Michael who's listening on their Twitter I might even read a um
+uh an article just to see if they talk about themselves slightly different but
+y'all can do that I'm not gonna do that all right Michael I am really
+
+01:14
+I'm a an engineer really passionate about making education affordable uh
+accessible to all I don't know how to spell accessible but
+we can Google that later all right I'm going to enjoy really passionate about
+making education accessible to all I'm actively
+oh God damn you're just seeing how bad I spill involved in the 100 devs
+
+01:15
+community which has helped hundreds of folks get jobs as engineers regardless
+of their economic reality oh that's something along those lines
+um engineer really passionate about making education accessible to all I'm
+actually involved in 100 desk Community which helped hundreds of folks get jobs
+Energy Enterprise and economic reality I would love five minutes of your time to
+talk about the open roles at subject have a great great great week cheers Leanne
+
+01:16
+also on down to clear it up on the ice anytime I just hope my roller
+hockey skills Translate um all right so I probably really not flake because
+you know they're going to open there's no way they don't open that message
+so textual exactly hey Michael I'm an engineer really passionate about making
+education accessible to all I'm actually involved in the hunter devs Community
+which has helped hundreds of folks get jobs and Engineers regardless of their
+economic reality I would love five minutes your time to talk about open
+rules of subject when it's somebody like a CEO or a co-founder um
+
+01:17
+when somebody like a CEO or a co-founder I I always I'm a little bit more like
+on the nose like hey I'm curious about the open rolls like I don't wanna like
+if they're a recruiter you can I don't I don't like I'll play a little bit but
+um if I don't want to take their time like I want to be I want to be straight
+to the point uh about your open rolls have a great week um
+and just so you know roller hockey skills don't translate all right I like
+this this is what I would send set it to the list
+Melody hey thank you for the gift it says thank you for being here and
+congrats on the new gig let's go turn up so proud so happy glad to see you
+crushing the game let's put the subject in there too
+because I think that's important thank you for being here
+
+01:18
+uh let's put that in there too all right uh and then this was
+let's just grab their LinkedIn add them to our hit list this is subject
+and we'll add the URL there I talked to [Music] Michael Gallardo and
+I was LinkedIn so these these are all pan this was uh LinkedIn this was LinkedIn
+and this was email cool just keeping track of like the folks I'm talking to
+um and this should actually not be here this should be this should be here
+
+01:19
+boom and let's grab that open roll um so like it's a little bit more of a
+senior role but that's okay all right here we go
+all right Let's do let's get one more local and then we'll switch gears to to
+remote student apps us-based banking lending crypto as a service provider yikes
+Halo move science forward dress life provides fashion specific to
+one-to-one personalization with exceptional accuracy JavaScript and node
+why are they listing it in Euros oh it's promoted
+
+01:20
+I'm like why are these salaries lower and why is it not in USD like why are
+they paying this in La I got [Laughter] dubsado tools for Freelancers that's
+cool a venture technology Studio where Innovation rules that just sounds more
+fun let's go there first uh Darren Rush is the founder and that's
+who we should reach out directly um they want experts go on Ruby
+there's no they don't have any employees so it doesn't seem like my medium the
+side like I like if I was really doing this like I would I would just if I was
+doing The Hit List they would have message no problem I'm not overthinking it um
+
+01:21
+I'm just trying to be a little bit more impactful because y'all are watching
+uh founder kind of the same thing a little bit smaller coming week we might
+come back to one of these two if there's
+something better before we uh get out of the local ones
+oh I love Supernatural shut up this is like the only thing I pay for in
+the Oculus uh cool uh they're so big they're just saying
+Talent let's see if they have any people on here um
+all right let's go to LinkedIn real quick uh let's search super natural
+
+01:22
+and looks for people there's the CTO director product technical program
+management director of engineering they're in Santa Monica whereas this
+person said Redmond Washington so this person they don't have open messages
+whoa their deal was blocked by the FTC what that's wild
+all right contact info Twitter all right they have a Twitter that's open
+
+01:23
+messages are not open they like to fly engineer Tech exec
+I might send them in I might send this person an email
+their messages weren't open I feel like I could write a good message to them
+but there's also the CTO that legitimately said that they were hiring
+so somebody puts that in their profiles like asking to be reached out to or
+hiring they still oh it's a different company never mind
+I'm gonna go with this person let's see if we can find their email um
+
+01:24
+let's go to supernatural's website Supernatural VR
+the website is getsupernatural.com let's go to Hunter pool
+see what their style is uh I would try first name at supernatural.com
+this is kind of or what you could also do is you can just tweet at them directly
+so the cool thing is like when you add someone it doesn't actually show up like
+in your timeline it shows up in um like it just is like a message to
+them it doesn't like show up in your timeline shows up again like your other
+like your tweets replies um we could do that we could connect with
+them on LinkedIn and send a note that's kind of always the last thing I try
+
+01:25
+though um was this stuff that they said again I like flying
+it does say that they're hiring contact me if you were oh that was with Within
+to say here oh yeah and talk to me if you or someone
+you know might be interested in these positions all right cool so they've
+already said contact me um so I'm gonna skip I would do I would tweet them
+but they did say contact me so I'm gonna actually try email first if the email
+doesn't work that's okay I'll come back to tweeting them but it does say contact
+
+01:26
+them it literally says contact them uh it just doesn't have any contact info
+I'm just gonna grab their first name and I'm gonna try an email uh let's compose
+I'm gonna try an email and I'm just going to try
+at get super let's get supernatural.com okay I mean that might have worked I
+don't know if that was Google snitching again
+why connect and send a note as last resort because I don't like connecting
+with people that I don't honestly know so we started off tonight with an
+absolute dub where the person I connected with like the person I was
+trying to reach I had a connection I already had somebody that I knew that
+I went to school with that was connected
+to that person and so if I really wanted
+to I could just reach out to that person and say hey could you give me an intro
+
+01:27
+to that first person that we saw and that's how I like to keep my LinkedIn I
+I know every single person that's on my LinkedIn and I know that if I reached
+out to them they would give me a referral and if I didn't if I didn't have that
+then I would I it would be like if I I don't want my Lincoln to be muddied
+right and so that somebody said I had a connection with this person too did I
+
+01:28
+[Music] yes I can reach out to them let's go yo through the boardroom y'all
+I could get up here and just talk my
+[&nbsp;__&nbsp;] and run my mouth about stuff I haven't done but y'all see it
+when I tell you I put in this work I put in this work
+when I put in this work I put in this work I showed you all my my my 100 plus
+days in a row of GitHub commits when I was doing my coding challenges
+I tell you how I do my networking and literally random companies that we
+are finding random people at this company I'm already connected to or one
+hop skip and a jump I'm not I'm not making [&nbsp;__&nbsp;] up I'm
+trying to show you how this stuff can change your life
+there is a reason why I talk about networking until I I can't talk no more
+
+01:29
+five companies that I randomly found out of those five two I was connected
+directly one skip through with the person that I wanted to get in touch with
+imagine if you did your networking like I've been asking you to do and you
+did it for 10 years just think about that you do one event a
+week for five years do five one event a week for five years you meaningfully
+connect with people and it slowly builds up over time and that's where you're at
+now right like like you're seeing it this is the proof right that's the proof
+cool so I I could reach out to my connection I've worked with them in the
+past uh and and that would be it cool but I'll send an email just because I'll
+
+01:30
+start there just to show y'all um they like flying uh that's what I'll lead with
+any good lying VR apps hey boom like that uh anyway I just got got an Oculus
+and I'm always looking for fun apps to try anyway uh let's go and say um I saw
+
+01:31
+on Angelus that Supernatural was hiring and thought I would Reach Out
+Supernatural I just got an Oculus hiring Engineers always say Engineers
+because that that would Peak their director of engineering I saw an Angelus
+that Supernatural was hiring Engineers I
+thought I'd reach out just got an Oculus and Supernatural is the only app
+
+01:32
+I pay for it only paid app on my account cool
+I would love five minutes of your time to learn about the open roles
+I don't know if I'm into your time to learn about the open about open roles
+and uh I'll say your LinkedIn your LinkedIn mentioned that I should
+reach out about open roles I would love five minutes of your time to learn more
+
+01:33
+talk about cool stuff happening in VR cheers yeah
+I really do use Supernatural yeah it is it is legitimately the only app
+that I paid for outside of the the table tennis app
+um but that's like not a recurring charge cool all right any good flying VR apps
+because I they're into flying they're in the VR boom I saw an Angelus that
+Supernatural was hiring engineers and thought I would reach out I just got an
+Oculus Supernatural is the only paid app
+on my account uh your LinkedIn mentioned
+that I should reach out about open roles I love if I'm into your time to learn
+more or talk about cool stuff happening in VR cheers Leon uh have a great week
+
+01:34
+the the table tennis app is wild the table tennis app is absolutely wild
+uh so wild that hold on one second if you live in LA and want to catch some
+hands I'm ready to play um I 3D print it I 3D printed a handle
+or my Oculus controller with actual like grip tape yeah
+it's so realistic it is so realistic like the feel
+of like actually hitting the ball in VR it feels like you're playing on a real
+table um so yeah it actually is a pretty dope app
+and I yeah I went I went um I went extra laughs
+
+01:35
+uh I feel good about this I think this is pretty solid I think they would
+actually respond somebody said what if the email doesn't work yeah 11 is the is
+the app uh what if this email doesn't work
+um then I would probably reach out to my contact on LinkedIn I know that all you
+have that yet um but if that didn't work I would tweet them I would tweet them
+cool so let's add this to our list foreign and
+
+01:36
+I'm going to add this to my hit list email it was Supernatural and and
+I'll grab the job description um all right there we go like I said
+I try not to overthink this um I try not to overthink this I'm trying
+to find things that are slightly funny you can't lose a job that you don't have
+um I find that my responses are pretty high
+when I send messages like this and so just don't overthink it you're doing 180
+of these just get through it uh and when we come back on Tuesday I'm gonna do a
+speed run so I'm gonna actually go way faster I'm going to like ignore chat put
+music on and just like grind I can get through like 30 of these or like 10 an
+hour I can get like 10 good an hour and so if I like took a weekend I could
+
+01:37
+probably bang out most of my Hit List in a weekend
+um and so yeah it's a lot of work right it's a lot of work like you're finding
+these people you're trying to find a way
+in you're thinking about them uh but I'm going to share all the messages exactly
+yeah you already have uh the the templates here that were or base
+templates I'm gonna add all the templates that I've been writing tonight
+to this list as well um so you could see uh so you could see like the actual
+messages I'm sending uh and yeah so we're gonna keep doing it you're gonna
+keep seeing good examples I hope and for tonight though I hope you asked some
+some questions so I can answer them if you send 50 of these and still can
+get three responses it's still better than click and play it really is yeah
+
+01:38
+what if they all respond then I got a wonderful month
+what are your desired salary expectations for this role uh fair
+market rate for developer of my skill set and experience
+well Leon what is the fair market rate for developer of your skills and
+experience come on Bob I know you do this all day every day uh what have you
+budgeted for this role uh should we always try to email over
+LinkedIn message so we can attach our signature with our links that Stephanie
+says uh oh like might be wrong like the emails
+might be the wrong email so if the LinkedIn messages are open they seem
+active on their LinkedIn I start there if I don't get a response then I move on
+to email yeah I was so overwhelmed you made it look
+fun yeah I I like to have fun with this I like I try not to take this part of
+the process too seriously I try to just have some fun with it I try to find cool
+
+01:39
+ends like and I think the really important thing here is every single
+person I've messaged I'm generally interested in like I would love to have
+conversations with all five of these folks that I that I put out there right
+like I I think that would be a really I think it should be fun conversations
+right like I found something interesting about each of these folks that I would
+like to learn about and if I can go into this process having a little bit of fun
+meeting cool people at the end of the day I get to network with a few more
+folks that I would have never had a chance to talk to that's good
+and the more you kind of get comfortable with that the easier this process can
+become I have 11 so far and I live in Atlanta a turn up
+if the job description says 110 to 150 how do you deal with it if they offer a
+
+01:40
+minimum uh go to the bank and count my money uh go on a vacation
+buy whatever I want off of Amazon eat out 110 all day let's go
+but no we we negotiate right and we talk a lot about this during the
+tea spills and if you come to stand up as folks start getting offers stand up
+really does become me talking with them to help them negotiate so the beauty of
+stand up as we get deeper into the hunt standup becomes way more actionable in
+terms of like Leon I just got an offer helped me negotiate and then you'll hear
+me negotiate live with somebody that has
+a real offer uh if they came in with the minimum my response would be hey I'm so
+excited to work at this company uh I could really see myself growing here
+
+01:41
+over the next uh 10 to 15 years two to three next three to five years as
+you know I am currently in the process with X
+number of companies is there any wiggle room on this starting salary
+that's it I had to send that out uh and then often and not they'll
+counter without any kind of hesitation especially if they've already given that
+range uh and then I just kind of work off of that counter the best thing you
+can do is then get another offer in that time frame and you can get the top of
+the um top of the list we also shared the template that um
+uh Daddy Yankee Nick shared and they showed exactly how they negotiated their
+offer uh you can use that template as well we actually need to add that
+template to the templates a lot of really good information being
+shared that we'll we'll keep adding to the templates
+if you folks ever asked to know more details about other offers you're using
+
+01:42
+for leverage they can ask all they want but typically I'll say I I actually
+don't know what I've signed in part of this like interview process I'm not sure
+if it's really under NDA or anything so I don't feel comfortable sharing the
+details can I tell everyone that I got other offers even if I have none uh some
+people play the the dangerous dance of the dangerous dance some people do
+it's up to you how you want to play the game I'm not here to tell you how to
+live your life I'm going to show you some ways if you want to play the game
+that way that's up to you I I have no shame in mind game
+
+01:43
+but that that's that's not a call I can make for you
+Kelly said well I can't match that so good luck that's why you never given
+that's why I never answered that question you notice I never said that I I got a
+higher offer right I always say I have other offers is there any wiggle room in
+your offer because this is the place I want to work
+when you say wiggle room and you like go
+out of your way to like hype them up and
+say this is where you want to be this is the place you see yourself growing
+unless they're just like a horrible person they're gonna have some level of
+empathy and go actually this is the top of our range we would
+love to work with you but there's nothing we can do right they're not
+gonna be like ah get out like that it's and if they did then that you do you
+know that you were walking into a horrible company
+
+01:44
+are the Angelus salary estimates fairly accurate um sometimes they are
+uh a lot of times it's the company that enters them in so if they're recent and
+you actually if their profile is like actually pretty well filled out
+and there's an actual contact person I find that it tends to be a little more
+accurate like like just having talent but this is a bigger company if it's a
+smaller company with a real person you can talk to that means they probably put
+it in and it's pretty pretty solid all right so those are five that were local
+we are going to take our break because we're at the top of the hour and when we
+come back we're going to do globally remote companies so we're going to find
+five companies that hire folks that live anywhere in the world and see if we can
+find uh folks to talk to those companies to get in front of them so that we are
+not clickers uh and we'll take it from there
+
+01:45
+all right so here's a list that I've used uh it's just and you can Define these
+it's just it's like not something that um is super hard but there are there are
+some lists that list these types of higher from anywhere doesn't matter
+where you live type companies which I think can help a lot of folks that
+aren't uh kind of in North America that aren't kind of like us or kinetic
+Canadia specific uh and so I'm gonna throw this in here this is
+just one of them no the ones that I share the ones that I share are um
+well everyone's going to be using them and there's what like 1300 of us right
+here right now so I'm not gonna I'm always gonna use this
+one so that I don't saturate the others but you can find tons of these right
+uh you can find tons of these types of lists uh because if you are global um
+
+01:46
+or you work you want to work globally not every company that is remote
+right every company that is remote actually hires folks from anywhere so
+it's actually it it's actually a little bit more challenging to find those types
+of companies there are tons of ways to find remote jobs I just find that a lot
+of folks sometimes struggle because even though they're remote they still expect
+you to work in certain countries uh and so even if you're like on um
+Angel list you can go ahead and turn this remote include remote jobs
+um and it will have remote jobs in North America right it's still like
+labels it for North America um and then it increases like look how
+many results we just jumped up to 5 000 right so in this case what I would do is
+if I turned on remote right and I knew that I was in an area
+
+01:47
+that typically hires coders right uh so they don't have to deal with tax
+implications and labor laws yeah it's that's true there are actually tools now
+that make it a little bit easier so more
+car more cars more companies are opening up to live anywhere work for them
+um because there are companies that make payroll actually manageable that handle
+the taxes for you basically there are payroll companies now that are a
+registered agent in every country and so you hire someone and then the company
+that you pay pays the workers in every and where you wherever they may be so
+they handle all the labor law stuff they handle all the tax implications and on
+your end you're just you're just using a service [Music] um
+I think when digital nomadism first started they didn't realize that even if
+you were a digital Nomad you were still quite privileged if you had a passport
+
+01:48
+from a specific country that had defined
+labor laws that countries could actually
+apply like that could you could work for so someone that was a digital Nomad for
+two plus years um I think that was kind of lost in that whole movement yeah cool
+all right uh so just real quick before we look at the global list uh I still
+have my normal full stack front-end back-end software engineer in my La we
+turned on remote North America this is what I would add filters so I'm now
+going to look for JavaScript cool I want to look for node
+and I'm going to look for node without the JS there you go without the DOT
+cool I would start with just those those are some areas of interest uh I'm going
+
+01:49
+to exclude keywords like senior when I exclude keywords like lead staff
+principle manager director yeah um probably like Sr I don't want to do
+that let low um why exclude senior just because this
+is a lot of this is still 718 results there's no way
+right there's no way that I can like it's just gonna be I would just be doing
+this for years if I was to go to all these companies so why not Niche down if
+I am trying to increase my odds right I spelled principle wrong I did
+
+01:50
+I spelled it [Laughter] uh yeah this is just an exercise I might
+even go as far as it's like the the size of companies that I want like maybe
+like maybe no small companies I don't know
+where does that get me so yeah they're like one to ten employees maybe I don't
+for this for my first pass right right for my first pass
+right not for my first pass right if I knew that I was gonna go harder
+then I would I would leave these on right because that just opens me up to
+even more but I might leave them off just because there might be more chance
+that they're actually hiring um and then I view results right and now
+I got 350 results to dig through that are remote and I would just do this
+process until my fingers fell off all right look at all these jobs all
+
+01:51
+right but that doesn't work for everyone because even though the remote they
+probably still want me to be in America and pay me in American dollars that's
+what I like about lists like this uh is that they are they are a list of
+companies that doesn't matter where you work uh you can reach out to them so
+let's go and take a look at this list um gitlab buffer automatic these are some
+like big name companies um I know I did some of these before so I'm
+gonna try and like jump down further uh the tried different ones that I have
+maybe I didn't do last time dollar Flight Club cool
+no current openings that are listed that wouldn't stop me though
+
+01:52
+even if folks don't list openings uh it doesn't matter engineering
+web engineer freelance all regions web engineer all regions hello yeah
+human made what do they do Enterprise WordPress agency rip I'd still apply uh
+uh hopping is popping let's see what do they got
+remote team do they got open positions does it list anything
+uh engineering manager senior I might still reach out to these folks
+
+01:53
+uh do they have any they have a angel list profile is there a way for me to no
+um jobs cannot search jobs let's look for Hoppin
+actually I'm just gonna go to LinkedIn it might be easier pop in cool people uh
+so I mean for me I have a lot of connections to folks that are in sales
+
+01:54
+product leader Revenue vice president I like that this seems like somebody
+that's fun pop in here vice president founder product leader
+at a corporate development I'm gonna go with the person that calls them a
+Hopping ear that just seems fun oh president and board member all right
+anyway let's shoot our shot no open messages uh any contact info
+Twitter is open they've opened DMs no open DMs uh they might be too high up for
+
+01:55
+they're a big enough company that I might not go for by that high up
+uh let's see fails sometimes they don't have a recruiter on here say hop in
+truder looking for anything let's see hop in angel
+Co let's see the angel list profile they do okay
+here we go we have their Angelus profile much better
+
+01:56
+um do they have any people listed here all right ahead of people and culture
+that could be somebody I might reach out to
+how many people are they they're a big company all right let's see
+experienced in recruitment kind of people and culture Talent acquisition
+all right can I find anything about them their LinkedIn is here
+I actually have a website listed is this their website
+maybe they sell stuff that'd be interesting uh let's check their LinkedIn
+and messages are open boom there we go I would start here
+uh they're pretty high up director Global people operations coach and mentor
+
+01:57
+promoting diversity inclusion practices cool seems like somebody I'd want to
+talk to looking at kind of if there's anything I can latch on to here
+I might be overthinking it uh they have a Twitter yeah they have a Twitter
+open DMS on Twitter that's that's also dope Barcelona
+uh I might I might do DMS on Twitter before I do DMS on LinkedIn uh and the
+reason why is because they're LinkedIn um might be jumping
+right they're they're they're they're their LinkedIn might be might be jumping
+
+01:58
+um I might try something cheeky let's look up sports ball recently
+
+01:59
+they went Ronaldo back see I'm trying to show you like what I would
+actually look up I don't know to be a good player messy messy messed up
+I'm trying to think of like is there like an in I see the other thing I know
+about Barcelona is football uh and they might not even care about
+that all right that's probably not a good in let's see if they have anything
+on their Twitter oh tweets are protected what is this site though that they link
+can I do Google Translate we sell products without bulk in bulk
+
+02:00
+without Plastics and without waste that's dope
+all right I'll do that my DM would start with this um
+how can I turn this into a DM let's go here uh this would be a DM that
+I do on Twitter I always start with that uh hey
+I have too many tabs open this is this is one of the downsides of
+getting too deep into the hunt all right uh I have been obsessed with reducing
+
+02:01
+all of my plastic waste until it fits in a jar ever
+since I saw this video and then I would link to the video of the woman that was
+Zero waste and fit it on the jar uh I gotta I got to find the video so when
+you're when with these Global remote companies whenever you're applying to
+remote jobs since you are not local you are competing against more folks
+right you're competing against more folks thank you Game everyone your
+competing against more folks and so you have to be a little bit more out there
+right you have to be a little bit more you gotta go a little extra and so
+building out a global hiring anywhere um
+
+02:02
+Global hiring anywhere type job you kind of gotta shoot your shot a little bit
+harder all right I've been obsessed with reducing my own
+Pathways until if it's in a driver since I saw this video Phil Hoffman has open
+engineering roles and love to learn more about them or just talk zero waste I
+love what you're doing with and I would link their company uh also if it
+makes sense to talk to someone else I would appreciate the intro
+or actually I wouldn't say that I would let them say that talking to doing with
+have a great week cheers Leon all right so trying to connect with them
+all right trying to connect this would be a this would be a message I would
+
+02:03
+send through Twitter DM because their DMS were open right DMS were open
+so I would just send them a Twitter DM I've been obsessed with reducing all my
+plastic waste until it fits and jar since I was saw this video I thought it
+was open engineering Rose let's learn more about them or just talk zero waste
+I love what you're doing with blank have a great week boom that's what I would
+send uh so this is Hoppin we gotta we gotta close some of these windows hopping
+uh I forget where the site here it is the site careers um
+the person I'm talking to where's their Twitter there we go copy that Twitter
+
+02:04
+put it in here boom there we go one of my five remote
+I'm just going to clean this up a little bit all right there we go cool
+if you think those tabs are bad you should see my other monitor [Laughter]
+all right who else Duck Duck Go I actually know a lot of people that
+work at duck duck duck duck duck go um I would probably just reach out to
+the folks I know that work there um looks like mainly senior roles they're
+
+02:05
+kind of like later stage it's a company that you all like if you
+see a company that should click on you tell me
+help Scout I know the founders of help scale oh Lark let's check out olart
+uh cool olark open positions doesn't say anything open right now
+let's try clothes software engineer back in a little bit of react
+uh looks like it's python though did you have react roles though this would be
+this would be something I would still I would still reach out to uh close
+dot com let's see if they have an angel list account angel.com closed
+
+02:06
+this is gonna be hard to find um no no why can I just look up
+companies directly can I close here we go all right beautiful
+do they list somebody I can talk to we do have the software engineering role
+here yeah it's a little python I can learn some python um
+we don't list the person that you can talk to
+let's look at all their team members closes on your list that's awesome
+uh uh founder founder founder Senior People operations that might be the
+
+02:07
+person we go to senior back-end engineer people operations come on no recruiter
+me recruiter good this size you should give me a recruiter
+nah all right let's see director of engineering might be the
+person I reach out to First director of engineering product
+oh they got everything listed let's see LinkedIn what you got for me
+
+02:08
+10 second warning five second warning difficult [Music]
+I see we can find out about them we'll see if we can find out about them um
+they write about their work we're hiring it's great so they're they're saying
+we're all we're all they're hiring uh let's look at their like their history
+Zend University of Florida Yahoo Google they're a freelancer for a long time
+
+02:09
+they have a gap yeah 2007 2010 looks like they freelance for a large
+period of time does this have another date 2015 or were they here earlier
+oh they're on the founding team of clothes okay
+it's still that's that's still three years where they were um freelancing
+or at least yeah at least three years were there freelancing right am I not
+seeing it right seven freelancing and then Quizlet founding team out of product
+and engineering all right I think I could use that as an
+
+02:10
+Outreach and then also look at their blog notice I'm spending a little bit
+more time with these people than I wear with the other ones when you're looking
+for these Global remote it's you gotta you gotta do a little more
+their DMS are open here on Twitter too looks like they'd be open to a Twitter DM
+um I would I'm going to use that I would I would send them
+I would send them an email because they give me the email we just check their
+
+02:11
+blog out real quick all right I'm gonna use that all right
+I'm gonna send them an email because they literally gave us the email um uh free
+Lancing to founding team to VP of engineering hey Phil your
+
+02:12
+journey in Tech is really inspiring I'm currently a freelance software engineer
+looking to join a product focused company and came across open roles at close
+I would love five minutes of your time to honestly just better understand how
+
+02:13
+you evolved or banned your journey could you Google just understand your journey
+and how you got to where you are today uh if you ever have time just oh let
+
+02:14
+me know and I'll move mountains to make it work have a great week cheers Leon
+cool all right freelancing the family teams of VP of engineering they're
+definitely that's gonna be them so they're gonna definitely click on this
+hey Phil your journey to Tech is really inspiring I'm currently a freelance
+offering during looking during a product with this company came over to US Open
+came across open roles that close I will have five minutes of your time to
+honestly just better understand your journey and how you got to where you are
+today you ever have time just let me know and I'll move mountains to make it
+work have a great week cheers Leon boom I think this is uh I think this is it
+all right love it add it to my list that's two down three more to go
+
+02:15
+you can do it I'm gonna add close to our list here um boom and
+we're talking to our homie Phil and I would put like their LinkedIn and
+their email in there cool all right let's uh
+let's look at some more on this list shall we skill Crush what's that nope
+stripy pretty cool you need a budget zappy or be dope I like buffer Buffer's
+one of my favorite companies let's see um do they have any open rolls
+
+02:16
+no current openings that's okay even some of these companies even if
+they didn't have any open roles I would still um start reaching out oh envision
+okay all right but do you have any opportunities uh you
+I might even worry if they have any open I might just still go through it
+
+02:17
+future openings I love when companies do this companies
+are like hey look if you're dope just reach out to us
+uh so do they have a recruitment number here let's look at their angel list if
+they have one cool let's see oh this is weird because I know these people like
+we'll skip I know I know uh hope Scott went through techstars
+um around the same time that I did uh let's go ahead and do uh
+
+02:18
+hot jar are they still a thing oh [&nbsp;__&nbsp;] they're hiding a lot
+software engineer full stack JavaScript let's go
+all right let's see if Hot jar has a angel list cool um
+they list let's go to people they list any jobs they have jobs
+not listed on here we're always hiring I love to see that
+all right let's look at their people real quick
+um employee employee tech support lead head of engineering software engineer um
+former team Maybe you could reach out to software engineer
+or head of engineering do they have anything listed on their profile
+
+02:19
+even about me that's no longer there about their LinkedIn
+empathetic cat software uh so it looks like they're no longer at hotjar okay
+um check out their LinkedIn software engineer at hot jar they've
+been there for three years no open messages
+um but I think they're they didn't nope a GitHub check out their GitHub profile
+found their Twitter no open messages um all right that was a bus no open
+
+02:20
+Messages open DMS no LinkedIn messages um let's try LinkedIn hot jar
+look for people VP of engineering software engineering team lead that
+could be good I'm just looking for recruitment
+director of town acquisition there we go let me start with that
+
+02:21
+how acquisition partner what's accelerate accelerate
+account acquisition lead at hotjar I'm gonna I might hit these these two I
+don't know what an associate Talent partner might be it might be like a
+specific recruiter um but this is a talent acquisition lead
+um open Messages we're hiring let's go all right what do we know about them
+oh Make A Wish Foundation I also volunteer for Make-A-Wish
+um I might leave with that [Music] um should not make a wish
+
+02:22
+um let's get something else uh nothing really here
+just uh they like definitely do recruiting okay
+do they have anything else listed no this one's hard
+but open messages so I would shoot my shot um
+let's see if we can find anything else real quick
+we live in Italy and that could be uh [Music] up up
+nah I don't say anything we'll just do a generic generic they got open messages
+
+02:23
+see let's look at their Activity real quick um they post it all no
+no we're looking at their let me look at their posts
+all right so this looks like likes all right they got open Messages let's shoot
+her a shot let's send a message um try the VP of engineering I think I
+would if I if I was really doing this I would definitely go to the VP of
+
+02:24
+engineering um uh what does hot jar even do let's look at hot jar real quick
+oh yeah this has probably been around forever heat Maps
+uh I would build some sort of heat map applique I would just build something
+really quickly it was like a heat map uh let's do like um heat open source
+Source heat map JavaScript Heat map.js all right boom I would grab something
+like this I built I would add a heat map
+to my binary upload boom or my 100 hours
+project and that would be my way in so I send a message
+
+02:25
+and my message would be like I love heat Maps hey what is your name again Angela
+I saw that hot jar had open engineering rolls on on your company website
+and I recently built out heat Maps for one of my projects I would love
+to connect to learn uh I would love to learn more about your open engineering
+
+02:26
+roles please let me know if you ever have a few minutes to chat
+Angela I saw that hot jar had open engineering roles in your company
+website every Heat match for one of my projects boom I'll link to it
+I would love to learn more about Open engineering roles so this is a global
+remote company we really gotta shoot our shot would you happen to have a
+few minutes next week to chat if so just name a time and I'll move
+
+02:27
+mountains to make it work have a great rest viewer week cheers yeah there you go
+love Moving Mountains they do all right cool I love heat Maps
+I'm gonna click on it you're gonna click on I don't care
+hey Angela I saw that hot jar had open engineering roles uh on your company
+website and I recently built that heat maps for one of my projects I'd love to
+learn more about opening uh your open rolls
+would you happen to have a few minutes next week to chat if so just name a time
+and I'll move mountains make it work cover grassy week cheers boom all right
+uh super simple we didn't really we couldn't really find anything to kind of
+like latch onto um but this is kind of like one of the
+generic things that you can you can you can do uh like you can just add
+something that their product is tangential to it would take you like
+what 10-15 minutes to add that open source heat map to your um
+
+02:28
+to your project and then you would move on right hot jar talking to Angela
+what's her name yeah Angela cool and I would like linked
+all the stuff that we found uh let's look at another Global remote one here
+dockyard Stockyard nope it's modern tribe
+calling all curious problem solvers sign me up uh [Music]
+so see it's a little bit it's a little bit harder when you're not going through
+a job board that already has like the open roles uh maybe something we could
+do that would speed this up would be if we used our Google magic that we learned
+
+02:29
+from previous classes and just added all these companies to it
+right that's probably makes that probably makes more sense gitlab
+engineering cool I got a lot of open roles uh
+uh let's see if they have an angel list profile cool
+I don't have a person listed look at all the team members
+
+02:30
+just looking I always look for recruiters first
+senior technical recruiter all right Liam come on give me something I can work
+with worked at gitlab are you still you're no longer there oh you're still here
+boom all right let's see your profile says you got a
+lot of stuff here we can work with uh uh let's go back let's actually take a
+look at their profile real quick did they go to university yeah I guess
+
+02:31
+public speaker their Master care is at um get lab boom
+let's look at their profile gitlab does not use recruitment agencies
+so we have a large internal team cool crossfitting
+festival or getting out into nature all right we got we can hook onto any of
+these uh writing crossfitting Festival so like right off the bat
+right right off the bat you could you could if you if you if you have any
+attachment to any of these um you could use that as your link in
+uh messages are not open they don't have their Twitter linked
+
+02:32
+uh was there Twitter on here no so we're probably just gonna go with email since
+they are a recruiter um they probably would have LinkedIn
+we could talk about dni work that would probably be my in here but what I'm
+going to do is I'm going to go ahead and
+try and email them so let's go to Hunter and do gitlab
+let's see what it looks like it looks like first letter last name
+yeah pretty clear the first letter last name so my email let's grab their John
+
+02:33
+over here it would be Al McNally is what I would start with cool all right
+getlab.com all right yeah it looks like it's coming up boom um
+and let's just say hey Liam and is CrossFit best of all going out to Nature
+let's see uh uh Festival will probably be the best
+like like talk about like a recent Festival I think something funny about
+crossfitting could be had uh I'm telling you when you're doing these
+
+02:34
+with global remote you gotta stand out I got lost in the woods hey Liam
+I saw that uh I saw that get lab had open roles and I wanted to Reach Out
+add open engineering roles and I wanted to reach out I promise my engineering
+talents are out pace my orienteering tiering skills cool
+hey Liam I saw it open engineering rules and I wanted to reach out across my
+
+02:35
+engineer transparent Pace my orienting Orient hearing skills you would you
+do you have any time this month to chat about working at gitlab or
+not getting lost in the woods all of us have a great week cheers Leon
+cool here we go um let me go with I noticed you
+
+02:36
+what do they say on on their on their LinkedIn
+I notice you like getting out to Nature but like they're not completely like
+what the heck's going on all right oh Liam Leon coincidence I think not
+that could be a good one all right I got lost in the woods they're
+definitely clicking that I don't care how many emails that they get uh they're
+definitely clicking that hey Liam I saw that gitler had open engineering roles
+and wanted to reach out I promised my engineering talents far outpace my
+orienteering skills the only time I just want to chat but we're gonna get low
+we're not getting lost in the woods I know she like getting out to Nature on
+LinkedIn have a great week cheers Leon uh wouldn't this come across as creepy
+no we passed creepy exactly we're so past creepy it's not creepy folks
+
+02:37
+Oh wrong one it's networking and so you got to get out of your head
+you got to get out of your head you're sending a hundred and eighty of these if
+it works it works if it doesn't it doesn't who cares
+we're just trying to We're just trying to get them to open our messages right
+the biggest problem is that folks can't get in front of the people that can that
+can connect you right you can't lose a job you don't have stop overthinking it
+have some fun write some funny messages right Find Your Way in winners win
+losers lose you gotta find your way in right and so this is the way you can
+find your way in so I like this one I got lost in the woods would be our
+title and I think this is where we'll um we'll call it we got nine out of ten
+
+02:38
+when we come back on Tuesday uh we're gonna go hard we're gonna we're gonna
+try and get 30 of these in one session uh so I was trying to show you a little
+bit more of like what I would do how I'd reach out to folks and I hope that it's
+been helpful to kind of see the approach I would take to reaching out to these
+very real people uh trying to get them to open my messages trying to get them
+to to give me the time of day uh but that's kind of it
+yeah key takeaway here is have fun with it you can't lose a job you don't have
+exactly uh you people put too much pressure on themselves at this point in
+the process and and that's pretty sad because you're when you're overthinking
+it you're not sending messages when you're not sending messages you're not
+opening up the doors that could help you get the job so please just try it it's
+one out of 180 some of them are gonna fall flat some of them will will never
+be opened um but you're right there in the end all
+
+02:39
+right everybody have a wonderful rest of your night hope this was some fun at
+least hope you start to see the intention behind the message that I send
+hopefully getting folks to click hopefully getting folks to start looking
+at your application not being a Clicker [Laughter]
+tomorrow we have our tea spill then all next week we're here together uh office
+hours class uh other fun stuff awaits us
+so let's get into it this weekend please take action right please take action
+right start your Hit List start if you need me to tell you to start this is me
+telling you to start all right everybody have wonderful rest
+of your night be well and I will see you all at stand up tomorrow peace

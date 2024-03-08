@@ -1,0 +1,2083 @@
+
+00:02
+yo a israel good morning good afternoon no matter
+where you come from hope you all are doing well they asked me they said leon
+it's crunk dead and i had to yell it back at him crunk ain't dead
+crunk ain't dead what's going on everybody hope everyone's doing well
+
+00:03
+glad you're back excited to get into some css tonight welcome welcome welcome
+as always we have a question to start off the evening folks
+always in that learn with leon live channel we have a question
+and so the question tonight is would you rather invent a new gadget
+or discover new species gadget or species in chat for me please gadget or
+species in chat please so we got a lot of species throwing up gotcha
+gadget's overwhelming this time okay i see y'all it's a little mix a little mix
+i think folks are well it makes sense it makes sense that the gadget folks are
+here right if you're putting in all this time to learn how to build
+learn some new technologies it makes sense with the gadget i think i'm in the
+species camp i want to discover a new species
+we'll call it the the 100 devs toad there you go the 100 devs toad or
+something like that there we go gadget species hey folks get in here hope
+
+00:04
+you're doing well not tea tonight folks got some uh
+got some delicious delicious cold brew this evening species don't pay the bills
+[Laughter] that's funny welcome everybody get in here get in here
+as always like to start off with some questions uh so i'm gonna go ahead and
+bring that slide up you got questions i got answers
+domino's head's cold brewed now they they i don't i don't know
+i haven't been there in a while his glitch down we might have broken
+glitch we got to be we got to be weary of the
+the immense power that this community has that we're we just ddosed them oh no
+
+00:05
+the same thing happened uh the same thing happened with um with our slides
+so the we we like center with the slides and then they like glitched they went
+down for a little while but they're working now but i think we want a glitch
+glitch so don't worry about glitch for right now
+we're gonna talk about how to submit the
+homework don't worry about submitting it for right now let's let's give them
+let's give them a chance to recover five six seven thousand of us all just
+just ran up on them and start trying to create accounts so let's give them a
+chance to breathe don't worry about you can submit the homework later tonight uh
+let's give them a little a little bit of a little bit of time for glitch the
+glitch you know what i'm saying you know what i'm saying all right
+what other questions we got while we're here folks
+i always like the terrible questions just to give folks a few seconds to get
+in here sometimes you're you're running from work i get it
+
+00:06
+i see a lot of folks starting out the bingo okay excavation point bingo
+if you didn't know how to use glitch don't worry about it
+hey thanks for the raid hope you're doing well thanks for stopping by
+hope your stream went well good to see you how things been welcome everybody
+we're uh we we're we just got started too we're we're letting folks get in here
+we're answering questions hope your stream went well we definitely gotta get
+a raid coming back to you uh so hopefully next time we see you
+live that's where we're going come on folks get in here for folks that are new
+we do a 30 week software engineering bootcamp we're only four classes in so
+if you've ever wanted to learn html css javascript node react and get a job as a
+software engineer it's the right place to be
+
+00:07
+can we keep going with class even if we're behind hell yeah
+that's why we got the ketchup crew we gotta get in that ketchup crew on discord
+github instead nah we we wait to get the github alrighty folks i think we got i
+think we got i think uh i think the gang's all here
+let's uh let's get into it let's talk about what we're going to
+cover this evening there's no slido for regular class just use chat i try to
+keep my best come on through somebody said your favorite success
+story from last cohort you know what it's just that
+i think a lot of folks found what they were looking for that i think that's
+that's that i think picking one person is very hard we're gonna have a lot of
+alumni are gonna start talking to you all we're gonna start bringing alumni
+pretty much every friday uh and so i think a lot of folks just found a good
+
+00:08
+fit and that that's what makes me happy i think a lot of folks were working jobs
+where they were really unhappy they would have lost those jobs during the
+pandemic and what i hear from a lot of them are just that they're like happy
+like they're making good salary yes they're working on cool stuff yes but
+they're happy and so i think that that's the coolest thing to hear
+all right let's go into what we're going to talk about tonight folks
+so always start off with questions like we normally do we're of course going to
+get our spaced repetition in we're going to talk about the client server model
+again we're going to talk about progressive enhancement again and then
+we're going to jump into the fundamentals of css so you've been doing
+a lot of reading you've been diving deep into that shea how but tonight we're
+going to start from the beginning we're going to make sure that all the core
+stuff makes sense that you feel comfortable with that core stuff and
+then we're going to move into a little bit a little bit deeper of topics when
+it comes to css how to not rely on just classes and
+ideas but to get used to the parent child selectors knowing that the
+
+00:09
+different ways that you can have a parent and a child that you can have
+direct parents that you can have siblings all these types of relationship
+selectors then we'll hint that classes and ids and then we're going to talk
+about specificity it's going to be the big topic for this evening specificity
+so we can start making sure that we can use the cascade so our benefit the style
+all of our content and then you'll have a lab and then we're going to have a lab
+right and that lab is going to be you building your first site with html and
+css which would be pretty cool i think we're going to
+with the bruh hope you're doing well dab good to see you
+so a lot to cover tonight lots of new stuff i think we're going to end a
+little early tonight just so you can have some time to work on that lab we're
+always going to do a raid at the end just to spread the love and positivity
+around but then uh then you're gonna have some time to work on this
+
+00:10
+damn hey what's up we do have end early emotes because i
+always say it and then it never happens uh so if you if you have a sub or gifted
+sub or you use your channel points to unlock the emotes uh we do have an end
+early emote because i always say it but it never happens but i'm gonna try i'm
+gonna try my best if you need the slides as always exclamation point slides
+true thank you for the hydration all right let's get into it folks
+four hours later in the i can't even do i can't do the spongebob voice but yeah
+alrighty let's get in it folks let's lock in
+uh if you haven't checked in yet you can
+always do the exclamation point check in uh here on
+twitch that'll give you the tweet to like and retweet
+please if you are here go ahead and give that tweet a like and a retweet please
+that way more folks can find our lovely community and not pay 20 grand for a
+
+00:11
+boot camp we always check in every class if you're new around here just uh more
+folks can find us and uh all i'll say is like
+a lot of times we start trending 100 devs trends every time
+in the technology because there's so many of y'all uh checking in and sharing
+and i love every night before i before i head off to bed i i scroll through the
+hundred devs hashtag i like a bunch of stuff uh i love seeing you all on
+twitter y'all while now it's cool to see all right
+submitting homework uh don't worry about submitting right now i think we brought
+down glitch or something happened with glitch we don't have to we don't we
+don't have to claim that we can just keep that to ourselves we don't have to
+claim that we're gonna keep that to ourselves uh but the idea here is i
+didn't want you to take your html and plop it in a glitch and then they
+give you a link that you can share right i don't need you to like change
+the paths to your images or like get stuff to be perfect
+
+00:12
+i just want your html i don't care if your images break or whatever just go
+ahead and plop your html into a glitch and then give me that link right
+that's all i need is everybody saying too late my bad
+yeah and that's that's going to be the same for like all your homework i know
+that when i asked you to submit stuff early on like early in program when we
+use the google form it's hard to like keep all your files and things together
+don't worry about that i just want to see the raw code that's all i care about
+when we get a little bit further in and we start using git and github then i'm
+just going to ask for your github repo and then you're going to have everything
+in there so just give me the html don't worry about anything else don't worry
+about your images don't worry about uh hot linking or whatever
+just go ahead and submit it can you resubmit sure you can if you need to
+but don't worry whatever you submit it is absolutely fine don't don't stress it
+too much right now and like i said i think we i think glitch is down right
+now we brought it down uh so don't worry about it for right now
+
+00:13
+take some time like after class to submit it and you're all good cool
+a lot of folks say does homework get reviewed no
+all the homework is binary it is did you do it or did you not do it and then we
+do every single thing that gets assigned for homework we redo in class right so
+you get that space repetition and you'll see the exact example and then you can
+compare yours to the others there are some stuff that gets like auto-graded
+but for the most part i try to give you stuff that's either you did it or you
+didn't do it and you got to get comfortable with that a lot of times
+when you're turning in work or tickets you might have some
+light code review but it's on you to get
+it 99 of the way there it's up to you to say that looks exactly like the photo
+the designer gave me i don't need to tell you you did it right right because
+we don't care about the code quality right we don't care about code quality
+it could be the vomitiest code that we've ever seen we're here did we get it
+
+00:14
+right or wrong right do we get it right or do we get it wrong that's it okay
+cool advice for people that are behind in class ketchup catch-up crew on uh on
+discord we got the ketchup crew uh the beautiful thing about discord i saw over
+between this and last class is there so many people on discord just in the voice
+channels sharing their their their screen and
+watching the videos together and talking
+through things that came up so if you're a little behind jump in one of those
+voice channels work with some others to get caught up you know
+are people saying how do we plop our html into glitch i actually showed you
+how to use glitch i didn't know how to use glitch fully but we did it together
+so you can re-watch that video to see how i did it uh or you know what get in
+there give it the whole 100 try you can upload your files you got to get in
+there you got to play around with it you got it you got you got to start
+
+00:15
+exploring but right now glitch is down don't worry about it for right now i
+think we brought him down 5 000 people signing up within a 30 second span is
+pretty rough so so don't worry about right now submit it after class cool
+thank you for the the hydration cheers to you
+and for right now if you are catching up
+you're a little behind don't worry about submitting homework get it in
+we're not in our official houses yet so we can be a little bit more flexible
+with homework and so get it in if you're watching this afterwards just get it in
+don't you don't have to let me know on discord just get it in you're good
+homework will become more and more of a more strict thing as we kind of progress
+okay also if you're watching us on youtube go
+ahead and give us that like go ahead and click the subscription button hit the
+notification bell it feels so weird to say that but i don't want to have to
+
+00:16
+edit this afterwards also can we talk for a second got copyright struck
+i got copyright struck because i played the um
+curb your enthusiasm song like you know like the
+i don't really wanna can i hum it can i can i can i whistle it i don't know
+right and so i like there's there's like a 15 second period of the first video
+where where it's just me doing this because i muted it so that they could
+get rid of the copyright strike because here's the thing
+the channel is not monetized right so there are no ads you got but i did get got
+thank you edward i did get got so it's not monetized so there's no ads but if
+there is a 10 15 second clip of some sound it's not even like a like i guess
+it's like some older song it's not even like a real freaking song right 1050s
+and clips they copyright strike it right they copyright check it come on
+
+00:17
+larry exactly and then the whole video gets monetized and it's a three freaking
+hour video i don't want you have to sit through ads across a three frickin hour
+video uh so i there's like a 15 second of me just like
+doing this i wasn't saying anything don't worry
+but we had to mute it so that the ads don't play i just thought that was that
+was funny yeah i got got it did got got all right
+just some quick reminders before you jump into learning this evening
+please use search we talked about this last class
+a lot of times we get some kind of very common questions i get it you're worried
+don't stress just don't stress so much it's okay
+we're learning we're easing into the process nothing is hard requirements yet
+we're still getting our gears turned in here folks so a lot of the common
+questions that get asked you can probably find them just by using the search
+
+00:18
+a lot of times things get answered a lot
+of times things get asked multiple times go ahead make sure you're using search
+all right another thing is now all of our help
+channels and the ask leon channels are thread based you don't have to do
+anything we have a lovely bot in those channels
+that whenever you ask a question it automatically turns that question into a
+thread so there's nothing you have to do you just have to go ahead and type your
+question like normal and that will be turned into a thread
+and then that way folks that want to help can jump into those threads and
+help directly in the thread and so all the help channels now have that
+and the ask leon channel has that so please don't click reply anymore
+jump into the thread and answer in the thread if you click reply we're just
+deleting those that way it's just threads in those channels right
+what does thread mean third means that all the messages are in one place and so
+
+00:19
+if you go into any of the help channels right you can go if you go into any of
+the help channels uh you will see that there are threads
+now instead of like a bazillion messages just streaming by
+i know that a lot of folks kind of get stressed out by discord when there's so
+much and so in the help channels we want it to have the threads so that way it's
+way easier to search for questions and see the responses right and then also
+just to make it easier for folks that are helping to jump in and keep it all
+together so please don't just click reply in help channels
+those will be deleted and if you want to help and answer questions just jump in
+the thread and then with that being said you have
+the power to help right a lot of folks are going to be at different places at
+different times throughout this cohort if you see a question that you feel like
+you can answer jump on in answer that question you got
+
+00:20
+the power you can just jump in and answer it a lot of folks right now are
+going to start to have questions about css if shayhao really clicked for you
+right shayhao really clicked for you and it made a lot of sense you understand
+the things that happened tonight during class this weekend right
+this weekend when you are working and you see people in the discord asking the
+questions that you already know go ahead jump in there and answer answer them
+somebody just said teaching also helps you master subject yes
+the most the the best thing you can do to like actively recall and get your
+space repetition is to teach others it really does just like lock things in
+that you'll never forget a lot of the stuff that we're doing tonight in class
+it's just it comes off my tongue like butter
+because i've done it a thousand times right and so
+teaching others helping others working with others is a great way to
+reinforce those concepts it's one thing to like understand
+
+00:21
+something it's a whole other thing to teach it to another or share it with
+another person and so get in those get in those channels get in those voice
+channels and help out i love butter j house brutal it can be we're going to
+talk about that tonight we're going to talk about why reading can be brutal at
+first all right another thing that's come up that i want
+to make sure that we're very clear on is that you got to get better at typing
+you just do right you got to get better at typing can they
+use github links or code pens you can use a code pen if you would like yeah
+thank you you can use a coping if you want but um yeah i prefer
+glitch just because we brought it down so we can open up a little bit got to
+get better at typing so folks say like what is a good typing speed
+i think like an admirable goal for typing is like 60 words per minute
+
+00:22
+that that's where you where you want to be right if you can type 60 words per
+minute you're in a good spot okay and the reason why i say 60 words per minute
+is you there's a couple there's a couple big things one
+there was this article i tried really hard to find i could not find it again
+but there was this article and like a thread on hacker news about like who do
+people go to like who do people go to when they need help right
+and what they found out is that people don't go to the best developers they go
+to the people that can like type faster so if you can type mod like very fast
+you're more likely to get folks coming to you because they know you can get to
+your answer quicker and then the other thing that came up is that one of the
+biggest kind of skills you can have joining a company is to be decent at
+typing if you join a company and you're kind of doing the finger poking people
+
+00:23
+are going to be a little suspicious a little suspicious right and so to get
+past that sniff test and interviews to get past that sniff test
+when you are kind of new on the job you want to make sure
+that your typing is up to speed and the beautiful thing is we got 30 weeks for
+you to get better at it now the last thing and i think that's
+something that's really important and why this being good at typing thing
+is really important is because early on a lot of folks that don't type well
+are thinking about the typing and not all their is going on the coding
+right so if all your type all your energy is going into like making sure
+you're typing well right your brain might not be processing the
+actual learning to code bits as much and
+so you want to make sure that you can be typing and not worrying about it so you
+can focus all your energy on learning and so that's why being able to type
+
+00:24
+well and not use like even if you even if you finger type
+at 60 70 80 words per minute but if you're still looking at the keyboard and
+thinking about what you're doing that that that doesn't help and so you
+want to get to the point where you're flowing and you can get into that flow
+state like i don't know how to describe it to you but once you start coding you
+hit that flow state everything changes and so i find it really hard for my
+students to hit that flow state without having decent typing
+now for me i type around 80 words per minute
+and i don't think that's necessarily like great i don't think it's
+necessarily wonderful um it's something i could keep working on to get better at
+there are other folks like the primogen who we uh we saw yesterday that are just
+like wizards speeding around uh but for me i was at like around 80 on a normal
+keyboard and then i jumped to my split keyboard uh my kinesis and like my my
+typing speed tanked i went to like 30 words per minute and it took me a while
+
+00:25
+to build back up from like like 30 up to back to like my 80. and um
+the thing that helped me get my typing back
+after i switched to a split keyboard was uh keeber and so keeber is really like
+it's completely free and it's a wonderful way to like improve your
+typing so part of your homework is to do a typing test
+typingtest.com i like the five minute wizard of oz one
+and just to see where you're at and then committing some time into your daily
+practice for some typing if you need it if you need it yeah
+not everyone will be there and everyone will need it but if you do
+something to start now start early the earlier you get better at typing the
+better off you'll be the more you'll be able to hit that flow state and the
+
+00:26
+easier it will be to learn can i i can hear this gif that's so weird
+you know like when you can see guess you just hear them can you listen
+see if you can hear the gif you ready listen god no god please no no no
+you heard it right i you just look at it and sometimes you can hear it i don't
+know why but like you just look at it sometimes you can hear it i heard it i
+don't know why it's weird anyway the copyright's coming for me um
+so leon why do you assign so much reading well let's talk about it
+the reason why i signed so much reading is because most of you all once you
+leave the the wonderful bubble that is a hundred devs will join a company
+that uses a language that you have never learned
+or uses a technology that you've never heard of
+
+00:27
+and it will be up to you to learn that technology in a week
+sometimes my students get tickets that are they get a ticket on monday that's
+due on friday and it's something that they've never ever heard of right
+and so what you're going to do is have to go find the documentation for that
+technology and it's going to be old it's
+going to be dusty right it's going to be it's going to be a markdown file that
+just doesn't make sense and that's all you're going to have that's it some dusty
+written in a different language translated to english different
+like just horrible bit of documentation and that's all there will be
+there will be no fancy tutorial thank you for the gift
+
+00:28
+itself there will be no tutorial there will be no video
+there will be no me helping you through that through that bit of content there
+will be a document written in hieroglyphics exactly and so a lot of my students
+that i noticed a couple years ago that only consumed videos or tutorials
+that kind of held their hand they always did
+way worse on the job because there's just going to be throat you're just
+going to be thrown into situations where you gotta you gotta read and so
+i start early on by getting you used to reading a lot and so yes
+i could be assigning videos i could be assigning more tutorials and
+we will there will be lots of videos i assign there'll be lots of tutorials
+that i assign i love traversing media give give that man a medal right like
+
+00:29
+there will be lots of videos that i will assign but
+we gotta get better at reading and the only way i've seen my students
+get better at it is by assigning more of it so that's why we have a lot of
+reading and why i want you to engage fully with that reading don't cheat
+don't cheat yourself don't treat yourself with that cognitive effort right
+do the reading when you things don't make sense you can go and use other
+sources but you i need you to to grapple and push yourself and get
+better at that reading so that when you're on the job and that's all there
+is you're okay at it okay so that's why i do it and that's why i
+know so for a lot of folks it's it's kind of overwhelming at first but trust
+me you put in the cognitive effort now you'll be way better off in a couple
+months when you're when you're on the job thank you for all the hydration she
+
+00:30
+tells you all right keep pushing here we've kind of hinted at this before
+oh and that's another thing two people asked in chat thank you for asking that
+uh when you are reading technical readings it means you're coding along
+you should never like read through shay hal without like if you're reading
+shayhao like this you're messing up right you need to be
+taking the code examples playing with them your text editor right you need to
+be engaging with the actual code right so when you're reading technical
+material when you're trying to learn how to code through written medium you're
+not just reading you're you're engaging with it you're stopping reading you're
+playing with the code you're coming back to the reading right we don't get got
+we go exactly we go get we go get by reading more right and so
+reading is active reading you're you're not only actively recalling you're not
+
+00:31
+only taking your questions you're not only adding to anki you're playing with
+the code reading reading technical stuff should take way longer than reading
+something like a book right you just need to stop more often you play more often
+you gotta be getting the hands-on keyboard time even with reading and heck
+a lot of times when i'm reading stuff i'll be building like a small project
+along with the reading so like if they're teaching me some topic i'm
+trying to build something based off of what they're telling me right like you
+want to engage with it so for now make sure you're engaging make sure
+you're reading make sure you're playing all right
+we hinted at this piece a little while ago and it's something that i i want to
+bring up again there we go something going to bring up again
+
+00:32
+and it's this idea of going deep not wide okay i need you to go deep not wide
+and the idea here is that in the beginning there are so many things
+that can consume your intention i'm trying to get my chair height right
+cool there are so many things that can consume your attention and early on
+you are way better off going deep and not wide
+do not spend three hours trying to like finesse your vs code and like set it up
+with all the latest bling and blam don't spend three hours trying to figure
+out get in github when it's not due yet right make sure that you're going
+deep with the material in front of you and not spreading yourself too thin right
+
+00:33
+the folks that start looking at all the shiny objects all the bells and whistles
+and they run off on tangents that's a great hallmark of a good developer but
+not now go deep with the material that you have
+really invest yourself in digesting and understanding and try and stay on the
+the right path because if you go too wide you burn out that's all it is
+you just burn out if you try to do too much exactly you're going to feel
+overwhelmed and you're going to burn out and so go
+deep on the topics that we give you really immerse yourself in the reading
+try not to spread too wide and go deep and for the love of all that is holy
+please go ahead and flatten your forgetting curves
+make sure if you're putting in all this work you're going deep on these topics
+
+00:34
+right you're actively reading and you invested all this cognitive effort into
+learning that you don't forget it thank you as your friend cool
+all right folks let's jump into it let's get into the mix what is the internet
+what is the internet chat what is the internet nice thank you for the hydrations
+waste world and shell razor here's to you yeah it's a wire it's how we connect
+different devices we have our client-side devices like our laptops our
+tablets our mobile phones that can send requests to servers which are computers
+on that wire those servers can hear those requests
+generate responses and respond to our client um
+a person that writes the code that enables a server to listen to requests
+
+00:35
+and generate response is what we call them
+yeah we call them a back end developer nice and somebody that uh writes the code
+that runs on the client side device is what we call them cool
+uh what do we call someone that writes both front end and back end code
+cool full stack developers that's what we're all here to be right so if you're
+new here welcome we're trying to be full stack web developers we are software
+engineers that specialize in full stack web development thank you
+all right let's keep pushing golden rule separation of concerns our html should
+just be our html our css should just be our style all right sorry our html
+should be our content our css should just be our style our javascript should
+just be our behavior and interaction why why is the separation of concerns such
+an important idea and we're going to see it tonight folks tonight we're going to
+
+00:36
+see like why this rule is important and how we can be led astray if we don't
+actually follow this rule there you go chat it's organization exactly it's all
+about organization right if we are working on code and we want to come back
+to that code sometime later right when it come back to that code in a in in a
+month or so and we want to we want to fix something style wise we know to go
+directly to the css if we're working with a team and somebody on our team
+wants to go and add more content to our home page they know to go to the html so
+by following separation concerns we bring organization to our code and it's
+a good coding pattern to follow early on so that you can work well with yourself
+and with teams all right last class we talked about
+progressive enhancement progressive enhancements this idea that the core of
+your site the thing that matters the most is your content or your html
+
+00:37
+right and then in that content we wrap it with a very small amount of
+presentation which is our css and then we just put a very thin lit candy
+coating which is our client-side scripting or our javascript why is this
+idea of progressive enhancement important like why does it matter why
+should we make sure that content is king can be for accessibility can help with
+accessibility um and it and and it has to do with yeah exactly folks
+might not have high speed internet access and when you don't have
+high-speed internet access things might take too long to load we
+saw that we saw that idea with c cnn their main site was thousands of
+requests and their light site was just a handful right and so if in the u.s we
+had 22 million americans or 35 percent of our royal russians didn't have
+
+00:38
+broadband access if you expand that to around the entire world there are just
+so many potential customers consumers that don't have high-speed or reliable
+high-speed internet access and if you're building your sites with heavy
+client-side scripting heavy things that slow down your site you're doing them a
+disservice now there was uh once that we didn't talk
+well i did talk about i think maybe i i'm i'm not sure if we covered it but
+there's a site called motherfuckingwebsite.com and i love it because this is a
+[&nbsp;__&nbsp;] website look at it uh it's perfect right what else do you want
+uh it's lightweight it's responsive meaning that it works across all the
+devices and it works and it's just html right so just html you can build great
+sites that work well right that would work for anyone
+depending on the no matter if they have a high speed broadband or just a regular
+internet connection it's going to work and so
+
+00:39
+you can build wonderful websites that have lots of utility that that work well
+for everyone if you focus on your html and that's why we start with html that's
+why i asked you to do so many sites with just html before we even get to our css
+because the html the content is what matters now we're going to jump into css
+all right jump into css now the the nature of jumping into css is that we really
+shouldn't be this really shouldn't be your first pass right
+your first pass into css should have been when you were going through shayhao
+right what we're going to do is we're going to distill
+the important things out go over them together
+but if you're showing up to class and you haven't done the reading
+you're in for a little bit of a shock because we're gonna be using lots of big
+
+00:40
+fancy terminology lots of new vocabulary
+and so if you're not keeping up with the reading
+class is gonna be a little bit of a shock right and so i'm hoping that you
+got through the reading that you gave it the good old 100 devs try
+that when we get into shock me good leon when you get into
+uh the goods tonight it's it's a little bit of a little bit of recall a little
+bit of repetition right but you don't have to stress
+when i give your reading yes i want you to go through i want you to engage with
+it i want you to to understand it but all the important stuff the stuff that
+you really absolutely have to know the stuff you have to really absolutely lock
+down we're always going to review together in class cool
+
+00:41
+thank you for the hydration cheers to you alrighty let's get into
+it well i gotta ban somebody real quick there we go all right where does our css
+go does our css go inline does our css go in the head or does our css go into
+a separate file oh we got a lot of people yeah i think
+we can get it i think we got them all right here
+now if you set it in a separate file that's what i'm looking for now why
+would our css have to go into a separate
+
+00:42
+file why why do we do that why do we put our css in a separate file
+separation of concerns exactly the golden rule separation of concerns calls
+us to keep our html our css and our javascript separate so to keep our code
+separate we put them in separate files and then we link them all together so
+tonight we'll see how to link your your html to your css that's the idea we're
+gonna put our css into a separate file and then link our html to our css we'll
+do the same thing with our javascript when we get there as well we'll have our
+javascript in a separate file and we will link that javascript okay
+now there are some exceptions to this rule
+does anyone know an exception to when we could put our css in line with our html
+and what that means is like you'll have like an html tag
+
+00:43
+and one of the attribute value pairs will be style and your css will go
+actually in the html tag itself but there is a time when you can use
+inline style and only one time ah people see it emails yes emails like
+the emails you get in your inbox they're all written with html
+and the unfortunate thing is that the the emails are don't have access to
+external style sheets and so they need inline css like there's like an email
+you can't link to an external style sheet there's some stuff that they're
+working on right now to make that a thing but the idea is that if you want
+to write emails you're going to put your css in line uh in your email and that
+just goes all the way back to when emails kind of first were taking in
+style right cool i got a scam fake leon email today and
+it's gonna start happening people are gonna start sending you wild stuff we're
+
+00:44
+a big community now we talked about it on on tuesday be careful in these
+streets folks be careful in these streets i'm really only ever going to send you
+emails on class days and you're really only ever going to get three emails from
+me you're only ever really going to get a class email on tuesday a class email
+on thursday and then a like like a office hours email on sunday it is very
+very rare that i'll send you any other type of email and so if you get some
+sort of weird email that's not one of those things and if it is one of those
+things be careful um but yeah i'm not really gonna send you any other stuff
+one of the emails asked for two thousand dollars for mentoring
+i i don't have a cryptocurrency there's there's no leon coin please don't get
+got camera's going to scam exactly all right
+
+00:45
+so in line the only time you can use inline css right
+anytime you want to use inline css uh it is for an html email right they have an
+email that's it that that's the only time you can use css inline now
+there is a chance that you could use some css in the head
+at the the beginning of your document right like at the top of your document
+we have we have the head remember that you can see my sexy body you can
+actually see it tonight but you can't see what's inside my head well in that
+sorry in the head you can put some some some style blocks in there if you want
+now is there anybody know why you might put some style in the head
+it's like oh there's only like one time that you should really do that
+the only time you should do that is when you work at amazon
+
+00:46
+so amazon has publicly stated for every one second their page load speed
+increases they lose a million dollars a day
+one second increase a million dollars a day all right and so could you imagine
+being the front-end engineer that like loads like something too heavy and page
+speed goes up and like they lose out on millions of dollars right so
+what folks at amazon came up with and i'm not sure if they're the originators
+but they definitely used it and popularized it it's something called
+critical path css it's the css that you absolutely need to
+load above the fold above the fold means like before you start scrolling
+everything you see when the page renders that's above the fold if you have to
+scroll that's below the fold so what amazon does is they put a little bit
+of css in the head of their document that just loads that that like
+above the fold then everything else goes in a normal
+
+00:47
+separate css file and that gives them just a slight a slight increase in
+performance that can actually save them money
+now you should never use inline css unless you are
+writing emails and you probably shouldn't use critical pass css unless
+you're amazon and like microseconds really matter to you right or our normal
+projects the things we work on most of the companies you'll join you're better
+off with the benefits of separation of concerns than you are with the very
+small increases in performance okay now we'll be putting our css into a separate
+file going forward but i'm going to show you tonight why things like inline css
+can actually really disrupt what's going on now if our css is in a separate
+
+00:48
+file we need some way of connecting our files together and so what we can do is
+we can put a link tag in the head of our document so in our html file we can put
+a link tag in the head and you'll see that tonight when we start writing out
+some code but the idea here is that when you have this link you can tell
+the browser where to go to find your css files
+and what you're actually doing here if you look at this this href here is
+you're telling the browser hey go look inside the css folder
+and when you're inside the css folder you will see a file called style.css
+we're going to spend some time talking more about these pathings but what
+really is happening here is that your computer even though you see folders
+right and you can open and close folders your computer can actually just have
+
+00:49
+that raw path and so we'll see those paths as we kind of get deeper into it
+but the idea here is we're saying hey from this html file
+i want you to go into a folder called css and then i want you to find this
+style.css and so we're going to put these links at
+the top of our html files that's how we're going to link our html and our css
+together yeah it really said what is the dot in the dot dot slash uh well
+we're going to see this as we get a little bit deeper but the idea is if you
+are using something like the terminal i'll show it while we're here
+let me pull this up it's gonna be a little a little odd and
+we're gonna spend way more time looking this but just because someone asked i
+want to show it so here's my computer and i can cd into my desktop i know it's
+a little small but the idea here is i can move to my desktop
+
+00:50
+and then this is kind of like the underpinnings of how our computers work
+now if you back in the day bought like an apple computer
+and um you brought it home you spent like thousands of dollars to get it to
+get it home and then as soon as you got it home you
+turned it on and this is all that you saw that's it
+it was this there was no gui or graphical user interface it was just
+this and so there are ways to move through your computer
+like you would by clicking on files just by using text and so cd stands for
+change directory and so i can change from my desktop into my stream folder
+and then i can change from my stream folder into my hundred devs folder
+right and then if i look inside my hundred devs folder you can see all of
+our current classes class 1 class 2 class 3 class 4. and so the idea here is
+
+00:51
+that i can using this terminal i can move around my
+computer i can move into folders i can move out of folders right and eventually
+we'll get really good at using this but that's what you're seeing here
+when you look at this href what you're saying to the computer in this case
+we'll use that loosely to the browser you're saying hey go into the css folder
+and then find the style.css 425 show what's up how y'all doing
+hold on do i still have it hold on i think i still have it boom
+christo's in the house what's up uh four two five show is our lovely
+friends at uh at microsoft uh we we've worked with them a lot last
+cohort uh they're amazing we're definitely gonna get a raid to go over
+them uh they are uh an absolute trip and this is this is uh christos that we we
+
+00:52
+all love around these parts and so uh we're gonna come through to you
+i still got it up all right now when you see this we're going
+into a folder called css and then finding a file called style.css just
+like there would be a file on your computer well that's all we're
+saying here you have to worry about this too much right now but that's what it's
+saying and so somebody asked what about the dot dot slash
+all that means is a command to go up a level
+right all that means is go up a level so
+like if we were in a css folder we could go up a level if i was in my stream
+folder i could go up to my desktop right
+and so that's all it means but for right now don't worry about it
+alrighty the thing we're going to worry about however is uh the way
+that we write our css so when it comes to your css we're going to see some
+
+00:53
+significant differences from other languages that we've learned so far like
+html we're going to see some new colons and semicolons and curly braces or some
+people call them figure braces right we're going to see this different like
+spelling and grammar and so we would say all these changes make up the what of
+css all these changes make up the what of css
+yeah they all make up the syntax of css thanks thank you for the hydration
+again thank you for the hydration cheers to you
+they all make up the syntax of css so something we have to be careful of when
+we start our journey into css is that they're going to be a lot of new things
+that are very important if you forget semicolons and colons you're not going
+to have a great time when you start writing out your css if you forget to
+close your curly braces you're not going to have a great time when it comes to
+css so as we start to work through this stuff we gotta we gotta make sure that
+
+00:54
+we're we're paying attention we make sure that we
+don't kind of miss these things as we start typing and i'm gonna show you some
+some little tricks that i use to make sure that i don't forget stuff or or
+forget to close stuff as we start actually typing cool now css is what we write
+to style the content that we wrote in html and so css has its own
+syntax the way the spelling the grammar the ways that we write that
+that actual language right it's a markup language so we have a special way that
+we write it and so this entire thing here and i have
+plenty of slides after this that break this down step by step but the idea here
+is that whenever you're writing css you are writing rules so this whole thing
+
+00:55
+is a rule okay rules are then broken down into selectors and declaration blocks
+are then broken down into declarations and declarations are then broken down
+into properties and values so what the heck does all this mean oh doyle rules
+what the heck does all this mean and don't worry we're going to go through a
+couple of times when we are writing css we are trying to tell the browser hey
+i want some content to look a particular way so in this rule we have a selector
+this is telling the browser hey i want every paragraph
+right i want every paragraph to look this way okay and so we have our selector
+
+00:56
+and then inside of our declaration block goes all the declarations like the
+things we are telling the browser that we want to have happen to that kind of
+content so we have said hey i want all my
+paragraphs to have this particular style and then i have on each line
+declarations that are going to go to how i want that content to be styled and
+so we have how many declarations do we have here chat
+how many declarations do we have we got two declarations nice two
+declarations and those declarations are broken up into properties
+and values so what we're saying is hey i want all of my paragraphs to have the
+color of red and i want all of my paragraphs to have
+
+00:57
+a font weight of bold so they're going to be red and bolded nice
+now i have a bunch of slides that kind of break this down right when we're
+looking at the entire thing it's called a rule
+in this case the p is called a selector and it's followed by a set of
+declarations in a declaration block so one more time just uh for the folks in
+the back whole thing rule rule is broken down into a selector like
+the thing that we're targeting right in this case i'm targeting all of my
+paragraphs and i want those paragraphs to have all these declarations and these
+declarations are sitting in my declaration block my declaration block has two
+declarations and those declarations each have a property and a value property
+value nice all right and like i said there's there's a lot of
+slides here that just break this down step by step and so one of the things i
+
+00:58
+want you to do tonight uh after we end class is to come back through these
+slides spend some time making sure right making sure that you
+understand each piece of these because vocabulary is important
+right vocabulary is super important when you get into these interviews
+right when you get into these interviews to pass that
+sniff test and to shake that new developer stench
+you got to have the right vocabulary and i love whenever i'm interviewing a
+new software engineer i love to ask simple questions
+and one of the simple questions i'll ask is i'll ask
+what is everything called here right you'll be surprised how many engineers
+uh forget what everything is called and so for me it just it just shows a
+
+00:59
+level of detail and it shows a level of interest and a level of kind of knowing
+that they went through the muck to learn it right and so for me i i like to ask
+that question and and when you're in an interview that vocabulary matters if
+you're if you're using the wrong words it's going to be a little little suspect
+okay um so make sure you commit yourself to
+using the vocabulary and then use it i talk to myself all the time why don't i
+talk to myself i talk to bob but whenever i'm coding especially something new
+i'll talk out every bit of code that i'm writing all right well i'm writing if
+i'm writing css i'm writing a rule right now
+and this rule is going to target all my paragraphs my paragraph is a selector
+i'm going to have my curly braces the curly braces open and close and anything
+that's inside those curly braces will be a
+a a declaration block and then all right i'm writing out my declarations i
+literally say this out loud so that the vocabulary becomes one with me right and
+so you want to make sure that you are getting that vocabulary because it is
+
+01:00
+important what you have to realize about
+interviews is that interviews are really two parts
+an interview is one part solving the challenge in front of you and one part
+communication and collaboration the better you are communicating and
+collaborating in an interview the better
+off the interview is going to go for you and a lot of feeling comfortable and
+confident in interviews that you can collaborate well
+is knowing the terminology so you don't get tripped up while you're in an
+interview alrighty folks let's go ahead and take our top of the
+hour break if you are new here right if you are new here uh at the top
+of every hour we like to take a break we
+like to get up move around if we're able go hydrate
+look at something that's not your screen let your eyes relax somewhere else and
+so let's go ahead and bring that timer on up gonna take our five minutes we're
+
+01:01
+gonna play some tunes but please we we we got a lot of uh
+really important stuff to get into tonight
+a lot of stuff that we need to remember for the long haul we need to get some of
+that diffusive time in so go ahead take your break when we come back we'll
+
+01:03
+review all right folks see you in five i'll give you what you came for you
+
+01:04
+
+01:05
+foreign hmm you're too bad we can't combine our channel points for only fans
+
+01:06
+teach me something bob bob has lots of things to teach
+juan my split keyboard is just the kinesis advantage nothing wild yeah
+an embarrassing amount of stuff just fell out of it when i did that
+what is actually happening when we break a website that's really interesting uh
+so it's just that the server is being overloaded like a lot of times too many
+people too many people are making requests and the server can only handle
+so many of those requests before it goes down now there are a lot of stuff that
+you can do to like make sure that doesn't happen um but sometimes you just
+hit the right the right thing with the right request like creating too many
+accounts and it all goes down now something that we actually did with um
+the 425 show that was here a little bit earlier is that we did some identity
+
+01:07
+management and we used microsoft for our identity management so if glitch was
+using that maybe they wouldn't have went down i don't know there you go
+all right folks come on back come on back i also know if they went down or if we
+were just they just got blow you got blocked
+does the server literally stop executing commands it can depends what the like
+the fall over is but yeah it can just get behind it can stop
+a couple different things could happen and we'll get once we get to node and
+we're building our own servers oh well that's so much fun dealing with all that
+all right folks come on back come on back folks
+oh when writing when we when refactoring code to declaration supersede one
+another nah some people like to go like alphabetical
+but i think that's just too much whatever you do just be consistent in
+
+01:08
+what you do all right let me chill the music here we're gonna jump right back in
+do i dabble in game dev no i always kind of want to
+like after like uh lana lux the person that we uh raided and they raided us
+back the other day uh just like watching them like build something like like i i
+love programming because i can create like i can bring something into existence
+and i really like game development in a way because like
+not only is it just coding but it's all this other stuff storytelling 3d
+modeling all this other stuff that you could like learn that i don't know and
+that's what gets me excited like the idea of like learning all these
+accessory skills to become better uh is something that gets me excited
+like game development itself is not like something like oh that's a passion but
+learning all those other cool things i think would be really interesting cool
+
+01:09
+i really do want to make like um like i don't know if i can say it i do want to
+mod some stuff leave it at that all right folks come on back let's get into it
+alrighty so like i said there's some there's some
+some more breakdown in the slides here we don't have to go through this
+but let's play our our favorite game around here uh what is this all right chat
+uh what is this what did i just circle ah there we go
+i just circled a selector nice that is a selector how about this what's that
+remember we have slow mode on it i think
+it's a 30 second slow mode so may not be able to answer all of these
+
+01:10
+yeah it's a declaration block it's not a declaration it's a declaration block
+notice i wrapped around those curly braces it's a declaration block all right
+what's this what's that that is a rule nice there's a rule cool about this
+a value nice it is a value about this nice it's a declaration cool
+if you're here and you're kind of just watching and you have the means to type
+you should be typing these answers out get in here give us give us give us your
+thoughts like the more like when you actually type this out it makes your
+brain activate you got to do a little bit more cognitive effort you gotta you
+got to do something a little bit more and you're going to remember it a little
+
+01:11
+bit easier so don't just zone out and watch get in chat
+i know it's just a wall of them but like you're doing it it's for you not for me
+right it's going to help you remember and retain stuff more
+all right have one more one more about this what's that
+that is a property nice so we got the whole thing being a rule
+rules broken down into selector declaration block declaration blocks
+broken down to declarations and our declarations are broken down into
+properties and values properties and values nice all right now
+there's something interesting about css and the thing that's interesting about
+css is that it is read from top to bottom right and what comes above
+
+01:12
+can be overwritten by what comes below right
+so the the rules that you write above can be overwritten by the rules that
+come below and we call this the cascade what is css what is what does css stand
+for what does css stand for yeah it stands for cascading style
+sheets so this is the cascade excuse me the cascade is this idea
+that what is above can be overwritten by what is below so
+if we look at this all our paragraphs are going to wind up being what color
+chat what color are paragraphs going to wind up being nice
+all right most folks got it all of our paragraphs are going to wind up being
+
+01:13
+blue we got a posture check in here got two of them we got a stretch
+thank you and we gotta hydrate cheers to you it's gonna be blue right paragraphs
+start out red but as we go down the cascade they are blue so what we will
+see rendered in the browser is a blue paragraph now the interesting thing is
+the paragraph will be blue but it will also be bold
+right it'll also be bold because we didn't override any font weight so you
+get both right you get both you get the ability to have something that is bold
+and you have something that is blue because we over it the color in the
+cascade now it's kind of hard to see like why you would need this early on
+but our css is going to get very complex and there are going to be
+
+01:14
+some times where we want certain property value pairs on
+all of our paragraphs and then some of our paragraphs we want to be different
+right now this wouldn't be something that you would really write
+because they both have the same level of specificity so you would kind of just
+put it here but we're going to get the specificity in a second but the idea is
+that we're going to overwrite certain attributes in certain certain times and
+so having that cascade is going to be something that we need cool
+why might we link to a separate css file yep for organization separation of
+concerns exactly exactly for folks that are kind of
+confused on the cascade give me a little bit to get the specificity and then
+
+01:15
+it'll make more sense all right so we want to keep our css in a separate
+file because of separation of concerns that organization and we're going to see
+a little bit more why that's really helpful all right before we start typing out
+some css let's look at some some simple css that we'll use a lot okay
+so the first thing that i think most people start off when they're writing css
+is color so i said would you ever have multiple css files yeah you would
+but for now we're going to probably stick to one yeah all right
+one of the first things you'll probably do when you're trying to style your
+content is use color and there are four main ways four main ways that you can
+use color in css we have words hexadecimal values rgb values and hsla values now
+
+01:16
+a lot of times you will be given a design and if you are working with a good
+designer they're going to give you the colors of everything so the designers i
+work with they give me the colors they give me the fonts and i don't have to do
+any guesswork um but when you're working on your own
+projects you don't have a designer or maybe you are a designer right you're
+going to have to use some colors and so where a lot of people start is they just
+use the color keywords so any kind of color keyword
+you can think of red blue green yellow they all work there are even some more
+fancy ones like dodgers blue royal is blue right they will all work in terms of
+coloring your your content right when you connect your css
+there are also hexadecimal ways of doing it which is kind of like the og way to
+introduce color it's kind of what natively runs in most browsers we also
+have something called rgb which is standing for red green blue
+
+01:17
+and it's just a different way of representing color so here you can see 255 0 0
+that means all of red zero green zero blue and so that that's
+going to give us red right and then we also have this lovely a on
+the end which is our alpha channel and that afford that alpha channel just
+handles transparency like how opaque something is like can it be see-through
+or not and then last is hsla if you're a hipster you're probably using hsla
+it's kind of the new school a lot of designers are folks that come from like
+a print background they'll use hsla right i can't think of color that way huge
+saturation lightness i've tried just doesn't stick in my brain
+i mainly use rgba and i love rgba because i love that alpha channel
+the the stuff i had to do back in the day to get transparent colors it would
+
+01:18
+blow your mind and so for me i i can really think about colors in terms of rgba
+i can sometimes like look at colors and know what the rgba value is going to be
+pretty closely and i love that alpha channel
+now a lot of folks and what i recommend you start with are just the color
+keywords but the color keywords can get you into a trickier situation
+why what tricky situation do you think you might get into if you're just using
+color keywords yeah limited selection so i said racism uh limited
+limited selection right when i say red what kind of red do i mean do i mean like
+like crimson red do i mean like like scarlet red like there's a lot of
+different types of red and so you don't really get that trippy red
+you don't get any kind of customization whatever the browser gives you for that
+
+01:19
+red is the red that you get right so when you're just working on your own
+projects or you're trying to move quickly i use color keywords like if i don't
+care what it's like if i don't care about the end ultimate color if i'm just
+trying to prototype or get done quickly i'll use the color keywords if it's
+something that i'm doing professionally i'll probably use rgba but it's kind of
+up to you in your preference there's really no right or wrong here
+if you're working at amazon and i feel like i have to do all these amazon
+caveats because i have a lot of students that go to work at amazon like i think
+we're nearing like 20 people at amazon now which is pretty wild um they might
+care about what we talked about a little bit earlier they might care about what
+they might care about speed they might care about load speed right
+they want to they want their pages to load as quickly as possible so they can
+make that money and there's actually like an infinitesimally small amount of
+
+01:20
+time that color keywords or non like the non-way
+the browser's using it might have to go to be turned into like a hexadecimal
+value so like if you're an amazon maybe in some weird world you might have a
+conversation where we should use like the browsers like native or like the
+instance that they're going to use so there's no conversion that has to happen
+you will never ever have to worry about that um but if you're if you're shaving
+like micro seconds make or seconds micro seconds that might be something that
+comes up so yeah you can use color keywords you
+can use hexadecimal values you can use rgba or if you're hipster or come from a
+print background you might use hsla another thing they're going to want to
+do often is probably change the fonts that you're using and so fonts are
+actually files like that the browser needs that file to know how to render a
+
+01:21
+font right it doesn't actually know how to do a lot of different fonts there are
+some that are built into the browser that you can use but if you want like a
+fancier font you're going to need to get that file and give it to the browser so
+it knows how to render your text using that font
+i use google fonts for most of my fonts sometimes there are weird ones where i
+download them off some shady websites no that's not true i pay for all my
+fonts pay for your funds i i in another life did not pay for my fonts and i got
+got so i'm gonna say got got got got some nasty letters
+uh so always pay for your fonts but you have to pay for fonts you can just use
+google fonts these days right uh use use google fonts and google fonts
+will give you uh that font file and the really cool thing is they're gonna host
+it on their cdn their content delivery network so it's gonna be really fast to
+load that font file right the browser might already even have it right and a
+
+01:22
+lot of times and um if not it'll work really really fast and so what you can
+see down here is the css for loading the font that we put in
+our head so if you want a font you need to link to it in your head so you need
+to link to the font and then you need to link to your css file and if you don't
+have both you won't be able to actually see that font
+why does the link to the font need to come before the link to our css file
+is a little bit of a cascade that is true yeah it's because if the css needs it
+like if we're going to be using it in the css file well then we need that
+font before we actually use it right if we don't have the font we can't
+use it so if you load your css file first and then the font well guess what
+
+01:23
+that css is not gonna be able to use that font because it won't have it yet
+right now there are some some things we can do
+to like preload and all that stuff but the idea is that we want it to have that
+font before we try and use it and so the funny thing is we see three different
+fonts here why do we have three different fonts listed here
+there are the fallbacks exactly if for some reason
+we're not able to get sour sands pro from google
+well then it's going to try using helvetica
+and if for some reason it doesn't have helvetica then it's just going to use
+whatever default sans-serif font that it has
+and so often when you're writing out your font family like you have your font
+family as the property you're going to put multiple values as fallbacks right
+if source sands pro my favorite font does not work then we'll do helvetica
+and i thought vedica doesn't work then we'll just use the regular old sans-serif
+
+01:24
+right and so that's the idea here is that there are fallbacks in case that font
+doesn't load now it's really easy to get google fonts
+you just go to fonts.google.com and you can find whatever font you like
+i like source dance pro look at it oh it's beautiful this beautiful font
+and the cool thing is you can select the different
+boldnesses or we call them weights excuse me
+you can select the different weights and so uh if i want like a normal bold
+that'll be like the 700 so i'm going to select the bold
+and i want the regular 400 just the regular font boom
+there we go so i have selected the regular 400 and the bold 700 and then it
+literally gives you the link to put in your head so you would just
+copy this link and put it in your head and boom you got the font it's literally
+
+01:25
+like two clicks in a copy and now you have the font you put that in your head
+before your css file and now you have those fonts now what you'll notice
+is i had to select the weights if you do not have the weights like if
+you don't have that particular file you can't make your code a particular weight
+like right now i don't have the 300 like i didn't select the 300 so my browser
+would not have source sans pro at 300 unless it had loaded it from
+somewhere else right it won't have it and so what you got to be careful of is
+that you want to make sure you grab the weights that you're going to use so you
+can see in this link i have the 300 the 400 and 700 so we'd be good but if i
+grab just this link i don't have the 300 just the 700 and the 400
+right and so you want to make sure that you have the weights that you're going
+to use but you don't want to have the weights that you're not going to use why
+
+01:26
+why why won't we just select all the weights why not grab all the weights
+speed too heavy if we grab all the weights that means more files that we
+have to download remember fonts are actually files that the browser needs to
+know how to render the font at those different sizes and different shapes and
+so if you just grabbed all the fonts it might take a little bit longer to load
+now we're talking about shaving micro seconds here but it can all add up and
+so you you just want to grab the weights that you know you're going to use nice
+now a lot of times when you're trying to do something in css
+your best help is the mdn if there's something that you want to do
+and you don't know how to do it you can always just throw it in google
+to get to the mdn so here is a let me google that for
+
+01:27
+you link that will type in the word italicize text css
+mdn so if i wanted to italicize text uh using css
+i know the mdn will show me right and so i can use that google
+to get me to the mdn that'll show me how to exactly italicize text i don't know
+if this link still works let's try it there we go let us do its work
+oh didn't do it oh there we go so if we typed in italicized text
+italicized text css mdn we're going to see this very first thing
+here the very first result from the mdn is this font style so oh
+
+01:28
+if i want to italicize text font style is the what font style is the what
+and i thank you for the hydration here's to you
+exactly font style is the property and what would be the value
+what would be the value we can see it it'd be italic right so right here on
+the mdn this is how i would italicize text font
+size italic so if there's any type of styling you want to do
+and you don't know how to do it all right and you don't know how to do it
+use the mdn well gamer thank you for the gift of some
+minty fresh thank you for hydration cheers to you cool let's keep pushing
+all right i want to code some basic css together
+so in the materials from today class 4 materials if you need the materials on
+discord in the follow along materials there is a zip folder you're going to
+
+01:29
+download that zip and you're going to unzip it
+right so what i need you to do is i need you to have those materials if you need
+those materials go get them but you should have a you should
+you should have a class 4 folder and inside that class 4 folder i have my
+class 4 materials and all i'm going to do is i'm going to
+drag this material folder right i'm going to grab drag this material folder
+to my vs code and it's going to open up the entire folder for me
+and the reason why i like to open up the entire folder is because i love having
+this nice little tree view on the left hand side i know it's really tiny for
+you to see but what that is is it shows that every gifted to nightbot
+thank you for the good stuff um what you're seeing here is that lovely tree view
+
+01:30
+right that lovely tree view and it just makes it easier to see what you're doing
+if you're connecting things right if you have them in the right paths right
+that's uh gritty and fiddly hey i love it thank you for following
+that's a good username the it just enables you to see everything
+right enables you to see everything enables you to know when you create css
+files if you create them in the right spot so all i did was drag that folder
+to my vs code you can also just do folder open or file open the folder and
+you'll get it cool all right so if we look at the html in
+the basic css folder so i had this basic css folder
+i'm going to click at it if it's not working you probably didn't unzip it you
+make sure you gotta unzip it so now i have my entire materials open
+i'm gonna go in this basic css folder and we're gonna see inside the basic css
+
+01:31
+folder we got an html file which is already open here nice and you're going
+to see that this html file links to a style sheet so if we look in this
+css folder we're going to see the style.css that i can open and it's completely
+right it's completely blank right completely blank completely blank
+hold on cc's not on one second make sure that the closed captioning is working
+
+01:32
+one second make sure the extension is working one second folks all right
+cool all right closed captioning should be working i'm sorry that it wasn't
+working i got to add that to my um my free stream ritual
+but uh yeah cc should be working again and
+you can always use google live captions as well so if for some reason uh the cc
+is not working google live captions also work i talked
+about that like class or two ago that cool should the the overlay should be
+working sorry about that cool alrighty let's jump back into it so
+p brady hey thank you for the gift of subs alrighty
+
+01:33
+here we go subs so the idea here is that we have the index.html that is linking
+to our css linking to our css right and so that link
+if we link if we look we go into the css folder there's a style.css and it's
+completely empty this is where we are going to put our styles like our actual
+rules are going to go in here okay if we look at the html there are some
+some there are some things that it's asking us to do if we look it says the h1
+make this text blue underlined and have a gold background so
+we're going to do that we're going to make this text blue
+underlined and have a gold background right
+we're not going to do any of the fancier stuff right now we're just getting used
+to the basics we'll have time to get into reset and we'll have time to get into
+
+01:34
+um all the other fun like ways that we can kind of
+normalize or set our css dab hey thank you for the gift of subs
+hope you're doing well so let's go ahead and start off with
+just this h1 making it blue underlined and a gold background so let's go to our
+style we're going to do h1 our curly braces are going to open and close and
+look what i do every single time i type out my curly braces
+i type them fully out and then i hit enter why do you think i always type out my
+curly braces and then break them why not just like open my curly brace do my
+declarations and then close it exactly to not forget i will forget to
+close my curly braces and if you do not close them the rules that come after it
+just won't work most of the time right and so just so i don't forget i
+
+01:35
+always make sure i open and close before i write any of my declarations
+because it just saves your butt so many times so i highly recommend that you do
+that too all right the first thing it said was to
+make it blue so i'm just going to go ahead and do a color blue
+it said to make it underlined what's the property for underline
+how do i underline something what would the property be
+oh yeah people on top of it text decoration if i didn't know that it was
+text decoration where could i have gone the mdm baby exactly could have went
+to the mdn exactly all right so we're going to text decoration
+and look at it trying to help you here are all the properties right
+here all the properties uh that we could use
+right and so it's it's trying to help us
+
+01:36
+here it's like all right text decoration and then here are all the options for
+text decoration so the cool thing about using vs code is that if you if if the
+file is saved if it is saved as a css file it's really
+going to try and help you right and so i can do text decoration
+underline and be all good and then the last thing the last thing was what did
+it say have a gold background cool let's go ahead and give this a gold
+background i'm going to do background and then i can just do gold
+so with css3 like the third version of css you really don't need the uh the
+hyphenated values anymore like background hyphen color you can get away
+with just background alrighty i saved i don't have that that that
+circle anymore so i know that it's saved if i go back to my html file
+
+01:37
+i can right click open in default browser right so
+i want it to come back and open in chrome so i can just right click on my
+html open in default browser and there we go we can see right we can see that
+my h1 is blue it is underlined and has a lovely gold background so beautiful
+oh look at it first try very myspace somebody said you can use live server
+for auto refreshing no it was at this moment that he knew he [&nbsp;__&nbsp;] up
+don't use live server when you're first starting and here's why
+i have seen individuals go into interviews not be able to use their actual setup
+
+01:38
+and they constantly forget to save if constantly forget to refresh
+they constantly like don't know the very basics of how to like work in a text
+editor and so please just give me just give me like another week
+another week of doing it manually get used to to
+to saving and oh and reopening and and um and
+and and refreshing right like i can't tell you how many times i've seen people
+in interviews i have people like students that have come back and told me leon
+it wasn't working because i forgot to refresh
+like i i was i was working i was saving i forgot to refresh
+right and so my changes like i was sitting there
+all the code is correct i just didn't refresh the freaking page so please
+make sure from the beginning save open refresh stay with me save open refresh
+
+01:39
+save open refresh save open refresh right just get used to it so that
+so that way you don't lose that skill and you don't have that happen to you in
+interviews cool all right so we did the first one together
+we did the first one together but there's one two three more that i that
+you can do here styling an h2 a paragraph and an h3 so what we're gonna do
+bring five minutes up on the board here and you're gonna go ahead and do the
+next three on your own then we're gonna go over them together have at it
+i am going to keep talking but i'm not saying anything important i'm just
+answering folks questions but go ahead take the next five minutes
+and uh see if you can answer the next three on your own
+
+01:40
+get out of here with the duns already can you show your css file yeah of course
+here's what my css file looks like h1 curly braces open and close
+each property is separated from the value with a colon and then notice you
+have a semicolon at each line yeah give it the old 100 devs try
+yeah some people really do like splitting their files i just i just
+don't like the split files i find it faster to like flip through them
+i know it's just a personal preference for me but yeah splitting does help a
+lot of folks early on that some people like to have their html next to their css
+yo so beast i use a extension called open uh open in browser so you can just
+
+01:41
+go if you're using vs code go to the extensions and mines called open in
+browser by tech er and then on the html file you just right
+click open in browser dragon said this is one ugly site yeah i'm not a designer
+how do you change the language to css and vs code just save it as a css file
+my css file is correct but my changes aren't showing uh make sure you saved
+and make sure you refresh your browser how do you fix that i'm not a designer
+front end dev front end devs don't have to design now
+
+01:42
+that's the best running developers i know have never never touched the design
+in their life you take the designs and you build them
+in front end code but sometimes front end developers like to learn a little
+bit of design but definitely a completely different job
+yeah also it's not working make sure your punctuation is there make sure your
+colons are there make sure your semicolons are there make sure your
+curly braces closed mobile help please i'm not sure what that means
+uh cc the zip file is on our discord in the follow along materials channel
+will you do split view while we work on this no i don't like split view
+
+01:43
+i personally like to have like my files just maxed
+yeah we'll uh 21 we'll use more extensions as we get further along in
+the beginning i'd like to use this middle minimum as few as possible
+is it archaic in an interview to use background color it's not archaic it's
+just different a lot of folks kind of move to um
+to not using the hyphens anymore with css3 brad thank you for the stretch
+oh have you heard that geez you did it congrats uh congrats
+how do you run the css again if you just
+open the html file it'll run for you the browser will grab it and do its thing
+oh we'll see a lot of duns coming in chat if you do finish go ahead and throw
+
+01:44
+done in the chat you got about 30 seconds left
+and don't worry if you didn't finish that's okay we're gonna go over it together
+i supposed to get roberto from google fonts exactly
+you're in the wrong file if you're seeing zebra and duck and all that stuff
+we're in the basic css folder indian is really good the best
+love me the mdn i get an mdn tattoo all right folks come on back even if you
+didn't finish that is okay uh we're gonna go ahead and go over it together
+congrats on everyone that finished it finished that's okay we're gonna go
+
+01:45
+over it together all right let's go ahead and take a look at the next one
+my border is thick uh so the next one said make this text purple bold it
+25 pixels and have an orange border all right
+uh so i think that this is too much for me to remember and i don't have to keep
+jumping back and forth and i don't want to do split view because i'm a
+curmudgeon so what i'm going to do is i'm going to come here and i'm going to
+make a comment i'm going to make a comment so i'm going to paste all this
+and i am going to highlight it you can use keyboard shortcuts or your mouse to
+highlight it and then i'm going to do command forward slash commands forward
+slash turns it into a comment uh meaning that
+it won't be read by the browser but myself and other developers can see it
+and what you'll notice is that the comments in css a little bit different
+
+01:46
+than the comments in html in html they use like the carrots and the bangs and
+the hyphens and css is forward slash astric and astric forward slash the end
+and so now i have a nice comment and i don't have to like jump back and forth i
+can just go ahead and start styling my h2 let's do that h2 opens
+my curly braces i type them all out and then i break them get used to that
+pattern of opening and then closing so you don't ever forget them
+all right make this text purple i'm going to go ahead and do color purple
+and then i want to make it bold it we've kind of already seen bold it before
+right so we can go ahead and do font and we know it's weight we just saw that on
+the slides before and i can do bold or you can actually use the number like
+if you had a specific font and you knew that it was a 700 in weight then you
+could use the 700 there i'm just going to go ahead and use bold for now
+
+01:47
+all right cool 25 pixels what is what handles the font sizing like what's
+the property for the size of the font yeah font size
+font size and we're going to set that to 25
+px or pixels right we'll get into other ways of doing measurement we'll we'll
+see rams and m's and all that stuff in the future but now pixels and we want to
+have an orange border so we're going to do border
+and we didn't see how thick it wanted it but we're just gonna do like i don't
+know let's do like let's make it a little bit thicker than normal like not
+like one pixel but five pixels solid orange cool so what this is doing is with
+css3 we got the ability to give borders all on one line
+
+01:48
+before css3 we had to do this as uh three separate property value pairs but
+now we have this lovely shorthand right so before we have to do border size
+border type border color as three different lines but with css3 we can all
+do it on one line so this is border my pixel solid orange
+nice little short hand here cool uh notice that i'm making sure that
+my curly braces open and close i know that there's a colon between each
+of my properties and values i got my semicolons at the end of each line
+a lot of folks are saying leo it didn't work probably why it didn't work is you
+forgot your semicolons you forgot to save and you forgot to
+refresh make sure that all those are in order and it'll probably solve the
+problems that you're having alrighty so folks are saying does order matter
+inside of here inside it really does not matter order some people like to go in
+
+01:49
+alphabetical i think that's kind of a waste of time just whatever you do be
+consistent in it so like you'll notice i'm always going to do my color first
+right that's just something i decided to do so i'm going to stick to it
+it's up to you yeah all right how does a developer know what pixel size to use
+sometimes your designer gives that to you as well
+other otherwise it's up to you to kind of figure it out you kind of play around
+with it [Music] let's go ahead and and save it's not
+safe we can see that circle the top let me go ahead and save
+and i'm going to go back to my browser and i'm going to refresh beautiful
+my text is purple it is 25 pixels it is bolded and it has like this lovely
+
+01:50
+uh border going around it all right let's look at the next one let's make
+another comment make this section a width of 50 a height of 200 pixels
+a background of gray a border of black and a paragraph with the text being white
+all right let's copy this let's go back to our style
+i'm going to go ahead and paste it not fine i'm gonna go ahead and paste it
+and i'm gonna turn this all into a lovely comment alrighty
+the have without an e is really bothering me you got got thank you for
+the engagement thank you i appreciate it if you're watching on youtube go ahead
+and type have gang for me please if it's bothering you
+all righty so we're gonna start with the section section curly braces
+
+01:51
+and we're gonna do a width of 50 so with colon and then our 50 percent beautiful
+semicolon at the end height of 200 pixels height 200 pixels nice
+i'm using tab that's how i'm able to go a little bit faster really
+he literally just said youtuber on twitch that's because we have a lot of
+people thousands of people that watch on youtube uh that can't join us live or
+the ketchup crew maybe shout out youtube what up youtube go
+ahead and like and subscribe and click that notification bell for us oh yeah
+all right background of gray gray beautiful
+and a border of black so let's go into our border
+let's take a little bit let's do like three pixels solid black there we go a
+
+01:52
+nice border nice background and it says the paragraph text white can
+i make the paragraph text white inside of this rule maybe
+maybe it would inherit from this section there is this level of inheritance that
+happens in css where sometimes it can inherit colors from a parent element
+right so we'll see that as we get a little bit further on so there is this
+level of inheritance that sometimes if we put a styling on a containing element
+it might inherit down to the stuff that's inside of it let's not worry
+about that for now let's be more specific here and target that paragraph
+and let's go ahead and give that paragraph a color of white cool now
+if we go ahead and save this and we check
+there are no other paragraphs we want to worry about all of our paragraphs
+
+01:53
+turning white there's only one paragraph so we're in the clear here
+we can figure out how to target this specific paragraph in a few minutes as
+we continue our lecture all right so it looks good we got our
+section all set up we got our paragraph all set up we saved
+let's come back um why am i not seeing my border or my background
+why is this not working what happened aha did not refresh
+there we go i refresh we got that width you can see it's a nice fifty percent
+it's 200 pixels in height uh we got a a background a border and the paragraph
+text is white nice all right one last bit we have here we have
+one more that was on the on the html uh make this footer have a black
+background with a light green border and this text 20 pixels white plus a
+
+01:54
+font family of roboto thank you very much i missed i shouldn't i shouldn't
+sing might get uh i might get um i might get copyrighted
+again my scene is that good let's make a comment
+i'm gonna just highlight it all you can use keyboard commands to highlight it
+quicker there we go you need a comment command forward slash
+control forward slash probably on your your machine if you're not on a mac
+we don't get got we go get all right right so footer curly braces open
+let me bring this up a little bit and we're gonna give it a black
+background so background black beautiful
+we're gonna give it a light green border order uh let's do five five pixels
+
+01:55
+solid and light green what did you use the color it light green
+i see some hexadecimal nobody throughout the rgb value though oh there we go one
+rgb value but all of y'all just want the light green you're likely i ain't here
+to play light green there we go all right uh so that was the footer
+and let's go ahead and let's just go ahead and check make sure that worked
+beautiful uh we can't see that text though that text
+is not working because we need to make it white it's black on black so we can't
+see it so let's go ahead that was inside of an h3 so i can target the h3
+so i can select the h3 here and i can give it a color of white
+
+01:56
+and i can give it a font family of roboto all right i'm going to give it a
+fallback though of sans serif just in case
+all right now do i have this font this font
+at the moment where do i need to check to see if i have this font
+where specifically in the html yeah we gotta go check the head let's go
+check the head all right we go to the head here
+we see the link to the css file but we do not have the link to the font uh so
+let's go to google fonts and get that font and so uh i am going to go ahead and
+make sure i don't have anything from source dance pro i don't want any the
+source stands pro i just want the i just want the normal font so
+
+01:57
+let's go to fonts let's google roboto or search for roboto here we go roboto
+and i just want the regular 400. i didn't need to bold it or anything so
+i'm going to get the 400 and then i'm going to copy the link
+i'm going to take that link and i'm going to put it in the head
+right before my style sheet i like my stuff to be clean so i'm going
+to indent there we go there we go so now i have the link that google gave me
+right i have the link that google gave me and i have the link to my style sheet
+why do we put the font before our style sheet again
+a little bit of the cascade yep exactly so we load the font before we need to
+use it exactly we know that even even in the the links there's a cascade right
+it's going and grabbing the font and then running our css file and so if we
+
+01:58
+want our css file to be able to use it we need that font file beforehand um
+there are a lot of like fancy stuff that
+that google is doing here with like this
+pre-connect and in terms of like how how quickly it's rendering right how fast
+it's it's loading right and so um make sure that you don't have to worry you
+don't go too wide on that just know that it's doing what it needs to do to load
+these fonts for you as quickly as possible
+all right so we got our fonts and then our font family we got to save this html
+file right we got to save the html file and then we can go ahead and
+uh refresh our page there we go and we can tell that this
+font is different than the other fonts on the page right got that nice like
+chunky roboto look and so yeah we got the nice beautiful
+light green uh border the black background the white text and it's using
+
+01:59
+that roboto font ah 20 pixel size let's see
+up text 20 pixels let's go ahead and do that font size 20 pixels
+cool let's save it let's refresh oh second try alrighty take a look at this
+questions while we're here and then we'll take a break
+questions while we're here i'll take a break we used a 20 pixel font size
+single or double quotes does it matter no it does not
+
+02:00
+how do you know to choose five pixels solid because the mdn told me to if you
+go on the mdn it shows you how to use that border and so there are different
+types of borders that you could use solid dotted there's a bunch of them
+dashed i think i have issues with the paragraph that's
+read and underlined that's your text that are trying to tell you there's
+something going on make sure it's saved as an html file
+how do you separate the h3 and the footer well we can start targeting them
+uniquely and we'll do that when we come after the break we'll see how to target
+stuff that's not necessary we don't want to target everything we can target
+specific items we'll see that when we come back from the break
+i lost connection to localhost that means you're using like live server or
+something that that uh right now don't be using that just save and open manually
+
+02:01
+so you want to see the html sure let me show you html
+my html is exactly the same as the one i gave you except i just added the links
+from google that's all uh i didn't use section or footer and i
+got the same results not sure what you mean by that that's having fun
+cool all right folks uh can you can you show how to get the
+google font again sure i think there'll be a last thing and then we'll take our
+break because we're at the top of the hour uh so all i did is i went to google
+fonts so fonts.google i'm just going to clear them so there's
+nothing in our selected uh all you got to do is go to fonts and search whatever
+you want we search for robot though we found robot though and then you got
+to pick what weight you want so i just want it to 400 because i'm not i'm not
+going to bold or anything so i selected that style
+right and when you select the style it adds it to like your little list up here
+sometimes you have to click it sometimes it just opens it for you if you click
+
+02:02
+that little button at the top right boom there are the links that i put inside
+the top of my html is there a reason why you didn't use
+footer h3 because we're not there yet we're going to see that when we come
+back from break is it scary that google knew i wanted
+roboto i think that's the default one that they show that's kind of why i use it
+yeah all right folks uh we are at the top of
+our hour let's go and make sure we stay healthy take our break
+if you are able please get up move around man time is flying we're having
+fun over here uh make sure you get up move around if you're able grab some
+water hydrate kiss some babies play with some dogs
+and we'll be back in five folks we'll be back in five
+
+02:03
+
+02:04
+
+02:06
+a little bit i'll give you what you want bob do
+
+02:07
+space you got a brownie i'm jelly bob is so engaging i'm glad
+i feel like we need i feel like i need three screens yeah i work with three
+normally i'm really just working with two in my laptop
+but when i'm really in the thick of it i got three going
+bob told us your deepest secrets do you watch star trek yeah
+i'm a weirdo though i'm a deep space nine fan it's the best
+next game on the ipad a which screen do you recommend uh i don't
+my setup is way too expensive but i didn't pay for anything in my
+
+02:08
+setup so when you negotiate your jobs or you negotiate like client contracts
+you can negotiate um what is called professional
+development funds and especially right now since everybody's working from home
+it's actually one of the biggest things that you will probably negotiate
+is like professional development funds and so over three years i've spent my
+professional development funds to like build up my setup and so
+i have a 4k 144 hertz monitor i have another 4k monitor i got a 30 90 a
+threadripper cpu like i got a lot of stuff that would just never tell people
+to go out and buy because i never actually bought it i i negotiate my
+client contracts and i negotiate my employment contracts so i can get the
+good stuff you that's something to keep in mind
+uh right now i saw somebody uh double their um literally like this aft like
+
+02:09
+this morning i was helping somebody negotiate an offer and they doubled
+their sign-on bonus they doubled their sign-on bonus and they got pd funds to
+buy like a work from home set up so that's like an extra 15k they got that
+they negotiated for that so something keep in mind
+so yeah my stuff is ridiculous but i didn't pay for it
+my first monitor that i bought no no lie my very first monitor that i bought i
+went to radio shack let the sink in for a second i went to
+radio shack and i asked the guy at radio shack do you have any monitors
+that you haven't been able to sell and they were like yeah actually we got
+a bunch in the back i was like great can you give me a discount on
+on that monitor they're like yeah sure we'll give you like a while that gave me
+like half off and so i got my first monitor
+uh from radio shack for half off because i asked they had any that they couldn't
+
+02:10
+sell so yeah you don't need it was a viewsonic i think yeah you don't need
+fancy gear you don't need any of that crap when you're first starting out
+don't go out and buy a brand new computer because more often than not
+work is going to give you a computer like like a lot of a lot of places just
+give you a new macbook pro so like don't run out and like do a fancy setup you
+just you just don't need it all right folks welcome back welcome back
+let's get into this already more things to get through tonight
+we'll be on our way now a lot of folks might have noticed leon
+how do we target specific elements all right
+shields thank you for stretch how do we how do we target specific elements okay
+
+02:11
+well there are kind of some very key ways to target specific elements uh you can
+use things called classes and ids which we'll get to next next week on tuesday
+we're going to get into we're going to cover them a little we're going to hint
+at them tonight we're not going to really start using them until next week
+so for your your computer right so sorry for your
+computer for your homework and for your lab today i don't want you to use any
+classes or ids so for the homework that you start this week and for the homework
+that you do um over the weekend no classes no ids
+we'll get into the thick of them next week i want you to practice
+using your relationship selectors okay knowing your relationship selectors is
+going to save you a lot of headache down the line so no classes no ids for
+homework this weekend uh just these relationship selectors are about to go
+through so here we can select in our css elements
+
+02:12
+based on the relationship in html so here we have a section
+and inside of that section we have a paragraph
+right we have a section and inside that section is a paragraph
+whenever you have a tag that is inside of another tag
+we call that a relationship and right now this is a parent child relationship
+okay and a parent-child relationship just means that one tag the child
+is inside of another tag the parent now we can target all the paragraphs on
+the page by just selecting a paragraph but what if we just wanted the paragraphs
+
+02:13
+that were inside of a section i gotta check something real quick hold
+on all right cool um i wanted to see if the cc worked when i
+muted my mic cool all right so what we want to do
+is be able to select specific elements right select specific elements based on
+their relationship to other elements and so here we're seeing something very
+clever this is a direct child you can have a space which would
+be a parent-child relationship and then this is a
+direct parent-child relationship so what i am saying here is give me a paragraph
+that is the direct descendant the direct child of a section nothing in between
+nothing else that we're wrapping around give me
+a paragraph that is immediately with inside of a section so that is a direct
+child when you have that right carrot that means direct child and so what
+
+02:14
+would happen is all the paragraphs that are direct children of sections would
+now be read not every paragraph just the paragraphs that were direct
+children of a section okay let's look at something slightly different here
+this paragraph is the direct child of what this paragraph is the direct child of
+what uh that's nasty i like this new t um that paragraph is the direct child of
+the article exactly this paragraph is the direct child of the article
+right this paragraph however is a child of the section it's just not
+a direct child it's kind of like you're like a grandparent right like this
+
+02:15
+section is a grandparent to this paragraph this paragraph is a child of
+the section it's just not a direct child so the paragraph is the direct child of
+its parent which is the article and it's a grandchild to the section
+right so here we have section space p when you have that space
+it does not matter how deep that paragraph is nested it will still work
+if there is somewhere up the chain a section that it is inside of right so here
+this means direct there cannot be any intermediary there could not be anything
+between the paragraph and a section but here we have this article so if i do
+
+02:16
+this if i do that this paragraph would no longer turn red
+because this paragraph is not the direct descendant
+of a section it is the direct descendant right of the article
+can you do relationships with classes too yep you can
+often you're gonna have like it we call it like like an anchor like your id or
+class and then you're gonna have relationship selectors after so that's
+why it's important to know your relationships first cool
+we also have another type of relationship and that's called a sibling so here
+this is a direct sibling you're saying find me the paragraph
+whose immediate sibling was a paragraph if we look this paragraph hello youtube
+
+02:17
+has an immediate sibling that is hello twitch so this would make hello youtube
+red it wouldn't make hello twitch red y why would hello twitch not be red
+it is powerful twitching yeah they hate each other
+because the hello twitch does not have a sibling that's above it it doesn't have
+it's not the direct sibling only this paragraph is the direct sibling because
+only this paragraph follows another paragraph
+right when you have this p plus p it's really targeting the direct sibling
+right so this paragraph is the only paragraph that has a paragraph that
+comes above it all right so we learned about our direct
+child can't be any any gaps we learned about our parent child which
+can be as deep as we want and we learned about our siblings so
+
+02:18
+with that knowledge let's uh let's code some relationships
+let's code some relationships so in our starter code from today that's on
+the follow along materials channel in discord we had a folder called
+relationship css so i'm going to open up that html file
+and i'm going to open up the css file that's in the relationship css folder
+remember you can just drag the whole folder to vs code you can do folder open
+whatever is easiest for you to get that open
+right that's what we're going to do so i have this index.html
+and i have a css file is my html and css file linked
+i don't know i keep drinking it so bad yes it is linked we can see our css file
+linked at the top it is linked correctly so we're all good
+
+02:19
+we can start writing our css all right if i want it to target the
+h1 if i wanted to target the h1 and i wanted to make it purple
+what would my selector be it would just be h1 right we don't worry
+about it it'd just be h1 color purple and we would be good right we
+save it let's just check let's make sure everything's functioning well
+open it in the browser our h1 is purple we make this a little bit bigger
+wonderful our h1 is purple so we know our css is linked it's working we can we
+can jump into this and have some fun all right what if i wanted all of my h2s
+
+02:20
+to be yellow what if i wanted all my h2s to be yellow
+y'all think you're cute y'all y'all think you're cute they keep doing the
+hydrates because i don't like the tea guess what i ain't doing it you wasted
+your channel points you wasted your channel points hey
+tell byron i said what's up i wanted all my h2s to be yellow yes
+pretty simple right we can just do h2 color
+yellow beautiful save it let's go back all my h2s are now yellow right
+oh oh my my h2s are yellow we got world zebra unicorn and duck are all yellow
+all right beautiful now what if i wanted only world and zebra to be yellow
+
+02:21
+but not unicorn or duck what if i only wanted world and zebra
+but not unicorn or duck let's take a look at it all right well world and zebra
+are inside of a section so since world and zebras have a section
+maybe we can target it by just doing section h2 so let's try that first
+let's do section space h2 and let's let's make sure that
+let's make it something a little bit easier in the eye let's make them uh green
+all right or let's not do green sorry if you're color blind for this one folks
+uh let's make um make um blue that could be that much more helpful but
+
+02:22
+there we go big and blue alright let's go ahead and refresh wait a minute
+we had world zebra and unicorn turn blue but i only wanted world and zebra to be
+blue why did unicorn also go blue let's look we said section h2
+why did unicorn also get blue exactly if we look
+what did i just do if we look this h2 right this h2 is inside of a section
+so this unicorn h2 is the child of a section
+it is a child of a section just like these h2s are the child of this section
+this h2 is the child of a section however this h2 is not a what kind of child
+
+02:23
+it's not what kind of child yeah it's not a direct child if we look
+at these two h2s they are both the direct child of the section if we look
+at this h2 we look at this h2 it is the direct child of an article
+so what we can do is we can go over here and we can say section right caret h2
+now we're only going to target the direct children only the h2s that are
+direct children of the sections only these two h2s are direct children of the
+section this one is a grandchild this one not inside of a section let's go ahead
+and save this we should just see world and zebra being blue beautiful
+world and zebra are blue the unicorn is no longer blue all right what if
+
+02:24
+i wanted all of what if i wanted unicorn and duck to both be
+uh why can't i think of like colors what if i wanted unicorn and duck to be red
+what if i wanted unicorn and duck to be red okay let's look at them
+they're both inside of articles right so we can do article h2 and that should
+work let's go and do that article h2 and let's go and do color red beautiful
+and let's go ahead and check it out unicorn and duck are both red beautiful
+unicorn and duck are both red uh i could have done it with the space
+but i could have also done it with the right carrot it doesn't really matter
+
+02:25
+here right they're both direct children so i could do the carrot if i wanted to
+be a little bit more exact or i could have been a little bit more
+flexible without the carrot right up to you
+does space matter not really too much spacing in your
+selector is helpful but like this white space here and here is just preference
+all right so now we got both of them red what if
+i just wanted unicorn to be a different color what if i wanted unicorn to be um
+orange if i wanted unicorn to be orange semicolon and colon are critical they
+are indeed yeah we would have to do we could we
+could we could we can get a little bit more exact here we can say give me the
+
+02:26
+h2 that's inside the article that's inside the section
+if we look at duck it's h2 inside of an article but that article is not inside
+of a section so let's get a little bit more specific here let's go in and say
+section article h2 beautiful let's go ahead and do
+uh orange or sorry orange color orange nice let's save it let's come back
+and let's refresh all right unicorn is orange nice or straight
+right nice orange but something really really cool just happened
+something really cool just happened let's look at this what what did we just use
+
+02:27
+yeah iron got it nice yeah we we used the cascade here because look
+if we get if we get rid of this rule let's comment this rule out right we
+comment it out it's no longer be read by the browser if we comment that out and
+we refresh unicorn goes back to red it goes back to red but if i bring back
+this rule it goes from red to orange you go back and refresh look it's orange
+again so we use that cascade remember the stuff that comes below can override
+the stuff that comes above right the stuff that comes below can override
+stuff that comes above but there's a specific
+right there's a specific thing that happened here that enabled it to
+override in the cascade and it was able to override in the cast speed because it
+was more what yeah it was more specific it had more
+
+02:28
+specificity so we're gonna learn about that now so here we had three points of
+specificity as opposed to two points so since this had three points since it has
+the same or greater weight right has the same or greater weight
+we can override it in the cascade let's talk about that all right
+before we get there though before we can talk more about that
+specificity we got to learn about the other two things they're going to show
+up when we get to specificity this is just for us to hint at ids and classes
+we're going to use them more next week for your homework for the lab today
+please do not use ids or classes i just want to show you them so we can talk
+about them when it comes to specificity so
+ids are a way of uniquely identifying an element so you can style it later on
+
+02:29
+right so here you can see that my i have a regular
+paragraph and then i have a paragraph with the id of zebra right has the id of
+zebra and what i'm able to do is in my html i can target that paragraph right
+that paragraph and only that paragraph oh dab so this is a good yolo opportunity
+yeah how can we do that i guess we can we can we can put in like
+different levels of specificity that'd be fun
+so here i have the zebra right i have targeted just this paragraph and only this
+paragraph by using the id the way you use the id is with the octothorpe this
+pound sign this hashtag right and so the idea is the way i can
+target this id is by using the octathorp
+
+02:30
+zebra whatever the id is called i'm able to use that to target my element
+directly now the interesting thing about ids
+is that each element can only have one id and then that id can never be used
+anywhere else in that html file so ids are unique until we can uniquely
+target one element and only that element right
+slash just think about a posture check right and so you can target that element
+only that element so like on discord you all have a unique name it's like the
+name and the numbers that come after it only you can have that name if i want to
+talk to you directly i will use that name same thing when it comes to html
+and css if i give it an id my css can style that element specifically and only
+that element but a lot of times i want to target multiple elements at
+
+02:31
+the same time but i don't want to have to right i don't want to have to
+constantly be targeting elements i want the cosby writing more style so we have
+something in css called classes classes are ways of targeting multiple elements
+at the same time if we go back to that discord example some of you might have
+the class of hamilton some of you might have the class of mod right and so we
+can target multiple elements at the same time using a class so here you can see
+this paragraph and this paragraph both have the class of bob so i can target
+both those paragraphs at the same time right i can target both of those
+paragraphs at the same time by using a class
+and the way that i can target a class is
+by using the dot and then the class name so ids unique identifiers
+id equals and we target it using the octothorpe and then class you can give a
+class to multiple elements and each element can have multiple classes you
+
+02:32
+can have as pretty much as many classes as you want on an element and then you
+can target them all in your css so id is unique classes target multiple elements
+at the same time don't worry about that too much for now we will learn more
+about ids and classes next week i do not
+want you to use ids and classes for your lab or any of the homework this weekend
+all right does it matter what you choose for the id or class names no
+you can call them whenever you want ideally you want them to like make sense
+and reference the content in some way shape or form but you can call them
+whatever you want how do you keep track of the ids and
+classes that you create uh hopefully you've given them like intelligent names
+that like make sense and then you kind of just go in my opinion like top to
+bottom but some people organize them by like area like header sections like
+they'll group it but we'll get into like css like css
+
+02:33
+best practices and organization later on all right here we go
+when we are trying to determine if an element can override an element
+that came before in the cascade like when we're looking at this
+how did we know that this this rule could override the rule that
+came above it well the reason we were able to know that this rule was able to
+override the rule that came before it is because this rule was more specific it
+had a greater weight it had more points i like to think about the points i know
+some people like to think about it in weight i think about in points to me
+this just had more points right had three points as opposed to two points so
+i was able to override it in the cascade because it had the same or greater it
+has to have the same or greater weight or same or greater number of
+
+02:34
+points and so how many points do you get well you get one point for a tag
+you get 10 points for a class you get 100 points for an id
+and you get a thousand points when you use an inline style bang important
+right or bang important so the idea here is that if you're just using tags
+they're all one point if you're using classes they're all worth 10 points if
+you're using ids they're worth a hundred
+points and if you're using inline styles
+or bang important you're talking about a thousand
+now this is really important to keep in mind because how many classes
+how many classes would your selector need to override an id
+how many classes would your selector need to override an id exactly
+we would need 10 classes to override an id so you got to be careful when you're
+
+02:35
+throwing around these ids it's going to be really hard to override stuff in the
+cascade right it's really hard to override stuff in the cascade if you're
+throwing around ids so some developers don't use ids at all
+they just use classes right that's a decision that you can make
+if we go ahead and look maybe we want all of our h2s to have a
+lot of stuff maybe we want all of our h2s to be red maybe we want them to be
+font weight bold maybe we want them to be 30 pixels
+right maybe we want all of our h2s to be red bold and 30 pixels
+however we want the h2s that are inside of a section to be orange
+we still want them to have the font weight of bold we still want them to
+have the font size of 30 pixels so instead of having to rewrite all of this
+stuff right instead of rewrite all this stuff we take advantage of the cascade
+only the color is overwritten for the h2s that are inside of sections all of
+
+02:36
+our h2s still get that boldness they still get the font size it's just
+the color that we update so the idea here is that this cascade can save us so
+much time because we can target all of them and then if we just want to make a
+simple change when something is in a certain spot or we
+want to target a specific element we can use the cascade to make that specific
+change right exactly we're keeping our code dry
+uh we're not repeating ourself the idea here is that the cascade can be helpful
+right the cascade can help us from having to repeat our code we can keep
+our code dry dry stands for do not repeat yourself so the idea being here
+if i want all my h2s to be red font weight bold and font size 30 pixels i
+can do that but if there's a specific scenario right where i just want this
+one specific sorry this one specific h2 to be something different instead of
+
+02:37
+having to rewrite the entire set of rules i can just make that color change
+so i get all the original stuff but i'm able to just override the color
+cool that's where specificity is going to come into play enable us to target
+specific elements but it's also going to enable us to if we need to
+use the cascade to our benefit to make those changes we want without having to
+rewrite everything over and over again alrighty chat
+how many points of specificity does this selector have
+cookie codes hey thank you for the hydration you know i i don't like this
+tea this tea sucks but since it's you cheers thank you for the hydration
+actually it's not that bad maybe it just needs to steep a little bit longer
+
+02:38
+correct it is two points of specificity if we look we have one tag
+two tags that is two points of specificity this has two points of specificity
+all right how about this rule here we can see that the id the paragraph has
+the id of zebra and we can see that there's an id here
+how many points specificity chat it is a hundred points of specificity
+exactly there are zero tags in that selector
+there are zero classes in that selector and there is one id so that is a hundred
+points of specificity nice chat how many points of specificity does this
+
+02:39
+selector have oh people are getting tripped up here
+see i see a couple different answers floating around all right let's count it
+how many tags do we have well section is a tag we have one tag
+and we have one class we have 11 points a specificity
+10 points for the class of bob one point for the section and we can
+actually see that what that looks like here we have the class of bob
+that is inside of the section so now here's the question
+if we're looking at this code block how many elements just became red no
+there we go if we're looking at this code block how
+
+02:40
+many elements just became red two right this paragraph has the class of bob
+and this paragraph has the class of bob so both hello youtube and hello mixer
+have the classic goodbye mixer had the class of bob and they are both
+inside of the section so since they are both inside the section and they both
+have the class of bob they both become red all right one other thing here
+is i said that we can we can of course have tags for one point
+classes for 10 points ids or a hundred and then we have this other that's a
+thousand points and i said that it's inline style
+
+02:41
+if you were to go into your html file and put some style that becomes a
+thousand points of specificity so why is
+it a really bad idea to use inline style what is what does that make really hard
+to do it's next to impossible to override it's just it's just really hard you
+would just never be able to have enough points of specificity to override the
+inline style so could you see how frustrating that would be could you
+imagine like coming to your css file and no matter how many classes or ids or
+tags that you use your css just doesn't take effect
+right it just it just nothing you do would work and then you you're banging
+your head against the keyboard for a half an hour you're like nothing's
+working i can't i'm saving i'm refreshing it has really lots of points
+
+02:42
+to specificity and then and then you go and you look you look at your html file
+you start breathing heavy you realize that this [&nbsp;__&nbsp;]
+went inside and put in line style and i've been here trying to get my
+specificity right for a half hour you're gonna your
+don't don't do it folks don't do it they're gonna get got they ops they out
+here exactly don't do it you can see how frustrating that could be
+because you think that they're adhering to separation of concerns
+but they went and put inline style it's a thousand points specificity there's
+never going to be a time for you to be able to override it you just won't have
+enough points cool all right next one we have this bang important
+
+02:43
+and this bang important what it does is at the end of your selector
+you can do bang important and what that does is it gives that rule
+let me go smaller here sorry you can do bang important
+you just kind of put it right right before your curly brace right right
+before you curly brace if i was doing it on my actual css here this is what it
+looked like bang important right i had that oh sorry in
+the wrong spot we're doing color red here bang important
+right so i put it on my actual declaration that bang important let's save it
+let's come back let's actually refresh this here what we notice is that unicorn
+
+02:44
+went back to red right right went back to red even though
+even though this had three points of specificity as opposed to the two up
+here unicorn went back to red because that bang important added a thousand
+lines of specificity so this is another thing that we probably
+wouldn't want to do we wouldn't want to add that bang important because
+it will just never you can never override it in the cascade
+so there's only really one time you should ever use bang import you know
+when the only time you should bang important is there's really only one time
+maybe i'll let you take a guess there's only one time that one time is if
+
+02:45
+you have a client project right you have a client project
+that is due in 10 minutes and for whatever reason you can't figure out
+right you can't figure out how to make it work you can't figure out the
+specificity you throw a bang important on that and you get to the you get to
+the you get to the client meeting you show them your wares and then after that
+client meeting you can go let me figure this out that's the only time
+you're allowed to use bang important any other time right any other time no you
+can't use bank important but when you got 10 minutes left and you can't figure
+[&nbsp;__&nbsp;] out you got to go to that client
+meeting throw your bang important you figure that [&nbsp;__&nbsp;] out later
+all right figure that out later and so that's when we're going to use the uh
+the uh the bang import in there cool alrighty we reached the end for tonight
+let me talk a little bit about your homework this this week i remember
+
+02:46
+homework will be due next thursday you got two things for homework uh one is
+the simple site lab and let me show you what that is in the starter materials
+from today there was this simple site lab
+so here's the the picture of the simple site lab and your goal
+is to write the html and css to bring this monstrosity alive
+right i want you to write the html i want you to write the css this will be due
+next thursday okay if you look we got some stuff that
+we already know now people are saying easy in the class and in chat that's
+good uh what would this be what would this be h1 how about this would that be
+
+02:47
+yep nav maybe ul maybe some lis definitely a link you can see that's a link
+about this h2 nice about these paragraphs nice got an image
+maybe another what down here at the bottom another what down at the bottom
+another nav maybe some ui some allies and then we got like some background
+colors we got some borders going on so pretty much all the stuff that we saw
+css wise here um everything on this page you've seen in html you've seen in css
+maybe some little weird things you might have to figure out like how do you get
+the image on one side as opposed to the other you have to figure that out but
+the idea is that you're going to take this lab
+and uh you're going to go ahead and build it
+right in a few minutes early we're going to do our raid of course always to send
+
+02:48
+love and positivity somewhere give them some follows
+but then take a little bit of time tonight maybe to to work through this
+lab it'll be due next thursday and then we have another thing i want to
+add to your homework for next thursday and that's to read the learn layout so i
+know i said it for tuesday but i'm going to give you to thursday to get through
+the learn layout so you're going to finish this this simple lab and then
+you're going to do the learn layout this is dr black
+when i ran this cohort last cohort dr black had passed away she is my
+uh greatest mentor i've ever had the person that taught me
+how to be an educator the person that brought me uh
+kicking and screaming through my chemistry and all my my stem classes at
+yale i would have not made it to where i did in school without her uh and uh
+definitely would not have become the educator that i am without them so uh
+i'm always gonna leave it here whenever i give this lecture dr black will be
+
+02:49
+here and so uh yeah this weekend finished that lab
+finish the learn layout and we are going to end with a
+raid uh so we're gonna go to uh dr mikachu and so remember if you just join the
+raid you don't do anything just gotta stay here uh you get extra channel points
+let's go ahead let's go to their channel let's spread some love and positivity
+give them some follows please they do some game development so setting
+up the raid and i'll see you all over there thank you for a wonderful class
+thank you for uh diving into css with me don't worry you're going to have lots
+more css practice next week we're going even deeper with css it's going to get
+even more review even more repetition good luck this weekend good luck diving
+in deeper with the shahal the learn layout reading we're going to go over it
+
+02:50
+all together next week don't worry and i'll see you all on sunday for office
+hours if you got questions i got answers let's raid

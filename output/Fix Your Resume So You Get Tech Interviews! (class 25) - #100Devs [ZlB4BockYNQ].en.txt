@@ -1,0 +1,1447 @@
+
+00:00
+yo bruh good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well during the best
+week ever indifferent off the jump hey thank you for the 10 gift itself that's
+wild yeah yeah in different ways like let's turn it up let's go
+what's going on everybody happy best week ever uh we're you know what we're
+not slowing down folks we're not so we're gonna we're gonna we're gonna keep
+this best week ever going we knew that today was at least part of the best week
+ever but i got i got some little little surprises in the mix a
+
+00:01
+little a little a little extension shall we say uh so
+thank you all for being here hope you had a really great weekend
+what what a weekend folks what a weekend we had our microsoft sponsored stream
+so many uh good moments during that so many
+raffles so many cool stuff that happened
+gave away a laptop then we came back for our friday with friends and we had nick
+yo shout out nick exclamation point nick in chat
+uh thank you so much for sharing that story and then
+just seeing that kind of inspire so many folks or help folks realize that there
+are so many different ways and paths that move in this journey and it was
+just really cool to hear so if you missed that on friday with friends it's
+it's going to be fridays on discord we had 700 plus people 700 plus people on a
+
+00:02
+friday and the day before the day before we were we're all hanging
+out with hello it's rufio the newest member of the stream team 700 plus
+people were there too this community is hands down
+hands down one of the best communities not only to learn how to code but on the
+internet and we proved it this week 700 plus people
+in a twitch stream just hanging out doing some cold wars
+then we had our microsoft sponsored stream then we had 700 plus people on
+discord to hear nick talk then saturday we held it down
+on our place we're gonna talk about it we held it down sunday we held it down
+monday we were back with rufio number one streamer in the category they
+were number one streamer in the category their past two streams number one
+
+00:03
+streamer in the category let's go w's all around this week and then we got today
+and today's a special class it's a little weird it's a little different
+we're going to get into we're going to talk about it but it's a little
+different of a class tonight we are going to be doing our resume review
+and to do this resume review uh we were supposed to do it on monday but rufio's
+stream was way better idea coming through with the code wars from
+beginning to getting on github that was amazing if you missed it their vod is
+live and what we want to make sure is that i didn't want to do it hey
+bunny what's going on thank you for the raid bringing the crew
+388 folks that's wild yo if you all haven't followed bash
+buddy we've done the raid once if you haven't followed yet make sure you go
+ahead and give them a follow let me see if i can uh throw this shot out here in
+chat you're missing out on some really good
+streams we we just so basically we just learned about the terminal right so we
+
+00:04
+learned about the terminal last class so now we got we got a couple thousand
+folks that need to come by your stream and and learn and learn how to do it
+right we covered the basics now they got to
+come through and do it right so let's go ahead and uh let me let me see we can
+throw this in the chat real quick i'm going to grab this i'm going to copy
+and paste it a few times there we go you haven't given them a follow yet here
+when i'm gonna i'm gonna spam it a little bit here
+make sure you give them a follow now that you know what the heck we're
+doing in the terminal you gotta swing through and watch their streams they're
+they're they're slicing and dicing they're using tools
+we showed that that that that weird thing that happened we wrote our commit
+message the wrong way and we got thrown into that that weird text editor
+they're they're balling at it so go go ball out and watch them when you have
+
+00:05
+the chance thanks for raiding hope i hope your
+stream went well what were you all up to today
+yeah make sure make sure you swing through thank you for the raid
+all right we're doing our resume review resume view is a little bit different
+we're supposed to do it on we're supposed to do it on monday
+but i'm gonna delete this as soon as it's over
+as soon as this as soon as we're done this stream i'm gonna delete it so
+i figured out that if well i figured that we shouldn't do it on monday
+because we don't have everyone but once we're done this tonight as soon
+as it's done gone done so neat it's gone
+uh so the idea here is that we are going to be looking at a good resume example
+that i'm going to ask you all to use a good template and then
+we're going to look through some some folks that signed up to be roasted and uh
+we're gonna go a little we're gonna go a little hard i tried my best to hide
+
+00:06
+their names and stuff but we're gonna go in a little bit and so we don't need
+that staying up there and the other thing is that all right
+we're we're the uh we're the the we're the the victims of our own success
+uh we have a lot of people that are here we have so many new folks that join us
+each stream and those folks might not know the the
+ways of the hundred devs right they might see a a a uh a lovely form on
+somebody's portfolio site and try to fill it out a hundred times just to see
+if it works they they they they don't they don't
+they're not the they're you know they're not part of the the cool kids you know
+they they they they're not kind and so we don't want to leave up uh the video
+or the uh means for these folks to be found elsewhere on the internet
+so i didn't tweet today and as soon as we're done we're going to
+delete the vod and we hope that that will simmer some of the folks
+
+00:07
+uh from finding us that aren't part of our community so everyone that's here
+everyone that came over from bash money stream like we're we're cool
+but there's some riffraff that get mixed into it and we don't want that to to be
+lingering so we're gonna do it and we're gonna delete it
+melody dev hey thank you for the gift it
+subs how are your streams been i've been seeing you i've been seeing you hope
+they were doing well going well thank you for the gift of subs all right so
+the riff raff yeah exactly bash all right so
+now we're now we got that out the way let's jump into it uh we got some things
+to do some things to talk about before we get to our lovely lovely resumes
+all right we're going to talk through some stuff about 100 devs we're going to
+review some resumes and then your homework guess what is to do your resume
+now we will have a full class on how to get ready for the hunt the
+
+00:08
+hunt is what we call our getting the job process
+and so there's so much stuff that goes into hunt that's not just a resume
+but the cool thing about starting with your resume it's a lot of these really
+important concepts a lot of these little like these very
+important concepts we can start to simmer on we can let those uh
+i thought you were telling me to do something else
+i was like leon you're a little off today you need to go to
+i just got it thank you uh we're going to we're going to see a lot of this stuff
+in our hunt classes but the resume brings up some really important topics
+some things about crafting your story thinking about your past experiences
+thinking through the things that you want to highlight as you go into the
+hunt so i want to do a very kind of intro to resume and looking
+
+00:09
+at some resumes and then i need you to do it and i need you to start thinking
+through some of these really kind of meaty topics and we're going to see that
+in a second but that's the reason why we're doing a separate class on just the
+resume we got 10 resumes we're going to go through we'll do a laptop raffle and
+we'll call it and you're going to use that extra time tonight that we end
+early with to actually do your resume cool that'll carry us into the next
+couple weeks where we're gonna be looking at object-oriented programming
+uh going deep into that and then once we're done object-oriented programming
+before we shift gears to going into the back end
+we will have a class or two on starting the hunt the job search process getting
+all the things we need to start getting together so that we can be effective
+when it comes time to get a job cool yeah no check-in tonight because i don't
+want the as we said the riff-raff coming
+in from twitter we want it just to be us we want to make sure that we're we're
+
+00:10
+being kind to the folks that have volunteered themselves as tribute and so
+yeah no check-in and we'll keep it we'll keep it in the
+family no new friends exactly except for bash bunny and the crew they're cool
+though we've been there we're friends already cool
+alrighty i would like to start off with some questions i think we got through
+some some big ones already so we'll do like one one more question
+and then we'll get into no apis no we our our api class will be on thursday
+uh because we were supposed to do this on monday but we switched it up so more
+people could see it question of the day was were you able to
+participate in our place of course airrosti of course whoa
+look at these folks that were able to participate that's wild
+
+00:11
+i had no idea with so many but all right that's cool i i have some
+screenshots for those that weren't able to join us i got some screenshots for
+you we'll get to it alrighty no check-in we don't want the riff-raff
+coming through twitter so no check-in but if you haven't already
+go ahead and show some love on that microsoft tweet if you haven't checked
+in from our last class they came through
+they splashed out so please make sure if you haven't already like and retweet
+that tweet just because they showed out for our community so let's uh let's show
+them some love uh for folks that won some stuff we've been giving out stuff
+all weekend uh you'll start hearing back from me uh like today and tomorrow
+there's just a lot of like little kind of administrative stuff we gotta do so
+if you didn't hear from me this weekend that's okay you're gonna hear mainly
+from me probably tomorrow is when i'll get through the bulk of stuff i got to
+get your addresses and all that fun stuff so we're still kind of we got a
+
+00:12
+lot to get through i'll get to you and uh don't don't panic if you didn't get
+something specifically this weekend you'll get it by end of the day tomorrow
+cool this is the link you can also do check in if you missed the microsoft link
+cool remember folks health first we we decided to
+go ahead and extend some deadlines so that we could focus in on some of the
+meteor topics that we have coming up we have apis that we're getting deeper into
+on thursday then we have object oriented program that we're getting into deeper
+and so remember health first we're expecting some deadlines to give
+ourselves some breathing room but please this is the point in program where you
+have to be taking care of yourself doing your stretches right making sure that
+you are doing some sort of pomodoro where you're not just roasting your
+eyeballs on the screen for 10 hours a day right make sure you're taking those
+breaks make sure you're letting your eyes relax make sure you're letting your
+hands relax make sure you're doing all the things so you can go the marathon
+
+00:13
+not just the sprint cool remember no networking until may so all
+of april i'm not expecting you to network
+uh so so you don't you don't have to you don't have to hustle the networking
+right now uh save your brain a little bit use that energy to go into the
+materials also don't hound streamers for for coffee chats please
+it's really weird when we go to a raid and there's like a bazillion people
+asking for coffee chats they don't want to have coffee chats with you some of
+them have been amazingly nice and have opened up coffee chats but don't keep
+hounding them in their in their chat asking for coffee chats it's it's it's
+not a good look at all so please you don't have to network this week so
+you don't have to do it uh so no networking until may um
+also shout out to a lot of the folks in the twitch community that have done
+
+00:14
+coffee chats i'm thinking of mel true so many folks have opened up their like
+lives to help us and so be cool all right be cool
+also show up for your coffee chats if you can't make a coffee chat just let
+them know that you can't make it don't ghost people
+i'm really convinced and the reason the reason why
+uh the reason why i didn't tweet tonight
+and the reason why i'm gonna delete this spot after is there a lot of folks that
+aren't part of a hundred devs that are now aware of a hundred devs right so
+there are folks that use and see the hashtag on twitter that see us at the
+top of the category on twitch and so they might not have been here for the
+full ride and might not know the the norms right and so
+yeah some folks are ghosting i have a really strong suspicion that they're not
+really 100 devs they're just people seeing that hashtag on twitter and then
+using it so don't be that if you are part of behind your devs
+
+00:15
+right if you if you are part of 100 devs hold yourself to that that good old 100
+devs caliber make sure you're showing up for coffee chats make sure you're
+presenting yourself well so other folks want to help and support this community
+so many folks have seen how wonderful and amazing this community is and want
+to help and support you all so live up to that so many folks opening up their
+calendars giving us their time like be respectful of that just so that more
+folks do it right cool especially after we questioned in our place exactly we we
+in difference that we were mentioned in three different 20k plus streams exactly
+so you don't want us to use 100 devs no that's not what i'm saying at all what
+i'm saying is that live up to that to that moniker live up
+to being a good contributor to 100 devs if you set if you set a coffee chat with
+
+00:16
+someone actually show up to that coffee chat
+when we raid folks be kind be respectful
+show love right that's what we do around
+here and if we got to we're happy to get
+you out because we don't need folks that can't be kind that can't be respectful
+so please set up a coffee chat do the [&nbsp;__&nbsp;] coffee chat or at least
+let them know that you can't make it and when we read be kind right don't ham
+people for things like that's that's kind of weird cool all right
+now this is this is like one or two people out of the thousands that are
+here but it has to be said and if you can't do that you can't be
+kind you can't be respectful you can't be somebody that doesn't hound then get
+the [&nbsp;__&nbsp;] out we don't need you here our client deadline [Laughter]
+our client deadline was moved to may 3rd so you have all of april to get extra
+work done to get that client to do all the things that we covered in
+
+00:17
+our getting a client class so know that you have until may 3rd to sign on the
+dotted line you don't have to be finished on that work you just need that
+signed contract of 200 or more cool we also talked about for a lot of
+folks in our community getting a paid client might not be something they can
+do due to visa issues or whatever it may be so we mentioned two other
+alternatives you can volunteer for a grassroots org but you still do the same
+process still a proposal still a contract still getting payment which is
+in the form of them being the best reference you have ever had in your
+entire life you could also contribute to free software
+we posted this first timers only where you can find
+good helpful communities that want early career engineers to help and support
+their project that would also count for your getting of the client and we're
+gonna see today why getting one of these three is so important
+all right we're gonna see why getting one of these three is so important today
+it's gonna be a big portion of our resume it's gonna be a big thing that
+
+00:18
+helps you get past that [Music] sniff test okay
+uh we had a newsletter raffle today we had a newsletter raffle today so i've
+already grabbed the folks that filled out the newsletter uh raffle
+remember it pays to open the newsletter folks today there was a raffle in the
+newsletter i already grabbed all the folks that submitted it before i pressed
+go live i clicked plus go live i grabbed the names and i put it so we had 1200
+people that filled it out before we went live on stream i forget every time
+no worries but i already threw them into a random name picker we're gonna go
+ahead and do that 1200 people filled it out before i even went live today which
+is wild i see y'all let's go and pick it three two one all right maze skip maze
+
+00:19
+congratulations uh i will send you a whisper uh because
+you are receiving a lovely 100 devs t-shirt
+so you have a lovely wonder dev t-shirt coming your way i will go ahead and send
+you a whisper like i said i'm going to try and get the bulk of all those
+whispers tomorrow so coming your way is a lovely lovely t-shirt we're gonna
+have a few more raffles later today folks we have a few more raffles we're
+gonna have a a lovely laptop raffle before we do our raid at the end of the
+day so lots of fun that we had still the best week ever all right
+let's talk about our place for a second i asked you all came it was a glorious
+glorious day a glorious glorious weekend uh i had so much fun hanging out with
+
+00:20
+all of y'all over the weekend uh it was it was such a roller coaster of emotions
+from brokering deals with our germans to the to the to the west
+to uh holding off mexico from the north to uh brokering
+peace deals with poland and uh so many other wonderful communities
+rome uh who else do we we broke good deals with just so many wonderful
+communities that came together uh to to build out some really beautiful stuff we
+made a lot of friends a lot of folks that were not part of our community that
+were in our discord to like help coordinate chibi girl exactly 100 geck
+exactly so trolls gigi troll exactly so many folks that um
+we got to meet and hang out with over the weekend
+so many so many factorio exactly so many
+folks that that heeded the call when the streamers were
+
+00:21
+riding rampant and we were able to build some really cool stuff and it was just
+really fun to see the community to come together to place pixels [Laughter]
+can we place that we've broken international treaties on our resume
+hell yeah you can oh yeah we've got our good homies the detroit lions before
+they got taken over by h3 and then by dream like oh what what a weekend you
+had to be there uh it's one of those kind of internet
+experiences that doesn't come around that often and so it was super fun
+hanging out with you all being in the voice channels
+glad so many folks were able to participate and we built some really
+cool stuff so the original og little leon uh that we had to broker uh with a the
+technical school from from germany we've rebuilt and had our lovely little mini
+leon uh we had the goomba uh that blah requested we had this
+lovely goomba that got put on our place if you don't know what our place was
+uh it was a it's a it's a it's an april fool's thing
+
+00:22
+that reddit did in 2017 they brought back this year basically anyone with a
+reddit account can place a tile a one color pixel every five minutes and so
+you have all these communities that come together to place pixels in five minute
+intervals and so we're able to build this first little leon then we're able
+to build the goomba we had a bob at one point and uh we had the bigger uh the
+bigger leon that got built until poland wiped out the wego get which was which
+was a lot of fun so three bobs exactly we had so many
+other little things that popped up too but these are some of the bigger ones
+that i was able to grab throughout the weekend and so it was just a lot of fun
+to see all y'all organize and build some some some really cool stuff
+yeah it's it's a it's an experience i'll remember for a while
+yeah poland came in and wiped out the we
+go get they were nice though they didn't go any further they could have with
+their numbers taking the whole thing over yeah and at one point one of the
+
+00:23
+streamers i'm gonna mention their name i've never been so heated over pixels in
+my life i was i was i was feeling some type of way
+i was like i should be having fun this shouldn't be bothering me but when
+you're somewhere just like trashing the art of like small communities i was like
+died this is i was about to do some stuff that i shouldn't be doing so
+i i took some moments to chill i was able to relax a little bit [Laughter]
+but at the end we had some really cool stuff and it was a really fun time so
+thank you everybody that was able to stop by i think it was able to
+contribute uh it was perfect timing for the best week ever it was really a cool
+collaboration that we could do i really want to figure out other fun stuff for
+us to do as a community now that i can see so many of you all want to show out
+we got to figure out to do some fun stuff maybe some hackathons or cool
+things coming up soon all right next big thing to announce
+
+00:24
+mayan wolf is officially joining the stream team we have another
+wonderful stream team member i know a lot of you have seen mine wolf streams
+already from discord uh we rated them after hellos rufio's stream it's
+official folks minewolf is joining the stream team and tomorrow will be their
+first official stream a part of the 100th dev street team this person
+shows out so much for our community that it's an absolute privilege to have
+them on the stream team this person is already a sql developer
+in their day-to-day life and they're with us to pick up some
+javascript skills but they're already a developer in their own right so i love
+that they can bring some experience to the table they're an expert at kind of
+just breaking down some more difficult problems and the things that other folks
+understand they've built some really rad projects on stream and so their first
+stream as part of the 100 dev stream team will be tomorrow and please
+
+00:25
+please show out show out show up i guarantee you're going to get something
+out of this stream and i love having so many varied folks on the stream team
+because i thought you'd do it tomahawk tomahawk just said coffee chat jkjk uh so
+tomorrow 6 30 p.m be there it's gonna be a good time we're gonna have some
+raffles during that stream as well it's gonna be a good time and um
+once again like it's cool check out these members of the stream team hello
+rufio was great because uh you get to see their process through a code war you
+got to get some space repetition in when
+they got stuck you could help answer how they got stuck like it's just like a
+really cool way to continue your learning and then mine wolf is really
+good at taking the stuff that we're already learning in class and making it
+practical like using it to build stuff and so definitely stop by
+as they build a lovely project tomorrow alrighty that's super exciting that's
+
+00:26
+the best news tonight uh my wealth is joining the stream team uh you'll see
+them being able to post on the stream team channel
+and we'll be all hanging out there tomorrow
+so you're like leon well when i thought today was the last day
+of the best week ever well it's not thursday will be the last day of the
+best week ever today we're going to do our resume
+review we're gonna have some fun doing that we got some more raffles we got a
+laptop giveaway tomorrow is mine will stream so that has to be part of the
+best week ever and so we're gonna end on thursday we're gonna come back
+we're gonna do our apis we have a lot of
+other raffles to get through during that that class on apis
+we have some of the bigger things we still have to give away like best project
+some of the bigger awards that i got some some good surprises for and then we
+also have our next merch drop some folks
+that they wanted like a day or two heads
+
+00:27
+up that we were going to do a merch drop merch is not live today
+which is not live today merch will be live during thursday's stream so a lot
+of folks said hey leon i love the idea of birch i want me some merch but i need
+one or two days to get ready um i need to set up my paypal or whatever it may
+be so merch is not today it'll be on thursday which will be the end of the
+best week ever but just because the best week ever ends and we're done uh with
+what was a monumental week doesn't mean the fun stops we're gonna have more
+friday with friends we're gonna have more office hours we're gonna be having
+mentor monday soon where we're going to help folks that want to help others
+come together so there's lots of other goodies they're going to keep coming
+as we wrap up the best week ever and so thank you everyone so far for an amazing
+best week ever like i said on the last day of best weekend i do a lot of thank
+yous there's so many people that make this community what it is so that'll be
+thursday we'll have tons of raffles and be a lot of fun big deal merch all the
+
+00:28
+good stuff thursday as we wrap up the best week ever but until then
+let's talk about some resumes so tonight we are going to review some resumes
+we're going to start off with looking at a template that that you can all use
+and a lot of folks will try and do other stuff they won't use the template just
+use the template at least for your first
+pass so we'll look at a template then we are going to look um
+we're going to look at 10 different resumes we'll do the laptop raffle we'll
+do a raid and then we'll end because i want you to work on your resume tonight
+i want you to take all the things that we learned this evening together
+and use some of that energy some of this time to put it into your resume you are
+all doing your networking you're all getting to the point where you're
+starting to have a little bit more of a web presence you're gonna start pushing
+things to get in github you're gonna be in a situation where folks are going to
+
+00:29
+want to start asking about your professional experience they're going to
+start asking about if you have a resume if they can pass it
+along to someone else so it's important to um to figure all that stuff out this
+evening cool so here is the template uh for the resume it is in the slides
+and uh i can also put the link directly in chat um
+here is the link i think we actually have exclamation point resume
+that works let me see i think we actually have a chat command for it
+if not i'll create one right now all right hold on let's copy link address
+
+00:30
+and i'm going to add a command one second boom
+oh there already exists the command resume let's see
+yeah it's already there so excretion point resume is the link for the resume
+and uh it should go ahead and get that your way
+let me go ahead and spam it in chat a little bit so folks can get it
+boom there we go in case you need the link you can always look at the slides too
+and grab it from the slides but that's the link it's that bitly link there
+that'll take you to the resume cool uh it might go down
+google doesn't like it when we send too many people to it um and so
+
+00:31
+it might it might it might not load so don't worry about it right now let it
+chill when we get our first break um it'll it'll load i've seen some
+people saying woo i got my coffee yeah whatever reason when we send so many
+people to it it doesn't like it so just chill for now uh we'll we'll look at it
+together here live and then uh you can take your time during the break to grab
+it cool limited edition resume template exactly so so many folks say hey leon
+do i need to buy a resume builder do i need to buy a resume template no
+use this one myself and we'll eventually kind of hear from this
+person a bit more when we get to our hunt
+we have someone at resilient coders that
+i i can only describe as a beast and her name is stephanie and stephanie is the
+one that helps all of our alumni like lock down their jobs and so this kind of
+template is something that i have learned a lot of this resume
+
+00:32
+stuff i've learned from uh working with this beast of a person that just really
+helps all of our students to get jobs and so yeah we call stephanie the fairy
+job mother at rc and so a lot of what i have learned has come from them and then
+seeing hundreds of students hundreds of students get jobs right and
+so a lot of this stuff is not like hey i think this might be cool or like hey
+this stuff is like i think this is what your resume no
+this is what i've seen helped hundreds of people actually lock down a job
+across all different types of interviews all types of ranges so um this is
+something that i've put some work into but the fairy job mother has done the
+heavy lifting and um i'll share their i'll share their stuff maybe after clash
+just so you can give them like a follow on twitter definitely somebody you want
+to follow because they have some serious skills when it
+comes to helping folks get jobs and i'm going to hype them more as we get into
+our actual class on how to get a job but i just want to throw that out here so
+you don't think it's just all me this is a lot of hard work from some
+
+00:33
+other folks but the important thing here is this has worked for a lot of people
+and so when it comes time to getting this job stuff
+it's not stuff i'm making up it's not stuff that i'm guessing about it's
+literally something i've seen across a thousand plus interviews across hundreds
+of students that has been distilled into
+this template so could you use something else
+yes feel free to i don't really care at the end of the day this is what i know
+works so this is what i'm going to show you
+and it's up to you if you're going to give me that trust to try using it right
+so that that's up to you um don't ever let me get in your way of doing the
+thing you want to do but this is what i've seen work time and time and time
+again and so that's why i'm showing it to you that's why i want you to use it so
+when you you come to me and in a couple months you're like leon
+i'm not getting past that first stage of interviews and i asked to see your
+resume and it's not using my template i'm gonna be like well maybe there's
+something wrong with your resume right so what we're gonna do
+
+00:34
+is we're gonna walk through why i think this template is good
+and then we are going to look at 10 other resumes and point out things where
+i think they can improve and things where i think that they are doing really
+really good on so that's what we'll do alrighty here is our lovely resume
+template first thing name at the top we have our our title of software engineer
+don't shoot yourself in the foot by doing your first version of the resume
+with anything other than software engineer eventually
+you are going to tailor this resume to every single job that you apply to
+because remember we don't just click apply we network our way into
+opportunities and so while we're networking our way into opportunities
+
+00:35
+we're going to wind up changing our resume so if you are not in a location
+where the word software engineer is restricted then you should just put
+software engineer on your resume if you're in canada or some place where it
+is restricted put the closest equivalent uh to it cool alrighty
+notice that there is no photo please don't put a photo on your resume
+uh this is like one of the things that a lot of a lot of recruiters i've talked
+to recently they literally can't even look at resumes that have photos on them
+like they're not allowed to because they're afraid economists ugly no
+they're afraid that they might get a lawsuit for discrimination and so if
+there is a photo they will literally they literally are
+like told that they can't they can't accept resumes that have folded photos
+on them so get rid of your photo off of your resume um just because it will
+cause you trouble with certain recruiters yeah yeah
+
+00:36
+and remember this is a very u.s centric resume class
+there might be certain things that are that are standard in your country or
+location that are not here so the bulk of our a bulk of our folks going through
+100 devs are in the u.s uh and so that's
+why there'll be some things that this is this this is just very u.s centric if
+you're in in an area where they you have to have photos then ignore that advice
+yeah cool summary room the summary is is quick
+short and to the point but is often one of the very few things that will be
+actually uh read remember does anyone know how long a recruiter
+typically spends on a resume how long do you think a recruiter spends
+
+00:37
+on your resume i'm seeing 40 seconds 30 seconds six seconds six seconds six
+six seconds so you gotta get all the stuff out of their view
+that is going to in those six seconds not enable you to pass the
+sniff test and so you want bangers only and you want to make sure that it's
+clear concise and not something's going to take up their time
+i see a lot of folks that will put a lot in their summary
+don't very quick to the point here's a summary in ours creative
+detail-oriented software engineer with a deep interest in ai
+proven track record of creating implementing successful front and back
+end web applications looking to bring skill my skills to a tech company with
+
+00:38
+global reach so let's break down why this is like a thing
+i'm saying with a deep interest in ai do am i claiming that i am a machine
+learning expert or an artificial intelligence expert no
+but i'm hitting those keywords though that's for sure i'm hitting those
+keywords right now ai's hot it's a good keyword it makes me sound smart
+i don't know i have to know to do machine learning or ai makes me sound
+like i know what the [&nbsp;__&nbsp;] i'm talking about
+right if i if i'm interested in ai maybe i can handle your web app right
+and so for somebody saying resume seo yeah it's a thing
+all of your resumes are going to be passed through a a computer right
+it's going to be uh it's going to be passed through a computer we have this
+lovely cv compiler where you can try it i highly recommend once you've done your
+
+00:39
+first pass on your resume that you pass it through the cv compiler see what
+recruiters see when it's passed through a machine
+and so there are there is a thing as right
+there there really is a a machine that is reading some of your resumes and you
+want to have some some things on there they're going to help
+boost it in that in that that metric and so ai is one of those
+things and so i like throwing that on here deep interest in ai because when
+people think about this right so there's two things that could be happening here
+one you could be going through a machine at which point you just got points or
+more risk realistically a recruiter is looking at this
+right a recruiter is looking at this and going oh this is somebody that's like
+into computer science this is somebody that is probably a good engineer right
+if they're dabbling with ai they're probably a good engineer
+and so the idea here is that you're you're doing two things you're
+
+00:40
+trying to trick a robot and you're trying to trick a recruiter
+you're trying to get them got in the six seconds that they're going to spend on
+your resume right and so a recruiter sees that and
+immediately they're thinking all right better better person better candidate
+then you say that you built successful front end back in web applications that
+probably is the jobs that you're going to be applying for right
+probably the jobs you're gonna be applying for so you check that box and
+then looking to bring my skills to a company with global reach and so this is
+kind of generic some folks might tweak global reach but the idea is that you're
+just trying to like you like the reason why you're applying the reason why
+you're showing up is because you want to work at a bigger company
+that's it that's all you're doing here you're saying hey i wanna i wanna
+i wanna show up i wanna work at a slightly bigger company because that's
+going to be part of your story when you talk to recruiters when you talk to the
+
+00:41
+kind of the front line of joining these companies
+so much so about you getting the actual interview is about the story as to why
+you have shown up today the story as to why you have
+decided to apply to this job and one of the common things people are
+going to say ask you is why you left your previous opportunity and your
+response is going to be well i want to focus on a product organization or i
+want to work at a slightly larger company right that's one of the very
+clear outs a lot of you are going to have simply freelancing on your
+on your resume and so if you just have freelancing on your resume one of the
+stories is hey i'm tired of this freelancing grind
+getting clients making clients happy i want to join a product that people
+around the world use i'm sick and tired of freelancing of doing that freelancing
+grind i want to join a company that supports a product that folks around the
+
+00:42
+world use right and so this idea of the summary is the very first part
+of crafting your story and you really need to think through
+right you really need to think through what is a plausible story
+you shouldn't be throwing things out there like i'm unemployed
+you should be throwing things out there like i'm unhappy at my current job you
+shouldn't be throwing out things that are negative in any way shape or for
+shape or form you need to have a logical reason why you're showing up today that
+makes the person want to hire you right that makes i need more money no
+that's not a good reason right you need to give them a reason why you're showing
+up i want to join i'm tired of the freelancing grind i want to join a
+company that has an actual product that i can grow in i can go deep on i don't
+want to have to get a new client every three months like i'm ready to join a
+product team that that has great customers and and treats them very well
+
+00:43
+right like there are so many things you have to do to think through so one of
+the very first things you need to think through as you're thinking through your
+resume is also thinking through like your story and how does that story fit
+into the summary so that people know why you're showing up why you're interested
+and always always always always when you're working
+on a resume or you're working on any of this professional stuff always think
+about it from the person across the table from you a lot of folks snitch on
+themselves a lot of folks talk about themselves and not the best light this
+is the one time in your life where you're allowed to ball out don't be
+humble talk your talk show the walk that you've walked so do it take that
+opportunity right no room for for humble pie no room for
+not showing the highlight reel you gotta
+show out nothing negative no junior crap no anything
+
+00:44
+you gotta you gotta you gotta make sure that the person across the table that's
+reading the resume in those six seconds go oh this person's probably an engineer
+has no highlight reel nonsense if you're doing 100 devs you have an amazing
+highlight reel already and that highlight reel is going to continue to
+grow as you go through the program get that
+i hate that that's like one of the like i hate very things very few things in
+life and the thing i hate most get spicy real quickly
+is people say i'm a horrible like like not me personally but they talk about
+themselves and they say i don't have a highlight reel
+and then they say i'm a terrible liar because when you say that you're a
+terrible liar what you are saying is that there's nothing good about yourself
+that you can put on a resume [&nbsp;__&nbsp;] that
+if you've gone through this program so far
+you have amazing stuff that you can put on your resume you have a highlights
+reel and that highlight reel is only going to grow so get that talk out of
+
+00:45
+your head get those words out of your mouth they have no place going forward
+if you're going through this program you will have a phenomenal highlights reel
+that'll enable you to stand out against candidates like a hundred plus other
+folks have done right and so none of this i none of this i don't know
+what to put on here no we're going to get there we're going to get there
+together but get that self doubt that self loathing out your mouth
+that has no place no place today or for the rest of your
+life because if you're still here you've done something that
+thousands probably millions of other people have not done
+i was looking at so i think i mentioned this during stream once before but i was
+looking at um cs50 cs50 is is hands-down the one of the best it is the best
+
+00:46
+computer science course on the internet and they actually published their
+numbers like the folks that have gone through the program right and made it to
+the end and so cs50 started with a hundred and fifty thousand
+a hundred and fifty thousand sign ups over a hundred thousand people engaged
+meaning like they came to like the first class or so
+out of those hundred thousand one percent completed the course
+to me what is hands down one of the best courses ever made on the internet
+i actually think it was like slightly less than one percent
+less than one percent completed the course
+so if you are still [&nbsp;__&nbsp;] showing up all 3 000 of us
+you're doing something that thousands hundreds of thousands of people have not
+been able to do so we got to get this talk out of our
+brains i don't know how to i don't know how to pump you up but
+
+00:47
+over the next few weeks you got to get that out of your brain you have amazing
+stuff that you've already built you have amazing things you've already learned
+and you can craft a resume that highlights those things and as we
+continue the program you're gonna have stuff that nobody else in the game has
+that are coming out of other boot camps that are coming out of four-year degree
+programs you're gonna you're gonna dance circles around them you're going to to
+to to to to just absolutely obliterate them and so
+we need to end this like now so that's all i said my piece
+you're probably gonna hear me do it again when we get to our like our our um
+our actual hunt class but when we're doing this resume you all will have
+stuff you can put on here no more of that jason derulo
+thank you so much for the five gifts that subs hope you're doing well jason
+gorilla do you want to come on on our friday with friends i think people
+
+00:48
+really need to hear your story hit me up all right let's keep going
+anyone here could say something along this line creative you are you've all
+built stuff detailed aren't it you managed to keep showing up that's true
+software engineer you write code that's true with a deep interest in ai switch
+it out to whatever you have an interest in if you don't like ai say vr you don't
+like vr say something something else right but the idea here is that we're
+doing the things that help us stand out proven track record and creating and
+implementing successful front end and backend web applications hell yeah
+you've built front end applications already you'll get to the back end very soon
+uh if you've used an api then you've also built back-end applications cool
+looking to bring my skills to a tech company with global reach you can
+absolutely say that beautiful so we have our summary that will help pass the
+sniff test and then you're going to notice we have
+some other stuff over here we have our contact
+we have our email our portfolio our github our linkedin and our twitter if
+
+00:49
+you're not willing i think everybody here has a professional twitter or you
+should at least have one um and it's up to you if you want to put
+that on your resume or not but it's on there
+notice very distinctly i've not put a location
+um notice i did not put a location and that's that's that's on purpose
+um some companies dismiss your application based solely on the location
+that you put uh and if they if they need to know
+where you are they'll ask but you don't need to snitch on yourself before you
+even get in the door so i didn't um put anything yeah you won't see a location
+on a good resume cool work experience you're gonna notice the
+very first thing about work experience is you're engineering work at 100
+devs so you were a software engineer at 100 devs that is true you were all at
+100 devs you were all software engineers 100 devs by the time you're in the hunt
+
+00:50
+we will kind of slowly start we'll slowly stop talking about 100 devs as a
+boot camp and we will shift gears talking about 100 devs as an agency 100
+devs is a real agency we have clients and we will continue to get clients and
+so you are all software engineers at 100 devs and so while you're at 100 devs
+you will collaborate with a team of developers to build modern and
+responsive web applications using best practices you've already done this if
+you've come to our project nights you have already collaborated with a team of
+developers to build modern and responsive web applications like that's
+that's something that you've already done you've built semantically structured
+full stack web applications you have already done this if you've came the
+project night you've already done this applied agile methodologies like scrum
+for project management you didn't know you were doing it but there are some
+portions of it that you've already done and as we get to the end of program you
+will all have worked on a project team together so by the time you graduate 100
+
+00:51
+devs you will have your 100 hours project you have worked on multiple
+projects and teams so all this stuff you will have underneath your belts
+now you're going to notice we're going to talk about recent projects
+what you're going to notice about the way that we talk about our projects is
+that you should never talk about your projects
+don't you need a assert for scrum no you don't i mean you can get certified in
+scrum but you don't need a certification to like use scrum methodology
+all scrum is is like how you work with other developers cool now
+you're gonna notice we're gonna talk about our projects as though they are
+real clients right and so the the clients we will whenever you build a project
+from this point forward never build a project that looks like it
+could be a boot camp always build your projects with
+
+00:52
+a client in mind even if there is not a client
+build a project with a client in mind right and so hip coffee co
+could be a project i did during a boot camp or it could have been a project i
+actually did for a client called hip coffee co
+right and so the idea here is you just want to be careful about how you talk
+about stuff if a recruiter is only spending six seconds you don't have to
+snitch on yourself and make it seem like you're in a boot camp if they ask you
+don't have to lie you can say yeah it was an agency with a training program
+and i went through the training program right but you don't have to snitch on
+yourself out the gate and say that let them dream
+the software engineer of their dreams and when they ask clarify but you don't
+have to come out the gate snitching on yourself
+so always label your projects as though they are real companies
+talk about them as though they were real clients
+
+00:53
+cashier can take coffee orders from customers with their names baristas can
+log into the app and see orders that have been made mark them to complete
+orders that have completed will note which barista completed the order
+all of you that graduate from this program will have built this app as part
+of a team so when you graduate you will literally have this in your recent
+projects happy notes users can log into their profile and
+find their list of notes they can add new notes through an input which they
+can edit or delete all the notes in their profile by the time we get done
+our back end you will all have this project in your portfolio right and so
+you might not name it happy notes you might not name it hip coffee co but the
+idea is that you're going to have serious projects
+that you've worked in teams with that are live that people can play with and
+you're going to talk that talk so that folks
+see them as real projects because that's what they are
+and then everyone's going to have a 100 hours project you're not going to call
+it a 100 hours project right you're not going to call it 100 you're not going to
+
+00:54
+call it the 100 hours project but it's going to be a project you sink 100 hours
+into half of the folks that got jobs last cohort
+did not have technical interviews because they did this stuff well
+somebody looked at their resume looked at their portfolio looked at their
+linkedin and go huh there's no way in hell that this person is not an engineer
+brought them into the interview talked through their 100 hours project
+asked them a bunch of technical questions we have a bank of over 300
+questions that you will all memorize right and they were able to talk through
+that project and people go oh you built this from scratch like you you you can
+you know everything that happened in this application you have all these
+other apps you you have real people that
+you've worked with like good enough boom you get the job right and
+so you don't have it yet but start thinking about what's your 100 hours
+project going to be is it something that you're excited to
+build something that you as divocker likes to say it can be something you're
+
+00:55
+excited about or something that you're that you hate
+and you want to fix it and so uh well like i said this is not our first class
+in the hunt it's just things that need to start thinking through
+um in terms of your resume but also like get the gears turned into that when we
+do get to the hunt you've already thought through some of this stuff
+and then we list other projects here's where a lot of people kind of um
+snitch on themselves right this is where people kind of snitch on themselves and
+the reason why they snitch on themselves is because they list like their other
+projects right they list their other projects
+a little catch-up crew have these group projects uh yeah like i said we have
+most of our group nights will be during class time but we'll hold other times
+where folks can work in groups as well but you can also create a thread and
+organize and catch up crew as well you know at this point you said it more times
+than i have nah but you always gotta give credit where credit's due because
+
+00:56
+it's amazing all right so here's where most people snitch on themselves like
+all of their like little apps they build
+it just it just sounds like they're in a boot camp and so instead of saying
+virtual instead of saying slot machine app you say small licks casino virtual
+slot machine let me clarify real quick some folks will put
+slot machine app on their resume and some people will put small lakes
+casino virtual slot machine so tuck nato said so lie no what was a lie there
+what was the lie there tell me what was the lie that's what i want to call it
+did poker stars lie when they called their casino poker stars
+did the wpt lie when they said wpt poker app no that's the name of their app
+
+00:57
+so why can't rs be small likes casino virtual slot machine
+get the [&nbsp;__&nbsp;] out of here come on now come on now
+people brand their projects all the time so brand your project
+maybe make a landing page for it right come on now get out of here
+don't actually leave i want you to stay i just i want that idea to get out of
+here don't just name like just don't put a project on there name your projects
+every other business in the world names their projects name your projects cool
+los angeles stargazer society apod web app with nasa api integration
+i'm in los angeles i'm a star gazer maybe i want it to be a society and i'm
+going to build a nasa app uh guess what we're doing on thursday folks yes
+
+00:58
+guess what we're doing on thursday we're building an api that uses nasa's api
+so don't just say nasa api website give it a freaking name right
+everyone here has built the next app on demand background color changer for
+partner twitch streamer on demand background color changer for partner
+twitch streamer guess what i'm a partner twitch streamer thanks to
+y'all and you all built me a color picker it's the first thing we did in
+javascript so you could have said color picker like some of these
+people people will be like leon i applied to 500 places and i look at
+their resume and it says color picker bruh
+what's a color picker why would any why would any professional
+software engineer put a color picker on their resume why
+
+00:59
+they never you got to think about it from the perspective of a recruiter no
+software engineer worth their salt would put a color picker on their resume now
+if you built an on-demand background color changer for a partner twitch
+streamer that's a little different it's true you did you built it for me
+so at this point when you're working on your resume think about how the other
+person is going to perceive it i am always happy to let
+a recruiter uh an engineering manager somebody that's gonna be looking at this
+stuff run off and paint the best picture they could ever paint of me in their
+head i'm not lying all this stuff is true i've done the work to brand myself
+right i've done the work to brand my projects you can't fault me for doing
+that but if you want to paint a better picture of me because of it i'm going to
+let you if you ask me directly sure i'll explain
+
+01:00
+what all these things were but guess what it never [&nbsp;__&nbsp;] happens
+nobody ever maybe one out of a hundred interviews do
+they dig deep and actually want to know the nitty-gritty details because they're
+spending six seconds six seconds so they're spending six seconds they're
+not going to nitpick all this stuff they're going to read it go this
+person's a software engineer you move to the next round and the folks that don't
+do this the folks that get uncomfortable with this part like only and i can't
+i can't brand my stuff oh i can't do it guess what you're not going to get a job
+or it's going to take you way longer than it would have
+all right so start thinking start thinking through these things right
+keeping it real i am i get spicy on this because this is the number one thing
+people [&nbsp;__&nbsp;] up this is like the biggest thing people
+
+01:01
+[&nbsp;__&nbsp;] up and it's the biggest thing you know what it is and it's not
+it's not that and we're going to take our break soon don't worry and it's not
+that they're [&nbsp;__&nbsp;] up it's that they don't have enough belief
+in themselves that talk highly about themselves they
+don't have enough belief in themselves to brand their projects they don't have
+enough belief in themselves to build their brand right
+and so that's the sad thing that's why i get so upset about this is why i get so
+why i get so spicy with it is because it's not that
+these people feel this it's not that these people don't want to do certain
+things is that a lot of times with a lot
+of my students there's something in them there's something in their brain that
+says i can't do this i'm not good enough i'm not worthy enough i i shouldn't be
+doing this i shouldn't be a software engineer i shouldn't be applying and you
+have to squash it out it's not true if you're still here you're doing something
+that hundreds of thousands of other people weren't able to do you're
+building amazing things you've already built amazing things you have a story
+
+01:02
+that's worth sharing you have experience that's worth putting on your resume and
+you you you deserve someone to see you in your light that
+you already shine so amazingly with right and so
+when it comes time to putting it on paper for some reason
+we slip and i've done this in the past myself too we slip when it comes time to
+putting it down on paper and so make sure that you take some time and if nobody
+else tells it tells you listen to me if you're still here
+you're amazing you've done something that hundreds of thousands of other
+people have not been able to do talk your talk
+put yourself in the best light possible because you're worth it and you deserve
+it cool all right we need to do a break when we come back
+from the break we got two or more big things we got to cover in terms of the
+
+01:03
+the like the last part of the resume and then we're going to look at 10 resumes
+and go over it together we'll do uh some wonderful raffles we still have the
+laptop at the end of the day so let's go ahead and do our our
+five-minute timer but i think so i actually already
+born code thank you for the hydration cheers to you and
+omo show 12 added two minutes to the timer uh so this is going to be a seven
+minute break folks seven minutes on the timer take that break
+uh maybe try and pull up the resume template if you haven't been able to do it
+and then when we come back from our seven minutes we're gonna look at the
+last bit of this resume and we're gonna see some real examples i'm really
+excited uh so let's go ahead and do that we'll do our raffle afterwards
+see you all in seven minutes i'll be sure to run the ads so that folks
+actually take a break if you're new around here and you don't know what i
+mean by break please we're in a marathon not a sprint if you're able get up move
+around hydrate let your eyes relax until it's not the screen i will be back
+
+01:04
+together in seven minutes i see you in different slurs i gotta run these ads
+exactly as melody said make sure you stretch drink your water please i'm
+
+01:05
+
+01:10
+gonna run the ads i'll see you all very shortly history
+we want you to give everyone who graduates one dollar uh so
+we actually thought about doing that last call
+
+01:11
+that's why we actually get a client though but um we actually we actually
+considered that idea which i thought was pretty funny
+all right folks come on back come on back alrighty
+well no it's just so that uh you can say
+that you're a paid software engineer but if you you already most of you will be
+paid software engineers which is pretty funny alrighty come on back come on back
+let's go uh come back to a raffle let's come back to a raffle so let me go and
+
+01:12
+set that up one second one second alrighty ooh
+they're like crinkly in the music right now that
+all right giveaways open go ahead exclamation point raffle get in here
+exclamation point raffle to get in here and we're gonna finish up looking at
+this resume and then look at some examples i miss like a raid or something
+
+01:13
+how many people here most of my people alrighty another 10 15 seconds 15 seconds
+we don't get got we go get all right i'm gonna go ahead and close it out
+and we're gonna pick our winner [Laughter] it's rigged blah blah congrats blah
+on the raffle congratulations i gotta do another one i can't do that
+well you're gonna get your you're already getting your mod hoodie but
+
+01:14
+you'll also get your t-shirt you'll get your official t-shirt as well
+but i feel people would would say that that's rigged if we let that stand so
+we gotta do another one [Laughter] all right so that's complete
+and let me go ahead i'm going to do another one here
+i'm going to keep this open for 30 seconds exposure point raffle if you
+want to get in here folks for another 100 devs t-shirt 100
+t-shirts that's hilarious well the funny thing is that happened to me too
+um that happened on roofia's stream i think it was yeah it was a rufio stream or
+might have been i forget him where they they ran the raffle and i
+
+01:15
+entered it just to run it and i won that was funny all rigged
+alrighty can i close this one up let me know and and we're gonna go ahead
+and pick a winner tony g three two three eight eight
+congrats uh you'll be getting messages from me tomorrow setting up how to get
+you these lovely t-shirts so tony g 32 388 congratulations
+you want to know how i know some of you all come back a little after
+the timer's done some of you all came back a little a
+little a little after the timer because there were more there are more raffles
+on the second one entries than they were on the first one
+people just took their time they saw seven minute timer that turned into 10.
+
+01:16
+alrighty congrats tony g we complete that down here beautiful alrighty folks
+let's go ahead and finish looking at our resume template here let me chill the
+music and get into it all right so we talked about our first
+work experience being software engineer at 100 devs we have our projects we've
+named all of our smaller projects there's not as much as a bootcamp smell
+and then you're gonna have at least two other positions
+at least two other positions on your resume most resumes could be fine with just
+three if you have a really established work history that's fine
+i've had lots of folks with really established work histories and they
+still keep it to three it's up to you if you want to do more but three's enough
+okay because they're only spending six seconds
+now sometimes they might want to ask questions they'll follow up if they have
+
+01:17
+more questions but sticking to these three is often really helpful and it's
+even more helpful if um you don't have an extensive work history
+right and so or if you have a work history that
+might might have had a gap these three are helpful okay so
+the next one will be your consulting so your consulting started
+when you first started learning or thinking about learning to code so if
+you ever thought about learning to code that's typically when you start your
+consulting time uh if you have a big gap in your resume that was your consulting
+time and as long as you get one client then you can you can put as big as a
+consulting time as you need on there some folks feel like they they have
+bigger gaps but if you wrote some html 10 years ago then you could literally
+have been freelancing that whole time because your first code was written 10
+years ago that's uh that's a little i mean that
+
+01:18
+that that's kind of how you can do it if you have a bigger gap this is this is
+how you fill that gap and so if you have a gap on your resume
+right if you're worried about that gap this is how you fix that gap you are
+freelancing and as long as you have one actual
+client that people can actually talk to that would like pick up the phone and
+say yeah i worked with this person then you can you don't you don't have to
+worry about any gaps anymore you just don't right and people right now
+are the most willing to forgive gaps that have ever
+than any other point in time i've been teaching the code for about 10 years
+i've been helping people get jobs for like five this is the best time ever to
+have a gap on your resume because everyone's like yeah there's a global
+pandemic you probably have a gap or two that's okay and so you can explain the
+gaps as like hey i was freelancing especially during the pandemic and totally
+
+01:19
+totally fine this is like the best time ever in the history of ever to have
+those gaps because you had a global pandemic
+and you are freelancing so if you have a
+gap it's really important that you get a actual client that you can put on here
+that you can describe what you did for that client in detail and that somebody
+would actually pick up a phone people say hey leon what about references this
+is where your references start that's why getting a client is so important to
+this process it's someone that will actually pick up the phone cool um
+how you describe your consulting is up to you but i like created full stack web
+applications and static websites for different clients across small and
+medium-sized businesses also consulted on seo and social media strategy some
+clients include and then you would list your actual clients that you got
+now the last one is any of your previous kind of jobs
+uh raise we're gonna talk about that in a second we're gonna talk about
+
+01:20
+education in a second um the last thing could be anything that you did
+it really doesn't matter uh you can put any of your past jobs on
+here it doesn't really kind of matter um what you did
+and so you can put you were did you did you ever like did you did
+you work at a coffee company right you worked at a coffee company
+and you like managed their like their twitter profile then you could be a
+marketing associate at that coffee company right um
+one thing i don't recommend doing is like really changing your title
+um if that like if you had a specific title right
+in in some more serious background checks those titles can be confirmed so
+that's something to understand so what some folks might do is they might put
+their actual title and then maybe like in parentheses some of the things they
+
+01:21
+did at that at that location right so if you let's say worked as a barista
+you could put that in like parentheses uh so it shows like
+your actual titles there but the thing that you that you did that you were
+excited about at that at that company right so maybe you manage their social
+media profile and while you're there you establish a strategy and communications
+campaign that did x y and z so whatever the highlight was right at that
+organization you put that here and everyone i don't care what you did i
+don't care if you were a fortune 100 ceo i don't care if you were
+uh an animal wrangler in the sahara i don't care if you were a priest it
+doesn't matter you all have at least one banger that you can think of that you
+did at that company or a way to think about it
+that can communicate what you did there right and maybe
+tilt it towards what you're interested in doing now
+and this might be the hardest thing for folks to think through
+
+01:22
+a lot of folks that i always say most of
+my students have done pretty traditional jobs a lot of my students have been
+baristas they've been cooks they've been things and there's there's always
+something some way that you can massage that role
+into something that you did positive and
+then something that might lean into what you did uh why why you're a software
+engineer and for a lot of folks this is where your story becomes really
+important so let's say you were a server at a restaurant like you're a waiter
+waitress at a restaurant you would talk about your time at that
+restaurant as having a horrible time with the point-of-sale system like where
+you typed in those in those in those orders every day you had to type in
+orders you hated it you thought that you could do you could make a better point
+of sale system so you learned how to code and one of your big projects you've
+worked on is a point of sale system that you're trying to sell to small to
+medium-sized restaurants so you went from a waiter waitress having a horrible
+
+01:23
+experience of point of sale system learning how to code to your 100 hours
+project being a new point of sale system that you're actually going to try and
+sell you don't actually have to try and sell you just say you're going to try
+and sell the small medium businesses that gives you a plausible story as to
+why you're showing up as a software engineer right and so
+we're going to have classes on this crafting your story you're we're gonna
+have classes on how to frame anything that you've done in the past in a
+positive light but you need to start thinking about it right you need to
+start thinking about it now how can i take what i did in the past and mold it
+into a story as to how i got to where i am now
+all right and so you don't have to have that right now something i need you to
+start chewing on and something we'll have a whole class on but this last this
+third thing could be anything i don't care what your past job was there's a
+
+01:24
+way to to make it so that helps you with this new role cool
+maybe running maybe we can do that all right
+so like i said we're gonna have a full class on how to do that like crafting
+story it's something i need to start thinking about right now cool
+all right the last thing i recommend having on your resume is volunteering
+i think the easiest thing to volunteer for are conferences
+and so just have one one thing here that's like a volunteer experience
+so that could be i volunteer at a certain conference every year the free
+software foundation conference every year that was in person i volunteered
+for the past couple of years and they also helped with like their
+mailing campaigns right and so find something that's in the realm of
+either like a technical conference or a local organization that you feel like
+
+01:25
+you want to contribute to that can be something that you can talk about uh
+during your interview as well right so um there's like the the like
+the charitable reason to do it but there's also like the greedy reason to
+do it having the the volunteer experience gives you just one more thing
+to talk about uh during the interview uh
+no no non-code volunteering is great but you want something that is actually
+technical related something that somebody else will be
+looking at your resume and go oh they also do code for america i do code for
+america every every tuesday right like there are a lot of these like
+volunteering things that like people that are in tech are on the
+in on right and so it's just something that like helps you
+find a common bond with the interviewer and help separate your resume from any
+other resume that doesn't have it especially if you're local right
+
+01:26
+especially if you're local uh and like i said this is just kind of
+like the first pass we're gonna have a whole deeper class on like resume and
+how to structure your job so there are like a lot of specific questions about
+it feel free to ask them but we're gonna have other classes on resumes too
+uh what about like like if you were managerial beforehand
+and now you're applying we've had students that have gotten senior roles
+right out of 100 devs uh quite a few uh a lot of times the like level that
+you go into doesn't like don't don't don't limit yourself uh if
+you want to go straight to managing you probably could if you did this process
+right which i know sounds absolutely wild but i actually do believe it um
+and so this part of this process is like crafting that story and if you've done
+managerial things in the past you have to bake that into your story and use
+
+01:27
+that as a huge value add to the company that you're joining
+the last things we have on here are skills um remember we talked about like the
+computer reading your your resume and so you want these skills here so
+that if a computer is reading your resume they like pass you on to the next
+the next round cool so we have our skills html css javascript react react native
+node mongodb postgres oop web accessibility these are things that are pretty
+standard you might swap in and out certain things on here but that's about it
+the last part here is education and i don't recommend putting education first
+unless you went to like a really strong school
+if you went to like an ivy league school or something like that or a top-tier
+recognizable school then you might move um up your like your education to be
+
+01:28
+somewhere different but if you kind of went to like a normal
+university normal school um you kind of put your education to the
+right-hand side and can anybody tell me about tell me about what i've done
+specifically here anybody figure out what i've done here no degree
+this person doesn't have a degree um but if somebody was spending the six
+seconds that they were gonna spend on this resume
+would they know that they did not have a degree nah
+they just wouldn't they would just see umass boston and keep moving right
+they unless they were specifically trying to weed out for that question
+they're just gonna go boop and move on to the next thing
+and so that's what i recommend you do if you did not have a degree but you went
+to school somewhere for a little while you can put that on there put the years
+
+01:29
+that you were there and then keep it moving if you do have a
+degree you can put your full degree there if you have any like a like a masters
+you can put your masters there some folks that might have like military
+experience you can put it like near this area as well
+you don't have to put gpa you don't put any of that crap on there um you don't
+have to do you don't have to put anything on there that you don't feel
+comfortable with remember this is all about passing a sniff test
+if somebody really cares about certain things there's nothing that you can do
+that'll stop them from caring about those things but what you can do is make
+it a little bit harder for them to figure it out
+right if they really want to care about care about it and they really want to
+dig they will they'll ask you follow-up questions but you don't have to come out
+the gate snitching on yourself you don't have to come out the gate like
+immediately dismissing your resume and so when you see these folks that say i i
+applied to 500 places and i didn't get the job it's because they have stuff on
+
+01:30
+their resume that the recruiter is seeing in those six seconds and deciding
+to not to not move their resume to the next round
+like i said i'm going to show you how to
+play the game it's up to you if you want to play it
+i went to a culinary school and a culinary arts degree which i put you
+should put that on your resume oh yeah a lot of companies care about degrees a
+lot of them don't and even some of the ones that do say
+they care they don't check so it just doesn't it doesn't behoove
+you to shout that somewhere in your resume
+what if you have no education past high school you can leave education off of
+your uh resume you just like not have it if you really
+
+01:31
+don't feel like you want to put anything for education just don't put it
+some folks will put certifications on here i'm not a big fan of certifications
+unless they're like the media certification so if you said leon i
+don't have any education past high school what you're one of the people i
+might push to do like a specific cert that might have
+some meat behind it like an aws cert or something like that just to have
+something in that space but that's not something i would do now for now just
+leave it off as you get through the end of program that's something you might
+look into but as a general rule of thumb i don't
+put certifications on resumes um unless they're like the really big heavy hitter
+ones that like you had to take the test and it took a long time to study for
+yeah what about jobs that asks you to have a bs uh if
+you've networked your way into those jobs it sometimes just doesn't matter
+how relevant are spoken languages and where would you put them you can put
+them in that like kind of this skills area is where you can put languages if
+
+01:32
+you want and different ghost says i didn't complete high school no one has ever
+asked me about my education or even the bs requirements
+so there you go one of the strongest engineers that that i know that have
+helped all of our folks here at 100 devs that have amazing jobs there you go
+yeah so you can put you can put um you can put languages here if you want what
+about soft skills leave them off your resume notice that i don't have like
+microsoft word or like public speaking right these are things that everyone has
+they're not value ads on a resume they don't you don't need to put that you
+know how to work a computer um on your resume like that that's okay like that's
+assumed you're a software engineer slightly a little bit higher bar there
+in terms of like your technical skills excel stuff like that doesn't belong on
+a on a engineering um resume leave off udemy corsair asserts yeah
+
+01:33
+don't put them on there that just what is what is what is someone seeing
+udemy cert smell like think about that if you had if you
+actually if you absolutely crushed the resume
+and then i saw you demi cert i'm just going to think oh you haven't been
+coding for that long wait a minute i thought you were i thought you had
+worked here here here i thought you've been freelancing why do you have
+like why do you have like this this udemy cert
+right like that you got to think about it folks don't want to hire
+new folks like they just don't they don't want to hire folks that are early
+in their career they don't want to hire engineers straight up boot camps like
+whether whether you can do the job or not some folks have already made up their
+minds about this stuff right some folks already made up their
+minds about this stuff and so don't give them that ammunition
+just don't let them dream what they want to dream
+
+01:34
+get into the position where you're talking to the engineers and then all
+that stuff can come out later but you don't have to put it on here where
+somebody's literally spending six seconds to decide if you go to the next round
+always think about it think about what do you want somebody to see in these
+first six seconds they can always clarify they can always ask more
+questions but in those six seconds what do you want them to see so that they can
+go oh this person's a software engineer i want them to talk to the talk to my
+team let's do a few minutes of questions here
+and we're going to start looking at some resumes and see if we can put into play
+everything we just learned what about free code cam certs i don't
+think they should belong on your on your entry level software engineering resume
+you don't want i don't i don't i don't ever have my students put boot camp stuff
+
+01:35
+basic certification stuff that all stays off because in those six seconds i want
+them to think that i'm a software engineer i've been doing this for a
+while and i know what the hell i'm doing
+so anything that might suss that out and
+make them feel like they that that's not true or that you're a newer developer
+that that gets a pass for now what about on linkedin i think this
+stuff goes on linkedin too what about a cover letter like i said
+this is not our beginning of the hunt class we're going to go in deep on all
+the stuff you'll need for the hunt this is just a resume to start getting these
+ideas percolating some of my engineering friends told me
+that good companies will continue software engineers ones as an investment
+is that a wrong way to view the job from our perspective no i think a lot of
+companies the reason why they look for entry-level
+talent is because they want you to grow in their way every company does all this
+stuff differently they have their own systems their own processes and so
+sometimes when you have engineers that have like a year or two of experience
+
+01:36
+they're already set in a certain way you can have raw engineering talent build
+them up in your way and that could be a value add
+should our contact info like our github account be really professional name yes
+everything is first name last name as much as you can go unless for some
+reason you can't use your name but the close to your first name last name as
+you can or a moniker that you use everywhere is really important so some
+people just go by a moniker but that should be consistent across all your stuff
+what about soft skills management client service probably not
+they only have six seconds ah great question should we stick to a
+one page rule for resumes yes i think some folks like notice that
+there's no second page here i left it blank just so i could say there's
+nothing on the second page yeah one page or less they're only spending six
+seconds if you can't if you can't craft a good
+story that helps somebody understand that you're a good entry level engineer
+
+01:37
+in that one page you have failed that six second test
+now this is a resume cvs and things like that are different but for a resume try
+and keep it one page and there's some folks some people
+that's out there nah they're they're not
+spending that much time on this one page and it's not it's not because you don't
+want to have more stuff on there it's because folks that have multiple pages
+means that they haven't put the time or effort in to consolidate and really
+think through what their bangers are and what they want somebody that's only
+spending a little bit of time on their resume to walk away with
+what if my education is over 20 years old just leave the numbers off of
+it yeah just leave the dates off of it what about cover pages we don't i don't
+i don't really ever do cover pages sometimes they're like cover letters or
+cover emails but um we'll talk about that later uh where can we go to do our
+participating projects we have project nights instead of class sometimes we do
+
+01:38
+project nights uh how do you add freelance products do
+you put a link to the work uh yeah i think a lot of this stuff can be linked
+so if any of this stuff is live and like hosted on say like netlify you can turn
+these into actual links and a lot of times if you don't have the code live
+you'll link to your github we're going to have a template that you're going to
+use for every single github repo so that it looks really nice and really
+professional and so that's something i'll share with you all soon
+so every single every single project you work on is going to have a really nice
+github page that's really like knocks people's socks off and so i'll share
+that template with you soon and so a lot of these might be links to your github
+design skills yeah that could definitely go on a resume too if you're like a
+designer or something like that that should go on there
+uh if we can't call ourselves software news we put full stack web developer yes
+i think that's probably the next best step any fonts to stay away from
+
+01:39
+just use standard fonts don't get too odd with it if you're using the template
+just use what the template gives you uh yeah it should definitely be a pdf i
+think pdf being able to have it in pdf is really important don't be sending
+like a word doc to folks send a pdf to folks
+two universities didn't get a degree either should i put both sure why not
+um if i worked for somebody that was a worldwide company uh you can just put
+the port of call for your cruise ship or remote is what people put these days
+so i put my resume online for potential employees i think it's important to have
+it host it somewhere that's easily shareable
+
+01:40
+uh bullet points instead of paragraphs for all work experience uh if you're
+following my template you'll notice that there's only one that has like the
+it's like the first one has bullet points and then kind of the other ones
+are kind of just smaller because you're trying to save space if you if you need
+to fill some space you can do more bullet points
+should you include technical schools such as like welding or cdl if that's
+part of your story so a lot of times people say should i include this or that
+well you got to think does it does it contributes to the story as to why
+you're a software engineer so if you're ever um
+if you're ever trying to figure out if something should be on your resume or
+not is well hey does it contribute to the story i'm
+presenting to a recruiter to a hiring partner as to why i'm a good software
+engineer how i got here it doesn't make sense always think about if it makes
+
+01:41
+sense if i volunteered for a long time and they offered me a paid position can i
+put volunteer and paid i would probably still list it as volunteer because
+some people really do [Music] do deeper background checks that will
+verify your employment history what if my employment deployments from a
+different country than us that's totally fine
+should we keep our age off the resume uh where is my age on this resume there's
+no age on this resume um the only the only way you can maybe suss out age is
+like educational timeline but if you really feel that you might be
+discriminating against for your age you can just leave that time off of there
+like your degree time how about personal interest now you've
+
+01:42
+only got six seconds don't cloud it with stuff that doesn't help you seal the
+deal everything if you're ever asking yourself should
+this be on there should this not be on there say if i only had six to ten
+seconds to read this resume would that stuff help convince me to give you the
+interview most of the time the answer is no
+definitely always a pdf yeah always a pdf uh i'm currently a truck driver i feel
+like it's harder to transition for folks coming from blue collar that's all cap
+my best students the students that always have the best outcomes literally
+when i i've tracked this i looked at the jobs before versus the the salary after
+the folks that make the most money coming out of my programs are always drivers
+always drivers always always always drivers i don't
+
+01:43
+know what it is but i i got the proof always uber drivers and cdl holders
+out of everything out of health care out of folks that had prior education
+i don't know what it is but drivers they they lead the way and so yeah get get
+all that silly nonsense out of our heads that
+if we're coming from one industry it's gonna be that we can't make it now um
+data is not with you and that's why i'm saying you stick to these three
+you stick to these three you stick to these three you have
+your 100 devs you have your consulting and you have one other thing that you
+did you don't need any other history beside those three to land a job the
+individuals that use this template literally folks that we've talked about
+in this cohort like the folks that i've put on here before folks that you that
+you that you know that have gone through my other programs they've used this
+
+01:44
+template and now they're at fang companies like i said can you trust me or not
+it's up to you we don't use those emotes anymore a frog
+xqc wrecked our our our our place no more no longer in this chat i'm joshing it
+but they did cause us a lot of pain [Laughter] can we ban emotes
+alrighty so we've looked at the example what i want to do now
+is knowing what we know knowing what we know
+yeah it's like it's engagement thank you for the engagement
+no so the cool thing like the like the the streamers doing what they did
+
+01:45
+was was cool because it it made the steak like it made it like
+it made it fun right like because like it made it made you feel things
+and so as much as you hate it being wiped out it's like that's what like
+brought the community like your smaller community back together right like
+having to rebuild and like fight it off like that's what made it that's what
+made it fun and so it's all yeah it united us like so you
+got you gotta take the good with the bad right and it was good promo
+every good story needs a villain exactly all right
+so we looked at this look at this resume i answered your questions about it
+remember this won't be our only time we look at resumes and this will be i just
+need these ideas to percolate now and then we'll have a full two classes on
+how to do all of our professional stuff um for
+the uh for the for the hunt um location for all this stuff you can just do
+
+01:46
+remote um some folks put la but i think it's better just to put remote if you're
+putting 100 devs rockefeller nerd said i used this
+template and got my job my cousin in college used this template and got the
+job it does the job thank you i love that thank you for sharing rockefeller
+what if i'm in la then put la

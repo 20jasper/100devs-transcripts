@@ -1,0 +1,2116 @@
+
+00:00
+hey good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well
+welcome back we online let's go everybody hey
+what's going on welcome back everybody hope you all are doing well hope your
+week's been off to a good well hey thank you for all the birthday
+wishes i appreciate that hey thank you everybody [Laughter]
+hey all right turn up what's going on it's so good to see you all
+crisis hey thank you for the five goods it subs thank you for being here
+
+00:01
+hey welcome back everybody got your third client this month 8k let's go
+turn up that's huge eight grand already what let's go
+that's amazing to hear thank you for sharing that 8k in chat
+we out here doing things folks we outside we online let's go
+welcome in everybody all right uh thank you for the birthday wishes i
+appreciate it uh folks are asking the wife is doing very very well um
+minor car accident just just wanted to make sure everything was okay so we're
+in the hospital for a night but doing perfectly fine everything's going well
+so i appreciate all the all the outpouring of support people
+were i had people i have people dming me in pokemon
+like reaching out all over the place to send good vibes and and well wishes so i
+appreciate all the support thank you for uh everyone that sent me a message i
+
+00:02
+can't respond to all of y'all but i appreciate it thanks for coming through
+uh we got a lot of fun stuff tonight double dizzle hey thank you for the
+gifted subs rufio with the raid 146 folks 146 with the raid like i always say
+folks if you uh you got some time before
+stream there's nothing better to do than
+to be in rufio stream before this stream you get the raid they were at
+211 let's go turn up all right i appreciate when they came
+through with the raid everybody's hanging out with the stream team i
+appreciate y'all uh wife's doing well i appreciate all the good wishes we got a
+lot of fun stuff to get into tonight folks i promise i promise
+i'm gonna blow your mind tonight when i was learning this stuff
+oh when i was learning this stuff it's like a whole new world opened
+
+00:03
+i felt like i felt like dr strange opened a portal and i stepped through it
+and everything was different so i'm hoping
+that's for you the the the like you see what's behind the curtain and we were in
+oz the whole time so i i promise that i'm going to blow your mind and
+then we're going to get to node so we can be full stack software engineers by
+the end of tonight you will be a full stack software engineer what
+let's go turn up a copper lily a glad you're able to join
+us live web do a welcome let's go got the gang in here tonight let's go
+all right so as always i'd like to start off with some
+questions you got questions i got answers
+i won't do the question i'm going to say that question of the day it's a tuesday
+because we had so many people in here saying happy birthday we got questions
+i got answers i always like to do this for a little bit to give folks a second
+
+00:04
+to get in here to get situated to get things set up to get the things downloaded
+almost caught up on youtube should i start live with back end yeah join us
+tonight join us tonight cause it's gonna be like the
+we're gonna just get a little nibble of node but it's more about like what is
+node that's the goal of tonight like what is it how what are we gonna use it for
+uh my resume isn't done is there gonna be another opportunity to check yes for
+wanting it shared not ready but it will be uh no
+just don't fill out the form until tuesday you'll notice that i submitted the i
+shared the form for you to submit your professional links but then if you keep
+the homework for this weekend i ask you to finish it so not everyone is finished
+so take the weekend to finish and then submit it on tuesday you know
+
+00:05
+if we are just getting into js should we attend this class you can but your
+mind's going to be blown i think if you if you haven't started any javascript
+like you've written any javascript then skip this one and come back later so you
+can officially have your mind blown but if you've been doing a little bit of
+javascript you're doing click events event listener stuff like that then this
+is still up your alley so here's the thing if you submit these
+links you can just update the links like the links aren't going to change right
+so even if you edit your resume even if you edit your stuff like the link's
+still the same so just edit it and i'll have the updated version
+don't resubmit though that that that that causes me too much headache like
+don't keep re-spamming like links either submit it or don't submit it but don't
+keep re-spamming it because that's too hard for me to keep track of
+it because the problem so yeah don't just don't keep like don't spam resubmit
+
+00:06
+just update your links that's all and and no worries that like this isn't
+like the official thing like eventually we'll have places where you're going to
+upload everything we're going to share all the official stuff with me like
+don't don't freak out like that it's not perfect
+you'll have you'll have time to make it more perfect but this isn't like we're
+going to put you up on the on the internet with this stuff no i would
+never do that without asking you first networking and finding clients has been
+a struggle being so behind on these two things has all my hard work been a waste
+it's not a waste it's just that we know that the networking is the thing that
+gets you jobs and so there remember we talked about all these doors being
+opened the whole point is to open as many doors as you can not everyone has
+the privilege of opening all the doors and so the networking opens a lot of
+them but there's still opportunities if you're if you're kind of if you're kind
+of behind on that aspect so you should still push yourself to get that done to
+
+00:07
+unlock that to be more focused when we get to the hit list but know that it's
+all about opening as many doors as possible and some folks can open one and
+two and really go ham on those one or two and get an opportunity but it's
+about being prepared it's about opening as many doors so we can get the
+opportunities coming our way cool are we still letting people in the
+hundreds of linkedin group yeah i haven't been able to let anyone in in
+the past couple days but if you keep signing up for it i'll keep letting
+people in always feel free to join the classes live you don't have to worry yeah
+can our 100 hours project being react it can be it still has to be a full stack
+
+00:08
+web application but if you want to include react sure no worries all right
+alrighty folks let's get into this we got a lot of folks
+in here we're gonna do some great things
+tonight we're gonna talk about callbacks promises async await and then node
+and then we're going to start building full stack web applications i'm excited
+you're here let's go ahead let's get into it
+we got some things to do before we jump into the learning tonight and so as
+always if you haven't checked in yet please check in
+you can always do exclamation point check in here to get the link you still
+have to click the link like and retweet on twitter remember you have your fresh
+start so your past attendance doesn't matter
+but your attendance starting now does so make sure you're doing the liking and
+the retweeting so that we know that you're here in class it also helps folks
+find us they don't want to spending twenty thirty thousand dollars on a boot
+camp they can come here and community get community taught folks get community
+
+00:09
+taught so appreciate the check-in we're gonna do office hours on
+sunday so sunday 1 p.m our traditional office hours we're going to come we're
+going to answer some of your questions we're going to talk more about node
+it'll be a good office hours our office hours always chill
+we're not going to do anything on friday
+this this week because i still need some time to catch up because i missed a
+couple days uh due to the accident so just regular office hours on sundays
+gonna be a good office hour so i'm hyped for it and then next week we'll start
+doing like the car practice prep practice all that fun stuff cool alrighty
+newsletter oh boy there was a newsletter raffle
+let me go ahead and grab folks from the newsletter raffle remember
+newsletter goes out every day before class all the goodies are in that
+newsletter before class and so i'm just going to go ahead i'm
+going to plop everybody's uh name that filled out the newsletter
+
+00:10
+raffle already and i'm telling you there's gonna be some good stuff coming
+up in that newsletter raffle we're doing vip today vip just helps you it makes
+you stand out here on twitch you can flex on your uh can be a good old flex
+asaurus if you know what i mean all these people trying to get in here
+you're too late should i open the newsletter
+you should open the newsletter all right i'm going to grab all these names real
+quick and we're going to plop them into the the name picker there were
+953 of you all that opened it before class start well at least not saying
+opened it but at least filled it out because we got we have a lot more people
+that newsletter than that let's go ahead and paste it in
+here are the names that filled it out before before class
+let's go ahead and and pick a random name here and then they're going to get vip
+all right flick flicks 2 4 6 8 you get vip
+
+00:11
+i'm going to go ahead and do that right now
+vip isn't forever but it's for a good time all right flick flicks you got vip
+congrats like i say always folks it pays to open
+the newsletter you can do exclamation point newsletter to sign up if you're
+worried that you haven't been signed up you can always try resubmitting it again
+but yeah activation point newsletter doesn't sign you up for the newsletter
+you have to click the link to sign up for the newsletter and fill
+out your information alrighty congratulations to flick flicks you now vip
+feels good don't it alrighty today's my birthday thank you for all
+the birthday wishes and uh well wishes and so i i have a
+i have i have a birthday wish to ask of you all
+a birthday wish right nobody supposed to keep your wishes to yourself i'm gonna
+make mine public my birthday wish is that you follow every person that's
+on the new people that have joined the stream team recently this is in
+
+00:12
+descending order of the folks that have joined recently and so if you haven't
+followed fox minewolf rufio yet please follow them on twitch
+if you haven't followed them on twitter yet please follow them on twitter
+dakota decoder hey thank you for the 10 gift that subs i appreciate it thank you
+so much thank you for being here all right and uh if you haven't turned on
+notifications in the stream team channel yet please go ahead and turn on we only
+post we only post when we're going live and we only post when we're going live
+and we're working on code related stuff right so no spam no anything it's just
+stream team members it's just when we're going live working on good code related
+stuff and so if you haven't given them a follow yet please if you haven't turned
+on notifications for the stream team channel please
+uh that's that's what i want for my birthday folks that's my my deep-seated
+birthday wish i really hope that you give these folks a follow
+i really love this idea of being community taught so many people say
+they're self-taught that's not what we do here we're community taught here
+
+00:13
+right we we we learn from each other we learn from each other on discord and my
+favorite thing is going to uh fellow stream team members and seeing
+the things that they're working on and seeing so many of you all there working
+along with them doing code wars doing review from the things that we covered
+in class you can pick up so more so much more amazing things by hanging out with
+our stream team members so i hope that you uh
+if you look here look let's get real for a second
+if you put happy happy birthday in the chat
+but you didn't follow them it was kind of it was kind of all cap right like you
+didn't really mean it they really mean happy birthday like you just kind of you
+know yeah everybody else is saying let me say you know you know what i'm saying
+you know what i'm saying so yeah you're kind of committed i've already locked in
+
+00:14
+all right thank you i appreciate you all thank you for being here
+all right we talked about our fresh start you guys talked about our fresh start
+meaning that in the past the things that you did didn't matter they like
+the slate has been wiped clean you forgot to check in one or two classes that's
+okay you forgot to submit a homework or two that's okay your fresh start starts
+now you got to check in starting today you got to start submitting the
+assignments starting today right so the slate has been wiped clean
+and we do that so that folks that are joining us can still get all the
+wonderful goodies that we're going to have at the end of program so the
+check-in is important the submitting your homework on time is important it
+helps me when we're doing things like um
+reference calls for me to be able to say
+yeah this person always shows up on time right like i want to be able to when i
+talk about people i talk about them in the most positive
+
+00:15
+light possible and i use real things so when somebody i'm on a reference call
+with somebody like yeah they showed up every day perfectly on time never missed
+a day and i'm telling the truth because i can see that you checked in every
+single day right as class started so i can i feel comfortable saying yeah every
+single day they showed up they did their things they submitted all their work
+they got everything done right like i want to be able to talk about you in
+that light and so that's why the checking in is important that's why
+submitting your homework on time is important right
+my wife says i just got a hundred followers in five minutes let's go turn up
+all righty let's keep pushing folks the networking is coming back we got to
+start the networking right right would there be a separate bank list for
+all those that want to freelance only no because it's not the path that i'm
+laying out here this is not a i want a freelance type of experience i love
+freelancing i think it's to be something that's to support you uh
+
+00:16
+but i think you should get a job because freelancing is such a hard difficult
+beast it has so many pitfalls and i've seen so many of my students get wrecked
+because they have a downs a down spin right where they have three to six
+months without really any significant clients they're not making the money
+that they need to make right so i do really recommend you get a job first
+keep your freelancing game going and then once you have a bunch of evergreen
+clients right like clients that keep coming back to you paying you month
+after month year after year then you can go full time freelance now that's up to
+you if you want to take that advice i just seen too many of my students burn
+out so i just don't advocate it i think freelancing is a great supplement but
+not something that i would tell any of my students that are at this level to go
+full force on you need to have really good
+like you gotta have really good client skills you got to be bringing very
+consistent clients you have to have a really good emergency fund to weather
+
+00:17
+out three four months of no clients right and sometimes you might have three
+months with no clients but then you do get a client but you're not getting paid
+until like another month two months after that right like
+it's too much of a grind and i i just wouldn't want that for folks and so um
+i'm never gonna present alternative paths i want you to get a job first and
+then i want you to freelance on the side and then when things are going really
+well and you feel like it's the time's right then go full bore on freelancing
+yeah not that yeah exactly not that it can't be done it's just
+it's a way more difficult road just got paid by a client who owed since
+january it's real on these streets folks anthony said freelance for about three
+years when i first learned to code it def it's definitely harder that way when
+you're saying it's totally correct just in case someone wants to hear from
+someone uh who did it exactly i feel that all right give me that healthcare
+
+00:18
+exactly i love your i love your name panic at the discord
+that's such a good dave already folks went to a js meeting last night end up
+eating meta met up meeting four other hundred devs that's awesome it's like
+the spider-man meme all right i had a client hold a payment for 11
+months of 70k due to some internal budget stuff really screaming out here
+that's wild sorry to hear that brushless all right folks networking comes back
+this week meaning that i want one coffee chat this week
+i want one coffee chat last year last week for a coffee chat i'm asking you
+this week for a coffee chat right i want you to i want you to get that
+free that networking coming back and soon we're going to be doing our
+networking in a targeted way meaning that we're going to be just trying to
+network with folks that are on our hit list let's get comfortable with it again
+
+00:19
+let's try and get these connections going again right let's keep it pushing
+all right use the sheet folks use the sheet if you're not keeping track of
+your networking in the sheet you're messing up if you're not keeping track
+of your hit list in the sheet you're messing up get the sheet execution point
+sheet and chat if you need it all right the checklist i'm starting to ask for
+all the professional links today i know some folks are able to finish everything
+so go ahead and take the weekend to finish it but i want
+your professional stuff done by next tuesday we got to get the the the link
+some marinating we need we need the lincoln to start you know getting the
+recruiters to see it right like we need all these things done so we can enter
+into the hunt appropriately remember you should be pushing every day
+you should be doing a code wars every day and you should be pushing that code
+wars to github every single day because our recruiters love those green
+
+00:20
+squares they do they do they do and we know the benefits of spaced repetition
+we know that we're doing a code wars every day by the time we're in the
+interview we're gonna be lean mean interviewing machines
+so please please you only listen to me with one thing just do a code wars every
+day and push it to github that your github looks looks sweet
+you're getting that practicing you're getting that space repetition in you're
+getting that pattern recognition and by the time you're ready to interview
+you're ready i'm telling you folks other people ain't doing this definitely not
+for as long as we do it i'm just a simple man cultivating my green square patch
+all my links are gifts now hey let's go turn up
+all right submitting your work uh i asked you for your freelancing
+information today uh freelancing was due
+
+00:21
+on tuesday so you all got two extra days i want to hear if you got a client if
+you got a volunteer or if you got a open source contribution um so
+fill that out so i know what you got um later on i'm going to ask for like the
+links to everything but i kind of i want to get a pulse on
+where you're at what you did and then i'll ask for like submitting everything
+i want this to be quick and easy and then i'll ask for all the actual
+details later same thing for submitting your work
+there's a lot of stuff that was due today in terms of the 100 hours project
+in terms of your professional checklist so make sure today you fill out that
+that link i put both the links are here in
+the slides to this but they are also in the um in the discord so on our follow
+materials channel you can find all these links as well
+congrats archer that's huge and please remember right we said this
+already but we know that space repetition is the key folks we know the
+
+00:22
+space repetition is the thing that's going to help us get jobs keeping up
+with your anki keeping up with your code words keeping up with the homework
+all this stuff becomes even more important because we're ready to get
+serious we're about to enter into the hunt we're getting prepared for the hunt
+we're sharpening our poles we're grabbing our shields but we're
+getting ready and so we need to be getting ready so that by the time we're
+interviewing we're good to go [Laughter] some petty patties were trying to tell
+us that green square back dating was cheating don't hate the player hate the
+game yeah i think that's a very clear don't hate to play hate the game situation
+i i really committed i committed to doing 100 days in a row
+and uh there were a few days where i had to change my my time to
+hawaii i didn't i didn't do like the commit thing i just i just changed the
+
+00:23
+date and time on my computer to hawaii because i missed it by a couple hours so
+i don't know i i'm gonna count it like i said i'm gonna buy any means necessary
+type of person if you if you're if you are a recruiter that can dig through my
+get history and figure out uh that i backfilled some dates well you're just
+impressed me that's that's for sure all right
+tonight folks we get into the back end we become full stack web developers we
+combine our front end skills with some back end skills but before we get to the
+back end we have some things to cover and so we're going to start off with a few
+things that are going to help us better understand
+where the back end comes to play that helps us better understand
+like what we're doing when it comes time to the back end so give me a chance to
+work through some examples tonight they're gonna help us see some other
+
+00:24
+really key things that we need right before jumping into the back end and
+know that a lot of these examples are just examples i'm going to use some
+words very loosely tonight i can already feel the nerds shaking and quaking uh
+leon that's not asynchronously on that's not that's not secret this is not what
+if that's not that's not the definition oh all right i
+can already hear them i can hear them you hear them
+you hear them you you can hear like the there's like a sound i don't know if you
+can hear it all right i think i got to talk while i do it
+there's look at that sound it's like the the the fist clenching and the teeth
+like uh and they do a little shake right i can hear it i can hear a little bit
+because i'm gonna use some words and i'm gonna use them loosely because we're
+here to freaking learn folks we're here to learn we'll worry about
+the nerd stuff later on we're here to learn so we need some words loosely give
+me some room here let's stretch out let's take
+deep breath all right folks we got this we're here to learn all right
+
+00:25
+and so we're going to start off by delivering some papers this evening
+and i am going to take on the role of a paper delivery person
+and we're going to deliver some papers now some of you are like leon what the
+heck are papers uh well papers are news well almost normally news that are
+put on to sheets of dead trees so we used to chop down trees
+and we would turn those trees into like compressed sheets
+and then people would write on them and then print on them like they would they
+would put like um like ink what is ink you know like like what a
+pen is the stuff inside of a pen they would put that all over the sheet and then
+like your grandparents would read that every morning so it's kind of like it's
+kind of like reddit but on dead trees so that's what papers are cool all right
+so we're gonna be a person that delivers these papers because every morning
+
+00:26
+someone used to to drop off a paper at your house and that's how you read the
+news so instead of like logging on to your computer you would just like go to
+your front door and you would like open it and boom there you go boomer stuff
+exactly all right so let's deliver some papers now
+what do we want if we're going to be a good paper delivery person we probably
+we probably need to do something well and so we could be a paper delivery person
+that we get on our bike we have all our papers with us
+we ride our bike to the first house we throw the newspaper at the door and
+then we wait we wait for them to kind of like wake up put their pajamas back on
+that come down the steps to open the front door they grab their newspaper and
+then we get back on our bike we we hustle to the next door we throw the
+
+00:27
+paper at it and then we wait eventually they get up they have their breakfast
+they come to the front door they open it they grab their paper and
+then we're like oh we got to get the next house this would be a really
+inefficient paper route right we'd call this synchronous for now where we are
+kind of just like waiting for each person to get their paper
+before moving on to the next house right what we would want
+is for ourselves as a paper delivery person to be asynchronous meaning that
+we would throw the paper at the door and then we move on to the next house
+right now the cool thing is that when we have a synchronous process
+there are some things that we get that are perks right there are some perks to
+having a synchronous process where we're throwing at the door and then waiting
+
+00:28
+before we move on to the next one what are some perks that we might get
+we might get tips maybe uh we could be pretty certain that they got their paper
+right like we we saw that we we threw it we saw they eventually got it so we
+could see that they eventually got their paper right but that that benefit that
+we get is vastly vastly uh not worth it we probably value the idea of serving a
+thousand people and losing a paper or two then serving five people a day and
+that's it right and so there's this idea like we could be waiting or we could be
+just doing our business and hitting each door and moving on to the next one now
+javascript as a language is single threaded
+and it is synchronous aka can only do one thing at a time and so it has to wait
+it's going to do one thing and it has to wait until that thing is done and then
+
+00:29
+it moves on to the next thing by single thread it i mean that there is
+only one newspaper delivery person on this route right we could have a
+language that waits and we could fix the problem by having multiple papal
+delivery people running around the neighborhood but javascript's not like that
+javascript is synchronous meaning it blocks like it waits for the person to
+come get the newspaper before it moves on to the next house and it's single
+thread it means there there's only one paper delivery person
+right we could eventually have languages that are multi-threaded where we have a
+bunch of newspaper delivery folks but javascript's not like that
+right so we have one paper delivery person and they're synchronous meaning
+they wait and so that makes javascript maybe not the best language ever but
+it also raises a lot of questions or maybe it makes it a great language
+
+00:30
+we're going to figure that out so if javascript is synchronous
+right meaning that it has to wait before moving on to the next thing that it
+wants to do right has to wait for it to move on to the
+next thing that we wanted to do how do we do stuff like make api requests
+or how do we do stuff and then keep scrolling
+right how do we keep clicking like it just seems like this language would just
+hold us back right like if if we are on instagram and we like a photo we
+can immediately start scrolling but you're like leon you just told me
+that javascript is synchronous it's single threaded meaning that we have to
+wait we have to wait for us to like the photo for all that stuff
+to happen before we can keep scrolling but that's that's not our experience
+when we're using javascript when we click on stuff we can still do other
+
+00:31
+stuff in the browser it's not it's not waiting we're we're we're not
+we're not seeing that we're not seeing what javascript should be doing right we
+know that javascript is single threaded it's synchronous it should have to wait
+for something to finish before it does the next thing
+jason derulo hey thank you for the gift it subs thank you for being here so
+if javascript is single threaded if it is synchronous
+how do we do all this stuff that we're just so used to doing in the browser
+click events uh fancy stuff in the dom like how are we able to do all this
+stuff and not just have to sit there waiting counting our time before we move
+on to the next thing well things should block we should have to wait
+but they don't because of the environment in which we are running javascript
+javascript is single threaded it should block it is synchronous it
+
+00:32
+should have to wait for one thing to finish before moving on to the next one
+but because of the environment in which we run javascript we don't have to
+and so when i say the environment i don't i don't mean like this like the earth
+i mean this yeah baby this is what i'm talking about take a look
+talking about the browser baby exactly our javascript is running in the browser
+and since it is running in the browser we get to do some stuff that javascript
+on its own would not be able to do javascript is single threaded it is
+synchronous it should block but since we're running it in the environment that
+is our browser like chrome firefox safari since that's where we're running
+
+00:33
+it we get to do a lot of stuff that we shouldn't be able to do
+our js is running in the browser and since it's running in the browser
+the browser gives us a bunch of apis right it gives us a bunch of simple
+interfaces that we can use to do really complex stuff
+right the browser gives us a bunch of apis that we can use that are asynchronous
+and that can enable us to keep looking at our cute cat photos while certain
+operations are being processed asynchronously so
+javascript is not an asynchronous language but it gives us when we run it
+in the browser we get access to some apis and the browser apis can do all that
+asynchronous stuff just to be clear it is not javascript doing this stuff
+we are making the request that the browser do this stuff that javascript
+
+00:34
+can't do so you're saying leon the browser gives us some apis
+uh let's look at some of these common browser apis and this is something i did
+maybe 10 years ago and i was like all right so hold on wait a
+minute all right hold on hold on so javascript is single threaded it's
+synchronous it should block it shouldn't
+be able to do anything like we shouldn't be able to like
+click on something and then immediately start scrolling we should have to wait
+for that click to finish and then start moving so you're telling me that
+javascript can't do that by itself but since it's running in the browser
+it gets access to a bunch of apis and those apis are going to do all the
+heavy lifting for us tell me about these apis
+tell me tell me what tell me what what what the browser can do for us and so
+
+00:35
+we can look at this huge list of web apis that since we're running javascript
+in the browser we get access gotta clean my glasses real quick hold on
+y'all see that y'all see that did you see it
+because something happened and i'm not i'm not feeling too good about it
+
+00:36
+let's take a look hold on dom well i gotta turn on my demo pro here hmm
+all right hold on leon hold on hold on hold on wait wait wait wait hold on so
+javascript single threaded synchronous should block
+it's able to do some stuff because we're running it in the browser because the
+browser gives us access to some web apis and the web apis do all the heavy
+lifting for us one of the apis we have access to is the dom
+the document object model and so when i read that in the list
+i had to go look this up i'm like wait a minute the dom is an api
+and then i read i believe this this is like on stack overflow from like 10
+years ago this is what i read because i i saw that on the list i'm
+like wait a minute i've been using the dom the whole time i've been writing
+javascript what do you mean that it's a it's a web api
+
+00:37
+hold on so i read this on stack overflow like 10 years ago
+the dom okay the document object model is essentially the api one uses to
+manipulate an html document usually using javascript usually
+excuse me he got got we got hold on i gotta read this again the dom
+is essentially the api one uses to manipulate an html document
+usually using javascript okay so this means that the dom
+is something that the browser gives us access to javascript
+
+00:38
+doesn't have the ability to access the dom on its own
+the browser is the thing that enables us to access the dom
+which means that technically the browser could
+give any language the ability to access the dom and it kind of happened
+if you went back to the beginning of the browser wars netscape navigator created
+javascript well the person that was that
+there were javascript and then microsoft
+was like screw that we're going to write i think it was like jscript or
+livescript something like that and then firefox was like nah we can't do this we
+gotta have like one like unified thing and then they came in to like and then
+we had the browser wars and eventually after this huge hot mess we had the
+ecmascript council and the aquascript council's like hold on this internet
+thing is getting away from us all of our browsers need to be on the
+same page we need to be exposing the same apis so that when folks are writing
+
+00:39
+javascript it works in the different browsers because the dom
+is not something that comes with javascript
+i literally remember screaming like what
+the [&nbsp;__&nbsp;] it's like this was like
+starting to like make sense in my brain i just remember like saying like what
+the [&nbsp;__&nbsp;] like i was just i was i'd push and so i was like all right
+document.queryselector right document.queryselector is not javascript
+if we look at like javascript like the language and we look at the
+language and everything that it comes with
+
+00:40
+query select there's nowhere to be found we only get access to the dom and the
+document and all the methods that are associated with it like query selector
+query selector all because we are running our javascript in the browser
+if our javascript was not running in the browser we wouldn't have access to dom
+document query selector all of that stuff has nothing to do with javascript
+it's because we are running our javascript in the browser that we get
+access to all those goodies so yeah javascript can do a lot of the blocking
+
+00:41
+stuff because the browser is handling all handing all that blocking stuff right
+it's handing all that stuff over to the browser
+right it can do all this blocking stuff because it's handing it off to the
+browser and the browser it makes sense because the browser is a com is a
+program that's running on our computer right the browser is a program running
+on a computer it can access our cpu maybe access our gpu right it can be
+multithreaded it can do all this wonderful stuff so we're handing
+these asynchronous tasks off to the browser via web apis right
+they're doing their thing and eventually they're going to [Music] respond
+and so this is where we get into a little bit of a sticky situation javascript
+is single threaded it is a synchronous language it should block
+
+00:42
+but we just found out the reason why we're able to do all these asynchronous
+things like click and not have to sit there and wait for a minute before we
+get our response to move on is because we're handing off all that
+asynchronous stuff to the browser the browser does all those asynchronous
+stuff things for us javascript keeps running we're handing off all that
+asynchronous stuff to the browser and eventually that browser has to respond
+with the stuff and so the way that we handle the responses that come back
+as the result of these web apis are things called callbacks
+promises and eventually async await now there's a lot of other really more
+complicated stuff at play here there's things called a call stack there's
+callback queue web api event loop like the stuff that really makes this happen
+but we're gonna save that for tuesday we'll save all that for tuesday right
+
+00:43
+there's mechanisms for how this works that's all this like fancy stuff we'll
+save that for tuesday cool so we're gonna see some of this in
+practice by delivering some papers but let's just go back a quick second here
+javascript is running in a browser which means it gets access to a bunch of
+these web apis things like the dom and all the other crap that we see here
+that the browser can do for us so javascript tries to do something
+and it just hands it off to the browser and keeps running because it's single
+threaded and synchronous so javascript will keep running
+handing off all this stuff to the browser the browser does all this stuff
+for us and eventually responds so for us to understand how javascript
+is running in the browser we have to understand how we're handing off these
+
+00:44
+requests and getting responses it's just like any api that we've done before
+where we've made a request and got a response but instead of it going to the
+dog ceo api or instead of it going to the cocktail database api it's going to
+the api that the browser has we're making a request to the browser the
+browser's doing some stuff for us and we're getting a response back
+so why do we need javascript because it's the programming language
+that we're using to do all these things it just so happens that we can hand off
+a lot of the heavy lifting for certain things to the browser we still need
+functions variables loops conditionals we still need a language to have some
+sort of inheritance model like prototype
+inheritance we still need all that stuff to do the heavy lifting it's just that
+javascript is a language that by itself is single-threaded
+synchronous and can't do a lot of the things that we just think are actually
+
+00:45
+javascript they're not they're actually javascript running in the environment
+that is called the browser which might lead you to start thinking
+about something further down the line here some things might might start
+clicking for you right but we'll get there in time cool
+so javascript running in the environment that is the browser
+since we're running javascript in the browser we get access to a bunch of
+these web apis we just saw that the dom
+is one of those web apis what the [&nbsp;__&nbsp;] what the [&nbsp;__&nbsp;]
+there is no such thing as document.queryselect like in the
+language that is javascript we only get access to that since we are running it
+in the browser yeah and different said front-end
+functionality these apis are still syntactically javascript they're just
+
+00:46
+not native to the spec exactly they're they're not like part of the core
+language all right and you give me some freedom here give
+me some freedom here right brain is broken i'm tripping i hope so
+so we saw that document.queryselector is
+just a web api it's not actually part of the javascript language
+oh and it always has been i feel disrespected
+so js can do a lot of this blocking stuff that is a language it shouldn't be
+able to do because we're handing that off to the browser we're like making
+these web api requests to the browser and the browser's like i got you and
+they're going to do all this stuff for us now we talked about this idea that um
+we said that that is usually using javascript right
+
+00:47
+and in the beginning we talked about this idea that well wait a minute usually
+so that means other folks have tried or can still and they still try to stay
+use other languages to run in the browser to get access to the dom the
+ecosystem is just so mature that a lot of times it's just not fast enough but
+there are some things that are coming down the pipeline now web assembly stuff
+like that it's just it's always been a speed thing you can write python that
+interacts with the dom it's just not as fast things like pi scripts stuff like
+that um it's just not it's just not as fast we
+were built to work with javascript in the browser it'll take a long time
+before it kind of catches up um cool so we're saying usually but this
+actually i this is one of my favorite things
+right it's one of my favorite things that um [Music]
+that like when it started to click for me i made sense so back in the day
+
+00:48
+you go back 10 years we didn't actually write javascript we wrote something else
+like it was the really popular thing to write we didn't write javascript we
+wrote something else anybody know yeah we wrote jquery wrote jquery and jquery
+provided one really important thing does
+anyone know what jquery actually gave us anybody know
+it gave us cross browser compatibility you could write your javascript once
+and it would work in all the different browsers so that leads to a question
+why would the javascript i write run differently in each browser
+
+00:49
+why would the javascript i write run differently in each browser
+different apis each browser was giving us different apis so the javascript that
+we wrote it might work in one browser but the api might behave differently in
+a different one or they might not give it to us at all and so
+we were trying to write javascript but javascript only works because it was
+running in the browser but if the browser was different it might implement
+javascript in a different way it might not give you access to the things that
+you need it and so we had jquery jquery came in and saved the day you would
+write javascript once and it would work across all of the browsers right
+but now we have the ecmascript council right books came together we had folks
+
+00:50
+that set up a better standards a web standard that we got all the different
+browsers to agree to all the different companies to come together and say all
+right here's how we're going to implement javascript in the browser here
+are the core web apis that we're all going to agree to and that's why we
+don't really need jquery anymore we don't need jquery to figure out how to
+take the javascript we wrote and make it
+work within all the browsers because all the browsers kind of play well and nice
+together they kind of all agree to this standard
+right and so as all the companies came together as all the browsers came
+together as the ecmascript console kind of matured we don't really need jquery
+anymore because the biggest thing it gave us was cross browser compatibility
+and maybe a slightly simpler syntax and so yes now that's where es6 comes
+from ecmascript 2015 2016 forward is where we start to see all the browsers
+really really starting to play nice all kind of taking the same javascript
+
+00:51
+and making it run well with their web apis and so it really did change the
+game but i hope that you understand that all right javascript is a language
+it's running in the browser and since it's running in the browser it gets
+access to all these web apis and back in the day different browsers gave you
+different apis or they did things differently or they just weren't the
+same and so the javascript you would write would break across all these
+different languages so we had jquery jquery was written to figure out how to
+handle all these exceptions in all the different browsers and it made your life
+a lot easier but now that all the browsers kind of are working together we
+have a set of standard apis that they're all working with we get the ability for
+us to write javascript once and to work in all the browsers
+so we can make our own dom well if you started your own browser
+you could create your own dom api that would handle things
+differently you could do that yeah why do we still use jquery then i don't
+
+00:52
+think really too many people still do i think maybe there's a lot of legacy code
+that might use it um but it's redundant exactly it's redundant now we we don't
+need it for the cross browser compatibility anymore so like one of the
+biggest things it gave us is no really longer like necessary cool all right so
+we have this idea that javascript which is normally a blocking language is
+handing off all these important requests to the browser
+but eventually the browser needs to respond back to javascript so we can use
+the responses and so what do we do to listen for those
+responses like what what what are the tools we can use so that as these web
+apis respond we can do stuff and so that's going to take us through
+
+00:53
+callbacks it's going to take us through promises and eventually the newer async
+awaits syntax so when we come back from break
+we're going to jump into delivering some
+more papers i'm going to give you really clear examples on callbacks promises
+async await we're going to talk about all these wonderful things that enable
+us to hand stuff off to the web apis that enable us to get responses make
+javascript run in the browser we're gonna get really comfortable with that
+and then we're gonna take ourselves to the back end
+oh boy i hope your mind's blown a little bit
+i hope that you like the idea that like document and query selector aren't
+actually javascript they're web apis i hope that just like ruptured your mind
+for a bit we'll be back in five minutes if you're
+new around these parts we love to take breaks at the top of the hour
+we're here to be uh we're here for the long haul folks if you're able get up
+move around hydrate walk the dogs kiss some babies stretch
+look out the the window let your eyes focus on something that's not the screen
+
+00:54
+and we'll be back in five folks really excited to kind of jump into these call
+
+00:55
+
+00:56
+
+00:58
+backs promises async await and then a sweet sweet sweet back end baby do [Music]
+arts welcome you can do exclamation point 100 dabs to learn everything about
+the boot camp uh we do have a two plus extension on the timer and a hydrate
+oh snap thank you for the hydration and we gotta add two minutes to the timer
+i didn't see it as this goes to zero we'll add two more minutes
+
+00:59
+thank you android thank you snap all right we're adding two more minutes
+android x117 added two minutes to the timer more time to help my brand a
+in different this is one of my favorite classes too
+thank you for saying that yes i think this is up there this is top three for me
+so much amazing content do you wish you were creating in the error of the blog
+
+01:00
+when it was all searchable and easier to access nah my goal is to get folks jobs
+i think this is the ideal format for that i think there's plenty of like
+books or tutorials you can read i think there's something really important about
+being like live with a cohort of other folks is there self-study community
+studying right i think that's uh i think that's really important so i
+think i think it's the right time it's the right moment
+i do wish i was better at like making the content into other content i still
+have time for it the grind is really creeped from getting
+burnt out i plan out my days i plan in leisure time planning time with my wife
+yeah i make sure i don't go in my weeks like an accident really does help with
+
+01:01
+burnout i take breaks when i need it [Music]
+all right folks come on back come on back does your wife know that dom is in
+javascript get that to ourselves all right folks come on back
+thank you android for the the two minute extension while needed we'll need it
+all right that's awesome cd glad you liked it
+alrighty so we talked about this idea that we're handing off all the heavy
+stuff to the browser but eventually the browser needs to like
+return with the with like the response right like we tell it to go do all this
+
+01:02
+fancy stuff we need to get the response back
+right and so let's talk about how we can handle responses
+by delivering some papers so i have in today's starter code if you
+need the starter code of course always on our discord follow materials channel
+you'll see it i have this lovely starter code here inside of the of the
+async practice this is what i'm going to be using to
+run stuff in the browser and so i'm just going to go ahead and uncomment it
+you can just copy and paste from the from the slides if you want you can just
+watch me there's no need for you to like type along with this i'm just trying to
+show you some really interesting tidbits here so
+i'm gonna uncomment this and then i'm gonna open this in my browser
+so that i have this open and i'm just going to keep
+using this file that's open in the browser all right so
+
+01:03
+we can see in the slides that we have a traditional
+a traditional kind of three functions each function console logs
+console logs console logs and then we call each function house one house two
+house three if we open up the browser here we look in the console
+we see what we expect right we see what we expect
+paper delivered to house one paper delivered the house two paper delivered
+to house three that seems pretty standard because
+we know that javascript is a synchronous
+language it's going to run this function then this function
+and then this function and we're going to go on with our lives
+
+01:04
+right pretty standard functions now let's use a web api like set timeout
+that's right folks i said it right let's use a web api like set timeout
+set timeout and set interval are not part of the javascript specification
+it's just that most environments include them like pretty much every browser and
+node so set timeout set interval actually aren't part of javascript
+we only have access to them because we're running it in the browser and this
+makes sense this makes sense if javascript is synchronous if it is blocking
+how could it have set timeout or set interval that kind of like wait
+some time and then do something right like how this it's just not
+
+01:05
+possible with the way javascript is built as a language
+it has to be a web api we have to hand that off to someone something else right
+like it has to it's just not something that's built into javascript
+it's just the language can't support that but since we're running javascript in
+the browser the environment where we're running it gives us access to it
+blocking it just means that we we have to wait until everything finishes before
+moving on to the next thing right so like when we were the newspaper
+delivery person we threw the the paper at the door and we waited for the person
+to pick up the paper and go back inside that's blocking javascript blocks
+whatever it does it has to wait until it's done before it moves on to the next
+thing so something like set timeout or set interval can't exist in javascript
+
+01:06
+because javascript can't wait it has to keep moving right cool you got me
+this is live footage of me figuring out right of me figuring out
+that set timeouts at interval are actually not part of javascript cool
+so let's let's get a little funky with it so here's another set of code here we
+have the house one that looks normal we delivered to house one house two is a
+little bit different we have a set timeout that's gonna wait three seconds
+right it's gonna wait three seconds and then we have our house three which
+is console log house three so if we run house one house two house three what do
+we expect to happen like what do we expect to see
+in the browser what's your guess like what are we gonna see in the in what
+order are we gonna see the houses all right let's go ahead and run that so
+
+01:07
+i'm going to go ahead and go to my javascript here i'm going to comment out
+the old code here and i'm going to uncomment the next the next batch
+all right so here we go we can see that the second house two has a set timeout
+where wait three seconds house one house two house three let's go back to our
+browser and refresh it all right we see house one run house
+three run and then after three seconds we see house two pop up and that makes
+sense right we know that house one's gonna run
+automatically super it's gonna run we know that house two has a set timeout
+that it's gonna take three seconds but this javascript wait hell no it moves
+right on to house three so we had one three two now
+let's try something a little bit more funky let's go ahead
+
+01:08
+and reduce the set timeout from three three seconds to zero seconds here we
+were saying wait three seconds so it makes sense that it went one three two
+but when we get rid of the weight what do we expect what's the order
+we got rid of the weight why we're not gonna wait anymore we got rid of the
+weight let's go ahead and run it we're gonna get rid of the weight
+we're gonna get rid of the weight we're gonna change it from 3000 to zero
+we're gonna save it and we're gonna refresh what hold on did i save it
+i saved it there's no longer a wait folks we went from three seconds to zero
+
+01:09
+seconds i'm refreshing one three two gotti so hold on let's think about this
+with a three second wait we had the same result one three two
+as with a no weight there's no weight here but we still got one three two
+why why why did we get got why did we get why did we get got
+set timeout gets handed off to the what that time gets handed set timeout gets
+handed off to what yeah it's a browser api so that that
+
+01:10
+request even though it's no way it's zero seconds it still gets handed off to
+the browser and then what does javascript keep doing i do like the chris farley
+right what does javascript keep doing i hate it
+it just keeps on trucking folks right it doesn't care
+handing off the browser boom gonna keep going kool-aid man right like it just
+doesn't matter so we have the lovely house one that gets console logged we
+hand this off to the browser and javascript's like choo choo and just
+keeps going immediately goes to to run house three so we see three
+and then eventually eventually the browser responds the browser api responds
+
+01:11
+right and so that's why right that's why even though there is no wait
+there is still the handing off of the set timeout to the browser
+of which javascript does not wait for it just keeps moving so that's why we do
+one three and then eventually the browser responds and we see two
+because even though it's zero weight there's still some time that it takes to
+go to the browser and back javascript just tossed the paper and ran exactly
+now the reason or the mechanism behind this and like how this works is
+something called the event loop and so we're going to get to that well i forgot
+to change this to tuesday so on tuesday we're going to see right
+we're going to see that on tuesday how the event loop
+
+01:12
+handles all of these events right we handed off this set timeout this api
+request we hand this off to something called the event loop and that has to
+run and eventually respond right and so what i want to spend some
+time tonight talking about is how do we handle those responses
+what if it's payday and i want to get paid by each house
+before moving on to the next one right i want to get paid by each house
+before moving on to the next one so we know that javascript don't want to wait
+we just saw that javascript was like choo choo blew right past it
+right went right on to the next house i want to be able to wait and make sure
+i get it's payday i want to make sure i'm getting paid by each house
+
+01:13
+right before i move on to the next one so how can i wait well
+i only want to move on to the third house
+after the second house has paid me and i only want to move on from the first
+house i mean i only moved on to the second house after the first house just
+paid me i'm gonna get paid by the first house then the second house and then the
+third house and so on right so the real world would be like i don't
+want to keep running my code until i get the response back from my api
+right like we're talking about getting paid you're like well you know like
+we're talking about getting paid but what i really the real world would be is
+like all right i want to make a request to an api
+and then i want to run some code after i get the response back
+i don't want the code to run until i get the response back
+right that would suck like if we if we didn't get the response back from the
+api we try to run the code our code would just never work it's like it's
+
+01:14
+like when you make a click event but you put the get the value out of the
+input outside of the click event so when you go to click on it the value is
+always empty because you just you just move too quickly right same thing's
+happening here where we want our code to take its time we want to get responses
+back before we move on but we know javascript
+don't play like that so we need some things that help us do that cool
+the thing that we used to do this the old school way were called callbacks
+callbacks were how we could wait for a response and then do something else right
+way back in the day we would use callbacks that would enable us to wait
+for something to happen and then do something else right there'll be so many
+things that we want to hear back from the web apis right and
+then do something and so the way we did this was with callbacks cool now
+to understand how callbacks work and for all of this we have to understand that
+
+01:15
+javascript does actually enable us to do something pretty neat
+in javascript you can have a function that takes another function as an argument
+say one more time you can have a function that takes another function
+as an argument and we call that a higher order function
+a function that takes another function as an argument is called a higher order
+function now you have seen this a bajillion times right
+you've seen this a bajillion times you have seen
+every single person here that's been caught up with javascript has done ad
+
+01:16
+event listener and in ad event listener we had a method or a function right
+that took in another function as an argument
+so here's at event listener which is our function it took in two arguments it
+took in a click as an argument and it took in another
+function as an argument and what would happen
+is that once this function ran it would eventually run this function as well
+so add event listener is a higher order function
+you've seen this bazillion times all a high order function is a function that
+takes another function as an argument now what do we call that argument that's
+being passed in what do we call that function that's being passed in well the
+function that we call the function that's being passed in we call it a callback
+so all the callback is is the function that has been passed in
+
+01:17
+as the argument in a higher order function you've seen this a bazillion times
+you've been using higher order functions here's add event listener it takes in a
+function that function that we took in as the argument we call that a call back
+so higher order functions just a function that takes in a function the
+function that gets taken in we call that a callback
+now callbacks really aren't a thing like it's just a convention it's like i
+think it's like it's like a thing that we do in javascript but it's not really
+like it's not really like something it's just a convention cool
+so let's get paid and now that we understand that there are something called
+callbacks where callbacks can enable us to wait until we get a response
+let's see them in action i want to show you callbacks and how callbacks enable
+our javascript to wait and get a response and then do stuff
+
+01:18
+right because remember we're trying to use javascript which is a blocking
+language that is synchronous that we want to do all this stuff and not wait
+while callbacks enabled us to actually wait before we did other stuff because i
+want to get paid i want to get paid by the first house
+and then the second house and then the third house and i ain't moving on until
+i get paid all right so here is a way that we could make this
+happen here is my house1 function and then i am calling my house 2 function
+and you see that house 2 takes in house 3. without really having to dig too deep
+what does that make house 2 yeah that makes house 2 a higher order function
+
+01:19
+and that makes house 3 a what a callback exactly so house 2 is our
+higher order function here and house 3 is our callback
+now some cool stuff's going to happen here here we have
+the same set timeout that we saw before we had the same set timeout that we saw
+before that's going to wait three seconds
+so if we're calling house one then house two and house three
+we would expect to still see that one three and then the two
+but because we are using a callback we should still see one two three so
+let's see it and then we'll explain why let's go back and take a look i'm going
+to i'm going to comment out my old code i'm going to move on to the next example
+
+01:20
+here we have our lovely callback example here i'm going to go ahead and save it
+and then we're going to run it and make sure it actually works refresh boom one
+we wait the three seconds house two house three let me show that again let
+me show that again i'm gonna show it because it's really important that you
+see it it's gonna refresh house one instantly three seconds later
+house two and then house three one more time one more time then we're
+gonna look at the code house one instantly then three seconds two three
+so before we saw our code jumping one three two when we had the
+set timeout but now we are still able to have the set timeout but wait before we
+move on to the third house so let's take a look at how that's actually happening
+so here we have our normal house1 function so there's no guessing about
+that we call it it console logs house one then we're gonna run our house to
+
+01:21
+function but we're passing in house 3 as an argument
+so when we pass in house 3 as an argument it gets passed in
+wherever we see callback that's no longer call back that's just house three
+right we've passed house three in as a function that we're passing in
+so whenever we see callback it's actually house three so if we run this
+if we run this house one runs like normal we see uh
+delivered the house one in the console then house two runs
+and house two has a set timeout where we wait three seconds
+we wait three seconds and then we console log
+house 2 delivered and then what do we immediately do after we console log
+
+01:22
+house 2. after we console log house 2 what do we immediately do
+we run the callback in this case we run house three we run house three so
+if we watch this house one runs like normal we see that first console log
+then house two runs like normal but we did pass something in
+we did pass something in as a as an argument here
+so house when we saw printed to the cons like normal after three seconds
+house two prints to the console and then finally
+the callback runs we can see that it's running because it has the parentheses
+there and then once that callback runs we're really running house 3.
+then we would see paper delivered to house three in the console
+
+01:23
+so we can still have our set timeout but have a way of waiting before we move
+on to the next house let's see it and then we'll explain it one more time
+so let's refresh house one instantly wait three seconds house two house three
+right so if we look at it we ran house one
+that's normal we get the console logged over to house three but now we don't
+want to move on to the third house until we get paid from the second we know the
+second house they take their time they're always slow getting their wallet
+out they always take some time to get me
+the money they always want to talk about what they have for breakfast they want
+to tell me about the flowers that they planted right they just take forever so
+i can't move on to the third house right until i get paid from the second but
+
+01:24
+javascript doesn't like doing that right javascript doesn't like doing that
+javascript wants to keep on trucking and keep on moving so how do we use set
+timeout and wait well we have a callback so here we run our house to just like
+normal and we pass in our call back function
+so when house two runs right when we run this function house two runs the set
+timeout does its thing it takes a full three seconds
+right does a full three seconds once the set timeout is done
+it console logs house two and then it triggers the callback
+all right and then it triggers the callback boom now the funny thing is
+
+01:25
+you have seen this so many times one of the most common questions i get
+i'm going to comment this out one of the most common questions i get
+is when we do something like this dot query selector let's always do that
+pre-selector uh button and we do add event listener click and then bob
+then down here we have our function called bob the question i always get is leon
+why are we not putting parentheses right here right why aren't we doing
+parentheses bob that's how we call functions right that's how we call functions
+
+01:26
+right but no this would invoke it immediately bob would run and
+it wouldn't wait for the click it's a callback and we don't need the
+parentheses because somewhere in our code is something that looks like this
+somewhere in our code is this idea that we're passing in bob as a callback and
+somewhere in the code we're going to run bob after the event has triggered
+right we don't see it because we didn't actually write add event listener
+but somewhere in ad event listeners code is the running or the executing of the
+callback we can put our smurf on the block and
+they're they're chilling all day on the block but once they hear the click
+the callback fires how do we sit there waiting all day long
+is because the callback right we can't we can't put the
+
+01:27
+parentheses here because it wouldn't wait bob would execute immediately
+right it would happen immediately but since we know that somewhere deep in the
+ad event listener code is a callback we know that once the click is heard
+there's going to be somewhere where the callback gets executed
+we just don't see it because we didn't write at event listener but that's
+something that's built into cool so that's callbacks callbacks enable us
+to actually wait callbacks enable us to to to be able
+to have things get handed off to the web apis
+wait for those web apis to come back and then do something
+the the problem however that we're going to see very quickly is
+that callbacks can kind of get out of hand let's see let's see callbacks
+
+01:28
+getting out of hand all right we saw that our callback fired when the
+async task or the other function was done so we waited for the set timeout to
+finish and then the callback fired right we're able to do
+those asynchronous stuff that's being handed off to the browser that request
+that set time off got handed off to the browser remember javascript is running
+in the environment that is the browser we handed that request off to the
+browser the browser did its thing once we got the response
+then the callback fired so we were able to do all of this asynchronous stuff
+with a language that is not asynchronous because we had callbacks cool
+so let's get paid by everyone i want to get paid by house one then move on the
+house two get paid then move on the house three get paid and so i want to go
+
+01:29
+ahead right i want to go ahead i want to go ahead and get paid by each
+person i want to get paid by house one then move on house two then get move on
+the house three and so i simplified the syntax a little bit here um instead of
+having to do like the the calling of the set timeout i
+just nested each of my set timeouts so what we're going to notice here
+is that we have our route set timeout in house one and then after five seconds
+we'll see the console log and then we have a nested callback
+this this set timeout will run right because it's nested and then once
+that four seconds is up we'll have this other nested callback
+it'll run after three seconds and so we're just gonna we're just to simplify
+the syntax a little bit here instead of having to do like function passing
+callback we could just nest our callbacks as well
+and this this works we can run this code so let's go ahead and run it just so we
+
+01:30
+can see it boom go over here and run it and we'll wait we'll wait the five
+seconds house one then we'll wait the four seconds house two then we'll
+wait the three seconds house three right and so
+it's a simplified callback it's still the same idea like still the same idea
+but we're just nesting them and i'm this is for examples i'm not teaching you
+like how to use callbacks i'm just showing you examples here right and so
+we nested our callbacks it's working however uh this creates a very
+very hard to read bit of code right callbacks are great we can wait
+we can do asynchronous stuff we can take our time right we could take our time
+and then once once stuff happens we do the next thing but um this is
+
+01:31
+this is hard to read this is hard for like us to work with
+other developers on and we refer to this passionately as call back hell
+this is called the pyramid of doom right as you start nesting all your
+callbacks and this is what we did like this works this is if we were waiting
+for asynchronous stuff to happen and then we wanted to wait like in back in
+the day this is what we had to do we built out this pyramid of doom it was
+horrible it was disgusting we referred to it as call back hell but it worked
+but we're in hell so what if there was a more readable way to handle
+asynchronous code we know that we're going to handle so much asynchronous
+code so much stuff is getting handed off to the browser the browser is going to
+do its thing and then respond we need to
+be able to handle all of these responses
+
+01:32
+the only mechanism that we've learned so far that can handle these responses is
+literally called the pyramid of doom or passionately referred to as callback
+hell and this is what developers used for years
+they were like quirks and features like to try and like fix it
+but you still kind of often ran into callback hell
+and so as we were rethinking the newer versions of javascript we said wait a
+minute what if there was a more readable way to handle our asynchronous code
+what if there could be a promise of a better future
+and that's when we got promises so with the newer versions of javascript
+we got this idea called a promise and a promise revolutionized the way that we
+handle the responses from all these asynchronous tasks
+pretty much everything underneath the hood now in terms of what these web apis
+respond with are something called promises and promise is like a really
+
+01:33
+weird thing to understand at first but i'm going to try my best to break it down
+um so all the web apis use promises so we have to get comfortable with them
+and a promise is simply an object that represents the eventual completion
+or failure of an asynchronous operation and its value
+simply it's an object that may have a value in the future that's it
+it's an object that may have a value in the feature that feature that's it
+just an object we all know what an object is we know objects come with
+properties and methods and there may be some values tied to that object
+like a placeholder exactly like a placeholder right like a placeholder
+kind of thing but in javascript we only have so many different types of data
+
+01:34
+structures so it's an object that may have a value later on
+and the cool thing is if it's an object our object can have
+properties and methods and things tied to it
+and the cool thing about promises is that there are three states pending
+fulfilled and rejected remember we're talking
+about an asynchronous task something that was handed off to the browser
+we're letting the browser do and the browser responds with a promise
+that promise can have three states pending fulfilled and rejected
+so what i wanted to talk about is kind of seeing
+these kind of three states the pending the fulfilled the um the rejected
+cool let's go ahead i'm going to take a look at some code here
+
+01:35
+let me comment this out [Music] all right here we go all i'm right
+all right cool all right i show the order here all right let's take a look
+at this here i have some new code you can see that this code is giving me
+a promise and i'm going to console.log the promise
+and then i got some funky stuff down here that we're not ready for
+all right so let's take a look at this let's save let's open it in the browser
+let's take a picot to what's happening here all right
+we have a promise that we console logged and we can see that it has a what what
+is fulfilled here we kind of look at it fulfilled kind of looks like a what
+
+01:36
+kind of looks like a property right remember i told you a promise is
+just an object and it can have these different states right pending
+right we have pending fulfilled rejected right can have these three states so
+promise is really just an object and so we're looking at it here when we console
+log this new promise look at it what does where have we seen this new problem
+where have we seen this before this is just a what it's just a class
+exactly it's just a class so it's a class that's doing some heavy lifting
+for us we didn't write it right we didn't write it but it's
+something that's built into javascript now that's been written for us and so
+the cool thing is we can have a promise right we can have a promise
+
+01:37
+that has the ability to resolve or be rejected or be pending right and so
+here is me building out a promise that has the ability to resolve or be rejected
+and so right now i have set an error equal to false
+right so there's no error so there's no error we expect our promise to resolve
+and be fulfilled so when we look at it here we can see
+that the promise that we console log has been fulfilled
+and we wind up seeing something console logged here
+saying the promise has been fulfilled so a promise is just an object
+that may have a value in the future and it can have these three states fulfilled
+right we have these three states let's take a look at them
+
+01:38
+pending fulfilled or rejected and so while i'm waiting for the promise to
+resolve or be rejected it's pending which means that if javascript needs
+something right away think about how javascript runs
+does javascript wait for anything javascript never waits
+but what if it immediately had an object what if it immediately had an object
+that was pending and eventually that object became fulfilled or rejected
+right so it gets the object right away but that fulfilled or rejected can take
+its time right it can take its time and when we build out our promises
+we build them out so they can resolve or reject and if we look
+i'm going to comment out this console lock here because we don't need to see
+
+01:39
+it but we have the promise and then we have these two other values the then
+and catch then and catch look like what they are what we've we've learned about
+objects we know what they are what are they they're methods so
+when a promise resolves right when a promise resolves and it is fulfilled
+there's no rejection right what method do you think fires then fires beautiful
+and if something goes wrong if is a rejection if something is wrong
+
+01:40
+the promise is is rejected what do you think fires the catch
+exactly so we have this idea of a promise which is an object that can have
+a value in the future and the cool thing is as these promises resolve
+we can trigger a then or we can trigger a catch let's take a look at that
+the then is a method on a promise that runs after the promise has resolved
+right that's all you need to know we can go deeper on it but for now
+all that then is is a method that runs after the promise has resolved that's it
+that's all we need to worry about and the cool thing is is that when the promise
+right when the promise when that when that promise resolves and the then runs
+
+01:41
+we're passing a value we're passing a value in as an argument
+so as it resolves we can pass in that resolving as
+data that's being passed into the then and so when we look at our code we see
+this we see that we have the ability to resolve or reject and here's what we're
+passing in with the resolve at this point we're just passing like some text
+in and so when we go to console log our data what are we going to console log
+what's the data that's being passed in if this promise resolves
+right now as it stands the text exactly that string promise has been fulfilled
+but if something was to go wrong and for some reason this was to be rejected
+maybe like if we changed our conditional to true
+
+01:42
+right so now there is an error so this if won't run we'll have an else if we
+were to save that and go back to our code we got the error operation is filed
+on line 72. hold on error operation has failed line 72 line 72 is our what
+our catch since it did not resolve it was rejected the catch fired
+so then when it resolves catches when it's rejected and we can
+see that here with just a very very very simple
+promise our promises get way more complex but this very simple one can see
+if it resolves well we get the then and if it is rejected we get the catch cool
+
+01:43
+now you have all seen this before people freak out when promises come on the
+table we all lose our mind we start running around the room leon what are
+you showing me i don't get it come on now we've all seen this before
+you all have been using promises whether you knew it or not ah you got got cool
+with apis fetch is an api that returns a what
+fetch is an api that returns a what the promise yeah now
+
+01:44
+does javascript have the ability to fetch no fetch is uh oh fetch is uh
+what is fetch the web api it's part of the browser
+right it's part of the browser and what did we just say
+pretty much all of these browser web apis return what do they all return
+promises baby yeah that's right that's right you got got that's right oh
+you feel that i did oh so hold on so fetch is a web api
+we know that all the web apis return promises
+
+01:45
+and so then that makes sense this whole time when we saw these dens and these
+catches we were just resolving or rejecting our promises
+if the promises resolved we took the response we got
+and then the then fired and the cool thing about these dens is that they just
+chain so the first then would run once that resolved well the next den
+would would fire if something went wrong the catch would fire
+right so the idea here is that we've already used this we've been using promises
+this whole time we've been seeing them resolve or get
+rejected now we're just learning the language behind it and the reason why we
+need this is because fetches take time javascript can't wait
+javascript says hey oh give me the object and we'll keep going
+
+01:46
+and eventually that object has a value eventually the promise returns right the
+promised resolve sorry and once the promise resolves our then triggers and
+then our then triggers if something was to go wrong right so much stuff
+so much stuff can go wrong when we make a fetch
+so much stuff could go wrong the server could break the server could be down
+it could reject our request maybe maybe we had too many people requesting from
+that api and they started blocking us right so the promise
+returns the promise resolves and as the promise resolves it also has a value
+and that value gets passed in right wherever you see res typically that's the
+the value that's being passed in as the as it resolves and the then method is
+fired we're passing in the data that came along with that resolution as well
+we saw it here here we were just passing
+in like a string but with with the fetch what are we probably sending along well
+
+01:47
+as it resolves what's probably getting resolved
+yeah it's probably like that json object
+right so it wouldn't be a string it'd be
+that json object that's the value that's being passed into the then and that
+value that's being passed into the next then so we can console log the data cool
+all right so fetch returns a promise just like a bunch of the web apis
+running our asynchronous code so we've already used promises we've
+already seen the promise of a better future because our fetches work
+it shouldn't work javascript this single thread it blocks it should not work
+but since we're running javascript in the browser
+it does we can hand off that fetch to the web api
+the web api does its thing and instead of using nasty disgusting callbacks what
+
+01:48
+are we using so we can take our time a promise exactly we're using a promise
+nice all right let's see those three so we already looked at the three states we
+already saw the we already saw the pending the the fulfilled to reject it
+um we can actually bring back the console log of the object look this is
+this is the actual object so the neat thing is we can actually console log the
+the object itself like the promise object itself and so here we set error
+equal to true so what what do we expect the state of
+this promise to be like when we console log it what do we expect that this
+promise should be like what's the state we should see on it
+yeah let's go take a look let's refresh uh we see that it's in the rejected
+state right so if we actually look at the object we would see that rejected that
+
+01:49
+rejected property on it yeah cool dope all right
+we walked through this code together already uh let's get paid by everyone
+this time however instead of nasty callback hell we are going to use
+promises so we're going to set up each customer with a promise
+and that way we can use our promises to make code that looks a little bit
+more normal right it looks a little bit more like javascript so let's get closer
+to writing some code that's readable that looks a little bit closer to actual
+javascript and we're not falling into that nasty callback hill
+right so let's get paid all right here's our code we have house one
+
+01:50
+set up as a promise and we can see that house one takes a full second
+then we have house two which takes five seconds
+and we see house three which takes two seconds but every single house is a what
+inside of each single one of these houses is a what it's a promise
+you can see inside of each one of these houses is a promise some of the promises
+have a set up timeout that takes a second some have five seconds some have
+two seconds but if we run this code so let's go and run it and comment out our
+other example here beautiful and we come down to our new one here code six
+i'm gonna comment all this out there we go beautiful we're gonna go back and run
+
+01:51
+it all right we see he delivered to house one that took five seconds
+and we see house two that took i think two seconds and then three right
+all right so now we have this lovely one two and three
+it doesn't matter how long each house takes we see the first house takes one
+second we see that house two takes five seconds we see that house two house
+three takes two seconds it just doesn't matter each house can take its own time
+we don't bug out because each house returns a promise
+and down here we can chain our promises so house one runs
+it resolves and if the promise on house one resolves what is what fires
+if the promise of house one resolves what what fires then exactly
+
+01:52
+so let's follow our dens all right the then fires and we console log the data
+where is that data coming from where is this what what data are we talking about
+house one resolves we console log data what the heck does that mean let's go
+back and take a look at house one where is that data coming from
+yeah we see inside the resolve the data that we are sending back
+is paper delivered to house one so that is what gets passed in as data and
+that's why when we look at it we see in the console delivered to house one great
+once this then is done running what what happens next
+this first then is done what happens next it change it goes on to the next then
+
+01:53
+so the next then is running house two so house two runs
+right house two runs and it too has a promise that resolves
+after five seconds and that's why we see print it to the console
+house two then the next then fires and we run house three
+and we see that this house three is a promise that resolves and then we see
+console logged house three so this works
+right it's definitely more readable than call back hell right
+it's definitely more readable than call back hell callback cal there's no way
+that you're troubleshooting anything something breaks in in house two
+there's there's no way that we're we're going to like figure out what the heck
+is happening uh so promises can be chained exactly
+yep this is called a promise chain yep it's a promise chain
+and um it just runs one after another as
+
+01:54
+things resolve if things went bad and it got rejected we could see the catch but
+this is way easier to resolve than if we were stuck in callback hell however
+don't read too good right it don't read too good like this this works
+it's more readable than callback hell but does this look like javascript
+is this really the javascript that we know and love
+no it doesn't really look like javascript honestly and so
+i want my synchronous code to look synchronous and i want it now and so
+we got some new syntactical sugar a new way to handle async responses
+
+01:55
+that is really technically still just promises underneath the hood
+all right it's just promises underneath the hood but it's a new way
+it's a new way of making our asynchronous not looking good code synchronous and
+boy does it look great so when we come back from break
+i'm going to show you how to take your ugly promise chaining code
+and introduce async await so that it reads good it looks like the javascript
+we know and love oh you're gonna be ready for this oh can't
+wait it's just uh gets my motor going all right folks let's take a break
+at the top of the hour we're learning a lot tonight lots of new
+things flying at us when we come back we're gonna make our synchronous code
+
+01:56
+look synchronous oh it's gonna look so good five minutes on the clock
+if you're able please get up move around hydrate we'll be back in five minutes
+folks oh boy we gotta get to this lovely async await
+we're gonna see it's gonna make sense it's all gonna come together and then
+back in baby jay harker added two minutes to the
+timer so we're going for seven minutes folks seven minutes on the timer here
+boom we're gonna make our ugly promise chains
+look good we're gonna introduce async await and then back and baby i promise
+all this hard work pays off when we get to the back end we're going to see why
+this evolution of callback hell to promise chains to async await helps us
+when we get to back end all right folks 10 minutes on the clock
+you get a jayhawker 76 for the extension and run some ass you actually take a
+
+01:57
+
+01:58
+
+01:59
+
+02:00
+
+02:01
+
+02:02
+
+02:03
+break i'll see you soon [Music] do [Music] do [Music] so do [Music]
+welcome back folks oh oh that was good all right let's get into it folks
+
+02:04
+come on back come on back all right let's go ahead and talk a little bit through
+our asynchronous code right let's look through our our our code here
+and we want our asynchronous code to start looking synchronous right if we look
+we got this chaining and this is starting to look a little
+synchronous meaning like we're going one after another
+right looks like we're going one after another
+right it looks like it's working one after another boom boom boom
+right and so we're getting there we're getting to this point where our code
+that is really asynchronous in nature right we're handing this stuff off to
+the browser the web apis all that goodness is happening and then those
+responses are coming back and now we can start handling these responses in a way
+
+02:05
+right right in a way right in a way that starts to look a little synchronous
+right like the normal javascript we would write one after another and with
+the beauty that is some of the newer javascript right the newer drop shadows
+coming through like the es 8 plus like the ecmascript 28 plus 2018 plus we
+started to get this wonderful thing called async await
+and this async await made our asynchronous code start to look a little
+synchronous trying to make it look like the other javascript that we know
+and love and it's just a way to handle these
+asynchronous responses remember we're doing stuff that javascript shouldn't be
+able to do that gets handed off right that gets handed off
+and that gets handed off to the browser the browser starts to do stuff with it
+
+02:06
+and then responds so we need a way to handle those responses we saw that
+callbacks can lead the callback hell we saw that promises with the then chaining
+it's okay but it doesn't literally look like good javascript uh and so we got a
+lovely new async await syntax digital fendi hey thank you for the posture
+check let's see let's get in here huh all right there we go
+cool all right there we go beautiful and the interesting thing about
+our async await is that's just syntactical sugar on top of promises
+that makes our asynchronous code easier to write and read afterwards if we had
+to keep track of these like promise chains like yeah it would work
+but it don't read too good right don't read too good
+and so i want to use something that makes our code easier to read and write
+but it's still just we have to understand promises underneath the hood after all
+
+02:07
+and so we have this lovely syntax where a weight
+waits for an asynchronous process to complete inside of an async function what
+a wait waits for an asynchronous like something that's going to take a while
+to complete as long as it is inside of an a sync function so let's take a look
+here we have the same functions that are promises
+all right we have the same functions that are promises and then
+we have this lovely async function that just works the same as our promised
+chains look at this code folks look at this look at this now we talking
+
+02:08
+look at this code folks oh look at this code all right we have an async
+in front of our function right we have async in front of our function
+and then we can just tell our house one to await and once it's done
+we'll store whatever response we got back inside of house one weight then
+we have this next bit of code here house 208 whatever happens gets stored in
+house two weight and then we have house three way
+whatever gets stored there it gets put in house three weight and then we do our
+console log so let's actually run that code let's run this code let's let's
+comment up our disgusting promise chains here ugh go away
+and then let's come down here to the same the same functions right the
+same functions however with our lovely async oh look at that
+
+02:09
+our lovely async await syntax let's save it let's go back to the browser let's
+run it and let's see what happens taking our time we're waiting all right
+oh take your time and one two three hey look at us go so even though even though
+house one takes a second house two takes five seconds house three
+takes two seconds like even though we should think it should be one two three
+with this lovely async awaits syntax we can have all of our asynchronous stuff
+and a nice beautiful wrapper that looks synchronous wow looks so good folks
+looks so good but now you're like leon come on i need something real
+
+02:10
+give me something real leon you're talking about getting paid
+you're talking about you you've been talking about houses
+give me some give me something real give me something real all right
+so we've built api request out the wazoo right so let's take a look at an api
+request using the async await syntax boom here you go folks
+we have the lovely async in front of our function and then that means we can use
+the await syntax inside of that function so here we're going to await the fetch
+whatever comes back right whatever it comes from this resolution
+right remember this is still what underneath the hood we're still doing a
+fetch fetch still returns a what it still returns a promise right so we
+
+02:11
+know that this is going to resolve and whatever gets resolved from this
+promise is going to be stored in res then we await
+the lovely making sure what we got back is javascript right we we have this
+lovely the thing we saw before with our with our normal promise chaining right
+we're just making double making it javascript making sure we got the thing
+that we care about and then that gets stored in data
+and then we console log the data so we go from that nasty ugly
+fetch with the then chaining then chaining to this beautiful
+async await syntax where our code actually looks like it's synchronous
+javascript but all of this right all of this all of this asynchronous stuff
+right that's happening right can take its time
+
+02:12
+but our code still looks like regular javascript now here this would work
+but right now are our errors caught nope so with async functions we got what we
+got two things with async we got two things yeah
+folks did the reading tries and catches so your homework is to add a try
+catch block to this asynchronous function i want you
+to try i want you to get in here get your hands dirty
+add a try catch block because we know that a lot of things can go wrong with a
+fetch right there's a lot of errors that could happen and so i want you to come
+back make sure you dig through the reading and add a try catch block to it
+so that you can catch errors yeah that's part of your homework that's
+
+02:13
+something i need you to do before tuesday so i need you to practice using
+these async functions and so try adding a try-catch to this cool all right
+back end baby we built up to it we we we were able to get to what we came here
+for we built up to this idea that javascript was running in the browser
+since javascript was running in the browser it had access to all these web
+apis but these web apis they're handling asynchronous stuff and
+javascript is not an asynchronous language so we needed a way for us to
+hand off those things and then be able to hear the responses that came back
+from the browser we saw the first way of dealing with those responses that was
+call back hell then we saw a newer way to handle it which was promises but
+promises led to uh promised chains and then we have a bright new future
+
+02:14
+with async await where our see our asynchronous code starts to look like
+synchronous javascript it's super readable we can see what's going on and
+it sets us up for success so now we got all that on the table
+we can move into the back end all right now i have a question for you as we move
+into the back end does javascript have access to the dom natively built in
+it doesn't nope javascript needed web apis to handle all the asynchronous
+stuff and a bunch of other stuff in the browser like javascript just didn't come
+with the ability to handle all that asynchronous stuff dollar didn't come
+
+02:15
+with a bunch of stuff that the browser gave us access to right
+right so we didn't get it we got it because javascript
+was sandboxed in the browser meaning that javascript was running in
+the browser and since it was running in the browser it got access to all that
+stuff so javascript we could think about it as
+running in this environment it's running in this sandbox and it only has access
+to the stuff that that's inside the sandbox it only has access to the
+shovels and pow pals pails that are in the sandbox with it now
+let's stick through this for a second javascript is running in the browser
+i have a question for you does javascript have access to the files on
+
+02:16
+our computer no why would that be a really bad idea if
+javascript had access to the files on our computer
+yeah any website you go to could then like look at the files on your computer
+we wouldn't be able to use the internet so javascript when it's running in the
+browser does not get access to the files on our computer because that would be a
+pretty big vulnerability that's what i mean by sandbox
+javascript is running in this sandbox and it can only play with stuff that's
+in the box with it it doesn't have access to things like on your computer
+it it's stuck running in the browser environment now the browser gives us
+lots of stuff to play with it gives it access to the dom it gives it access to
+fetch it gives us access to all these other apis that it can use
+but when javascript is running in the browser it is sandboxed it can't get
+
+02:17
+access right it can't get access to all the files on your computer
+and that's a really good idea because we would never be able to use the internet
+if every website we went to right if every website we went to javascript
+could break out of the sandbox and play with all the stuff on your computer that
+would suck we would never be able to use we never be able to use our computers
+ever again on the internet now since javascript is sandboxed and it
+can't access the things on our computer every once in a while someone figures
+out how to get out of the sandbox we call those zero zero-day exploits
+they're exploits that figure out a way to escape the soundbot the sandbox and
+get access to things on your computer to get access to
+
+02:18
+uh things that it should not have access to and so i'm here to tell you today
+if you ever figure out one of these exploits send me a dm i don't ever check
+my dms except for this you send me an exploit
+i'll make you rich i know the people to talk to will get paid i'll split at 50
+50. right let's put it 50 50. i know who
+to talk to you figured out you come talk to me
+right and we'll get paid we'll we'll go to we'll go to cabo together we'll have
+a we'll we'll we'll do some crypto gambling we'll we'll have some fun right
+because these are very very very rare it's very rare that we figure out a way
+to break out of the sandbox because that could have devastating effects so when
+you figure it out come to me i'll put you in touch with the right people we'll
+split it 50 50. go to cabo do some gambling have some drinks we'll figure it out
+cool all right somebody offer me 60 40. all right go
+ahead getting screwed you trust me this this is
+
+02:19
+you trust me come on this is what this has all been about
+let's just get your trust so that when you find a zero day exploit you come to
+me and nobody else that's it think don't you wanna go ride jetskis exactly
+come on now you trust me i'll make sure you get paid all right now
+this makes sense and this idea of the sandbox makes sense because javascript
+is a language that can only do what the hosting environment allows
+when we run javascript in the browser it gives us access to what what is when we
+run javascript in the browser what does it give javascript access to
+we get access to the web apis we get access to the dom we get access to fetch
+
+02:20
+we get access to all the stuff that we get by only running javascript in the
+browser like the dom cool so javascript is a language that
+can only do what the hosting environment allows
+now let's think for a second if we're trying to get to back end development
+what do servers actually need what do servers do
+they serve yeah so they serve up files now do these files exist magically like
+in an ether somewhere where do these files exist if if the point of a server
+is to serve where do these files exist in some sort of storage right
+it needs the files have to exist somewhere so they're probably on disk
+
+02:21
+somewhere either on a hard drive or an ssd like the files have to be somewhere
+and so they're probably on a hard drive or an ssd somewhere like the files have
+to exist somewhere on the computer they're not magic right
+and then servers also do what they they serve but what does that mean
+what does it mean to serve yeah it can it can hear requests for those files
+and respond with those files so if it can hear a request and respond
+what else does it need access to it needs access to the internet right if
+our servers don't have the ability to like listen to network requests like if
+they don't have access to the internet they don't have access to a network
+right it doesn't have to be the internet it can be like a local network as well
+
+02:22
+right if it doesn't have access to a network then it can't hear the request it
+doesn't know what to serve you and if it doesn't have access to the disk
+right if it doesn't have the ability to get the files off the hard drive or the
+ssd right then it can't do its job so our servers are going to need access
+to the disk either hard drive or ssd to get the
+files that they are then going to send to you right and our servers need to be
+able to hear what files you want and then respond with those files so it
+needs access to the network now let's ask a very serious question
+does javascript have the ability to access the hard drive or the ssd on our
+servers does javascript have the ability to listen to the network
+
+02:23
+does that come out the box with just javascript the language no
+javascript doesn't have access to the disk javascript doesn't have access to
+the network that would be a really bad day if just regular javascript had
+access to all that stuff because then it wouldn't even need the browser to just
+do it itself so javascript out the box does not have access to the disk it
+can't get our files off of our computers it does not have access to the network
+so it can't listen to requests and generate responses but what if what if folks
+what if there was a hosting environment that allowed javascript
+to have disk access and network access so they could hear requests
+it could generate responses it could pull files off of a hard drive or an ssd
+this is a warning what if there was a hosting environment where we could run
+
+02:24
+our javascript and that javascript would have access to
+
+02:25
+the disk it would have access to the network well [Music] okay [Music]
+hey does this work let's go that's no baby that's node this node let's go
+let's go alright so we're super excited and uh we go and we go to the node
+website nodejs.org we go there and we see all right we're super pumped we get
+it right node's going to give us access to disk and network we're really cool
+but we understand like javascript was running in the browser now we could run
+it and something that gives us access to the disk network and we go to the
+
+02:26
+website and the website says this javascript node.js is a javascript
+runtime built on chrome's v8 javascript engine
+the disrespect we got all excited we go to their website and they give us this
+[&nbsp;__&nbsp;] node.js is a javascript runtime
+built on chrome's v8 javascript engine all right let me break this down for you
+the same [&nbsp;__&nbsp;] that lets you run javascript in the browser
+can now be used to run javascript on servers desktops and everywhere else
+pretty much and so that's node right the same shift that lets you run
+your javascript in the browser can now be used to run javascript elsewhere and
+so we can go through and we can kind of edit this a little bit
+
+02:27
+note as a javascript runtime we can just say like is an environment
+built on top of chrome's v8 engine well crosby engine is this like the stuff
+or the [&nbsp;__&nbsp;] that enables js to run in the browser
+all right so we can just get rid of chrome's real engine the ship that
+enables javascript to run in the browser um can now run everywhere else so so
+node is just an environment that uses the same stuff that the browsers used
+to enable our javascript to run so notice just an environment where we
+run our javascript that uses the same stuff that the browsers were using but now
+
+02:28
+we can run it on servers desktops everywhere else why can't they just say that
+why can't they just like the browser right right just like just like the browser
+give us access to a bunch of stuff well well node gives us bunch a bunch of
+stuff why can't they just say that it'd be so much easier that would
+be so much better all right so let's talk about how jeff goldblum saved
+the world real quick um how did jeff goldblum save the world chat
+bub exactly binary upload boom so jeff goldblum reversed engineered
+the aliens code wrote a computer virus that took down their shields we nuked
+america right so jeff goldblum was able to write that
+
+02:29
+computer virus because they broke down the code all the way to like the zeros
+and ones like the actual code that runs on our actual hardware right
+our computers don't actually run javascript
+right that javascript gets broken down into something that the computer can
+actually understand the thing that's doing that like breaking down
+is called the v8 engine that's it so in the browser the v8 engine is the
+thing that takes our javascript and breaks it down into something that the
+computer can understand and that engine not only does it in the browser
+but the engine also does it for node so the thing that takes like that really
+easy to understand javascript and breaks it down into the code that the computer
+needs to understand that's the v8 engine now some people are saying is that a
+compiler sorta it does more right it does like
+
+02:30
+the compilation stuff it also does like garbage cleaning like all the stuff that
+like doesn't come with javascript that we need the v8 engine kind of does all
+of that when we get to class next week yeah we'll learn more of the like the
+technical jargon around all this so save things like compiler transpiler
+interpreter let's say that to next week when we get to like the the heavier
+portions of how node is actually working but yeah it's it's all the stuff that's
+going to take our javascript and break it down to something that the
+computer can understand it does all that heavy lifting for us and the cool thing
+is just like the browser's web apis node comes with a bunch of stuff so
+javascript was running in the browser and it got access to the web apis now
+we're saying wait a minute let's take javascript and run it in node right and
+that means we get a bunch of stuff we get all the stuff that comes built in
+with node and so we have all these libraries or
+
+02:31
+modules and these modules are just collections of functions basically and
+so we have an http module which is a bunch of functions that have already
+been written for us that enable us to talk to networks like to hear requests
+to generate responses to like listen to the internet basically and so that just
+comes built in with node just like the browser came built in with like fetch
+and the dom node comes built in with like http access like access to the
+internet access to the network right also it comes with the fs or the file
+system module which is just a collection of functions that enable us to access
+the file system remember a server needs to hear request generate responses and
+to get those responses we need to like get files off of our server and send
+them to you and so javascript has no way of doing that
+but when we run javascript inside of node we get access to the network we get
+
+02:32
+access to the file system and we also get access to millions of
+other packages aka groupings of other custom modules or groupings of other
+custom functions have already been written to us through things like npm
+yarn and other package managers so the cool thing is we were running javascript
+in the browser but now we can run it in node and get access to things like the
+network and access to the file system and access to millions of other things
+through things like npm now we talked about the v8 engine doing
+the heavy lifting but the reason why node is is pretty fun and cool to work
+with is that underneath the hood it's really just using c and c plus plus
+which means it's super fast right it's really fast maybe not the the fastest
+but it's it's pretty damn fast and we get access to all this stuff
+
+02:33
+that's been done for us already when we run javascript it's being broken down
+and using all of these like fancy stuff that's been written in c and c plus plus
+so we don't have to so we don't have to worry about how we're handling the
+network access how we're handling accessing the network we don't have to
+figure out how we're actually like doing any type of compilation or garbage
+collection we don't actually have to worry about the event loop or any of
+that stuff that we're going to get to next week it's all being handled for us
+and that's the beauty of running our javascript inside of the node
+environment we get access to all this stuff that's super fast that's written
+in cnc plus plus and we get to get this takes care of all the heavy lifting for
+us right we get to use the javascript that's readable
+we get to use the javascript that we feel comfortable with the javascript
+that's worked in browsers for years and years and years so we get to take all
+that syntax all that knowledge all that learning and run it in a new environment
+
+02:34
+that gives us access to new stuff now we get access to the network we get access
+to our file system so the code that only used to run in the browser can now run
+on our servers and we get the benefit of only needing to learn one language to
+both write code on the front end in the browser and the back end on our servers
+via node cool i think so too pony i think it's pretty cool
+all right now there's a lot of stuff here
+there's a lot of stuff here we can talk about the call stack we can talk about
+the callback queue we can go deeper into
+what the heck are node modules the event loop all that stuff tuesday i got you
+don't worry i got you see some of you are like oh i want to go
+i want to learn more about that i got you all right so
+part of your homework over the weekend is to set up your environment aka set up
+
+02:35
+node thank you benito uh we want you to set up node um for a lot of folks
+installing node can be a little bit of a journey
+but just save yourself some pain and just go to the node website that's
+the link in the slides and you don't do it right now do it when you have some
+time if you haven't done it as part of the reading and you're going to install
+node just from the website right just just trust me just do it from the
+website for the first time you can use your package managers later on you can
+use your node managers later on you can use your home brew or whatever the heck
+later on but for the first time trust me across thousands of students
+i've seen the most unbelievable nightmares happen as people try to set
+up their their environments it's just easier
+if you just click the button just just for this time if later you want to set
+up mvm all that other fun stuff you can right
+yeah so you can but for just click the buttons do that for me please all right
+
+02:36
+but i love the pain it's all right you won't recognize the pain right away
+it's slow it comes on when you least affect it
+cool all right so you see here that we see something interesting we see this lts
+and we see the current and some people are like well leon what do i
+use let's talk about what the differences are
+typically there's three what we call release schedules the lts or long term
+stable the current and then a lot of projects
+have a nightly version as well and i think this is actually a little bit like
+a little bit old so i'm going to click this hopefully it gives me the phone all
+right here we go cool this is my photo's a little old here's the newer one so
+what you can see here is the developers that build node like build the actual
+like build out the node project they give a schedule here
+
+02:37
+of the different versions and when they're actively being developed and how
+long they're going to support them for so maintenance means that like we know
+that you've built your projects on node here's how long we're going to support
+that version for so if any security vulnerabilities crop up we will handle
+them you can trust if you're building on this version here's how long that
+version will be supported for and so if you are
+on an engineering team and you're trying to make a decision like you're building
+your app from scratch you're like alright what do we start with you have a
+few options you can see that the current lts is 16 and it is
+still in active development but that will end in october
+and then it will go into maintenance mode all the way until april 2024
+so if you were to build on top of known 6 node 16
+
+02:38
+you would have all the way until april 2024 to feel really confident right to
+feel really confident hey mets does it feel really confident in
+like your your your version of node working well all the security
+vulnerabilities are being patched everything
+but if we kind of look 18 is looking pretty good right now 18 is looking
+pretty good right now because 18 is going to be in current
+development so there's gonna be some new stuff that are coming out so some folks
+don't like using the thing that's currently being
+developed because they're afraid maybe that some newer features might come out
+and maybe they might not be ready for prime time
+but you'll see that the active window will be a lot longer and then the
+maintenance window takes you all the way
+into 2025. so as a team you have to make a decision are you going with the
+current lts or are you going with um the the the the currently being
+
+02:39
+developed version or are you uh uh a maverick and gonna go with a nightly
+nightly is like all the newest features
+like your [&nbsp;__&nbsp;] will probably break
+and uh the cool thing is like a lot of other software
+uses this type of schedule like chrome chrome has a stable channel which you
+most people are using they have a developer channel where you get all the
+new features but some stuff might not work and then they have the wild wild
+west which is the nightly channel where things just like break
+right um but you get to see all the cool stuff first and so
+i recommend that if you are kind of going through this course
+that you have two choices you can go with lts or you can go with 18.
+you're not going to lose anything if you went with either or all by code works
+with 16 going forward so it's up to you if you want to start with the lts or the
+current i'm using 18 right now right so if you
+want it to be exactly like i have you would use 18 but you can't go wrong
+
+02:40
+using either of these because i know a lot of people kind of already set up
+their environment if you're on something lower than 16 you gotta update though
+cool all right now let's take a look at a simple
+server let's take a look at a simple server here is my simple node server
+you can see here that i'm requiring the http module
+and that http module is going to give me access to the what
+what's that http module going to give me access to
+it's going to give us access to the network exactly how about the fs module
+what's that going to give us access to it's going to give us access to the file
+
+02:41
+system beautiful the file system and then down here you can see
+that i am using the http module and what the heck is create server what is that
+what is create server just by looking at it what is create server
+it's a method right that means http is an object and create server is a method
+and so we're going to still see like javascript is still javascript right
+even though we're getting all these extra goodies like we're getting access
+to the network we're getting access to the file system right
+it's still javascript underneath the hood that's enabling us to do all this
+stuff so we don't we don't throw the baby out with the bathwater right we we
+still have all the same goodies we just get added extra added stuff here right
+and so we can see that create server is a method that is part of the http
+
+02:42
+module right built into this http module
+you could see all these like really wild functions that do all the heavy lifting
+for us just like the dom did all the heavy lifting for us just like fetch did
+all the heavy lifting for us this module has all these methods built into it
+right that has all these methods built into it that enable us to do stuff and
+we can see that one of the methods literally help create the server
+that then listens on a specific port you could think of you could have multiple
+servers running on one computer but they could all be listening out
+different windows and so this is the window i'm listening out onto right
+right i'm listening to the 8000 port and all this stuff is just using the core
+modules eventually we'll use things that make the syntax prettier that make it
+easier to read but this is like raw node right we're just using the base
+http module we're using the base file system module and what we're doing is
+
+02:43
+we're saying hey create a server that's listening on port 8000 when it hears any
+request when it hears any request we're going to read this file this html file
+and we're going to respond with it we're going to tell them to expect an html
+file we're going to send that html5 file to them and then we're going to tell
+them that our response is done right and so let's actually see this running i'm
+going to go to my code here i have this lovely
+node intro demo and i have two files here my demojs and i have my demo
+file.html now to run this server i need to tell node to run this file so i'm
+going to open up my terminal right here in vs code
+and i'm just going to say node well actually make sure i'm in the right
+folder so let me do an ls i need a cd into node intro demo
+
+02:44
+and then i'm going to run my demo.js file so node demo.js all right
+we can see something here hold on let me let me move my head out
+the way you can see something here when i read node gemma node
+demojs what happened what happened right here i didn't get my i didn't get my my
+prompt back all right i didn't get my my rebel back
+you can see that it hasn't given me the ability
+to enter in any more commands because my server is running i better go catch it
+right my server's running so i can see that it's running because i haven't
+gotten like my my repo back to type more stuff so it's running
+and if i go to the port 8000 so when we're running servers on our machine
+we're pretty much always going to use localhost
+
+02:45
+8000 is the port i'm on and when i go there i see hello world hold on
+all right we went to port 8000 and it sent us back
+this hello world file however look look let's go back let's chill the server
+you can see i have my repo back right like i can i can type more commands if i
+want it to right and so is my server running anymore nah
+so if i go back and i refresh eat it's gone
+so this is legitimately a server that is serving up
+right it is literally serving up our html file if we go back and look
+this demo file.html just says hello world that's what's in there
+right how did i turn it off i just did control c on my computer control c
+
+02:46
+that's what gives me back my prompt here my my reple right so now
+i can start my server hit enter we can see that it's running
+if i come back and i refresh oh boy i'm serving up an html file
+right i'm serving up an html file right we are running
+javascript files in our node environment
+which is giving us access to the network which is giving us access to the file
+system i'm able to grab files off my disk i'm able to serve them up i'm
+listening on a specific port first try and so with this very simple bit of code
+this is your warning folks with this very simple bit of code using
+what node gives us access to getting access to the network getting access to
+
+02:47
+the file system with just some simple code where we're saying hey whenever we
+hear a request this is the response we're sending [Music]
+hey does this work let's go you are all now newly knighted full
+
+02:48
+stack web developers go out there and do well with this knowledge
+that's all it takes you're back in now baby let's go
+so now you are developers that can write front end code
+and your developers that can write back-end code that literally
+legitimately runs on a server you are now full stack web developers
+the secret is i could not write this from scratch
+i copy and paste it right maybe by now i could probably do it but
+most of the back end is really kind of like copying and pasting stuff in the
+beginning until you get comfortable with
+it so you can't be like leah nah i don't do this yet i don't even know how to do
+this yet i've been doing this for years right
+uh so i don't want you to like look at this and be like ah
+ain't gonna forget that now nobody expects you to have this
+memorized like that would be a fool's errand we're gonna add
+
+02:49
+other stuff on top that makes this process easier like express that makes
+it cleaner that makes it easier to read easier to write
+but in the beginning this is like i'm saying this is raw this is just using
+what node gives us at the base level the http module the fs module that's it and
+we can use that right we can use that to
+build the simplest of servers and become full stack web developers let's go i'm
+hella proud of you all this is a long lecture
+you stuck it out you learned a lot of wonderful code
+you've been here for a few months now but now you're full stack web developers
+baby update your resumes update your linkedins tell your mama i'm full stack
+baby let's go congratulations you deserve it you really do
+jay says welcome to full stack everyone hey thank you jay
+
+02:50
+let's go congrats everybody all right now
+we got some wonderful stuff this evening we're gonna see on tuesday a more
+complex back end we're going to spend more time talking about things like the
+event loop and what node is actually doing to help us how does javascript
+really run in the browser how does it really run on the server
+right and then we're going to use that to build a more complex back end baby
+we're going to get that more look at that more complex background we're going
+to get that going uh and we're going to talk about
+a lot of fun things so this weekend i need you to do some stuff please don't
+run away just yet i want you to do some stuff
+this weekend i need you to start taking the bank seriously come on now look
+it's my birthday i ain't running away yet come on now
+i need to start taking the bank seriously please start the bank
+you need to complete your professional links as well i opened up the submission
+today so i need you to go through and uh keep that keep that coming through make
+
+02:51
+sure you get all the stuff in here and then i need you to uh don't worry
+about these two but i need you to go through and get node installed
+i need you to come back and run this simple code make this work
+i need you to go back through the slides and i need you to ask questions on
+discord right i need to ask questions on discord
+if you do all those things you're gonna have a good weekend
+there's a little bit other bit homework on the discord but those are the big
+things i need you to do please start the bank please start looking at this code
+get node installed make sure you finish up your professional links we're going
+into the next week hard right we're gonna we're gonna this this this back
+end stuff's gonna keep growing it's gonna keep taking off um
+let's see where we're at hold on one second one second i want to see one
+other thing before we we go off and do our uh
+yeah i don't want to see i just want to see something else here
+
+02:52
+really important stuff to talk about real quick before we leave
+i got to clean it up some of y'all don't know how to read the prompt let's see
+hold on there's a lot of stuff oh crap all right i'll save this holy smokes all
+right nevermind i can't clean this up fast enough i was going to tell you how
+much money we brought in from from our from our freelancing it's a lot
+but there's a lot like some people put like usd or something like text in there
+so i gotta i gotta clean it up a little bit uh so i'll i'll announce on tuesday
+how much money oh maybe i'll do it during office hours remember sunday we
+have office hours we're talking about how much money we brought in from
+freelancing it's a lot folks i'm seeing hundreds and hundreds of responses so
+far of folks that caught freelancing clients this is wild stuff that i'm
+looking at right now uh but let's go ahead and end on a high note we always
+like to do a raid uh so let's go ahead and send some some love and positivity
+
+02:53
+somebody's way um let's see we haven't been to
+uh true in a minute oh rufio's on let's go to rufio
+all right let's go and do our raid remember if you haven't followed already
+my birthday wish was that you give them a follow on both twitch and twitter and
+let's go ahead and read rufio alright folks
+have a wonderful rest of your day have a
+wonderful rest of your evening thank you so much for the birthday wishes thank
+you for everyone that checked in on me and my wife i really appreciate you all
+have a wonderful rest of your day have a good weekend i will see you on sunday
+and we're back at it with node folks i can't wait to keep going deeper into the
+back end let's read this youtube

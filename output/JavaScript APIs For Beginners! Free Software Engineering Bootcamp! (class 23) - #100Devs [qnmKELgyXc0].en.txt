@@ -1,0 +1,2111 @@
+
+00:00
+
+00:01
+all right [Music] so [Music] all right all right all right all right all right
+best week ever good morning good afternoon good
+evening no matter where you're coming from i hope you are doing well
+welcome everybody best week ever just getting started today's day one
+day one a week is seven days long today's day one best week ever
+thank you for being here thank you for coming
+hope you all are doing well we got a lot of fun stuff tonight folks a lot of fun
+stuff we're gonna make this the best week ever we're celebrating a hundred plus
+jobs we came together as a community with one
+
+00:02
+goal and that goal was to get a hundred plus
+jobs we got it we blew past it you've been in that celebrations channel's been
+poppin off we're well past 100. this is the celebration week for that
+and boy we got a lot of exciting stuff we got some stuff today we got some stuff
+tomorrow we got some stuff thursday we got some
+stuff friday we got some stuff saturday we got some stuff sunday we got some
+stuff monday and then we come back on tuesday for the last day of the best
+week ever so let's go tonight we're going to do what we always do
+questions we're going to talk about the best week ever all the stuff we got
+planned for this week then we're going to get our review on we're going to get
+through functions we're going to get through a raise we're going to get
+through objects and if we have some time
+
+00:03
+we'll start with our apis so lots of fun stuff to get into but you know like how
+we like to do you got questions i got answers question of the day
+is are you going rock paper or scissors or
+not risking any of your channel points rock paper scissors are not risking any
+channel points indifferent yo how's it going how's it going
+so much stuff to happen there we like had a huge height train before we even
+started melody thank you for the raid indifferent a thank you for the 10
+gifted subs i appreciate you thank you so much i see some folks a lot of paper
+a lot of rock no risk i'm not risking i'm so close i'm so close not risking it
+too precious i love to see it well we're going to get some yolos folks we can't
+have day one of the best week ever without some yolo so there will be some yolos
+later if you really if you're feeling lucky you want to put those channel
+
+00:04
+points on the line i got you i got you i always like to give folks a few
+seconds to get in here so if you got questions i got
+answers when is the code newbie podcast coming out uh it's coming out in may so
+yesterday uh it was really awesome i got to hang
+out with the code newbie folks and uh we're gonna be on the code newbies
+podcast in may it was my first podcast it's it's a little bit different than
+being on twitch i did like seren and uh levi made me feel really comfortable but
+it's a different ball game i got i got to get some pr training or something i
+gotta i gotta get my my facts dialed in i felt like i rambled too much but i
+think i think we got we got our point across i think we got in there uh so i'm
+really looking forward to it uh and hopefully that will be out in may with
+their next season yeah code newbies podcast is awesome if you're looking for
+
+00:05
+like a um if you're looking for like a really welcoming
+newcomer podcast uh then that's it so my maybe my best week ever started
+yesterday but y'all starts today are you drinking whiskey now just some
+water with some berry mix in it alrighty folks
+completed my first cold wars all by myself a felt pump that's awesome dimes
+good to hear it first troy with the podcast exactly static
+you be fancy with the water i i just buy frozen berries and i put it in my water
+i don't know if that makes me fancy or not but i quite enjoy it alrighty folks
+
+00:06
+let's jump into getting this show on the road best week ever day one
+of many many many to come so i want to start off tonight's class
+with something that i think is very important to bring up and that is
+to check in if you haven't checked in yet go ahead
+and give this a like and a retweet uh remember that
+when you when you type check in here in chat that doesn't do anything
+you have to go to twitter and do the liking and the retweeting there are some
+folks that think just typing in like bang check and doesn't no that just
+brings up the link so it's going to be clear so that way you're you're doing
+the liking and the retweeting so that when we get the end and you need help
+you've checked in just to make sure everybody's on the
+same page i didn't realize that some people thought that that's that's how it
+worked but you actually got to go to twitter and do it
+all right i see a lot of people that are like uh oh
+
+00:07
+god got some classes then gonna go back through oh no he got got exactly oh boy
+great thank you for checking in but seriously
+there's something that i want to bring up my promise when we started this boot
+camp is that i go at the pace of the cohort and my promise with this boot camp
+is that as things get tough i will do my best to pull you back into
+the roller coaster what you got to realize
+is that we are all on the same ride some
+of us might be in a few seats above so a few of us might be a few seats back but
+we're all on the same roller coaster ride together and we're going to go
+together nobody's getting left behind we go together we don't go at all now if
+
+00:08
+things recently have been bumpy for you the roller coaster feels like it's
+shaking a little too much that's okay you are absolutely 100 not alone
+if a raise threw you through a loop and your loops gave you properties and
+methods and the whole thing's getting jumbled that's all right
+you're probably at the back of the roller coaster still coming down the big
+dip you're still being beyonce but you're screaming a little too loud i got
+you don't worry don't worry i don't know if anyone's told you yet
+but this learning the code stuff is pretty hard there there's a reason
+why not everyone is a developer and it has nothing to do with aptitude
+it has nothing to do with their ability to be good at math
+
+00:09
+it has to do with everything to do with not giving up
+finding good ways to manage their frustration
+being consistent and taking care of themselves so tonight i know a lot of you
+are in a rough place with the current material and that's okay
+what we're gonna do tonight is we're gonna we're gonna dial down some things
+and turn some other things up so we're gonna give you a little bit of breathing
+room in some areas and dial up some things in other areas and so if you feel
+like you're a little behind you feel like things are going a little too fast
+i got you we're gonna we're gonna dial some things
+down refocus in some other areas so we can get through it together now
+if you're one of the folks that are saying leon i'm in the front of the
+roller coaster this is great right i'm my hands are still up i'm
+having my best life that's great we're gonna go together or not at all
+
+00:10
+so if you're not committed to getting to
+the promised land together if you're not
+committed and pulling the folks that are a little bit further behind you on this
+roller coaster ride along with you this is not the community for you we'll stop
+and so what i need is if you feel that you're in the front
+start doing the things that the students that i've had that
+have gotten the best opportunities have done if i look at my students that have
+gotten the best roles the the students that have gone straight to fang
+they've always had one very important factor that none of my other students had
+what they did is they helped others around them because here's a funny thing
+when you help others that are around you you solidify concepts
+things that were just on the grasp of your knowledge
+
+00:11
+right things that were just in the grasp
+of your knowledge become things that are solidified in your brain when you go
+into a technical interview you're not just answering questions you're talking
+from experience it's not only your bugs that you've health solved but the bugs
+of all the other folks that you helped along the way so when you go into those
+interviews it's not just you it's all the folks
+that help that are there with you so if you're in the front of the car
+it's time to turn around and pull some folks forward if you're in the back of
+the car it's time to look forward and see those hands that are reaching out
+for you ask questions jump in those discord voice channels ask for help
+because we're going together or not at all so
+i wanted to bring up that very very important fact you're not alone
+
+00:12
+if arrays were hard you're not alone if code wars is hard you're not alone if
+objects are hard you're not alone if the networking is hard you're not alone if
+getting the client was hard you're not alone if any part of this process
+has been causing you strife and stress you're not alone
+you have hundreds of folks that are going through a very similar experience
+whether they're vocal about it or not i guarantee you it's happening and so what
+we're going to do is we're going to go through this trough of sorrow together
+you're in it i don't know if anybody told you yet but you're in it you're in
+the trough of sorrow pretty firmly in the trough of sorrow
+we're getting real mucky it's going to get harder it will it'll
+get harder but what we're going to do is we're going to focus on learning
+i want to be able to turn up the content that we're doing in class the
+learning that we're doing we got to get through objects and we're getting right
+
+00:13
+into back end it's going to be a few more classes and
+then we're doing back-end web development so if you feel like things
+have been flowing for you great guess what in a couple weeks like two weeks
+we're in back end yeah so here's one thing that i've also always noticed
+some folks the html and css clicks and it comes easy
+for some folks that never happens for some folks the javascript clips and
+comes easy and for some folks they struggle with it for a little bit while
+longer and then for some folks they get to the back end and that's their
+favorite part of the actual learning to code journey the the html css didn't
+make sense the javascript didn't make sense but the back end just clicks
+so give yourself the chance to be surprised by the back end
+you can't throw in the town now nobody's getting off this ride right
+we we got some other loop-de-loops to do and they're going to be scary but
+
+00:14
+they're going to be exciting and give yourself the ability to be surprised at
+the next thing that might click a little bit faster than these things have
+already so we're going to go through the trough of sorrow
+we're going to go together at this point we need to come together as a community
+this happened last cohort last cohort i put out this call and it made the
+beautiful community that we have now if you feel like things are clicking
+please give us some of your time to help
+others that are around you that need the
+help because i guarantee you i guarantee
+you even if you're just the most selfish [&nbsp;__&nbsp;] on this planet helping
+others will make sure that you do better in interviews and if
+and if that's the motivation you need all right let's do it
+but i guarantee you helping others will get you a little bit further it'll help
+solidify concepts it'll make things stick in and if you feel like there's
+some gaps that you have some things that aren't making sense and things that
+
+00:15
+aren't clicking now's the time to ask don't you dare post that you're lost
+don't you dare post that things don't make sense if you haven't been up in
+that discord asking a ton of questions popping into voice channels
+hello i need some help now's the time squeaky wheels get the javascripts cool
+now to focus on all this learning to focus on this learning we got to do
+some things the first thing we got to do all right
+so i'm allowed to if i have right yeah of course if you've done that you can go
+ahead knock yourself out thing you have to keep in mind we are at the point
+where your health is the utmost important thing for you making it to the end
+
+00:16
+your hands are going to be stressed your shoulders can be stressed your eyes are
+going to be stretched your neck is going
+to be stressed your brain is going to be
+stressed you've been doing a lot of work
+you've been doing a lot of reading a lot of homework a lot of screen time
+if you don't invest in taking care of yourself right now you won't make it to
+the end or you'll make it to the end but you'll you'll probably be hurt
+you have to realize that sometimes you might need to take a break sometimes you
+might need to take a breather from class that's okay
+take that break take that breather do the things that you need to do always
+set a date to come back always say it's just for this one class right
+but put your health first if you need to take time for yourself that's okay
+remember this is a marathon not a sprint we'll always be here to help pull you
+along after you take that breather please when we take our breaks get up if
+you're able move around walk around hydrate i'm telling you this stuff
+becomes really important don't be one of my students that goes to the hospital
+because they didn't stretch their fingers and hands don't be one of my
+
+00:17
+students that goes to the hospital because they have leg pain because
+they've been sitting for too long at the point now where the work is going
+to get more intense and the amount of time that we're focusing will get longer
+you're going to be building stuff now real projects and you're going to get
+you're going to get into it you're going to hit that flow state
+right you're going to hit this flow state and when you hit that flow state
+you're not going to want to get up pomodoro becomes really really important cool
+how first now i said this is the best week ever
+and so for some of you this might be the best news of the best week ever
+we're going to stop networking until may
+so it's end of march we're taking all of
+april off for networking because we need to focus on code
+so no networking all of may and as always don't ever let me stop you from doing
+the things that you want to do don't let anybody that is an educator or that
+
+00:18
+spouts off on twitch stop you from doing the things that you want to do
+i would love if you would take the next month to focus on the code
+and dial down your networking but if
+networking is your [&nbsp;__&nbsp;] and you know
+that it's going to help you get the job go for it it's all right but what i'm
+asking is that you i i see where folks are at right now i feel like we need to
+chill on the networking a little bit we need to focus on the homework we need to
+focus on the reading we need some of that time back we need some of that time
+back if you have appointments already keep them if you have your coffee chats
+lined up that's okay but dial back a little bit so that we can focus on
+the actual code focus on finishing up objects and apis
+in that transition into a little bit of theory and then end cool
+no networking until may client deadlines can be pushed all the way to may 3rd
+
+00:19
+some people are like hold on 10 second warning
+i said that and some people in the background were like [Music] all right
+no networking all of april client deadline gets pushed to may 3rd
+because i want you to spend a little bit more time focusing
+focusing on the work that we got to get done the reading the tutorials that
+we're going to do all right we also mentioned this idea of client
+alternatives if you've given it the good
+old 100 devs try or you're in a position
+where you can't get a paid client due to
+visa status or anything that might cause
+you harm there are two alternatives that you may do
+this is for everyone so if you if you really feel like you've given it the
+whole dungeon devs try you have really exhausted all the steps we talked about
+
+00:20
+in our freelancing class here are two things that would also count
+uh the first thing is volunteering for a grassroots organization
+a group that is a community group that's on the ground doing great work probably
+in your local area it's okay to approach them ask if they
+need a web presence to see if they want to
+get a website built and you can do that for no money
+notice i didn't say free because it's not free but you can do it for no money
+now i'm distinguishing here between like a grassroots organization and a
+non-profit just because non-profits typically have some money
+like some of the biggest clients i've ever worked with have been non-profits
+and so a lot of more established they've been around for a while non-profits
+actually do have a lot of money whereas a lot of newer kind of boots on the
+ground type organizations might not have any collective funds that pay for a web
+
+00:21
+developer and could get a lot of benefit out of your services that you're
+volunteering however when you volunteer your time you still do the exact
+same process you still do a proposal you still do a contract
+you still say that there are terms in which you are going to be paid and
+how you are going to be paid is that you are asking them that when
+you complete the services that they will be the best
+reference customer that you have ever ever had and you put that in the
+proposal you put that in the contract it's no money down but you are signing
+up to be the best the best recommendation that i have ever had in my life
+right and so the idea here is that this will help you when you get
+
+00:22
+into the job search because the employer
+can actually talk to someone that you've worked with that you've done amazing
+work for and that'll help you get past some interviews or or seal the deal on
+an offer it can also help you land other paid
+clients so if for some reason you're not
+able to land the paid client or you have a
+a situation where you're not allowed to then this could be one of the first
+really big things that you could do that still helps you in the long run of
+getting a job and eventually developing and getting those other clients
+is it okay to skip the proposal go straight to the contract i don't think
+so i want you to get practice right all of this is practice the first time do it
+the traditional way after you've done a few you can see what you like what you
+don't like and modify the process to your liking but get that full experience
+
+00:23
+first when employers talk to our clients they
+ask if they paid us for what we built them most often not sometimes they will
+and you'll just you'll just coach your your your person to say if someone asked
+you did you get paid say i'm not comfortable disclosing how much we paid
+so when you when they say i'm not comfortable disclosing how much i paid
+that assumes that they paid but really they didn't they just don't
+feel comfortable disclosing it that's the big brain plays at play right
+here that's all i got to say so yeah so grassroots volunteering a-okay in my
+book to satisfy the requirements of getting a client
+the next thing that you can do if for some folks they can't even volunteer
+depending on their situation uh and so if getting a paid client isn't a thing
+and you can't do grassroots volunteering
+
+00:24
+i think this is the best the second best thing to do is the grassroots
+volunteering if you can't do this the the last thing that you can do that can
+be really beneficial in the job search process is
+contributing to free software or open source projects
+and so you would find a project that you're passionate about something that
+aligns with your interest and contributes some code to that project
+and the reason why this can be really helpful with the job search is that
+you're going to be working with real engineers
+shipping real code that makes it into real products and so when you're in an
+interview and they ask like what have you built you say oh do you know x y and
+z project well i did this thing for it or i i worked on this feature for this
+project and you can explain the code that you've written you can see that
+code live on github which we'll learn about on thursday and
+
+00:25
+once again it's one of those things that can take the the new developer stench
+off of you right and so there are some ways to get started with free software
+and one of the best ways to do it is this website that i have linked here on
+the slides called first timers only first timers only is a collection of
+projects that are super welcoming to folks that have never contributed to
+free software or open source projects in the past and so you can go through you
+can see the projects you can see if there are any that like
+align with your interest and you'll find hopefully a community of engineers that
+are welcoming and want to see you contribute for the first time and so it's um
+it's a really great place to start if you know you want to contribute to free
+software open source or you can also just look for projects that you're
+interested in there are so many things out there that are aligned with your
+interest that you could find and talk to
+
+00:26
+the organizers of that project to see if there's anything that you could add
+a lot of my students get started maybe just like cleaning up documentation
+doesn't even have to be necessarily code to get your feet wet it can be other
+things that until you get comfortable with the project how they do things and
+then work your way up to code as well so first timer only
+is a great place to start but also don't be afraid to reach out to projects that
+you like for example like if you like chess there's leeches it's a wonderful
+community of developers that are building uh a free chess server so you
+could do that right and so if you can't do a paid client or you've given it the
+full 100 devs try you tried everything on that list the two alternatives are
+volunteering for grassroots org but you still do the whole process or
+contributing to free software cool i'm going to try and do it all hey turn up
+does it have to be in javascript no but you'll probably bear maybe a little bit
+
+00:27
+better if it is javascript especially since you're going to be using your
+javascript skills to apply to jobs and showing that you have built a project or
+contributed in javascript can be helpful does it help to volunteer for
+organizations that are like a little bit larger um it can
+it's a great way of networking volunteering has always been the best
+thing i have ever done for networking volunteering at conferences is how i've
+made most of my adult friends uh so yeah it it it can be a great way
+to meet people it can be a great way to get engaged with a local community of
+engineers and that you now have a common bond between so i'm a big fan of
+volunteering whether it be for like code contribution
+or just like in general to some other organizations in your area
+i have a client but they only do a shopify site does that count hell yeah
+as long as they're paying you monies is streaming a good networking
+
+00:28
+opportunity do you think absolutely actually one of the best things you can
+do to build a small community of engineers that know who you are
+the only problem with um the only problem with
+streaming is that it's not localized so you get a wider net which can be helpful
+maybe for remote positions if you're looking for local positions that's the
+only thing that's the only downside the squarespace count hell yeah they're
+paying you for it outreachy is an open source internship uh for uh for folks yes
+uh so if you are looking for if you are a person of color
+if you're a non-traditional kind of individual coming into tech
+i hate that word but if you're looking for kind of like
+a good place to get started in free software outreach is a really good place
+to do that what they do is they take folks that are not traditionally
+
+00:29
+represented in tech and they pair them up with really big orgs like mozilla
+right or um or like any other big free software
+companies and they actually pay you a stipend over the summer to work on those
+projects and so it can be a great great place to start i can share that in our
+follow-up after today's class on discord major league nope that's not true
+there's a lot of other things that they look for as well
+now there's a bunch of things that are kind of like that they fall just folks
+that are not traditionally in tech cool so we have
+our alternatives which are contributing to grassroots orgs
+
+00:30
+and we have contributing to free free or uh open source software check out first
+timers only as a good place to get started i'll share some other folks
+i'll share some other folks other places to get started as well in
+the follow up today's class cool alrighty monday we are doing our live
+portfolio and resume review so we got a bunch of a bunch of things that
+are coming up this week uh i've asked for you to submit your portfolios and
+resumes uh so monday we are going to have our
+our roast session exactly uh we're gonna have a
+a row session it's gonna be a a class on
+monday uh it'll course it'll be recorded
+if you can't make monday but like i said this is the best week ever so we're
+doing something every single day of the week so
+if you can't make it on monday it's okay it'll be recorded but we're gonna go
+
+00:31
+through as many folks as i can in about an hour or two looking at portfolios
+looking at resumes looking at the things i think are super important to have in
+in part of your portfolio in your resume and then at the end i'll share good
+templates for your resume and templates for your portfolio as well right
+uh youtube was a little behind i am almost caught up with youtube now uh a
+lot of folks use youtube to watch the videos uh sorry i got a little behind on
+them they are caught up now we our first class on objects is on there and um
+you'll see the next class on objects come up uh tomorrow so the the the
+youtube's always going to be a day or two behind because of our contract with
+twitch but i try to get them as quickly as possible
+i always appreciate folks that watch on youtube if you're watching on youtube
+please give it a like that's all i ask uh it really does help the the algorithm
+for more folks to find it on youtube which is always
+
+00:32
+wonderful because then more folks find out about 100 devs and they find out
+about the bootcamp where they don't have to pay a lot of money
+or any money at all so that's the goal uh youtube is very finicky i noticed
+like if i post at the wrong time or i i miss a day or two like our numbers just
+tank it's pretty wild um like the difference between like 3 000 and a
+thousand is just like posting at a different time of day it's really
+interesting so uh if you're on youtube please give it a
+like leave a comment it really does help the algorithm and folks finding us on
+youtube and also if you're just trying to watch the classes
+youtube doesn't have any ads and it's easier to jump around too
+alrighty newsletter uh if you're part of the newsletter you might have noticed
+today uh that there was a special newsletter raffle
+and so i'm gonna go ahead and take all the responses from the
+
+00:33
+newsletter raffle today and we're gonna pick a random winner and that winner
+will be getting a 100 devs t-shirt that's right folks 100 devs t-shirt
+coming your way for the winners of this special
+newsletter raffle if you didn't if you didn't read the newsletter you didn't
+open up you didn't submit the raffle too late
+all right so i'm going to grab these here i love all the people doing it like
+right now as a as i'm in the as i'm in it so i'm grabbing from before i set it
+from before class started all right we're going to go from here up
+now i'm just grabbing all the names so we can put them into the name picker
+
+00:34
+all right grab them all let's do a random name picker
+boom thirteen hundred of y'all before i said it uh so let's go ahead and pick a
+random name three two one boom jerkson hey thank you
+for opening the newsletter uh send me a mon mail please on discord i'll send a
+mod mail and we will get the we will get the t-shirt your way congratulations
+see folks it pays to open the newsletter it definitely pays to open newsletters
+on the best week ever imagine that uh your your newsletter was going to
+junk this whole time convertkit's pretty
+good about delivering the the letters uh but i would always appreciate if you
+
+00:35
+like white listed my email uh that way your uh emails always came through and
+if you use gmail adding it to primary just so you always see them it really
+does help for some reason those ratios in terms of deliverability really help
+so i appreciate it all right the next big news we have is that well
+we have stream tonight well we also have a stream tomorrow
+folks and it won't be me uh i want to welcome hello it's rufio to the stream
+team hold on we got a 10 second warning here we got we just got to do a quick
+
+00:36
+quick confetti i think this is appropriate for this all right [Music]
+welcome welcome welcome to the stream team i'm so excited to have them um
+you'll notice there is a stream team channel in the 100 dev section of our
+discord members of the stream team can post
+there and i will ask that you turn on notifications for that channel you can
+like turn on notifications for that channel that way when folks of the
+stream team go live you get a message just like you get a message from me so
+we're gonna walk through that this week on how to do that but the first new
+member of the stream team welcome and tomorrow
+they are streaming normal time 6 30 pm they're going live and they're working
+through some cold wars so many folks have been struggling with
+cold wars don't know how to get started don't know how to approach the problems
+and so they are going to take the time to make sure right
+
+00:37
+that you feel comfortable and you can see you can see their process right
+they're going to share kind of how they do it you can ask tons of questions and
+so i'll be hanging out there tomorrow we're going to do some raffles over
+there as well so you definitely want to come hang out and so tomorrow night 6 30
+p.m if you want to do some code wars come hang out
+and welcome to the stream team thursday sponsored stream
+so not tomorrow thursday night we got a sponsor stream so tonight we have day
+one of best night ever tomorrow we have hello it's rufio streaming for the first
+time as part of the stream team they do amazing streams by the way just building
+wonderful things great community talking with folks building you're gonna
+have a lot of fun i'll be over there tomorrow then thursday we have a
+microsoft sponsored stream we're we're wilding out folks we are wilding out we
+
+00:38
+are we have so much swag from microsoft to give out we have some laptops to give
+out i'm matching uh swag as well i'll explain that in a second and so
+come back thursday for normal class it's a get in github class we're going to
+make get the terminal and github makes sense and it's sponsored so you're going
+to come and have a fun time if you haven't yet already part of the
+homework was to click this link and when you click this link
+there is this like email form if you fill out the email and you let microsoft
+send you some lovely lovely emails because they are sponsoring a stream for
+us where they're giving a ton of swag and they're giving away laptops and
+they're supporting the 100 devs community if you give them your email uh
+you will be entered into another laptop raffle so you definitely want to do that
+and then you'll notice i'm going to i already submitted it so
+
+00:39
+i'm going to skip but you shouldn't skip you should do it and then
+you'll notice that there are two resources here getting started with
+github and introduction to github i want you to do the introduction to github
+please that was part of your homework after you've done the video that i
+shared so if you haven't yet please go ahead and take a peek at this
+introduction to github before thursday's class and as always homework is a first
+pass we'll always do the complicated the important bits together during stream
+cool if you need that link you can do exclamation point ms in chat and it'll
+give you this link if you don't have the slides pull up yeah cool
+then friday we're doing friday with friends that's right folks tonight
+tomorrow thursday friday we are doing friday with friends it's going to be our
+first session of friday with friends friday we're friends is going to be uh
+
+00:40
+spaces we're gonna do mainly kind of uh discord spaces where you can have events
+on discord we'll probably do a few on twitter as well but it's just a place
+for us to bring folks that are part of the community it's a way for us to
+uh bring alumni to come talk to you to bring other folks that are that want to
+help and support the 100 devs community to come together so we're going to kick
+off friday with friends we're gonna try and do it quite regularly uh in the
+beginning and we'll see how it plays out but the idea here is that friday we're
+having friday with friends 6 p.m on discord i'll share more a few surprises
+to be had maybe a raffle or two i got you all right saturday
+told you best week ever we got we got something every day of the week for you
+if you want to be want to be here you want to be with community you want to
+you want to be with us for the whole week i got you this saturday well
+
+00:41
+april 1st which is technically friday our place is coming back
+for folks that don't know our place was one of reddit's open
+one of reddit's april fool's pranks from i don't know like 2017 i think it was
+and what it was is an all-out battle to place tiles on a map it's one of the
+funnest experiences i've ever had on the internet
+and since so many of us have come from reddit
+i thought it'd be really fun to battle it out to hold down our place
+on our place so saturday there will be a channel on
+discord for folks that want to organize and try and lock down a place on our
+place i think we have enough folks to do it i think we have enough folks on
+reddit to do it so i think that'd be a fun project for all of us to work on
+it'll be something fun come hang out we'll be in voice channels we'll be in
+
+00:42
+tech channels that will open specifically for our place here's what
+it looked like last time and so you're gonna see kind of like all
+these communities that came together to kind of capture uh their little slice of
+place we had the blue wave that was constantly trying to take over yeah
+different countries showing out different communities showing out and so
+i think we could hold it down i think we could uh figure out how to uh to hold
+down a little slice for 100 devs so saturday if you're looking to have some
+fun you want to hang out with a bunch of your 100 devs members
+come through on discord we're going to have a lot of fun and try and hold down
+a spot on our place cool baby jacob congrats that's great all right
+office hour sunday baby come on the best week ever we got to keep it coming we
+got office hours on sunday we're going to do the thing like we normally do
+have a lot of fun maybe a little bit more fun than normal
+i don't know you got to check it out then monday we kind of already mentioned
+
+00:43
+it we're calling it mentor monday we are going to have a place for folks
+that want to be mentors in the 100 devs community are folks that want to support
+the 100 devs community we're going to start off by having a
+little session on like how to help folks with portfolios and resume
+reviews and then we're going to do the live portfolio and resume review so
+you'll alumni you'll be getting a message from me because that's where
+we'll start with mentor mondays and then we'll kind of start opening it
+up to more and more folks but the idea is that we want to start building
+systems and helping train folks and the things that i do every day i want to
+help other folks learn how to do those things so they can support our community
+as well so we're bringing mentor mondays
+uh to fruition in the best week ever and then after that kind of chat session
+with the alumni mentors uh we will go ahead and do a portfolio resume review
+that will be live so that portfolio resume review will be live at 6 00 p.m 6
+
+00:44
+p.m i forgot to put uh 6 p.m on there yeah when is our place taking place we're
+going to be having it open all weekend it's going to be uh all saturday it'll
+be open uh we'll leave the channels open
+and so uh you don't feel like it doesn't
+be a specific time just come hang out if you want to try and hold it down
+all right all this is eastern time yup alrighty and then next tuesday
+is the best week ever the end hmm well it's got as the gift says there's
+got to be a banger so next tuesday we're
+doing it really big a lot of things that we're kind of just laying in the ground
+we're for today next tuesday next tuesday's a banger cool so best week ever
+we have a thing that people have been asking for
+
+00:45
+for a very long time and that is merch so i wanted to bring merch back
+and we're going to start with a very very limited run i want to show you the
+og merch uh that everyone has a chance to win with the raffles on thursday and
+tomorrow and the rest of the week so the the og merch will be available soon now
+a few of you tried to get into the chat early i saw
+you throwing the the exclamation point merch into the chat you got gap
+none of this stuff was live you couldn't you couldn't get it until i
+uh until i pressed the magical button so it's going to sell out i think pretty
+quickly uh just so everyone knows all the merch is at cost so as cheap as
+i can set the metric is how cheap it is there's no profit on any of this
+except for one thing every single time i do a merch drop i
+
+00:46
+have one thing that has the max profit and that max profit item
+is always something that comes along with the only fans match
+so the max profit item always has an only fans match
+um and so i got to get paid for my only fans and so
+it's like i think it's like a 20 buck profit or something like that it's
+always supposed to be a joke but somebody always buys it uh so it's know
+that it's a joke i don't want you to buy it but if you do when the first person
+reaches only fans you get only fans too that's right folks it's how you get it
+the only way in you get a million channel points or you buy the the only
+fans match so nothing showing up yet because i haven't clicked the magical
+buttons but i can go ahead and click those buttons now so let's go ahead and
+boom and boom there we go uh the merch should be live you can do
+exclamation point merch and uh stuff will come through you might
+
+00:47
+have to give it a little bit of a a refresh and then you'll see it come live
+oh boy they're off to the to the races here um
+i'm gonna pull up my merch panel here just so i can i can see it
+make sure everything's working and go to the store oh yeah
+it's live folks it's live [Laughter] i can bring it on to the window here uh
+you can see the the the the three lovely items that are up
+we have uh first and foremost uh the uh special cut of the
+uh engineering v1 and then we have the the another kind of cut of the
+
+00:48
+engineering v1 uh they're limited quantities of both and uh there's only one
+only fans match and so that that's super limited and
+looks like we're good all right i think it should be live all right there we go
+alrighty folks have fun if that's what you want and that's what we'll be giving
+away for the raffles this week let me pull it up real quick this is what i'll
+be giving away for the raffles this week uh the the regular kind of two t-shirts
+whenever you win a raffle you'll get to pick
+you'll get to pick either one of these cuts whatever you like and that'll be
+coming your way if you're getting server errors i'm pretty sure that they sold
+
+00:49
+out but don't worry don't worry remember i said tuesday would be a banger
+so there will be a lot more merch on tuesday as well some other fun things
+these are the og ones that i wanted folks to see and
+so they knew what they were getting with the raffles this week
+i think some folks found the donation page hey thank you for the donors i
+appreciate you already we did merch and the last thing i want to do
+uh the best week ever would not be our best week ever
+without thanking a lot of people uh-oh i forgot to turn up that sound off
+well if you bought merch i think you're you're about to pop up here
+sold out faster than the ps5 yeah there wasn't that oh
+there wasn't that many that were that were available
+and weren't that many that were available
+
+00:50
+i wanted to do a test run real quick to make sure it still worked and to for
+folks to see what was coming up with the raffles
+but i'm pretty sure they they sold out like in two seconds but that's all right
+tuesday we're gonna do another drop tuesday we'll do another drop but like i
+said it wouldn't be the best week ever without thanking a lot of people
+jason derulo hey thank you for the gift it subs and so
+throughout the best week ever i am going to do my best
+to thank some folks that are amazing contributors to this community
+uh that have shown up for us time and time again not not right now not right
+now but i want to give them a special place in each of these places that we
+meet this week so this week we have all these events we have an
+event tonight tomorrow thursday friday saturday sunday monday and next tuesday
+and so over this time there are some really important
+
+00:51
+people that i want to thank and so each each day you're going to see me
+highlight somebody different that has been an amazing part of this community
+and i think that's really important for us to to do so when you see them get
+shouted out give them some love give them some praise because they they
+absolutely deserve it um but before we kind of get into the rest
+of the night i also want to thank every single one of you um
+this has been an amazing ride nobody has ever done what we've been
+able to do this many folks all learning to code at the same time supporting each
+other building each other up making sure that we all get to the finish line
+at the scale has never ever been done and so thank you for helping build what is
+hands down the best community to learn how to code live online right now hands
+down you go on our discord at any time of the day there are folks answering
+questions there are folks in discord channels i could have never guessed a
+
+00:52
+little over a year ago that this is what would become of just a few classes on
+twitch so huge huge thank you to every single
+person that comes up that comes every single class that
+puts in the work when things get hard that doesn't give up on themselves when
+the things aren't sinking in gives me the trust to know that we'll figure out
+how to get there together that like stuff that retweets stuff that
+helps other folks that are hurting and could use this opportunity to find us
+i know it seems really silly but when you thumbs up stuff on youtube or you
+retweet stuff on twitter that helps more folks find us
+that's folks that don't have to splash out big bucks for a boot camp that can
+join the catch-up crew or learn at their
+own pace and have the support of a super strong community that helped them make
+it to the end and so for every single person that's ever done anything
+
+00:53
+that shows up that likes that retweets that does even those those things that
+you think might be small but have a huge impact i am overwhelmingly thankful so
+thank you to each and every single person that shows up and as we go
+throughout this week i'm going to take time to thank these folks that have
+helped build this community over the last year cool everybody
+we are at the top of the hour this is the best week ever i know i had to take
+a little time to do all these things but what what uh what a good start to the
+best week ever we got some amazing merch we got some amazing events all
+throughout this entire week let's go ahead and bring our timer up
+remember we got to be healthy even even during the best week ever we got to be
+healthy let's go ahead and bring up our timer please if you're able get up move
+around hydrate kiss some babies play with some dogs
+and when we come back in five minutes we're gonna jump into our review we're
+
+00:54
+gonna review a little bit of everything a little bit of a raise a little bit of
+objects start to have some fun and then uh we'll
+take it from there all right folks five minutes on the timer you got this i'm
+
+00:58
+gonna run some ads to actually take a break i'll see you in 5. um do
+
+00:59
+retro we are a 30 week software engineering bootcamp
+all right folks 10 seconds then we're back negative 10 shirts ghosts that's
+hilarious have these alerts been coming in while we're on break
+what i think of web though i think it's a cool tool to have in your tool belt
+[Music] yeah they have all right welcome back folks let's jump into this
+let's get some review on alrighty i'm going to chill those alerts
+
+01:00
+i'm pretty sure they're probably pretty loud all right there you go
+there you go i think the alert should be done
+already folks let's jump into it let's get into our review this evening
+all right programming what is a program a program is a what
+chat give it to me what's a program set of instructions
+so the act of programming is simply writing those instructions in a language the
+computer can understand the language that we choose is javascript
+because we can learn one language use it on the front end and in just a couple
+classes use it on the back end too it's highly in demand
+and it's something that we can use to communicate our ideas to each other
+beautiful all right we learned about variables variables are a way of storing
+
+01:01
+a value into memory to be used later on we can do both declaration and
+assignment at the same time there are a lot of new folks here tonight if you're
+new this is going to be a very quick review we're on class 23 you can always
+join our discord exclamation point discord get all the materials you need if you
+want to follow along today or join our catch-up crew and follow along your own
+pace until you can join us live already we learned about conditionals where we
+check to see if something is true if it's true we do what's inside the curly
+braces otherwise we move on to an else if we check to see if what's true is
+there if it is we do what's inside the curly braces if not we move on to the
+else the else does not have a condition it automatically runs if nothing else
+above it was true you can have as many l-stiffs as you would like
+we can always have multiple conditions as well separated by the double
+ampersand if your name is leon and your status is ballin it's the best week ever
+
+01:02
+so you bet i am you get a wink at the camera alrighty we can also have or
+study time hey thank you for the raid it's been a minute how have you been
+we got to get folks coming your way hold on that's that's cool we haven't
+seen you in a minute hope you're doing well let me do a shout out here
+uh study time is one of the best folks to be following if you're going through
+this boot camp and you're not following study time you have to
+uh and i'll explain why in a second let's see if i can do this here
+there we go all right we got the shout out
+let me see if i can just copy and paste that a bizillion times because there's
+so many folks here boom it's going to copy and paste it
+
+01:03
+there you go you have to give them a follow go ahead and give them a follow
+beautiful so uh study time amazing pomodoro sessions where you can get
+actual work done super chill super relaxed if you haven't please give them
+a follow i i'm lurking in there quite often when
+i need to get stuff done i'm hanging out there uh so if you haven't go ahead and
+give study time and follow thank you for the raid hope you're doing well
+hope your stream went well today i hope you already get stuff done welcome
+all right we gotta uh i'll send you a whisper we
+gotta get folks we gotta figure out a raid we gotta figure out the timing
+right so we can get more folks to come over your way because i feel like a lot
+of folks in our community uh could could benefit from your streams so we'll make
+we'll figure out how to make that happen all right we also have multiple
+conditions for those that are actually coming over that are new we're doing a
+
+01:04
+free 30-week software engineering bootcamp here live on twitch and so
+we're just getting some quick review of some of the topics that we've already
+covered so far all right all righty so multiple conditions we
+have day equals saturday or day equals sunday if it's saturday or sunday we
+will see it is the weekend functions what are functions chat
+give me what is the function please set of instructions exactly
+set of instructions simply a set of instructions
+the set of instructions are reusable and they become the building blocks of our
+programs we can separate out these functions into individual
+pieces and use them as needed we have our function declaration and our
+
+01:05
+function call whenever we call we call to argue we pass in our arguments and
+they fall into our parameters wherever we see the parameter it's the values
+that were passed in an example is when we call the function yell we pass in the
+argument of hello wherever i see word it
+is indeed hello and we would alert hello wonderful loops chat with our loops
+yeah whenever we need to do something multiple times we can use a loop it's
+just a repeating in action multiple times there are a couple kind of main
+loops that we started with like for and while
+i've seen a bunch of other loops now specifically due to methods that are
+tied to arrays we saw four reach we saw map we saw reduced all these things that
+are looping through and doing something multiple times i love it
+
+01:06
+for loops we start with our counter we say when our loop stops and how much our
+counter goes up by each time so this would console log all the numbers from
+one to four because by the time we got to five this is no longer true
+alrighty we got some review in let's do a turbo review
+you're gonna notice some of the questions look a little familiar
+i know some of the questions look a little familiar
+so go ahead and open up turbo review if you don't have the starter code for
+today make sure you join our discord exclamation point discord agree to the
+rules and then the following materials channel you'll find the zip file for
+today in that zip file you'll find the turbo review
+there are some variable questions some function questions and it looks like
+these uh function conditional loops might be a little
+similar get them done get your active recalling get your space repetition in
+and we're gonna put uh here come the flexosaurus
+
+01:07
+let's let's put uh let's put let's put a a a solid eight on the clock
+solid eight in the clock now let's do seven let's keep it spicy
+let's keep it spicy don't copy and paste do it from scratch
+i see you no way you typed that fast get out of here
+all right folks seven minutes on the clock you got this
+blah added two more minutes thank you blah so this becomes a nine minute timer
+all right nine minutes on the clock folks have at it you got this thank you
+you got this dig in try your best give it the old 100 devs try
+some of these variables and um function questions they're gonna they're gonna
+you're gonna need to maybe google some stuff to figure out how to do it because
+we might not have covered those methods yet so
+for folks that are kind that have done the turbo review before there are some
+
+01:08
+different questions here oh island sometimes
+do we have to use conditionals uh no not if you don't want to you can figure out
+other ways go for it looks like i'm sipping wine no i promise
+you it's just it's just water and some some berries
+man these merch alerts still coming through
+thank you everyone that bought the merch
+
+01:09
+that's pretty cool i'm really excited to see y'all rep 100 devs og merch
+would it code i open up a um slido for the for the clips
+law that's called bomber's peak yeah there's like a certain level of
+intoxication where it helps the coating and then an immediate drop where it no
+longer helps yeah neurologic is long as cheap as
+they'll let me sell them is what i sell them at there's no profit on any of them
+charlie said will you restock absolutely we'll um wait did study time rate again
+how's that possible did you go live then come back
+or is that or is this the alert just coming through now
+the alert not come through i guess because of all the merch um alerts
+
+01:10
+show us study time again definitely need to hang out there if you're not already
+how do you feel github co-pilot bad idea to use if you're just learning yeah i
+think in the beginning try and do things that make you have to learn the syntax
+and then as you get comfortable with a language then you can use tools like
+that for sure that merge should have worked for anyone
+we've had folks from all over the world be able to get the merge through that
+link so um i'll double check to make sure
+there's no settings in mind or anything like that but it should have worked for
+other any folks i think it just sold out really really quick
+ours no keep keep following through um you there's there's the newer videos of
+
+01:11
+cohort 2. i might use those instead of the other cohort um just so that you're a
+little bit closer to what we're doing this this year
+um and join the catch-up crew on discord get through get caught up and then join
+us live except for office hours um office hours i think you should still
+come through oh and for folks i'll mention this again
+when we're back i know folks mute me during the work time but uh i know that
+everybody can afford to buy merch i try to make as cheap as possible it's ten
+dollars for the t-shirt but um i know that that's not a privilege everyone has
+and so uh for all the swag that microsoft gives i match with like random
+giveaways for for swag so hopefully there's a chance you to get a shirt too
+if you really want one what if we can't attend every stream
+
+01:12
+this week you don't have to it's just for us to have some time to celebrate
+come as you can don't worry about making them all i know
+a lot of folks have other commitments in life and jobs and so yeah no it's just
+just for us to have some fun it's not it's not something you have to commit to
+what's wednesday it's hello it's rufio's first stream as part of the stream team
+
+01:13
+i got you dab it'll be on their own yep it'll be on their own
+can we win the laptop if we aren't in the us yes i ship anywhere in fact
+it was like probably like a month ago i just started getting back merch that i
+sent last year like i like i had shipped out some stuff
+and it just didn't make it like i sent it to some some places that
+i mean it was it was a crap shoot if it was gonna make it there but we tried
+um and they got they got returned unfortunately for some places but i'll try
+i'll try to ship it anywhere i can uh yeah they'll hear back from mod mail
+we're we'll probably won't be responding about like raffles until the end of the
+best week ever because there'll be so many and then on like wednesday of next
+week i'm just going to go through and set up everything so that way i can ship
+everything out yeah you'll hear back from me probably
+
+01:14
+like next wednesday if you win something like at any point this week
+can't do the first question that's okay this is i don't know i should be able to
+know how to code this these first two questions were
+more you googling than you knowing how to solve something cloth that's awesome
+yeah these first two ones are not things that you should know is something that
+
+01:15
+you'd google to figure out three you can do exclamation point
+semicolon in chat and you can read about all about it
+it's with the first time chat just to drop the dunzo on us i love it that's
+how you use your first time uh highlight we learned docker some folks might pick
+it up based on like if they do free software
+projects but it's not something that we'll go deep on or like really cover in
+class or something that you might pick up on your on the job
+funk ketchup and then join us live once you're caught up
+
+01:16
+oh one yeah we sold out within like a minute
+yeah i use docker all the time i love it
+alrighty folks come on back come on back so yeah you're eligible if you come to
+you got to be in the class though thank you sammy
+all right come on back folks let's go over this together
+but let's look at some of the new ones and we'll get the review together as
+well uh will friday's best ever be recorded yeah everything that we can
+record will record yeah and we'll at least share it on discord cool
+
+01:17
+already declare a variable and assign it to a sentence as a string alert if that
+sentence is a question um how do we know if a sentence is a question
+first of all yeah it ends in the question mark so
+we would need to figure out whether or not our string ends
+with a question mark so what did you all figure out you could use with strings
+to figure out if a string ends with a question mark
+includes could work uh some folks found ends with yeah that's what i think i
+would use uh so if you give it to google you might
+have come across with ends with so let's create a string uh
+const because this is never going to change uh let's say
+it's just going to call it a string we're going to say is this the best week
+
+01:18
+ever oh yeah and so what we can do is we can alert if the sentence is a
+question because we can just go ahead and alert
+and we can pop in here straw ends with and we can just pass in the question
+mark so if this ends with a question mark right
+if this ends with a question mark what do you think we get
+let's go ahead and let's go and save this and see if it works first
+open it in the browser all right we get true boom we get true
+so we know oh yeah [&nbsp;__&nbsp;] yeah let's go beautiful all right thank you
+
+01:19
+yeah those turbo fits are digging that oh yeah all right so we did get true
+and so what do you know ends with returned what did it return
+yeah return that that true or false value and then we simply just alerted
+that true or false so we know that our string was a question because it ends
+with a question mark now there's no way that you would know this
+unless you had read it in some readings or had
+maybe come across it on the mdn this is something that you had to google right
+oh because it's a function exactly it's a function we're passing this in what i
+have highlighted right here is technically a what
+
+01:20
+what i have highlighted is a what it's an argument like if i was to break
+it down this is a method on a string but right now we're passing in that
+method on the string in as an argument to the alert method right pretty cool
+but i think there are some folks that are like that they're like there's no
+way i can figure this out ah they just you just had to google and so getting
+better at googling getting over that initial
+there's like that thing in our brain that goes i don't know how to do this i
+don't know how to do this i don't know how to do this i can't do it i don't
+know how to do it i'll never forget i can't do it i can't do it i can't do it
+can do it [Laughter] you got it you got to figure out how to turn that off
+this had nothing to do with your ability to code javascript
+this had nothing to do with how how much you understand this was all google
+and so sometimes we have to turn off that thing in our brain that says we
+can't do it i don't know where to get started i don't know what to do
+
+01:21
+and just freaking google it well i said i just spent 3.5 work days
+googling various things to untangle a bug days and it's okay exactly this is
+what you do on the job you sit down you
+go [&nbsp;__&nbsp;] i have no idea how i'm going to solve this
+and then you google your ass off for three three and a half days like blah
+just did that's being an engineer so when you get a question that you just
+have no idea you gotta fight that feeling that thing that says you can't
+figure it out and just google it and spend time developing that skill set
+because what you're gonna do on the job and it gets better the more you do it
+all right declare a variable assign it a string
+of multiple words replace every junior dev with software engineer and print it
+
+01:22
+to the console all right let's string equal i am looking for junior dev
+uh positions there we go i am looking for junior dev positions nah
+now what we do is not what we do all right cool so let's go ahead
+what could i do to replace every mention of junior dev
+replace that could work maybe once though replace all yeah let's go and do
+replace all so we need to print it to the console so we'll do our console log
+and then inside of our console log we are going to do string
+
+01:23
+or straw and we'll do replace all and then replace all takes in two values
+it takes the thing that you want to replace so in this case it'll be junior
+dev we gotta make sure the spacing is correct and we're gonna place it with
+software engineering all right so what this will do is it'll
+replace every junior dev with software engineering let's go ahead and save this
+all right let's save this and let's open up the inspector
+and let's go ahead and refresh uncaught syntax there stra has already
+been declared happened it's saved what happened
+yeah we've already declared a variable called stra
+
+01:24
+and it's a con so there's no way that we could even override it down here
+we're never changing our string to be that we're looking for junior def
+positions get the [&nbsp;__&nbsp;] out of here where
+have you been if you thought this was what we were going to leave it as so we
+we got to use a different name let's let's do string to change
+there we go string to change so i get a little excited every once in a while
+it's the best week ever string to change and we're going to replace it all so
+let's save it let's go back let's refresh true and i am looking for software
+engineering positions let's go turn up we got this second try all right next one
+this is where it kind of gets similar we've kind of seen these next three
+questions already but that's okay let's take some time and go through them
+
+01:25
+blunder no alrighty create a function that returns rock
+paper scissors as randomly as possible so what are some things we're going to
+need to to do this randomly what are some tools we're going to need
+to generate rock paper scissors randomly oh yeah when it gets to the bottom
+that's when you know you're doing good match.random exactly all right so let's
+go ahead and we know we're going to create a function
+that returns rock paper scissors so i'm just going to call this function rock
+paper scissors and we're going to return either rock
+paper scissors but before we do that let's go ahead and create a variable
+that'll hold our random number so let's say let random
+equal and we'll do math.random and math.random in case you forget
+
+01:26
+returns a number between zero and one so
+we're going to get a decimal some number between zero and one and so if we want
+to do it equal values we'll do a conditional and we'll say if random
+is less than what 0.33 exactly if it's less than 0.33
+let's go ahead and return rock we'll return a string of rock uh elsif else if
+if uh random is less than 0.66 we will return paper
+beautiful and if it wasn't less than 0.33 or less than 0.66 the only other
+thing it can be the only other thing it could be would
+
+01:27
+be greater than 0.66 so we can just do an else and in that case we'll return
+scissors beautiful great so now we have a function that we can
+call that will return rock paper or scissors wonderful
+create a function that takes in a choice that takes in a choice
+could you use fractions of decimals probably yeah
+just make sure you and you you use your parentheses to keep it separated
+could you make it into an arrow function you could but i think this would be way
+more readable the way it is yeah i like the readability of this all right
+so let's do the next one here create a function that takes in a choice
+rock paper scissors and determines if you want a game of rock paper scissors
+against a bot using the above function so we're going to create a function that
+
+01:28
+is going to take in a choice that we use and then compare it to the choice that
+the bot generates using this function above so i'm going to go here and
+create a function i'm going to call it uh check win
+and we know that we're taking in player choice
+right that the choice that the player is going to pick and the very first thing
+we have to do is get the bot choice i'm going to set bot choice equal to calling
+rock paper scissors so what's going to happen is the very first time well the
+very first thing this function is going to do is run
+the function we have up here and we know that this function right
+we know that this function can spit out rock
+paper or scissors so there is an equal chance
+
+01:29
+that this will wind up being either rock paper or scissors so any any
+there we go anywhere else we see bot choice anywhere else we see bot choice
+we know that it's going to be either rock paper or scissors
+that's how you spell scissors by the way cool
+so now we got the bot choice we have to do our comparison so we'll do our first
+conditional and we're just going to compare like the the choice of the player
+to the choice of the bot and so if the player choice equals rock and
+the bot choice equals what i want this to be winning
+conditions so what would bot choice have to be for us to win this very first
+
+01:30
+scenario i'm going to put this in parentheses just to be a little safer here
+yeah it would have to be scissors all right so player choice with the rock
+bot choice of throw scissors that is a win condition now we can check for some
+other win conditions using ore so if this is true or
+i'm going to copy and paste it actually or this is true so if the player threw
+let's say scissors and the bot choice through what if they
+threw if bot choice it would have to throw what to to for this to be a
+winning throw paper oh y'all violet that would have been funny if i thought
+
+01:31
+about it in the moment but i didn't all right scissors paper
+scissors paper and we we have one more or
+so if this was true or this was true or this was true uh player choice equals
+paper they would have had to have chosen bot would have had a chosen rock great
+so in this case this case we now have all of our winning
+conditions if they if the player chose rock and bot chose scissors we win if
+player chose scissors and bot choice was paper we win if player choice was paper
+and they threw rock we win so we have our three
+winning conditions separated by or and so in this case we would just maybe log
+to the console winner here we go win a winner chicken dinner
+beautiful then we can do an elsif and in our elsa if we can check for a tie
+
+01:32
+and check for a tie would be a tie how how would we determine the tie throw it
+in chat for me how would we return determine the cha the try
+yep if player choice equals bot choice player choice equals
+bot choice beautiful so player choice equals bot choice and we can console log
+tide and then if if you didn't win you didn't
+lose the only other thing that you could have happened
+sorry if you won or if you didn't win if
+you didn't tie the only thing that could have happened is that you you lost
+there we go cool so we have the bot choice being
+determined by our function up here which is returning rock paper scissors
+
+01:33
+we now have the ability to randomly see if we win tie or lose
+and then we can call it so the name of this function is check win
+so we can throw in statistically you should always throw paper
+like if you're picking a choice you should you should throw paper most
+people throw rock the first time yeah it's like it's like 60 to 70
+percent people throw rock the first time and so you should all you statistically
+should throw paper the first time got you now you know alrighty
+so we have our check win let's go ahead and make sure the code looks good i'm
+going to give you a second to look at this rock paper scissors looks good
+look at the check win see if it looks good because we're gonna do a a little
+yolo my friends a little yolo here let's go into yolo all right
+
+01:34
+let's just make sure it's working first let's comment out this other stuff up
+here just so we don't have to um deal with that boom
+boom save it let's come back let's refresh these power rangers photos are lit
+all right so we got a loser we got a winner got a winner we got a tide so it's
+working you saw the code you might there
+might be some discrepancies i don't know i mean i wrote some bad codes and maybe
+sway the options here so let's go and set up a yolo let's start a prediction
+are we going to win or lose win or lose commission period is one minute
+and start the prediction we win or lose if it's a tie we run it again
+
+01:35
+all right get in here if you want to get in here win or lose yolo those points
+get your predictions in people throwing around big points got this
+a million channel points already up wow we might have a mill on each side
+a milli millie amelia milly yeah y'all throwing out tonight i see you wow
+1.6 million on each side in terms of channel points there's no timer right now
+king's og a thank you for the hydration cheers to you yo i mean there's no timer
+
+01:36
+next timer we'll do another we'll do we'll add two minutes though
+all right you ready folks for all the marbles three two
+wait a minute actually let me tell let me talk about something for a second so
+all right three two it's going to get loud after after
+this wins right i'm gonna get loud after this wins so three two
+
+01:37
+one losers win it [Music] way to go way to go let's confirm it losers have it
+complete the prediction you got your points
+oh boy let's see whoa it was 2 million on each side
+2 million on each side 2.1 million for winning and 2.1 million put up for losing
+and sour sprite i think got 97 000 they spent 97 i can't do any more yolos
+that's it we're done am i at the end stream they put out 97 000 in one
+
+01:38
+that's it that's the last yellow we're done someone also lost a lot too
+oh that's wild that's wild all right and then i always love that like
+this is like the most like wholesome gambling ever because as soon as someone
+wins they immediately spend it on like resume reviews portfolio reviews so like
+[Laughter] would it code as soon as they won their yolo boom resume review
+what a rush [Laughter] [Music] i love it uh would it code send me a mod
+mail please we'll set it up you're all the best all right let's keep pushing
+uh we will skip the the loop we already did that together um we'll come come to
+
+01:39
+office hours we'll do more of the loops and fun stuff on um office hours
+all right turbo review done erase chat what are arrays one more
+uh maybe maybe we'll we'll see we gotta this is the best week ever we got a long
+we got a long week folks we gotta say some of the yolo love to go around
+arrays are indeed toasters exactly toasters well done i always hope that
+new people join us right as we get to this thing what are arrays toasters
+all right arrays are like toasters it's one element or one structure
+that can hold a bunch of other stuff alrighty
+the tricky thing about our arrays is they start counting
+right they start counting with zero so the first element in the array is at the
+
+01:40
+zeroth index we can create new arrays using this
+array constructor which maybe makes a little bit more sense now we have the
+special new keyword and this array what can you tell me about this array
+this is this is really important we haven't talked about this yet
+but we know the new keyword is used to help us create what so far
+the other places might pop up but so far we know the new keyword helps us create
+what helps us create new objects and if we look at this what do we know this is
+just by looking at it what is it it's a constructor function how do i
+know it's a constructor function because
+the first letter is capitalized so built into javascript isn't a there isn't a
+way to create a new array using the built-in array constructor
+
+01:41
+which spits out an object that's an array that's some [&nbsp;__&nbsp;] ain't it
+that's that's that's that right there once this stuff starts clicking man i
+love me some javascript jb donna who a thank you for the gift it subs i
+appreciate it thank you for being here so we saw new only in one place
+we saw new when we were using our constructors to spit out objects and
+we'll see that again in a few seconds but we only saw new when we were
+creating um when we were creating objects so when we
+see this new keyword we should be like all right as much as we know right now
+it's used to create an object and we saw it whenever it was combined with a
+constructor function right whenever it's created with
+constructor function and we know that this is a constructor function because
+it follows the nomenclature that is to have a capital letter a
+
+01:42
+right so right now we can see that this is a constructor function that's going
+to spit out an object that has all the properties and methods that enable it to
+be an array so when we create a new array object
+what properties does this object have what does new array now have what are
+some properties that it could have
+length holy [&nbsp;__&nbsp;] what are some methods you could have for each map
+holy crap that means somewhere built into javascript is a constructor
+function that's giving it the length property that's giving it the 4-h that's
+giving it the map that's giving all that stuff like if we could go and like look
+at the javascript source code what you can do
+you would see that they're out of this constructor function is setting up
+length is setting up for each it's setting up map it's setting up reduce
+
+01:43
+it's setting up all those things that we're using all right
+or we could just use little notation who wrote all that
+a lot of people over the years the joke is that javascript was written
+in 10 days and then it had a lot a lot of time to mature after that
+when we're declaring arrays we can pass in values right we could have
+any type of value that we've learned about so far we can have strings
+booleans numbers even other arrays can go in there what
+seclusion hey thank you for the 10 gifted subs that's wild
+thank you so much thank you for being here
+thank you everybody for all the subs and and bits and all that fun stuff tonight
+i appreciate you all thank you hey appreciate it seclusion all right
+
+01:44
+arrays start counting at zero is the best week ever a turnout
+array index we start at zero so if we wanted the new york city out of this
+array we have to use the zeroth index that's how we could grab the first
+element by the index of zero cool we can also get stuff out of the array
+using the index and we can also put stuff into the array using the index
+if you're new around here folks we're going through this quick this is meant
+to be a lot of review we can also use those properties that
+come with our arrays like length a length will give us the total number of
+elements in the array in this case if we looked at best colors
+and we used the length property we'd get
+four so down here best colors dot length that's actually four
+we can loop through our array pulling out each color using an index
+the very first time this runs i would be zero we grab green one for blue two for
+
+01:45
+yellow three four black beautiful we can even use built-in methods that
+come with our arrays like for each we're usually going to run once for each
+element in our array so this case it would grab green and zero blue and one
+yellow and two black and three we could pass it into this arrow function
+wherever we see x it actually would be green then blue then yellow then black
+beautiful cool space review let's pull it up folks let's pull it up space
+review take a look alrighty so with our space review you
+got some things to do here with a raise some of these should look really
+familiar should look really familiar let's put five minutes on the clock and
+who gave us yomi two gave us an extra two minutes so
+
+01:46
+we're gonna put seven minutes on the clock thanks to yomi ii get as far and
+as fast as you can we'll go over it together and then we'll take our break
+when we come back we look at objects we spend more time with objects and
+hopefully get to arrays sorry get to apis all right so we had five we'll make
+it seven let me stop the timer as far as you can
+this should if you've already done this you've already solved this great do it
+again see how fast you can get it if you're if you're struggling with it
+great do it again see how far you can get ten minutes on the clock go for it
+this is space review space review we'll go over it together and then we
+will take our break if you did it once before try doing it
+with arrow functions try spicing it up a little bit
+
+01:47
+time is flying yeah when time flies we're having fun folks
+move the clock down i got you there we go after the break gets objects and then
+objects will lead us into the apis jb donohue a thank you for the 1800 bits
+that's wild thank you so much doing too much i appreciate you thank you for the
+get the subs thank you for the bits thank you for being here
+
+01:48
+honda how many how many channel points do you have hey [Laughter] [Music]
+flew too close to the sun eh hundred dev speedo uh we did a hundred
+des bikini i don't know if there is a speedo on um
+streamlabs merch but i would be open to it if there was
+man i gotta start practicing smash brothers and stuff now that
+
+01:49
+people are getting closer oh honda you're one yolo away do you risk it all
+i actually got to set it up now i gotta say i don't even think it's set up right
+now um so i'll set it up i'm gonna go make sure it'll be set up before uh
+before uh thursday in case folks do hit it [Laughter]
+you're the one that got it right yeah i'm glad you enjoy it
+i never really played halo that much the whole the whole idea of like shields
+is kind of odd to me coming from cs sour spray hey they give it a 10 gift of
+
+01:50
+sauce thank you so much for being here i appreciate you
+vladie yes we'll be announcing all that stuff this week during the best week
+ever kangaroo not yet no time no time three minutes left on the clock folks
+first try the second question without looking a there you go turn up excuse me
+done code words helped a lot with this awesome good to hear
+
+01:51
+first time done before the timer code that's awesome congrats
+these are code words questions they are intent [Laughter] shuffle a
+even in the skies that's awesome thank you for being here
+we don't get got even in the air got some dunzo's coming in that's good to see
+
+01:52
+what lady nozilla hey thank you for the gift
+itself thank you so much for being here probably evo butter review
+looked at the first one felt the answer hell yeah
+is it a bad thing if i knew exactly how to do these on tuesday but forget now
+not necessarily bad but definitely a good reminder that you
+might need to do a little bit more enkei and a little bit more active recall
+after class i know after class we do a raid um but you definitely want to make
+sure you get a little bit of reviewing before you kind of shut the books for
+
+01:53
+the evening um lou whenever somebody says they
+struggle with maths i ask them first are they studying right do you use active
+recall to use space repetition have you applied that to learning math because if
+you haven't it's probably not your aptitude of math which almost it never
+is but more so your study habits start there is it bad if my brain shuts down
+sometimes no that's what that's that's what it's such
+a good good thing to bring up um everybody has levels that they can
+actually focus and a lot of folks jump in learning how to code
+thinking that they can do 10 hour days and and and just no
+we all have a different amount that we can focus and getting comfortable with
+that and then slowly pushing it up is what the name of the game is and so
+
+01:54
+like for me like i shared my story before i started off with stuff that was
+wild one minute on 59 minutes off because that's just where my attention
+span was and i worked at it i pushed it and it got up to the point where i feel
+like i can focus or good blocks of time but i'm still i still feel most
+comfortable at like 45 15. i'm not even doing like full hour do 45 minutes on 15
+off is like where i feel like when i'm having a good day that's right that's
+where my peak hits all right folks come back let's do this together
+then we'll take our break alrighty create a rave number sum all
+the numbers alert the sum all right let nums equal uh 10 20 30. cool 10 20 30
+and then we'll skip one and go straight to 50. beautiful
+sum all the numbers alert the sum what are some ways that we could sum all
+
+01:55
+these numbers what are some ways that we could sum all these numbers
+we could reduce so maybe we do an alert and in that alert we do nums dot reduce
+and then inside that reduce we know that we have an accumulator and a current
+value and we know that we can add to that accumulator the current value
+and always for safety we throw in the zero cool
+let's save this and see if it works did i open it i didn't open it
+all right we got 110 in the alert hell yeah y'all that black range is lit
+
+01:56
+there we go beautiful all right let's make sure that was the first try
+yeah 10 20 30 at 60 60 plus 50 is 110 for straight cool
+so let's see what let's talk about what's happening here
+we know that we're inside of the alert all right the alert opens and closes
+here so all this stuff here is going to reduce down to a singular number that we
+now know as 110 right we know that that is 110.
+and so what's happening when reduce is running
+reduce is a method that only works on a what chat reduce only runs on a what
+chat what does reduce only run on as far as we know yes an array
+so we can see that nums is our array so we know that reduce
+is going to use the values that are inside of our nums array
+
+01:57
+and what reduce is going to do is it's going to run once for each
+element in the array so we have four elements in our array so reduce
+is going to run 4 times each time it runs we're going to grab
+the value and plop it into the current value
+but first current value is going to be 10
+then it'll be 20 then it'll be 30. then it'll be 50. we're just pulling the
+values out of this array passing it through our parameter of c
+wherever we see it's the current value and all we're doing with reduce in this
+instance is taking that current value and in this case
+adding it to the accumulator so accumulator goes from 10 to 30 to 60
+
+01:58
+to 110 because what we're doing is adding each of these values to that
+accumulation right we're just we're just adding it to
+the pile that's all we're doing we're adding it onto this pile of numbers
+and so eventually this reduced all the way down to a singular number
+that was 110 and since we were inside of the alert we saw the 110 get alerted
+cool there are other ways we could have done
+this we had like a for loop that added to a sum and then alerted it but reduces
+the the easiest hearing something we've seen and we definitely want to get
+practice uh with these methods now something that kind of bugs some folks
+sometimes is that they think that this a
+c c and c are built in no these are just parameters we could call these whatever
+
+01:59
+we want robot and dino right it just doesn't matter
+it's still always going to be the first parameter is always going to
+be our accumulation when we're using reduce
+and the second parameter is always going
+to be our current value when we're using
+reduce so it doesn't matter what we call
+them it's just the fact that since we're using reduce
+robot's going to be the accumulation and
+dyno is going to be the current value it just doesn't matter what what we do
+when would you not want the initial value to be zero if you're multiplying
+right if you're multiplying you wouldn't want it to be
+set to zero the zero doesn't actually need to be here right now
+the zero helps when you're worried about types so let's say this wasn't a
+number but instead of string the zero is going to tell the accumulation to start
+
+02:00
+off as a number and not a string so that we don't concatenate we just
+actually do the addition cool but this would still work even without it
+beautiful we get the 110. all right next one
+create a function that takes in an array of numbers
+return a new array of numbers that is every original number
+squared uh so whenever we know we need to return a new array
+right whenever we want to return a new array what do we need
+yeah map is the map is the way let's go ahead and create a new array
+and set it equal to let's just use our nums from above let me just do nums.map
+and all we're going to do is we're going to take in each number and
+
+02:01
+it says square it so we'll do num equals num and then we can just square it by
+doing what how can we square number could do math.pal that's one way what
+else could we do num times num that's another way to do
+it uh we could also do this too that's another shorthand way of squaring
+right so we could do num times num that would be the probably the clearest way
+but there are other some other shortcuts like that that would also square
+you could also do um math.pal yeah we're not doing square root we're doing
+square which is different cool all right and let's just see what that would be
+110 and then oh do i have was it was it console logged
+oh no i didn't do anything with it did it say to do anything
+
+02:02
+it does say to return it so we could do it as an inside of an arrow function
+if we wanted to let me say just like numbs oops sorry not here
+there we go beautiful so now what we're doing is we have this set up as an arrow
+function because this right hand side has a what this right hand side has a what
+yeah it has an implicit return yep has an implicit return meaning that
+it's just going to return that that bit cool alrighty
+this should have been kind of stuff we saw last class
+definitely make sure you're getting this
+review in so that way when you see these things for the second time you might
+know how to approach it all right next one create a function that takes a string
+
+02:03
+print the reverse of that string to the console what could we do
+n ends uh astrix actually two is just another way of squaring it's just
+something built into javascript that can also help you square
+yeah we saw how to reverse last time split reverse join
+split reverse join split reverse joint split reverse join split reverse join
+split reverse join is how we reverse a string that should be in your anki you
+should you should be able to spit it out whenever you need
+all right create a function that takes in a string
+print the reverse of that string so let's say uno reverse equals
+we're going to take in a string and we are going to console.log that string
+
+02:04
+split reverse join beautiful there we go what split does is it takes the string
+and turns it into a what howdy sand turns it into an array
+once we have the array reverse can reverse each in this case we split it
+into individual letters reverse can take those individual
+letters and it can reverse them and then once we reversed our array we
+join it back together to get back a what to get back a string exactly otherwise
+we'd still be dealing with an array we want that string back why does
+uh reverse not need quotes because when they made the reverse method they didn't
+need it to take in an argument to do the reversing so we don't need to pass
+anything in splitting needs to know how you're splitting up the string are you
+splitting it into individual letters are you splitting it based on a delimiter
+like a space or a comma same thing we're joined how are we joining it back
+
+02:05
+together we're joining all the letters back together are we joining them with
+spaces et cetera et cetera alrighty create a function that takes in a string
+alert if the string is a palindrome or not how could i do this create a function
+that takes in a string alert if it's a palindrome or not
+what am i going to do here what am i going to compare yeah cool so
+let's do const palindrome check equals we're going to take in a string
+and we're going to see if that string equals that string split reverse almost
+
+02:06
+join there we go we know we're going to take in a string
+we're going to see if it equals uh the same as that reversed and we're
+going to throw this into an alert so we get the alert beautiful so if the string
+equals the string reversed what do we know that we have
+if the string equals the string reversed what do we know that we have
+we have a palindrome exactly and so this case it would evaluate to true and we
+would alert true if um if this was not the same backwards
+and forwards we would get false and would alert false so let's save this
+let's go ahead and call our palindrome check and let's pass in race car
+
+02:07
+let's save it let's go ahead and refresh
+and we get true we see true gets printed sorry alert it because race car is
+indeed a palindrome is it bad practice to use
+luna reverse we could use a reverse in here
+we could we could call uno reverse with string we could do that we could do uno
+[Music] reverse and pass in passive string as a as an argument
+but we would have to get rid of the console log here
+because we want it to return we need it to be a return
+not a console log if we're going to do that so let's save it
+see if it still works and we still get true so it's still working
+so what happened here let's let's do this together we have our function call
+
+02:08
+we're gonna pass racecar and is an argument into our string
+wherever we see string it is now racecar right wherever we see string it is now
+race car and so we passed race car into our uno reverse function
+which is going to have an implicit return of race car but in this case race car
+will be reversed and so now we can compare the string we passed in
+with the reverse of the string using the function we did up here
+this is the beauty of building out functions that do singular things
+because we can start to reuse them in other parts of our code so now whenever
+we want to reverse a string we no longer
+have to build out this code to reverse a
+
+02:09
+string we can just call it as we need it all right folks let's take a break
+let's take a break if you need to come back to this stuff come to office hours
+we're going to do more practice almost exactly like this during office hours
+come on on sunday we'll be doing it together
+alrighty let's go ahead and take our break when we come back from our break
+we're jumping into our objects for quick
+review and then hopefully getting to see some apis before we wrap up today uh
+what a great first day of best week ever it's been all right five minutes on the
+clock folks bring it over coder thank you for the bits i appreciate you
+all right here we go cn5 if you're able please get
+
+02:11
+
+02:13
+
+02:14
+up move around hydrate i'll see in five foreign you
+i forgot to run ads damn thank you i
+
+02:15
+forgot to though [&nbsp;__&nbsp;] sorry folks if you get as my apologies um
+bob was popping off huh all right come on back everybody let's
+get into some objects have some fun let's do some review and in
+1992 thank you for the hydration cheers to you alrighty what are objects chat
+what are objects everything true true but there's something specific we said
+yeah they're collections of variables and functions nice
+questions of variables and functions now when we're dealing with objects we
+
+02:16
+call those variables properties and we call those functions methods
+when we're thinking of objects i really like to think of physical objects in
+this case i always like to start thinking off by like a stopwatch a
+stopwatch has some variables which we call properties and
+it has some functions which we would call methods because they're tied to the
+object so if i'm thinking of some properties i'm thinking that this would have a
+shape property that would have a value of round
+it could have a brand property that would be equal to accusplit
+it could have a model property of the pro survivor 601 x 3v.1
+that was a good one it could also have a minutes property of three
+a seconds property a 59 it could have a color property of black
+it could have an accent color property of yellow and there could be
+
+02:17
+a lot more other properties that we could think of uh lanyard set equal to
+true exactly water resistance set equal to true right uh does that bluetooth
+maybe that can be set to false i don't know if this one has bluetooth maybe not
+maybe the the 602x not the 601x yeah i don't know
+uh and then there's also some methods some functions that are tied to this
+object we have the ability to start and stop we have the ability to split and
+reset the ability to chain mode we have the ability to beep uh so there are a
+lot of functions that are tied to this object that we would call methods
+603 is to go you know it i know i couldn't that the 603 is just a new
+model like i only get the 601 my uh photo already
+we saw originally how to i can't afford the 603.
+
+02:18
+we saw originally creating a stopwatch using what type of notation
+what type of notation is this to create an object yes nice literal notation
+and we saw that we were able to add properties and methods using what
+notation here what notation am i using to add a property of current time and a
+method of tell time i'm using dot notation exactly i set
+this equal to a value of 12 and i know telltime is a method how come how do i
+know that telltime is a method because its value is a function exactly
+it's set equal to a function and down here i'm calling that function i can
+know that i'm calling it because i have the parentheses that we'd have with a
+normal function call and i'm passing in current stopwatch.currenttime as an
+argument so we know that stopwatch the current time is actually 12.
+
+02:19
+the 12 gets passed in wherever i see time it is 12 and so this method call
+would wind up printing to the console the current time is 12. beautiful
+me too hydra alrighty we have this objects lost galaxy code
+now let's go and take a peek at it and here we have i want you to create a
+dog object that has four properties and three methods no constructors
+has four properties and three methods we're gonna put quick
+you already have the files open because you should open the whole folder we're
+gonna put a quick two minutes on the board here two minutes
+you got this go fast dig deep i want a dog object that has four properties and
+
+02:20
+three methods no constructor go for it old school dot notation please
+quick two exactly galaxy goofer no you can do that lost galaxy is uh
+a version of the power rangers these are all power ranger names
+turbo space lost galaxy are all runs of power rangers
+how many more classes do we have the power rangers team for
+
+02:21
+uh until we get through objects i wasn't cultured enough hey we can't all be
+beetle boris was my [&nbsp;__&nbsp;] beetle bar is way better
+peterborough is my favorite show if you if you
+you if you grew up at upn we could be friends upn man back in the day
+my beetle borgs and if you're a real one like if you like a real real real one
+mommy's alive most people don't know about that
+mummy's alive but that was my that was my [&nbsp;__&nbsp;] alrighty folks
+
+02:22
+come on back come on back let's do this together
+all right so we want to go ahead and create a dog object so we can just go
+ahead and say let dog equal and then we have our curly
+braces and then what are some properties that you gave dog dog.breed equals
+what kind of dogs y'all got doodle nice uh dog color equals golden um
+it's kind of [&nbsp;__&nbsp;] up dog dot legs equals four and dog dot name
+
+02:23
+equals fido cool so has four properties breed color legs and name
+and then how about methods what are some methods that the dog has
+dog.bark equals we'll set it equal to a function console.log what else we got
+dog dot jump equals console log of the last off beautiful and one last one
+
+02:24
+[Music] we'll just say console.log dot zoom
+there we go that'll be our fetch command beautiful all right so we have
+four properties dog with a breed color legs and name and
+then also a bark a jump and a fetch method well done cool this was using
+literal notation to create the object and then dot notation to create these
+properties and these methods however if i wanted to create another dog
+what's the problem we're going to run into
+now that's fetch exactly it is well done ali's word if i could give you more
+channel points i would in fact send me a mod mail i'm getting
+you a t-shirt for that one it's really wet exactly i don't have to
+
+02:25
+repeat all this code all over again i had to repeat this all over again right
+and i would have to redo the breed the color the legs the name the bark the
+jump the effect i do all over again so if i want it
+to have an easier way to create dogs what could i use
+what could i use if i wanted an easier way to spit out dog objects yeah i could
+use a constructor let's go so you want to make a lot of objects we
+need a factory uh our factory think about like if you wanted to have a lot
+of cars you create a car factory and that factory could spit out a bunch of
+car objects over and over again we have the same thing
+in javascript we have the ability to create a function that spits out objects
+
+02:26
+so here is a make car constructor it's a function it's a function that spits out
+objects that's it we're using factory as an example there
+are things called factories and programming that's not what i'm talking
+about i was just talking about like legitimately like a car factory
+all right now if we look any car that comes out of this
+constructor will have a make property a model a color a doors and it will have
+two methods honk and lock how do i know that the objects are going to have a
+make a model a color a door is a honk and a lock how do i know the objects
+themselves are going to have those properties and those methods
+this exactly when i say this dot make i mean the object itself is going to have
+
+02:27
+this property of make it's going to have this property of model and have this
+property of color it's going to have this property of doors and have this
+method of hunk it's going to have this method of lock so down here
+when i create a new honda civic what i am saying is this
+special new keyword we know we see that keyword we're going to create an object
+we're creating an object using the make car function we pass in honda we pass in
+civic we pass in silver we pass in four we know that the object that is created
+right here is going to have a make a model a color a doors and a hunk and a
+lock method right so it's gonna have three sorry four properties and two methods
+alrighty now we can do it again when we want to
+create a new car we see the new keyword object now we're going to make another
+object we're using the make car function again however passing in different
+
+02:28
+values so we're able to reuse this constructor over and over and over again
+making our code way drier than it normally has been when we were doing it
+a few seconds ago and we can create as many cars as we want beautiful
+we also had this idea of a prototype and a prototype is just a fallback source
+of properties and methods the objects that come out of our make car constructor
+can always check themselves for a property and value
+and if the object does not have that property or value it can go up its
+prototype chain it can ask where it came from hey make
+car constructor do you have this value and if it doesn't have that value can
+keep going up the prototype chain until it hits the what what's what's the stop
+
+02:29
+of the prototype chain grandma it is grandma
+the global object prototype everything inherits from this global object
+prototype a lot of times when we've been using methods or properties that the
+objects that we were using didn't have it's because they were going up the
+prototype chain to get them so the example we gave last class is
+let's say i didn't have a car i could go ask my mom if she had a car
+and if she doesn't have a car she could go ask grandma if she had a car and if
+grandma has a car i have a car it's the same thing with
+properties and methods the object checks itself hey do i have bluetooth
+and right now the tesla roadster would not have bluetooth when we created that
+object it did not have bluetooth but what we could do
+
+02:30
+is on that constructor's prototype add bluetooth so when the tesla checks
+itself it will not see bluetooth but it will go up to the constructor prototype
+and since the constructor prototype now has bluetooth guess what the object that
+was created from that constructor now has
+bluetooth so we can just think about it as a fallback source of properties and
+methods generational wealth exactly if the object itself doesn't have a
+property or method it goes to where it was created if where it was created does
+not have that property or method it keeps going up the chain until it gets
+to this global object prototype and if it has it it has it cool beautiful
+all right right here we know that tesla roadster has a doors property
+
+02:31
+but if we look at this car factory or this make car constructor
+we see that there's a honk method and a lock method does this
+object does the tesla roadster that came out of this constructor
+does it have a two string method no does the make car constructor
+have two string no so how come this works how are we able
+to take the number of doors which is two and get string two back
+grandma had it exactly grandma was holding on to that two string method
+where'd you get the pink 50s from grandma right it went all the way up the
+prototype chain until it got to the global object prototype that global
+
+02:32
+object prototype had the two-string method and so it got passed all the way
+down and we can use it here even though the object didn't have it the
+constructor didn't have it and we went all the way up the prototype chain to
+get it beautiful all right i want us to open up tony hawk pro skater please
+tony hawk pro skater save this all right tony hawk pro skater we have
+some javascripts we got index.html so i want you to create a tony hawk pro
+skater constructor that makes a skating game character
+with four properties and three methods all right
+tony hawk pro skater contractor that makes a skate again character with four
+properties in three minutes if you've never played tony hawk pro skater that's
+okay it's a skateboarding game so think of some things
+
+02:33
+that a skateboarder would need think of some properties think of some methods
+but i want you to use a constructor this time no
+no literal notation use a constructor we're going to put
+four minutes on the clock here four minutes on the clock
+actually we'll do five minutes i want you to really type this out i want you
+to really type this out five minutes on the clock no copying and pasting if you
+have to go back and forth to the slides you can but go ahead and build me a tony
+hawk pro skater five minutes on the clock we'll review it then we're moving
+on to apis folks we got time we game dev now exactly so far we've
+built street fighter we're building tony hawk look at us go
+we've been hanging out with uh lena lux too long
+look at us we're we're game devs now shout out to lux too you're hanging out
+there you're missing out all right folks go for it
+
+02:34
+i could play goldfinger and not get demonetized or not demonetized
+content id blocked on youtube i would got this folks
+
+02:35
+three minutes 30 seconds can we see the constructor slide yeah we can bring that
+up there you go i know nothing about skateboarding make it up
+yeah the remake is pretty solid i've played it for a little while yeah it's
+pretty dope been played on pc it's been nice just for the music alone
+do a kick flip you don't need commas with constructors
+when setting properties no you do not because you're not literally creating an
+
+02:36
+object it's a function that spits out an object
+i like aldering i have not played it i have not had any time for video games
+recently which is really sad but true i've watched some people play it
+like just in passing but seems cool i never really played any of the souls
+games though two minutes folks you got this
+is the cs go server up maybe maybe best week ever maybe it's coming
+i have a few surprises up my sleeves at least you got ads during the work time
+i never thought to do that just play ads
+
+02:37
+during the break time like the work time that might be a way to get around it oh
+hst dhx thank you for the posture check good one get in here
+i had to copy and paste i'm sorry no need to be sorry sometimes we gotta
+doggy i messed up i changed it live though hey good stuff atlantic
+how do we see properties we add with the prototype and our constructor you won't
+
+02:38
+see it in the initial constructor that you make but if you open it up in the
+inspector you probably see it i can try nice
+lazy we're not there yet we'll get there all right folks come on back let's go
+over this together alrighty so let me go ahead and uh open this up
+create a tony hawk pro skater constructor that makes a skating game
+character with four properties and three methods so i'm gonna create a function
+
+02:39
+uh tony hawk there we go all right tony hawk character
+and why did i capitalize the t why did i capitalize the t engagement now
+because the constructor does the capitalization actually do anything nah
+it just lets us know that it is a constructor all right so what are some
+properties that i should have what are some properties that i should have
+it's just a convention exactly all right this dot character name equals
+and we'll just say name and then we'll not name let's go ahead and do um
+go ahead and say character name i just wanted to be a little bit different for
+
+02:40
+each one so people can see cool next but that's something else
+we have stance that's a good one and we'll just call this character stance cool
+this dot what else it's a uh sponsor that's a good one
+sponsor eagles we'll say character sponsor oh and one more let's say
+signature move i like that special move we'll say special
+move and we'll say uh character move cool now this
+[&nbsp;__&nbsp;] should name true stance to sponsor
+
+02:41
+to move these all have to be what what do these all have to be
+let's be parameters because everything's gonna be passed in to name a stance
+just sponsor and to move on all right so we got our properties what
+about our methods what should our methods be
+like what what should our character be able to do be able to okay like flip
+i see taunt and grab so we can do flip taunt and grab so flip equals a function
+
+02:42
+and we'll just say let's make it easy on ourselves console.log
+uh what's a good flip trick i'm going to say kickflip for now kickflip
+so our character can only kickflip that's the only flip trick it knows all right
+next this dot we said taunt and we can do a function and we can
+actually mention our special move and we can say like console.log
+and we can just use our ticks don't make me use my
+and then inside of where we put our variable we can say this dot special move
+all right so you can make it say don't make me use my and then
+they could say their special move and then i think the last one we said was grab
+this dot grab and let's just hard code another grab trick what's that what's a
+
+02:43
+good grab trick sailfish mel and grab method yeah i'll know y'all play some
+some tony hawk i'm gonna say melon melon grub all right cool
+so now we can go ahead and create a character uh let's go ahead and create
+the best character in the game we'll say kareem
+campbell and then we're gonna need the new keyword why do i need the new keyword
+darth maul why do we need the new keyword
+to make a new one exactly to make a new object we want that object that's the
+character's gonna help us we're gonna call our constructor function tony hall
+
+02:44
+character we're gonna pass in their name which is kareem we are going to pass in
+their stance which is goofy we're going to pass in their sponsor
+which is element and we're going to pass in their special move
+uh which is the ghetto bird for folks that have actually played the game hey
+cool all right so let's go ahead and save this
+and then let's open this in the browser and if we open uh such a
+so much nostalgia in that photo let's use our inspector let's go to the console
+and let's ask for kareem campbell and we can see when we get kareem campbell we
+get back a tony hawk character that has a name a flip a grab a special
+
+02:45
+move a sponsor a stance and a taunt so it looks like our constructor worked
+first alrighty thought this was ice skating [Laughter] alrighty
+we got a little bit of time left let's let's kind of go let's jump into the
+future folks uh we have a new syntax that we'll get into on tuesday
+on tuesday we're going to look at with the newer versions of javascript we
+got some syntactical sugar right nothing underneath the hood changed we
+still have prototypal inheritance but when folks came from other
+class-based languages they felt a little uncomfortable
+understanding what prototypal inheritance was doing and it didn't look
+
+02:46
+similar to other languages so with the newer versions of javascript
+we got the class syntax nothing changes under the hood
+it just makes it look a little sweeter and so you can see that it changes up a
+little bit we have like this constructor on its own the methods are kind of on
+their own now and so when we come on tuesday we'll start using classes a
+little bit more effectively but understand as you're doing the reading
+there's nothing that really changes under the hood it's just syntactical
+sugar nothing really changed it just looks a little bit better cool now apis
+i love me some apis i used apis for probably years before i actually ever
+understood what the heck an api meant api bottom jeans so what the heck are apis
+
+02:47
+apis are something very very simple they are a simple interface
+to do something complex that's it an api is a simple interface
+that enables us to do something complex so what the heck do i mean by simple
+interface all right right now you are all watching me on a crispy
+4k camera that's getting downscaled to 1080p but i still look good
+the best week ever right if i wanted to turn this camera off
+what is the most primal thing i could do what's the most primal thing i could do
+to turn this camera off so he like smash it
+i could smash it i could throw it on the table and smash it that's not something
+i want to do something else primal i could do is i
+could just rip the power cable out because i'm not running on battery i'm
+
+02:48
+running on actual power kit i can rip the power cable out and the the camera
+would shut off now does sony want me smashing the camera or
+ripping out the power cable every single time i want to unplug it no
+sony does not want me doing maybe they actually do maybe they do want me to do
+this that i buy more of them right but no they don't want me to ripping out
+power cables they don't want me smashing cameras they've given me an interface
+that enables me to turn on and off the camera what's the interface that sony
+has given me to turn on and off the camera it's a button it's a power button
+and so sony has given me a very simple interface
+to do something very complex think about everything that has to happen when i
+
+02:49
+press the power button right like the the the their software running on the
+camera that hears that button turns off the the power system makes the
+capacitor turn off all these wild things have to happen
+when i press that power button and it's the same thing when i turn it
+on when i press that power button all these wild stuff has to happen
+for that camera to turn on do i really care at the end of the day
+what's happening inside that camera when i press the power button no
+i just want it to turn on and i want it to turn off
+so sony has given me a simple interface for some complex action in this case the
+complex action is the turning on and off and the interface is a button
+
+02:50
+another example of this is like when you go to a restaurant
+the restaurant gives you a very simple interface to get food what's the
+interface that the restaurant gives us to get food yeah it's a menu
+it gives they give us a menu and that menu
+is a very simple interface where we can point to something
+and get that food now if i click if i look at that menu and i want my noodle
+soup i don't really know what's happening when i make that request
+i don't know what's happening in the kitchen
+i have my interface which is my menu i ask for my noodle soup and something
+happens and i get noodle soup back but i don't know what's happening in
+
+02:51
+that kitchen the chefs are chopping onions they are
+getting bean sprouts together they're getting noodles together they're getting
+um broth together they're compiling all these things to make my noodle soup and
+i actually don't know and i really don't care how they chop the onions how they
+put the bean sprouts into the pot i don't really care how they do all that
+stuff all i want is my noodle soup so at a restaurant i have a simple interface
+that enables me to make a request and i get that soup but i have no idea
+what's happening in that kitchen apis are the same thing
+they are a simple interface for some complex action however the interface
+we're going to use first is a url just a regular urls like we
+have here for the slides that we had for the check-in that we had for the merge
+everything is just a url and we're going to use these urls to make a request
+
+02:52
+but instead of it being a kitchen that request is going where
+where is that request going it's not going to the kitchen it's going to a
+server exactly the server is going to hear that request
+and it's going to send some response so just like our request that we have of
+the menu goes to the kitchen and comes back with something we use urls to make
+requests to a server and that server sends
+something back so our simple interface is a url
+the complex thing that's happening is the server hearing that request grabbing
+data maybe talking to a database to get the data formatting the data and then
+sending it back to us so we can use it and so that's what happens
+when we are utilizing apis we are going to make a request to a server
+
+02:53
+using a url that server will hear the request grab
+everything it needs to grab and then send a response
+this response in the beginning is almost
+always going to be something called json or javascript object notation it's
+basically an object that's coming back from the server so we use a url
+that url makes a request to the server instead of the server sending a soup it
+sends us a big old object we can then use that object
+right we can use that object to get the data and pull the data out
+right so we use url to make a request the server hears that request builds us
+a big old object and then sends that back just like we would get our soup
+back and then once we have that object we can do whatever the heck we want with
+it so the very first thing i want to do is get some cute dog photos and so here
+
+02:54
+is the syntax to make a request to a url so i'm just
+going to copy this real quick we're not going to get our fingers on
+the keyboard with this tonight that'll be tuesday
+but i'm going to open up my dog photos javascript i'm just going to paste this
+in let's go ahead and save this and let's make sure that it works let's
+go ahead and open this in the browser boom open this in the browser
+let's open up the inspector let's go to the console all right and we can see
+something really interesting happened i made a request
+and i console logged what came back don't worry i'm going to break down
+what's happening here i console logged what came back can we see what came back
+
+02:55
+from the request do you see it do you see what came back from the request
+this big old object came back from the request
+okay so let's let's take a look at it here is our interface the url that we
+are using we use this fetch method to send that request to the server
+this url is actually going to the dog ceo server there is a server out there
+on the internet at the dog.ceo url that is listening for these fetch requests
+and when it hears these fetch requests it goes and grabs some data from its
+database right it grabs some data from its
+database and then it responds with that data in the form of an object
+so this first thing right here is saying hey whatever we get back
+from the kitchen whatever we get back from the server
+
+02:56
+make sure that it's json data parse it look at it as though it was json data
+and then whatever we get back we passed through the parameter of data
+right we pass through the parameter of data so whatever we got back from that
+dog ceo api is going to now be console logged
+right if there was an error we would see an error in our console log
+but we see right now we're just console logging all the data so let's go ahead
+and look at that data we got back i'm going to open this up a little bit
+we can see that there were two what in the object that we got back
+there were two what in the object that we got back there were two properties
+message and status so the dog ceo api heard our
+
+02:57
+request and sent us back a message and a status so the cool thing is we can
+actually drill in a little bit here i just want the message property and
+let's see what happens when i just ask for the message property
+so i'm just going to ask for the message property now and when i refresh
+when i refresh you can see right now i'm just getting
+the what i'm getting a what now i just asked for the message property
+and it's it's a what what what data type is this it's a string
+it's a string but that string is a url and if we look closely it's a url to an
+image so we could actually use this we could use this this this uh lovely
+image url we could use it and so let's go ahead and use it so
+
+02:58
+uh if we look in our html we see that we have a lovely image tag
+let's see if we can plop the message that we got from the api into the source
+all right so let's go and try that we know that the url or the image url is
+in data.message so we can just do some dom manipulation here document
+dot query selector we're going to target our image and what
+are we going to change about the image what are we going to change what what
+are we going to what are we going to change about the image we're going to
+change the source and we're going to set the source equal to data dot message
+beautiful so whatever we got back from the api is being passed into data we
+want that message property which was the image url and we're going to use that
+image url to change the source of the image that's already in our html so if
+
+02:59
+we go back and we refresh oh we're just going to get these lovely
+cute dog photos i'm going to keep refreshing here for a little bit dawg oh
+so every single time i refresh i am making a request to the server
+and the server is sending me a new object and each time that object has a new
+has a new image url in it and i can keep using that image url and each time i
+refresh i get a nice cue oh that we gotta end here a nice cute dog photo
+that shows up in our in our lovely age so this is just the very very beginning
+
+03:00
+of what apis can do because there are so many apis out there
+we saw one that returns dog photos but there are so many apis that return so
+many other really cool stuff we could get pokemon back from the
+pokemon api we could get drinks from the cocktail database once you know just
+this very simple pattern right this very simple pattern and you
+find the different urls that we can use as our interfaces the whole world opens
+up we can start getting cool data back from all these different servers we can
+start manipulating it and using it in really cool ways and so to me this is
+where it starts to pay off it starts to be a lot of fun you can
+start to build some really cool stuff because it's no longer just your data
+that you're using you can use this data from so many other people and companies
+that make the stuff available to you and so on thursday we're doing some git and
+
+03:01
+github sponsored by microsoft as part of the
+best week ever but we're going to end on tuesday spending our day
+building and playing with apis which i'm telling you it's the next level it's so
+much fun you're gonna really enjoy it and so remember
+tonight was day one tomorrow we're going
+and hanging out with hello's rufio don't remember i'll send you a reminder on on
+discord thursday we're back for a sponsored class by microsoft so much
+swag so many laptops so much cool stuff to give out friday
+we have a wonderful friday with friends on discord saturday we're taking over
+reddit place sunday we're back for office hours monday we're doing a
+portfolio resume review session and then tuesday we're back at class you don't
+have to show up to everything we're gonna have some fun so come join
+us when you can hope you all had a wonderful first day of the best week
+ever we're going to do a raid uh let's go over to our good friend uh juicebox
+hero they're live i want to keep the good energy going if you haven't given
+
+03:02
+them a follow please give them a follow they're an amazing individual great
+streamer so let's go ahead and set that up beautiful all right send up the raid
+thank you so much for a great class for a great stream for the first day of the
+best week ever really excited to spend the rest of the
+week with you all let's go ahead and raid youtube

@@ -1,0 +1,706 @@
+
+00:02
+
+00:03
+yo hey yo what's going on everybody good morning
+good afternoon good evening no matter where you're coming from hope you all
+are doing well bangers only indeed hey what's
+going on everybody welcome in welcome in what do we got a night tonight let's go
+everybody in here how's it going everybody how's it going welcome in welcome in
+
+00:04
+hope you're all doing well i hope you all had a good day
+what's going on everybody get in here get in here
+know how we like to do get on in here alrighty so a couple big things today
+all right a couple big things today today will be a short stream uh we're
+not gonna be on stream for that long because tonight
+we're networking baby that's right we're networking so george stream
+we're gonna get everybody on the same page we're gonna get people feeling okay
+about the idea of maybe networking for the first time some for some of you this
+might be your first networking event and so we're gonna try it
+we're gonna we're gonna hope that the platform we use doesn't burn to the
+ground because we've done it to a few other platforms before
+but we're gonna come together tonight we're gonna talk about networking we're
+
+00:05
+going to talk about your introduction the the very beginning of
+of the class right like sorry the very beginning of networking like starting
+from the begin from the basics told you all i'm going to help you every step of
+the way we're going to cover the basics tonight we're literally talking about
+your introduction i think that's where the biggest source of fear
+that little creep of anxiety comes in is literally just how do you start
+conversations right so we're going to start that tonight together
+uh the tweet for tonight if you haven't checked in yet you can always do
+actually check in or just if you're on twitter you'll you'll see my tweet i said
+no new friends i didn't want to use any hashtags i didn't want to use anything
+that might bring new folks in because they don't know what we're about right
+and so i wanted it just to be us going into the networking session so no
+new friends for tonight we'll get new friends on thursday but for tonight just
+
+00:06
+us good old 100 devs right as always i always like to start off
+class with uh with our questions you know let's start off with the question
+and so tonight's first question is would you rather
+infinite weightless pockets like pockets that are on your pants
+or an infinite weightless closet so why do i have to throw weightless in there
+because if if you have a bunch of stuff in your pockets you might like start to
+not be able to move right and if you put too much stuff in your closet like it
+might crash into the ground um so infinite pockets or infinite closet
+a lot of people stay in pockets so this is one of those ones where the more
+i think about it the more i i kind of like if you had infinite pockets
+
+00:07
+how easy is it to search through your pockets
+or maybe like you don't go overboard maybe just like carry like all this
+stuff that would go in the backpack you can throw in your pockets i don't know
+right it's a little it gets a little odd right
+infinite closet maybe it's a walk-in closet and i could always be able to get
+to my stuff i don't this is a hard one i feel like i'm i i'm a one bagger i
+like to travel with just one backpack so for me infinite pockets would be uh the
+dream come true i'm going infinite pockets i was close to i was close to
+closet i was very close to closet but the last second i'm switching the pockets
+usually we got either or either or how heavy are the pockets they're
+weightless that's the caveat they're weightless
+all right folks thank you for always amusing me uh with your answers to these
+silly questions at the beginning i i really do like seeing people's answers
+to these questions it's a good way to kind of see how people think um
+but i was like start off with some questions so regular questions for
+
+00:08
+tonight uh questions about things you might have coming up i'm happy to answer
+a few questions as we let folks get in here for tonight
+remo is giving me trouble don't worry we'll get there later on
+what do you think of the stream deck i just watched linus's videos on it i was
+actually watching this right before stream um i'm i'm amped
+i really i really like the idea of a stream deck i think it's gonna it's
+gonna be a game changer i think this would be okay i think it's gonna be way
+bigger than people are planning i think it's gonna be big
+we broke remo already maybe i think as people are kind of like signing up it
+might be a little extra pressure but we separated it to like six different rooms
+we'll see how it goes can we do the 15 minutes of pain
+together we're going to do that on thursday together yeah on thursday we're
+
+00:09
+going to go over that stuff together um i so people ask like um
+i'll actually explain this in a few seconds but
+people said study groups yes today is your last day to sign up for the study
+communities uh google forms went down over the weekend
+google forms went down trash dev hey thank you for the raid hope you're doing
+well hope your stream went well thanks for bringing the crew over
+how was your stream thank you for bringing everybody by
+trash death we gotta bring it back soon as soon as we see you live one of
+these days we're gonna come right back hope you're doing well
+yeah so the so for for folks that are coming from trash dev we we are
+doing a 30-week software engineering bootcamp uh to normally we do classes
+every tuesday and thursday uh tonight is our networking night and so it's it's
+
+00:10
+it's gonna be a short stream and then we're jumping on a different platform to
+do a networking event just to get folks comfortable with the idea of networking
+right as folks progress through our boot camp
+aka starting next week they have to have
+three network connections and two coffee chats and so we start practicing that
+tonight uh trash i hope your stream went well thanks for bringing everybody bye
+cool uh so we were talking about this idea of
+oh the study communities so google forms went down over the weekend um and so
+when it went down we got like a lot of messages so you have until to end the
+day today basically until let's say after normal class time tonight and then
+we're kind of locking down the form if you need the form it's on follow along
+materials channel i'll bring it up on the slides as well in a few seconds
+
+00:11
+but then we're going to start adding folks and we're gonna specifically add the
+um location groups first um because some folks might wanna do their own type of
+networking right uh that they might be able to join us live right now because
+they're in a different part of the world and so we're going to fill out those
+first you're going to start seeing folks get added to those soon
+we tried everything underneath the sun to mass add roles it's just i don't
+think it's possible in discord so myself and the valiant mods have
+stepped up we're going to add people manually to roles which is going to take
+us a long time but we're going to slowly
+do it over this week so you should start seeing people get added to study
+communities as early as tomorrow and then it's just
+going to be rolling as we have time we're going to keep adding folks so
+hopefully by this time next week we have everyone in their study communities and
+it's going well yeah there's a lot of bots we tried none
+of them just did it well or did it consistently and so
+
+00:12
+rip let's just let's just get it done yeah always hey shout out to the mods
+they do way more than y'all ever will know uh they're in the muck
+they're they're the front line when it comes to um
+making sure this community stays the community that we all love right so
+always a big shout out to the mods let's get into it
+so tonight we're going to talk about how to network we're going to cover one of
+the biggest things which is the introduction and then we're going to try
+doing a networking night we're going to talk all about it how to do it how to be
+involved in it and we're going to talk a little bit about the homework because
+we're getting an extension so we've extended the homework deadline until
+next tuesday and i'm going to talk about that in a second
+all right you haven't checked in uh just for intended sake it's not for growing
+
+00:13
+the community today it's just so i know that you're here uh liking and retweet
+the tweet uh some folks don't know drake lyrics
+or a lot of other people's lyrics but no
+new friends is just a joke we're talking about no new friends tonight we didn't
+want it to reach other folks they have no idea what 100 devs is because we're
+doing networking we don't want random people just joining us they have no idea
+what the heck's going on so tonight was no new friends
+thursday we'll get the we'll get the friends coming back
+this is the the last time i will mention the study communities if you have not
+filled out the form to join the study community of your choice today is the
+last day we won't be adding any more folks to
+study communities until maybe a little bit further into program as we have the
+ketchup crew and things like that but for now today's your last day to get in
+you can fill out this form right here it's also in the following materials
+channel on discord um if you're if you're following along ever like if
+
+00:14
+you're not following along live like you're on youtube
+shout out youtube crew um first thing i always say is make sure you're on our
+discord leonewell.com discord it's linked in the video description below
+you can do exclamation point discord here in chat to always get to that
+discord quickly everything i ever share in the slides is always almost always in
+the following materials channel anyway so last day to join the study communities
+we got a lot of great groups a lot of kind of like affinity groups and then also
+good location-based groups that you can all join and we just hope that these
+study communities just create a little bit smaller of a community for you to
+belong to to work with each other uh you
+all have your own private voice channels a bunch of fun stuff
+yeah if you already did the second form you're good there's this is not like a
+third form it's just it's the second form yeah
+yeah i feel like these groups are gonna help me feel more connected that's
+
+00:15
+that's the goal that's what i hope for that's what i hope for
+alrighty submitting work there's no work due tonight uh so don't
+worry about submitting anything this this evening or morning or wherever
+you're coming from uh so no work to do tonight
+and the homework that was originally scheduled for thursday we're gonna push
+until tuesday okay we're gonna push until tuesday so
+all your layouts right all your layouts are due tuesday i know you had to read
+uh the flexbox work i know you had to do flexbox froggy i'm just not asking for
+proof that you did it you don't have to turn in anything tonight to prove that
+you did flexbox froggy i'm just assuming
+that you did flexbox froggy uh so we can touch on it later yeah but
+work that was supposed to do thursday do next tuesday it gives us a whole
+another weekend to get through it thursday's class we're gonna get in
+review and go through some of the layouts together right so if you're if
+you're if you're at that point now thursdays we're going to talk a lot
+
+00:16
+about this a lot of you are about to enter the trough of sorrow
+most of you are not yet in the trough of sorrow you're you're going you're going
+down the hill but you haven't hit the bottom yet
+so on thursday we're going to talk about what it means to hit the bottom
+and then we're going to spend a lot of time breaking down the layouts together
+so you're not starting uh by yourself we're going to do a little bit of
+pomodoro live like a live pomodoro work session so you can get some some work in
+ask tons of questions um and we're pushing the work until tuesday
+and this is a a big thing about what i think makes
+100 devs different and one of the things that i think is really important to me
+as an educator and that's that i don't have a rigid structure that i have to
+stick to right if i feel like the community needs a
+little bit more time on something guess what we're going to take a little bit
+more time on it if there are things that i think people are really freaking out
+
+00:17
+about guess what we're going to spend time on it one of the things that kept
+coming up was leon i don't know how to start networking i don't know how to
+like introduce myself great we're going to do that tonight you're going to do it
+with friends you're going to do it with the community that's here to support you
+so if you're worried about networking tonight you're going to do it in the
+confines of 100 devs not to worry about anybody else we all are beginners here
+we all know that this may be our first time networking so we're going to create
+a a safer space for you to test this stuff out right for you to flounder a
+little bit and then to get it right by the end of the night right so we're
+taking tuesday all night tonight just to network with each other to get those
+jitters out to make sure we feel comfortable so that next week we can
+maybe start trying to do it for realsies right and then thursday we're gonna
+spend time going over the layouts it seems like a lot of folks need a little
+bit more time they need a little bit more
+a little bit more room to to to kind of grasp what's going on and to see it live
+a little one more time and so we're gonna make sure we have that time to do it
+and then we have the weekend and so you'll have
+
+00:18
+the weekend to get through it and yeah and the beautiful thing is that if
+you're like leon i already got it i'm feeling good well guess what you got a
+bunch of push work that you could be doing um
+between now and tuesday so you have the ability to go deeper if you want to make
+them write write your bad code first and then write your bad write your bad code
+and then write your baddie code right like make sure that you can be pushing
+yourself in this time and so i feel like there's a there's room for everyone
+right now and we're gonna make that room for everyone always right networking
+i need at the time of demanding eight to five job well hey i'm glad you got the
+time you need all right was independence day assigned because
+they networked with aliens no that's good though i'm using that that's
+mine now that's that's that's when everybody asks me why are you assigning
+
+00:19
+it um that's what i'm gonna say never been with a baddie oh that song is
+just stuck in my head cool already networking
+we're going to take some time tonight to get the gears to turn in
+right to get the gear as a turning we're going to practice our
+introductions we're going to practice the awkward i'm plopped into a virtual
+networking what do i do right don't switch on yourself that's why
+independence day was decided exactly um we're gonna get the gears turned in
+i i i don't want you unless you feel comfortable to start this week with the
+networking i want you to push networking to next week let's practice tonight
+and let's say the folks that you meet tonight count for this week
+right so if tonight you meet somebody that that that you like that that counts
+
+00:20
+as your three and then if there's somebody that you feel like is a good
+fit maybe a coffee chat right and so tonight we're gonna we're gonna say this
+week counts for a hundred devs right next week we're gonna start trying to do
+it for realsies and it won't be three and two next week it'll be one and one
+right the d will be one and one next week and then we'll do two and two the
+next week and then we'll do three into the next week so we're going to keep
+ramping up and we're going to keep ramping up so
+don't feel like you have to like this week hit hit five right that that's not
+what we're doing right that's not what we're doing we're easing into it this
+week 100 devs counts next week we're trying
+to do one and one week after that two and two then three and two right so
+we're trying we're gonna we're gonna keep it up right and
+the the networking right with 100 devs is supposed to be this might be our
+first time so i need everyone to give each other grace tonight i need everyone
+to realize that some folks might be really
+
+00:21
+nervous around this idea and that's why we're doing the spaces tonight
+remember our goal when we're networking is to turn strangers into friends
+right that's that's the only goal the only thing you're shooting for
+right the only thing you're shooting for
+when you're trying to do this networking and realize
+that it's not always gonna work out that's okay it's okay
+if your networking doesn't work out right it's okay that you don't click
+with every single person right it's okay that it takes you a
+while to find your people right the beautiful thing about being
+virtual is that it's easier to kind of move around
+right it's easier to move around right it's easier to to kind of pop in and out
+of spaces because before you you had to be a little a little like
+a little eager right if you go to a conference and you're by yourself at a
+
+00:22
+conference you gotta there has to be something in you that like pushes you to
+like walk up to a group of people and talk to them it's harder but with this
+virtual networking it's a little bit easier to kind of get the ball rolling
+and so tonight that's what we're going to do so tonight your only goal is to
+turn maybe a stranger into an acquaintance maybe you meet them you
+figure out what their discord is you see them kind of around right you're trying
+to turn these people that we see in the 100 devs community from strangers into
+acquaintances and this will not be our only networking session right we're
+going to use other platforms we're going to do other things that i think are
+really cool right that are really cool to like meet each other and hang out and
+interact with each other so tonight don't put all that pressure
+on you for this to be perfect tonight's about practicing your introduction it's
+about maybe making a few acquaintances right a few people that maybe when you
+see their their their their discord name fly by on one of the channels you'd be
+
+00:23
+like ah i remember that person right now i feel a lot of people
+when they first start this idea of networking i'm going to give you a a way to
+introduce yourself that i think works in a lot of certain and a
+lot of scenarios but doesn't work in every scenario it's gonna be the one
+that we practiced tonight but a lot about networking is sometimes
+kind of like reading the room right sometimes you'll be in a more
+professional setting and sometimes you'll be in a more laid-back setting
+right and so if you're in a real professional setting you might be a
+little bit more formal in how you do your introduction and if you're in a
+laid-back setting it might be a little bit different and so a lot of times
+you gotta read the room what type of event are you at are people
+in like suits and ties like are people passing out business cards or are they
+
+00:24
+eating pizza and drinking beer right and if you're a person where
+that's hard like reading the room is hard trust me it gets better
+right it does get better as you do it more but you can also pair up with a buddy
+right sometimes folks like to network in pairs so that way you
+can both kind of read the room together and so that's something that you might
+want to keep in mind especially as we get into the smaller study communities
+it doesn't have to be just you on your own type of endeavor
+there are many ways to kind of use each other to help read the room to figure
+things out but what i'm going to do is i'm going to share you the way that i
+introduce myself the most and we're going to talk about it because
+i think for most people it feels a little weird at first here it is i say hi
+all right and literally stay off by saying hi
+and then i start off by saying my name is all right so i say hi
+
+00:25
+my name is sugar slim shady no okay sorry say my name is and then i say leon
+i say hi my name is leon i'm a software engineer
+i help people build full stack web applications i'm trying to learn how to
+network better and uh it's really nice to meet you all right
+i mean let me say that let me say this again now you don't you don't say leon
+you say your name right so don't don't say leon say your name this is an
+example but you're gonna say your name right so you're gonna have to practice
+it with your name in there just in case in case you didn't get that okay
+you're not leon you well maybe you are lee i don't know but you have to put
+your name in there okay so i know it sounds silly
+but this is something that i think some people might struggle with and so i
+really wanted to be clear with it so i say hey my name is leon i'm a software
+engineer i help people build full stack web applications i'm trying to learn how
+to network better uh nice to meet you all and the reason why i say it this way
+
+00:26
+is because i'm trying to break down like five different things trying to make
+sure people know my name i'm trying to make sure people know
+my title or like what what i do right so i make sure they know my title
+then i make sure they know what i do and then why you are here right if
+you're at a meet up i always try to tie my greeting into like what the meetup is
+about somebody put a meetup idea in chat for
+me put up put a meetup idea and and chat for me knitting larping bowling
+dominoes all right so we're going to go with
+we're going to go with bowling dominoes and knitting
+hey my name is leon i'm a software engineer helpful people build
+build full stack web applications i'm really interested in learning how to knit
+uh i have a lot of my clients that are into knitting and so i'm just trying to
+
+00:27
+learn how to knit better uh nice to meet you all now in that scenario
+what sounded weird what what sounded weird like what did what what what felt a
+little a little icky at first the title felt icky there right like if
+i'm at a knitting meet-up right i'm at a knitting meet-up and i
+walk off to people hey my name's leon i'm a software engineer i help people
+build full stack web applications i'm here to learn how to knit like that's a
+little that's a little weird right but if you're at any type of tech event
+right if you're at any type of tech event it wouldn't feel exactly supposed to
+disconnect it wouldn't feel disconnected right so sometimes you have to read the
+room and think about like what room am i in who am i um
+who am i introducing myself to right but
+
+00:28
+if you're at a tech event this this type of of of introduction is fine
+right if you're at a knitting event or a bowling event
+right this exactly this context doesn't really matter right
+but when you're in tech you want you want to be able to meet other engineers
+you want to meet other folks that might be doing full stack web development
+right and so that's important information they give out there
+and at first this type of pattern really does feel icky like for some reason
+people don't feel super comfortable saying that they're a software engineer
+and they help people build full stack web applications right but you have to
+like embrace right you have to embrace your inner bob vance
+anybody know what i mean by that you have to embrace your inner bob vance
+
+00:29
+yeah exactly uh so bob vance is a character from the office the tv show
+the office and no matter whoever bob and no matter who
+he ever meets throughout the show he always introduces in the same way i'm
+bob vance vance refrigeration i'm bob vance vance refrigeration hi there i'm
+bob vance vance refrigeration right you always know that he's bob vance of
+vance refrigeration and it sounds silly but if you if you needed something to do
+with refrigeration you would know to go to bob vance from vance refrigeration
+right like instantly you know and so it can seem a little
+out of place when you're just introducing yourself to somebody in the
+office but if you're at a tech event it actually makes a lot of sense because
+it's going to help you identify folks a little bit quicker and it makes you
+sound professional af it really does make you sound professional right and so
+hey i'm leon i'm a software engineer how
+people build full stack web applications um i'm here at this event i'm trying to
+
+00:30
+learn how to network better uh it's really nice to meet you all right
+and like that's that's how i would introduce myself to a group of people
+that's how i would introduce myself to maybe like two or three people that are
+that are eating pizza right it it it's a
+little bit more formal it's a little bit more professional
+it might feel a little icky at first but it gets easier the more you do it
+right and it really does help people know who you are what you do
+and as long as you kind of tie back into like why you're here
+then it's fine okay now sometimes if it's a really chill event
+i'll i'll drop off the the the what i do and i'm gonna even drop off my title if
+it's really like an informal event but if i'm at a conference i'm at something
+that's not recurring i'm going full full intro right full intro what if you're
+
+00:31
+currently a student doesn't matter this doesn't matter what you currently do
+this has nothing to do with like right this works for every single person
+that's listening right now uh i don't i don't care what your job is
+if you're a student uh this this is this this works for you
+and you got to start practicing it now right
+and then the beautiful thing is the more you practice this the easier it gets
+doesn't matter if you're unemployed this works for everyone right
+the easier you do this the more you do this the easier it gets and you're gonna
+find what works for you right networking is about what works for you
+do i carry business cards no more i used to
+i don't anymore um just because i found something that's comfortable for me and
+business cards really aren't comfortable for me anymore
+i think if if i get to the point where i'm giving you a business card i'd
+rather just give you my email um or my twitter or something like that
+yeah but i have a lot of friends that feel differently i have a lot of friends
+
+00:32
+that love business cars and they still carry them they still give them out it's
+about finding what's comfortable for you but i want you all to try this tonight
+right i want you to try this tonight should we go to conventions in a suit
+and tie not engineering conventions no i think you might be very overdressed
+but it depends you can always ask business casual at least right if you if
+you're feeling kind of one way but a lot of tech conferences you're going to see
+people in shorts and t-shirts all day long yeah
+people will think you're a recruiter exactly so
+although that i want you to practice this tonight
+i want you to maybe find something tonight that feels good for you too
+right i want you to want to find something that feels good for you too right
+practice the formal one because i feel like a lot of people maybe haven't had
+that experience where they're more formal in networking so i want you to
+practice that tonight i want you to do this a couple of rounds we're practicing
+the more formal one and then maybe as the night goes on you're getting a bit
+
+00:33
+more relaxed try and maybe shorten this or add to it and find what works for you
+and what makes you feel comfortable as you're introducing yourself
+but when you do the more formal one it can feel ickier at first but trust me it
+works it's how a lot of more senior engineers are going to introduce
+themselves like engineering managers uh vps things like that so get used to that
+kind of language right and um it'll get easier at times
+do you wear pants or shorts during online meetups uh
+i mean that that's that's a that's a that's a binary choice there i i mean
+there are other options other options there and for a million channel points you
+could see the other options as well exactly only a million channel points
+and the other options unlock themselves for you um there's like a secondary
+that's too far because there's like another camera that
+
+00:34
+only the only advanced people get so yeah all right
+remember even the folks that you meet tonight follow up right practice your
+follow-up uh practice your email practice that
+saying hey it was nice to meet you um practice the
+the providing value right for even the people tonight like if you find that
+there's somebody that you that you connect with uh practice your follow-up too
+right uh and if there's somebody that you
+think might be an interesting follow-up and you want to practice a coffee chat
+ask them to uh to a coffee chat as well right and so the idea here is tonight we
+just want to get some practice in we want to start with practicing our formal
+introduction we want to practice uh kind
+of just getting to know each other being in an environment where we get to meet
+other folks from 100 devs and then practice your follow-up with a few folks
+as well right we're going to take tonight easy it's going to be for us to
+
+00:35
+kind of maybe for the first time in a while like talk to other human beings
+specifically in a digital space right but it shouldn't cause you too much stress
+um we're all here doing this for the very first time
+for a lot of us for the first time this this is a space where it's only 100 devs
+folks there's nobody else that's going to be here it's just folks from 100 devs
+and so i need everyone right now to agree to a few things
+one of those things is to use the sheet right if you meet folks that are that
+you're that are interesting right use the sheet
+i need everyone to commit right now to only showing up tonight to this
+networking space if you are gonna give room for folks
+that don't feel comfortable doing this if you are already some elite networker
+that feels like they're light years ahead don't show up tonight
+right go do something else right i want i want folks that are new to this to
+
+00:36
+know that this space is for them i want folks that have anxiety or i don't feel
+comfortable networking to know that this space is centering them above anybody
+else so if you come to this event and you're you're all firing on all
+cylinders and you're not giving people space and time to
+to practice and to maybe try introducing themselves a couple times in a row the
+space is not this is not for you okay this is for everyone that needs some
+time to practice that wants to meet some
+other folks from from 100 devs and we're going to do it in an environment that
+supports them please don't be an [&nbsp;__&nbsp;] tonight
+i am fast and loose with the band hammer i i will i will ban you as quick as i
+possibly can if you do certain things tonight if tonight
+you don't give space for beginners you don't respect that folks might be brand
+new to networking bam if you're a creep ban nobody wants to date you bam right
+
+00:37
+like if be a normal rational human being give people grace right
+give people room to experiment to figure out what works
+for them and doesn't work for them right don't be a creep
+if i even get a like a like a like a like a like a like somebody farted three
+rooms over and i can just like the very very faint smell ban right
+uh people are gonna snitch on you and i'm gonna ban you and i'm gonna feel
+really good about it because for some reason when the cameras
+come on and the mics come on people lose their minds and they can't be decent
+human beings so tonight be a decent human being or it's a ban you have no
+place in this community nobody is interested in you becoming their best friend
+nobody's interested in you dating them no one's interesting in anything
+romantic endeavor tonight don't be that person if you are that
+
+00:38
+person let me know right now so i can i can ban you right
+don't meet someone and then for the next two weeks be every single tweet they do
+like follow them around that's harassment we're going to ban you
+like i shouldn't have to say this but but i have to say it right
+so please tonight's about people practicing about people networking
+if you can't be a decent human being if you can't realize that people are here
+to network not because they like you but
+because they want to practice networking
+leave you have no part in this community and
+differences i will find you and then i will ban you exactly um tonight
+you don't have to use a webcam but it is preferable
+uh you do need at least a mic right so if you don't have a mic or a webcam
+tonight's not the night we'll have other nights where you can do
+text-based networking right you can do text-based networking tonight
+
+00:39
+it's mics and cams it will work on your phone too it's a
+little bit a little bit harder to make it work
+but it is it is mics and cams tonight if you don't have a camera that's okay at
+least just try the mic if you don't have access to a micro
+camera that's okay we'll have text-based
+networking another night later on um but for now
+uh anything where you can talk into it a headset microphone anything like that
+works most laptops have it built in all right
+and we're gonna practice uh when you meet people practice using this sheet
+pretend that this is a real networking event where you're where you are
+where you are introducing yourself to strangers with the idea of becoming
+acquaintances or friends right you're practicing your introductions you're
+practicing your follow-ups and you're practicing using the sheet
+right so that's what tonight's for uh the first couple of rounds that we're
+going to do on remo so we're gonna be using a platform called remo right
+
+00:40
+the sheet for folks that don't remember just in case is where you track your
+networking if you're new here we track our networking in the sheet you can
+click the link in the slides you can do exclamation point sheet here in chat
+it's that google sheet that you see in chat right now we're using remo
+and remo has been good to us in the past but we're about to have thousands of
+people on the platform we might try this and everything goes to hell right
+we might try it and everything goes to hell
+uh and in that case like if everything goes to hell
+right and remo just doesn't work uh remember uh you now have extra time to be a
+baddie and write bad code right so we're gonna we're gonna hope that remo works
+right uh we're gonna give it our the good old 100 devs try
+uh we're broken up into six different um into six different
+
+00:41
+versions of remo but if for some reason it crashes it's not working i'll put an
+announcement on discord saying hey we gave the whole the old 100 devs try and
+then you're to take the extra time tonight to be a baddie and write bad code
+okay so that that's what happens if for some
+reason remo doesn't work that's what you're going to do
+all right remo is a very interesting platform the way it works
+right the way it works is that there are tables
+it's kind of like club penguin for adults there are tables
+and when you click at the table it puts you into a
+video chat space with everyone at that table
+right so when you click on a table like you can see you can see that i'm like in
+this table in table one if you were to join my table everyone at
+that table can turn on their cams and mics and everyone can see each other in
+that table okay there are let's see hundreds of people in each of
+
+00:42
+the rooms so far it actually spread out pretty evenly um thank you for like
+not just all trying to get into the first one because it the actual there's
+that actually there's um there's one that's actually bigger than
+the first one which is pretty cool to see uh so the the idea here is that
+your tables are limited to six you can sit down on the table
+you can see people's uh cams and mics you have to turn on your camera mic when
+you're at the table uh it is a it is a buggy platform
+give yourself some time to try and figure it out
+um if you you sometimes have to like turn on your camera mic their buttons
+turn on your camera mic it might be a little weird while you're
+trying to figure it out but you'll figure it out um just kind of play
+around with it until you do but the idea is that you'll be at a table with five
+other people and then you'll be able to turn on your cams and mics
+when you do that you're going to practice your introductions uh you
+should do two rounds of introductions right hi my name is leon i'm a software
+
+00:43
+engineer right i help people build full stack web applications
+i'm here because i'm trying to learn how network better uh nice to meet you all
+right and so you're gonna try practicing that
+and everyone at the table is gonna try practicing that twice
+right by practicing that twice after everyone gets their two practice
+rounds in i've given some kind of simple like fun starter questions on discord
+right some fun practice questions on just like fun to get the conversation going
+questions on discord start with those questions get everyone answering talking
+make some friends get to know each other right and then
+after about 20 minutes or so you're gonna see me pop on i'm gonna go live
+and i'm gonna shuffle you all and so you're all gonna be shuffled onto a new
+table and then you're gonna do it again and then i'm gonna move to another group
+i'm gonna shuffle the tables again and we're just gonna keep this table
+shuffling for a while all right so um we'll we'll take a break
+
+00:44
+at the top of each hour right we'll take a break at the top of
+each hour just like we do normally during class how to make sure we're
+staying healthy hydrated things like that and then we're just going to get
+that practice in so your first round might be really weird might be really
+awkward that's okay you're going to get a bunch of these rounds in we're going
+to keep shuffling tables and you're going to get better at it and better at
+it and better at it it's going to get easier and easier and easier right
+and so this is tonight the practice okay now if for some reason no raid tonight
+so we're gonna jump right into the platforms uh for some reason it all goes
+to hell remo hates us uh it all burns down to
+the ground uh i'll send out a message hey it didn't work out tonight uh extra
+time to be a baddie and write bad code work on your work on your um
+
+00:45
+work on your layouts and on thursday we'll have more time to do more layouts
+together also remember your homework is to work on those layouts layouts that we
+covered in class right the layouts that were extra in that homework right are we
+all saying we're software developers yes because we're all here to be software
+engineers right we're all software engineers we all build full stack web
+applications you could probably practice exactly my
+script and i think that'd be a good idea but if you're shooting for something
+else or something else that feels better to you go for it but i think that's a
+pretty good place to start cool questions before we before we start the
+the networking tonight we got questions you can codes good
+is mayonnaise an instrument if you know what you're doing
+i might throw up is that okay absolutely go throw up first and then come join us
+
+00:46
+i can't interact the sheet because you have to make a copy of it um you can't
+interact with you have to make a copy of it come back for a rate i need shadow
+points yeah no rate tonight because we're going to jump right into the um to
+the the events uh and the events will go until class
+time is over so we're gonna go the full three hours
+will airpods work for mike they should yeah they're gonna give linkedin tips
+eventually yeah yeah there's too many people on that
+main sheet if you haven't downloaded it before give it some time wait until
+folks are in remo and then try coming back to the sheet again
+it's not broken it's just too many of you all trying to download it
+but it's the same one that we've we've covered like four or five times in class
+now so i don't want to make sure i just make
+sure you know it's like not a different one yeah khan yeah you could
+
+00:47
+do i have to network for three hours yes yeah i think i might have to begin each
+of the events so you probably can't jump right in uh you might be like in the
+lobby waiting in the event because we haven't started yet
+well i'd be networking too absolutely we have the hourly break in between
+networking yes we'll do the break at the top of the hour
+are we coming back here after class no we'll end on remo
+can't wait to make folks i'm so excited me too yeah
+should we be introducing ourselves as software engineers or our current jobs
+
+00:48
+as a software engineer we join late you can if you're here now join us
+i drink for tea for coffee chat absolutely yup two rounds of intros through the
+icebreakers and then if you have more time whatever you want to talk about
+it's up to you if your table doesn't want to do the iceberg because that's okay
+we do this again yeah we're going to do this again we're going to use a bunch of
+different platforms so this one doesn't work we'll buy another one too oh
+yeah there's some quirks to remo there's some quirks remo so if it like i
+said if it doesn't work for you this evening that's okay
+um go ahead and and work on your layouts yeah uh people are saying linux doesn't
+is not supported yeah it might not support linux you might try your phone
+
+00:49
+though if you have a phone we joined mike only yep
+yeah i already said we're gonna do a break like we always normally do cool
+all right folks we are going to i'm going to end the stream
+uh try and go to your uh location the one you signed up for on remo and
+uh all the links to the different remote slots are as always in the following
+materials channel right cool all right i'm gonna end the stream uh no
+raid we're gonna jump right into remo and try getting this working uh good
+luck godspeed remember manage your frustration this platform is finicky try
+and figure it out if you can't figure it out for some reason you can't get in or
+something like that um go ahead and work on your layouts for the rest of the
+
+00:50
+evening but i hope to see a bunch of you on remo uh let's have some fun remember
+six different ones so i have to jump to six different ones to let folks in so go
+wait until in the lobby for me to get started and we're gonna start very soon
+so i'll see you all on remo good luck have fun remember give yourself and
+other people grace i don't want to have to ban you
+all right folks have a wonderful rest of your night hopefully see you very soon
+like literally maybe i'll actually literally see you that'd be cool alright
+peace

@@ -1,0 +1,1460 @@
+
+00:00
+oop baby what's going on everybody good
+morning good afternoon good evening hope you all are doing well
+what's going on everybody welcome back welcome back we got a
+got a good class tonight we got a good class tonight tonight we got the oop
+we're going to talk about it we're going to spend some time making the basics
+make sense it's such a hard it's such a confusing it's such a weird
+topic when you're first starting out but i promise you
+i promise you we're going to break it down in a way that makes sense with real
+
+00:01
+examples no stuffy definitions that take you a year to figure out we're gonna
+make it make sense welcome in everybody as always like to
+give folks a few seconds to get in here hope you're doing well it feels good to
+be back tuesday was a good class and good to get that review in get some
+spicy challenges in good to see you all tonight is ideally a a shorter class
+we're gonna cover two of the four pillars of oop
+and then we're gonna do some working together time
+miriam hey what's going on we'll do some
+working together time so that's the goal
+the goal is to get through some of these like meaty topics walk away
+understanding why these things are important
+and then maybe get a little bit of time in to work together on a project
+oh thank you everybody's already in here we already got a lot of wild stuff
+happening hello rufio with the raid 86 folks let's go
+
+00:02
+thanks for hanging out with hello's rufio we we we got some some some some
+some some lovely stream team members now
+folks and we got another one to announce very very soon uh so super excited next
+week we're announcing another stream team member but uh
+it's it's it's popping off folks i can't tell you how amazing it is to see the
+community go to all the different stream team folks right to be able to go from
+learning about javascript to working together to pushing the doing all these
+different things and to have all these different times that we're live and and
+coming together community is really really like that's the end goal folks
+right that's the end goal i love it and to see so many of you showing up for the
+stream team uh streams is it's just next level i people grind for years
+to hit 86 people grind for years to hit 86. and the fact that we have that many
+
+00:03
+folks going to stream team this quick i love it love to see it
+rufio's crushing it mine was crushing it
+and we got another person coming through soon super excited
+alrighty folks you know how we like to do today we're gonna walk through
+uh a little bit of objects review just a little bit of review nothing too while
+just a little bit of review and then we're gonna talk about some oop
+principles and then we're gonna hopefully work in teams to build a
+tic-tac-toe app all right always start off with some questions you
+got questions i hopefully have some answers i just look smaller there we go
+the question of the day is what was your
+favorite what is your favorite ice cream flavor what is your favorite
+
+00:04
+ice cream flavor a lot of vanilla chocolate fans interesting cereal milk
+mint chip i think i'm a i'm a chocolate chip cookie dough type person
+but uh i i've been tempted with the the mint chip back in my days so it's a
+toss-up between cookie dough and mint chip those those are two competing flavors
+we got some chunky monkey some coffee what strawberry
+a lot of cookie dough a lot of mint a lot of mint lovers
+dorian ice cream that'd be wild okay i see awesome banana throwing in there
+rum raisin cookies and cream oh it's a classic
+if i believe the ice cream that's wild okay i like seeing some of these like ice
+cream flavors i didn't even know they made ice cream like that that's pretty
+
+00:05
+dope cool [Laughter] all right thank you i love seeing that that's awesome
+so always talk about some questions if you got some questions i got some
+answers i always just like to give folks a few seconds to get in here before we
+get started yeah some people do say that the mint
+tastes like toothpaste i i don't i feel bad for those folks just like the
+cilantro folks um we need to have our 100 devs project
+thought out code word solutions on github
+and professional checklist submit it so you should have kind of put in
+a lot of work on the professional checklist i won't really ask for it
+until next week so next week i'm going to ask for you to submit all that stuff
+um you should be pushing your code wars every day
+so you should be doing your code wars saving it to a javascript file on your
+
+00:06
+desktop and then pushing that to github just the every day
+you get the the beautiful beautiful green square that our recruiters are
+looking for right and so the idea is that you will be able to
+every single day have a green square because you're doing a code wars every
+day and pushing it now i'll eventually ask to see that repo but it's more for
+you to start building up that that use of git and github making it a daily
+practice and then also getting those green squares
+when is client due that is due may 5th may 5th
+remember it doesn't have to be done we just need the contract or whatever you
+uh signed and if you're having trouble with getting github don't worry i know we
+just had the one class come on sunday for office hours and
+during office hours we're going to put in work
+
+00:07
+to get done more get in github we're going to do lots of practice i'm gonna
+do uh i'll like show you how i get my code wars live on github i'll walk
+through all the steps we'll ask tons of questions we'll get through it so don't
+worry if you're having trouble with the getting github come back on sunday for
+our office hours and we're gonna push through it and make sure it all makes a
+little bit more sense first time working in groups any
+recommendations oh it's great when we get to the end i'll share some some tips
+i think for working in groups uh in the beginning i really think if you haven't
+like read our discord rules and like i know a lot of people just
+click it and they join go back and read those rules there are some really good
+tips on like how to be a good teammate like fused into those rules
+and i i i always like the see the best in each other and give folks the benefit
+of the doubt right like try and see the best as you're working with individuals
+make sure you're communicating and and listening and make sure that you're just
+
+00:08
+trying to to to understand that we're all here to learn
+and for some of us we have to learn how to work with others well and that's part
+of it that's part of doing a boot camp journey as part of working in teams is
+because engineers rarely work by themselves they're often on teams and so
+getting better at working in a team and having your first mistakes working in a
+team happen here and not on the job is part of it
+but always be kind as always here in twitch chat on discord if it's not the
+kindest thing you can say then don't say it right i think that that translates
+really well into working with groups so give people the benefit of doubt be kind
+and if you can keep those two things in mind you can work well with others in
+groups but that's what we practice it there's a
+reason why we we we do like group work and then more serious group work and
+then by the end large portions of what you'll be
+responsible for at 100 devs is group work and these groups become really
+
+00:09
+important the groups that you work with later in program and like say like 10 to
+like 10 plus weeks from now those groups become really important because they
+will be one of the basis for your references when you need a peer
+reference or someone that can speak to the quality of the code that you've
+written well guess what you can share the folks you've worked with in those
+groups and so working right working through how to work better in
+teams getting to know folks you are going to work on those things
+and something we'll get better at over time but in the end it's gonna be a
+really important thing to be able to like look back and be like oh here's
+somebody that knows what i've worked on has helped me with code and boom
+is this webcam or voice only it's up to you we're gonna use remo which can be
+webcam and and mike but for some folks remote they could
+just never really get it to work it's kind of buggy we always have our discord
+voice channels which you can use as well but we don't worry about that for right
+
+00:10
+now we got a whole lecture one of my favorite things to cover uh
+before we get even close to working in teams yeah yeah this will be after stream
+cool text is an option yes it can be alrighty
+let's go ahead and start pushing through if you haven't checked in please go
+ahead and check in exclamation point check in gives us a
+link to a tweet go ahead and like and retweet that tweet please and um it it
+just helps us to to spread the good word folks can find us not to pay so much
+money for a boot camp and then also it's attendance so as we get closer to the
+end as we get closer to the hunt and we get into the the meat of the of the
+support that you're going to need we check attendance so make sure you've
+
+00:11
+checked in so that way we know that you were here cool all right
+this topic above all topics can be something that really um
+really kind of get you in your feels a little bit that can get you into the
+trough of star a little bit and so my promise as we go through uh these very
+important topics is that i'm always going to explain
+the why i feel like i've gone through a lot of books a lot of materials a lot of
+things where i got to the end and i'm like great i kind of understand it
+i kind of know what's going on but i don't know why
+and it was always one of my major frustrations when i was learning how to
+code or whenever i'm learning something new
+is yes i can see it you've given me good examples we've played with it we've
+
+00:12
+built with it but why why like what was the reason
+i needed to learn this or know this and when it comes to encapsulation
+abstraction inheritance polymorphism we got to understand the why just as
+much as the how and what and the build with it and so
+yes these topics can be difficult this will not will not only be our only time
+seeing these topics we're going to get the repetition and we're going to get
+different examples i'm going to show you from different places different
+viewpoints how to get through this important very important topics that in
+my opinion there's really just no good material that gives you
+how the what but more importantly the why like why will my life as an engineer
+change when i use these things and so that's what we're going to get to
+tonight folks all right remember no networking until may but uh
+
+00:13
+may is coming up soon folks may is coming up soon i'm still live i think
+i think my computer just crashed hold on so i am live but i think my laptop just
+died for some reason i don't know why yep all right that died [Laughter]
+i don't know why that that zonked out all right we're gonna go to uh
+
+00:14
+i'm gonna go to main shot real quick [Laughter] all right
+i think we are all set i don't know what happened honestly but that's all right
+you got got we got got exactly now you just see how long it takes me to
+get everything set up before i go live all right we're back folks
+i had to put the hair up i was like come on now i gotta i gotta do this quick
+all right here we go we're back all right so no networking until may
+client deadline is march 5th all right march 5th client alternatives
+remember if you can't get a paid client for some reason you can volunteer for a
+grassroots organization and you can contribute to free and open source
+
+00:15
+software good place to start is first timers only oh should i say did i say
+march in there it's may may 5th not march 5th may 5th may 5th not march
+uh grassroots volunteer and free and open source software are all viable
+all right thank you for bearing with me it looks
+like everything's good we're back online remember tomorrow friday
+we are doing a live crafting your story uh and so that'll be live on
+discord discord at 6 30 p.m right 6 30 p.m i will be live on discord
+we do the group projects we're catching up yes
+so we're live tomorrow on discord uh we're going to bring up i have no idea
+whoever wants to come up is going to come up and i'm going to craft their
+story live they're going to tell me about their background and we're going
+to figure out how to build that background into a good story that we can
+
+00:16
+sell to recruiters hiring partners hiring partners engineering managers etc
+will it be recorded no this first one won't be recorded i will
+do more of them in the future but this first one won't be yeah
+there's there's a few perks to be in live folks i know it's tough there's a
+few perks to being live but we're going to do it again we'll do other ones this
+first one won't all right office hours this sunday we're back with
+our full office hours so this sunday's gonna be like a full at least three
+hours we're going through git we're going through github we're going through um
+we're going through some of the stuff that we'll cover tonight anything we
+need to review we'll still always answer questions like we normally do on slido
+so office hour sunday so friday 6 30 p.m tomorrow for crafting
+your story and then office hours on sundays cool chat what are objects
+
+00:17
+what are objects everything make sure my slides are working sorry
+all right looks like we're good cool what are objects everything exactly
+they're collections of variables and functions right they're collections of
+variables and functions now these variables and functions we call
+them properties and methods and they combine and we've been using them
+right we've been using them but do we fully understand why we've been using them
+right we could just use functions we could just use variables why did we have
+to use them and so this is a method of learning that i implement in my own life
+but it's something i also implement in my teaching and it's also something that
+i think is a really good practice for y'all so right now
+
+00:18
+i see learning is kind of like three phases right using understanding and
+then building once you have those two combined and so at first we're kind of
+just like using these pieces we're using objects we're creating properties we're
+creating methods we're using constructors we're doing these things
+that we kind of really we unders we understand like the use of them right
+but then understanding why we use them is another level
+and one of the things that i find that a lot of folks get tripped up
+on especially at this phase of learning is they try to understand
+they read eloquent javascript and they'll just bang their head against the
+keyboard because they're trying to understand every little bit
+when if they had just started to play with it before trying to understand
+copying the code trying to break the code moving the code around a little bit
+
+00:19
+right that would help them unlock the understanding bit
+and then once the understanding bit starts to come into focus doesn't have
+to be all the way there some folks really put pressure on themselves to
+fully understand everything before they start building and that's also something
+that can slow you down significantly so use it play with it break it
+then try to understand the bits that you're playing with and then try and
+build something with those bits and so you're going to see this pattern happen
+over and over again here at 100 devs i'm going to introduce stuff to you
+we're going to use it we're going to understand the syntax we're going to
+play with it but we might not understand why and then we cover the understanding
+then we build with it so tonight we've been using objects we're going to get
+our repetition on the object that we've been using
+then we're going to add this layer of understanding like what do objects bring
+to the table what is this oop thing what does that bring to the table that's
+going to help my day-to-day life as an engineer and then
+
+00:20
+how can i use these things these best practices these paradigms to build stuff
+that's real that can go into production that i would feel comfortable showing my
+future teammates that will be something that will be stuck in my portfolio
+something that will be what i am proud to show off during interviews
+right so use understand build i think this is something that can
+help alleviate a lot of the anxiety and stress that comes along with learning to
+code and give yourself that grace that freedom to just use and play with stuff
+before you understand it and then once you've been using and playing it then
+try and understand a little bit but don't have to go full bore right you
+don't have to go all the way complete understanding try building with it and
+then that building will unlock the last bit of understanding
+right and so that's something we're going to see over and over and over
+again i kind of like to be on the on the nose with it when we're talking about
+such meaty topics tonight but we're going to use we're going to understand
+
+00:21
+and then we're going to build all right now tonight we're gonna make some nerds
+some nerds real angry they can't help themselves
+the code weenies always come out in full force on this class and any of the oop
+classes here's something that i i need you to know
+your theory doesn't make sense like yes you know the in and outs of
+computer science theory but when you try to explain that theory
+to someone that's just learned the basics of objects it makes no sense
+in your attempt to educate on theory you have lost sight of actual understanding
+actual applicability to the code that folks are writing
+and i have to tell you i've read the books yes i've read the books i've read
+the media ones this is my thursday copy you don't want to see my wednesday or
+
+00:22
+tuesday copy this is my thursday copy i've read the silly books i've gotten
+through them this is my thursday copy you don't want to see my friday or
+saturday copy right i've read the books i've learned the theory it has no place
+in the first class it has no place in the first class i want you to walk away
+understanding why encapsulation is important why abstraction is important
+what it's going to bring to the table what it's going to help you with i don't
+care about the well actually encapsulation in this part
+theory is probably no go [&nbsp;__&nbsp;] yourself right we're here to learn
+we're here to understand we can save those dusty three-page
+explanations for two to three weeks from now we don't need those right now right
+save that and i know i know for some of you that are here the code winnie's that
+
+00:23
+are here i understand that this is going to be very difficult for you so what i
+have done is on any page that includes a definition that attempts to explain
+and lead someone to understanding instead of giving the textbook
+definition i've put a little a little asterisk for you so when you see that
+asterisk come up you can take your headphones out right you can close your
+eyes and you can come back next week right that way we're we're not going to
+to make you shake angrily right so when you see the little
+astra come up that's your cue close your
+eyes take your headphones out and you're good right all right now
+i think it's really important to spend time on the conversation we can get to
+the academic definitions later on cool the other thing too is that i'm throwing
+
+00:24
+around a lot of big words i'm throwing around encapsulation
+abstraction inheritance polymorphism when i first heard these words
+they're big words i didn't understand them so i treated them as disrespect
+and so when we're looking at these definitions
+and you're throwing around these big words that i understand you gotta
+understand it makes me feel a certain type of way and i'm gonna treat it as
+disrespect so we're gonna try and get rid of these big words
+we're gonna try and and talk about these
+things in a language that actually makes sense to the humans that just learned
+javascript and we're gonna save the big words and the disrespect for a few weeks
+from now all right we both wrapped the same smart tech if you know you know
+now you're both going to get clapped up all right
+
+00:25
+chat we talked about objects being a collection of variables and functions
+we are going to just do a little bit of review
+and then we're going to jump into how we can start using these objects and start
+talking about those pillars of object-oriented programming cool so
+we've let the we've put the the nerds on on standby uh we we we know that we're
+gonna take some creative liberties tonight and uh if you need to take some
+time that's okay all right so we talked about objects the collection of
+variables and functions uh they represent the attributes and
+behavior of something in our program we call these variables properties when
+they're tied to an object and we call these functions methods when they are
+tied to an object we like to think of like a physical
+object when we're trying to think through this to tie it to something a
+little bit more real i like to think of a stopwatch a stopwatch has properties
+like color shape size even things like the minute and seconds but it also has
+
+00:26
+methods that are tied to it behavior start stop split reset these things that
+we've been building up over the last few classes
+we see here that we're creating a stopwatch using what type of notation here
+what type of notation we're using to create an object here
+yeah we're using literal notation here we're adding properties and methods here
+using what notation dot notation what are some other ways
+that we could create objects though if we didn't want to use literal notation
+we didn't want to use this dot notation what if we wanted to make a lot of
+objects what could we do we could build constructors exactly and
+then if we wanted to put a little bit of syntactical sugar on top of our
+constructors what could we use yeah we could use our classes exactly so
+we talked about the ability to create lots of objects just like a factory can
+
+00:27
+create lots of objects well we have our constructors which can help us spit out
+a lot of objects and we had this original syntax and then
+with the newer versions of javascript we put some syntactical sugar on them and
+we got our classes so what i would love for us to do is to very quickly
+uh work through building out a class just to get this
+stuff in our brain just to get that review in and then once we work through
+this object's practice we will move into oop or object oriented programming
+cool so let's go ahead if you haven't downloaded the materials yet go ahead
+please they're always on discord in the following materials channel this is
+class 30 materials can you believe after this class we'll be halfway through
+folks can we just take a second for that
+hold on let me just take a second before we before we start working on this
+
+00:28
+after tonight we're halfway through folks could you imagine in the beginning
+when you first saw that reddit post that in just a few weeks you'll be sitting
+there going oh yeah leon when we create an object it's a collection of variables
+and functions we can use literal notation and dot notation to build the
+object but now we're looking at constructors and well the constructor's
+got some tactical sugar and now they're and now and now we got classes what a
+bunch of nerds what a bunch of nerds i love it y'all a
+bunch of nerds and i love it right like could you imagine could you
+imagine just a few weeks ago knowing that you would be able to have that full
+conversation like like that it makes sense like that those words have meaning to
+you and that you keep showing up and tonight we're going into things like
+encapsulation and abstraction and we're talking about paradigms of of of coding
+like what come on now that's huge and after tonight we're
+
+00:29
+almost halfway through so you know next week's got to be big we know next week's
+got to be big because that next week we're officially halfway through and so
+next week's got to be big this we got to celebrate but come on now if you're not
+proud of yourself i know i've been saying this a lot recently but if you're
+not proud of yourself you're messing up because it it not everyone can do this
+right and so i'm just i just want to make sure that if nobody tells you i'm
+hella proud of you like really proud of you for showing up committing to this
+process digging deep when things don't make sense
+a lot of folks want to do this but they don't you'll be you're all built
+different all are built different all right
+let's go ahead and take a look at this code
+uh we have in the starter code for today
+uh this object espresso machine so let's
+go ahead and open up this js file i have
+the index.html file so we can open it as well
+and i want you to create an espresso machine actually i don't want to make a
+
+00:30
+constructor i want you to make a class sorry this should say class
+uh i want you to create an expression machine class
+that makes espresso machines with four properties and three methods
+four properties three methods okay so let's go ahead we're gonna we we've done
+this before we've been down this block a
+few times so let's go ahead and put four minutes on the clock
+four minutes on the clock for this one i know we can get through this one we've
+done this quite a few times use the class based syntax please class
+
+00:31
+based syntax four minutes on the clock you got this
+but dude we've talked about them in class they're in the slides too if you
+need to take a look at the slides here's the slide if you need
+the first book i showed was the structure and interpretation of computer
+
+00:32
+programs it is the it is the meatiest book i have probably ever worked through
+glad to hear it jacob tony stark i haven't seen it yet but
+i'll i'll take a peek through after after class jm just put them here in chat
+i don't even want to say the name of the book again please do not read this book
+this book is like not helpful unless you really want to nerd out and
+that's like that's once you have a job book like once you have a job you can go
+back to that book well so we're going to talk a little bit
+about that today actually nae nae we are just making a class that has
+
+00:33
+three prop four properties and three methods
+i'm leaving this slide up so people can take a peek at the class syntax
+misinformed cars hey congrats happy birthday
+first time i can say done hey congrats if you're having to look at this because
+you don't remember that means to me that you might need to
+spend a little bit more time with anki and this definitely needs to be one of
+
+00:34
+the things in your anki deck radio welcome make sure you join you can
+do exclamation point 100 devs here in chat to learn everything uh but if you
+join our discord we agree to the rules and there's this lovely ketchup channel
+you can definitely work through all the material with uh the ketchup crew
+spellbatch that i have a hard time making any slides that mean anything
+that's how it starts and then eventually
+you find what works and doesn't work you just kind of got to get into it i've
+created a lot of crap cards in my day but they just get deleted or i remember
+them and i don't ever think about them again
+all right folks come on back let's take a look at this
+do you like rock music not really rock but like ska
+five iron frenzy is my favorite band all right folks come on back come on back
+
+00:35
+also listen to a lot of punk really into idols right now yeah
+never fight a man with a perm like as i just play that song on repeat right now
+cool all righty folks let's take a look at this together
+pretty sure i hung out with leon in high school that's that's that's like a nice
+compliment alrighty let's go ahead and build out this class so
+we're gonna build out our class remember the class structure is a little bit
+different uh so we're gonna call this espresso machine
+and i like to keep my classes with the capital letter anyway espresso
+there you go espresso machine all right now inside of our espresso machine we
+
+00:36
+need our what first we need our what first constructor
+beautiful so we have our constructor first and then we're going to have our
+methods that come after our constructor so what are some properties that our
+espresso machine should have zen kits hey thank you for the hydration
+i appreciate it cheers to you necco cats hey thank you for the tier
+three that's wild i see some models i see brand i see color uh size i see price
+i kind of like this let's do let's do color make model price so this dot color
+
+00:37
+equals color uh this dot make equals make this dot brand or model i should say
+model equals model and this dot price equals price what am i missing
+has grinder nah my espresso machines never have grinders
+there's really no good pros like prosumer espresso machine with a
+built-in grinder in my opinion yeah i'm gonna see my parameters i need
+to put the color the make the model in here right color make
+model and i need price in here too beautiful all right so we got our constructor
+color make model uh remember we always have to keep in mind
+let me uh connect my ipad again sorry i realized that my ipad wasn't connected
+
+00:38
+after the restart and i plan to start demo pro too all right here we go
+all right there we go so the thing we always have to keep in mind right thing
+was to keep in mind is that these right here are what
+what are the things i just circled they're properties exactly these are the
+properties however these over here are the what
+exactly i see some folks coming with it the parameters right the parameters and
+so what you have to realize is that the parameters are coming in up here and
+correlating to these parameters over here these are just the properties that
+are going to be tied to the object that gets spit out of this constructor that
+
+00:39
+gets spit out of this class often they are the same name but they
+don't have to be i could have called this zaboomafoo and then had zabooma
+through here and i still would have had a property of color that then had the
+value that got passed in so the uh the the beautiful thing here is
+that we have uh our properties laid out our properties and our methods there's
+one other thing that's that's wrong here what else is wrong here there's
+something something that that's messed up yes the parentheses nice
+why don't i need parentheses here why do i need parentheses there
+it's not a what it's not a constructor function it's not
+it's not actually a function there so since it's not a function we don't need
+those parentheses and so i think a lot of folks when they're switching from the
+constructor to the class syntax they always leave it because they're so used
+
+00:40
+to being a constructor function but it's different it's a little bit of
+syntactical sugar it's a little bit different
+the constructor function is here now cool all right
+we need some methods what are some things that our espresso machine should
+be able to do what are what are some things we need here
+we need to turn on we need it to froth milk we need it to brew
+we need to pull a shot we need to heat turn on turn off
+all right i like turn on we can do turn on brew and
+or we can make like we can turn on steam and like brew right
+so let's go and do that let's go ahead and turn on cool then we can have
+
+00:41
+uh steam and then we can have brew cool now we have the ability to
+to turn on to steam and to brew let's just put some console logs in here
+i'm just gonna say good day i am now on cool steam [Music] we're going to say
+it's summer sale 50 off all right there we go that's steam 50 off and then brew
+we're going to just have it console log good stuff coming
+your way all right there we go so we have an espresso machine that has
+
+00:42
+a constructor that helps us make uh four properties on the objects and then we
+have uh three lovely methods turn on steam and brew
+let's go ahead and actually create a an object here and so let's go ahead and
+let me see if i can keep this all on screen here let's go ahead and create an
+object here so um anybody have a favorite espresso machine
+i'm not shilling for steam revel nespresso that's my favorite we're going to go
+with the gaggia there we go that gaggia equal
+and we're going to do a new keyword espresso machine and
+we have to pass in our values now so we're going to pass in the color the
+make uh the model and the price i'm thinking the gaja classic pro now
+the gaja classic pro is a beautiful espresso machine they came out with this
+
+00:43
+like beautiful red color recent well not recently but beautiful red color
+uh the make is gaja the model is the classic pro and
+this is like this is like the best entry-level prosumer espresso machine right
+like getting everything like getting good espresso under 800
+is not an easy feat and so when you throw in the espresso machine the
+grinder all that funny stuff uh you wind up realizing that for the dollar for
+dollar the gaja classic pro is probably one of the best espresso machines on the
+market uh barring getting something like refurbished and using that or making
+some modifications to another one all right now what do we think the price for a
+
+00:44
+a gaja classic pro might be it's like you're all pretty close
+you can you can typically get one in the range for like four to six hundred
+dollars um if you like go on certain websites
+they'll try and sell it to you for eight hundred but yeah like
+four to four to six hundred uh if you if you know where to look you
+can get it for 400 so we'll say 400 for the price cool
+all right so now we have our lovely object let's go ahead and save it let's
+see if we can open this in the browser and make sure that it's actually running
+open in browser all right i forgot that it was still to bring it on one
+let's go take a look at the console let's ask for our guys back we got it
+here we go we got the lovely espresso machine it has a color red
+
+00:45
+a make of gaja it has the model of classic pro it has the price of 400 and
+it should have some methods too so let's go and try using one of the methods and
+i think we had turn on was one of ours there we go good day i am now on
+beautiful so it looks like we got not only all of
+our properties let's see if we can get one of the properties back let's get the
+price cool looks like we got the price we got the methods we're doing good
+alrighty we feeling good we got this review in
+public private hang around we're gonna we're gonna talk a little bit about
+public private later on today all right first try
+what type of tea this is a tazo vanilla caramel chai
+
+00:46
+it's my go-to recently alrighty did this in the js cardio nice
+the jscardio definitely haven't done that yet the other part of the work that
+was assigned really good practice for all this stuff all right so
+we got a review in we're using the lovely class-based syntax we've built
+our espresso machine and we've been using these objects and
+there was a reason why i had you watch that video if you noticed in the in the
+in the the the announcement for today's class was to watch this video of cardi b
+because whenever i'm learning to code i feel i feel i feel cardy inside me all
+right i i feel i feel them just like bubbling out because i'll read one of
+these whole dusty this is a fun one i'm not hating on this one this is like
+a fun one i'll read this whole book and i'll be like all right great objects
+
+00:47
+yeah i know how to use them i can i can play around them but what
+was the reason like why why should i use
+objects why do i need factories why do i need classes why do i need constructors
+what is the reason that i needed all this stuff right
+and i constantly am learning things and the whole time every part of my being is
+screaming why is screaming why right and so tonight
+i'm hoping to answer a little bit of reason as to why we use objects
+why we need these things called encapsulation and abstraction
+and why we need these factories and all this stuff and i hope that after
+tonight's class we we walk away with understanding why that we that we
+understand right um the why behind what we're doing and so
+
+00:48
+if we can walk away tonight understanding the why i'm gonna feel really good so
+before we do that uh before we before we before we before
+we jump into the next little bit of what
+we're gonna cover this evening uh i want to take a break let's go and take a
+break uh we're we're almost to the top of the
+hour if you're new around here we like to take breaks to the top of the hour to
+be healthy to give our hands and eyes a little bit of a little bit of a break
+i'm gonna put five minutes on the timer here
+please if you're able get up move around hydrate
+all right look out your window longingly at the light post so that your eyes
+focus on something farther away and we'll be back in five minutes
+i'll leave it up here all right i'm gonna run some ads you
+actually have to take a break too so that new folks can come and not have
+
+00:49
+to sit through them hi folks see you in five minutes
+
+00:51
+
+00:53
+when we come back we learn why go well my this do
+never does difficult she never does is there a start over crew
+that's actually not a bad idea but definitely join the ketchup crew we have
+so many folks joining in the ketchup crew every day so
+you can definitely create like threads too to stay with folks
+will there be another super review yeah we'll definitely get another super
+review in once we get all the way through objects async awaiting promises
+next week we'll do a review with everything
+basically we'll go deep with javascript so we won't do like html or css but
+
+00:54
+we'll go review everything in javascript before we get into the back end
+can you do freelance work as partners absolutely um but you both need your own
+contracts because you you want to be the beautiful
+thing about having your own free like you can do it but
+if you do it by yourself it's a little bit better because when a hiring partner
+or someone asks you like show me what you've built there's no ambiguity around
+it like i built this whole thing for this client they paid me money
+face clan intern hey thank you for the uh the gift it subs hey's up let's go
+get me on the phase clan they need their first teacher their first educator
+
+00:55
+is leon there you go [Laughter] don't let the hundred devs fool you
+all right folks come on back come on back let's get into this
+let's get into this i just watched the 12-second video i
+feel her yeah that's why i want to be able to watch it like i i really do like
+when i tell you some stuff like of course sometimes i'm like joking but no
+when i read these books the whole time the whole time i am thinking through um
+like why what is the reason i wish they would just start by saying here's why
+you need this stuff and then go into all the nitty gritty details but none of
+these books do it they're all like it's almost like
+they can't remember being beginners all right almost like they can't
+remember being beginners which is why i love
+that's why i love with every fiber of my being the stream team
+
+00:56
+there's nothing i can do to go back and remember
+everything that it was like to be in that in that moment in time but with the
+stream team we can we could have folks that are in the thick of it in the mud
+with you that are explaining things and seeing things with those eyes i try
+really hard but the stream team makes it so that there's someone with your same
+perspective and you can go through it together all right
+told you folks are not gonna be able to help themselves tonight they're not
+all ready let's chill the music here already so as our code base gets larger
+
+00:57
+and more folks join the team can we keep our code organized
+it's a big question we have to start asking ourselves we're going to start
+doing more teamwork by the end of program we're going to be
+building large-scale applications with each other
+as part of the agency right we're going to be building these bigger projects
+together and right now as our code bases get
+larger and more folks join the team can we keep our code organized it's a
+question we need to keep in our brains another question we need to think
+through is it easy to add no new features and functionality the way that we
+the way that our code is organized now is it easily add new features and
+functionality can we can we can we make it so that new folks can
+join easily can we keep it organized can another developer look at your code
+
+00:58
+and actually understand what is happening and i'm seeing a lot of yeses but
+i feel like it might be a a no and i'm going to show you why in a second
+so the things i start to we got to start thinking about is like we've been
+writing code right and the first rule of writing code the
+the the the first rule of writing code at 100 devs is what
+what is the first rule above above everything i'm about to talk about above
+everything about to talk about what is the first rule
+be a baddie exactly be a baddie write bad code make it work
+make it work right make it work that is the number one rule at 100 devs be a
+baddie write bad code make it work right everything else is extra but
+our end goal is to be able to work with others
+our end goal is to be able to build bigger and bigger things
+and our procedural spaghetti code might start to hold us back a little bit so
+something i need you to think about tonight and i'm going to show you some
+
+00:59
+examples but i want you to think through these questions
+as their codebase gets larger the way that you're writing code right now can
+more folks join you will your code stay organized as they join
+is it easy for you to add new features and functionality
+can another developer look at your code and understand what exactly is happening
+just by like looking and reading through it
+and can you make changes without losing sleep at night like if you and another
+developer are working on the same project can you both make changes and
+not be afraid that it breaks something else
+and so i think and we're going to see some examples that's that's a no right
+now and that's okay because the first rule is be a baddie write bad code make
+it work but what if there was a system paradigm a set of rules
+
+01:00
+or an agreed-upon structure to our code that we could follow
+that would make it easier for us to add new things
+that would make it easier for us to read through what we had already written and
+and see the code that's already there and what if we could structure our code
+in a way we could structure our code in a way
+where we weren't afraid to make changes where we could push code at five o'clock
+and go home and not sweat the entire ride back
+you know what if there was a system a paradigm a set of rules notice the
+warning on the slide right notice the warning on the slide whenever you see
+this warning you know the next slide's about to get loud about to get flashy
+i'll have these on all the slides before before we hit it so what if there was a
+system a paradigm a set of rules that made it
+easy for us to add new stuff that made it easier to read what we already
+
+01:01
+written that made it so we weren't afraid to make changes well [Music] so
+[Music] i went there i did it my cat jumped off the chair and ran [Laughter]
+all right so that's that's the whole point of object oriented programming is
+that we're going to start being able to answer these questions with a system
+that enables us to work around them all right i forgot to forgot to go to
+
+01:02
+the next slide hold on 10 seconds baby baby [Music]
+all right let's see some code let's see some code
+we talked about it but let's see some code you know what i'm saying
+now the juice is going let's see some code all right
+let's take a look at this code here uh so i want to i want to build some
+
+01:03
+some code to start helping us as we start thinking about the agency
+and so i want to be able to calculate uh my profit when i work with a client
+right i want to i want to i want to work with my i want to be able to i want to
+build something so that i can calculate the profit of when i work with a client
+to get get work done right and so i'm standing on my keyboard
+so here i have uh some variables hourly rate hours tax rate uh once again
+this is a reminder i'm not a tax professional none of this
+is tax advice please don't think this tax rate is your tax rate getting that
+out there pay your taxes all right so we have our
+variables here for hourly rate hours tax
+rate we have a function here that we can use to calculate profit
+and we can see that i here am creating a variable called profit
+
+01:04
+i am calculating my profit i am passing in the hourly rate
+the hours and the tax rate the hourly rate falls into rate the hours falls
+into number of hours the tax rate falls into taxes you see you have a simple
+formula here for calculating uh the rate
+times the number of hours times the rate of taxes right and this works
+this works and this look this might be some code that we would really write
+right this looks like something that we would we would feel comfortable writing
+to calculate um the profit that we make when working with a client
+now the question i have is it easy to add new features or functionality
+uh with the way the code is written now let's take a look
+here i added just one other bit of functionality
+right i just added one other bit of functionality
+
+01:05
+uh which is like how much do we need to to
+hold on to for taxes so let's see if we can follow this through right we have
+our hourly rate our hours our tax rate we have the ability to calculate our
+profit we have the ability to calculate our taxes held and so for this to work
+we need to calculate our profit first and then once we have our profit we can
+calculate our are held for taxes right and so here we're passing in the
+hourly rate of 250. oh [&nbsp;__&nbsp;] now my now
+my clients know my hourly rate um my number of hours and my tax rate
+those get passed in right those get passed in
+and then i calculate my my profit that gets spit back out it's stored in profit
+then i'm able to use profit as a parameter that gets passed in i can then
+use the profit to calculate how much i need to hold for taxes and i have that
+
+01:06
+spit out now all of this works this is all some very procedural code
+that we're used to probably writing now the problem is
+can another developer look at my code and understand what is happening let's
+take a look can you as another developer figure out what's happening here
+what are some what are some problems what are some problems that you might
+run into when you're looking at this code
+what are some what are some things that you're thinking about
+when you're looking at this code sure but there's too much to analyze exactly
+there's too much to analyze our parameter names are all over the place
+our variable names are all over the place right and just adding one line of
+
+01:07
+functionality kind of made this harder to understand
+right we could we agree that just adding this one line it's not we're not
+breaking the bank right here we're not breaking the bank right here but just
+adding that one line right just adding that one line is already
+probably causing us a lot of problems and we want to build out a full
+application that we can use to help manage our agency so could you imagine
+adding 50 to 100 other things that we need to keep track of in this procedural
+manner i don't know and and and could you make changes and
+sleep at night like could you could you make a change to this
+could you make a change to this and feel comfortable pushing your code
+
+01:08
+like if we're working on a team could you change any of this could you would
+you feel comfortable changing hourly rate would you feel comfortable changing
+taxes no way and imagine this is just what this is what this is what two bits of
+functionality two two this is two bits of functionality and we're already like
+leon i don't know i don't know i i can't do this right i can't do this
+right this with two bits of functionality and so if we're building
+out full applications the way that we've been writing code just won't work
+it makes sense this works it makes sense we could sit here we
+could we could get up into it okay this this we could we could we
+
+01:09
+could go full steve madden right we can go full steve madden we can bring out
+the nuns right we could we we could figure it out we could figure it out
+right we could figure it out but what if there was something we could do
+what if there was something that we could do
+that would make it so we could get rid of all this mess
+this is just mess to me it works we can read it it's procedural we can go from
+top to bottom we can understand it but what if there was a way that we
+could make it so that we could solve those questions easier to work with
+others make changes without losing sleep at night and one of the first things we
+realize is that if we look at this code and we really think about it there's two
+things right there's two things that i'm noticing about this code there's data
+like our hourly rate our hours worked our tax rate and then there was
+
+01:10
+functionality like calculating the profit
+and the tax is held right so when i look
+at this code i'm really seeing those two things i'm seeing data and i am seeing
+functionality and so what if there was a way that we could fuse
+this data and functionality together right we could pull it out right we
+could pull it out pull it out right we can pull it out if you know you
+know right we could pull it out what if we could fuse
+our data and functionality together so that it makes a little bit more sense
+right but it makes a little bit more sense a little bit easier to keep track
+of what's going on so here is my serious business person object
+here's my serious business person object let's take a look at this right here
+
+01:11
+we have our hourly rate we have our hours worked we have our tax rate
+and then we have our calculate profit right we have our calculate profit now
+look at calculate profit what's calculate profit doing that was
+different than that messy code we were looking at not too long ago
+one it's a lot easier to read i agree with that uh
+the parameters aren't all over the place right the parameters all over the place
+we are using the hourly rate hours and tax rate that
+are that are tied to the object and we're not using a class right now
+because it's just too much to fit on one page right but we would build a class
+with a constructor that would do this right but for now just so we can get the
+idea now we don't have this mess that's everywhere
+right it's a method now it's way more readable we can see the hourly rate the
+
+01:12
+hours the tax rate and it's not changing throughout our code
+we can go and see all right i want to calculate the profit i can go and see
+where calculate profit is is made and i can see that it's oh it's referencing
+this hourly rate this hours this tax rate i know what those things are
+right i know what those things are i can look oh this that hourly rate
+this that hours this that tax rate when i see this i know exactly where to go
+right like i don't i don't have to i don't have to go anywhere else
+inside of my code right i don't have to go anywhere else
+inside of my code when i see this i know it's referring to the property on that
+object right i know it's referring to the property on that object so if another
+
+01:13
+teammate where if we're working on code together and another teammate adds some
+property up here called hours right they come up here and they they create an
+hours up here do i lose any sleep no because i'm i am not i'm not worried
+about am i going to accidentally use that as a parameter am i going to
+accidentally use it as a variable this hours up here means nothing to me
+because i can see that this hours is tied to the object it's this thought hours
+right so now i have my data and my functionality fused together
+and it makes the code way more readable it makes it so that when i want to
+add new features or functionality right when i want to add new features or
+functionality it's not wild right i added the calculate taxes held and now
+
+01:14
+i'm still using the hourly rate i'm still using the hours i'm still using
+the this dot calculate profit when i say this dot calculate profit am
+i talking about some other function 400 lines down called calculate profit no
+right i know that this calculate profit because i see that this keyword is
+talking about this method right here right it's talking about that
+specific method so it's my my my data and my functionality is fused
+together it makes it way easier i can now add more bits of functionality
+and it's readable i'm not chasing stuff down throughout my entire my entire
+folder structure it makes it so that i can also do something really really
+important i can understand what the heck is going on in my code
+
+01:15
+right i can understand what's going on i
+can see that this is an hourly rate this is hours i can see that this is
+calculating profit i can quickly read this and understand what's happening
+but the other thing is i can make changes now without losing sleep
+i can change my tax rate and do i worry that anything else is broken
+do i have to worry about some other function somewhere else breaking do i
+have to worry about that big mess of chains that we had before
+no we know that everything is using the the actual properties so we know
+that this dot tax rate is looking right at this line and we know all the other
+methods that we built right all the other methods that we built
+they're all using the same data so now we can add new bits of functionality
+we can make changes and not lose sleep at night because we're all kind of
+
+01:16
+agreeing to this this system this paradigm right and so when we fuse our data
+and functionality into one object when we fuse this data and functionality
+
+01:17
+into one object you have your warning encapsulation baby [Music]
+the nerds are in shambles that's encapsulation
+all right i keep forgetting the other slide we got to have that i keep
+forgetting while it's out to do the other slide all right so
+here's the here's here's my definition of encapsulation and as you'll notice
+i've put my warning here if you're if you're a code weenie when you see this
+asterisk this is your turn to close your eyes and take your headphones out i'm
+going to give you a warning to close your eyes take your headphones out if if
+definitions that are meant to help people understand if that's going to
+make you shake violently you can't help yourself i already see you typing it
+there's somebody right now that has like a full paragraph typed out about how
+this isn't absolutely 100 encapsulation right you can just delete it it's okay
+
+01:18
+come back in a few minutes we'll be past this okay all right so
+to me encapsulation what helped me kind of understand is this just the process
+of storing our functions or methods with their associated data akr
+properties into one thing the fusing of that data the fusing of those of that
+functionality into one thing that's encapsulation the process of storing our
+functions with their associated data into one thing cool so
+the the thing we always have to come back to
+the thing that we that we always have to come back to is is is the why
+right is the why what does encapsulation help us do
+
+01:19
+why is why do people say encapsulation is important it's one of the four
+pillars of object-oriented programming this paradigm that makes us writing code
+together a little bit more easier why do
+why is this encapsulation important what does it help us do what is the reason
+what is the the reason what is the reason i love that people haven't watched the
+gif and they just have no idea they think i'm just getting real hype off of this
+yeah a little bit a little bit more specific
+though it does help with organization right but it makes it so
+that we can do a couple things one we can make our code more readable
+two it makes sure that we can make changes and not lose sleep and it gets
+rid of this mess of spaghetti code because our data and our functionality
+
+01:20
+is fused into one thing cool now i have a new question
+we talked about this we talked very briefly about this idea is it easier to
+add new features and functionality if we're using encapsulation that's one step
+towards making it easier to add functions and features and functionality
+but there are some other things that we can do that continue down this pathway
+of making it easier to add new features and functionality so
+i'm going to ask for a little bit of creative freedom a little bit of liberty
+when we describe this next thing as i have done before but i'm hoping that
+this little bit of encapsulation starts to make sense because i can't tell you
+how many books i read how many youtube videos i watched i'm like
+why why would i use encapsulation why does using objects help so i hope that
+that example helped if it didn't don't worry we're gonna see this two three
+more times over the next few classes with more examples come to office hours
+
+01:21
+ask your questions but i want to lean into this idea is it easy to add new
+features and functionality so to do that let's let's talk about something let's
+let's talk about our espresso machine earlier today we talked about the gaja
+classic pro here it is in all of its glory now the garage classic pro really is
+hands down the best prosumer entry-level espresso machine
+it's expensive yes but anything less is is not gonna cut it
+right if you want good espresso with good pores consistently good pores the
+gaja classic pro builds up a really good steam it really presses that steam to
+the portafilter you get really good espresso
+and the gadget classic pro was really good at it it was really good
+not a sponsored stream because i'm about to wreck them about the reckon the
+
+01:22
+gauges the gaja classic pro was hands down like one of the best
+espresso machines for that that category but it was missing something
+it was missing this lovely steam wand right it was missing this lovely steam
+wand and so they added a steam wand to the gaja classic pro but it sucks
+it's horrible it is hot garbage so if you're not if you're not in the know
+uh you use the steam wand to add texture to your milk
+right you add texture to your milk give you that elasticity
+so that you can do cool stuff with it you can make your lattes you can do what
+you want to do right and uh the steam one that they added to
+the gaja classic pro not good all right now something interesting
+is that the gaggia classic pro is really good at one thing right it
+
+01:23
+really does make really good boiled water right the gadget
+classic pro is really good at heating water the water it heats for the
+espresso makes some of the best espresso you can make in the entry level market
+however that same boiled water that you would use to steam your milk through
+that wand well it sucks right the goja classic pro is an
+espresso machine at its core it boils water and then it takes that hot water
+it puts it through a portafilter and that's how you get your espresso and it
+sends some of that water or that steam to the steam wand and that's how you can
+froth your milk but the wand sucks so if we are all astute engineers that we are
+what should the engineers at gaggia do what should they do uh to this this
+
+01:24
+lovely espresso machine quick they should update the wand
+please guys if you're listening please listen to us here here are here our our
+our plea get rid of the crappy two-hole filter
+give us a single hole that gives us more control please just fix it all right
+so the engineers could probably just make a better one right they can make a
+better steam wand uh should they get rid of the boiler
+right we want this better espresso machine everything is perfect except for
+the steam wand should they get rid of the water boiler no
+should they get rid of the buttons on the front
+no should they redesign the portafilter no they probably shouldn't they should
+
+01:25
+probably right probably just fix the wand and so if
+they're going to fix the wand do the engineers at gaza even need to
+think about the water boiler do they even need to think about the
+buttons that are on the front of the machine or can they just focus on something
+right the engineers can just focus on the wand right they don't need to think
+about the water boiler they don't need to think about the buttons on the front
+they can just focus on the wand so we can say in this instance
+that the water boiling it's abstracted oh boy the engineers at gaja right
+they need to fix the steam one fix the wand please fix the wand
+
+01:26
+it's almost perfect just fix the wand and when they're fixing the wand they
+don't have to worry about the water boiler the water boiler is perfect
+it makes some of the best espresso in the entry level market
+and when the engineers show up for work they don't need to worry about the water
+boiler they can just focus on the wand so in this instance the water boiling
+is abstracted all right let's look at some code all right so
+i've been working really hard on building a lot of tools and systems
+for the agency and so here is a calculator i built
+right i built this at this lovely calculator um that can help generate
+invoices for our clients and i accidentally put this calculator
+
+01:27
+uh on our agency website right i actually put it on the agency website and
+at first this could be fine but there's there's some things that uh we might not
+want on our agency website if we look at this calculator
+um you can see that i have entered in an hourly rate
+the hours worked and our tax rate my tax rate and then
+i have these lovely calculate profit methods this invoice client method
+and our client can come to the website and they can generate their invoice they
+can just say invoice client and they would get the invoice
+but they could also do two other things that i don't want them to do
+what's the first rule of freelancing what's the what's the magic question
+
+01:28
+what's the magic question what's your ball park budget
+what's your ballpark budget i don't want
+my clients to ever know my hourly rate i have the hourly rate in my brain i know
+what i'm shooting for i'm shooting for 250 an hour
+right but i don't need them to know that i don't want them to know that but the
+way that my code is written right now on the agency website
+not only can they get their invoice but at their little you know they're in
+there you know they're they're moving around they're testing some things maybe
+they know a little bit a bit they can also get the hourly rate uh-oh
+and they can figure out how much money i'm going to make off of them
+i don't want them to know how much money i'm going to make off of them i want
+them to feel like i'm i'm please sir i have some more right i don't want to
+know how much money that i'm making off of this right but right now as it stands
+if they're using this calculator not only can they get their invoice but
+
+01:29
+they can get the hourly rate and the profit interesting so let's look at this
+this is better i made some some very small changes here
+i made some very small changes here if we look now i set up the calculator
+the client will never see me set it up now when they ask for their invoice they
+still get their invoice they still get the 40 000
+but if they try to access the hourly rate they get undefined and they try to
+access calculate profit they get it's not a function let's take a look let's
+take a look at the old code the old code they were able to get the hourly rate
+and the profit but this code they can't in this code i have some private
+
+01:30
+variables and some private methods and once again
+you'll notice the lovely sign here for the nerds that can't control themselves
+they're they're they're absolutely shaking right i'm using the word private
+liberally here we'll get to the real definitions later on but right now
+those things are undefined and they can't be found because look look look
+can you spot the difference this turns them from being bound to the object
+into local variables i went from this to let from this to let now these are
+local variables when i go ahead and i set up my calculator i plugged in my
+
+01:31
+hourly rate i plugged in my hours i plugged in my tax rate and i was able to set
+those values i was able to set the hours
+i was able to set the tax rate and i was able to set the hourly rate however
+the object that comes out of this constructor the object that comes out of this
+constructor does not have an hourly rate does not have an hourly rate property
+so when i try to use the property down here it's undefined i did not set it up
+to have that property it is a local variable
+and the beautiful thing about this is i can use that local variable inside but
+it is not accessible to folks that are using the object
+
+01:32
+right so now i get the benefit of passing in my hourly rate i can actually use
+my hourly rate inside my calculating profit and i can use uh my rate
+right i can use my rate inside of my invoicing the client this would actually
+have to be a variable sorry so well sorry the whole thing is it just
+looks like a string here but the whole thing is a variable with a template
+string right so i'm able to use the rate inside of my calculate profit and i'm
+able to i'm able to use the rate inside of my invoice client but that rate right
+that rate is not available right that rate is not available
+to the user that has the object so i'm able to use it but it's not on
+the object itself okay now we can see right away why
+this could be really helpful right right away this could be really
+
+01:33
+really helpful because now the calculator that's on our website
+we can still generate invoices we can still use numbers that we want ourselves
+but our clients can't see our hourly rate they can't see our calculated profit
+right all was that simple change now the question is
+so my client can now see their invoice they cannot see the hourly rate
+the thing we have to start thinking about is like what is this building up
+to what am i trying to get to here the hourly rate was hidden from the client
+but we were still able to use it the water boiling was hidden from the
+steam wand we were still able to use it right like the water boiled and created
+steam and the wand was able to use that steam
+
+01:34
+just like the portafilter was able to use the steam too like the hole where
+the water goes through the coffee the coffee was able to use the steam to
+generate espresso it was also able to use that steam to to
+push it through the steam wand right so the water boiling was using that steam
+in two areas it was using it for making the espresso and it was using it for the
+wand now the wand did not care or you didn't even have to think about
+the water boiling or how that steam was created right the wand just uses it the
+wand says give me steam the water boiling does its thing gives the steam
+just like our client our client can now get their invoice they don't need to see
+the hourly rate they don't need to see our calculated profit it's all there
+it's all still working but they only get the invoice right we're starting to
+hide any of the complex or unnecessary details
+
+01:35
+the wand does not need to know how the steam was generated
+the client does not need to know our hourly rate to get their invoice
+right these complex or unnecessary details are being hidden
+the really beautiful thing about this is this slowly enables us to implement
+things without understanding or even thinking about all of that hidden
+complexity if we were all engineers at gaggia and
+we were all engineers there and we were tasked with working on the wand
+do we need to know how the water boiler works do we need to know how
+the buttons on the front of the machine work
+
+01:36
+do we need to know the the exact size of the portafilter no
+all those details are important but they are
+they're abstracted away from us right we can just focus on our task
+our job at the moment which is to fix that wand right
+we don't have to worry about the water boiling not to worry about the buttons
+we can focus on the wand if we come and we want to work on this calculator
+we can focus on calculating the tax withheld and not worrying about the profit
+right we can just focus on the things that we need to get done
+we're breaking our projects our applications into smaller
+more manageable pieces of code all right we don't have to worry about
+
+01:37
+the huge system we can focus on just the pieces that we need to work on
+and we can do stuff once that's huge we're breaking down our
+our applications into smaller more manual pieces of code but it also
+enables us to do stuff once i am using the steam to make the espresso
+and i am using the steam to froth my milk did i have to create the
+water boiler twice no i created one water boiler and then i am
+able to use it to make the espresso i'm able to use it to make my steam do the
+engineers working on the wand need to even know
+
+01:38
+how the steam is being made by the water boiler
+no they just say give me steam and they can use it this process of moving
+and hiding some more of the complex the difficult pieces
+making our programs into more manageable bits of code making it so we can do
+
+01:39
+stuff once [Music] all right [Laughter] abstraction is all about
+hiding the details and just showing what is essential
+abstraction is all about hiding the details and showing what is essential right
+by doing this we can make our code more simple more predictable more
+manageable right more simple predictable more manageable
+by using this abstraction right and so we saw abstraction in play
+with the engineers working on the espresso machine
+they only had to make the water boiler once and then any part of the espresso
+machine that needs the steam now has access to it when the engineers are
+working on that espresso machine they can just focus on the wand and not have
+
+01:40
+to worry about the water boiler when they are looking at the
+the espresso machine like the the part that makes the espresso they don't have
+to worry about the water boiler right when we're building our agency
+calculator we don't have to worry about what's happening in calculate profit if
+we're working on working on building out how to calculate the taxes we can start
+to see how this makes our code more manageable when a new engineer comes
+right when a new engineer comes we don't have to worry about reinventing
+the wheel we've already done it we can just use the bits that we need
+and move on with our lives now this is like these are meaty topics
+right these are hard topics right and the first pass it's hard to
+kind of wrap our brains around them so i'm trying to give you some examples
+right i'm trying to get the brain the gears going we're gonna see this stuff
+
+01:41
+over and over again we got like three or four classes including office hours
+we're going to bring this stuff up so i hope the gears are starting to turn a
+little bit we saw we saw some of the four pillars the four pillars are
+encapsulation and abstraction we also have inheritance and the weird one
+polymorphism coming up right but we're starting to to rely on these
+four pillars to bring some more manageability to our code now
+encapsulation we said was the process of storing functions
+and their associated data into one thing that fusion
+of functions and properties together into one
+object right that fusion we said that's what encapsulation was but why
+why the heck do we need encapsulation why is this process of storing functions
+
+01:42
+and their associated data into one thing a thing why what is the reason why does
+this matter right why does this matter well when we utilize encapsulation
+when we fused our data and functionality together into one
+object it made it easier to add new stuff we we didn't have to worry about all
+those messy parameters we didn't have to know what was being passed to what we
+were just it was way cleaner was way easier to add new stuff
+it made it way easier to read through our code right we're not looking at all
+these random made up stuff imagine if a bunch of people are adding
+bits of functionality they would have all came up with their own parameter
+name they would have all came out with their own conventions but now that it's
+part of the object we can just use those object properties so that makes it more
+readable in the long run and it made it so we were not afraid to make changes
+
+01:43
+if all the bits of functionality are using the properties that are tied to
+the object and we're always referencing the same things no matter if we're
+calculating profit or tax or whatever we're using those same bits of data so
+we can make changes we can change the hourly rate from 250 to 300 and not
+lose sweep sleep sleep that is the beauty of
+encapsulation that's why we use it makes it easier to add new stuff makes it
+easier to read our code makes it so we're not afraid to make changes
+that makes sense do you understand why you understand what is the reason
+do you does that make sense yeah yeah all right
+because i can't tell you how many books i read
+i can't tell you how many videos i watched in the end i didn't understand
+
+01:44
+what it was i probably used encapsulation professionally for years
+before i really understood like deeply what it was doing cool
+we also have abstraction in extraction we are hiding the details
+and just showing what is essential showing what is essential but why
+what is the reason why do we need this abstraction
+why is it important to hide details and show the essentials like what is the
+reason well it enables us to make smaller more manageable pieces of code
+our engineers can just work on one piece at a time and not worry about all the
+other pieces we saw with encapsulation right with encapsulation it's easy to
+
+01:45
+reuse the properties across the bits of functionality that's why encapsulation
+and abstraction are so closely tied it's really hard to have one without the
+other because when we have the encapsulation right when we are making
+it more readable when we're reusing our properties inside of our functionality
+when we fused our data and functionality
+together we know that when we go and add
+a new bit of functionality we don't have to worry about how the other bit of
+functionality was working right i don't care what was happening in that
+calculate profit method i don't have to know
+that makes our code way more manageable over time we're just worried about small
+pieces of code and we know that we're not going to break anything that's out
+there throughout the rest of our code base so
+it helps us to split the complexity of the things that we want to build into
+more manageable parts the engineers working on the wand don't have to worry
+
+01:46
+about the water boiling all right next class
+we have inheritance and polymorphism i'm going to give you some videos and some
+reading to watch that walk through those really important things
+when we come back from our break we're going to take a break and when we come
+back from our break we are going to just quickly review
+encapsulation and polymorph sorry encapsulation and abstraction
+and then uh we are going to talk about the homework the stuff we gotta get done
+this weekend and then we're gonna move into working together so don't disappear
+with five minutes on the clock we get a little bit more reviewing a little bit
+more explanations i'm gonna answer some questions we're gonna talk about the
+weekend we're gonna talk about tomorrow and then we're gonna get into working
+together as teammates all right five minutes on
+the clock if you're new here we like to take breaks we like to hydrate if you're
+able please get up move around hydrate let your eyes focus on something in a
+distance five minutes on the clock you got this i'm gonna run some ads so that
+folks uh don't have to sit through them when they
+
+01:47
+come here if you haven't checked in please check in if you're here please
+just give the like and retweet on the um on the tweet please
+
+01:50
+
+01:51
+all right run the ads seeing five folks so uh they they're the ads ran yeah yeah
+they ran papa john's loves running ads on this stream i don't know why but they
+always do now group's not happening after class
+we're gonna have some time during class to work on the groups
+family they all are recorded they get put they're on twitch immediately and
+then on youtube a little bit after they'll be on here for twitch
+
+01:52
+immediately after class grab these links real quick all right god
+all right folks come on back come on back all right hope you had a good break
+let's go ahead let's review encapsulation let's review abstraction
+real quick and then we are going to set up the project and we are going to move
+into the project alrighty you ever know who won the project night
+yes i keep forgetting to announce it maybe maybe we'll make that uh
+
+01:53
+something we'll announce tomorrow during our
+uh career like our story mapping class yeah crafting your story
+i keep pushing it so yeah we'll do that tomorrow that'll be an incentive to show
+up another answer to the show tomorrow we'll announce the project winners then
+alrighty um we also have to do some pokemon cards
+too we'll do those i'm gonna i'm just gonna start doing the pokemon cards on
+sunday because we just have more time then yeah
+all right encapsulation the process of storing functions with their associated
+data into one thing right taking our data and our functionality putting it
+into one object beautiful we gotta you gotta do the full though you gotta do
+the full i do the full right but why why do we care about tying this
+the fusion of our data and functionality together well it makes it easier to add
+
+01:54
+new stuff we don't have this big mess of procedural code right this
+big mess of procedural code where there's global variables here and
+functions over there they all have different parameters they're all using
+different stuff just hard to read can we do it yes can we make it
+work yes but there's a better way when you use encapsulation
+i made it easier to read through that code right like we're using the same
+parameters over and over again we're using the same values and it makes that
+we're not afraid to use changes since we are reusing those values since they are
+all tied together you know how your changes are going to affect the other
+pieces of your code abstraction right it's the idea of
+hiding details and showing the essentials but why why do we need
+abstraction well when the individual is working on
+the steam wand they don't care how the boiler works they just want steam give
+
+01:55
+me steam is what their the engineers are yelling out they don't need to redesign
+a water boiler to use the steam in the wand right they got a lot of things to
+fix in the one they got to change it from the two hole to the one hole to
+give it more control right so the idea is that the beauty of the
+steam wand the engineer working on the steam wand they don't have to redo the
+water boiling they can just use steam right the the boiling is abstracted away
+from them uh when a client is on our website they can just get their invoice
+they don't need to see the hourly rate the hourly weight is abstracted away
+from them so it enables us to have smaller more magical bits of code the
+complexity we can be hidden not only for
+our clients but for our fellow engineers not to worry about those things to not
+lose sleep at night that's why that encapsulation and that abstraction kind
+of meld together to be really helpful all right
+that's two of the big four and i'm going
+to come with more examples next class so i'm going to have more examples on
+
+01:56
+encapsulation more examples of abstraction next class then we're going
+to hit at the other two big pillars of oop or object oriented programming and
+that's inheritance and polymorphism so that's next class those are doozies but
+once again we're going to start with why we're starting with y right then we'll
+get into using it and seeing like actual code using it tonight's about y next
+class is about y then we'll have the rest of the classes to build and
+actually see real code examples and how they come together
+those are big words they are big words and when i first learned them i taught
+them you know i was like that's a lot of disrespect being thrown around
+all right the using doesn't usually come before
+understanding it does that's why we've been using objects we've been doing
+these bits of encapsulation we've been using encapsulation we've used a little
+
+01:57
+bit of abstraction in class too and so next class we'll start to see those
+examples come to life all right group work that's not the
+right remote i don't this this remo is wrong don't go to this one this one's
+wrong so tonight we are going to work on a project
+uh this project is a rite of passage for all new uh new software engineers and
+it's to build a tic tac toe game so tic tac toe can be done procedurally
+it can be a a um it can be a thank you for the engagement uh it can be a
+it can be a really messy hot messy code base right
+you could do global variables everywhere functions everywhere right
+but what i want you to do tonight is to get into a group
+and i want you to get it to work get tic tac toe to work
+right get tic tac toe to work and then make it easier to add new stuff
+
+01:58
+make it easier to read through what was already coded make it so that you're not
+afraid to make changes so if you want to
+make a uh be a baddie and write bad code and get your functions and your your
+variables flying and getting tic tac total work that's the start but then
+when i'm telling you to add when i'm telling you to make it easier to add new
+stuff what i'm saying to make it easy to
+read through what was already coded when i was saying to make it so that you're
+not afraid to make changes what am i asking you to use
+what am i asking you to use i'm asking you to use oop
+i'm asking to use the encapsulation to use the abstraction that we learned
+tonight go back to the slides look at my
+examples what did i change how could you
+change your tic-tac-toe to utilize those examples as well we got some homework
+that includes some video watching some reading to do and there's some push
+reading if you want to push remember push reading is for folks that want to
+
+01:59
+push it's not required if you want to push you can do that reading i'm also
+expecting you to keep up with your code wars to keep up with your anki
+and if you're going to work with us tonight which i hope you do come
+struggle join the struggle bus together work with some other individuals join a
+table get lost in the sauce together be kind to each other know that we're all
+here to learn don't let your inner code weenie come out leave your code weenie
+at the door help others that are in your group work collaboratively together and
+get something working and then try how can we revisit this add encapsulation
+add abstraction to our code so if you would like to join a group i've opened
+up three remos you can join any one of these three remos
+there's also the link in in discord is there as well
+you can join one of these tables you can you can work with others can i
+just watch sure you could join a table tell folks hey i'm new
+i'm not as comfortable with this material i would love to interject if i
+
+02:00
+can and be helpful but do you mind if i be a fly on the wall that's fine start
+like that right you're you're among friends
+if we're if your goal is to get a job you're going to be working with other
+engineers come practice it tonight i don't care if you're silent on remote
+that's fine do what's comfortable for you right do what's comfortable for you
+and if for some reason remo doesn't work we got plenty of voice channels on
+discord we got plenty of voice channels on discord join your study community
+discord join voice channels on discord so i would prefer if you're on remote
+but for some folks it doesn't that doesn't work so there is discord all right
+don't run away come actually work on these projects
+together we got to start working on projects together we got to start
+working with other engineers i know stream's going to be over and and some
+of you are going to try and disappear don't disappear come work with your
+fellow 100 devs make some friends get to know some other engineers get
+comfortable working with others find your comfort level and get in there
+
+02:01
+start slinging some code alrighty folks ronan send me a name i need a name
+if people are being toxic just send me names i need them that's not the
+community as a whole but every once in a while there's a code weenie that just
+can't help themselves that's what mod mail's for all right folks be kind
+be baddies write bad code and then figure out how you can apply oop to it
+we're not doing a raid we're jumping right into remo so you can jump into any
+of these remotes there's three of them there jump in i'll see you over there i'm
+gonna be bouncing through them saying hi stopping at different tables
+and have a wonderful rest of your day i will see you tomorrow on discord for
+crafting your story live all right folks we got about an
+hour left in class let's get on these remotes let's work together let's build
+tic-tac-toe all right folks see you there in a few seconds no raid just
+going to see you on remo peace everyone

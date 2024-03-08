@@ -1,0 +1,781 @@
+
+00:00
+next week is allreact the week after we start the hunt we have data structures
+algorithms Big O notation and then everything we need to do to be
+successful in the job hunt so buckling folks next couple of weeks are
+going to be wonderful uh we got a lot of wonderful stuff planned a lot of things
+that are going to help you cross that finish line but the big piece the thing
+that we need to get done is the MVP so when we are going into the job hunt we
+want to have a hundred hours project a project that we have sunk a hundred
+hours into to complete and when we're in our interviews we can say hey this is
+something I built right this is something I built this is something that
+
+00:01
+was something I wanted to to bring into this world right and I did it now the
+MVP is the minimum viable product the simplest version of that idea that can
+convey what you want to have happen to your users and the the full MVP is is a
+way of taking that 100 hours project right of taking that hundred dollars
+project and Distilling it into something smaller a little bit more manageable
+right a little bit more manageable that you can get done in a shorter time frame
+and then continue to sync your hours into right so I'm going to show you an MVP
+that I think looks decent that well looks good and
+um was from one of our alumni and we're going to talk through it and then I'll
+answer some questions and then I'm going to show you some other things we can do
+uh to get your MVPs across the Finish Line in time all right
+
+00:02
+uh so here's uh Nicholas levino's they're now a software engineer at ciao
+now which is kind of like a food delivery competitor right and so they
+have uh spilled the tea with us here on uh Discord uh Daddy Yankee for those
+that remember them from the first cohort
+and this was the app that they built for
+their MVP of their 100 hours project and it's funny because you think about your
+100 hours project as being something right as being something that can tie
+what you did to your future right so a lot of times a hundred hours project
+right A lot of times 100 hours project can
+um can help explain what you were doing before and be the bridge into what
+you're doing in the future or you can even tie things you were doing recently
+
+00:03
+Nicholas got a client that was a chef right so they had a freelancing the
+freelancing client they got was a chef so they built out a wonderful website
+for this Chef then their 100 hours project was food related right
+and then they got a job at ciao now which is also in the food space so you
+can kind of see how the building blocks are there to be a good fit for a company
+like child now right they had a good freelancing client
+they had a good 100 hours project that was in the same vein and then that
+opened them up to an opportunity at a company like ciao now right it was able
+to connect exactly the dots and so I really like this because you can sign up
+nice beautiful photo on the front nice beautiful font on the front nothing too
+complicated here remember like if you're thinking like
+
+00:04
+um MVP right if you're thinking like um something simple
+right you don't have to go wild nothing too too big on the front page when you
+log in um same login should look a little similar here folks you look a little
+similar here should look a little similar here folks and you log in
+and the beautiful thing is you can upload recipes right and so you can
+upload your recipes you can tag them with the country you can view the recipe
+right and then in the recipe you have um kind of the ingredients the
+directions you can like it and you can save it right so the extension here is
+they they built on right they built on what we had covered in class but made it
+their own right right they made it their own they
+
+00:05
+made it so that it was not a social media post but a recipe post they made
+it so that it you had the directions they made it so you still had the core
+functionality that we had there like the liking and stuff but they also had a
+favoring feature and so now I can explore all the recipes I can go to my
+favorite recipes which are bookmarked I don't know why my LastPass is freaking
+out I can go to my recipes that I uploaded and I can add a recipe right
+it's gonna start slowing down because there's probably a lot of us on it now
+but um I can add my recipe I can see what country it comes from I can say the
+different dish types I can add descriptions ingredients directions
+upload files right and so it's not it it it's not
+a wild leap from what we did with binary upload boom but they made it their own
+they tied it to their story right and they kept it simple there's nothing here
+
+00:06
+that we haven't done right they extended it to be something that was meaningful
+to their story something that they could
+use as they kind of go into the hunt and there's not a lot here there's no fancy
+styling it looks clean it looks crisp uh it has the ability to do some really
+interesting features and it's just a good way of building out an MVP and so
+you can see that they're still not even like text right uh they're still like
+they did they didn't worry about going like they didn't worry about they didn't
+stress over the copy I see so many folks when they start building out their MVP
+they're stressing the text no stress the functionality right stress how you're
+going to extend what we do a binary upload boom to be something that you
+want to create right and so this had all of the trappings of binary upload boom
+but all the little bit extras to make it their own
+right and so this is what I what I really like right the idea here this is
+
+00:07
+a simple MVP it had a a few extra bits of functionality which was like the the
+favoriting right it had a slight modification what we already did which
+was instead of it being a social media post it's a recipe and directions uh and
+even on the explore page you saw that they kind of changed up the um
+right you saw that they they kind of changed what like was showing for the
+Post right so this is like the feed but they add some extra stuff they add in
+the usernames um they add in like these little Flags
+which I really like right and so this is just an MVP they got a job before they
+finish this right like they they didn't need to keep
+work they got the job so they got the job pretty quickly and so this was their
+
+00:08
+MVP and with the MVP they got the job huh EP
+got the job it's almost like we're gonna start the hunt with just our MVP being
+done and then as we're in the hunt we'll finish our
+our 100 projects hmm almost like that could be a possibility
+just saying all right all right and so the idea here is right
+like you don't have to do the most for your MVP think about what you want to
+build slight incremental changes keep the styling clean add your little touch
+to it and that's a good MVP oh uh this is on Heroku
+um right now I think most folks are on Heroku next week I'm gonna I keep saying
+I'm gonna push it but I really am trying to wheel and deal here uh there are
+
+00:09
+plenty of alternatives to Heroku that you can explore on your own I'm probably
+on Sunday for our super review going to kind of pick my choice for like projects
+going forward cool what's wrong with paid Heroku it's paid
+and we want to do everything for free here the whole point of this boot camp
+is to help folks that were affected by the pandemic a lot of folks that lost
+their job where money is very tight learn how to code and get a job that
+takes them out of that situation so anything unfortunately that has a cost
+is out the window for a hundred devs I will probably continue to pay for Heroku
+amayan but it's not something I'm going to incorporate into my lessons because I
+want it every single thing to be free oh uh laments if you're new here you could
+
+00:10
+definitely hang around we're going to be um jumping off very quick this is just
+kind of like a quick wanted to show folks a few things before
+they start working in a project night so if you're new here we often especially
+towards the end of the program where we're at a lot of our nights become
+building nights it makes no sense if you're learning to code please stop what
+you're learning and build something with it it makes no sense to just learn and
+then never apply it that's how you don't
+actually learn how to code so what we do is we learned we spent the past couple
+of weeks learning how to build full stack web applications with
+authentication that had multiple wonderful collections that had all this
+really rich functionality and now folks are taking all that code and expertise
+that they learn and extending it into a project of their own design so that's
+that's what we're doing so tonight I'm gonna stop talking very soon we're going
+to jump on to another platform that we use called Remo where we can work
+
+00:11
+together we also use Discord exclamation point Discord and chat if you want to
+join our Discord 40 plus thousand people on Discord now uh you can get all your
+questions answered about learning how to code we have wonderful help channels so
+yeah definitely join us there Daddy Yankee's in the chat hey how you
+doing Daddy Yankee hey Daddy Yankee can we get you to come back and do another T
+spill I think this cohort needs it as part of hunttober
+the legend in chat let's go uh woven exclamation point unban
+we'll take a look at it all right so for those that don't know what our tea
+
+00:12
+spills were last cohort as we got into like our Mega summer when we were kind
+of doing the hunt um those were uh those those were kind
+of where we brought in folks that already getting jobs and they told us
+everything about kind of how they got the job how they secured it uh how how
+what the boots on the ground take was for them getting a job so that's what I
+loved about the Tea spills so many folks want to tell you about how to get a job
+but that's something I can't the perspective I can't get you right the
+perspective I can't give you is what it's like to be an entry-level Dev
+getting a job right now so I like to bring in folks that are doing it in the
+moment uh to tell you what their experience is like and the most
+beautiful thing about the celebrations Channel right now is since I asked you
+
+00:13
+all to do it when folks get jobs they're they're they're they're putting
+they're they're putting like they're putting like essays in that
+celebration Channel about how they got the job what they studied who they
+talked to there's dates on this stuff now like y'all are doing the most that's
+why I was like this is getting ridiculous in the celebrations channel
+right uh Curtis uh just just popped off in that celebrations Channel today right
+so I love to see it I really appreciate everyone that does it so when you get
+that job and you post the celebrations channel the more details the better
+because we need to see how you're doing it right we want to see boots on the
+ground experience how you're locking down these jobs what type of questions
+people are asking right so that you're not just taking it from me the beautiful
+thing I get to do is I do this all day long I talk to hundreds of folks getting
+jobs I help hundreds of folks get jobs so I have a rough idea but nothing's
+better than you seeing it straight from the people that are doing it and so that
+
+00:14
+celebrations Channel Wild all right Daddy Yankee's in for the
+t-spill let's do it I'm excited all right um now Daddy Yankee just said in chat
+that they use bootstrap uh so what you'll notice right what you'll notice
+is that there was a like in in Daddy Yankee's kind of MVP
+and in my kind of binary boom code it just looked decent like it looks decent
+right out the gate because it's bootstrap right the beautiful thing
+about Daddy Yankee's is that that like feed page looked great bootstrap right
+and so bootstrap's been around for a while it's a quick way to just add some
+simple styling to your site and I think for a lot of folks if they just use
+bootstrap the the first MVP you make doesn't just look plain hot garbage
+right bootstrap can make it look just a little bit beautiful without really
+
+00:15
+having to do too much uh all the cool kids these days are using things like
+Tailwind um and so I just wanted to show real
+quick like how easy Tailwind can be so um let's create a replet real quick
+we'll do an HTML one and uh so Tailwind has a bunch of different
+components that you can use and when we get to react next week you'll see like
+how easy it is to use the components inside of react but even right now you
+can just get the HTML code for each one and so if you go to their website they
+have a bunch of free ones right on actual Tailwinds actual website and then
+there's also sites like Daisy UI which are completely free so I just want to
+show you how easy this is so if we just go to like their docs they give us like
+a script to put in the head of our document so I'm going to copy that script
+
+00:16
+I'm gonna put it in the head of my HTML and then I can just literally go to this
+hero and copy this hero put it in my in my uh body here
+and I'm just gonna save it let it run and let's open this in a new window boom
+like what like that was what three seconds and now
+I have like this beautiful nav like a beautiful uh beautiful like H1 that I
+could fill out buttons to get started and there's like other stuff on this
+site too so if I go back to their components let's look at some like their
+feature sections anything that doesn't have a lock on it is completely free so
+let's just join this one let's look at the code yep copy I'm gonna go down here
+all right paste it all right let's run it let's refresh
+
+00:17
+all right beautiful so it's completely responsive
+uh it took it takes like three seconds and your site doesn't look like hot
+garbage right uh it's a little weird running in the replet but uh so the
+Tailwind could just be really speed up your development especially for an MVP
+right this is this is this is an MVP your your design won't be complete your
+style won't be complete you're trying to show the raw idea of what you're trying
+to do when you extend binary upload boom right and so to make it just not look
+ugly or not a hot mess you could just join these uh components and have a
+really nice landing page have a really nice kind of uh different pieces
+throughout your site um the unfortunate thing about their all
+their components is that they're behind like a paywall uh so you'll notice that
+some of them have like a lock so you can't use all of them but there are open
+
+00:18
+source versions as well um that where everything is completely open
+um so Daisy UI we mentioned this I believe in the um
+the office hours on Sunday but there's just all these components that are
+completely free um so let's see how to use let's grab the CDN
+I'm gonna put this at the top of my HTML file and of course like you would
+optimize this it's just me going super fast and you know
+demonstrations purpose so put that in there and then let's see what we can
+grab from the UI here because these are all just open like none of them behind
+our paywall or anything that's completely free um let's let's add a footer
+all right here's some Footers uh I like this footer right here let's
+
+00:19
+grab the HTML boom let's go to end of our document here boom and let's run it
+all right let's take a look over here uh did I put the actual Link in oh let's
+run it again oh sorry I'm a little I still have a little bit of a cough uh use
+install CDN I grabbed the right thing um I put it in the right spot let's see
+so much we just copy and paste it I might have put it in the wrong spot
+
+00:20
+let me just undo that I put it inside the other script tag my bad grab this
+there we go uh and then let's add that footer to the end put it over here
+HTML yoink boom there we go run it beautiful now we got a beautiful a
+beautiful footer all right that just that just looks good oh boy look at that
+second try right and so this is what really like like a minute two minutes
+and you have a landing page for your MVP
+so there there the beauty of things like Tailwind is that uh one it can speed up
+kind of like your CSS but there's also all these components that have already
+
+00:21
+been written for you specifically with like open source things like Daisy UI
+and so when you're building out an MVP don't Focus please don't focus on how it
+looks focus on your functionality and then grab some components from Tailwind
+boom you're done that's your MVP then you'll take the rest of your 100 hours
+to refine it right you'll take the rest of your 100 hours to to make it look
+exactly the way you want it to look and um it just it like MVP should be quick
+it should be dirty it should be just the core functionality but when you use
+things like bootstrap or Tailwind especially with these components um
+it can look good too right and so that's why we say like a beautiful MVP now if
+you've been writing your custom CSS that's great I just know a lot of folks
+have been like sweating like getting the
+MVP done and making it look not horrible
+by Tuesday this is just a quick way that you can you can get it done yeah
+
+00:22
+can you make stuff technically you could I wouldn't but technically you could
+yeah cool another thing too is like somebody
+give me somebody give me like the the industry that your MVP is in
+like what is what is the MVP and like what industry in chat for me
+Fitness all right I saw Fitness First all right
+so I also like to just look at other designs so you can go to dribble but I
+also just like looking at templates so uh Fitness
+all right look for one that has like a lot of sales and good Stars there's a
+lot of sales good Stars let's look at the live preview
+so technically this is a template oh it's not look good
+well if you're if you're doing like a gym site like a gym like a gym sign up
+
+00:23
+like this could be it uh this is a 20 template I'm not saying I'm not showing
+this for you to buy the template I'm showing it so you can kind of look at
+the design right so you can quickly see the design
+like all right it's a carousel up top and then you can go find a carousel in
+Daisy UI right it's uh it's kind of like a what's next and like two different
+cards right so people get hung up on the design right and so it's just easy to
+come and take a look at some other templates
+um and see like the way that they did the design so that you're not spending
+your Cycles on design right you could quickly kind of code this out
+um but you're you're if you're not a designer you're not stressing about that
+part right um you can look at other ones that are in
+that same idea so that's kind of how I think about your MVP right you're you're
+you want to get you want to get the core idea done
+
+00:24
+right you want to get the core idea done something that's going to extend the
+binary boom that covers something that you're interested in and then for the
+actual design of it you can look at something like theme forest find some
+good ideas coded out or just throw together
+um some some lovely Tailwind components and things like that so
+the hard part is plugging into the ejs that's why I kind of like the tailwind
+and bootstrap approach because nothing has to change with your ejs like it's
+all all the classes are just in your HTML right so you're not actually
+loading anything extra that's what that's what makes it good for ejs right
+
+00:25
+I'm using an HTML5 up template using the elements page for styling hell yeah
+exactly that's what a good place to start yep exactly so with Tailwind the
+components when you get the react it's even easier in my opinion
+how late will you accept the MVP on Tuesday um I'm gonna I'm gonna give folks 24
+hours from when class starts so from when class starts on Tuesday we
+jump into react you got 24 hours to submit it
+I really want to join 100 devs when's the next cohort we don't have any plans
+for next cohort yet uh you can still join the ketchup crew right so we have
+folks that join us every single day that want to learn how to code that want to
+get a job uh and so you can join our ketchup crew uh folks are starting from
+the beginning every single day our Discord is a wonderful community of
+folks that'll help you get unstuck uh so
+please uh definitely don't feel like you have to wait for the next cohort to get
+
+00:26
+started and the thing for the next cohort is we have a lot of stuff to
+figure out nobody's done a live coding boot camp at scale before there's a lot
+of things that we want to dial in get right make sure that we can support
+folks the way that I want to support them and once we figure all that out
+then we'll do another cohort mm-hmm we'll react to replace ejs it could be
+for a lot of your 100 hours project it's about 50 50. for some folks they're
+already too deep in their 100 hours project they don't want to add react
+everybody the other half they get a lot of value out of the react they add it to
+their 100 project it'll be up to you react starting Tuesday yep
+and then we start October the week after yeah and we have um on I we haven't
+officially announced it yet but uh we're gonna be doing like special events all
+throughout October um and so we're gonna have uh RC's very
+
+00:27
+job mother the person that literally has their boots the most on the ground
+helping folks get jobs uh they're gonna help us kick off onto where we're gonna
+do a Discord stage um if you want somebody that's literally
+talked to hundreds of employers that is literally negotiated contracts for
+hundreds of people that's literally like helped hundreds of people get jobs uh
+that'll be two Mondays from now so not this upcoming the following Monday yeah
+I will announce all this stuff ahead of time too but just we got a lot of fun
+stuff planned yeah cool alrighty other questions about the MVP I
+want to make sure that we if folks have questions about it I know it's a big big
+ass to get all this done so I want to make sure that if there's people that
+have questions um we could do it can we do Raffles
+
+00:28
+actually we do have a raffle from the um the uh from the newsletter uh where I'm
+gonna actually help somebody do all this stuff
+uh any idea when YouTube will be updated uh hopefully uh by Tuesday that's my
+goal is to get it up by Tuesday cool uh GitHub repos are fine for the MVP
+you don't have to have it hosted yet since we actually haven't since since
+Heroku is changing and we need to switch to a different provider I'm just going
+to ask for your GitHub repo if you take the the extra initiative to find a new
+provider that you like that's cool uh but we're I want to have a class where I
+show you how to host it on the new provider that we're going forward with
+before I ask is that a requirement so GitHub repo is fine
+um if you host it that's even better but we'll have a class on like hosting our
+
+00:29
+projects with the new service that we choose mm-hmm
+if you're having trouble with the polar crash jump on Discord jump in a voice
+call folks are more than happy to help you yeah
+uh what inspired we have a lot of new folks today I can see a lot of like the
+first time chats uh for folks that are new uh this is 100 devs we're running a
+free 30-week software engineering boot camp uh we originally started during the
+pandemic I'm not a doctor I'm not a nurse I wanted to do something that
+could help folks what I do know how to do is hopefully I think teach people how
+to code and I have a lot of experience getting folks jobs in Tech and so
+instead of having folks pay 20 30 grand for a freaking boot camp we decided to
+do it free live online there's a lot of things that you have to
+do to like get access to stuff but all the classes are free on YouTube like you
+can you can just go to our YouTube explanation point YouTube here and chat
+
+00:30
+leonardo.com YouTube every single class is on there
+um I don't even the YouTube's not even monetized so there's no ads or anything
+all the materials are on Discord um so you don't need to there's like
+nothing that stands in your way if you just join Discord and follow on YouTube
+everything's there for free um and I'll never put any of my content
+behind a paywall um I I really think this education
+should be free for everyone and that's what we're doing and we've helped
+hundreds of folks already get jobs and never listen to somebody on the internet
+that claims that they have gotten folks hundreds of jobs go into our
+celebrations Channel and see the hundreds of people that have gotten jobs
+foreign devs come from I wanted to get a hundred
+
+00:31
+people jobs and I [&nbsp;__&nbsp;] did it we [&nbsp;__&nbsp;] did it
+this community did it uh and so um that's where 100 devs comes from
+we're way past 100 now though yeah cool all right
+electric codes hey thank you for the gifted Subs uh thank you for being here
+um we should change it to a thousand devs I think I'm pretty partial to the
+hundred devs now uh cool so that's where I went to show I wanted to give some
+folks some some ease some comfort around the idea that the MVP is just an
+extension of binary upload boom make it do something different make it look not
+trash by using something like bootstrap or Tailwind don't be afraid to grab
+components don't be afraid to look at a design as something that's similar in
+your industry and just code out those pieces and let's take
+
+00:32
+the rest of the evening to work together now don't run away
+whenever I say this people run away they don't put in the work tonight's your
+night you're here let's put in the work uh you can either join us on Remo uh
+which is for folks that are new around here it's a platform where you can sit
+down at a table it puts you in a voice chat with everyone at that table it's a
+it's a fantastic platform it does have its quirks um but work together tonight
+just even if you want to be just headphones in screen up and you don't
+talk to anyone that's fine you don't have to do it alone uh it's very
+important that we get these MVPs done it's a key part of the hunt it's
+something that you need if you want to get the job and so uh let's put in that
+work tonight to get the MVPs done let's not do it alone let's do it together
+good message today I think about where you have started
+started We're not gonna say from the bottom now we're here we're pulling the
+
+00:33
+Drake lyric but we were we were fussing with HTML
+we were on the Block worrying about blocks we were worrying about tags we
+worrying about brownies then we were then we were tossed up in
+CSS and then JavaScript whoa remember remember when remember when JavaScript
+first started and Woe Is Me with John we're still a little as me with
+JavaScript I've been doing this for a long time it still was me with
+JavaScript a little bit remember the first time he did a code Wars what
+remember the first time you saw no and I was throwing big words at you
+that we didn't understand so you taught him he treated him as disrespect we were
+using HTTP modules FS modules we were learning about the event Loop we were
+bringing back in objects and then we added Express to the mix
+then we threw in mongodb and then we threw in authentication and now we're
+building full stack web applications and a huge chunk of you right now are
+
+00:34
+building your own full stack web applications right now like just take a second
+take a second and Savor how far you have come right
+David hey congrats on the client Savor how far we have come how you have gone
+and got week after week struggle after struggle building after building and now
+we're almost at the end folks this is where the rubber meets the road it's
+time to get close to the hunt it's almost time to start the hunt and this
+is the culmination of all your hard work so MVPs are due
+don't take yourself out the game I'm giving you a whole nother week to get
+these MVPs in these beautiful MVPs I should say
+
+00:35
+I'm Gonna Leave the Remo rooms open for this whole week
+get on Discord ask for help get on Discord help others that are trying to
+pull them across pull themselves across this Finish Line of the MVPs
+all right jump into the Remo room say hey I'm going to be on Remo at this
+table I'm going to leave it open all week
+right this is this is this is the moment where we actually live up to being
+Community taught throw on Discord hey I'm gonna be a
+remote table five first floor for the next hour and if nobody shows up nobody
+shows up who cares right but you tried try and bring as
+many people across that finish line as you can cool and in that spirit
+right and in that spirit we're extending the deadline so we can
+bring as many folks as we can into hunttober so we can have that dedicated
+group of folks that are ready to start the hunt they're ready to get the job
+
+00:36
+and then once we figure it out and we get it working we'll be there for the
+ketchup crew when they get to that point as well got some more jobs folks we got
+some more jobs I want to take a second to read through these I want to talk
+very briefly about hunttober and then we're gonna pop off so you can finish
+your MVPs all right uh Katie codes just signed an
+offer my first uh I was getting sick towards the end of the first cohort
+sicker and sicker I was in the hospital all of October half of November did
+chemo recovered finally started to feel better in July and August and I signed
+an offer what let's [&nbsp;__&nbsp;] go don't ever take yourself out the game
+don't ever take yourself out the game I love it it's low pressure a non-profit
+
+00:37
+they believe in four blocks from their house while they recover it's perfect a
+congrats that's huge don't take yourself out the game y'all come on now
+uh I think I shared this a little bit before but it's official
+I finally got the job I'm so excited and grateful for this community hashtag
+Community taught uh and everything I've learned from it I want to share a bit
+about my journey here thank you for sharing the details um
+first off when Leon mentions people getting jobs by coding a button I didn't
+want to believe it there's another button store I'm out
+first off when Leon mentioned people who got jobs by cutting button I don't
+
+00:38
+believe it but it's true [&nbsp;__&nbsp;] bruh
+100 buttons next boot camp next cohort just buttons
+uh but it's true I landed a six-figure fully remote front-end developer position
+um for a role at a specific Company by coding basic HTML CSS and JavaScript
+that's it so just know that those jobs are
+definitely out there uh wasn't an easy Road
+uh can't stress enough having an online presence and building in public helps as
+you all are building your MVPs share right share your MVP on Twitter share
+
+00:39
+share the things that you're building uh through the community use the 100 devs
+tag right let other folks see it uh get your LinkedIn filled out build in
+public show everyone what you're doing even if nobody is engaging with your
+post if somebody shares their MVP on Twitter and they use the hundred devs
+hashtag just give them a follow I mean let me not follow like give them like a
+like right just give them a like help boost it right help other folks see it
+that aren't in their Network that aren't in your network
+uh that's how I managed to get four interviews without ever applying to a
+single job four interviews without ever applying to
+a single job they all found me through Linkedin I went from still grinding this
+past Tuesday to getting the offer during class on Thursday while he was shouting
+out the celebrations Channel shout out to celebrations Channel a different
+
+00:40
+ghost hey what's up uh so shout out to celebrations Channel I I have 12 on the
+slides there is way more in the celebrations Channel like I literally
+I literally couldn't put them all in here and there's like ones I did like I
+think they're just better read in the celebrations Channel blah hey thank you
+for the gift of Subs hope you're doing well in the house
+all right so basic HTML CSS and JavaScript six figures
+getting a click apply they didn't apply to a single job it's just their link did
+make sure your LinkedIn is crispy is a requirement for hunttober make sure your
+linkedin's crispy folks you're saying it wow hope you're doing well all right
+
+00:41
+I used to scroll through this Channel and dream of the day it'd be my turn to
+post today is that day back if I began networking with the lead
+Dev at my company this is huge if you already have a job one of the best
+things you can do is just network with the other engineers at your company
+right so many folks get that first shot in Tech that first shot uh at something
+that's that might not be engineering or even tangential just because they're
+they're talking to other folks at their company um
+I'll be okay in the future one month ago began the helper QA role part time last
+weekend internal QA another position was posted I applied and I got work today
+the role is mine let's go congrats uh would not gotten this far without the
+hundred devs Community all the basic Engineers become friend with Community
+taught networking Works uh I got like someone decided to give me a chance to
+
+00:42
+break into Tech onwards next stop software engineer let's no
+let's go let's go I love this example because you'd be surprised just
+networking with the individuals at the job you're already at a part-time job
+you're already at can lead to some amazing things
+uh Curtis hey looks like we're popping off this week it's finally my turn to
+join the celebrations Channel I love the shout out table eight from the very
+first Remo session uh their twitch streams uh the 30 plus study group for
+all the support along the way shout out to study groups
+uh we have to write the accountability structure and motivation the rest of
+communities helped me get past Roblox I love that right Community Helping get
+past roadblocks and provide a lot of encouragement along the way they signed
+an offer letter for AWS oh man come on now
+
+00:43
+come on now how many folks do we have at Amazon now this is ridiculous
+we just got like a small club at Amazon now it's what like at least four or five
+this cohort like what get out of here you always need to link
+up I hope you all are linking up I'll I'll try and facilitate that somehow
+be on the team that does video transcoding
+um make sure you're all doing your Anki cards networking and go getting now I
+will also say um that Curtis specifically in the
+celebrations channel has a huge thread that gives way more detail and they ask
+that we not post it so of course it's not here but if you go into the
+celebrations Channel a lot of the folks that I am sharing right now have shared
+more uh in the threads and so if you're not looking through those threads you're
+missing out on a lot of value that's being posted there that's going to help
+you in your job hunt and so make sure you're going through the celebrations
+
+00:44
+Channel make sure you're looking at these threads because folks are really
+taking the heart hey when you get the job please please yes make the
+celebrations post but then tell us the details tell us what it was like
+interviewing tell us what it was like to to to to go through that experience
+because that is the most valuable thing we have right now is like real boots on
+the ground understanding of what the market is like what people are looking
+for and you can't get that anywhere else
+and so when you when you post share more so that we can learn and incorporate
+that into our hunt cool I love that folks are still getting
+their paid clients I finally got silver I got a paid freelancing client over
+over okay over a thousand what that's wild to me
+that that what was I don't remember the final number it was over half a million
+
+00:45
+it was over half a million in client work can we just stop and think about
+that for a second it's probably way higher now that other folks are getting
+their clients done but our community brought in over a half a million dollars
+in client work half a million that's the start of equity right like
+that's the start right like we built something really special
+but the idea that it's free is not enough the idea that folks have also
+made half a million dollars while going through program that that's when it
+starts to be real that's when it starts to be what what I'm envisioning right
+like it's one thing for be free but it's one thing to also make some cheddar
+along the way and so congrats on getting the paid client that's huge
+I love they shot out the palm the Pomodoro crew vcg fam a
+all right I like this too because this this is just showing you what what can
+
+00:46
+happen uh I have a weird one I got a major promotion because of 100 devs I
+love it uh I caught the attention the powers
+that be a long story short I'm now the lead instructional developer and working
+on complete redesigning our training process uh they like that I uh because
+they're so excited about the way I relearned how to learn and I was using
+the things I learned in 100 devs to help
+teach our new hires in a way that helped them better retain I was making some
+simple tools to help current teams so they took the learning how to learn
+knowledge and they used it on the job this is police this is what we're going
+to talk about post hunt but one of the best things you can do
+the easiest dub you can ever have when you join your company right the first
+three months on the job matter the most when you join a new company and one of
+the easiest dubs you can have is to document the entire process of joining
+that company no one at the company can have that experience of what it's like
+
+00:47
+to be an engineer day one at that company and if you can build better
+tools better documentation here's where I got this resource here's how I how I
+uh connected to this database here's how I did this and you have the road map of
+what it's like to be day one on the job of that company right
+every person that comes after you will think you're the goat
+right every single person that comes after you is going to read that
+documentation they're going to see that you're the person that helped them when
+they were stuck right and they're gonna see you as that
+person day one and so please make sure that you're bringing this learning how
+to learn this ability to help others into your job like the whole nature of
+us being Community taught like a nice thing but it's a real thing that's going
+
+00:48
+to help you on the job as well cool uh uh hello everyone last week I had an
+interview at an analyst role I got the job let's go uh the recruiter contacted
+me a few weeks ago about the role in LinkedIn I applied prepared some
+projects related to the role uh used Banky to tweak answers and unlike my
+past interviews I was really confident I
+was going to get this job today they got back to me they were really impressed
+about how much preparation I had done for the interview you go through hunt
+Tober you will be a lean mean interviewing machine you'll be well
+prepped for your interviews if you're doing your code Wars you're doing your
+Banky you're going to be ready for these interviews
+uh I expected them to negotiate a lower salary starting salary with me instead
+they increased it so now I'm going to start with double the starting salary in
+my country hey thankful to the mods and everyone in this community for help uh
+special thanks to leveler provide so many useful tips I'm willing to help me
+
+00:49
+out on the last note make sure you do your Anki
+make sure you do your Anki and your daily coding challenges
+are you noticing a theme Here you you noticing a theme Here folks
+I'm starting to notice a theme here I don't know if anybody else is starting
+to notice a theme Here hmm trying to know the theme here
+I would have said maybe I should do Anki maybe you should do maybe you should do
+Anki maybe we should do a little bit more Anki everyone could do a little bit
+more Anki I can do a little bit more Inky you can do a little bit more Inky I
+think we all do a little bit more Anki I know we're fancy we're gonna say Anki
+today all right small celebration ah not ain't small I don't know nah
+got my first freelancing client that's huge uh in a relatively small town which
+
+00:50
+is always super hard took a while but it paid off just introduce yourself with
+what you do Bob Vance Van's Refrigeration let's go
+uh let's make a bank Channel we do have a Banky voice Channel now
+we do have a Banky voice thank you to blah for setting that up
+you can jump in there and go through a Banky with the rest of the crew
+sign my first junior junior software developer offer
+no real big post to mine or anything but truly grateful for this whole Community
+I love it top five rappers of all time Thailand Island hey yo congrats
+I finally got my paid client signature love it don't take yourself out the game
+folks working with clients is a tricky business it can take a long time
+congrats Corky all right I got the job super excited to share
+
+00:51
+that I signed an offer letter for a six-figure fully remote role as a front
+and software engineer and I didn't have to click apply or even Network my way in
+let's go they came to me the recruiter for the role reached out to me on
+LinkedIn God damn it going what's going on what is going on
+no God please no no no no no [Music] uh Leon there are layoffs right now are
+
+00:52
+you aware that there are layoffs right now lay on their layoffs uh tech stocks
+down I don't know about these jobs things get the [&nbsp;__&nbsp;] out of here
+get out of here we had two people that even they didn't even apply
+they didn't even apply it's not even like foreign
+don't ever listen to somebody on the internet like don't listen to me just go
+to the freaking celebrations Channel like what
+they're not even clicking apply they're not even networking they're literally
+
+00:53
+coming to them anything's possible just do it so just
+it's it's just that that's blowing my mind
+all right biggest takeaways trust Leon I jumped ahead and learned react super
+early did a million leak code problems but none of it was needed I'm getting
+this tattooed this is going on my thigh I jumped ahead and learned to react
+super early that a million Lee code problems and none of it was needed oh my
+gosh that's going on my wall I did these things because I'm a code
+weenie and I had too much free time and they absolutely not needed to get a job
+LinkedIn is everything yep uh even completed my interview uh
+recruiters asked me on the interviews every day Leon gives good length of
+advice I really like Danny Thompson I love it that Danny Thompson's the goat
+when it comes to LinkedIn uh definitely I'll share their videos in the follow-up
+on the follow-up materials Channel today um because we're seeing linkedin's
+
+00:54
+coming to big big uh big deal here network network
+and uh huge thanks to Leon and the mods Ayo shout out the mods cool
+and they got some wonderful things here I'm gonna actually read this I think
+this is important for folks to hear I graduated college a year ago with 60k in
+debt and no idea what I went to do with my life I wasn't really on all of you
+yes you if you're here right now they're talking about you
+don't take yourself out the game all of you I generally had no idea where I'd be
+and what I'd be doing right now but I'm here with my dream job and making this
+post now if you're anything like me you might be reading this feeling a little
+frustrated that it's not you writing this you might feel like everyone around
+you is getting all these wins you might want to give up but don't seriously like
+I said a few weeks ago I had the exact same feeling and now I'm here keep
+grinding keep doing your Anki and networking and I promise you'll be
+making one of these before long let's go let's go thank you for the
+
+00:55
+encouragement Michael that's huge we don't get got we go get
+I'm happy to announce that accepted a front-end developer position I'm a high
+school dropout with an eight year plus Gap in employment history yes
+oh my gosh this is like the biggest this
+is the biggest reason so many folks take themselves out the gander look we don't
+have a gap in my employment history I'm never gonna get a job cap
+in my country the idea of a community developer still far from the norm I
+followed the process did not send out a single application but instead networked
+my way in and got referred by a recruiter if I can do it you can do it I
+wish you all a successful hunt Tober boom special shout outs go to the the react
+Banky study group Europe eh I love all little study groups everyone in the
+introverts Channel Hey and most of all thank you to divker for everything they
+
+00:56
+do you truly went above and beyond how yeah ifker is the secret weapon to a
+hundred devs uh they they make sure this
+all all works if it wasn't for difficult none of this would be happening right
+now so I love the Israel uh fun fact I've written
+1800 Yankee cards and reviewed them 19 000 times let's go 19
+000 times let's go hell yeah no doubt why you got a front in depth position
+let's go all right with that we're gonna end it we're gonna stop here
+folks are getting jobs it's wild in these streets you're so close don't take
+yourself out the game I'm giving you an extra wink leak to get all your hunt
+Tober submissions in all right you have an extra week to get
+
+00:57
+all your hunt Tober submissions in right now we're gonna move to Remo please
+don't just go and work by yourself jump in a Discord voice call even if you
+don't say anything you just see other people talking you're just hanging out
+absorbing the the not being aloneness right jump in a Discord voice call jump
+on Remo work through these MVPs together if you already turned in your MVP thank
+you you are an MVP now bring somebody else along with you we are Community
+taught this is not a solo dolo experience you're here to help everyone
+get across the Finish Line together please let's stop take a quick break if
+you need it or you know not if you should take a quick break jump in a
+Discord voice call or jump into Remo finish up these beautiful MVPs if you
+need help ask for it on Discord we're gonna come back on Thursday recover
+
+00:58
+covering the beginnings of react we're going to be back on Sunday to finish up
+our back end super review we finish up react next week we move into the hunt
+we're talking data structures algorithms we're talking Big O notation we're
+talking about everything you're going to be needing to get the job just like all
+the folks I showed in the slides today if you're here you're doing what others
+wouldn't do if you're here you deserve to see yourself go to that
+finish line if you're here you've put in work that nobody else wanted to do a
+whole lot of other folks that they wanted it but it was all lies you're
+still here you're still putting in the work you're immensely proud of all the
+things that you've done so far from simple HTML to full stack web
+
+00:59
+applications don't sleep on all the hard
+work all the hours all the tears all the bugs you ran into it made you into the
+phenomenal software engineer that you are we got a few more things to finish
+up a few more things to polish then we're jumping into the hunt so
+we're going to stop here remember we're Community taught if you
+can't be kind get the [&nbsp;__&nbsp;] out jump in
+these Discord voice calls jump on dream I'm going to extend Remo so that's open
+all week if you want to jump on with a small group of folks and work through
+MVPs together do it all right buddy have a wonderful rest of
+your evening full class on Thursday so come ready right full class on Thursday
+come ready and good luck finishing up your work for hunt over it's wonderful
+to see you all have a wonderful rest of your day peace everyone

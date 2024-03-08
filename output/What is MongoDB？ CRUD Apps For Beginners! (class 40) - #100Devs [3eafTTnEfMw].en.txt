@@ -1,0 +1,2000 @@
+
+00:00
+yo here's what gotta be careful good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well
+what's going on everybody welcome back welcome back and different ghosts hey
+thank you for the 10. thank you so much i appreciate that
+thank you for being here hope you're doing well
+that's wild starting off a banger folks thank you for the gift of subs i
+appreciate that thank you so much what's going on everybody welcome
+
+00:01
+welcome paco's watching class seven on youtube wanting to stop by and say live
+hi what's up welcome what's going on everybody welcome in welcome in
+habs let's go indeed hey argan curtis hey thank you with the raid
+thanks for bringing the crew along hope you're doing well
+hey let's go everybody good to see you uh tonight tonight kmp is on class one
+hey let's go what up frank what's going on everybody tonight ah
+tonight's one of my favorite classes we're gonna we're gonna go on a journey
+tonight folks we're gonna go on a journey tonight we
+we we started like come on think about what you've been able to do recently
+think about what you've been able to do recently
+i see your apis you've been building some api have you been building some apis
+have you been have you have you been building some apis are you are you a
+
+00:02
+full stack developer now let's go i've been trying i feel that i feel that
+you're trying if you're trying you're a full stack developer baby let's go
+let's go i see you all out here oh i think to think just a a few weeks ago
+we were in the throes of html and css and yet you threw yourself at that and
+you you came across clean then you threw yourself at javascript and you came
+across clean and now you're throwing yourself at the back end let's go come on
+we ain't normal folks we built different
+other folks ain't giving up their nights and weekends or mornings and afternoons
+to do this get out of here we built different let's go so tonight
+is one of my favorite classes by the end of tonight we should have an idea
+
+00:03
+of how to build an api that not only reads because that's what we did we
+built an that that get right we went out and got right our apis were able to go
+get all right but now after tonight we're gonna be able to to to to do our posts
+to do the to do the creating right to do the creating then we're
+going to be able to do the uh the read which we already got on lock and then a
+little bit uh a little bit of deleting just so just a
+smidge a little bit a little delayed right a little little delay tay
+tonight right and so after tonight you're gonna have three of the crud
+abilities on your tool belt to start building
+to start building real applications after tonight you can build whatever the
+heck you want yeah we're going to add some other stuff
+we're going to add like authentication but that's just that's just taking some
+
+00:04
+stuff off the shelf and and plugging it into what we already know right
+we after tonight you can build the things you want to build and yeah we
+have to do a lot of research we have to pull stuff off the shelf from other
+places but the core of modern web applications you're gonna have
+in your tool belt that's wild that's wild that's wild
+the fact that if you started this journey in january
+right now you have an understanding of what the heck i'm talking about you're
+like well leon i understand that we have client and
+server-side devices clients make requests to servers servers hear that
+request there's some code running on that server
+we call that our api our api here's that code and then it does some good stuff
+for us right we've been serving up some json recently but tonight we're going to
+introduce mongodb and ejs so that we can get data from our database plug in into
+our ejs templates and respond with some good old html that html
+
+00:05
+gets rendered by the browser and guess what it makes requests for the css it
+makes requests for the javascript it makes requests for our images and we're
+going to have some code set up on our server that's listening for those
+requests and serves it up if you have any idea what the heck i just said
+you should be proud of yourself you really should
+we go if you if you understood like 50 of that
+you should be proud because that's a lot of work it's a lot of work to get there
+it's a lot of long nights it's a lot of long weekends it's a lot of reading it's
+a lot of typing it's a lot of fingers hurting sorry you called but not the
+right time i got some code to do you should be proud of that
+nobody can take that away from you that knowledge is in there you got this
+so tonight we're going to add some layers on and what i want you to do tonight
+
+00:06
+is to realize that i am telling a story i need you to understand right
+i need you to understand the story i don't want you nerding out about the
+details of the story i don't want you being like oh did leon
+say they were in san francisco and that they ate at the crab shack and then
+you're you're trying to remember that they were they were they were in san
+francisco they ate at the crab shack no i just want you to understand that they
+were having a good time so today we're gonna paint a story
+we're gonna paint a picture of how a full stack web application that can
+create read and delete works but i don't need you to go in to be like
+all right well i gotta put this dot here and that that that parentheses there no
+that's not tonight that's thursday that's thursday
+tonight's about understanding the why exactly mjs the understanding the why
+
+00:07
+it's understanding the concept it's understanding the big picture exactly
+casa it's understanding how this is happening looking at some of the code
+but we're not going to code anything from scratch tonight we're not going to
+type things out we're going to try and connect the dots
+right we're going to try and connect the dots to understand how this big picture
+gets painted right how the big picture gets painted and
+then on thursday we'll walk through it again
+right we'll we'll get our fingers on the keyboard we'll type everything out from
+scratch we'll see how all the pieces come together but even as we're looking
+at this stuff you have to remember i ain't got this [&nbsp;__&nbsp;] memorized
+i'm copying and pasting my ass off i got templates out the wazoo that i'm using
+and yoinking the stuff together because we're using building blocks we got
+
+00:08
+really fancy legos that were piecing together and so it's not important to
+understand how the lego company is molding the bricks how they're getting
+the little dots on top that's that's too much we just want to understand all
+right we put these blocks together we can build dope stuff
+i'm dope and i do dope stuff and tonight we build some amazing apps we're going
+to build a really cool app that extends on the api that we did last week
+we're gonna understand the why the how but give yourself some grace on when you
+see the wall code you ready hold on i'm gonna keep it small so you can't you
+can't freak out when you see the wall of code you don't freak out right you're
+like oh that's not today right i'm keeping it
+small so you don't freak out right when you see the code you're not gonna be
+like all right let me let me let me do my best let me get some water
+
+00:09
+let me get a deep breath in let's think up through it let's let's diagram
+let's bring i'm gonna channel all the inner nuns i have in me tonight
+and you're going to digest it you're going to re-watch the vod you're going
+to redo the zell reading you're going to
+come back on thursday and we're going to repaint the picture again so
+tonight big picture building full stack web applications
+that can create that can read that can delete what is going on we can do this
+stuff now and it gets all much more sweeter we're
+gonna add the updating on thursday and then you got it folks the world is yours
+you can build whatever the heck you want and over the rest of program we're just
+gonna add some other tools some other things that we can pull off the shelf to
+do some more heavy lifting alrighty folks let's get into tonight
+i'm glad you're here i'm glad you're putting in the work let's get you across
+
+00:10
+that finish line all right tonight we're talking about 100 devs
+we've got some stuff to talk about we're going to do reviewing some crud
+we're going to review a little bit of express
+we're going to learn about that post and delete and then you're gonna for a
+homework mold what we have to start building your own apps not
+tonight but after thursday you're gonna start building your own apps cool
+all right questions let's always give folks a
+second or two to get in here i know we gave a little bit of a speech at the
+beginning so folks might be here already let's do one or two questions and then
+we're going to get started crud and rest the same thing for right now yes
+
+00:11
+we'll nerd about the details in a little bit
+but for now yeah you're building restful apis at the moment we'll talk about the
+the actual kind of nerdy definitions once we
+figured out crud once once we understand credit we can use it we understand it
+we're building real stuff with it then we'll go into the understand phase
+right remember we said use understand build we're in the use phase
+we have to be able to use credit first we have to be able to use to create the
+read the updates the deletes right right and then once we've used it we've
+seen it it's tangible it's not some it's not some nerd stuff that we're talking
+about something that we've built then we can transition into the understand
+right and in that understand phase we'll understand all right what are the what
+are the mechanics of a restful api what what what what really goes into it
+and then we'll worry about the building and start to build more and
+
+00:12
+more stuff on top of that foundation does it count that i contribute to open
+source even though my pr hasn't been merged yet technically not yet
+because you want to be able to show that to an employer that hey my code is in
+this this app all right are we coding along not today
+not today today is about understanding it's about digesting
+yeah we were shouted out in the cold wars newsletter that was pretty dope
+uh we're we're we're we've been i mean we do a lot of code wars so
+we out here we online that's all i got to say so we did get that nice shout out
+in the codewords newsletter i've been trying to get on their newsletter i've
+signed up for like four or five times i still don't get it but i i appreciate
+all the folks that tagged me on twitter with it
+code wars number one customer is for sure blah exactly definitely
+
+00:13
+all right folks glad we are in here glad we are
+here that we're online that we're live so we can jump into these support topics
+tonight thank you for the questions thank you for being here let's get into
+it if you haven't already folks please check in for me
+go ahead and do excitation point check-in if you don't have the link
+tonight uh once you do estimation point check-in it will give you the twitter
+link that you can go ahead and like and retweet i will give you a second
+remember this is your attendance if you want all the wonderful benefits that
+come post-program one of the things i'm gonna look up is where are you here
+so please like retweet so that i know that you were here that you were live
+with us in line so i can say yes they did learn about crud yes they did learn
+how to create read and delete on june the 7th i saw them they were here
+they were online all right so go ahead and do that for me
+please it's also a wonderful way for folks to find us not to dish out all
+
+00:14
+those monies for a paid bootcamp alrighty thank you for checking in
+submitting work i want to see your api work so if you worked on your api this
+past weekend uh something i asked you to do for homework i want to see what
+you're able to come up with i saw a lot of people tagging me on twitter you guys
+are looking fire go ahead and submit that work for me you
+can just click the link either here in the slides or in the discord message and
+i want to see what you're able to build whatever to come up with it's going to
+ask for your github link and your heroku link
+if you for some reason weren't able to get on heroku that's okay if that's
+struggling just give me the github repo or if you only have it on heroku
+push the github so i have that too cool so no like no like zips or anything just
+give me the the heroku link and the github link please [Laughter]
+submit the spice girls api i know you really wanted a i'm excited
+
+00:15
+i got an error trying to install heroku swing on to our node help or our general
+programming help uh if you're getting stuck with those types of problems
+all righty thank you for submitting your work if you uh need a little bit time
+after class go ahead and um jump into it cool
+i actually do some video watching uh it's super important uh that you went
+through the jake archipel videos the philip roberts videos to really
+understand what's happening behind the scenes in that event loop yes we covered
+it in class a few times but it really does help cement that understanding
+also i just want to shout out zell again if you didn't do the crud mongodb
+reading it is absolutely essential that you get through that reading not only do
+they break down all this stuff they show
+you pictures like step by step how to do
+
+00:16
+things on [&nbsp;__&nbsp;] atlas like step by step
+how to do all these different steps it's a lot of work it is a hard bit of code
+to get through but it is totally worth it um zell i i i keep saying it but they
+make some of the best things online for new devs getting into it so if you're
+like saying watching this on youtube for some reason definitely make sure you
+read the zell reading that's here in the slides cool
+i actually don't know if the slides link is updated today hold on let me do that
+real quick we might have the old slides link right now one second
+yeah sorry i didn't update it one second here joint
+i'm gonna grab it from the discord okay i just know some folks
+have a hard time grabbing it on discord before class there we go
+
+00:17
+grabbing that one second off screen here all right
+lights have been updated if you need to use that slide command to grab them uh
+so once again just huge shout out to zell a
+lot of the uh some of the examples we'll be using some of the things that they
+recommend is very similar uh to their work because i want you to be able to
+transition from that reading to our uh our examples here so if you haven't they
+also have tons of other articles it's it's really impressive you need to go
+watch and read their stuff cool all right summer break folks
+so this will be our second to last class
+before our summer break so we have class tonight
+we have class on a thursday and then we won't have official class for two whole
+weeks two whole weeks now we will have some project nights if you
+
+00:18
+want to partake we'll have some cool stream team streams
+if you want to partake uh but two weeks off
+and why we're doing that is because some folks need a break
+uh we're getting to the point right we're getting to the point where um
+some folks need a little bit of a little bit of a breather to catch up
+right to decompress we put a lot on your plate after thursday you can build full
+stack web applications right you deserve
+a break after that uh so some folks will use it for a full decompressing break
+some folks will use it as a catch-up we have a lot of folks that are really
+grinding hard to catch up and join us live they want to get here to start
+building these full stack projects they want to get live so they can join
+project nights and things like that so ketchup crew is going to have two weeks
+to get further caught up if they want to use it
+also there's a lot of personal stuff you have to work on and i want to make sure
+
+00:19
+you have some time if you haven't finished it up yet so
+break's important catching up is important but your professional stuff
+that checklist stuff has to be done these things need right those things need
+to be finished and percolating and perfect so
+that by the time you're ready for the hunt
+you already have some inbound interest things are already showing up in
+linkedin for you you're already showing up in the search engine results right
+you need to make sure your checklist is done
+it also might be a start for a lot of you of your 100 hours project right
+some of you might use this time to start
+fleshing out your project after thursday you could build the whole thing you'll
+have all the tools you need to build that project right so some of you might
+put that time into your 100 hours project and then some of you might start you
+
+00:20
+know scoping out the job market in your area and building out your hit list it's
+up to you how you want to spend these two weeks i will have some light reading
+slight slight like materials for you to read and i expect you to have built an
+app right so you'll take the code that we use
+tonight and thursday and you're gonna build an app of your own so there is
+some slight work some small things but it won't take you the full two weeks
+so you can use summer break as a break you can use it to catch up you can use
+it to work on your professional stuff you can use it for 100 hours you can use
+it for hit list you can use it to build an app so you have something solid on
+your portfolio it's up to you what you want to do now
+the other reason that a break comes into play personal responsibility
+uh when we get to this point you got to make a decision
+right you got to make a decision is this something that you want
+
+00:21
+is this something that you're going to to to go full on out for as we switch
+gears into the building and job hunt phase and so i want you to take these
+two weeks to search the depths of your soul and
+see if this is what you truly want right it's a it's a it's a it's a time
+of reflection it's a time to to get your your your loved ones on board and make
+the decision you know what i am proud of the things that i've been able to do
+i'm proud of the things i can build i'm proud of the work that i put in
+and i want to continue i want to put in the work that it's
+going to take to get the job because i said it before and i'll say it again
+the getting the job part is the hardest part of this entire process
+and it has really nothing to do with code it has everything to do with you
+
+00:22
+getting life together for a momentous push that could change
+the rest of your life forever and so for some folks this two week break
+is a chance to recharge it's a chance to get family and loved
+ones or their own life in line right to say you know what this is
+something that i want i know what's to come is going to be difficult i need to
+figure out ways i can support myself whether that's getting healthy over
+these two weeks living your best life drinking healthy eating healthy
+exercising getting your stretches in i'm committing to get my stretches in my
+hands are getting a little too tight right
+doing whatever you can during these two weeks to just get ready for the push
+that is to come so i like to give a break at this point right
+right i like to give a break at this point because i think it's a it's a good
+
+00:23
+time for you to recommit right to recommit to have that time to
+use however you want and then come ready after these two weeks
+all right come ready after these two weeks cool all righty
+so feel free to use it how you want break catch up person's 100 hours hit
+list it's up to you but i need you to make that decision
+that says you know what i'm proud of the things i've been able to do i trust
+myself to do the next phase and i trust myself to go into this hunt
+ruthlessly to come out with the job all right so we'll have class today
+
+00:24
+we'll have class on thursday and then no official gatherings will official
+no class for those two weeks uh we will have kind of stream team streaming
+we'll have some project nights we won't do office hours
+so yeah we'll have some we'll have some events and things planned but a real
+break cool alrighty let's keep pushing back end baby
+let's talk about the back end so we've been using our a lovely lovely node js
+lovely node.js and we know that now that javascript
+noticed a javascript runtime built on the chrome v8 engine and and that's no
+
+00:25
+longer disrespectful right we understand a lot of this terminology now we
+understand that node is an environment where we are running our javascript
+and it's using this v8 engine which comes with all these goodies that helps
+us compile our code that does memory management that does garbage collecting
+that enables us to utilize cnc a plus plus apis to do things with speed right
+it's not as disrespect disrespectful as it used to be
+right now we talk about the v8 engine as
+an engine versus just a compiler because it does come with all those other
+goodies right right that comes with all those other goodies right now
+we have this lovely idea of engine versus compiler where we have the va
+engines coming with all these goodies that's giving us access to all this stuff
+and just like when we were running our javascript in the browser and we had
+
+00:26
+access to the web apis now we're running our javascript via node we get a bunch
+of other stuff what is some of that stuff that we get
+now that we're running javascript via node and no longer just in the browser
+chat yeah we're getting access to our modules
+we're getting access to and cnc plus plus apis we're getting things like the
+http module which gives us network access we're getting access to the fs
+module the file system module that gives us access to the disk we get access to
+millions of other packages via things like mpm
+and underneath the hood instead of it being handed off the web apis we get
+these lovely cnc plus plus apis that make the code we're writing fast
+it works well we're using battle tested stuff that's listening to these requests
+that's going to enable us to generate responses to get stiff stuff off the
+
+00:27
+disc to get stuff from a database to do all this heavy lifting to have an event
+loop to have all this good stuff it comes because we're running our
+javascript via node can you explain running js via node
+uh egg nation if you're new around these parts do exclamation point 100 devs
+we had six plus classes on that topic so you can definitely go back and start at
+the beginning of our node classes we go super in-depth to that if we have any uh
+new folks it's exclamation point 100 devs a lot of this stuff right now
+typically that first hour is just raw review for us we all buy into this idea
+of space repetition and active recall and so every class we're just getting
+our active recall in so if you're kind of lost on some of these
+beginning topics definitely go back and watch our past classes they are on
+youtube and as vods here on twitch as well cool all right we started off by
+
+00:28
+we started off by building very simple node servers that were using these core
+modules the http module the fs module right these things that are just
+raw there there are ways to to build and communicate on the server side
+but it's not pretty we had to do everything manually we had
+to write all these routes manually we we had to write all these things that just
+look uh look a mess and really aren't that easy to read
+yes these a disrespectful code right and so we asked ourselves how could we
+clean this up how could we not be stuck coding everything manually to not just
+be using these raw http methods what if there was something that could give us
+access to a myriad of http methods that could give us access to a simple
+framework that we could use and that was express right express makes that
+
+00:29
+server that creation easier because it's handling a lot of
+the heavy lifting for us and giving us simple plain easy to use language to do
+the things we want to do and at first express can seem a little
+odd but we realized that we're just doing the things that we said we wanted
+to do when i said i wanted to send an html file it was send file
+when i wanted to send some json it was just json tonight
+when i want to render some ejs into html it's literally just render so the
+ability here is that we're able to use this express to to
+to abstract all these heavy things away and give us a simple easy to use
+language to do the things that we want to do cool
+and so we saw this idea of being a fast unopinionated minimalist web framework
+with a myriad of http utility methods we're like that's disrespectful what the
+
+00:30
+heck does that mean well we understand that fast right
+right we understand that fast means it's fast unopinionated what does that mean
+chat what is why is express unopinionated what does that mean
+yeah it doesn't care what you bring to the table you can use anything you want
+it's just going to do one thing and one thing really well and that's what we
+mean by minimalists it is a minimalist web framework it's going to help us
+handle that request and response that's all it
+cares about you can bring anything else you want to use with it it doesn't have
+a way that you have to use it it's very flexible it's unopinionated and it's
+minimalist it really only focuses on one thing and that's building your api
+doesn't want to do anything else other right than building your api and so it
+comes with a bunch of methods that enable us to listen to requests to
+
+00:31
+generate responses and it comes with a bunch of middleware to make our lives
+easier what the heck is middleware what's what's our making the nerd shake
+definition of middleware yeah anything that kind of really exists
+between the requests and the response and we're going to see
+some stuff that we used to use that's even kind of getting baked into express
+now too so yeah it's it's it's it's this wonderful tool
+that enables you to build out your api and gets out the way and that's why it's
+so popular when you're building full stack web applications with node cool
+but before we can jump into using express we want to spend some time but first
+but first i want to spend some time talking about how does the internet work
+and then once we've had a chance to talk
+about how the internet works we're going to dive into some new topics tonight
+
+00:32
+we're going to dive into things like mongodb we're going to dive into things
+like ejs and we're going to see how it all relates to building beautiful web
+applications but that we're getting ahead of ourselves here let's jump into
+this idea of how does the internet work all right so
+on the internet we have two kinds of devices we have client-side devices
+and we have server side devices both the client and the server are both what
+client and server are both what chat they're both computers exactly both the
+client and the server are both computers now when we are
+
+00:33
+creating our original code right when we're running our code locally
+the confusing thing right the confusing thing
+is that when we're first starting out our client and our server are both what
+what makes this kind of confusing at first yeah they're they're both on the same
+machine right both the client is running on our local machine and our server is
+running on our local machine but what did we do differently in the past couple
+of classes that changed that so that the server wasn't on our local machine what
+did we do yeah we hosted it and put it on heroku
+we literally took our server code and put it on someone else's computer
+the cloud is what chat what is the cloud i always people always respond leon we
+
+00:34
+put it on the cloud we put on the cloud what's the cloud
+yeah it's just somebody else's computer the cloud is just somebody else's
+computer right so we eventually will take our server side code and
+put it on somebody else's computer right that's going to run the code that
+we told it to run and most of the time when our clients are
+making requests to a server right our clients are using the browser
+and one of the most common things they'll do in the browser is type in a url
+and when they type in a url and hit enter what did the users do
+from their client-side device what did they make a humble request exactly
+our users on the client side maybe they were on their mobile phone their desktop
+
+00:35
+their tablet they typed in a url they hit enter they made a request
+and that request left our client-side device and found its way to the server now
+once that request made it to the server there was some code
+running on that server that could hear that request
+what do we call that code that is running on the server that can hear that
+request yeah we're gonna call that our api
+and our api is gonna be coded to handle a series of different kinds of requests
+
+00:36
+what types of requests is our api gonna be set up to hear or to listen for
+yeah it's gonna hear those sweet sweet sweet quad requests it's gonna be set up
+to hear our gets our posts our puts and our deletes cool now
+get post put and delete are terms that come from what where do we
+get these get the posts the puts and deletes we like to call
+those are two fans we like to call them crud create read update delete but where
+do these like actual fancy terms come from yeah it comes from http because
+the thing that actually enables us to make these requests
+to to listen and receive these responses we sit on the shoulders of some giants
+
+00:37
+and that technology that enables us to make requests and receive those responses
+is the hypertext transfer protocol and these gets post puts and deletes are
+methods that http understands right the get the post to put the leads
+are the methods that come with http and when we built out our api
+we could have written some raw code that
+listens for those http requests we could get closer down to the raw node but we
+decided to use something else that helps
+us manage all this http request response that gets the post the puts the deletes
+what are we using that helps handle all that stuff for us yeah express
+
+00:38
+express makes dealing with this so much easier it gives us a bunch of
+methods that we can use that enable us to listen for the gets the posts the
+puts the deletes and handle those responses we want to send an html file
+we just say send file we want to send some json we just say json we say we
+want to render some ejs to spit out html we just say render what
+that's the coolest stuff ever that is the coolest thing ever that i
+don't even have to understand i don't have to understand anything about this
+i don't need to understand how the http method is working i don't need to
+understand anything about tcp i don't need to understand anything about ip i
+don't even even have to understand like how these get post puts the leads are
+doing the thing express what all that away from me
+
+00:39
+express what's all that away from me yeah
+it abstracts all that stuff away from me
+and just says hey leon what's up what do you want to do today and i'm like
+express we're gonna do the same thing we do every day try
+and take over the world or you know build some full stack web applications
+it's beautiful that's exciting like to me this is like the dopest stuff
+ever that i can just write get post put delete
+my server understands it and then i just get the focus
+on what i want to have happen right so we we had this original request
+that came over they typed in a url they hit enter that made a get request
+we have some code running on our server called our api and it's set up to hear
+
+00:40
+that get request right and when it hears that get request we get to say what
+happens all right when when when our server hears that get request when somebody
+typed in the url and hit enter right our api that we wrote heard that request
+and we get to decide what happens when we hear that get request
+and tonight we're going to do some extra stuff that we didn't do last week last
+week when we heard that request we responded with some json but tonight
+when we hear that get request what are we doing
+i kind of just teased a little bit tonight when we hear that get request
+
+00:41
+we're doing something a little bit different yeah uh-huh a little bit different
+we're going to go to a database to get our data
+instead of that data being an object right instead of that data being an
+object that's already on our server side when we hear that get request
+we're going to go take a trip to our database and we're going to get that data
+and once we have that data we're going to plug that data into a template
+and that template is going to spit out what
+that template is going to spit out what yeah
+
+00:42
+that template is going to spit out some delicious html and then that html
+is what we're going to respond with html is what we're going to respond with
+right and so we get control of what happens when we hear those
+requests and tonight we're taking it to the next level and instead of having
+data that's hard coded as an object server side right
+we're going to go to the database right we're going to go to the database we're
+going to get that data and we're going to respond with it
+let me show you what we're going to build tonight i have a live version
+and i have a uh like a local version because
+i'm sure we're gonna tank the hosted version as soon as i show it don't be a
+
+00:43
+don't be a crumb bum and like try and tank it i have this rap names
+100devs.heroku app that's live and you can see from the last cohort
+people popped off right you can see all these different rappers with their birth
+names uh here and uh we can upvote the name and we can delete it if we want to
+right and so what i want you to do is to see that
+we're going to build something cool but i made a simpler version here that's
+local because i know that you're going to it's
+going to get wrecked that's okay it's going to come down there's too many of
+us that's fine i'm not paying for my heroku instance so it's just going to
+pop off the internet uh but here's my local version and so the cool thing here
+is i can add rappers i can delete rappers sorry little nos x
+boom so that that wrapper is gone right i can
+
+00:44
+eventually upvote my rappers which we'll we'll see more uh on on thursday
+we started deleting and i can also add so let's let's add back little nos x
+beautiful i forgot there there we go boom and what i want to ask you
+what i want to ask you is did i know all the rappers people were going to submit
+like was there a way for me to like hard code how many rappers were gonna
+show up no so there's a lot of little pieces that
+are happening here that we have to introduce tonight right
+
+00:45
+there's there's a lot of the things we have to introduce tonight one i need a
+template that i can plug my wrappers into so that i
+i'm not hard coding my html right there's no way for me to have known the
+wrappers that you're gonna that you were going to submit so instead of having a
+having a hard-coded html file right instead of having a hard-coded
+html file i need a template that we can plug data into think of it like a fancy
+mad libs have you ever played mad libs growing up it's like a
+it's a sheet of paper that has a story but you get to fill in the blanks that's
+what we're going to use we're going to use our ejs files as templates that we
+can plug data into the other thing is instead of instead of having to
+
+00:46
+instead of having to keep track of like a messy object on our server side
+we are going to use right we are going to use we are going to use
+right we are going to use our database and so you can see here
+each wrapper that i added has a specific spot in my database
+right so whenever i add something i can see that object right
+and i can keep track of it and so instead of having like this messy
+json object on my server each wrapper gets its own document in my database and
+i can go and get all these documents i can update them i can delete them i can
+do whatever the heck that i want right to these objects right cool
+
+00:47
+don't pay attention to the old rap app that was my honeypot i just wanted
+everybody's ip address so all the people
+that are acting a fool i'm just going to ban them from discord based on their ip
+address so don't worry you're good it was a honeypot we got them they couldn't
+help themselves we're good hope they use the vpn
+appreciate you thank you so much thank you for participating in my grand
+experiment uh that's what i'll be using my break time to do you got got
+[Laughter] so we'll just leave that running for
+them they can keep doing their the little their little things i'm not even
+going to show it let's just uh close it for this evening it was just there to
+get them they got got we're good peace hope you enjoyed discord hope you
+enjoyed this community have a good rest of your rest of your life
+
+00:48
+the whiteboard's still up for a reason let's think about this all right
+let's think about this right i on the client side right i was able to
+type in a url hit enter all right that request made it to my server
+made it to my server there is some code running on my server
+right there is some code running on my server that heard the request
+that heard the request right and when i heard this request
+
+00:49
+right when i heard that request what did i do right when i heard that request
+what did i do i decided to respond but to respond right i decided to respond
+and the way that i responded was by going to the database
+right by going to the database right by going to the database i got
+all of the wrappers right i got all the wrappers and then i used that data
+to plug into my ejs file which we haven't really
+talked about yet it's just a template right
+to plug into my template and then that template spit out
+
+00:50
+html and i respond it with that html and that html right
+that html came all the way back to the client-side device
+right came all the way back to the client-side device and that's what they
+saw so we're building we're building on this idea
+right we're building on this idea that we can right that we can type in a url
+hit enter when we hit enter when we hit enter that request leaves
+the client side makes it all the way to the server the
+server is set up to hear that request and when it hears that request right
+
+00:51
+we hear that request right when we hear that request
+we get to control what happens and as we start to progress we're going
+to be doing more and more stuff cool now we did the reading before
+we also have to do tonight the creating right we have to do the creating
+all right we got to do the creating so here we saw that when we enter in a form
+we were able to create something that happened so when we come back from break
+when we come back from break we're going to talk through the creating
+we're going to [&nbsp;__&nbsp;] through the deleting
+and then we're going to start adding the
+little things that we need to understand tonight to be able to do
+this process so lots of fun stuff to get to tonight
+
+00:52
+we're going to have the ability to create we're going to have the ability
+to read we're going to have the ability to delete and we're gonna see the tools
+that we need for that to be able to work cool alrighty folks
+let's go ahead and take our five minute break
+i'm gonna go ahead and put that on the clock here
+there's no files that you need for tonight we're just kind of looking
+through some stuff that we're sharing you have the slides if you need them
+but five minutes on the clock when we get back folks we're going to talk about
+that creating we're gonna talk about the deleting we're gonna see how a project
+like this comes together and by the end of tonight you'll be able to build any
+app that you want this blows my mind this is like the best stuff ever alright
+folks enjoy your break i will see you in five minutes
+alrighty uh so i i know some folks i joke around a lot if you haven't
+gotten that by now i i joke a lot on stream i know some jokes they're hard to
+
+00:53
+understand but like i joke a lot i'm not banning anyone from being reckless in
+any of the stuff that i that i share right uh it i i
+people people really be like send me a message like how can you ban people
+because come on now i'm not to ban somebody over that right i was a 12 year
+old little [&nbsp;__&nbsp;] back in the day too
+right like if you're still in like your
+12 year old little [&nbsp;__&nbsp;] phase that's
+okay that's on me to design systems so that i don't get got right it's
+disappointing that you're a little [&nbsp;__&nbsp;] but
+like i understand how the internet works i know that there are folks that are
+little shits out there i was a little
+[&nbsp;__&nbsp;] back in the day so if that's where you're at in life
+that's okay i'm not gonna ban you over it
+i just think you're a little [&nbsp;__&nbsp;] right
+like come on we were there i was there you're there now it's okay it's cool
+right but i understand how the internet works and i'm not gonna ban anybody over
+deleting something on my heroku app i just got to do better things to stop
+
+00:54
+that from happening and so one of the things i could have done
+and we'll use this as a lovely little segue
+is when you are using [&nbsp;__&nbsp;] atlas you can actually
+block ip addresses right i could have limited it to just my ip address
+or i could have white listed it right and so what it had was a white listed ip
+address so it means anyone's iep address could have been accessing that
+that instance of the mongodb database now the one i'll be sharing for the rest
+of the class it's whitelisted and targeted to only my
+ip address so even if you have access to the database even if you have
+the ability to edit stuff uh you shouldn't be able to do anything because
+it's tied to my ip address right so there are ways that we can prevent this
+stuff in the future but i'm not banning anybody come on folks that's that's just
+
+00:55
+me joshing around and so it we'll see that a little bit later tonight cool
+everybody's like still ban them leon just ban them
+no no i want you to i want you to click around i want you to play with stuff i
+want you i want you to break stuff right like i want you to i want you to have
+fun with it right um just don't just don't be a little butt that's all
+it's how we learn it's a part of learning right cool all right so
+we talked a little bit about let's go back to the slides real quick uh we
+talked a little bit how the internet works we talked about that get request
+right but there's so many other things that are happening that we need to be
+able to handle for our applications to work and so tonight
+we're going to build out our api so that any client can talk to our server right
+
+00:56
+and when they talk to our server we're going to write our api to do a bunch of
+different things as a response so far right so far we have seen a
+file response with send file we've seen a json response and tonight we're also
+going to see a render of html that gets responded with cool now
+the four things that we're setting up to do are our crud
+request our creating our reading our updating our deleting and to be able to do
+the getting the posting and the deleting that we want to do tonight we need to
+add two more things into our repertoire that first thing is mongodb
+and then the second thing is e j s it's in the game all right so
+mongodb is a database and the beautiful thing about mongodb is
+
+00:57
+that if you have ever used objects right if you have ever used objects right
+if you've ever used objects you can use mongodb
+that's it if you have used objects you can use mongodb mongodb has two
+really important terms they have collections and documents a collection
+is just a group of documents and a document is just an object that's all it is
+so here we have a collection and our collection is made up of
+individual documents and our individual documents are just objects now
+if we are talking about our lovely rapper's api
+
+00:58
+right we're talking about our lovely wrappers api what
+type of collection are we going to see so if we're thinking through the data
+that we need to collect what is our collection going to be called
+look at our app what does our app do it keeps track of rappers names so what
+do we think our collection and mongodb is going to be called yeah rappers we're
+going to have a collection of rappers great so we're gonna have a collection
+of rappers rappers like and each document inside of wrappers
+is going to be one what each document inside of our wrapper collection
+or a rapper's collection is gonna be one what one rapper exactly one rapper
+
+00:59
+so this one might be uh chance the rapper please say the rapper
+this one might be 21 savage this one might be polo g right but that's it
+mongodb is a collection of documents where the documents are just objects
+right so each one of these objects is something that we can use that we can
+consume that we can utilize in our app location and we can actually see it when
+we look at our [&nbsp;__&nbsp;] atlas account look
+here's my collection of wrappers and you can see chance the wrapper is
+one object polo g is another object little nos x is another object right and
+21 savage as another object so a lot of folks say um a lot of folks say leon why
+
+01:00
+why mongodb right why mongodb why why do you start with mongodb why not sql one
+if you know how to use objects trust me you know how to use mongodb
+right it's super easy if you know how to use objects you can work with the data
+that's coming in and out of the mongodb right the other thing is that
+when you are using it you do not need you do not need a querying language like
+you don't have to use you have to learn another language
+to be able to use what's happening inside of your database
+if i want all of the documents out of this collection i simply just say bind
+that's it just find and it will find all the documents in this collection
+
+01:01
+if i want to add a wrapper to this collection like if i want to add a document
+it's simply insert one if i want to delete a document it is simply delete one
+so no querying language to learn it's plain english for what you want to do
+in relation to your database so if it's made of just objects which we
+should feel comfortable with if it has a very easy to use language
+you don't learn a whole other querying language on top of it that makes it a
+great place to start with understanding how to build a full
+stack web application right because when you're building this full stack web
+
+01:02
+application uh you are using stuff that kind of already sounds
+familiar or isn't too wild to understand and then the last thing that i really
+enjoy is that we have [&nbsp;__&nbsp;] atlas i asked you
+all to create a [&nbsp;__&nbsp;] atlas account and
+what this does instead of having to have like your database locally
+we are using somebody else's computer to host our database and this is really
+important because we all want to work with each other
+right we're eventually going to work in groups
+i eventually want to be able to share my code with you
+right and the cool thing about [&nbsp;__&nbsp;]
+atlas is that they're handling hosting that database setting up that database
+and all i have to do is connect to it and i can do all the stuff i need to do
+
+01:03
+so mongodb gives us a lot of flexibility it gives us the ability to work with
+objects that we already feel comfortable
+with a plain simple language to interact with the database and then we also have
+this phenomenal free service where we can host our database and be able to
+work in teams be able to share code and it all just works so that's why i start
+with mongodb we will see some sql later on in program this is why it's a good
+place to start here though cool so we already talked about our wrappers
+here we know that we have a collection of wrappers and each document right each
+document that goes into our collection will represent one wrapper
+cool we're going to see this in way more detail a little bit i just want to put
+that into your brain if you haven't already seen mangadv if
+you haven't already seen ejs you probably didn't do the what the homework
+
+01:04
+and so you're gonna see that i'm purposely i am purposely using examples
+and similar enough code to what was covered in the reading so that you're
+not transit so you're not transitioning like
+without having seen this stuff right so please
+you got to do the homework especially as when we come back from break if you're
+not doing the homework it's going to be too much while you're sitting in class
+to be able to suck it all in right so make sure that you are putting
+in that effort to get through you don't even have to like really rock start you
+don't have to really 100 devs it right you can just get through it that way
+it's not too much it's not the first time you're hearing about documents and
+collections it's not the first time you're hearing about
+
+01:05
+ejs this is a little bit of a little bit of review a little bit of review cool
+next next we have to talk about e j s now remember
+when we're looking at this code here we're looking at this site
+right when i'm looking at this site i'm looking at this site each one of these
+is an li right each one of these is an is an li
+did i hard code four lis into my html so that i could respond no
+i had a template and what i was able to do
+
+01:06
+what i was able to do was plug data into that template
+that spit out the html that contained four lis
+but my html was not hard-coded it was a template where i was able to plug data
+in and then spit out html that i then responded with so when we look at this
+right here what we're actually looking at is some ejs so here's our ejs
+where you're going to notice about ejs and the reason why i start with ejs
+is because this egs kind of looks a lot like what
+does this replace our normal html file it does it looks like a lot of html
+with a little bit of javascript sprinkled in it has its own syntax like
+things are a little different like we have like this this this uh
+
+01:07
+this carrot parentheses type syntax but what it is is just regular html
+with a little bit of programmatic stuff thrown in
+and so it's a really good transition right it's a good transition from just
+regular html right to being able to have a templating language right
+that we can plug stuff in and once we get a little bit further in
+we can use other things that make this template a little bit easier to do
+i use things like pug and stuff like that but to start off with
+definitely start with ejs right i have a lot of students that run into other
+templating languages and the problem they run into
+is it's too different than the html they're comfortable with with ejs this
+is just html with some stuff plugged in right and so we start here so you can
+
+01:08
+build applications and eventually we'll get to the point where our front end or
+our views are handled by other things maybe some react maybe some other things
+but starting with ejs has always been the smoothest pass for my for my my
+students cool so what you're seeing here is i have a for loop
+and what is this for loop creating it's creating lies yes so
+what i am going to do is i am going to take my data and i am going to plug it
+into this ejs template with the goal that this ejs template spits out what
+
+01:09
+what is this egs spit out at the end html so my goal is to take some data
+plug it into this template and have it spit out an html file
+and so what we're going to see is that i have this info
+info is representing my data the data that i got from the database
+if i look at my database how many documents are there there are four documents
+so how many times do you think this for loop is going to run
+how many lis is it going to create yeah this forward is going to run four
+times if there were four documents this is going to run four times
+
+01:10
+and each time it runs it's going to build an li that has
+a span holding their stage name a span holding their birth name
+and a span holding a delete keyword or word
+right so what this template is able to do it's able to see oh
+there were four bits of data let's build four allies
+that each have a stage name a birth name and a delete
+and so this ejs runs right this ejs runs and it's building out an html file and
+when it is done it sends that html file back to our user
+right so this enables us to not have to have stuff
+hard coded anymore we can do stuff dynamically we can build stuff based on
+the data that we have in our database and not be required to just have
+
+01:11
+hard-coded html anymore now one question that always comes up is
+leon isn't this violating separation of concerns right aren't you introducing
+like javascript no this isn't javascript it just looks like javascript to make
+your life easier what is the end result of this ejs
+what does it spit out what is the end result of this file running html
+exactly we're still getting html at the end of the day this html could link to
+other javascript but this in itself is not actually javascript this is just a
+combination of html and something that looks like javascript
+to make our lives easier if you know javascript and you know html you can
+
+01:12
+write ejs and that's why i start with it right so there are some little bits of
+syntax that we're gonna have to learn you're gonna have to learn that oh when
+you are doing blocks of code those blocks of code uh go in between the
+carrot and uh the modulus or parentheses
+right when you are plugging in variables it's a little bit different with the
+equal sign right so there are some little bits of syntax that we're going
+to have to learn to write good ejs but what are we not doing tonight what
+are we here for we're here to paint a what we're here to paint a lovely picture
+we're not really cared about the details we're not really we're not really
+worried about like how ejs is doing this how we're generating the html what the
+syntax would be right we're just trying to get the big picture
+of how all this can come together and then exactly we can be baddies and write
+
+01:13
+bad code right we're here to paint the picture so
+to paint this picture we need to understand that we're going to store our
+data in a [&nbsp;__&nbsp;] database and a [&nbsp;__&nbsp;]
+database is just a collection of objects we call those collections collections
+and we call the objects documents for each bit of data or in this case each
+one of our wrappers we're going to have an individual document for each one of
+those wrappers and then the thing is eventually we want
+to be able to show all the wrappers to our users
+right and if we want to show all the wrappers to our users we're going to
+need a template that we can plug that data into
+right that we can plug that data into that spits out html so we can respond
+with that html what's the difference between ejs and a
+script tag good question let me show you
+
+01:14
+real quick we can look at some code real quick um views ejs
+here's our ejs right it looks like regular html we have some special syntax
+but down here is a script tag just like normal nothing changes when
+you're using ejs other than when you want to plug stuff into your html
+right when you want to plug in stuff you got to use this little bit different
+syntax you want to plug in like you want
+to pull out like variables you got to do
+this a little bit different syntax right
+it's the exact same thing as html with a little bit of different syntax mixed in
+but all your other stuff is the same like if i want to do a link to a
+javascript file boom it's still the same script tag cool all right
+
+01:15
+talk about manga we talked about ejs let's talk about the big picture
+right let's talk about the big picture here cool so
+let's use this application as our example here you can see i just refreshed the
+page when i refreshed the page what type of requests did i make
+i made a get request so let's talk about it
+let's talk about that get request i just made in the browser i hit refresh
+that made a request from my client side to my server and my server had some code
+
+01:16
+set up to hear that request what type of request was it first
+it was a get request by refreshing the page or
+typing in the url and hitting enter we made a get request now
+what code was running on our server that could hear that request
+our api exactly so here's our api code our api code was set up to hear that get
+request and what route was that request made from it was just my localhost 2121
+what route was i on when i made that request when i hit that refresh or i hit
+that enter yeah i was on the root route and we
+represent the root with that lovely forward flash great now
+
+01:17
+what i needed to be able to do like if we look at this application
+is i needed to be able to respond with some html that had all the entered
+wrappers what i what i needed to see is that it's not magic
+right we made a request from our client-side device
+that request made it to our server right our server had our api code on it that
+heard that get request and what did we need to do when we heard that get request
+where is our data stored right now it's no longer a json file where did it have
+to go and get the data that we were going to use yeah so the very first thing
+our get request was code it to do right the very first thing our get
+request was code it to do was to go to the [&nbsp;__&nbsp;] database and find
+
+01:18
+all the documents in our wrappers collection once it once it went
+and got all of the data each individual wrapper is a document in our wrappers
+collection right once it got all of that data where did it hand that data off to
+yeah it handed that off to our template to the ejs right it took all this data
+and handed it off to the ejs now our ejs spit out what
+it spit out what what did our ejs spit out it spit out html exactly
+this ejs spit out some html and once we had that html
+
+01:19
+once we had that html what did we do with it
+we responded exactly we responded with that html
+and that's why we were able to see all these different wrappers
+right inside of my application we made a request to a server
+the server heard that request it went into our [&nbsp;__&nbsp;] database grabbed
+all the wrappers from our [&nbsp;__&nbsp;] database
+put that into our ejs template the ejs template
+spit out some html and we responded with that html
+it's really wild how fast all this works i completely agree
+
+01:20
+um some folks said what is views well right now all of our code is kind of all
+mixed together right now our server.js file holds our api
+everything that set up our server right it holds a lot of stuff
+right holds a lot of stuff eventually we're going to introduce an
+architecture similar to like how we had separation of concerns where we had html
+separate from our css separate from our javascript eventually we're going to
+separate out our concerns on the back end as well we're going to use something
+exactly called mvc or model view controller
+all the stuff that we write to talk to the database that's going to be handled
+by our model all the stuff that we're going to write
+that handles like the the templates the ejs like with the user eventually is
+going to see will be our views and kind of like the
+middle person in between that's like listening to the request and figuring
+out how to get those responses that'll be our controller so we're going to get
+
+01:21
+to that in a little bit in the future where we'll have that architecture it's
+not something we need to worry about right now but you're going to start
+seeing me put all my ejs files in a views folder so that we can start
+getting used to that idea that our code is going to be in separate places that
+it all comes together so all of the things that my users will
+eventually see like all my ejs templates they're going to be in a folder called
+my views folder that's where that's coming from cool now
+some folks are asking what the heck is public right some folks are asking what
+the heck is public and what i got to ask
+you is let's look at this html file real quick this template this ejs template
+spits out html what's at the beginning what's at the beginning of this template
+and at the end of this template what do these represent
+
+01:22
+they're asking for some client-side javascript they're links to files
+there are links to files right and so the cool thing remember i
+promised you last week to show you one of my favorite lines of code of all time
+one of my favorite lines of code of all time you ready for this you ready for
+this i'm going to show you here it is app.use express static public
+what this line of code is doing is saying any file
+that you put in the public folder like the public folders really i have a
+public folder right here my js files in here my css files in here
+
+01:23
+any file i put in this public folder right any file put in this public folder
+will just be served up by this line right here
+i don't need to create a route for it i don't need to do an app.get for it
+anything i put in that public folder that's just like a regular static file
+any of my html or any any from anywhere in my application can request those
+static files and it just serves them right on up
+right mind blown right it's the beauty of express it's top 10 favorite lines of
+code it just blows my mind that like somebody thought through to do that to
+make our lives so easier especially when we saw how hard it was to hard code all
+those things when we were writing our node server from scratch every js file
+every css file had to have a route we had to handle we had to tell what file
+to send we had to do all that heavy work that this one line of code just
+
+01:24
+eradicates and it works folks get this it works with images too yeah
+a lot of folks are like leon how do we do images it works with images too
+yeah baby exactly cool so any static files that you have can be
+served up by that public so the interesting thing is we responded with
+that html file and then that html file made two more requests
+it made a request to our server for our css file
+it made a request to our server for our js file
+and it wasn't necessarily our api that had to handle that it was just express
+that handled it because it was already in our public folder it knew what to do
+so we can put anything into our public folder we can get our main.js we can put
+our css we can put our fonts or images everything can go in that public folder
+all of our static files and just get it served up cool now
+
+01:25
+we we did a big hop skip and a jump here right
+everybody let's take a collective deep breath one more time one more
+all right now we don't need to know how all these pieces work underneath the
+hood we just need to understand how they're being connected so i'm going
+to walk through what we just did and then i'm going to show you the code
+and i i need you to to be okay when i show you the code i don't need
+you to understand i don't even under
+like i i don't i don't type this [&nbsp;__&nbsp;] out
+i can't i can't tell you how much i have templates that i use for this that i
+copy and paste from my passcode that i've written right like you have to
+
+01:26
+understand that you don't need to have this memorized sorry once again
+you don't have to have this memorized right you can just
+you can start playing with these lego blocks and build some amazing things
+all right so what we have here is we went to our application
+i refreshed the page or let's say i typed in localhost 2021 and i hit enter
+right i hit enter all right i hit enter when i hit enter
+what type of request did i make i made a get request all right
+
+01:27
+hit enter made a get request to my server what code is running on my server that
+heard that get request the api exactly um since i was on localhost 2121
+and i hit enter there what is the route for my get request
+yes it is that lovely root route that forward slash so
+there was some code tied to that to that route it heard that request and then it
+i wrote out what i wanted to have happen when i heard that request just like a
+click event when i heard the click i wanted to do x y and z
+when i heard this get request on the root route i wanted to do a few things
+
+01:28
+the first thing i wanted to do was go to the database
+and get all my wrappers out of the wrappers collection i wanted to grab
+each document from that collection and once i had all that data
+all right once you have all that data i want it to send it where
+where do i want to send all those all those documents to where i want to send
+them to yeah i wanted to send them to my ejs beautiful
+once i sent it to my ejs i was able to plug in all that data to the ejs
+template and what did that ejs template spit out it spit out an html file and
+once it spit out that html file what did i do with it
+
+01:29
+what did i do with that html file i responded with that html file and we
+were able to see what we see here in our application great now
+once this html file was rendered by the client what else happened
+hey hey thank you for the hydration cheers to you
+let's look at this look let's look at this right let's look
+what is this letting me look at current wrappers what do i know about current
+
+01:30
+wrappers that's css right it's red so there's probably some css that it needed
+and i saw before that i can like click on these things and stuff happens
+so what's the only thing that can hear client-side clicks
+our client-side javascript so when i sent my html
+i did not send css i did not send javascript it's only once this was
+rendered in the browser that it made those requests and the cool thing is
+when we're using express and those get requests get made for the css and the js
+do i need something as part of my api that's listening
+do i need anything that's part of my api is listening for the css request or the
+or the js requests not really not that not the api i'm
+
+01:31
+writing the cool thing is that since i'm using express
+if it's in the public folder express will handle those static files for me
+i don't need to do anything else other than put it in the public folder and it
+will just work as long as i have this gorgeous line of code on line 19.
+all this line of code is saying is hey any request for regular files like html
+sorry regular files like css or javascript or images or fonts as long as
+they're in your legitimate public folder like i have a public folder here that's
+like a folder in this code base as long as it's there it'll serve it on up
+does it always need to be line 19 no that's a good question not a lot of this
+stuff it doesn't really matter too much the order um we're gonna see some things
+need to like call things but remember we're still technically
+writing javascript and javascript technically still has stuff called
+
+01:32
+hoisting and so scoping in a big big file like this is weird we have to worry
+about that it doesn't always have to be in line 19. you're going to you're going
+to swap out do things differently um throughout the throughout the days
+thank you for the posture check let's get into this all right
+get up set up straight is the process the same even if we don't use express
+yes any static files can use the public folder it's not dependent on your view
+engine if we look at this line of code right here
+we're saying that our view engine is what
+ejs this is literally the line that says we're using ejs it could be any other
+templating language that we want there's ones that are there's so many different
+ones pug whatever you want to call it right there's so many out there we're
+just telling it here that we're going to be using ejs so that it knows hey we're
+
+01:33
+going to be using ejs to generate our html cool
+so we walked through that whole process where we made a request to the server
+our api had that code that heard it that
+api then went to the database it got all the information from the database it
+sent all that information to the ejs the ejs spit out some html
+and then it responded with that html back to the browser
+let's see the code that's actually handling this you ready all right
+look at the code here it is all right we've already seen this part
+the app.get on the root route you've already seen that that's easy
+
+01:34
+when we hear that request this is what we're doing remember
+everything that goes inside of here is what we are doing this is just the
+lovely callback this is exactly like a click event
+right exactly like a click event you should feel comfortable with this
+now inside the click event we're going to tell it to do some stuff
+and treat it like it's readable because it is here's what we're going to do
+we're going to go to our database we're gonna find the wrappers collection
+we're gonna find all the documents in the collection
+and we're gonna turn it into an array let's get rid of this for now we're just
+
+01:35
+gonna we're just gonna we're gonna eat this for right now
+and we're going to turn it into an array let's think about this for a second we
+know we heard the get request we had to go to the database this is it
+go to the database find the wrappers collection find every document
+inside of that collection if we look at our collection
+here are all the documents all the documents are really just what
+all of our documents are really just what objects
+so if we're getting all these objects back from the database
+what's the only data structure that we've seen so far
+
+01:36
+that can hold a bunch of objects an array so we tell it hey
+put all these objects in an array that's all it's saying i i know it can
+look a little scary but it's so readable it said go to the database
+it said find the wrappers collection find all the documents inside that
+collection and put them into an array so now i have this big old array right
+a big old array that is holding all of the objects from my database and
+
+01:37
+is my database like on my machine it had to make a request to the database right
+and so we're used to making requests and getting what back like at like a really
+high level we were dealing with stuff in the browser that we called what
+promises so we could kind of just like we can
+kind of just carry that knowledge here right this whole thing
+is we'll just say for now a promise right that gives us an array of objects
+and that means that data is holding our what what is data holding
+the result yeah it's holding that array it's holding all those objects we know
+that the then fires after we get that request that response
+right the result right so data is holding our array of wrappers
+
+01:38
+right we could we could console log this let's console log it just so we can see
+cool let's try this i'm going to restart my server cool
+connect to my database let's go ahead and refresh the page
+all right i refresh the page and let's look when i when i console
+logged look what i console logged what is that chat what did i just console.log
+it's an array of objects so we can see that data really is holding
+the response from our database right data really is an array of objects that
+
+01:39
+came from the database and what are we going to do with that array of objects
+what are we going to do with all that data we're going to do with all that data
+we're going to do it all that data we online what are you going to do without
+the baby oh i got to have a new place we're going to do with all that data
+what are you going to do with all that data we're going to do with all that data
+what are you going to do with all that data hey all right
+we're going to put it into our ejs now please come on
+give me two seconds of focus two seconds of focus
+two seconds of focus get come here get in i need you for a second you were on
+your phone i need to put your phone down and come back for a second all right
+here's you're here all right i see you easy thank you for coming back all right
+funny because i know you we've been together for how many weeks now come on
+
+01:40
+now all right you're with me when i responded in last week
+and i wanted to send a file it was response what response what to send a file
+response send file beautiful when i wanted to send json it was response what
+response json if i want to render some html out of my ejs template
+what do you think the term's going to be i want to render some html out of
+my template thank you it's going to be render right
+we've seen this already we've seen response.send file we saw response.json
+
+01:41
+[Music] but now we have response.render so think of it as two steps
+what do you think this side is going to do
+what what size what is this going to do some people like leon i did the homework
+i know that's the point that you're coming here prepared that you're seeing
+it again you're asking questions it's solidifying in your mind
+it's our space repetition or active recall yes it's rendering our html
+it's spitting out our html this whole right hand side here what it does
+is it spits out our html i had one thing to do and i spelt it wrong right
+
+01:42
+it rendered out an html file and then what the heck did we do at that respon
+what the heck did we do with that html file we responded we responded
+we responded we responded with that html file come on now
+i know you're getting this a little bit i know you're getting this a little i
+know i know so i see the gears taking a little while but we're getting
+there we're getting there because once you understand just this look a little
+bit of code it's just a little bit it's just a little bit of code it's just a
+little bit there's a little bit but once you know how to use this bit of code
+you can build whatever you want you now can go get any data from a database
+
+01:43
+plug it into some ejs and return some html like that blows my mind right
+blows my mind that you can do it right now
+are there a little bit of extras we have to talk about yes we have to talk about
+like what's happening in this ejs file which we're gonna get to in a second
+but it's just a series of requests and responses that is all we're doing
+we're requesting stuff and we're responding with stuff
+and now the stuff that's happening between the requests and the response is
+getting a little bit more complex it's getting a little bit more full
+stacky but you're just doing the same thing we were doing last week it's just
+we're doing a little bit of extra stuff in between that request and that
+response so render is a method of the response object yes
+just like send file was just like json was it's the beauty of using respec
+respect it's the beauty of using express i can just say render and express knows
+
+01:44
+everything needs to happen to render my html for me i can just say
+send file and it knows everything that i need to do to send a file i can say
+json knows everything to do the response for to get json right at least the
+beauty of using express to do this for us express handles all of that all right
+let me show you one thing i'm gonna take a break one thing we're gonna take a
+break all right we said that data is holding our what data is holding our what
+our array yes it's an array of objects we we console
+logged it look look look look we console logged it here we go
+we console logged it here are all the objects right all the objects
+all the objects that were in that array all these objects that came from our
+
+01:45
+database all these objects that came from our database right now what name
+what name did i give to that array take a look at this code what name am i
+giving to this array it's stored in data but i've given it a different name
+you ready take a look info here is an object here's an object
+the name or the property is called info and the value is data which is our array
+of objects right we have an array of objects that's here called data
+but i've given it a name of info why well ejs is expecting me to pass in my data
+
+01:46
+and what format take a look what am i passing into my ejs
+yeah it's expecting an object so that's what i'm giving it i'm giving
+it an object and i'm giving that object the property of info
+right i'm getting the property of info and i am
+passing that array in with the name of info so when i look in my ejs
+when i look in my egs and i see the word info what is it really
+wherever i see info it is really my what is really what
+it is data or my array of objects or my array of objects that have
+
+01:47
+the wrapper data inside so wherever i see info inside of index.ejs
+it is my array of objects so let's take a look at the ejs file
+and so my views folder is an index.ejs let's take a look at this loop and then
+we're going to take a break what am i looping through here chat
+what am i looping through here i am looping through info
+which is my array of objects so when i do info dot info square brackets i
+
+01:48
+the very first time that this loop runs info i is really info zero and if i look
+if i look the first object here it is info 0 would give me this object
+does this object have a stage name property
+yes it's 21 savage so that's the same thing as me plugging in 21 savage
+here into the span right info zero we're just gonna keep doing it here
+info zero birth name does my first object have a birth name property
+it does we plug in their real name so it's as though i took this real name
+
+01:49
+and plugged it in here right then info zero likes does it have a likes property
+yep and it has a value of one so it says though i plugged in one here boom now
+the interesting thing is it's not just going to stay like this
+right we're going to we're going to put it back what we had in here the
+interesting thing is that we did this for the first object
+but how many more times do we need to do this
+how many more times do we need to do this i love people coming you should
+definitely be using the map function no you got to be able to see it you got to
+be able to feel it we're here to learn not to be code
+weenies right all right so we need to do it three more times so this li
+
+01:50
+is going to be created three more times right
+three more times and we're going to go ahead and grab that data we're gonna go
+ahead and grab chance the wrapper and plug it in we're
+gonna grab polo g and plug it in we're gonna grab little nos x and plug it in
+right we're plugging it so somebody's saying
+why a for loop though it's a for loop because i have no idea
+i have no idea how many wrappers are going to be in my collection
+right i have no idea how many rappers are going to be in my collection but
+with a loop right with a loop i can do it as many
+times as i need to i can create as many lis as i need to right and so this runs
+i build out each of my allies right can you use oh yeah you can use
+you can use a lot of different stuff in here right right
+
+01:51
+remember we're not really worried about the mechanics today we're worried about
+the the why the picture right so this is gonna this is gonna spit out three more
+li's after our first one and when it's done we're gonna have an html file we're
+gonna have an html file that has how many li's how many html files right
+yeah it's gonna have four allies and so when we come back and look at our code
+we know that we just rendered out an html file
+and we just rendered out an html file that had four lis in it and then what
+the heck do we do with that html file that has four lis in it we respond baby
+
+01:52
+we send it back to the browser and that html file is loaded in the client side
+and our user can see all the wrappers that are currently
+stored in our database so i know it's a lot i know it's a lot when
+we come back from our break we are going to run through the get one more time
+and then ooh look at it look at up we're gonna go ahead and look at the
+creating as well right we look at the creating as well so
+we'll we'll run through the get one more time we'll see the code and then we'll
+take a look at the create and we'll wrap up with a delete as well
+uh mr mike randazzo added a two minutes to the timer so we get a sweet seven
+minute break folks if you are able holy fans teaser
+uh let's go ahead and take a seven minute break please enjoy
+
+01:53
+if you're able to please get up move around hydrate
+and we'll be back in seven minutes folks well i'm back come on back
+please listen to dr levi the fitness doctor don't be like me
+do your stretches take care of yourself please i'm telling you if you don't take
+care of yourself you it'll catch up eventually it was a jam
+hey good to hear that thomas all right let's get into it folks
+all right so we talked about the get let's run it back one more time one more
+time let's run it back one more time then we're gonna look at the creating so
+all right let's see let's have a blank canvas here we type in the url we do
+
+01:54
+in our client side in our browser we type in the url localhost 2121
+that makes a request to our what we use our client side and makes a
+request to where our server exactly makes a request to our server and our server
+has some code running on it that can hear that request
+what do we call that code that can hear the request beautiful our api
+and a part of that api is something that's already been coded
+that's listening for that type of request it was an app dot get
+and since we're on the main route we're gonna see that lovely forward slash now
+once that request was heard we had coded some stuff that we wanted
+
+01:55
+to have happen we wanted the request to then go to our database
+find our collection of wrappers and we know that a collection is made up of what
+made up of objects and so we're going to go ahead and find all of those objects
+that were inside of that collection and once we have a bunch of objects
+what can we use to hold all of those objects an array so we did two array great
+so all that we did is when we heard that request we went to the database
+we found our wrappers collection we found all the documents in that
+
+01:56
+collection and we turned it into an array
+then once we had all that data in array we passed that data into our what
+passed it into our egs so we had this all right we know we're going to do a
+response but we're going to respond by rendering our ejs file
+which i believe is index.ejs and we're going to render our ejs file
+and we're going to pass in all of our data but we called it info and you're like
+leon why did you call it info just i picked something to show that that's how
+it could happen but you can choose any word that you want all right now
+inside of our ejs wherever we solved info info was really holding our what
+
+01:57
+what was info holding inside of our ejs file it was holding the array of objects
+exactly we looped through that array of objects to build an li
+for each object and when we were done when this rendering was completed it
+spit out what spit out html exactly and it was already there for us the
+whole time we it with that html to the browser beautiful once that html
+
+01:58
+hit the browser what other requests did it make yeah that actual html file right
+the actual html file made a request for a css file a js file right
+and was there actually like a particular part of our api that we set up that we
+have to like code out our api to handle that css and that js file request nah
+we were able to just use the public folder
+and we told express hey anything that's in this public folder
+just serve up no questions asked we don't have to create a route for it we
+don't do anything fancy we just drop it in that folder and call it a day
+oh express maybe all right how are we feeling about the get
+how are we feeling about the get like high level concept not like the leo and
+i feel ready to type this out no that's not where we're at like high level
+
+01:59
+concept we understand how full stack web applications do this cool
+now what i want you to think about is that the
+underlying bricks may be different but every application you use is doing
+something similar they might use a different database they
+might use a different web framework but it's still a request
+there's still an api hearing that requests they're still going and getting data
+from a database they're still plugging that into some kind of template and
+they're still kind of they're still responding with html
+no matter what app you're using it could
+be facebook it could be twitter it could be anything like that still happening
+underneath the hood plug in different languages different kind of databases
+different frameworks but every app is doing the same type of stuff cool
+
+02:00
+what was the create chill billy hey thank you for the gift
+of subs i appreciate that thank you for being here cool thank you so much what
+what was the creation here what are we creating in this application
+when every time we did what what were we doing that was creating
+yeah whenever we added a new wrapper that was creating cool so let's go ahead
+and create a new wrapper keep clicking on this instead of here
+let me slide this over here all right let's add a new wrapper rico nasty
+
+02:01
+and i have no idea what their birth name is rico nasty there we go boom copy
+cool and let's submit boom there we go so when i let me remind you right
+i'm a poppin let me remind you they had one of the strongest bars in
+that song what was it come and find you oh what was that's
+like one of my favorite bars of all time
+too i'll remember it i'll share it later [Laughter] well i gotta look it up
+
+02:02
+let's see i'm gonna go to genius over here it's
+gonna bother me sorry the version we'll come back to it
+i don't even know if it's like stream friendly for me to say it but oh that's it
+[Laughter] i love this part i love this bar this is
+so good okay i'm not gonna say the whole thing on the stream [Laughter]
+
+02:03
+i ain't scared we'll say itch i ain't scared it's just a whole lot of gang
+[&nbsp;__&nbsp;] i'm a bear you're a [&nbsp;__&nbsp;] reindeer what light bars
+bars where i stay you [&nbsp;__&nbsp;] can't go there oh bars bars bars bars
+bars i love that i every single time i pop out my chair when when they say that
+oh boy i love that song so much all right cool
+uh we made a new post that was going to bother me
+when i have a bar in my brain i can't remember it has to come out i have to
+stop everything all right cool so we added we had it rico nasty
+
+02:04
+what was the actual request though what did i do to make the request
+it is a it is a post but what did i do to like make that post happen
+like what did i do yeah i clicked the submit button
+so when i click the submit button that form submit it
+right when i click the submit button the form
+submitted and a bunch of stuff happened when that form
+submitted so let's talk through what happens when a form submits cool
+let's go back to our slides real quick just because we have this nice little
+handy dandy graphic here so it wasn't a url it was the submission of a form
+
+02:05
+and when i made the submission that made what kind of requests
+when i submitted the form what type of request did i make
+yeah i made a post request to the server all right i made a post request to the
+server now there was some code that was set up to hear the post request
+from that form the code that we wrote ahead of time
+that was listening for that request coming from the form was part of our
+what was where was that code called there was something in that code that
+could hear the post request yeah it was our api and we had a specific
+post request just for that form i'll show you in a second how we could have
+multiple forms and how we can listen for posts from different forms we'll get
+there in a second but we made a post request from the form
+
+02:06
+and we had a route set up to hear that request now when it heard that request
+what did we do we heard the post request what did we do yeah
+well something really interesting when we sent that post request from our form
+we sent a lot of data along with it we sent a lot of data along with that
+form whenever you submit a form you're sending a lot of information
+not only are you sending like what was in the form right you're sending a lot of
+information about your browser like what version of chrome you're running you're
+sending like sometimes your ip address cookies all this stuff gets sent and
+
+02:07
+it's this huge request that gets sent to the server
+right there's a lot of data that's part of that server
+right a lot of ideas part of that sorry that's part of that request that gets
+sent along right and so if you ever like wondered like
+how people like know where you are or like whatever like any of that stuff
+like every single time you make a request you're not just like making a
+quest you're sending all this data along with each each request your fingerprint
+exactly not only yet your user agent any of your
+advertising cookies your tracker is exactly right all this stuff gets sent
+with a request and people store this right you can store that information you
+can see like all right request came from this ip address it was this version of
+chrome it was this um these plugins that were installed right
+and the interesting thing is like you can like pretty uniquely identify people
+not even based off of their ip address but by like what version of chrome what
+
+02:08
+operating system what fonts you have installed developers and designers stay
+getting got because we have really unique sets of fonts on our machines and
+all that gets sent right and so the cool thing is
+we can actually look at that request and pull the crap out of it that we want
+right browserleaks.com exactly try browserleaks.com it'll show you
+everything that's being sent with the request pretty neat um
+but a part of this request was what what two things were we really concerned
+about with this request this time though what two things were sent with that
+request yeah we we had some data that got sent
+along we sent along their stage name and
+their birth name along with this request right and so the interesting thing is
+
+02:09
+uh inside of our app.posts the very first thing that we have to do
+is pull that data out of the request right we have to pull that data out of
+the request and once we have that data from the request
+what are we going to do with it we're going to send it to the database
+and we're going to create a new what in our database we're going to create a new
+one in our database yeah we're going to create a new
+document remember this is our wrappers collection
+we're going to create a new document inside of this rapper's collection
+that has rico and what was their their birth name maria
+
+02:10
+that's a really pretty name maria cecilia simone kelly it's a beautiful name um
+so they put rico and maria inside of that document right
+so the request came through we grabbed the data out of that request
+we sent that data to our [&nbsp;__&nbsp;] database
+where we created a document that had that data
+and then what was the last thing that we did there's one other thing we did
+when we were done sending everything to the database we were done creating the
+document what did we what did what did the what do we tell the browser to do
+yeah we told the browser everything went okay it's time for you to refresh
+
+02:11
+and when the browser refreshed it made a what it made a get request
+the get request did its thing it went to the database but this time when it went
+to the database when it went to the database this time
+there was one new document for rico nasty
+right there's one new document in there right and when we passed all that data
+to the ejs this time instead of doing four allies
+instead of doing four allies we did five lies right because now there's an extra
+document it's no longer four allies there's now a fifth so we create sorry
+fifth document so we create a fifth li in that ejs that ejs spits out the html
+and we respond with that html right so it started off with a post and
+we ended up here charlotte 98 our car lot car lot in 98 thank you so much
+
+02:12
+for the hydration cheers to you salute my friend minty fresh it is costco had it
+jasper there is no timer we're at the end of stream is that a flex
+i think jasper's just flexing jasper's like i can i got so many channel points
+i can i can put up timers when there's no timers
+he's like ah hey look at me splashing out these channel points
+you gotta like that huh jasper oh boy all right so we ready to see the code
+if you remind me next class we can do it on the first one but y'all chat has to
+
+02:13
+remind me all right you ready to see the code
+jess was like nah it's okay i got it like that i love it [Laughter]
+he's like nah we good [Laughter] y'all the best
+give vip yeah let's get beehive that was hilarious i gotta fight there we go
+
+02:14
+jack 20 jasper well jasper you got vip made me laugh
+now you now you can flex for real cool all right
+so let's take a look at the code remember we made a post made a post
+we submitted a form i cannot spell to save my life today i
+just could not spell i'm glad you couldn't see it
+i'm glad you couldn't see it i literally messed up spelling form
+all right so we submitted a form which made a post request to our server
+our server was set up to hear the post request from that form
+it was set up to hear the post request from that form
+it took the data that came along with that post request
+we sent that data to our [&nbsp;__&nbsp;] database
+specifically our wrappers collection we created a new document
+
+02:15
+right a new document that had that data in it and then once we were done
+we said all right refresh that refresh triggered the get and the rest is history
+let's take a look at the code all right so here is our post once again remember
+same stuff we've seen over and over again don't freak out when we see it
+right same stuff every single time in here we have
+the same stuff we saw with the get we're just going to do
+things that are a little bit different all right things that are a little bit
+different can we avoid the page refresh yes but
+that's something we're going to get to later i want to i want you to see i want
+
+02:16
+you to feel raw i want it to feel real i want you to to see the uh
+the the the the the the the what's actually happening underneath the hood
+oh this and it's jasper too my name's jasper no i'm not a rapper i'm
+just here to make my stacks grow faster now if you know what that's from y'all
+some real ogs hey i see you bark all right cool so the post request was made
+abracadabra abracada if you watch lunar squad
+abracadabra that's the best oh it's hilarious all right anyway let's get
+back into it we made a post request yeah it was odd
+
+02:17
+future it's from odd future yeah uh we made a post request
+once we hear that post requests come in we go to the database
+we find the rapper's collection and what do we want to do inside that collection
+what do we want to do inside of that collection
+we want to put a document into that collection
+and look at this beauty of a piece of look at this just look at it look at it
+i don't have to learn some new querying language
+i don't have to learn like how to do some fancy database stuff i literally
+say insert one insert one and whatever i put inside of these curly braces
+right whatever i put inside these curly braces
+
+02:18
+that's what gets put into the database that's it that's what gets put into the
+database right i can put anything i want in here let's let's clean this up
+let's make this do something really wild let's just let's just inside of here do
+jasper vip that's it we're gonna do jasper vip that's it
+we save it let's restart the server i might have made some other changes
+that'll break this but let's see all right let's go ahead and run this back
+let's put anything we want into this um into this thing here gonna say test test
+right test test right all i've typed in test test but
+
+02:19
+let's go to our [&nbsp;__&nbsp;] database and take a peek
+look what's inside of our database jasper vip right
+there's a refresh button there is yeah that's that's it that's what we put in
+there if we look let's go back let's take a look we we submitted the form
+we submitted the form we went to the database we found the rapper's collection
+and we inserted a new document that had jasper vip in it that's it
+and then we told the page to refresh right when the page refreshed
+we made a get request and it didn't know what to do like our ejs
+
+02:20
+didn't know what to do with jasper vip because our ejs was looking for stage
+name and birth name and it just was that wasn't here so the
+ejs didn't know what to do with it but the beautiful thing is it didn't break
+it just it just rolled with the punches like i don't know and kept moving
+it's beautiful like it's so flexible i feel like so um so many folks get
+really kind of like they get they get really like um
+they get they they get really tight about this stuff but it's so flexible it
+just like lets you do what you want to do and
+it's unevennated exactly right it it it just kind of gets out your way and it
+just it's oh it's just beautiful i really love this stuff like i really
+really do and i i hope that i'm doing at least a somewhat okay job
+of like showing you like how cool and like
+
+02:21
+not too wild this idea is right like we we
+we heard the post requests just like we heard all the other events right
+just like we heard a get just like we heard anything else we've seen so far
+but now we can hear a post right and now we're going to go to the
+database we're going to go to the wrappers collection and we're going to
+insert a new document right a new document that we have full
+control over we can put whatever the heck we want into there right
+we can put every whatever the heck we want into there
+but this time we just chose to put jasper in there
+right we could put whatever the heck we want in there but we chose to put that
+so let's take a look at what we did actually have there in the beginning
+stage name birth name and likes what i am doing here is i am crafting
+
+02:22
+the document that's going into our database right i am crafting
+the document that's going into our database and i am literally
+giving it its property and value property and value property and value
+remember how i said that so much stuff gets sent with that request
+well one of the things that we can look at when that request comes through
+is this thing called the request body right
+is the request a body it's just stuff that gets sent along with the request
+and part of the stuff that's getting sent with that request
+
+02:23
+is anything that came out of the form so to understand what's happening here
+we have to look at the form okay let's take a look at the form
+and i want to show you here in our form here's our form let's take a look
+the form has an action of add wrapper notice that action is the same
+as our route that's how we could have different forms
+that are all looking for different posts right we could have as many different
+forms as we want right and the way we tie our api to a specific form
+
+02:24
+is that the route is the same as our action okay the route
+and action have to be the same look look the action on the form is add wrapper
+and the route on my post is add wrapper right that's how we connect them we
+connect the form and the route via the action cool
+now let's look at the actual form itself and you'll notice that we have two
+inputs how do we differentiate between the two inputs
+well they both have different name properties whatever name i put there
+is how i can get that data from the request remember this form is
+
+02:25
+going to submit and we're going to send all the data with this
+request right this post request look we're even telling it it should be a
+post request we're going to send all this data with the post request and
+inside that data will be something called the request body
+and that body is going to have a stage name property and a birth name property
+once we look at the request we're going to be able to grab that stage name
+and that birth name i know that's a jump so let's let's see it
+let's see it let's actually see the request and let's actually see the body
+as well let's go ahead and do it so let's do the request i was going to
+console log the request just so you can see all the wild stuff
+all right so first i'm just going to console.log the request just so we can
+
+02:26
+see it okay all right let me restart my server here
+we're running on port 2021 we're connected to the database
+um let's go ahead and and um add a wrapper here excuse me
+all right let's go ahead and add a wrapper
+um somebody give me a wrapper who should we add all right
+i'm just gonna pick my own thank you though
+uh baby keem there you go i don't know why they popped into my brain uh baby
+keem i don't know what their real name is
+
+02:27
+so let's go ahead and look up baby keem real quick you got got all right wow
+cool copy come back to our application here
+all right let's submit all right so i submitted my post request right
+i submitted my post requests the request came to my server
+and we should have been able to console log the request look at all this crap
+that came along with the requests look at all this crap i'm not even gonna
+go all the way up but look at all this stuff that came along with the request
+all this stuff and at the very end at the very end what do we see
+
+02:28
+we made a sim we submitted the form right submitted the form right
+all this data came along with the request this is what express is doing
+express is handling all of this for us
+we don't have to know [&nbsp;__&nbsp;] about this
+express just does it for us like what what right we need thicker wires
+we do all this data is being sent along but at the very very bottom
+the very very bottom we see this we see this part of it and it's just an object
+right it's just an object that's being sent right
+at the very very end we see an object that has the property of body right
+has the property of body and inside of that body we can see stage
+
+02:29
+name and birth name uh key value pairs here why or sorry how did we get this
+key of stage name and this key of birth name where did those come from
+we can see that a part of the request we got this request body
+but where did stage name and birth name come from
+the form exactly if we go back and look at the form
+if we go back and look at the form if we go back and look at the form we
+can see that the first input had the name of stage name and if we look
+the first property is stage name and we saw the second input had the name
+of birth name and we can see that the second property is birth name
+so when a form submits it is making a post request
+
+02:30
+right it is making a post request and all of this information is being sent
+with that request including a body property that has the information
+that came from the form itself and so the cool thing is we can yoink
+and grab these values out of this body object right
+out of this body object and so if we go to our server you can see that's exactly
+what we're doing look at this look at the request grab the body property
+and grab the stage name out of this what the part i have highlighted right
+now what does that actually like result in what is that resolved to if we looked
+at the request we went to the body we grabbed the stage name what is it what's
+
+02:31
+the value there it's the same thing as me plugging in baby keem exactly and
+if we come down here to birth name it's the same thing as if i had plugged in
+this bit here so now the cool thing is when i go ahead and i insert the document
+into my database when i insert the document to my
+database it will now have the stage name property of baby keem it'll have the
+birth name with the value of jamal carter and then it also has this
+right here likes right did that likes come from anywhere or did
+i just hard code it did lex come from anywhere
+yeah i hard-coded it i want each of my um
+
+02:32
+each of my wrappers that have likes next to them so i didn't get that from like
+the request body or anything i just hard-coded it so the cool thing is like
+we could hard-code any value that we want to put into into the document
+right anything i want to put into that document i could hard code here and
+that's why when we when we go and look at our actual database
+and i refresh it i think this was actually running right
+we're gonna see that there's a likes of zero hard-coded as well
+right so we got the stage name and birth name from the form
+and i also hard-coded likes cool so let me go ahead and undo this real quick
+and why just real quick why why am i not going
+
+02:33
+to hard code baby keem why am i not going to hard code their birth name here
+why do i have these kind of like variables that are pulling from the
+request body yeah so i can reuse it over and over again i want i want i want
+to i want to be able to submit every rapper into this form right i want to be
+able to submit request after request after
+request after request right i want to be able to sit there and make requests all
+day long with different wrappers right and so if i hard coded they would all
+just be baby keem no matter what i put into that form if i hardcoded baby keem
+here it would just be baby keem every single time we don't want that we want
+to be able to reuse it right we'll be able to reuse that code over and over
+
+02:34
+again cool all right let's go down here it's gonna chill my server for a second
+and clear this all right let me i'm gonna get rid of this console
+so we don't blow out our console every single time save this
+go ahead and restart the server just so that it's running
+right connected to the database beautiful now the very last thing
+the very last thing i went ahead i inserted that value into the database
+what's the last thing that we do look at our response
+so far we saw a response to send a file we saw a response for some json
+we saw a response for rendering some ejs but this response is a redirect
+
+02:35
+back to the main route which triggers exactly i see you in chat you refresh
+it triggers a refresh and so once it refreshes we actually make a
+get request right we make a get request this time we go to the database we go to
+the wrappers collection we find all the documents that are inside that wrapper's
+collection we turn them into an array we pass that array into the ejs
+and this time there is one new document or one new object in that array that
+we're passing in for baby keem we plug that into our egs there's more lis now
+this ejs spits out an html file and we respond with that html file that has
+the wonderful baby key minute and it all happened so fast like we're on
+
+02:36
+we're relieving ourselves and and codes flying around the interwebs and
+it's going to servers it's doing all this stuff it's going to database and it
+comes back like what that's wild it's magic but you now know how to do it so
+that make you you're a wizard a code wizard a magician [Laughter]
+you're a wizard harry code weenie no you're not a code weaning until you
+start going i don't know about this ejs leon
+i don't know i'm gonna be using pug you know what i might i might just skip all
+this and go straight to react that's when you become the code we need
+
+02:37
+for now for now we're all wizards we'll take that all right
+one more thing one more thing let's let's just
+we got like two minutes but i'm gonna go let me go like three or four minutes
+over three more minutes and then we'll then we'll do a raid
+all right three or four minutes and then we'll do a raid
+i just want to talk about the delete real quick
+and if we got the get we know the post right the the get's not too too wild okay
+knox is like that's bingo all right let's take a look all right
+how can the user how can we delete something let's let's say goodbye to
+
+02:38
+baby keem boom baby keem went away all right baby keem went away
+what what heard that click what heard that click on the trash can
+the smurfs our event listeners our client-side javascript heard that click
+what's the only thing that we know of that can make a request from the client
+side what's the only thing that we've used so far a fetch
+so if we actually go ahead and look at this um lovely main js
+right if we look at this lovely main js what we'll see is that
+it actually makes a fetch we can see this fetch here i'm
+using the lovely async await syntax right look at that ooh sexy right it
+
+02:39
+makes this fetch and what type of fetch do we tell it to make
+this is coming from the client-side javascript right that heard that click
+look we're inside of a click event right the same click event that we've always
+seen this is exactly the same code that you use for your fetches don't get wild
+out here right it's a fetch but we told it to be a delete
+so the fetch name is delete wrapper and we told it to be a delete so if we
+look at our code we have a delete on delete wrapper so our api
+set up to hear this delete request right so we made a fetch that was a delete
+request to the server that request that delete request made it to the server
+right made it to the server no one's saying delete anymore made it to the server
+
+02:40
+our api had a route that heard that delete request
+right remember with the fetch was a delete fetch it had the path already
+right we heard the delete and when we heard the delete what did we do
+when we heard the delete what did we code it to do please so last year
+on i'm in shock this all makes sense to me hey i'm glad it's making sense
+yeah it went to the database it went to the database and it deleted
+the document from our collection of rappers
+and once it removed that document from the collection of our rappers what did
+it what did it do it told the browser to refresh
+and when it refreshed that made a get request the get request went to our
+
+02:41
+database but when it went to the database it was missing this other
+document that document had been deleted so when it passed the data to the ejs it
+was missing one and it sent that html as a response
+so when we delete something we're literally just going to the database and
+deleting that content from the database and then telling the browser to refresh
+and when the browser refreshes it goes to get all that data and it's missing
+something and that's why we don't see that data in the html anymore
+let's take a look at the code and then we'll do a raid here it is
+our api was set up to hear that delete that was coming from that fetch request
+we went to the database we found the rapper's collection and we told it to
+delete one what it's i don't have to learn a querying
+
+02:42
+language i literally just say delete one what and then i tell it what to delete
+i tell it to go and find an object right find an object
+find an object that had a stage name of baby keem
+right with my delete request i sent some data
+right just like i did it with the post but we did it from the fetch i sent some
+data right and i then went to my database i found
+someone that had the stage name of baby keem and that is what got deleted from
+the database since it's a fetch since it was a fetch what was the fetch
+
+02:43
+waiting for what was the fetch waiting for
+it was waiting for some some sweet sweet sweet response probably some json a
+promise right so what are we gonna do we're gonna hit that fetch
+with some json as a response and if we go back and look at the fetch once it
+heard the response what did it do once it heard the response
+it refreshed and when it refreshed when it refreshed that triggered a get
+we went to the data went to the server we heard the get we went to the database
+that last document was missing we passed the data into the ejs it spit out the
+
+02:44
+html the html was missing that baby keem and we sent that html missing baby keem
+why is the refresh now client status at a server side because we made a fetch
+and this fetch has to what this fetch has to has to what
+it has to resolve the fetch has to resolve and so we know that we're
+responding back to this fetch once we hear that response we just tell
+it to refresh right there eventually we'll handle this stuff
+asynchronously we do other things but for now i really want you to be able to
+see it like step by step to see what's happening so
+tonight we dove deep into the getting we dove deep into the posting right
+
+02:45
+we we we hinted we hinted at some uh lovely lovely deleting or delay taying
+right we hit we hit on some delay teying right and so
+what we have left to do now is to when we come back on thursday
+dive a little bit deeper into this deleting i don't think we're fully there
+on the deleting right we're gonna dive a little bit deeper into the deleting
+we are going to see the updating we're gonna see the updating and we're
+gonna talk about all the accessory code that makes this work so on thursday
+we're jumping right into it right jumping right into it we're gonna see
+the updating we're gonna see the deleting in more detail and we're gonna
+see all of the extra stuff that's making this work just so we can get a feel for
+it in the follow-up to this uh when i follow up to the message on on discord i
+will send you this repo for homework please for homework
+
+02:46
+i would love i would love if you went through made sure you had your
+[&nbsp;__&nbsp;] atlas account if you haven't done the homework maybe
+take a peek at it and then start playing
+with this code the goal would be to make your own app and get it on heroku but
+you don't have to do that yet just start playing with the class you have to
+actively recall after this class there's no way that this stuff makes
+sense uh unless you are actively recalling so please actively recall
+make sure that you are reviewing this maybe catch the vod again right
+play with it play with the code see if it makes sense maybe try connecting your
+database right see how that goes and then on thursday we're going to run it
+all back we're going to run it all back we're going to see the
+last part which is the updating and then we're going to take our two-week
+well-deserved break so please please come on thursday i really want to see i
+really want to drive these points home that way if you choose to work on your
+
+02:47
+apps during the break you can but you're there folks you are there you are there
+you have the ability to build full stack web applications even if you just hung
+on to like 30 50 of what's happened tonight you're there
+it's not much more after this we're gonna plug in some little things here or
+there but you're there you can do it you
+are a full stack web developer all right
+so let's bring it home on thursday let's make sure we can do the rest that we
+need to do and let's go ahead and do a raid uh polaroid was in here yesterday on
+last i think maybe office hours or on thursday
+they were in here helping folks out so let's let's go over to them and say
+what's up all right queuing up the raid have a wonderful rest of your night
+folks i hope you are doing well i hope that you will take what we learned
+
+02:48
+tonight to build amazing things i know you're going to do that let's go ahead
+and raid peace everyone you're doing great i don't care if it's
+clicking 100 or 10 you're doing great you're showing up and that's more than
+most folks can say let's raid

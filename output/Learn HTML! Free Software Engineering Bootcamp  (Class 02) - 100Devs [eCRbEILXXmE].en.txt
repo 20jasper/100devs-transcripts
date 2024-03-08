@@ -1,0 +1,2257 @@
+
+00:01
+
+00:02
+history [Applause] i'm ready to be beyonce today ready to be beyonce today now
+the question is are you good morning good afternoon good
+evening where you coming from hope you all are doing well let's go
+what's going on everybody hope everybody's doing well hope you're ready
+for another class uh bobby bangers with the sub bangers only that's how we
+start each stream what's going on everybody let's get in here hey
+we we we got the slow chat on tonight so maybe a little little little a little a
+little easier tonight maybe in the chats
+
+00:03
+to read the things but welcome everybody hope you all are doing well
+rufio what's up what's going on everybody hey so we got a question tonight
+we got a question the question tonight is rob what's going on bringing the whole
+gang let's go thank you for the raid we're returning
+the favor we're coming right back as soon as i see you live after we're done
+we're coming right back what's up everybody hope your stream
+went well thank you for joining us we're all uh we're all ready to be
+beyonce today so thank you for stopping by thank you for being here
+what's going on everybody all right so the question the question in chat today
+to start us off as folks get in they get the stream right they get the volume up
+is would you rather win a bronze medal at the olympics or be a recurring actor
+
+00:04
+on one season of a somewhat popular netflix show so give me give me like
+actor or or metal what do you want actor or metal
+we should start doing polls for this that's wild all right you know it's kind
+of mixed it's kind of mixed it's kind of mixed we're seeing actor
+we're seeing metal we're seeing both i like it you know what i'm gonna go with
+i'm gonna go with i was gonna say metal metal came out so
+easy like it was about to flow out the tongue but i don't know
+what's what's what's going to last longer
+the olympics or or netflix i don't know see why people go an actor i don't know
+i think actor be more fun i feel like i had to do more to get the medal i feel
+
+00:05
+like that's a lot of late nights early mornings a lot i'm a big boy i'm a big
+boy that's a lot of moving actor that's it that sold it
+sponsored by domino's pizza actor it is for me welcome everybody
+glad you're in here rob thank you for the raid what's going on all right so
+tonight we got a lot of stuff in store last class we set the stage what does it
+mean to be a software engineer what's the opportunity that's in front of you
+what is the internet what was the beginnings of html and
+tonight we continue that so we're going to lay down our first lines of code
+together by the end of this stream you will be a software engineer you'll be
+writing code with the best of them and so i hope you're ready for it
+
+00:06
+a lot of y'all came back i'm glad you're here don't tell the wife
+welcome back everybody all right let me bring up the uh the slides here we're
+gonna go a little leon cool so agenda tonight every single stream
+we are going to get our spaced repetition in
+we're starting from the beginning and these first couple classes we're
+building up the steam right for some of you this might be a lot of
+review for some of you this might be the very first time
+i care about the folks that are starting from zero the very first time you can
+always push yourself if you want all right so we're gonna start at zero we're
+gonna get our space repetition in but i promise you
+i promise you it picks up steam it gets faster it gets harder but we start at
+
+00:07
+the beginning and we get our space repetition in all right
+after we get started i'm going to open up some time for some questions after we
+get started we're going to review the client server model the basics of the
+internet how do we make those requests and receive those responses what the
+heck is going on hey what's up thank you so much for the get the subs
+after we review the client server model we're jumping into the basics of html
+we're viewing those tags we're seeing some new ones we're seeing what's
+changed with html5 once we kind of learn the basics
+you're going to get the first chance to get your fingers on those keyboards
+right to get your fingers on those keyboards and start coding an actual
+assignment while we're live after that we'll show a few more html
+tags we'll talk about another important rule last class we learned about
+
+00:08
+separation of concerns this class we're going to learn about progressive
+enhancement and then i will leave you to the raid and then to your homework
+sound good we feel good you ready to get into this all right every
+stream i like to start off with some questions so if you got a question
+you got a question for me now is the time to ask the question this just gives
+folks a few more minutes to get here if they're running late they had to grab
+the the cheetos and they're running they're they're they're they're opening
+up the computer they're slamming to get in here
+what's a raid jesus said what's a raid at the end of each stream we go to
+somebody else's stream just to spread a little bit of positivity
+uh give them some follows and say what's up
+what is your headband uh my headband is a buff
+it's actually like what like it's like a like a like you get rei like hikers use
+it like to keep away mosquitoes but i just like it it doesn't keep my hair too
+
+00:09
+tight do you know of any coders with dyslexia
+yes i absolutely do uh one of my most more recent rc students had pretty
+severe dyslexia and where we actually were able to come up
+with a lot of tips and strategies on how to like work around that and they wound
+up getting a phenomenal job so if you ping me in the ask leon channel
+with just say like dyslexia resources i'll i'll share them out but yeah
+definitely doable ibrahim in the house hey thank you for the gift of subs
+how do you use anki uh we'll share some some videos that i think will be helpful
+but we're also going to do it in class so i'm going to show you my anki decks
+we're going to break it all down we're going to do that next week together
+question if you miss class are you screwed no
+immediately after class the vods are available
+and then each weekend they go up on youtube we have to have a little bit of
+
+00:10
+delay before the videos go up on youtube because we're partnered here on twitch
+any partners uh any any folks here that are hearing impaired yes we have quite a
+few uh just as a note you can turn on closed captioning on twitch you can also
+turn on closed captioning on available god please no no no
+don't pay for anything if you are here please do never pay a dime for anything
+i will never ever give you a resource that you have to pay for
+right that that you had to pay for anki is a completely free tool
+
+00:11
+you can use it for free on on mac os windows gnu linux android
+however if you want the app on ios there is like a 25 version of that app do not
+buy it you can use there are other free ones you can get or you can use the web
+version i use the web version a lot and the web version is completely free
+please don't ever pay money the whole point of this experience is to
+go from complete beginner to employed without paying any money to get there
+you'll see a lot of folks are subscribing a lot of folks giving out
+gifted subs i appreciate that that goes to a donation to the nonprofit i work at
+during the day that does not go to me there's no way for you to give me money
+i want this to be a completely free experience so
+if i ever give you a resource there sometimes are paid components to them
+but you don't have to like with our learning how to learn there is like if
+you want the certificate you can pay for it please don't do that completely
+
+00:12
+unnecessary all right one or two more questions we're going to jump into it
+will we learn how to practice on our own
+absolutely we're going to build up to it though a lot of people love to come out
+the gate super hot right and they they they
+really i mean and i understand it right a lot of folks they're up against the
+wall and coding is the way out i understand it but i'm gonna i'm gonna um we're
+we gotta realize that this program is a jobs program okay let me say it one
+more time this is this is not necessarily a coding program this is a
+jobs program what the heck does that mean well if underwater basket weaving
+
+00:13
+if underwater basket weaving let me get big if underwater basket weaving
+was a high-paying career if it was consistently ranked
+one of the happiest professions if you could learn it for free and you
+didn't need a degree my ass would be on this stream with with
+hold on i gotta get it this would be stream this would be it
+this is what we'd be doing for the next 30 weeks
+right we'd be sitting here this is how you do it folks this is called a cross
+weave this is a this is a top sectional this is a fiber material uh this this is
+this is the top of the line of basket weaving technology however thankfully
+
+00:14
+that is not the case it just so happens that
+being a software engineer and full stack web development is the path to a
+high-paying job that is consistently ranked one of the happiest that
+you can learn for free and you don't need a degree so let's not get it twisted
+that's why we're here folks that's why we're here cool all right
+let's jump into it this isn't a programming course it is a
+programming course let's not get that wrong like we got to learn it to get to
+the end goal but um there are lots and lots of programming courses out there
+that let's be real are way more in-depth probably cover way more material
+that um are harder that may even be completely free
+
+00:15
+but they're not geared to get you a job if you're just here to learn how to code
+great hang out have some fun but this is more than just learning how to code
+i have been teaching people to how to code for 10 plus years
+and across those 10 plus years i have done things the right way i have done
+things the complete wrong way i've given resources that have helped people get
+closer to their goals and farther from their goals but
+we're at a version of that where i feel pretty confident
+and that i'm just giving you straight bangers i said we only started with
+bangers today we're going to keep that going throughout the entire course i'm
+not going to give you material that won't help you
+i'm not going to give you material just because i think i should assign it i'm
+giving you material that i've literally seen help others get to their end goal
+of knowing how to code and being confident enough to get a job as a
+
+00:16
+software engineer i'm cutting out all the fluff
+i don't care about being 100 correct i don't care about teaching the
+the the the thing that should be like no i'm teaching the thing that's going to
+help you get the job and i'm going to make it so that it's a way where you can
+pick it up you can absorb it you can digest it and you can put it into practice
+hundreds of other places you could go if that's not what you want that are
+probably better harder easier to to sit through that that but no
+what i've seen time and time again is that there's too much crap
+it's not distilled and there's no body there to help that's what we're here for
+cool all right let's go back to little leon here
+we got a lot of stuff to catch up on tonight uh remember if you are here i would
+
+00:17
+appreciate you checking in please you can do exclamation point check in
+uh the check-in is also always in the discord messages that you get uh that
+link will take you to the tweet please go ahead and give it a retweet go ahead
+and give it a like and uh that really does help the community grow it does
+help other folks find us so that hopefully they don't wind up paying
+hundreds and like hundreds of dollars thousands of
+dollars to learn the same stuff they can learn here for free also this is
+a practice you want to get into twitter is going to be a really
+important tool for us as we continue on that networking piece that we talked
+about on tuesday twitter makes that a lot easier uh so when you check in
+you're using that 100 devs hashtag you can find each other
+you can follow each other you can start to build that network of folks that are
+going to help jorgen gave me the posture check all
+
+00:18
+right there we go get a nice little posture check
+somebody says i have heterochromia i do have heterochromia how would you see it
+maybe i want the big leon means one of my eyes is a different
+color than the other that's wild thanks for paying attention all right
+we're making a lot of changes and there is a lot of y'all
+a lot of y'all showed up and a lot of y'all came back i'm so happy that you're
+taking this journey with us but it is definitely a surprise and so
+give us a little bit of time to make things a
+smooth and comfortable experience for everyone you can see that we made some
+changes here on uh on twitch we're using slow mode we're making sure that if you
+joined us recently so like if you're brand new to the stream uh you have to
+
+00:19
+have been here for a few minutes before you can start chatting you'll notice you
+can only really send one message every 30 seconds so we're going to be playing
+with those we're going to dial it in we're going to figure out what works
+what doesn't work right and we're gonna make some changes right
+we're gonna make some changes to the twitch and then we're gonna make a lot
+of changes to discord uh so this weekend this saturday expect it to be wild on
+discord uh we'll be getting rid of some channels adding a lot of channels and
+making it easier to use threads and to find the things that you want to find
+but we're going to make it nice and neat and easy for everyone and so give us a
+little bit of time over the weekend myself the mods are
+working really really hard to make this a wonderful experience for you uh we're
+blessed to have so many people that are tuning in to join us on this experience
+and build this community and build off the community we built before and so i
+asked for a little bit of time a little bit of grace we're going to get there
+with you now one of the other really exciting things that are coming up
+
+00:20
+and one of the big things that people keep asking me so i wanted to throw it
+out there at the beginning and that was hey leon
+i want i want like a smaller group i want to i want to get to know people
+better uh why can't i have like this type of group or that type of group
+we're working on it uh next week we will
+have a survey that will go out to all of you
+and you'll be able to select what type of group you want to be involved in you
+they're going to be like study groups like a smaller microcosm of the 100 devs
+community where you can get to know each other better work together and so we're
+gonna have it across different time zones uh different kind of languages
+affinities uh groups so that you can all come together and you're all gonna have
+your own space on the discord so you'll have your private text channel your
+private voice channel so just know that that's coming hopefully that'll make it
+easier for you to make friends and to to find the community
+
+00:21
+that you deserve here on twitch and discord so just know that that's coming
+uh that'll start happening next week and then this weekend expect a lot of
+changes on twitch and discord remember we have our office hours on sunday so
+i'm excited to see you all there remember office hours are not required
+it's just a time for us to come get questions answered we're going to use a
+slightly different format where you can upvote the questions so the only bangers
+get answered but yeah so lots of changes to be had because a lot of folks showed
+up but we're happy that you're here now i have one major ask i commit
+hours upon hours each day to answering you all on discord like a lot of time
+i don't know if you've looked in that ask leon channel but i i just go in
+waves and i respond to as much as i can now
+
+00:22
+the the the ask i have of you is that you please only put
+questions into the ask leon channel on discord
+don't respond to other folks don't say even like thank you just put your
+questions lady thank you for the hydration lady raff thank you
+just your questions uh don't you don't have to say thank you
+don't do any responses and the reason why is because i need to be able to bang
+through each of those questions right and be able to answer you as quickly as
+possible so please keep keep that channel sacred
+in a little bit of a way right just your questions uh just um no responses and
+make sure that it's like a question that only i could answer right so
+if it's like something general about the
+program when do i submit something where do i do this there are plenty of other
+100 devs channels that you could ask those questions in where you're going to
+be able to get the help that you need all right i think uh folks found that
+
+00:23
+the gift itself makes sounds and now they're using them so it's going to turn
+down my sound there we go cool what am i drinking i'm always
+drinking tea most likely on on stream cool all right thank you so much for
+that i appreciate that thank you now a big question that came up a lot
+between now in class was homework when's it due ah
+how do i turn it in right well don't worry
+homework is always due a week after it is assigned so on on tuesday
+you were assigned the two videos by ali abdal and you were
+assigned the coursera course learning how to learn all of that is due next
+
+00:24
+tuesday let me say it again watching the two videos and the entire the entire
+coursera learning how to learn course not just the first week the entire course
+please do not do the essays and do not pay for
+the certificate but it's all four weeks because it is straight heat it is the
+thing that will be the difference maker in your time with us here at 100 dose if
+you can learn all those tools tips tricks and put them into practice each
+class you're going to be a lean mean studying machine and i want that for you
+so that's why i sign it now the expectation
+is that you're putting in at least 10 hours a week outside of class time
+say again expectation right is that you're putting in like 10 hours a week
+outside of class time so that means those two videos
+
+00:25
+and that course easy peasy right you should be able to get that done
+and notice i'm not giving you like really wild programming assignments yet
+we're not there yet we're gonna work our way up to writing code and getting that
+kind of being the main focus but it's so much more important that you lay a
+foundation of learning how to learn before you
+ramp up in terms of your technical knowledge
+yeah slow degree said two hours a day yes remember we don't chunk our time we
+take a consistent approach so many folks start that journey to learn how to code
+and they're they're on the starting line and they trip and that's it
+they had a brief moment where as they were crashing into the ground they were
+studying and then that was it don't burn out don't trip out the gate
+
+00:26
+be beyonce all right oh before i also move on is that the
+homework that is assigned today will be due next thursday so you're going to
+have some extra work that's assigned today that is due next thursday so next
+week some of those 10 hours are going to be doing not only the homework through
+tuesday but the homework due thursday as well now some of you
+well you all came back so that means something
+right we lost a few folks that's that's expected right we're going to lose some
+as people figure out like is this experience for me or not
+but you came back so that's great and for some folks when they start to hear
+all of the things that have to get done right they start to hear all right leon
+i need to watch videos i need to do homework i
+
+00:27
+need to do all these things you're standing on the tip of this hill
+all right you're standing on the tip of this hill looking over into the trough
+of sorrow and you all have a decision to make i can't make that decision for you
+you all have a decision to make right do you want to become a software engineer
+and are you going to commit to the process what it takes to become a
+software engineer i can't make that decision for you
+what i can do over this week and next week is present the opportunity to you
+i presented it on tuesday we're going to present it again tonight
+but what i can tell you is that i have helped hundreds thousands of people
+go on this journey i know where you're going to get stuck
+
+00:28
+i know where you're going to hit a roadblock and i'm going to try and make
+it as smooth as a process as i possibly can so if you're standing on top of you
+doomy hill and you're looking over and screaming know that you are in good
+company now i have a secret to tell you i tell you my secret in your arms
+i have a secret to tell you i'm going to show you something on my github
+github is a place that you can store your code so you can share with other
+developers on my github i've and don't you all do this this is
+this is this is for other people on my github i've had this for a very long time
+if you're learning how to code i'm happy
+to build you a custom learning plan that takes into account your strengths and
+
+00:29
+what you want to learn this has been on my github for a while
+but i've also made this promise to lots of folks
+at my day job i run a boot camp called resilient coders and we have hundreds
+and hundreds of people that come to learn how to code
+at resilient coders we used to have open office hours before the pandemic where
+anyone from the city could stop in meet us and i would build them out a
+custom learning plan now what i always told these individuals was hey
+i will happily build you out a custom learning plan i will build out the next
+couple weeks for you i will meet with you every week we'll go through it
+together we'll make sure you get unstuck when you get unstuck but here's what i
+want you to do first here's what i want you to do first i want you to do
+
+00:30
+the first segment of free code cam i want you to do the html and css all
+the way to that first that first project do it and when you come back to me
+i am going to build you out a full plan i will be your mentor i will meet with
+you week by week by week okay i gave that promise to hundreds of people
+let's say out let's say the first hundred out of the first hundred people i made
+that promise to just do this first section of a of a program
+come back to me and we'll work out the rest out of that first hundred
+how many you think actually came back to me with it done
+some people already know how many out of the first hundred that i
+
+00:31
+gave that promise to how many came back to me with it done two now
+that's nothing against free code camp i love free code camp i think it's a great
+way to get some some practice in but it speaks to something bigger
+it's that a lot of folks come out the gate wanting to learn how to code
+but something happens something happens something happens that stops them
+
+00:32
+from getting to the thing that they wanted people are saying stress
+sadness burnout they're so the devil there are so many things that will stop
+someone from being successful at learning to code even if they really wanted it
+and we talked about some of the solutions to these problems but i have found
+a method that increases the success rate
+of that gambit that i've given to people so the first thing
+that helps people when i give them that first assignment to actually get through
+that trough of sorrow to get through that initial push of wanting to learn
+how to code that very first thing is community if they don't have community
+they don't come back the students that would come back to our
+
+00:33
+like open office hours every week those were the ones that actually continued on
+the path to learning how to code right it was the folks that that knew
+when they sat down the room they were around other people even if they didn't
+talk to a single person in that room just being in that room knowing that
+other people were grinding out learning how to code that energy
+right that made them more successful so community
+was one of the very first things that i saw
+that unlocked the ability to actually get over that initial hump of learning
+that's why all of us being here together is so important
+right it's why us coming together on tuesday thursdays and sundays is important
+
+00:34
+it's why discord as wild as it is right now is so important
+there's a reason i don't use a forum there's a reason why we make it so that
+it's live there's a difference when you're with
+folks that are going through the same experience there's a difference when
+there's folks that will help you get unstuck and there's a difference just
+when the energy is in the room and so i am glad that you came back here
+i'm glad that you want to go on this journey together
+and i'm glad that you found us because we're going to work tirelessly
+to build a community that supports each and every single one of you on that
+journey to learn how to code so that that two
+
+00:35
+is a number that i don't ever have to talk about again now
+we talked about the other things last class that help folks make it to the end
+and screw making it to the end let's make it to next week first
+so many folks come out the gate should i do this tutorial should i do
+that tutorial i'm freaking out like there's so much on the line
+let's let's just chill for a second let's get the next week
+we got 30 of them let's let's get the next week first
+let's get the next week first you'll have plenty of time to go chase
+that thing in that thing let's focus maybe for the first time in a while
+let's focus on one process one way of doing things and let's do it
+together so that we can make it to next week and the next one and the next one
+there are lots of other things that could take up your attention that could
+
+00:36
+suck up your mental energy for learning but what i'm telling you is i have laid
+a path that has helped thousands of people learn how to code
+and hundreds get jobs and i'm gonna keep saying that you don't need to take my
+word for it i make these claims i check the weather and it's real hoppy outside
+i always check the weather when i make these claims it gets real real hoppy
+outside and so what i want you to do is to not to not take my word for it but
+go to the celebrations channel don't spam in the celebration channel but go
+to celebrations channel i pinned 50 folks that got jobs
+that were celebrating this community that we're celebrating that this
+community was the thing that helped them get across the finish line
+so don't take my word for it literally just go to celebrations channel
+
+00:37
+look at the pinned messages that are in that channel and i pinned 50 of them
+you know why there's only 50. know why there's only 50.
+there's only 50 because that's all it lets you pin i could keep going baby i
+could keep going i could keep going but that's the limit
+that is the limit that's all they let me do so that's what i had to do that's
+what i had to do they said they only get 50. that's what i had to do
+
+00:38
+i pinned 50 because that's what i had to but guess what there's more [Music]
+go check all right that's all i got to say about that
+i pin 50 because that's all i could pin only bangers we don't get got all right
+so we talked about community we go get exactly we don't get got we go get
+around here all right 10 50 what so i went into the
+celebrations channel and i pinned every person that mentioned getting a job and
+celebrating this channel so don't take my word for it
+ignore the ops go take go take a look for yourself all right
+now the the other things that we talked about that get you off of this
+this hill of of damnation we talked about community being one of
+
+00:39
+the secrets but it's that idea of managing frustration right
+all of you all are about to get frustrated like real frustrated
+there there's there's no way that you make it through this program
+without being at a point where you want to give up
+every single one of you're going to hit that point
+and the difference between folks that make it from here to the end
+are simply individuals when they have the privilege of being here don't give up
+now the next thing we talked about was that consistency
+making sure that we're not chunking our time we learned
+we learned right we learned that if we chunk our time if we just
+
+00:40
+study all day saturday that that is less
+effective as a study habit than it is to spread out our learning each day
+no chunkers there you go and the last thing that i see folks
+time and time again trip up on is they don't take care of themselves they don't
+take care of themselves they they burden themselves with having to juggle
+14 different tutorials and feeling like they got a grind leak code until their
+eyes fall out they're staying up until three o'clock in the morning because
+they got a code code code when they would be way better off
+having stopped six hours ago had some tea given a light stretch and gone to bed
+so give me give me a couple weeks give me a month
+give me a month to paint a picture at the end of the month if you're like
+
+00:41
+screw it leon i don't like this you can go it was free you can go but i think if
+you give me that month to show you that you can manage that frustration
+that you can be consistent that we can create a space where not only you are
+learning but you are taking care of yourself i think you're gonna find that
+maybe for a lot of you it's the first time that a lot of this clicks now
+part of that consistency right part of that consistency is making a plan
+you gotta make a plan you gotta make a plan for how your days
+are gonna be structured a lot of folks wake up and go into their
+day like an accident you can't do that anymore
+if you're committing to becoming a software engineer and learning
+
+00:42
+everything that it takes to get to that job within these 30 weeks
+you got to wake up with a plan so what i do is every month i plan out my month
+every sunday i plan out my week and then i plan out every single day
+my google calendar i wish i could show it to you every single day
+has exactly what i should be doing and where i should be
+if it's not on my calendar it does not happen
+and that's that's a symptom of some of the issues i deal with day to day but
+for me that's the that's the way that the plan works
+so one of the things i want you to do this weekend is to make a plan
+what are your days going to look like when are you going to study
+what works for you right and then you must realize that you might
+have to get some other folks involved right a lot of you have partners or a
+
+00:43
+lot of you have family or a lot of you have
+jobs or other responsibilities you got to plan that in you got to have those
+conversations with those that you care about saying hey look
+i'm committing to these next 30 weeks because i think it's the best move for
+myself for you for our family for our friends and so i'm gonna need some time
+some of you might actually have to ask for that time because it's not a given
+some of you might have to realize that studying in the morning is way easier
+than studying at night and so make a plan
+if you want to be one of the folks that make it to the end they all had a plan
+they didn't go into each day hoping to find the time to study that time the
+study was already on their calendar and that calendar was already shared with
+
+00:44
+their partner cool now talked about the the other kind of
+little tricks that i've noticed that help folks get through the beginning
+stages of learning how to code community is the biggest managing frustration
+being consistent with a plan being consistent with a plan
+taking care of themselves getting good sleep hydrating
+every single one of my resilient coders cohorts
+every single one somebody goes to the hospital
+every every single one we've ever taught somebody's gone to the hospital
+every single one and it's always because their hands start to hurt
+their hands start to hurt they start to get really serious pain in their
+forearms and their wrists and their fingers
+
+00:45
+and that's always because when i said this very important thing
+take care of yourself they don't do it so when we take those breaks at the top
+of the hour please take that break get out from your chair
+right if you're able to walk around if you're able to
+make sure you're letting your eyes focus on something that is not what you'll be
+focusing on let your hands relax shake them out give a little bit of a light
+stretch i'm going to share some videos next week on the stretches that i do to
+stay healthy i'm a big boy but i still stretch every day i have a
+a split keyboard a rollerball mouse like i i take this seriously and so
+that taking care of yourself is a lot it's it's understanding
+that what you're about to do you might not have ever done before
+hitting all those accessory keys makes your fingers move in ways that unless
+
+00:46
+you have some people play saying they played piano unless you play piano
+you've never really stretched your fingers in those ways you've never
+stretched your forearms in those ways it is a serious
+toll on your body so you have to take care of yourself
+right you got to get that sleep in if you want memory consolidation to happen
+so they've made a plan they're taking care of themselves and then here here's
+a cheat code ready for a cheat code tell someone i want every
+single one of you right now to tell someone that you
+are becoming a that know [&nbsp;__&nbsp;] that that you are a software engineer
+and that you are committed to learning web development over the next 30 weeks
+tell someone if you don't have someone to text or call
+put it up on twitter put it into the void all right tell someone i'm serious i'm
+gonna stop right here i'm gonna put the tunes on
+
+00:47
+go ahead i'm gonna put a timer up i'm gonna give you a minute
+you want the chico this is it it's that commitment tell someone go for it
+i'll wait you're a software engineer you're
+committed to learning web development tell someone
+oh oh [&nbsp;__&nbsp;] i didn't even realize hold up [&nbsp;__&nbsp;]
+
+00:48
+that was not intentional all right got 20 seconds left to tell someone
+done i see a bunch of duns nice all right there we go
+all right let's come back you told someone beautiful
+that was the first cheat code you ready for the second cheat code
+i gave you the first one telling someone does something to our brains where we
+have to be more successful are you ready for the second cheat code
+here's the second one [Laughter] now tell everyone tell everyone put it public
+
+00:49
+go on your your your your instagram your twitter whatever it is
+tell everyone i'm serious whatever social media you use the most where the
+most people that care about you will see it put it
+software engineering my journey becoming a full stack web developer do it
+put in your bio live that life i'm going to give you another minute for this
+you got that you got so i'm telling you you asked leon what are
+the tricks what are the secrets there's there's there's i guarantee you
+at least a thousand of you that are not going to do this and in a couple weeks
+from now when times are getting tough and you're like leon my brain's just not
+working why can't i sit down and study more it's because you didn't do this
+right now my students that share publicly what
+they're doing their aspirations the things that they're working on they
+
+00:50
+succeed you got got i'm gonna be with you got cop don't you take the 20 seconds
+hold your family good twitter bio is updated wonderful
+kimberly's boyfriend looked at them sideways that's all right you'll see
+kimberly they're going to see they're going to realize wonderful
+that's the secret folks that's the secret you put it out there
+people now know and here's the beautiful thing about this
+you will be surprised how many folks are in your network that are also software
+engineers or that needs somebody to build a website to do things so the more
+
+00:51
+you put it out there the more that comes back your way
+now you're a little bit more accountable you've built up some things here that
+are that are in your favor all right you've built up some things
+that were in your favor you're committing right you're committing to a community
+a community that you're going to support
+and then in turn is going to support you you're committing to knowing how to
+manage your frustration or at least working on it knowing that in the moment
+when you are frustrated there's something that you are going to work on
+you're committing to consistency and a plan for each one of your days to learn
+how to code you're committing to the idea of taking care of yourself
+not over extending taking breaks when you need them or should take them and
+getting good sleep you've told someone you've told everyone now you got to do it
+
+00:52
+and on the days where you feel like you can't do it guess what we're here to
+help all right last class we saw uh the amazing amazing
+active recall uh anybody get a chance to watch the videos yet they're amazing i
+hope you got a chance to watch them already if not you're in for a treat
+this weekend active recall the idea that i can do a fourth of the work
+and get better results is mind-blowing we know that if you were to just
+read something once and then actively recall the things that you learned
+you were better off than rereading that material four
+
+00:53
+times four times folks you're better off once and a recall versus four
+times come on now now here's the real question
+we had a lovely raid phenomenal raid rav is one of the best people on this earth
+always in our discord helping everyone but after that raid the active recall
+did you actively recall the things that we learned yes i'm looking at you
+you right there in the back right there did you actively recall
+because if you didn't you [&nbsp;__&nbsp;] up if you didn't
+you [&nbsp;__&nbsp;] up so that's all right it's all right all right it's cool
+all right it was the first one you didn't listen to me that one listen to me now
+when you go through these classes remember we're not taking notes we know
+
+00:54
+that's an inefficient right it's an inefficient study habit but probably
+taking questions is a really good idea right so taking questions so that at the
+end of stream right at the end of stream you can go to the raid have some fun
+hang out i'm always hanging out post raid and then when the raid's done you
+feel good you look through your questions right you look through your questions
+and you actively recall now today right today right
+today you're gonna get into more material right you're gonna get into more
+material and so today it's really important that you do actually actively
+recall post class you could have got away with it a little bit last class but
+no more classes will you be able to get away without actively recalling okay
+
+00:55
+and that's because learning to code is a cumulative career
+the things that we learn today are things that you're going to have to
+put into action next week the week after
+months from now years from now and so we have to flatten our forgetting curve
+right now if you put in all the work if you watched all the videos if you
+paid attention the whole class you actively recalled after that class there
+is still a good chance that by day eight you forgot everything
+there's a good chance even if you did everything right you came you took
+questions you actively recalled right all right there is still a good chance
+that in eight days you will have forgotten something and so we need to
+flatten our forgetting curves right we need to flatten our forgetting curves
+
+00:56
+and make sure that you're using some sort of space repetition tool like enkei
+enki will stop this forgetfulness from happening
+and so please when you make your plans this weekend and you're setting up your
+days for studying and for class don't forget to include anki
+i can't use it unless you show me leon no
+that's not how this course is gonna work you are all gonna get super powers
+your ability to google will be next level your ability to figure things out will
+be next level and then when you really have given it the good old boot camp try
+right when you've given it the good old boot camp try you've researched you've
+
+00:57
+put in the work and you can't figure it out and you come to discord we'll be
+there to help you all right but you got to take control
+all right you got to be the type of person that solves the problems that
+comes their way because that's what a software engineer does
+we solve problems that have not been solved before and we get paid good money
+to do it so you need to start practicing that
+right you got to start practicing that every day
+now i'm not going to skip the good stuff or the big stuff we're always going to
+have classes on it we're going to have a class on anki
+but please before you say oh what about this what about that give it a try get
+into that mode of researching exploring trying to figure out on your own before
+you come to the community to get unstuck it's freeing right it's being freeing
+
+00:58
+all right there's people saying like start already leave
+go don't you don't have to be here but close your eyes like take out your
+headphones and like walk away uh this is called spaced repetition
+if you were here last class you know what we're doing
+every single class is going to be like this
+right every single class is going to be like this where we spend a good 30
+minutes plus reviewing because folks here are starting from the beginning
+you can go do some other tutorial you can go do some other stuff if you want
+you don't have to be here skedaddle leave sayonara i i don't need you here
+because every single class guess what we're going to start off
+by actively recalling getting our space repetition in and in
+
+00:59
+the beginning it's going to be a third of class as we get further into the
+course guess what we don't need to repeat as much
+right you don't have to repeat as much if you don't want to be here don't be
+here i don't know why you're here go i'm looking cute today that's what it is
+that's all it is folks i'm looking cute today
+it's my my raw animal magnetism that's pulling them in
+they're staying here for that i understand i get it you came here for the code
+you you met me and now you're in love and like you just can't go away so
+you're you're frustrated you don't know how to handle the the
+the the feelings that you have right now that's okay we're here for you
+
+01:00
+but uh you can just close your eyes that's all you got to do alrighty
+alrighty now to continue our space repetition i got him [Laughter]
+got him to continue our space repetition and we say bye-bye we got him oh
+and we say bye-bye to continue our space repetition
+um we are going to talk about what is the internet we're going to review the
+basics what the heck does a front-end web developer do what does a back-end
+web developer do why are we software engineers but also full stack web
+developers so we're going to review that but before we review it
+it's top of the hour this is the top of the hour we must stay healthy
+must be beyonce we must take our break so let me go ahead and slide
+
+01:01
+up the five minute timer here we're going to take our full five minutes cool
+put some tunes on please if you are able get up stretch move around
+go to the bathroom say hello to your loved ones i don't know
+play with your your rubik's cube whatever whatever gets you going during
+the break to get you away from the screen moving around let your eyes focus
+on something else and we'll be back in four minutes and 38 seconds
+cool all right folks uh please take that break i am going to take the break
+
+01:02
+
+01:03
+
+01:04
+
+01:05
+myself and i will see you soon if people want bob you'll get bob you um so my do
+you how are you liking the eagles chances this weekend
+i don't really follow football i know i'm a bad philadelphian
+i don't really follow sports honestly other than like rugby
+basically my grandfather calls me and keeps me up to date
+i'm from california is the philly cheesesteak that good it's the best the
+best of the sandwiches by far bill's on 24th street best cheesesteak
+spot in philly mods if anybody says something other
+
+01:06
+than phil's in 24th street give him a light band
+something he'll eat a real flu cheese steak do you fancy ponyta's
+there was um a meta a couple years ago that was like the rapid dash and like
+the ponyta meta there was a meta deck that was really good
+my google calendar is much more busy now let's go all right folks come on back
+come on back uh you can actually see if you do estimation point pokemon
+in chat there is like the list of pokemon cards that are available for um
+channel points and i send them anywhere in the world
+
+01:07
+it's another bunch you can see that you can see what's on the list there
+all right folks come on back hope you had a good break
+yeah hold on let me see if i can grab the list here
+yeah so we can see here we got some good ones and these values are way off now
+like way off in terms of value i have no idea what these cards are worth right
+now but we got some some good cards here we got like the full
+the full legendary sets which are pretty cool um
+i used to run a typhlosion deck that was really like a big deal in one of the
+older metas um so i got a bunch of like the good typhlosions yeah so there you
+go something some other fun things you can
+do at channel points if you would like remember channel points you just get by
+being here so the more you're in stream the more channel points you get
+and uh when we do raids if you do the raid you also get channel points
+
+01:08
+favorite pokemon is bulbasaur all right let's get back into it folks we got a
+lot of stuff to get to tonight and so i want to make sure we we cover it all
+let's come on back come back from your stretches grabbing your water and let's
+go through this together all right so last class we talked about what the
+internet is so chat what is the internet a wire it's wires series of cables
+how i get milk series of tubes wires across oceans yeah
+it starts off with a wire right and we can actually look at these transatlantic
+internet cables and see them so we got these like big beefy cables that lay
+across the ocean and we can see that there's a bunch of
+them all across like connecting all the countries together um
+these were like originally telegraph cables like the first people to do that
+
+01:09
+and then like eventually they became fiber cables and other wonderful stuff
+now and so there are a lot of these right these are
+there's a lot that we know i'm sure like high frequency trading firms and like
+um other governmental agencies have their own as well but there's a lot of these
+cables that connect around the world in fact there was this trading firm that
+ran a cable from new york to chicago just to get a better connection which is
+pretty cool and so we have these wires that we can send data across
+and the idea of the internet is that we can have this system that relies on
+top of this protocol called http and it's a system where we can send requests
+and get responses and it's a system where we can make requests from our
+client-side devices and get a response from our server what type of code
+runs on our client-side devices that we know of so far what type of code do we
+
+01:10
+know that runs on our client-side devices html css javascript yup these are all
+client-side like all code that runs on the client side and so someone that
+specializes in that html css and javascript the html that we're going to
+be writing today somebody that specializes in that html that css.javascript
+what would we call them like what would be their job title
+yep they'd be a front-end web developer right they're a web developer developing
+stuff for the web but if they focus just on the client
+side they focus just on the stuff that runs on our phones or tablets or
+desktops in the browser we would call them a front-end web developer now
+those devices make requests to our servers and our servers do a lot of
+stuff the primary thing that a server does is it listens for those requests
+and there's some code that's running on it that knows how to respond to those
+
+01:11
+requests sometimes it hears a request from our client
+side device and it needs to talk to a database or it needs to process a credit
+card or it needs to just respond with some things right so the code that runs
+on the server if you focus just on that what type of developer would you be
+someone that just focus on stuff that runs on the server yeah
+you'd be a backend web developer and then just the last question here if you
+worked on both the server side and the client side both the front end and the
+back end you consider yourself a what a full stack web developer and that's
+exactly what we are to be here we are full stack of developers now
+if you're someone that can write code conduct yourself as a professional knows
+the tools and systems behind the code that you're writing maybe knows a little
+bit more about the the math and the the the efficiency of the code you're
+
+01:12
+writing what would you call yourself you would call yourself a software
+engineer exactly so after today we will all be software engineers that focus on
+full stack web development right you just told your friends that's
+what we're doing here we're trying to become full stack web developers right
+we're already software engineers but we're going to focus on full stack web
+development we could go write code for robots we could go write code for
+refrigerators we're focusing on a skill called full stack web development and
+the reason why we're focused on full stack of
+development is solely because of job demand right now there is an overwhelming
+amount of demand for web developers specifically folks that
+know the front end and the back end and the beautiful thing is you only need to
+learn one language and that's javascript because javascript works both on the
+front end and the server side by something called node right
+
+01:13
+so there's this beautiful window open right now where we don't have to go and
+learn ruby and rails we have to learn python
+we can learn javascript and write code both on the client side and the server
+side it's a good time to be alive folks all right now last class i said
+separation of concerns was the golden rule the most important thing that i was
+going to teach you right why is this rule so important why do we
+why do we want our html separate from our css our css separate from our
+javascript why is that important yeah for organization exactly when we
+come back to our code a month later we wanted to be able to go to a place and
+figure something out right you want to know where to go
+if we're working with other developers we want to be able to tell them where to
+
+01:14
+go and look to find things so if i said to you hey i want to make my
+pizza ordering app right i want i want to be able to drag the ingredients onto
+the pizza shout out dominoes right i want to drag those ingredients onto
+the pizza what what technology am i using yeah i'd be using javascript and if
+domino's comes out with a new ingredient that
+they're now making available to all their pizzas
+and they have to update the content on that website
+what technology would we use to list that new ingredient
+yeah be html nice and if that new ingredient is blue
+all right if it's blue i don't think i can use green if i use green i think
+it'll get chroma keyed yeah that's green it's just chroma keyed
+outside the green screen behind me so if it was blue or green do blue get chroma
+keyed no it's interesting it was blue or
+
+01:15
+green what would we use yeah css cool so if domino's
+adds a new ingredient that content that's html
+if that content is gonna be blue or green that's css and then if they wanna
+make it so they can drag it onto the pizza that's all javascript
+we learned some stuff last class look at us look at us chat hey
+proud of you keep it going keep it up all right
+we also learned the beginnings of html now we we briefly mentioned
+that html and css are not really programming languages they're what we
+call markup languages uh alan turing modern grandfather of computer science
+had this completeness test that said if you give a language like an operation
+and you get a response back then you might be dealing with like a
+programming language so if i was to give html two plus two
+
+01:16
+i'm never getting four back if i was to give css
+five plus five i'm never getting 10 back but if i was to give javascript i don't
+know three plus three it's gonna give me six back all day long right and so that
+makes html and css not full programming languages but rather markup languages
+but they're all languages the same and just like any language there's gonna be
+spelling and grammar rules that that language has to abide by like when
+you're writing spanish you have the enyes right like when you're learning
+other languages you might have special characters right that you could use each
+language has its own spelling grammar punctuation that makes it up
+when we're talking about markup languages and programming languages we call that
+syntax right so each language will have its own
+
+01:17
+syntax thank you mac thank you for the hydration cheers to you
+each language has its own syntax all right now the beautiful thing about html
+is that we have an opening tag and a closing tag
+every bit of content that you have on the page must be wrapped in tags
+and sometimes those tags we give them a little bit of like a super power and we
+call those super powers an attribute value pair
+for today and next week we won't really have to worry about too many of these
+attribute value pairs there are kind of like two that we're going to run into a
+lot when we have links that link has to go somewhere so there will be a special
+attribute value pair for that and then when we get to images they're
+going to need like a source that shows you what image to show so outside of
+those we won't really see too many and today we're going to cover the basic
+
+01:18
+tags that you need to be successful for building pretty much any website
+we're gonna learn about 15 tags today they're probably around like 30 that i
+use day to day and there are a bunch more there is a wonderful website however
+called the mdn the mozilla developers network it's by the people that make
+firefox well they have this documentation for html css and
+javascript it's actually linked as part of your homework on discord but anything
+that you would ever want to know about html is on this site and it's beautiful
+it's perfect it's always good and so you're gonna typically keep the mdn open
+while you're working on this stuff okay jasmine don't worry we're gonna we're
+gonna talk more about those actual value pairs give me a chance to show you one
+
+01:19
+live cool with w3school suffice no get out of here run absolutely not
+absolutely not so what happened with w3schools
+is remember we talked about that world wide web consortium the w3c that certain
+burners lee created well w3 schools just kind of like took that name right
+and built out like their site and when it first started it was horrendous
+like it was really bad and they always had wrong stuff on there they didn't
+update it and so it was just it was just bad all around
+and it was the bane of my existence because they had really good seo it
+always showed up but it just led my students astray
+they over the past few years have like modernized it and made it better but
+they don't get a pass they [&nbsp;__&nbsp;] up they ruined the web for a
+
+01:20
+while so it's over we're not making up they're done so no get out of here
+mdn is where it's at we also took a quick we took a quick peek at this
+first kind of throw at html i didn't want you to type any of this stuff i
+just wanted to show you some html and we were kind of running out of time
+so i went a little bit quicker day ops exactly raised
+adam to add them to the ops list uh we we added some html here you can see
+that all of my content right all of my content is wrapped in tags
+there's not any text that is not wrapped in tags you can see
+that everything is wrapped in these lovely tags right
+this is vs code yep yes code now we have here this last paragraph
+
+01:21
+and this last paragraph is appropriately wrapped in that paragraph tag remember
+each tag that we choose has a rhyme and reason like the purpose behind why we
+would pick that tag anybody remember what what that's called
+like the purpose or the rhyme and reason behind why we chose that tag the
+specific word for that yes semantics the semantic meaning yes
+so this was a big block of text so semantically it is a paragraph so i
+wrapped it in a paragraph tag beautiful now if we were to read this paragraph
+however let me read it if you would like real-time answers to
+your questions please join our discord here what the heck does here
+
+01:22
+sound like what is what should that be a link yeah it should be a link so in
+html we have a tag that handles links okay we have a tag that handles links
+and so that tag is an anchor tag so i'm going to go
+ahead i'm going to open up my a tag then i'm going to go around the text
+where i want it to close and then notice how the closing tag
+simply the only differentiation is that it has a lovely forward slash so the
+open tag and the closing tag are the same except for that forward slash however
+remember we talked about those super powers
+right we talked about how sometimes we need our tags to do a little bit more
+right we need our tags to just be able to do something a little bit extra and so
+our anchor tags which are for our links has an attribute value pair that we can
+
+01:23
+use i don't like this uh go into the new
+line has an attribute value pair that we can use right that is called an href
+so the href equals and then inside these quotes
+i can put the link so our discord link is https forward slash forward slash leon
+noel.com discord right that's the actual link to our discord now the text right
+the text that will show up in the browser and don't worry about following
+along right now i'm just showing you you shouldn't be typing anything
+right you're here to absorb right now right what you'll notice
+is that this text here will still show up however when i click on it it'll go
+
+01:24
+to this link that's the power of having an attribute called an href our anchor
+tags or our link tags can have that href that'll take the user somewhere now
+something interesting about this page right now this page is not saved
+can anyone in chat tell me how i know i have not saved my work
+what does href stand for it stands for hypertext reference
+remember how we said that the protocol that the internet uses that http that
+hypertext transfer protocol well this href is a hypertext reference it's old
+school it's how the internet works yeah this dot at the top right
+this dot at the top tells me that my start at the top tells me that my
+
+01:25
+file has not been saved right and so as soon as i save
+you can see that that dot goes away right as soon as that dot goes away
+i can't even repeat that but it's hilarious uh
+as soon as as soon as we um save that dot goes away
+and we are able to now go ahead and open this uh
+go ahead and open this in our browser so irish you already have it open and if i
+come over here and i refresh we'll notice that this here right this here
+right this here is underlined and like purple or blue why the heck
+is this like underlined and purple why the heck is
+
+01:26
+the the h1 big bold black and beautiful much like myself why is that all there
+what happened yeah that's automatically coming from the browser
+remember how we said the browser wars back in the day on tuesday every browser
+is kind of fighting to be the best well there are still some things that
+browsers do by default and if you are a front-end web developer
+this is one of the things you have to think about when you start a project
+there are many ways to handle this problem of having not written css we
+didn't write any css we didn't write any css
+so this shouldn't be happening this is one of the things that uh we have to
+start remembering i like to call these money problems
+because they're problems but that's what makes us the money because we know how
+to fix these and as we go on i'll show you how to fix these right now however
+
+01:27
+when we write html do i care how it looks
+let me say it one more time when i write html do i care how it looks no i don't
+i'll be able to fix all of that right i'll be able to fix all of that
+when i get to css right when i get to css i can go ahead
+and fix anything that looks the way i don't want it to look right
+and so what i want you to make sure that you're doing right
+is make sure that when you're writing html right when you're writing html
+
+01:28
+do not care what it looks like we'll get there with css cool
+all right so we looked at that about page and um
+what you're going to notice is there there are some rules
+when it comes to html right and one of the things you might be saying
+is leon who cares who cares if i use the semantically
+appropriate tag like why does that matter right why does it matter if i use
+the semantically appropriate tag well there are actually three big reasons
+why you should care about writing semantically appropriate html like
+picking the right tags and using them correctly
+one of the first reasons is that if you do not use the appropriate tags
+and the appropriate attribute value pairs your content might
+
+01:29
+just not render so for our general users if you're not using the regular tags
+right if you're not using the regular tags you might not give your users a good
+experience things might break they might not be in the right spot and so using
+the appropriately semantic tags means that your general users are going to
+have good content displayed the way that you wanted it to be shown
+now the second set of users we want to be concerned about are folks that may be
+using accessibility devices folks that may be consuming the web in a way
+that the general public might not we're talking about things like screen readers
+things that make it easier for certain folks to use and consume the web
+if you are not using the appropriate semantic html tags things like screen
+readers have a more difficult time moving through the content of your page
+
+01:30
+right and then the last users that we want to be concerned with are web
+crawlers we want to make sure that when google tries and comes and figures out
+what our site is about so that it can list it in the search engines right we
+call this seo search engine optimization if we do not use the appropriate
+semantically structured html tags google will not rank your content so
+i like to say we have a moral reason and a greedy reason
+morally i hope everyone in this person every person in this community cares
+about accessibility and uses the correct and appropriate html tags so that folks
+have a better experience on the web but then there are also greedy reasons
+first the greedy reason is that you want your website to rank in google and if
+you're not using the right tags it won't show up in google and then the
+other greedy reason is that individuals using accessibility devices is a large
+
+01:31
+portion of the internet you have a lot of your customers future consumers of
+your content that are using accessibility devices and if you don't
+use the right tags they won't be able to enjoy it so
+pick which one you care about but remember you are all
+newly united developers of the web it is
+your job to go out there and do good and with this information that is your
+mandate cool now we'll we'll cover more accessibility stuff as it goes on um
+for today we're not going to go too deep into it but we're going to have a full
+class on accessibility all right now i would like to take a look at some
+tags remember we said every html tag has a specific
+reason right that it would be used and so we want to look at some tags and see
+
+01:32
+all right in what situations would i use that tag what is the semantic reasoning
+behind that tag when we choose tags to write in our html it comes down to two
+things it comes down to the semantic importance behind that tag and it comes
+down to the importance behind that content right
+so folks are having some trouble with the closed captioning we'll have to
+figure that out when we take a break i'll double check
+alrighty now this right here was a uh this was a youtube rabbit hole for me
+right this right here we're gonna look at some tags and i don't mean this type
+of tag i mean like the html tags and so the
+this was a pretty deep youtube poll this
+is this is like a weekend or two of just consuming content this is competitive
+tag imagine if the sport of tag had a full community
+
+01:33
+an audience and brought in all the best free runners and parkour specialists to
+play tag yes the ocho exactly uh it's amazing i
+watched every single episode i could find on youtube so tonight i'm not
+talking about competitive tag i'm talking about html tag
+got the store army in here i see y'all all right so
+here are the first set of tags that we're going to look at
+all right here's the first set of tags we're going to look at
+we'll look at heading elements these are called heading elements you've seen
+heading elements all the time heading elements are the elements on a
+page that describe all the content that comes after it so if you've ever been to
+like say a news website you're typically going to have like a heading that
+describes the article that comes after it right
+
+01:34
+and so when we're looking at our content we might have multiple headings
+throughout the page and there are six kinds of headings you
+can have an h1 a two a three a four a five or a six
+typically the most important content on your page the thing that describes the
+page the best or whatever else is to come that heading gets the h1
+right so if that content is the most important
+how many h1s do you think we should have yeah
+you should have one h1 it is the most important thing on the page so you
+should have one now there's that this is this is how i know
+that i know you're watching there's just somebody that literally
+when i said there should only be one h1 this is what they did they went
+only on i don't know i don't know about that there is this one
+
+01:35
+there's this there's this edge case there's this edge case technically with
+html5 semantically each section could have its own h1 like that that's that's
+changed now like that's different they couldn't contain themselves they're
+like they're literally yelling at the screen right now
+they just they just can't contain it um that that they're all there they had
+they had to hit up stack overflow yet today like it just boiled out of them
+they like it just fell out their mouth they couldn't they couldn't hold
+themselves back yes the codeweenies i don't care about them
+it's not the time to nitpick we're all here trying to get the general picture
+there will always be edge cases right there will always be caveats to
+the things that we're learning but when it's day one of html on your
+journey to become a software engineer
+you don't need to give a [&nbsp;__&nbsp;] about any of that
+release yourself feel the weight come off your shoulders to not write perfect
+
+01:36
+code we love we love to write vomity code here
+right we love to write vomiting code i'll bring this little this little logo
+up whenever i'm writing vomit code because i just don't care
+remember this isn't this isn't a coding tutorial this is a jobs program
+i'm trying to get you to have a wide breadth of knowledge that you can use to
+build out a series of amazing projects to get clients and ultimately get the
+job they're going to be some things that are chunky vomity that don't look good
+but i don't give a crap because i rather you learn than become a codeweeny
+and if you're not okay with that that's fine
+some people have to be perfect they have to be right but that's an awful lot of
+energy to expend when you still don't really know that much about html
+
+01:37
+let's get the job done let's get our sites built
+right and then we can worry about being perfect i really like to
+hearken this to learning a language some people will sit there and study the
+conjugations of the word to be for five hours instead of having a conversation
+with someone you're way better off having a
+conversation than you are sitting there conjugating in the dark room by yourself
+don't be that person get the wide breath of knowledge be able
+to build be able to bring things into existence to make things exist that did
+not exist by the end of this class you will be able to build basic websites
+it doesn't matter if you got the semantic update to html5 that
+
+01:38
+sections can include h1s cool all right cool so we can also have
+h2s threes fours fives and sixes and the way we know when to move from a
+two to a three is based on the importance like how important is that
+heading as opposed to another so sometimes you'll have twos then you'll
+have threes because that content is less important than the other cool
+now we have some other tags that we are going to learn tonight and
+some of them we've already kind of seen we have paragraphs which are for large
+blocks of text we have spans which are for short pieces
+of text so if you have a big block of text right that would be a paragraph if
+you have a small piece of text that would be a spam like that's what you're
+going to wrap it in as a span and then we have the pre tag which is an
+
+01:39
+abomination it should never be used it should be yeted into oblivion
+and let's just move on like leon what's a pretext so here's what a pre-tag does
+a pre-tag when you're writing out your html keeps all the white space the
+enters the carriage returns and all that stuff right all that stuff right
+all that stuff gets put on the site so all that spacing that positioning that
+movement that gets put onto your site if you use a pre-tag why do you think i
+don't like pre-tags why do you think i don't like pre-tags
+that's css there's nothing you can ever convince me that that's not css
+and that leads us to talk about nerd fights so
+at this point you're gonna start to realize that some of my opinions are
+opinions and here's the most beautiful thing
+about learning specifically front end or even any programming is that there's
+
+01:40
+often not a 100 correct way of doing things
+right for some folks that's very freeing and for some folks that's very
+frustrating the idea that there's never going to be like a 100 correct way of
+doing something what you're going to have is a bunch of nerds arguing over
+what is the correct thing right and so i bring this story up whenever i teach
+this class no one ever believes me this is a true story but i promise you with a
+true story i have lost a friend over the br tag
+so i was at a tech meet up with my friend
+uh we were a few beers deep eating some some good food as you'd normally do at
+tech meetups and uh got to talking somehow about the br tag
+i said the br tag introduces uh a space that's an abomination that's clearly
+style the hr tag puts a line that's clearly a border right and so to me right
+that's that's style there's nothing you're going to ever say to convince me
+
+01:41
+that introducing spacing pushing stuff away is not something that should be
+handled with css now was i right and they wrong are they wrong and i right no
+we both nerds at the end of the day yes now the beautiful thing
+is that really good engineers like really good entry-level engineers like
+the folks that are here watching the stream the best entry-level engineers
+that i've worked with do something very special they form strong
+opinions but they hold them weekly let me say that one more time
+they form strong opinions but they hold them weekly what that
+means as as you are writing your html tonight and as you are writing your html
+this weekend you are going to be tasked to pick the appropriate semantic html
+
+01:42
+tag and that will be your decision you have to come up with reasons
+why you chose that tag once you are on a team or working with
+other developers if they present a better way of doing something
+then you let go of that assumption that you've made that decision that you made
+when they present the better argument but you don't want to go into your code
+just like you're weak by accident you want to be making good
+strong semantic decisions and thinking behind the moves that you make now
+i'll say it i said it last class and i'm going to say it this one
+because there's a lot more people here friend
+you're watching this maybe the twitter went viral i don't know i apologize
+i shouldn't have raised my voice in the way that i did
+around the br tag i would like to be friends again so if you ever do happen
+
+01:43
+to see this send me a message let's go grab a beer even though that's
+where this started and uh maybe we can talk about all the new
+stuff that's coming out all right we got some other tags we got some other text
+if you see an m tag when you wrap content in an m tag it makes that content
+all right it makes that content look italicized
+and when you wrap content in a strong tag it makes that content bolded
+if you use an m or a strong tag did you violate separations of concerns
+but yes or no in chat for me please if you used an emmer strong tag did you
+
+01:44
+violate separation of concerns yes or no you're both right
+all of you are right if you wrote yes or no you're right let me tell you why
+you're right so if you used an m tag and a strong tag to
+make it italicized or make it bold you [&nbsp;__&nbsp;] up right
+we do not choose html tags based on how they are going to look
+the beautiful thing however is that m or strong tags do something else
+their accessibility tags what they do is they provide emphasis to
+words that screen readers can pick up on right so
+when you go to a website and there could be a banner at the top that's flashing
+red uh saying like warning like we've just been hacked or you go to a website
+and it's like flashing like yellow there's a sale there's a sale there's a sale
+
+01:45
+if you have the means to see the page you would be able to see that there is a
+sale going on right you'll be able to see that there
+is a sale going on but if you had a visual impairment you might not be able
+to see that sale so how do we convey to our users emphasis
+well that's where these tags come in the hand so if you use these tags
+right if you use these tags to provide emphasis to folks that might have an
+accessibility concern then you're doing the right thing but if you chose these
+tags based on how they look that violates separations of concerns
+now the beautiful thing is it just so happens that these m and strong tags
+make them look that way but we can always overwrite how it looks with what
+we can always write how it looks with what exactly
+
+01:46
+there we go chat here we go pop off css cool keep pushing here
+we saw this one last class uh an ordered
+list we saw an unordered list last class well the sibling to the unordered list
+is the ordered list an ordered list expects that every
+single thing in that list is coming in a specific order
+i always think a great candidate for ordered list are recipes
+right they are recipes because if i pour the brownie mix onto the pan put it in
+the oven for 30 minutes pull out the pan and sprinkle water on it i'm not gonna
+have good brownies they're not just not gonna be good
+brownies right there's a specific order to the brownies and so recipes uh smith
+said directions exactly these are things
+that make sense to be in an ordered list as opposed to an unordered list where
+it's still a list of stuff but there's no specific order to it
+
+01:47
+so think of things like a grocery list it doesn't have to be a specific order
+to your grocery list actually i found out there are some monsters among us
+uh last time i said that a grocery list doesn't have to be a civic order uh i
+got i got some people that reached out and they're like leon i make sure that my
+that my grocery list right is in the order in which
+i will move through the supermarket right like they put the things on their
+grocery list but it's like aisle by aisle does that who does that
+so in that case maybe it'd be an ordered list but that's the that's some next
+level efficiency there yeah they're playing 5d chests out there
+
+01:48
+owl thank you for the hydration hello thank you for the hydration
+oh that's hilarious all right containing elements a lot of what we're
+going to do on the web is like containing other content
+and the beautiful thing with html5 is that we got a lot of new
+containing elements okay we got a lot of new containing elements
+before html5 we kind of use divs everywhere
+and so if you were using it if you're doing a tutorial right if you're doing a
+tutorial and it's not a react tutorial and there are divs everywhere run
+it's not a good tutorial right we we we have it's been years
+we've progressed there are a lot better containing elements
+
+01:49
+okay there are a lot better containing elements containing elements that got
+rich semantic meaning now it doesn't mean that you can't use divs right let
+me let me make that clear it's not that you can't use divs it's just that we got
+all of these rich right we have these rich semantic tags that we can use instead
+right and so sections help us group like content
+so if you had some content that was all about liver frosted treats
+what the heck would be a liver frost retreat it just doesn't make sense but
+if you're grouping like content and that content is on
+a dog food website then it makes a little bit more sense so we got these
+sections that are probably going to be one of the bigger tags that you use it's
+a it's a container that's going to help us group all of our like content
+together we also got articles which are containing elements that help us contain
+
+01:50
+things that are meant to be shared think of like a newspaper article i
+could clip that newspaper article out and hand it to you
+and you would be able to read it and understand what the heck's going on you
+don't really need other context for it it might be helpful to know where it
+originated from but you don't need it so for content that's meant to be shared
+think blog post articles we got a new containing element called the article tag
+we also got a new tag called an aside and the side stands for ancillary or
+extra content according to the mdn it was originally created because back
+when the standard came out sidebars were all the rage remember
+sidebars so the aside was there the aside was there to help with sidebars now
+the semantic meaning behind and aside is for extra or ancillary content what do
+you think might be a good candidate for asides
+
+01:51
+what do you think is a good candidate for his sides yeah
+ads exactly ads ads are all really good candidates for sides beautiful
+we also got headers and footers headers are for content at the beginning of the
+document helps us group our content at the beginning of a document footer is
+for grouping content at the end of a document notice i didn't say top or
+bottom because that gets too close to css and there are some really interesting
+things like articles can actually have their own
+headers and footers so you're like leon what the heck does this all mean like
+what do you mean all these tags let's take a look at some websites and let's
+see if we can guess what the tag would be i need to like
+have like a millionaire sound that's like let's see if we can guess the tag
+all right so i really love khan academy and i love khan academy's website
+
+01:52
+if i was looking at khan academy's website what tag do we think this would be
+what could this be yeah in h1 now here's my question to you why
+would that content be the h1 more important question ah
+it's it's so good to see so some folks i saw some folks that slipped
+in here some folks said it because it's the biggest
+do we ever choose html tags based on how big or how styled they're going to be
+
+01:53
+does it matter where it's located does it matter anything about style no
+the reason why that would be the h1 is because it is the most
+important thing on the page that's what they want you to come here and remember
+right for every student every classroom real results if you think khan academy
+that's what they want you to remember right it is the most important thing now
+if i wanted to i could make it real small and put it all the way like in the
+bottom corner i could just like eat it over here right
+that would still work right i could use css to make it small and
+dump it down into the bottom right but if it's the most important thing i'm
+probably never going to do that but remember
+style positioning has no bearing on the html tags that we use cool
+we got three hydrates in a row uh burberry newbie
+
+01:54
+cleo thank you for hydration cheers to you
+and thank everyone for the subs tonight uh it's been pretty wild i appreciate
+you all that all goes directly into the emergency fund at rc so thank you
+all right how about this big block of text here what would that be
+that was weird yeah it's a paragraph big block of text
+full sentence at least it's a paragraph cool
+um we also noticed something here are you ready for this
+look what happens when my mouse moves in you see that hey
+turn up look that oh oh you can go fast too hold up
+what's handling that that behavior that interaction what would that be yeah yeah
+i looked at chad it's already flooded with javascript i love it yeah it'd be
+javascript there's definitely some javascript to foot here that's beautiful
+all right how about we come down here what about why iconic hat well actually
+
+01:55
+let's start here what would this big block be it's kind of like gray i don't
+know if you can see it but what would that would that block be
+what what tag would we use for that block
+yep that's a section that'd be a section and how about why khan academy works
+would that be definitely an h2 yep i think it's definitely an h2 um how about
+we come down here we kind of have like a no i was almost
+perfect too we have another box here right we have another box here what
+would that box be another box yep another section yep
+another section nice how about khan academy boost student learning
+what would that be oh this is like the first big point of
+
+01:56
+contention of the evening some people are saying two some people are saying
+three i would argue that that's another h2 i think to me to me right
+why khan academy works and khan academy boosts student learning
+to me that is equally important right to me that's equally important and
+so for me those will both be h2s right when we get down here
+right i'm finally able to truly differentiate my classroom that's when
+it gets a little bit less that to me h3 right that would be an h3 to me but up
+here these are both the same h2s and h2s right that would be mine
+we got paragraphs all over the place boom boom boom boom
+how about here how about districts whoop all right to the end
+
+01:57
+how about districts what could that be span i think that's a span yeah
+someone said how do you decide importance that's a phenomenal question that's a
+really good question how do you decide importance
+it depends on the team that you are on sometimes this will be up to you
+specifically also if like you're a front-end web developer you might be
+making those decisions by yourself sometimes you're working with a designer
+that gives you the design and the designer will say here's the hierarchy
+of the site this should be this should be that right
+sometimes you're working with a ux professional that would get their hands
+dirty with that stuff right sometimes you're working with marketing
+and somebody from marketing will come down in their their nice suit and say
+actually this should be an h2 this should be
+
+01:58
+an h1 like because of seo so the cool thing about being a front end web
+developer is you often actually work with a lot of different people designers
+user experience professionals marketing other folks on your team right and so it
+does really depend on who you're working with how big your team is who makes
+those decisions but you all need to start making those decisions for yourself
+you have to at the end of the day say from what i know about the semantics of
+the tags i have at my disposal this makes the most sense and we're going to
+see a lot of these over and over again this is your first time for a lot of you
+seeing these words hearing the words coming out of my mouth semantics tags
+that's that's that's scary [&nbsp;__&nbsp;] it sounds like a lot but don't worry
+we're going to see it over and over again we will get our spaced repetition
+in we're going to write some real code together then we're going to review it
+and then we're next we're going to do it again we got that we're going to do it
+
+01:59
+again we will always get our repetition in so if the very first time you hear a
+word it doesn't make sense that's your test that's your frustration test
+do you get frustrated and turn off the stream
+or do you stick it out you ask questions
+do you go to discord after and be like i had no idea what leon meant by span
+right that's it this is this is your this is your this is the moment
+right mom spaghetti right let's do so i think that's pretty interesting
+right like just looking at this site we saw that the site was mainly
+sections headings and paragraphs like we could probably do 70 of this site
+with just those three tags like probably 70 of this site
+sections headings and paragraphs like we could probably get there throwing a few
+
+02:00
+spans maybe an article like an anchor tag and we did it
+right like we got it and so yes these things are hard yes these things are new
+but it's really not that many right you're going to learn about 15
+today 30 over the next week or two and then you'll be able to lay you'll be
+able to build any site that you want in terms of content with the stuff that we
+learned today and next week so hang with me
+we're at the top of the hour so you know that that means a break when we come
+back you officially become a software engineer when we come back from this
+break your hands get on the keyboard you're gonna write some actual real code
+you're gonna earn that badge you're gonna earn the messages that you said to
+all your friends that you put out into the world so please
+if you're able get up move around hydrate let your eyes focus on something
+else we will be back together in five minutes
+
+02:01
+all right folks get up hydrate move around i'll see you all soon
+don't worry about the text editor yet take your break we'll come back i'm not
+
+02:03
+
+02:05
+going to lead you astray you got this go take your break so hey
+what split keyboard do i use i use the kinesis advantage 2. do i play magic
+
+02:06
+i did when i was younger i haven't played it a long time excuse me sorry
+i got a hyperx keyboard with lights that night that lights up yeah i got um
+i have the logitech uh g like the 915 that's pretty pretty i use that for gaming
+what boom arm do i use i use the rode pro whatever it is when everybody uses
+i want a vertical mouse i really like my rollerball mouse
+it's really helpful you know i i get really really bad wrist pain
+like severe like have to go to the doctors like my bones have rubbed
+together it's pretty bad um so that plus split keyboard is like what
+keeps the pain away and i really take my breaks i stretch
+out top of every hour even when you're not here i take my breaks super important
+
+02:07
+all right folks come on back come on back hope you had a good break
+hopefully we would have stretched a little bit grab some water
+but i prefer one os over another i use all of the i i use mac os
+windows and gnu linux every day all three of them so i don't really have
+a preference i like doing my business on mac os
+i like doing my tinkering on new linux and i enjoy gaming on windows so
+they all have their tools to me i'm a big fan of like
+realizing that a lot of technology stuff is really just about having tools on
+your tool belt a lot of people get really stressed out
+in the beginning they're like leon should i learn to learn angular should i
+learn react should i learn flim flop or flap flam or zaboomafoo right
+and um my answer is no you learn the thing you need to learn when the job
+requires you to learn it right and you got to realize that they're all just
+
+02:08
+different tools on your tool belt of success
+right that's so cheesy but that is true um sometimes i'm surprised what comes
+out of my mouth but yeah they're just all different tools they have their
+their rhymes and their reasons that when you should use them when you shouldn't
+use them and so don't worry about having to learn everything get good at a core
+set of stuff and the skills that you learn will be transferable to whatever
+else you need to pick up all right folks come on back
+alrighty we're in the home stretch we're going to start writing some real code
+tonight you're going to have some lab time to do it i'm just going to sit here
+look pretty you're going to write some code let's get into it
+all right so we looked at some websites and we learned some tags
+but it is interesting to note that all the tags we started with are not
+still here so back in the day i had a dragon ball z
+
+02:09
+pokemon harry potter fan site it was lit had like pikachu running across the top
+it like flashed a lot of those tags that we used are now we call deprecated
+why do you think things like blinking tags and marquee tags why do you think
+we no longer use those tags they go yeah that's all that's all css or
+somehow even javascript too somebody said it looks dumb
+yeah it was css right it was css or javascript like we we've now separated
+our concerns exactly it violates separation of concerns we've separated
+our concerns so that we can't have html that does things like css or html it
+does things like javascript so once we separate those concerns we got rid of
+those tags that are now called deprecated so
+a lot of the tags that you might have used back in the day
+
+02:10
+they might have been repurposed to something that's a little bit more
+semantically correct or they might just be gone um so like b and i tags that
+made stuff bold and italicized obviously like those can't be used anymore you
+have a tag to make something bold it's something that makes italicized that
+clearly violates separation of concerns so they like tweak those tags to do
+other things um i is really commonly used for things like called font awesome
+and other fun stuff that we'll get into later but a lot of stuff we worried
+about or used back in the day are gone now i have a fun question i always like
+to ask that's related to deprecated elements
+there's a survey that went out one year to a bunch of software engineers and the
+question was where did you get your start as a software engineer now if you
+know the answer to this don't spam it but um
+where did where do you think based on the survey of like thousands of
+engineers where do you think most engineers
+
+02:11
+got their start as a software engineer victoria thank you for the hydration
+cheers to you a lot of folks are saying myspace
+believe it or not myspace was the number two place the number one place
+folks got their start as a software engineer according to that survey was
+neopets neopets let me say one more time the
+number one place that these software engineers
+got their start with neopets back in the day on neopets you could have like your
+like your your pet pages and like store pages and you could write html and like
+write inline css and all these like what would be now horrible practices that
+violate separation of concerns that's where most engineers got their start so
+i want you to keep that in the back your brain the day some software engineer
+tries to tell you that you're not a software engineer
+
+02:12
+that tries to gatekeep you from this industry
+you could tell them to go [&nbsp;__&nbsp;] themselves
+because they probably got their start on [&nbsp;__&nbsp;] neopets
+get out go home you cut it's over you got your start on neopets
+get the hell out of here get out alrighty it's time for a lab the
+first true test in frustration so today in the materials that you need it for
+this class if you are new around these parts welcome we are doing a free 30-week
+software engineer bootcamp where you can go from zero technical skill to
+employable if you would like the materials the materials are shared on
+
+02:13
+our discord exclamation point discord we have a follow-along materials channel
+that has the zip for today you all need that zip file now
+what you're going to do is unzip that file each operating system has a different
+way to unzip files on mac os you can just double click on
+it on most windows operating systems you can typically right click and unzip or
+extract here gnu linux has the ability to unzip so you're going to need to
+figure out the way to unzip your file if for some reason you cannot figure out
+how to unzip that is okay you're going to go to discord after
+class and you're going to get help on how to unzip your files okay
+thank you thank you indifferent you can use other tools to unzip but the
+idea is that you need to unzip that file because inside of that file are the
+
+02:14
+files that we're going to use today so i'm going to go ahead and show you
+what's in those files so from today you can see that i have this lovely
+class 2 materials zip i double clicked on that zip because i'm using mac os and
+inside that file that i opened or that file that i opened it wound up being a
+folder that had two things in it brownies html and bbc image right so you unzip
+and you get both of those files now what you're going to do
+right what you're going to do is open this brownies html file in a text editor
+right in a text editor right now the text editor that i am
+
+02:15
+using is called vs code you can simply google vs code and you
+will find the ability to download that text editor if for some reason
+you cannot download a text editor to your computer maybe it's a work computer
+or something like that there are plenty of websites that you can use that you
+can just type directly in your browser so you can use a website like glitch
+glitch is completely free to use and you can go ahead and start writing
+your code directly in the browser i like glitch over things like codepen
+just because it's a little bit easier to use to do more advanced stuff and i use
+replit a lot as well also again completely free
+right inside of here you can just click create
+
+02:16
+and then you can say that you want html css and javascript and then you can
+create the repl so if for some reason you cannot download vs code right
+you cannot download vs code you can start with replit or glitch right cool now
+if for some reason you have trouble downloading vs code you don't know how
+to open it the the the computer basics are a little
+bit hard there you're gonna have to come to discord we're going to help you out
+there right we're going to help you out there
+some folks are saying like how do i open it in reply well there's a couple ways
+you can open files in here but one thing
+that you'll note is if you click on this brownies html
+this brownies html is already an html file so one of the interesting things
+
+02:17
+you can do is you can just open brownies html in the browser and you'll see
+all the text and content right there you can copy and paste
+to your heart's content right does vs code work with a chromebook
+there is a newer version of vs code that would
+you can actually use vs code in the browser now if you would like
+but otherwise you're gonna have to download it okay
+now like i said you do not need to download vs code tonight you can use
+glitch you can use replit directly in your browser whatever browser you're
+watching me right now right whatever your browser you're watching me on right
+now you can uh just use that with glitch or replit
+where are the materials the materials are in the follow along materials
+channel before every single class i will always put the materials in there can
+you use adam of course the text editor is up to you however you wish whatever
+one you used to use you can i will be using vs code i recommend that you use
+vs code for the duration at least the beginning
+
+02:18
+of the program so that way all the stuff i do is similar all right cool
+all right so what i want to do is i want to open this brownie file
+inside of my text editor there are lots of places
+that i can there are lots of ways i can open that file in my text editor right
+if i already have my text editor open um i can simply do like file open and open
+that file a lot of times you might have the
+vs code like in your dock and so what you could do is you could drag this file
+to vs code and it'll open right so i just dragged that file right
+to vs code and it opened it up for me right
+so there are many ways you can open the file in vs code file open
+
+02:19
+dragging the file right it's all open to you okay
+now if you're if you're panicking you don't know how to unzip files you're
+having trouble opening it in a text editor right
+you're gonna have to come to discord and get that help remember this is your
+first exercise in frustration cool so i decided to just drag the file
+remember i unzipped the folder and then i dragged that file into vs code
+right now my vs code is pretty simplified right now right it's pretty simplified
+i really highly recommend early on not really adding stuff to vs code
+don't use any of the tools or tips or tricks that improve your workflow right
+
+02:20
+they're going to be stuff that makes your code look prettier there'll be
+stuff that automatically saves files for you there's going to be stuff that will
+make your life as a developer right much much easier
+don't use those at the beginning right now the reason why i tell you not
+to add all those things or use those tools in the beginning is because there
+is nothing more embarrassing right than finally getting that technical interview
+and they use a platform that does not have all your magic plugins and you
+struggle to indent you struggle to save you struggle to do the very very basics
+and i've seen it happen seen gonna happen multiple times so please
+get used to doing stuff manually without all those gadgets until you feel
+comfortable doing it on your own once you feel comfortable you get all the
+
+02:21
+though you can zip zip zap through it then add all that other stuff to make
+your life easier you know specifically prettier like you want to
+get good at indenting and stuff like that just for a week or two just to make
+sure you know it on your own right and then you will
+bring all that stuff back if you want all right so once again
+i'm using vs code here you do not need to use vs code i unzip the folder i drag
+out the file and i drag the file to my vs code you could also have done file
+open i am using vs code but you could have also
+used glitch or any of the other kind of browser-based editors for right now
+all right like i said if you're stuck on this step
+
+02:22
+you're gonna have to come to discord cool now here we have a bunch of content
+all of this content must be wrapped in what
+all this content must be wrapped in what tags exactly
+every bit of content on this page must be wrapped in tags so i come here
+and i see deep dish brownies chat what do you
+think deep dish brownies should be what should deep dish brownies be
+yeah it's definitely our h1 so i'm going to open my h1
+and i'm going to close my h1 remember our h1
+the closing and the opening tags are very similar except for that closing slash
+
+02:23
+right right now is my page saved nope it's not saved how can you tell
+you can tell because the dot up here right is
+white and circle and not the x so i have
+to save this so i did i did command s to save you can do
+file save but getting used to your shortcuts is really helpful so on
+on mac it's command s on windows it can be control s right but get used to
+saving the biggest the biggest issue that a lot of folks
+have early on they'll come to me leon why right why why is it not working
+why why did these changes not like why can't i see the changes in the browser
+and it's almost always because you didn't save so get used to saving manually
+
+02:24
+right alrighty so we have a lot of content here a lot of content here i want you
+to go through this content and give your best honest attempt at
+semantically marking up this content everything must be wrapped in tags you
+can use the previous slides right you can use the previous slides to get a get
+a hint of tags but you can also use the mdn the mozilla developers network
+if you need help looking up tags right i'm gonna let you try it
+if you run across something odd if you're if your stuff were on auto if
+if it's not if your tech server is doing something you don't want it to do
+
+02:25
+start with a google people are throwing in chat how to fix
+certain things but start with a google get used to it right
+and if you still need help with something discord alrighty
+i'm going to put a 10 minute timer up on the clock here uh just ignore me
+for these 10 minutes just ignore me i'm going to keep talking
+i'm going to keep talking i'm going to be answering people's questions in chat
+but the expectation is that for these 10 minutes you're writing code
+so go ahead get your fingers moving get the typing
+get to wrapping each of this content in tags
+and then we're gonna do it all together right so if you
+
+02:26
+get stuck you don't know how to do it you're gonna have to be able to go
+through it remember there's two different sets of slides there are the
+live slides right that only i control and then they're the second set of
+slides that you have full control over so if there's the live link you can't
+move those slides around only i can the second link wasn't working but it
+should be working now if you opened it in the beginning you
+got to give it a hard refresh let's take a look at them
+
+02:27
+i'm gonna bring up my uh regular screen just in case i pull up something for you
+one second just checking on the slides for folks that are having trouble hmm
+
+02:28
+i see the error now hold on i'm working on it working on the sides one second
+public what i'll also do is i'll just download the slides for y'all one second
+i think slides.com is down i think i think i think it's the actual
+place i used to uh host the slides checking it out still working on it
+
+02:29
+you can use the mdn or hopefully it took questions you can actively recall
+yeah i think it might have been i think we might have crashed it because the uh
+they were working but it won't even let me export the um
+don't even let me export you need https to make the link let's try
+don't worry about it i think we broke it after class i will put the pdf into
+discord give your best shot this is a good chance for actively recalling use the
+
+02:30
+mdn if you need it zip file is on discord
+if you're lost that's okay make sure you come back after the five minutes we're
+gonna go through it together this is your first chance at trying to write
+some code folks are putting if you don't like the
+auto closing tags people are putting that in chat
+so that that initial question you have like how do you stop auto closing tags
+that's a google question that's something you definitely should use but
+
+02:31
+there's also people throwing the the pattern in chat for you if you want it
+preferences search html uncheck auto close beans googled it i love it
+is there something is there something i can do on your mobile yeah you can just
+use glitch or replit that work in the browser i'll get round that's on your side
+there is sound the zip is in the follow along materials channel
+all the code will always be in that channel hey how you doing thank you for the
+
+02:32
+hydration cheers to you how do i revert the file you can do
+ctrl z or command z to go back a step yep the the zip file should not have the
+
+02:33
+brownies image not to figure that out we have an html and css help channel
+okay murray what are you confused about can a section have can can i have a
+section one tag no the only ones that have numbers are the heading elements
+where is the brownies image i didn't give you one that's a fine one
+nope no brownie image from me do you know cobalt hell no
+you need your dual monitors back yeah they do help
+yep just wrapping all the content and tags exactly do i play league no
+
+02:34
+that would just be the end of me oh ryan the first stretch that i've seen
+i used to do a can't give you too much of the
+stretching it's the only fan's goal i could do this but not in 10 minutes
+yeah that that's totally fine done hey if you're done throw a gun in
+there that's wild good job wow crew came in
+
+02:35
+that's funny there must be like a like like a a peace
+figured out the brownie that's good use dmdn could have helped there
+crunch time can you get it in you can get it done you finish up run
+alrighty folks stop come regroup with us
+no matter if you had trouble opening the file are you finished
+
+02:36
+we took our 10 minutes we're gonna stop we're gonna go over it together
+all right so come on back come on back yeah i know the person you're still
+typing stop typing come on back first of all congrats you're working with code
+even if you struggled to open the file you were still working with a code file
+you're a software engineer if you wrote a line of code you're a software
+engineer so let's take a second i know that can be very frustrating you know
+some folks are still stuck that's okay but you are now all officially
+software engineers you're struggling you're in the muck with the code
+over the next 30 weeks you're going to add the tools
+and the knowledge behind that but right now carry yourself high matter if you
+
+02:37
+got stuck you didn't know what you were doing it didn't make sense that's okay
+we'll get there together you're a software engineer congrats
+all right let's take a look at this together
+remember the vods are always available right after we're done streaming so you
+can always go and take a look at it all right we got some stuff here
+uh this first one is a tricky one we haven't even seen images
+so if you looked at this and you saw images right
+remember you can also change your quality settings since we're partnered
+you can change your quality settings to make it more less blurry like if it's
+blurry you probably have the quality settings too low yeah all right now look
+if you didn't know how to do we didn't cover the image
+so if you didn't know how to do the image what could you have done
+
+02:38
+you know how to use an image tag what could you have done
+oh y'all next level y'all saying google y'all saying mdn but you know what she
+could have done skipped it could just skipped it went on to the next thing
+don't sit there and bang your head against the keyboard
+trying to do something that you don't know how to do you gave it a quick google
+you looked on the mdn you didn't see it yes skip it and then you come back to it
+when you have more time so for all of y'all that just stopped here
+let that be a lesson get all this other stuff to figure out you could have
+skipped it could have came back could have figured it out later you
+could have googled it had md end it you could have gotten help on discord right
+but you have you have to think about and the reason why i like to bring this
+up is because in uh less than six weeks you will all
+
+02:39
+be getting paid clients that'll be your task is to get a paid client and uh
+let's say the client project is due in 10 minutes
+do you want to tell the client hey i got the image working it's the best
+image you've ever seen it's a delicious image of brownie but nothing else works
+or do you want to say to your client all the content is here everything looks
+good we're just still tweaking this image right think about that
+think about that under promise over deliver exactly cool
+all right so if i didn't know how the image worked i could go to the mdn
+i could do something as very simple as kind of like um google mdn brownie
+
+02:40
+oh i'm so i'm a big boy mdn image that was sad oh man clip it [Laughter]
+all right there we go i could have did an mdn image and then boom here you go
+everything i need to know about the image tag oh there's this source property
+oh there's this alt property source is required alt does this other stuff for
+accessibility all the stuff i would ever need to know with very clear examples
+the html is here for us we can see the output how wonderful
+i love the mdn you should use the mdn and you saw i didn't use any big brain
+tricks here i just typed in mdn brownie that didn't work so i typed
+in mdn image and here you go your new best friend the mdn shows you exactly
+how to do images beautiful all right so let's go back
+and uh let's let's take a look at some of our code here and say all right well
+
+02:41
+based on this i know i need to open my tag and i need to close it
+but something interesting about images is that they're one of the very few tags
+that don't need an open and a close tag the reason why images don't need an open
+and a close tag is because it's already content
+for all these other things you're wrapping around content
+but the image is already content so it is self-closing you don't need a closing
+tag it already is the content instead of wrapping around the content cool now
+we saw on the mdn that we needed a source so src equals and the brownies.jpg
+so that could be my source and the interesting thing about the
+source though is that i didn't give you a brownies image
+so we have to go get a brownies image we could have a local image which means
+
+02:42
+that the image is on our computer or we could go hot link somebody else's image
+that's what we're going to do we're going to go and uh google brownies
+let's get some images here oh it's gonna be a problem yeah all right right click
+copy image address all right copy image address he's taking his time with it
+and then in the source i'm gonna paste that image address right
+there you go i just went to the image i right clicked
+
+02:43
+copy image address and i pasted it into my source so now
+when i open this brownies html remember i could drag the html file to the
+browser you can right-click open if you want to
+there's so many ways you can get this file open in the browser for me let's see
+i already have it open here so what i'll do is i will bring up my browser
+and i'm going to drag the file into my browser and there we go it opened it up
+right that looks delicious so what i did here is i gave it a source
+and i grabbed an image source just from a random image on the internet uh you
+
+02:44
+can go to pretty much any image you want on the internet and right click on it
+and copy image address that's going to give you the image
+address right you copy that you paste it into your source and you're
+good to go this is called hot linking this is not a file on my computer
+i am using this file from buzzfeed uh this could cause me some problems down
+the line if i kept it this way what what could happen if i kept the
+source this way oh you're thinking big brain you're saying like copyright no
+i don't own this image i don't own where it's stored i don't own the server that
+it's sitting on so buzzfeed could change this link
+right could change this link and then my image would break right or worse
+
+02:45
+if you were little leon back in the day and somebody hot linked your image
+well they own that server they could change this to whatever the heck they
+wanted i could i could think it would be brownies and i come in the next day and
+it's a picture of rubber ducks or if you were back on the forums in my
+day it wasn't rubber ducks i'll tell you that much all right
+right so they control it right they control it and so they can
+change whatever they want so there's a chance that it could break in the future
+so next week we'll download our images and i'll show you how to use the images
+that are on like your side like your local or your server right
+but it could break and since it could break we want to make sure that we also
+have a what if we know that this this might break in the future what do we
+want to also give it yeah we want to give it an alt
+so alt is something that we also saw in the mdn and we can just say brownies
+
+02:46
+right so now if for some reason this image was to
+break and not show up the user would still see
+brownies like they would still know that that should have been a brownie photo
+the other wonderful thing is that for accessibility if someone has a
+visual impairment and maybe they're using a screen reader they can know what
+that image is by having the alt text read to them so
+somebody with a visual impairment wouldn't maybe not be able to see the
+brownies but they would be able to hear that it was a brownie and then google's
+kind of moved on from this a little bit but it does help seo too like google
+might have an easier time figuring out that these are brownies
+can you can you test messing with the link sure so let's get rid of the b
+i'm going to save i'm going to go back to my my site here so boom it broke
+but look you see next to the broken helmet i can make this bigger
+
+02:47
+next to the broken image is the word brownies so the alt tag is there right i
+broke that link and so you can still see the alt tag so even though the image is
+broken i know that that was brownies cool
+all right so we got our image tag going and uh next to this image tag
+we see this thing here uh that looks weird it's like it's like
+a different color and that definitely wasn't in the brows like if i go back i
+don't see the word hint like if i make this a little bit bigger
+there's no word hint here right so that's called a comment
+a comment is a way of like leading leaving a note for yourself or a note
+for another developer it doesn't actually make its way into the browser
+it's just in the file for you to see it it's called a comment
+in html the comments are made by doing our
+
+02:48
+uh arrows and then our bangs so this we call exclamation point bangs so you'll
+do your left carrot or your left arrow we're going to call it your left carrot
+bang hyphen hyphen and on the end hyphen hyphen right carrot right anything you
+put in between this and this is now a comment it won't show up in the browser
+there's also typically shortcuts to do this right um nvs code and a lot of text
+editors if you do command and then forward slash it automatically turns it
+into a comment for you that was command forward slash control
+forward slash beans thank you for the gift it subs right so there are ways to
+do these comments that'll be important all right
+if the image is large we can fix it with
+css exactly let me go and put the b back here cool
+next i have this recipe by biz mcmahon what were you feeling for the tag here
+
+02:49
+what tag should we use for biz here what types we use for biz h2
+one so here's a question for you um have you ever read
+who made the recipe like is that important to you when you go to a recipe
+website never i don't think i've ever landed on a
+recipe and gone oh that's biz i'm i'm
+dipping out of here [&nbsp;__&nbsp;] that guy like no
+i've never i've never even cared before right so to me there's no way that
+that's an h2 that's so not important that it has to be like i don't know
+like an h4 at least right like like just not anything that's important right now
+i am jumping here there is some accessibility things that we have to get
+
+02:50
+to where we go from ones to twos to threes and we should lay out our content
+more accessibly but for now let's just focus on making good semantic decisions
+here okay so for me that's just not important so it's at least a four
+now here's the thing you might be a rachel ray household right
+you might only cook rachel ray recipes if it's not rachel ray
+you ain't cooking it so to you that might be an h2 it might
+be really important to you and so that's where these semantic decisions have to
+be made that's why there's never going to be one exact
+way to do this if i give this site to 10 different
+front-end developers i might get 10 different versions of the same code back
+right now some people are saying why is it not a span
+to me it's a heading it describes what comes after everything that comes after
+that line right everything that comes after that line is the recipe by biz
+right so to me it's a heading it's not just a short piece of text it
+
+02:51
+definitely does describe what comes after a spam would just be a short piece
+of text right so to me it's a heading it does describe what comes after cool
+how about related recipes what do we think that is to me that's an h2
+it's really important to me that if you don't like my deep dish brownie
+recipe you go to my other recipes right so if you don't like the deep dish
+brownie recipes you go to my other recipes so h2 is really important for me here
+cool so i'm going to go ahead and make this an h2 right cool and then here
+
+02:52
+i have a what what are what are all of these
+yes that's a list of the related recipes um so this is a list of all the red
+recipes but i'm going to do something a little funky here stay with me for a
+second so it's definitely a list of recipes so that's a ul
+uh it's not in any specific order so it's not an ordered list it's definitely
+an unordered list of recipes but all of them are yes people are
+thinking they're all links to those recipes so it's a list of links so
+i am going to use some developer magic here you can as you're clicking hold down
+command or control or alt depending on what type
+of operating system you're using michelle hey thank you for the gift
+itself 20 gift itselves wow i appreciate that shell i appreciate you thanks for
+stopping by that's wild thank you so much so you can hold down command control
+
+02:53
+right or alt depending on your operating system and then wherever you click you
+got to keep it held down for me it's command wherever you click you get the repl
+right you get the reply right and so now i can do whatever i can tab them in
+i can do my li i can start my anchor tag i can give them all an href just as a
+placeholder we're going to put an octothorpe in there i can jump to the
+end for me it's command right arrow it might be control right hour if you want
+to jump to the end and then i can go ahead and close my anchor tags i can go
+ahead and close my allies right so how do i do that again i got you
+uh depending on operating system for me it's command so i would just hold down
+command and wherever i click while holding down command i get that reply
+for you it might be control or it might be alt it does depend on your operating
+system cool once you're doing that you'll notice that you have this little
+
+02:54
+flashing rebel that flashing replica means that you can now type on each one
+of those lines yep all for windows and gnu linux yup there you go cool
+and so that's how i was able to do it but i knew that this was a a list of
+links and so each one of these links is wrapped in an li
+and then it's wrapped in an anchor tag and right now i don't actually have the
+links to the chewiest brownies i don't have the link to the can't you tell i
+don't have the link to the bodacious brownies so i just put an octothorpe in
+here some people might call that the pound sign or if you're hip a hashtag but
+in programming we call them octothorpes yeah or sharp exactly noctothorp cool
+
+02:55
+let's look down here how about prep time what are we feeling for prep time chat
+i'm feeling like a an h2 here i think that's really important i think
+it's like the only thing i look at i look at like is it rachel ray and is it
+like going to take me a long time so that to me is an
+h2 like i said you gotta make your own semantic decisions make your own
+semantic decisions if you if you don't think that's an h2
+what the heck am i doing if you don't think that's an h2 that's okay it's okay
+make your own semantic decisions how about 60 minutes what is that
+it's a short piece of text if it's a short piece of text that's a span for me
+
+02:56
+yep that's a span for me and for me short piece of text beautiful
+all right how about servings some people really care about the
+servers that could also be like an h2 again maybe an h3
+i don't know the servings matter i'm a big boy i'm gonna eat the whole
+thing anyway yeah h2h3 i don't know maybe hd just so we
+can see something new just so we can see something new that the most demanding
+i'm not sure and probably a span again right span with the nine there we go
+case you always check for servings that's good to hear i i don't think i
+i'm gonna eat the whole thing anyway don't matter all right
+why is it a span instead of a paragraph because it's a short piece of text if it
+was like a long piece of text like a sentence or more then we're talking
+
+02:57
+paragraph but short piece of text that's a span cool all right
+ingredients what do we think that is how do we feel about ingredients
+i think that's an h2 as well h2 as well yeah
+if you're like leon i have no idea what the hell you're doing right now that's
+okay it's all right guess what you have homework that's gonna walk you through
+all of these things you literally have homework it's gonna that's gonna span
+you a couple hours of you sitting down with this material again so if it
+doesn't make sense in this moment that's okay this is your first time seeing a
+lot of this stuff this is your first time seeing a lot of this stuff give
+yourself some grace it'll come all right i don't like how this is like all
+
+02:58
+indented already oh so the thing is here eventually we're
+going to start to notice some indentation like leon why did you indent here
+uh we have something called parent child
+relationships right we have parent child relationships where these lie since
+they're inside the ul that parent-child relationship you put a little respect on
+the name and you give it a little bit of an indentation don't worry about that
+for right now but if you're like leon why are you indenting that's because we
+have some parent child relationships that we got to deal with cool
+all right so we have the ingredients what is what is this here what do we
+think this is we have the ingredients what is this yeah it's a list so again
+is this an unordered list or an ordered list
+yeah unordered right it doesn't matter if i put the eggs before the vanilla
+it's not like when i use them it's just the things i need to grab from the
+
+02:59
+grocery store so unordered lists i'm going gonna put all of this stuff
+inside of my list and then i'm gonna use my developer
+magic again now the cool thing is you don't have to click
+right you don't have to click look at this i'm not clicking
+i'm just pressing the down arrow so on mac i can do command alt
+and then just press the down arrow and i get the reply going all the way down my
+list right on your operating system might be
+different there's gonna be something for different for windows or something for
+gnu linux uh but for me yeah there you go control alt down arrow on windows
+people are saying yep yep yep there you go beautiful
+we already have we got code weenies that's not a rebel
+
+03:00
+you see the code weenie oh boy they found us they got us
+all right cool there we go now now we can go ahead and do our li
+we can jump to the end there we go beautiful so now each of our
+ingredients are wrapped in in an li beautiful cool
+almost at the top of the hour we're going to finish this out we'll do our
+raid and we'll end it there so let's finish this up together maybe another
+two minutes or so to finish this up and then we'll do our raid
+alrighty direction what we say that would be
+ah yes our lovely h2 again directions are very important let's go ahead and
+
+03:01
+do our h2 here once again we're going to have the ingredients that we have to
+wrap in our lovely ul there we go i'm gonna we could just break it down
+here i'm just gonna copy everything i'm gonna paste it in boom alrighty now
+is this a ul uh y'all paying attention look at you
+y'all paying attention no that's not a ul no well all right oh well
+right oh well anybody ever watch the mistborn trilogy
+or sorry read the mistborn trilogy ren always tells his sister
+that i will betray you and then one day ren betrays
+all right and so you gotta you gotta you gotta be on your your tippy toes around
+here right all right some things won't always be
+correct you gotta you'll be like leon ah that's not that's not that's not a ul
+
+03:02
+that's an oh well all right i will betray you call it out when you see it
+beautiful we got the ol now we're going to go ahead and click for our lis
+this one's a little bit weird because when i jump to the end i won't actually
+be at the end for each of these lines don't worry about that for now
+we can clean that up though i'm oops clean this up so the lies are
+actually at the end of each thing my screen's all magnified in so it's a
+little different on here all right here we go
+beautiful you betrayed us last time you said domino's was good get out of here
+delicious s tier you can press n key on control like uh n
+
+03:03
+key on windows mac i do command and my arrows to move around
+cool so we got our ordered list uh how about tip
+what do you think the tip should be yeah i'm feeling like an h3 here yeah like
+do you do you ever read the tips though who reads the tips
+do you ever read the the drivel that comes before the recipe my
+my great grandfather tripped on a penny and uh that penny we then wished in a
+fountain and we've got a genie and that genie is the one that delivered this
+recipe and so i hope you enjoy this recipe coming to your your household
+right now you know why they do that you know why they put all that stuff in
+there when i was doing this for the last class
+i found out that the reason why they do all that extra text
+is because it makes it so that it's harder to have like a copyright claim
+
+03:04
+like recipes are completely not copyrightable but that like stuff they
+spill out it has like a slightly better chance of being copyrightable and then
+um the other thing too is seo right cool so tip or you're saying h3 h4 i could
+see it i think i think for me i don't think i read it but it seems like a lot
+of you do read them so i'll listen to y'all and i'll say h3 beautiful and then
+big piece of text definitely a sentence or more what should that be
+paragraph beautiful i'm gonna close my paragraph nice nutritional info
+you already know what that's gonna be yup come on now nice little span here
+all right nobody ready to get out of here you ain't looking at the calories
+
+03:05
+i'm a big boy that don't play around here no
+nutritional info in this house get out of here
+h6 if there was a if there was an h8 i'll be using it but there isn't that's
+that's how you know h6 is the is the lowest that's how you know h6 is the lowest
+because if there was something lower i would have used it right then and there
+that's how you know all right let's finish this up
+we got another we got another uh string here
+what do we got here what are we doing another paragraph okay
+another paragraph and then inside this paragraph we have another what
+yeah we got another anchor tag and the cool thing is that this anchor
+
+03:06
+tag already has the what here yeah we have the href beautiful cool
+let's go ahead and close that up close up that carrot and then
+make sure that we close up our anchor tag chat we did it look at us now
+do i care what this looks like in the browser nope
+right because that we're choosing html we don't choose html based on how it
+looks right we don't choose html based on how it looks
+we'll get to that with css all right we'll get to that with css now
+there are some more things that we didn't get to tonight because we're
+going a little bit over time i want to stop here when we come back on tuesday
+
+03:07
+we're going to see some more tags we're going to see some some forms
+we're going to see uh the actual structure of html we're
+going to see like the header and the footer we're gonna see
+uh these other pieces that we might have heard a little bit of but we're gonna
+put that all together on tuesday between now and tuesday
+y'all got a lot of homework like a lot of homework you got two
+videos by ali abdal to to watch you got a whole learning how to learn course on
+coursera to get through you have a whole learning how like learning about html
+through learn.shayhow right so you have all the stuff that you got to get
+through between now and next week if you want this code this code will be
+shared with you on discord after class so anytime i write code i will always
+just upload it on discord in the follow on materials channel after class so
+i think the reason why the slides aren't working right now is because i think we
+
+03:08
+have so many people using them i have to like upgrade my payment tier on the
+slides so i'll figure that out as soon as we
+get we're done going live i'll share all the code with you on discord we have a
+lot of reading to get through tonight but before you leave we're going to do a
+raid remember we like to hang around here we like to
+go spread positivity to other folks and so we're going to go ahead and do that
+right now we're going to go and set up a raid and remember when you're ready to
+get more channel points those channel points actually help you do a lot of
+stuff and so we're going to go ahead and start a lovely raid here
+and we're going to go over to someone that we've we've rated in the past
+they're learning too uh and so that could be that could be
+fun so let's go ahead and uh go over to them remember
+red love positivity give them some follows if you're not already following
+cool all right starting the raid now it'll take about 10 seconds and i'll see
+
+03:09
+you i'll be hanging out over there uh please if you got stuck tonight if
+things didn't make sense if it was hard if you feel like you need some extra
+help that's what discord is for please come to discord we will help you you
+will get unstuck you'll figure out how to open things you'll figure out how to
+type but please be consistent set up a plan right how are you going to study
+each day how are you going to do the things that you want to do
+make sure this weekend you don't go into the weekend like an
+accident go into the weekend with a study plan and i will see you all on sunday
+for office hours i hope you had a wonderful second class i will see you
+all on sunday for office hours remember they're optional you have to be there
+but i'll be answering tons of questions uh if you have questions about the stuff
+we covered today that's what office hours is for and then on tuesday we're
+back at it we're gonna dive deeper into html we're gonna make it make sense
+we're gonna have more fun with it so good luck with your homework good luck
+
+03:10
+with the raid i'll see you all over there now peace everyone you

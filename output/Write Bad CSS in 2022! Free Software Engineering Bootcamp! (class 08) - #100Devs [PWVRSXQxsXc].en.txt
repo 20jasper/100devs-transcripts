@@ -1,0 +1,2154 @@
+
+00:03
+
+00:04
+[Applause] bruh boom good morning good afternoon good evening
+man we're coming from hope you all are doing well welcome everybody what's
+going on what's going on hey what's going on welcome back
+we got a good night tonight i like this one right we're we're doing something
+special tonight we're writing some really bad code i mean bad
+like i'm gonna get twitter dms bad you know that's what we're talking about so
+i'm glad you're here welcome get in here we got a lot of fun stuff to do
+we're going to be doing a lot of review we're going to be talking a little bit
+more about networking going to give you some real examples that you can start
+using we're going to talk a little bit more about the concerns folks have around
+
+00:05
+networking and then we're going to move into
+writing some actual layouts like coding some actual layouts we're going to go
+back and look at uh techcrunch khan academy bbc we're actually going to do
+them this time we now have the power right we have the power to build not
+only the html but the css and get the layouts going make it look like the
+actual photos are close so excited you're here you do have the power exactly
+uh the question for today hey vegan days thank you for the 10
+gifted subs i appreciate that thank you for being here
+that's wild thank you so much [Laughter] that's really nice of you i appreciate
+it yeah you all been popping off hold on let me let me see where we're at right
+now the the the primers the primers the the
+folks throwing around jeff bezos's bucks have been popping off we're at
+
+00:06
+2377 subs right now that's wild i never my wildest dreams
+uh so appreciate every single one of y'all i can't wait until we can get that
+going right to rc uh it's gonna go right into our emergency fund for our next
+cohort i know it's gonna help so many folks that struggle
+that need to be able to see psychiatrists doctors but they can't
+afford it that's what that's going towards i appreciate you all thank you
+indifferent hey thank you get the subs alrighty folks uh we have a question of
+the day we have a question of the day and so i would love to see your answer
+to the question of the day today's question of the day is would you
+rather all of your sentences have to say all of your sentences
+
+00:07
+backwards or have to communicate only through charades for a week
+seen a lot of charades way more straights than i would have thought
+raids all right sure you all went all in on surrey that's wild
+i would try i don't know so i i think last time i would have said
+sentences backwards because i find that be like a fun exercise
+but me and my family we got pretty good at charades
+so here's here's the secret to serrate that's something nobody's ever told you
+about the secret to charades is you got to play it with the folks you're going
+to play with like by yourselves you got to come up with all your secret words
+your your book that's a book three words you got you got to come up with those
+things ahead of time and then you then you just beast it
+because when you go up against other people that don't have like all the
+things worked out it's over it's a wrap um it's not cheating it's
+
+00:08
+preparation the preparation i'm going to the i'm going straight to the top uh
+wherever the charades world championship is that's where i'm going and they all
+do it they all do it all right so it's pretty is that legal hey
+hey i'm not saying anything here note to self never play charades with leon
+alrighty folks you know how we like to do it
+i always like to start our evening uh with questions and so let's bring up the
+questions slide what questions you got for me just to get folks in here
+give folks a chance win clark hey thank you for the donation i appreciate that
+
+00:09
+is the cs go server ready it is we were playing on it we got a good test round
+in we had like 20 people on the server it was pretty cool
+um so the test server worked um i'm probably gonna test it again tonight
+i'm gonna probably like a half an hour after class
+is done and i send out all this stuff i'm gonna open the server again and if
+folks want to come and do another test round with me i appreciate it
+um i think we dialed in a lot of stuff there's a couple modes that we're still
+trying to figure out uh the person that's helping me build out the server
+we got we just got a few last things to tweak
+uh and then you're all welcome to come hang out in the office so the the book
+it's a cs go server uh that's 24 7 office there's a there's a map on cs go
+called the office and that's all it is so if you ever want to come hang out in
+the office you're more than welcome to and we're going to get that going so i
+think tonight will be the last test run and then we'll kind of leave it open 24
+7. uh cs goes a completely free game you
+can download it it runs on like anything a toaster i had it running on a
+
+00:10
+chromebook before like yeah it'll work other questions
+what's the logic behind us watching independence day
+it's a trust exercise it's how i weed out the folks that trust me at this
+point or not you almost gave me a month this this week will be a month right and
+so now i'm asking you to do something and it sounds weird it sounds wild
+and so this is this is my trust fall either do it you don't trust me and like
+either you do it and you trust me or you don't and you leave right so like if
+you're not gonna watch independence day just leave the cohort it's all good
+you can find it completely free to watch online remember streaming is completely
+legal downloading is not right and so it's it's it's a trust thing that's all
+it is now it really does i really does think it really does help
+bring home a very important point when we get to javascript right when we get
+to javascript that really does help hammer home a really important point and
+
+00:11
+so i need you to have watched the movie um before we get to javascript
+where's the merch uh we don't have merch yet for this cohort uh we're working on
+getting like better higher quality stuff and then we'll do merch a lot of people
+keep asking for it so we'll do it and last cohort we just did everything was
+at cost like there was no way for um like like whatever the cheapest price
+i could set it is what it got set as there's no like margin or anything like
+that on there so as cheap as we can find
+it at a good quality is what you all get
+we're going to talk more about groups in a few seconds
+can we get 100 decal uh yeah we we do have we did have stickers last drop and
+
+00:12
+so we'll do it i am sipping some tea as always tazzo get me the deal all right
+i think we got everyone in here i trust your curls oh that's one that's
+one important thing before before we move on i know
+really leon get to class i i have an important announcement to make
+i will no longer be using ogx products i'm i'm ending my relationship with ogx
+and i'm looking for uh looking for new opportunities and so
+any any good hair care products out there you let me know they got to be
+vegan they got to be all the the the sulfate free all the good stuff that to
+be good for curly hair so if you know something that's out there
+you let me know okay and uh i'll take any deals that come my way but
+i'm officially off team ogx uh i got like a and this is this is
+totally probably has nothing to do with ogx and so i'm not even i'm not gonna
+
+00:13
+throw that out there i got like a little bit of like a really bad like scalp
+irritation on the side of my head and it's like really painful
+like really painful and uh i was like crap well what's the
+only thing that could be and i started like looking up my shampoo and
+conditioner and there's some like bad stuff going down like people are like
+currently suing them right now so i'm like all right i'm done y'all cut it's
+over i'm i'm a free agent looking for new hair care products so let me know
+alrighty folks let's get into tonight tonight we're going deeper in how to
+network we're reviewing as always right as always our basics of css of cs layout
+we're going to recover our responsive basics we're going to build some
+responsive sites but really the thing we're focused on is layouts we're going
+
+00:14
+to take a look at some of the layouts that we've seen but actually start to
+build them right actually start to build them right and so
+that's the goal for this evening is to get our hands on the keyboard to
+write bad code and be okay with it all right
+uh for those that haven't checked in yet you can go ahead and check in as always
+the check in link is in the follow along materials then it's in the learn with
+leon live and then they also have the exclamation check in as well but if
+you're already following me on twitter you can just see the tweet come up and
+go ahead and give that a like and a retweet help swipes find us
+and hopefully not spend so much money to learn how to code alrighty
+study communities uh before we jump into study communities
+i just want to say a huge huge thank you
+uh to blah our fearless moderator uh for doing all the heavy lifting on this um
+
+00:15
+they they really made my life a dream uh to kind of get this going
+these study communities are going to be a lot of work a lot of work and they
+they took the brunt of that labor to help these things get off the ground and
+get started and so huge thank you to blah i really appreciate all your help
+kind of getting this stuff rolling so study communities let's talk about
+what they are right the study communities are exactly that a group to study with
+uh they are not the only place you're going to interact with people they are
+not uh the only channels that will have some of these affinities or identities
+made right we have those kind of like already
+channels in our main section um for women in tech uh uh individuals of color
+and tech right like we have those channels we're gonna be adding to them
+right so there will be other channels that will be added there that'll kind of
+be free talk chat groups right like you can just go out hang out there and chat
+
+00:16
+these study communities are like who do you want to study with
+right and so i know a lot of people are going to see
+and feel a certain type of way that you can only choose two
+you can choose one group and one location group right and so you're not i
+hope that you don't take it as like this is the only thing that i can identify
+with i am a gamer and now i'm only a gamer no that's not the intention here
+it's who do you want to have a smaller group just to work with just to study
+with even though we're going to have all these other channels where you can chat
+and interact with those individuals right so you get one group one location
+all right and so please go ahead and fill out that form
+if you would like to be put into a smaller group each of these groups will
+have their own chat channel but they will also have their own voice channels
+right and so a lot of these um groups may have specialized voice
+channels too like the adhd group will have just like a quiet
+
+00:17
+cam only channel and so it's just things to get like if you're thinking through
+like who do i want to go through the next 20 30 weeks with who do i think i
+would study best with that's the group you pick it's not the end-all be-all
+they're gonna have plenty of other channels and the other thing is that this is
+a big experiment we've never done this before we might
+get two weeks into it and it might be the worst thing that's ever happened we
+cut it all off and we go back to where we were right
+but we wanna we wanna try it right no one's ever done
+study communities at this scale so we have no idea if it's going to work or
+not work but we're experimenting and i think if we can figure it out
+this will make it so that we have the ability to support people far and
+into the future so uh know that this is an experiment we're gonna have to
+probably add stuff we might give the ability to join more than one in the
+future right but this is our first step and we gotta take a smaller step in the
+beginning so we don't fall completely on our face there's a lot of weird stuff
+
+00:18
+that's going to happen with these groups when we're first trying to get them
+going trying to give everyone the roles like it's a big big undertaking and so
+please give myself and the mods some grace as we go through
+this process because it might just all break but maybe something wonderful
+happens instead right and so we're going to try and i hope that you join a study
+community and hopefully find a smaller group to to work with to study with and
+just give yourself a little bit quieter of a space to hang out and mingle
+all right but i really just want to uh reiterate
+that i know when you see the groups and you can only pick one you're going to
+feel like well wait i want to be in like four or five of these that's okay we're
+going to have those chat channels for all of those groups it's just who do you
+
+00:19
+want to study with and please don't like fill out the form
+more than once we're just going to look at your first application so
+um don't don't like refill it out or try to switch or anything take a little bit
+seriously pick where you want to be and we're going to throw it in and so
+we're going to have the the survey open today and then this weekend we're going
+to start adding folks to the to the channels
+uh you definitely want to fill out the form today
+uh we're gonna leave it up over the weekend um but definitely want you to
+fill it out today if you're here now fill it out please catch up crew fill it
+out as you join us and we're gonna try to start actually doing it like tomorrow
+and saturday all right here's the form if you need it but it's
+also in the following materials channel all right submitting work uh we have
+
+00:20
+some work to submit today i want your 15 minutes of pain please uh that is the
+responsive version where you tried with the three different media queries put it
+in a code pen please and submit the form with your codepen link as always
+the homework submissions always up an hour before class starts
+so feel free to grab the link from there or from the slides
+can we use glitch instead yeah you can use glitch replica codepen
+um just pick one we just want to bring bring the sights down as everyone fits
+their uh submits their homework so pick one i
+think codepen has been the most stable but whatever one you feel is is fine
+yeah it doesn't matter which which one it is
+can we go over the homework of course during office hours
+come to office hours on sunday or feel free to watch the uh vod as you have
+
+00:21
+time but we'll definitely go over this homework on during office hours for sure
+remember office hours are every sunday at 1 pm eastern time the vod is always
+immediately available on twitch afterwards
+and the cool thing about office hours if you just want to see
+the homework solutions you can just jump to the homework solutions because we
+know that you just we're just answering questions at office hours so jump to the
+bits that you care about 50 minutes pain is still worth it we're
+down the road folks big payoff here during a great day the office with
+devops failing our pipeline jammed oh no deb hope you're doing okay
+when are we starting github once we get through javascript then we feel a bit
+more comfortable with the terminal cool all right folks
+are we still going to add more houses we're definitely going to do the houses
+
+00:22
+the houses will just be study communities so we're rolling out the
+study communities making them making sure they work and then we're adding two
+more study communities which will be touring and hopper cool networking
+already folks we we started off last class by diving into the wonderful world of
+networking and what i need you to take in and the thing i need you to hear
+right from the beginning is that most people are not good at networking
+most people start off feeling very scared anxious unsure and not really
+certain about how they're going to go about networking i just want to make
+sure that you understand that that is completely 100 okay
+
+00:23
+we all start there some of us might have a little bit of the more extroverted
+genes but most folks start not really undershore not really sure how to do it
+and the only way to get that feeling to go away and to get to the other side
+is to do it we're all gonna have some pretty uncomfortable moments when we first
+start networking we're all going to have some pretty awkward moments we're going
+to have we're going to shake someone's hand forget our name like it's just
+going to happen right it's just going to happen
+but i promise you the more you do it and the more you find what works for you
+the easier it becomes not all of us are going to wind up going
+to conferences or meetup groups some of us might spend more of our time in
+discords and slack channels and irc channels right it's about finding what
+works for you so that you can unlock the thing that is
+
+00:24
+going to be the most helpful when you get a job now there is this weird thing
+there's this weird thing we don't get got we go get exactly
+there's this weird thing that comes comes up when you start talking about tech
+people really like to think that it's the skills
+that open the door for you to get a job a lot of people like to say tech
+is a meritocracy get in here real quick hold on get in close getting close
+that's [&nbsp;__&nbsp;] it's not it's about who you know
+and who is willing to open the door for you
+more so than the skills that you have in your head and in your portfolio
+it just doesn't get you through that first sniff test the networking
+
+00:25
+is all about getting you to the point where you can get past that person
+that's gatekeeping you getting the interview and talking to the nerds where
+your skills can shine and be the thing that helps you get the job
+but i need you to understand that you need folks in your network that
+are going to help refer you to jobs they're going to help you skip that
+first round of the interviews they're going to help your resume get to the top
+of the pile if you do not start putting in the work to network you're
+going to run into a brick wall of an uphill battle to get a job
+now is it doable could you skip all the networking and still get a job
+absolutely but we're talking about increasing the odds ever in your favor okay
+something that i've seen time and time again over my past five years
+
+00:26
+thank you occ listen to leon the thing i've seen at least in the past five years
+is my students that put in the work to network here's how it really shakes down
+right here's how it really shakes down they will get referred
+or networked in to 60 applications what does that mean that somebody has
+literally like gotten their resume into into the
+right person they've talked to a real living breathing human being and made
+sure their application was seen 60 of those
+right 60 of those 60 is the number that i push all my students toward
+out of those 60 right out of those 60 30 are going to ghost
+you just straight up rip gone just like not gonna like you you got referred
+you got networked in somebody you talk to a real human being and something's
+
+00:27
+going to happen in the process where like half of them just disappear on you
+so you want from 60 networked referred applications down to 30.
+out of those 30 you might get a first round something might happen and it'll
+turn into like 15 like real interviews where you're talking to the nerds you're
+talking to a real real coder right that that's going to evaluate your skill set
+right and out of those 15 you're going to get 1.7 offers
+that's what the numbers i i've calculated with my my my the nonprofit i
+work at during the day our students get about 1.7 offers out of the 60
+well-networked applications right so when you have someone that's just
+clicking apply on a hundred applications that's going to go nowhere
+if 60 referred well-networked applications result in less than two offers
+
+00:28
+right and so that's that's the the thing i need to stress
+and i don't want you to feel like that it's an unsurmountable goal
+i have seen folks from all walks of life get good at networking but they
+committed to a process that works well for them
+and then they put in work to get better at it right
+and so we've talked about a lot of different things you can do
+we talked about meetups we talked about conferences we talked about apps we
+talked about online communities right it's about starting that process
+for the first five years of my career like my first
+five years of like a serious like i was in boston hustling right
+the first five years of my career i had two coffee chats every week
+there was literally not a single week in five years that i did not have two
+
+00:29
+coffee chats five years every single client i have ever gotten
+every single about dollar i've raised has come from those
+coffee chats or networking right now like leon what about christmas
+yeah there were some weeks where i didn't but by and far two a week not pushed
+i knew every single person i needed to know and it helped me so much
+every single job i've gotten every single i've raised millions of
+dollars for my startups every dollar i've raised has come because i put in
+the work to network and that has always always beared fruit
+the job i have right now right the day job i have right or i'm
+managing director of engineering resilient coders that came because i
+
+00:30
+decided to volunteer right and i met people and they liked me
+and then that's how it got me the job right so like there are things you can
+do that are networking that aren't just the things we talked about right i
+talked about volunteering being my one of my favorite ways to meet people right
+to network volunteering for conferences even volunteering for local non-profits
+like like there are so many facets of things you can do to build this network
+you have to find what works for you and go all in on it right but it's a process
+i said it last class every single coding bootcamp that's trying to get
+people to jobs to get jobs should be 20 weeks of networking and at the very very
+end right when you're about to graduate they tell you to go do the odin project
+right this is what will unlock the doors is
+what will get you the job and you can do it you can do it
+we're gonna get practice together if you're like leon i have no idea
+
+00:31
+how to do this guess what we're gonna have a night where we all practice
+together right i'm going to show you the actual messages i send the people right
+and so this doesn't have to be a thing that you're good at today
+this is not something you have to be good at next week this is not something
+you have to be good at this month it's something that you have to keep in your
+brain and build up and get better at over time
+but if you're doing this boot camp if you're doing this boot camp you're
+committing to networking there's just so many other things you could be doing
+that if you want to be in this this this cohort you want to be in this boot camp
+it's a networking bootcamp surprise you got got that's what we do
+all right it's how we get jobs you can ask
+pretty much every single person that's got a job there's so many of them in
+this chat right now that have been highlighting their messages right
+right they've been writing their their messages saying like listed this is what
+
+00:32
+got me the job this is how i got my interviews right it's
+it's it's just not something that i like don't don't take my word for it listen
+to the alumni go into the celebrations channel like read what they said half
+our students got jobs without technical interviews let me say it again
+half our students got jobs with no technical interviews i just literally
+literally had a student this morning telling me they got a job and there that
+they said here's the offer letter i'm they negotiated i'm accepting it and
+then their last message to me the last matches they said to me was no
+technical interview it was an 85 000 job right they had never coded before and
+the last thing they said to me right the last thing they sent to me no coding
+interview that's what we're talking about if you put in the work for this
+
+00:33
+networking stuff you get you get so much out of it
+i missed your message there sam i networked my way into every contract
+and job opportunity i've ever had never clicked apply exactly exactly sam
+and if you all if y'all don't know sam exclamation point sam and chat
+they're the best at this stuff like i think i'm okay at networking sam's the
+best definitely give sam a follow they got a lot of uh really cool posts and
+articles on like how to build your network especially on twitter and and
+online definitely give them a follow slapper hey thank you for the for the
+five gifted subs i appreciate you all right i've said my piece
+it's up to you whether you believe me and want to go down that adventure or not
+but i'll say it one last time your skills don't open doors they close them
+
+00:34
+your skills do not open doors they close them your networking is what will open
+the doors and then your skills your portfolio your projects the things that
+are in your brain are what will help you
+close that door and get the job but they don't open doors all right so
+for those that are still stressing over it the core thing we're trying to do
+here right the core thing we're trying to do here is turn strangers into friends
+that's it that's all networking is this is my ted talk we're done
+right you're trying to turn strangers into friends right
+and turn strangers into friends and you have to find a process that
+works for you to be able to do that uh i love local meetups i we talked
+about this last class because the reason i like local meetings is you just show
+
+00:35
+up and the act is showing up regularly you get to see the same people i love
+volunteering the act of showing up i get
+to see the same people i love working on open source projects because i get to
+see the same people these are things that you can do
+that immediately take you from stranger to acquaintance just because you're
+doing it regularly right and so there's a lot of those
+types of things you could be doing that will get you from stranger to
+acquaintance pretty quick and then you can lean over into friend territory as
+well all right we talked about the follow-up pattern uh and we we all made
+we all made a a very a very important promise right we meet someone
+the next day we send them an email thanking them for their time
+right in our emails there needs to be three things
+
+00:36
+right in our emails we need three things you need to tell me how we met
+you need to provide some value right provide some value right tell me how we met
+provide some value and typically thank me for my time
+if somebody sends me an email with those three things you're top of the your top
+of the pack right so here's the normal follow-up pattern you meet someone at a
+meet-up a conference a an event doesn't matter
+the next day you send them an email which we're about to see my template for
+an email uh three days later you add them on
+linkedin and what do we never do chat what do we never do when we add folks on
+linkedin we never ever add anyone on linkedin without a message
+some folks are a little confused on that
+it's uh you're not sending messages when you add someone there's always like a
+
+00:37
+little box to put a message uh so when you actually add someone it gives you a
+little place to put a message that's the
+message we're talking about and then six days later i add them on twitter
+now people are saying leon how do you get their email well i ask
+i'll simply say hey i really enjoyed meeting you tonight do you do you have
+any contact information do you have a business card or do you have an email
+right or some way to reach out to you and normally they'll say yeah here's my
+email right people that are going to these events right
+they know that they're there to network too
+and so it's pretty common for somebody to give me their email or their twitter
+handle right um but if i just know their name there we go hunter i o right
+hunter i o uh hunter io you can throw somebody's name in the company they work
+into and it'll give you their email address so let's see um
+
+00:38
+somebody works at i don't know let's say linked bin
+all right they work at linkedin you find email addresses
+there you go linkedin.com and what this will show you is it'll show you the most
+common pattern at linkedin so you can see that it's first letter
+last name at linkedin.com boom now you have a pretty good shot
+at what their email address is even if they didn't give it to you that's it
+boom done it's not creepy it's networking folks now here's the thing
+a lot of folks start to to get in their head a little bit here
+
+00:39
+they're like leon how does this not come across creepy how does this not
+people network i think a lot of folks especially if you don't come from um
+a more professional background i want to say like like a more like in the office
+type profession right don't realize how much networking goes down right it's a
+big thing right it's a big thing right and
+interacting with folks right interacting with folks
+adding them to your network forming connections forming business
+relationships is a big deal right it's a big deal and everyone does
+it everyone does it and so if you're going to meetups right
+if you're going to meet ups right if you're going to meetups people
+are kind of expecting that you might ask them to follow up right
+they're kind of expecting it pretty much every meetup i've ever gone to people
+were really open to to the idea of like hey i really appreciated you you mind if
+
+00:40
+i follow up with some questions you have an email i've i've almost never ever
+been turned down for that most time people say oh actually it's easier to
+add me on twitter or something like that and you move on right now
+the cool thing is specifically in tech everyone has to learn right
+everyone has to learn like i could take the best engineer in the world
+right and put them on a new technology they're starting from the same place as
+you are they're reading the documentation they're asking a metric
+crap ton of questions so in tech people have to help each other if i
+wrote a language i have to convey how it works to you like that idea of like
+connecting and sharing information is like how tech started like back in the day
+back in the day you bought your apple ii
+you spent three thousand dollars on your computer you took it home
+and it was a blinking cursor and that's it a blinking rebel right and that was
+
+00:41
+it there were no games right right there were no games there were no
+calculators nothing on that computer so what you would do is you would code a
+calculator app and then you would go to a meetup and say hey
+yeah look at my floppies folks all of these have calculators does anybody have
+a word processor i have a calculator i would love a word processor and you
+would literally swap your programs with each other right that's how tech started
+it's always been on sharing it's always been built on like interacting with each
+other building each other up right from the very beginning so
+most people that are in tech have had an experience where somebody more senior
+gave them the time of day went out of their way to have coffee with them have
+taken them underneath their wing in some way shape or form
+and so you have to realize that's the type of
+environment or type of community you're entering into right
+
+00:42
+so reaching out building connections building engineering contacts is
+something that we all do and it's like the cornerstone of our profession
+so that's why networking is so important right and then people want to work with
+other engineers that they know it's just natural right it's just natural to want
+to work with people that you know so that's why this this networking is so
+important all right here's an example of the email i would like to receive right
+if someone met me hey thank you for the posture check
+and we had some hydrates coming yesterday that i don't think i saw so janks
+
+00:43
+and d's cloud thank you for um the hydration
+all right here's here's the email that i would like to receive
+so we met at a meet up or something like that here's email hi leon it was a
+pleasure meeting you last night the event was so well done it was exciting
+to meet such an amazing group of people i hope you're enjoying a well-deserved
+break after pulling it all together so i ran an event they met me at that event
+they said it was great to meet me and they kind of
+made it sound like they had a good time at the event right
+so that's kind of the first thing let me know where i met you
+thank me for my time right that's a really good way to start
+and then the last the second part here is the important bit also i don't know
+if you saw this yet but someone just bought a 375 thousand dollar first
+edition pokemon booster box and it wound up being fake the guardian covered it
+and i remembered you being mentioned being a big fan hope you have a great
+
+00:44
+rest of the week that right there is doing what what did
+they just do in that second paragraph bob is charming as hell
+what did they do in that second paragraph folks exactly they provided value
+i'm gonna remember this person value doesn't have to be like a big
+overwhelming gesture this shows me that they read something they thought about
+me and they provided some value right so for me this is an amazing follow-up
+email i remember where you met you you boosted my ego a little bit and you
+provided value i'm responding to this email right i'm responding to this email
+cool so we have that process of going from
+meeting to email to linkedin to twitter now can i tell you something
+that stays between us stays between us okay don't tell anybody
+
+00:45
+remember i told you i was meeting two people a week for years it was true
+i used the sheet which you all have but i did something else
+i had a google doc on every single person i met every single one
+every single person there's a google doc with every single thing i can remember
+from our conversation uh with everything that i learned about you
+i put that into the google doc i set up my google alerts for that person
+and you bet your dollar when i ran into them or if i saw them at the meet up
+okay kids kid just played in the lacrosse finals
+hey bob how you doing nice to see you again hope all things well how did uh i
+know you said uh john's lacrosse finals was like a big deal how did that shake
+
+00:46
+out did they win ping pong i did it over and over again
+is one of the best things i've ever done in my life so for me
+i take this process very seriously i've relaxed on it now these days but when i
+was in my hustle mode i was in grind mode i was trying to to build up my my
+rolodex i i stuck to this follow-up process
+i made sure i i kept notes on who i met i've thought of ways to provide value
+and i always tried to provide more value than came in
+
+00:47
+right and that's something that really helped me throughout the early stages of
+my career all right eventually you've built up a rapport
+with these individuals right you've met them you
+have kind of followed up maybe email maybe you had a little bit of back and
+forth and you want to ask for a coffee chat or you met somebody really qui
+really like really cool the night before and you just want to jump straight to a
+coffee chat uh here is um here is i want to talk about that's a really
+good thing for someone with adhd you're super organized i'm a mess
+because i have to if you if you ask my wife what my biggest complaint in life is
+is when somebody moves something it's my biggest complaint in life
+but when it when when the when i expect it to be in a spot
+
+00:48
+and it's not in that spot my life is over i don't know what to do i i can't
+i won't i won't remember to do it i won't remember to to fix it i like it if
+it's not in that spot it's all over all right
+i'm the same thing when it comes to my digital life
+i have to have what i call my second brain which is a place where it's just
+stream of consciousness right stream of consciousness
+everything that's in like that that's like floating in my brain has to go into
+this document right and then i take time to take that stream of consciousness
+stuff and put it into like more respectable buckets
+and i do this every single week i schedule the time for it when i say
+i live my life one google calendar invite at a time i mean it if it's not
+on the google calendar invite it's not happening
+no if fans or buts these kids got guts it's just not going to happen
+
+00:49
+so all of these systems these processes are things that i do every single time
+because the one time i don't i forget it and it just goes all out the
+window so for me my attention issues have led to like very severe [Music]
+systems and if i don't have those systems it's all over
+cool so somebody asked i want to bring it up um
+i think once the adhd channel opens up i'm definitely going to put some of my
+tips in there i've been working on a larger set of resources
+for specifically adhd and attention issues and then folks with dyslexia i'm
+really hoping to get those out in like another week or so um
+but yeah so that's why i i i i am i am not an organized person by
+
+00:50
+default i am a hot mess and if i don't build systems it doesn't happen
+so i said what happens when you can't locate someone in your own country uh
+you expand your radius and maybe you focus on remote
+do i schedule fun hell yes i schedule fun it literally like has i literally have
+like like i have a game night normally most thursdays it literally says game
+night on my calendar um it literally i literally put like sleep
+right so everything's on there i have to i just have to else it's just it's just
+not going to happen you know cool alrighty so we thought sorry a little bit of a
+side there we want to get a coffee chat right we
+want to sit down and spend um some time getting to know someone remember like i
+said people in tech want to give you their time i
+and don't do i'm not gonna i'm not gonna do a coffee chat with you there's
+there's thousands of you here right now but when i was in boston
+
+00:51
+i never turned down a coffee chat in the history of people asking me i've never
+said no now scheduling or stuff may have fallen away or emails when it got lost
+but i never said no to a coffee chat and i would say out of
+the coffee chats that i asked for above 90 were yes like just straight
+away had coffee chats right and so for me it's just such a core piece of being
+in tech and getting to know others and interacting with others that like it's
+just a normal thing and so how much of the conversation should be
+talking versus listening i think most like if you're asking
+someone to a coffee chat and you've read how to win friends and influence people
+or you listen to it because it's free on youtube listen you can listen to it um
+you will have come across this idea of people like to talk about themselves so
+i would say most of the coffee chat is me being really interested in them i
+want to hear about your background your experience and i'm genuine like i really
+do care about your background how you got there your experience what it's like
+
+00:52
+to be an engineer at your company right like all those things i'm just generally
+want to be interested in and then that makes them feel that they like me
+it's just part of the how to win friends
+and influence strategy right and so most of it i would say is like they're
+talking the most i'm energetic interjecting adding a little bit and
+sometimes they'll have a back and forth and they'll ask me about myself but it's
+more like letting them talk so i asked for coffee chats i said i set a email out
+a week two weeks and then a month and then i stop i don't i don't ever send
+more than three right i would say more than three uh i don't
+really do cold intro so i said what about cold intros i don't really do cold
+interest i really like my coffee chats to be people that i've met through the
+other channels that we're talking about i feel like when you do a cold outreach
+and you haven't provided any value that's just too much friction to get
+
+00:53
+started maybe if you can provide a lot of value in that initial outreach than
+it works but i think coffee chats are more folks that you've already
+interacted with a lot of people love to do this [Music]
+this is this is this is how most this is well not most that's how some people
+start off their networking journey they just blast out a bazillion things to a
+bazillion different people and then they get no they get nothing out of it
+right networking should be thoughtful you should take your time it's it's
+about quality not quantity always remember that networking is
+always quality over quantity right i rather have 10 people that know me
+really well in tech and and dig me in or into my vibe and like are on my side
+then like a hundred people that i've blasted on linkedin right and so
+in the beginning go slow this this is a slow process in
+the beginning please please go slow in the beginning don't like some people
+
+00:54
+like jump in the twitter threads and they're like ah i'm adding everyone on
+twitter i'm editing on everyone on twitter you you like this guy and they
+just add a bazillion people they add a bazillion people on linkedin
+they they never flop within these people
+they don't ever get to know these people and it's just a waste start slow
+go slow build it up and you'll get there all right uh here's a
+a message that i would like to receive if somebody was asking for a coffee chat
+and don't be cheeky and send me an email i'm not going to respond to you
+uh hi leon it was a pleasure meeting you last night the event was so well done
+exciting meeting such a group of people i hope you're enjoying a well-deserved
+break after pulling it all together so kind of that same line that we saw in
+our normal follow-up email just thanking them for their time um kind of boosting
+the ego a little bit on like how the event went and then the the ask
+as i mentioned last night i'm just starting my engineering career and would
+
+00:55
+love to learn from successful people such as yourself please let me know if
+there might be a time you are free to grab a virtual coffee over the next week
+or two before 9am or after 5pm tends to work
+best for me but happy to accommodate works for you thanks
+there's a couple things that are at play here uh one
+i am kind of boosting a little bit here like successful people like yourself
+okay i'm feeling good about myself that's a good email all right i gave them
+kind of a range like in the next week or two right so i'm talking about this
+being somewhat sooner than rather than later i gave them a suggested time range
+like before nine or after five works but i'm saying i'll accommodate what works
+for you right so it's it you you kind of butter
+exactly butter them up a little bit right we butt them up a little bit we
+gave a good range we made our ask right and then right and then you do your
+
+00:56
+your your your value right you do your value right um if you saw this
+is in the guardian it was fake right so this is this is the coffee
+chat ask sandwich you thanked them you made your ask you provided value thank
+ask value bank ask value right you don't have to use this exact like
+wordage right i don't think you should copy and paste what i have here
+right like we don't want a thousand people sending coffee chat requests with
+the same text right but it should give you a pretty common place to start
+thanking them making your ask and then providing value right and so
+if you can get that through in your coffee chat requests i know they're
+going to go well for you is it weird to take notes during coffee
+chats i think it is i i think some people do it
+
+00:57
+um but i'm not there to like take notes or be like like i don't know i'm there
+to make a friend right i don't ever pull out my notebook with my friends
+right like if we're chilling i'm not like oh
+oh really right and i'm like right now that's weird right so don't don't bring
+a notebook don't be overly eager remember you're trying to make a friend
+like even if they're a more senior engineer you're still trying to make
+friends right and so really treat it that way use the sheet
+right you have the sheet exclamation point sheet and chat works as well
+remember it's a place where you're gonna put the event the date the name the
+company position the spark like the thing you remember about them their
+email and then you follow up on all of the patterns right
+you might have to come back and make a copy later because there's a lot of you
+on here but yeah use the sheet you're going to forget people you're
+going to forget people and then you're going to you're going to come you're
+
+00:58
+going to be 20 weeks later right you'll be 20 weeks later wanting to apply to
+that company and you're going to see oh i talked to bob that works at that
+company a couple months ago you're going to remember that spark so you can use
+that as part of your follow-up email hey bob i really enjoyed our conversation
+about rubix cubes a couple months ago i actually bought one i've been trying to
+learn it myself i saw that such and such company has an opening would you feel
+comfortable referring me right you got to have it
+don't record conversations though please don't
+how does the google alert work you just go to google alerts you just go to
+google.com alerts and you put in any name or company or anything like that
+and then it just sends you an email when it finds something all right
+yeah the sheet's not going to work because so many people jump on it you
+
+00:59
+got to come back after class all right questions before we take our top of the
+hour break when we come back we're getting into writing actual code
+building real layouts i'm super excited um questions before we take our break
+about networking please how do i not give off the impression of
+trying to ask someone out when asking for coffee
+one first remove any idea of dating or anything out of your brain when you're
+doing networking it has no place don't be creepy don't do that right
+you keep it professional right you keep it professional you
+make sure that it's very clear that you're interested in career and their
+career growth right you're interested in learning about how they got started as
+an engineer and that's it please don't ever
+
+01:00
+ask someone out after you have a coffee chat please don't ask someone out when
+you're going to network events these are two completely separate ideas don't be
+that person um i really prefer to keep it
+professional i'm a little old school i'm never going to give you my phone number
+we're going to communicate via email right i'm going to make it very clear right
+very clear that this is not this is this is this is this is nothing
+in that realm this is a business relationship uh and so i i know i'm i'm
+a little odd but i i think that i have seen a lot of folks benefit from keeping
+professional communication linkedin messages and emails opposed to phone
+numbers and texting and stuff like that how do we get open source projects to
+
+01:01
+work on we're going to cover that as we get further along
+tips to make a coffee chat feel less like an interview just be generally
+interested in the person it's not an interview it's hey how'd you get started
+right right how did you get started what made
+you interested in tech all right these are like very open-ended questions that
+you're really and in my emails i'm always saying like hey i'm really
+interested in how you got to where you are right it's very clear that i'm
+trying to learn about your experience as an engineer and so i start with most of
+my questions uh how does this work in places that are
+not the us same thing you find a city that has meetups closer to you or you
+find communities that are closer to you or if you know you're in the
+in a place that just doesn't have anything then you have to do the harder
+
+01:02
+journey which is networking with remote companies
+find a list of 80 companies you can find it very easily online 80 companies that
+hire remotely figure out the people that work there start figuring out what
+events they go to what what what meetups they go to and and meet with them
+digitally if you're thinking about being purely
+remote and in a place that does not have a locality that has engineers then
+you're going to be doing the same process but you're targeting people
+remotely and remote events it's a lot it's more difficult for sure
+uh most events are remote right now some
+are slowly starting to go back in person
+but most are still remote they'll mostly
+be like over zoom or some other platform like that
+how do we start conversations in virtual meetups or coffee chats hello how are
+you my name is leon what what uh what are you excited about
+today like what are you what brought you here
+
+01:03
+do you if it's a javascript meetup oh like are you excited about the talk right
+are you interested in the topic here for the pizza right any of those things are
+starters but we're gonna specifically have a night to practice our opening right
+we're gonna we're gonna we're gonna have a night where we all kind of
+are talking live to each other where we practice our kind of like how to start
+conversations right i know that's a that's um a pretty big
+barrier for a lot of folks and so we're gonna do an icebreaker night exactly
+where we practice our our openings how we um uh reach out to people right and so
+we're gonna we're gonna practice all those things
+
+01:04
+i have some of my students that literally have
+like index cards they carry that have like all their basic questions that they
+practice they go into the mirror they look at themselves and they say hey i'm
+leon nice to meet you right and so we're going to practice these openings we're
+going to practice these kind of conversations and so that's why i say
+this is the beginning we're going to go slow right we're going to go slow
+go to the bathroom don't wait for me to break why are you sitting there when you
+have to go to the bathroom just go to the bathroom that's so weird uh
+we're going to go slow you're going to take your time
+right you're going to take your time we're going to build up to this don't
+have something right don't have something like that makes this a blocker to you
+we're gonna go slow we're gonna mess up a lot we're gonna find what works and
+we're gonna keep pushing is there a dress code for coffee chats
+no keep it casual alrighty folks we're at the top of the
+
+01:05
+hour let's go ahead and take our five minute break
+if you're new around here we like to be healthy we like to make sure
+that we get our stretches in we like to move around
+we like to make sure if we're able to get up look outside the window let our
+
+01:08
+eyes focus on something that is not the screen and we'll be back in five you
+we have some extra stuff that came in that i didn't
+see on my dashboard so let me see if i can find it real quick
+are we talking about networking in the context of coding
+
+01:09
+or that weird thing social yeah we're talking about making connections so we
+can get jobs alrighty about a minute left folks
+where did you learn all your networking hacks in the streets folks
+most of the stuff i teach is because i've probably already
+[&nbsp;__&nbsp;] it up and i've learned from that [&nbsp;__&nbsp;] up and
+then i distill it so that you do not
+have to [&nbsp;__&nbsp;] up in the ways that i have [&nbsp;__&nbsp;] up
+and then the beautiful thing about having hundreds of students that have
+helped get jobs is that i've seen them [&nbsp;__&nbsp;] up
+and so i learned the things that have
+
+01:10
+stopped them from [&nbsp;__&nbsp;] up then i teach it to you
+jordans or yeezys i've never been into shoes i only wear vegan shoes
+i just like growing up we didn't have like money for shoes so i
+had my air walks from payless and i thought they were the jam
+
+01:11
+and uh yeah that was it all right folks come on back come on back chris lance
+lance thank you chris all right folks come on back come on
+back let's get into this boom thank you for the update
+on your bathroom endeavors glad it went well
+are you into zero drop shoes i am yeah and the more comfortable
+all right and the last thing we talked about networking was the apps and we
+talked about this image i just wanted to throw this image back up just uh
+just because alrighty folks let's move on golden rule
+
+01:12
+separation concerns is important why yes organization for ourselves
+our teammates it helps our code stay organized keeping our content on html
+our style and our css and our behavioral interaction in our javascript nice
+talked about this idea of progressive enhancement this idea that the core of
+our content should be good html and if we do that we're doing enough
+on top of that quark of content we just add a little bit of a chocolatey coding
+that is our presentation or our style it might be a very very thin
+thin candy coating of our javascript so the core should be html
+and then everything else is really extra and the reason for that is because we
+are still in a time where most folks lack access to high broadband internet
+
+01:13
+uh in the us in 2017 the statistic came out that 35 of our rural residents did
+not have access to broadband that was 22 million americans when you look outside
+the u.s it gets even more real in terms of folks still not having access to
+high-speed broadband and guess what your sites do not need to be that heavy
+there's this really wonderful uh thing i found on hacker news last time i was
+teaching this class called the one megabyte club so it's all sites whose
+total size right their total size is less than uh a megabyte and they just
+keep a really cool list of it and there are some big ones on here we saw
+thelight.cnn.com but there's also like npr now has a very simple one so
+text.mpr.org right has all of their content all their main articles right in
+just text format the site is way less heavy it loads faster it does all the
+
+01:14
+things that you need to do without having to sacrifice folks that do not have
+high speed broadband cool the only thing that's coming out
+recently is starlink i've been watching a lot of videos on youtube of folks that
+finally have starlink so starlink is a elon musk company
+where they put satellites and they figured out a way to
+make the connection to those satellites since they're in low earth earth orbit
+and not like all the way up in the outside of the the like lower earth
+orbit they can actually connect to them and have really fast speeds and so
+people have like really low ping and over 100 megabytes per second so like
+traditional faster than traditional uh broadband that's like wired which is
+pretty dope uh and for 99 a month and their goal is like bring that cost down
+we're talking about folks that are like in the middle of nowhere in terms of
+like access to broadband now being able to get access to it and there's a bunch
+of other companies that are competing as
+
+01:15
+well and so hopefully we'll see over the
+next 10 years or so the proliferation of broadband
+in places that wouldn't actually run cable to
+nobody in minnesota has it and loves it yeah i've seen a lot of people that are
+really really happy with it yeah i've watched quite a few um
+quite a few videos and people like setting it up and it seems to work
+really well for them so maybe this problem will slowly dwindle and
+hopefully the cost gets reduced significantly all right where does css go folks
+separate file exactly uh if we are writing for html uh emails
+we can put a little bit in inline if we're writing uh code at amazon and we
+need critical path css maybe put a little in the head but for most of our
+projects and the things we work on separate file um
+to make sure we adhere to separation of concerns
+
+01:16
+all right our favorite game chat what is this oh no what is this gotcha
+it's a value nice about this collector nice nice and how about this beautiful
+declaration so whole thing is a rule a rule is broken down into selectors
+declaration block decoration blocks are broken down to declarations declarations
+broken down into properties and values wonderful
+
+01:17
+all right we know that stuff that comes above can be overwritten that stuff that
+comes below due to the cascade right due to the cascade but the cascade only
+comes into effect if the stuff below has what
+specificity exactly they have the same or greater specificity nice
+alrighty uh we have a bunch of different relationships we can use to target
+specific elements in our css so we have parent child
+relationships and this right here is a direct parent child right meaning that
+the child comes directly within the parent there's no other steps in between
+which is a little bit different than a parent child that is not direct here we
+have a child of a paragraph that is directly inside of an article but is still
+
+01:18
+inside of a section so no direct child if we were to go ahead
+and put the carrot here this just wouldn't work it would not
+style hello twitch to be read beautiful and the other one we saw is a direct
+sibling right where we're trying to find a paragraph that
+immediately comes after another paragraph so in this case
+hello youtube would be the thing that comes red because it comes immediately
+after another paragraph alrighty [Music] alrighty ids and classes right ids and
+classes so here we go ids can be used once right once and only once
+
+01:19
+all right ids can be used once and only once once you give us something an id
+right once you get something in id that id cannot be reused right it cannot be
+reused on any other element and once you give an id all right one second cool
+alrighty once you give an id right once you give an id
+that id cannot be given to any other element so i could not put zebra on
+another paragraph i could not put it on another section it is now no longer
+allowed to be used and right this other element this element
+paragraph cannot get another id cool classes are a little bit different
+right classes are a little bit different right class is a little bit different
+each element can have multiple classes right each one might have multiple
+
+01:20
+classes so i could give it a class of bob a class of rainbow a class of robot
+and uh classes can be reused right so not only can one element have it but
+every element could eventually have that class and then our classes can be given
+as many as we want per element and so you can wind up with an element that has
+an id of zebra then it has a class of bob and a class a
+robot and a class of etc because ids are unique classes are not so we target
+multiple elements at the same time nice all right chat how many points of
+specificity well for the rule i should say how many
+point specificity for the rule are y'all referencing the amazing uh music duo
+
+01:21
+112 that we're all shouting in chat oh the pointy specificity i see so we have
+one two tags we have one class and we have one id so 112 points of specificity
+uh how many points of specificity do we have on this one
+we've seen these already should be a quick quick quick quick done nice
+we got one tag we got three classes and one id 131 points of specificity nice
+this one what do we got the rule well some of you got got it's okay some
+
+01:22
+of you got got let's see we have zero tags we have three classes we have one id
+and an important for a thousand so 1130 points of specificity nice alrighty chat
+what is every single thing in web development
+everything every single thing in in that we see here is a what
+a box exactly every single thing we see is a box all right it's a box remember
+we have we're figuring out the box model we calculate the box by including its
+height its padding and its border or its width
+is padding and its border and then the margin can push that box around it's the
+bully it can push it around right so if we're calculating the width we would use
+
+01:23
+the width of the element plus its padding
+plus its border and if we were trying to
+do the height you take the height of the element its padding and its border
+padding increases the distance between what
+padding increases the distance in what content and border exactly it'll
+increase distance between the content itself and its border wonderful look at
+us go all right so we actually saw this all this the exact code in the last
+class but i want you to get i want you to do it again i want you to see if you
+can re do your active recall here i want to see if you can do it again
+we have the box model code if you're new
+around here and you want all the starter code that we're using
+in you join our discord uh exclamation point discord or leonwell.com discord
+
+01:24
+once you agree to the rules we have a follow along materials channel go ahead
+and download the materials from that day's class from the following materials
+channel and you'll have everything that we need here you unzip it and we go to
+work so we have this box model practice uh
+that has the same stuff that we did last
+class so i'm putting four minutes on the clock and i want you to go as fast you
+can through solving this see if you can recall everything make
+sure you figure out how to get it done and if you get done
+right done in chat for me go for it we don't get got we go get
+
+01:25
+don't get got we go get exactly welcome chalupa glad you found us
+i have three monitors and an ipad and my laptop screen so live
+chase lessons are thorough they are a lot of great details in there
+thank you trader joe would you recommend one widescreen or
+multiple monitors um i love one wide screen because i can have everything
+next to it uh it's just that with streaming i like to have separate monitors hey
+
+01:26
+milky doe thank you for the raid hope you're doing well thanks for stopping by
+we got to get a raid coming your way soon
+thank you for stopping by i hope you're doing well
+gotta coordinate get you later one of these days we can swing through with the
+the whole crew hope your stream went well
+for uh folks that are that are stopping by
+we're working on some code here uh we're working on the box model
+and so that's what we see the timer for folks are working through the box model
+work how was your stream what were you all up to hey i appreciate that monkey
+yeah the shadow command's not working we
+got to figure that out occ thank you for trying to but
+
+01:27
+we'll do we got to figure it out let me see if i can just copy
+there we go i can just paste it into the chat
+definitely give them a follow please if you haven't already
+and we're definitely going to raid going over there soon
+all these folks coming in done nice hey different thank you for giving them
+
+01:28
+a sub i went in hot with the dunzo's i see y'all well do i see you all let's go
+doing good we're doing good i appreciate that fizzy and the one job please
+all right let's go over this together folks come on back come on back i don't
+care how far you got you're doing okay let's go over it together and we've
+already seen this one so we should be able to get through it quick
+let me chill the music here done finally on time i love it congrats
+well done everybody so many dones get on y'all
+all right let's take a look at this together got a confession to use the purple
+
+01:29
+background all right please give the h1 some padding on three sides so we know
+we can use the shortcut right where we can have the
+four individual sides for padding so we can just go ahead and do padding
+and we could just say if we wanted like let's say zero on the top we could do
+zero and then 20 pixels um let's do 10 pixels and then
+20 pixels there we go so what that would do is it would put zero pixels on the
+top uh 20 pixels on the right 20 pixels on the right 10 pixels on the
+bottom and 20 pixels on the left so now we have um
+we have padding on all three sides right uh except for the top cool margin on
+just one side so it's going to put margin on the top then remember we could
+do the same thing we could do like margin and then do a value
+for just giving one size we can also do margin hyphen let's just put on the top
+
+01:30
+and we can do let's do 100 pixels on the top great now we have padding on one
+side on on on three sides except for one and
+we have margin only on one side love it a light purple background with light
+blue lettering what did you all do for for the background lavender
+lavender for light purple and then what did y'all do for light blue plum
+good one i did sky blue last time let's stick to that that was fun cool
+all right let's move on we're going through this one a little bit faster if
+you've seen it before if you're new don't worry typically go much slower the
+first round you can always catch up with the vod in the past classes on youtube
+all right please give the h2 significant padding on the top and bottom cool so
+let's go ahead and do our h2 and then we're gonna do padding but we're gonna
+use the two values so that it repeats so we'll do
+50px and then zero and so what this will do is we'll do 50 on the top
+
+01:31
+zero on the right 50 on the bottom and zero on the left cool
+a dark green border on the top and bottom we can do border
+top we can do like three pixels solid dark green and we can kind of do the same
+thing for border bottom where we just do three pixels
+solid and then dark green again beautiful and anyone figure out a shortcut for
+that and then the last thing is an orange background so let's just do background
+orange eagle screen alrighty please give the section a thick blue border
+
+01:32
+all right section thick blue border let's do 10 pixels border let's do 10 pixels
+solid blue let's give it a height of 300 pixels and
+a margin of 400 pixels or more on the top so let's do margin top and let's do
+401 pixels cool so we gave it a thick blue border
+we gave it a height of 300 pixels and a margin top of 400. nice last one
+let's go ahead and have all the spans go ahead and do thin yellow borders so
+we'll go ahead and do border and we'll do one pixel solid
+yellow just to keep it thin and then equal padding and margin on all
+sides we can just use the shortcut where we write it once right once right and
+
+01:33
+so we're just going to say padding and we'll say i don't know 10 pixels on
+all sides right and then margin will do the same let's
+just do margin 10 pixels on all sides and when you just have one it repeats on
+all sides top right bottom and left let's see how it looks
+mama didn't raise no designer but it satisfied the uh the requirements folks
+it's beautiful i'm gonna tear my eye only a layout a mother would love exactly
+there we go cool let's move on time for some layouts folks time for some layouts
+uh we have seen some layouts in the past we've never done a full one
+
+01:34
+with all the things that we've learned and so we're going to do that tonight
+we're going to see some real good layouts for our layouts this week we are using
+floats yes that is right the floats the demons are back leon
+why did you show us the magic last class why did you ruin it all right why did
+you ruin it for us right we saw we saw the magic
+two lines no percentages no no weird hacks it just worked why do you want me
+to go back yeah the no flex zone exactly no flex zone right now we're all about
+floats can't tell you the number of one of my
+students that join a company and the first thing they get thrown into is
+floats boats are way harder to figure out which are way harder to do layout
+with so your first layouts the layouts that i'm asking you to do tonight and
+the layouts i'm asking you to do for homework this weekend are all floats no
+
+01:35
+flexbox no grid roger hey thank you for your subs all right no
+floats sorry all floats no flex this is a no flex zone
+no flex no i gotta play this song uh we'll get dmc8 um yeah so all floats
+floats no breaks exactly remember floats [Music]
+remember floats are fighting to get into a corner
+if you float something to the left it's trying to go up
+my apple pencil keeps dying if you try to float something to the
+left it's gonna go up as much as it can and to the right as much as it can
+fighting to get in that corner if you float it to the right it's gonna go up
+as much as you can into the right ones you can try to fight to get in that
+corner and the beautiful thing when you float a lot of elements they wind up
+sitting next to each other and so that's the hack of using floats for layout
+
+01:36
+all right a warning tonight tonight i need you to dig deep
+there's something that you might not know about yourself we all possess
+something deep inside of us sometimes it comes out sometimes it doesn't but we
+all have something inside of us we all have a baddie inside of us we all
+have the capability to be a baddie sometimes we turn it on sometimes we don't
+so what i need you all to do is to dig deep and find your inner body
+all right because tonight i'm going to write some bad code folks
+i'm going to write some some some terrible code we're we're getting rid of
+the old saying and we're embracing our inner body
+and uh we're gonna write some bad code all right so be a baddie write bad code
+now why do i ask my students to write bad code let me tell you the biggest thing
+
+01:37
+the biggest barrier like you talk about any barrier the biggest barrier my
+students have faced and the 10 years of me doing this right
+is the idea of things needing to be perfect
+the idea of things needing to be best practice
+the idea of things needing to like look coherent no not tonight not this week
+maybe not even this month this night this month we're embracing
+our inner body and we're writing bad code
+perfection is for closers we want to get
+wins on the board we want to get layouts on the page we don't want to be
+that student that spends three hours on a header don't be don't be that student
+be a baddie write bad code right dig deep every single cohort i've ever run the
+
+01:38
+biggest mistake folks make right is trying to get things pixel perfect right
+out the gate they're spending an hour just trying to get something a little
+bit more to the right instead of to the left instead of getting the whole layout
+done right no client no manager wants to see your amazing header
+you can't go to a client and say hey i got a header but nothing else you can go
+to a client oh here's the whole layout we got to clean some stuff up we got to
+make the header a little bit better but you can see the whole page is here right
+i just need the weekend so be a baddie write bad code all right
+and so just as a reminder and just uh so i don't get as many twitter messages as
+i know i'm about to get some twitter messages guess what come here
+i'm gonna write back code i'm telling all my students to write bad code and if
+
+01:39
+you send me a twitter message here's your reply get in [&nbsp;__&nbsp;] you
+that's all i got to say that's it i don't care get the [&nbsp;__&nbsp;] out
+all right get out bye and we say bye bye bro get out got him exactly
+this is tonight's not about perfection tonight we embrace our inner body we
+write bad code i'm gonna bring up just a reminder so that none of y'all forget
+writing bad code here we go it's a disclaimer the disclaimer
+and we're going to leave tina up there too there we go
+just so you know i'm a baddie i write bad code
+that's it i'm that's my twitter bio i'm changing it we're gonna do it live
+i'm a baddie and i write bad code watch me
+all right so let's write some bad code um and uh we're gonna we're gonna embrace
+
+01:40
+that this evening all right we're gonna embrace it this evening all right first
+layout we're gonna do is techcrunch when i look at techcrunch i see three quick
+things and that's what i'm going to go with tonight that's about being quick
+it's about being fearless about being a baddie and not caring about the haters
+on twitter we just don't care i'm going to leave you on red
+you're a hater ain't got time for you want to keep it moving
+keep sending me those dms keep giving me the engagement thank you
+you ain't getting a response i'm a baddie i write bad code hold on
+all right i just needed it i need it in my head i need it in my head all right
+here we go i'm looking at this this could be a lot of stuff right this could be
+this could be uh let's see this could be uh
+
+01:41
+it could be a header it could be a nav i'm just gonna say enough for now screw
+it i'm a bad here i write bad code all right all right got a nav
+i'm gonna call this a main a main and then i'm gonna throw this and then aside
+and maybe the aside will have like a list right maybe the aside will have
+like a list but that's where i'm going to start bad coders club
+i'm going to start with a nav a main and an aside that's it i'm writing bad
+code i don't care so in our starter code for today
+uh we have these three spots for layouts so i'm going to start
+with the layout one which is just the template it has the viewport in it that
+we talked about last class and uh i'm gonna go ahead and use a nav
+
+01:42
+and then i'm gonna have my main and then i'm gonna have my aside
+a lot of y'all asking leon what about this what about that i don't care i'm
+writing bad code i'm trying to get a layout on the board i'm trying to get
+some wins i'm trying to get some w's it just doesn't matter it never matters it
+just doesn't matter get some wins and then come back and nitpick is it main or
+section it's a main for now i'm a baddie writing bad code
+look at look in the corner i'm embracing my entertina come on now
+all right let's look inside of here all right we got like an image
+we got like an anchor tag for the login and we got like we got maybe like a ul
+with a bunch of stuff in here so i'm gonna go ahead and do that inside my nav
+i'm gonna have an image and it's gonna give it a placeholder for
+
+01:43
+now and i'm just gonna say techcrunch logo and then
+in the main we had like an anchor tag that was that login right
+uh let's put a placeholder for now and it's gonna say log in
+and then after that it kind of seemed like a like a list to me
+like a list of a bunch of like anchor tags probably
+and so we'll put a placeholder in and then what was the first one
+search that would actually be a form but we'll just say search for now startups
+search startups videos search i'm going to copy this
+i'm gonna put startups in here and then i'm gonna put videos in here cool
+and it doesn't be perfect we'll come back to it later right cool
+main is a thing yes it is a tag yes you can look up on the mdn if you don't know
+
+01:44
+what main is one two three four five six
+seven eight nine so there's like nine of them i'm just going to copy this three
+times i'll copy it and paste it two more times um boom ovar
+boom all right so we got we got like nine of them there that's good enough
+for me you're not coding along we're we're you're watching we're talking we're
+discussing please don't frantically um uh feel like you have to code along with
+this now this this is too much just too much pay attention ask good questions
+uh and listen to the decisions i'm making here
+don't be like frantically trying to get down too much i mean hey
+you're a baddie go ahead and do you that's all i gotta say you know don't
+let me get in your way all right so we got our nav let's look at our main here
+what china's fintech market can teach the world all right i'm gonna go here
+
+01:45
+maine that seems like i don't know we'll call that an h1 and so what china's
+fintech market can teach the world the world beautiful
+and then underneath that there's like a paragraph
+and i i'm not going to type out a full paragraph i'm going to use lorem ipsum
+right and we use lorem ipsum and so it's going
+to keep the first sentence from that lorem ipsum
+so if you're in vs code all you got to do is type in lorem and hit tab and
+it'll give you like this filler code right so lorem ipsum is just filler code
+that devs use when they don't want to type all this stuff out when i'm doing my
+my bad code i like to keep some of the text there just so i don't have a lot of
+work when i go back right but um that's what i'm using there so i didn't type
+all that out really fast i just used lorem and hit tab and it gave me all the
+
+01:46
+filler text cool and then there's like a span with somebody's name
+i'm gonna say span and somebody's name there you go
+beautiful so that's our we had our nav on the left our main with all the stuff
+inside of it and then our side and if we look at our side i'm going to
+actually say this is like a list right i'm going to say this like a list
+i'm going to say it's like a list of of maybe just like h twos or threes
+and a span that's what i'm gonna do in my side ul
+uh and then each of those blocks gonna be lis and what's the first one
+ah who cares i'm just gonna put a sentence of lorem there we go
+and copy that lorem there so uh inside each of those lis i'll
+probably put like an h2 it'll have that stuff in it and then i
+
+01:47
+think there's like a span after and that span had somebody's name cool
+and so then i'm going to go ahead and take
+there's four of them so it's gonna have four of the allies beautiful
+fintech is financial technology cool so we have our nav and all the stuff there
+our main which had all the stuff that was in the main area and the aside which
+was kind of like that sidebar with uh the four li's inside of it cool
+let's pull up our css and uh let's open this in the browser to
+see where we're at all right so right now it's not it's not too bad
+not too bad right like it the the core is there we're following what chat this
+
+01:48
+is not too bad we're following what this isn't too wild
+enhancement right for fallen progressive enhancement like our html is the core
+thing here people could come they could come to this site they could
+see the they could get to the links they
+needed to go to they could find the main the main content they could see our
+content that's in the assign that get kind of works but we're going to take a
+little bit further we want to get that layout done we want to get that layout
+done right so if we go back and look this layout is really three columns
+right so i'm going to say the nav is what 10 and maybe like 50 for the main and
+i don't know 40 for the aside so we can do like 10 50 40. remember
+it's a no-flex zone this is uh floats for tonight and this weekend all right
+
+01:49
+let's go in here let's get into our layout area and let's go ahead and say nav
+nav main and aside and let's float them all to the left
+and we're just going to start off the main i'm sorry the nav being i don't
+know the 10 right so we'll just we'll just redo the main and the aside but
+we'll keep the width of ten percent on the main on the nav i mean and we'll
+come down here to main and we'll go ahead and give that a width of 50
+and then we'll come down to the aside and we'll give that a width of 40 percent
+cool i feel i feel pretty comfortable with this to start
+
+01:50
+and let's go ahead and go back to our site and refresh i mean come on now
+i'm a baddie and i write bad code that's all i gotta say
+check out my twitter profile first try and so this is what i'm talking about
+right that took us what a couple minutes to get a decent layout to get the core
+stuff here right to get the core stuff here right like
+we could have spent an hour agonizing an hour agonizing over just this nav here
+right but now at least you have the core layout and do we have to go back and
+make lots of changes do lots of things yes but the core is here we got we got
+through the block of getting just something on the board right we got a
+
+01:51
+win we got a w we can go back and refactor right we can go back and refactor but
+for for starting out this is what you want get rid of the fear
+right get rid of the fear get rid of all the nagging things that
+are in back your heads and you have to write good code no we're baddies we
+write bad code right the sooner you embrace that the
+sooner you give up on perfection and you just try and write
+code of any shape or form your world changes free yourself write bad code
+and in the the process of writing bad code you'll find things that work
+you'll find things that don't work you'll find things that you want to
+change that you that you might want to update and you'll get better at it but
+you have to start don't let perfection stop you from
+getting a dub on the board this is a dub
+this is what i'm talking about this is a layout the core bits are here yes we
+
+01:52
+have to play with sizes heights with we have to move stuff around but the core
+is here get here first right be tina alright next one
+khan academy all right let's look at this when i look at khan academy
+chat what do you what do you say this is what do we think that is chat
+it's a header yeah it's a header and probably like a nav like you're saying
+like a nav inside the header and then that nav is probably like i'm
+just gonna say an anchor tag for now yes i know it's a drop down but i'm writing
+bad code i'll probably say like an anchor tag there
+um then definitely like a form maybe an h2 because that could be a logo but it
+
+01:53
+could also just be text i'm not sure if they have like their own font or
+something um so i'm just going to say an h2 for now and then
+a ulis anchor tags that we kind of just saw in techcrunch right
+and then when we look down here this is probably like main
+and then mains probably split up into two sections
+right and this section probably is like an image and then this actually has like
+an h1 a paragraph and then i don't like writing buttons i use anchor tags so
+maybe like four anchor tags that are pretending to be buttons
+i think that would get us pretty much all the way to our
+simple khan academy site here so that's what i'm going to try let's try that
+i'm going to go to layout 2 that i have here
+and close this one out of course you'll always get my my solutions and things
+
+01:54
+why do i hate buttons because they're weird and i'm a baddie i write bad code
+i don't like buttons we had some words i don't like them so i
+ain't going to use them alrighty let's do our header
+inside our header we said that we had a nav
+and then inside that nav we said we had an anchor tag right off the off the rip
+here and that was courses i'm going to put the octothorpe as a
+placeholder all right just means that we don't have the link yet and it's going
+to be courses after that we had a form and whoop
+and that form will have an input in it and that input will be typed text
+yeah i'm fine with that for now um after the form what do we have here we
+
+01:55
+have like our h2 h2 and i'm gonna put con
+academy there you go i spelled it right this time let's go [Music]
+win thank you leon you're on fire tonight keep doing you
+all right so we got khan academy uh and then we have like our our list of
+links on the end so ul li anchor tag put our placeholder of the octothorpe
+and then it was donate and then what were the other two
+login sign up so let's just copy this login i know cool alrighty uh andy
+
+01:56
+art thank you for the hydration cheers to you all right so that's our header
+let's see let's see our header off the off the rip here let's see
+not bad it's just not sitting across right like it's it's it's readable
+um we just want everything sitting next to each other right
+it's when everything's sitting next to each other so let's go
+and write some css here and we got our box sizing that looks all
+good let's come up here we already got our header and so
+i want every single thing inside the header to sit next to each other
+so i can just i could just float everything that's inside the header um
+if we look all of our stuff is technically inside the nav so let's go do header
+
+01:57
+nav and how could i select everything let's do astric
+all right let's do an asterisk and people are saying display in line inline
+block we haven't talked that we said floats only it's a no flex zone i'm
+going i'm just going to do what i know how to do right even if maybe i didn't
+know about that stuff yet right who cares i'm writing bad code folks it's
+bad code i'm gonna do it how i know it it's gonna look good
+all right let's go ahead and refresh not bad right not bad
+uh it's just not like there's no like space in between stuff
+all right like it's just in a up so let's let's give it some
+give everything some whiffs and maybe some margins so they're not sitting next
+to each other right um let's give everything a whiff i could do like with
+10 percent and then let's do some margin um
+
+01:58
+let's do like one percent to bring it off the top uh let's do zero for now and
+then five percent in between and this is
+just me spitballing right i have no idea if any of this will work not bad
+i miss flexbox so much right now exactly that's why we're doing what we do
+so we're doing what we do nice this is uh this is uh this is not
+completely wild like it seems like our um
+our form is not taking up all the space the form is all the space but if we look
+the input's only taking up oh because the input's at 10
+right we said everything was ten percent and so the form is not taking up um
+
+01:59
+everything maybe if we did something funky maybe if we did this real quick
+right if we do that right if we do that then it's just the the top level stuff
+right it would be just the top level stuff it would be like just the the
+anchor tag the form the h2 and the ul would be that percent
+right it wouldn't go any deeper to apply
+that that percent and stuff like that to the sub elements so now we can see like
+the the anchor tags are no longer sitting next to each other right but the
+form is like the full size now right okay so let's let's think about um
+let's think about those forms those lies maybe maybe we can target those lis
+let's do nav i'm gonna i'm gonna do direct so i don't
+
+02:00
+worry about anything like further down let's um can we float them to the left
+and can we get them like a certain size let's just flip them first let's see if
+that does anything did nothing all right if we inspect
+not sitting next to each other maybe they don't have enough room though
+maybe they don't have enough room like see how that see how it's like taking up
+that full width maybe maybe because they don't have a
+width they can't sit next to each other right or right now we don't have enough
+specificity either right look we're saying header nav
+asterisk we don't have enough specificity either so if we did like header nav li
+we came back cool now we know we at least have enough
+
+02:01
+specificity but let's try giving them a width i'm curious let's do 33 percent
+because there's three of them oh no [&nbsp;__&nbsp;] that i don't know what that
+is cool why didn't it work tell me why is it not working
+can what would nav right carrot i mean is that doable
+look look at the look at the index.html ul li
+right so if it's a direct child there there exists no nav
+direct child li they're all inside of the ul that direct child just wouldn't
+
+02:02
+work right so that's actually working against us
+we got to get rid of that direct child there we go okay got him okay
+sitting next to each other looking good i don't like the dots though
+how can i get rid of the dots list style none let's try that cool
+boom dots are gone i see the yankee cards are working for a
+lot of y'all exactly well i see it too all right so why did i put list style
+none up here and not on the lis where does that list style have to go
+
+02:03
+what does it have to go on yeah it has to go on the ul has to go on the ul
+all right we got we got the header almost there like um uh
+i feel pretty good with this header so far i think most of our stuff is here
+let's go ahead and take a look like that's that's there come on now that's there
+yeah we gotta add some some height maybe
+a little bit thickness but it's it's the
+layout like it's almost like come on now
+you can't even tell the difference folks look at that night and day same thing
+all right let's go ahead and um let's finish up this layout and then we'll
+take our break finish up with this layout we'll take our break
+uh we have our main with two sections inside of it and so if we have two
+sections we want to sit next to each other what should we do we want th we
+want the two sections to sit next to each other what will we do
+
+02:04
+float left and give them a width right 50 percent it's percent float left
+beautiful that'll get them sitting next to each other and i'm just going to give
+them some height i know right now like i wouldn't
+necessarily always do this but i'm just i'm being a baddie i'm gonna give them
+some height i don't know 600 pixels just
+just uh just so that the container opens
+a little bit i might put some borders on them i'm not sure all right so we got
+that uh if we look at our if we let's just let's just save that and open it real
+quick let's just see cool oh we didn't even do that did we
+even do the main yet let's see oh we didn't do the main yet so let's do the main
+and then we're gonna have like a section and another section
+and in this first section we just have our image um what is it what is the image
+
+02:05
+kids playing on computers all right kids playing in computers
+and all i'm gonna do is i'm gonna just screenshot it
+don't i don't have the image so i'm just going to screenshot it
+screenshotting is different on each each computer that you're on on macs it's
+just command shift or joint all right so i got that i got that screenshot
+uh i am going to take it from my desktop so i'm going to it's on my desktop
+enable it con and i'm going to bring that con image i'm just going to copy it
+and i'm going to go to my my class folder from today i know you're
+not seeing this um but i promise you that's what i'm doing
+i'm gonna go to layout two i'm just gonna drop the photo in there
+all right so here's my layout two folder
+
+02:06
+uh what i'm going to do and i'll show it to you
+you find it i know it's a little tiny to see but i have a con photo that i just
+screenshot it i'm just going to drag it into my layout 2 folder right
+we're hacking nfts exactly this is how you hack nfts right so we dragged our
+con folder in here so that means for our image we can we can now use it you can
+actually see the image right here now in my little tree view i'm gonna call it
+and it's a png so png because it was a screenshot and it's kids learning would
+be the alt cool we got our image and then this other section had some text in it
+what the text say for every student every classroom real results so that's an h1
+
+02:07
+for every student every classroom real results boom okay
+and underneath that was a paragraph and then some buttons
+let's go and do our paragraph let's do another
+lorem too much i wish they could just like give us like i want lorem half
+there you go we got our lorem and then we have the like the anchor
+tags underneath of it and so i'm just going to go ahead and put just
+i'm not even going to put them in a list
+i'm just going to be a real baddie right now and just put anchor tags
+and i think i think it was like what was it learn learners okay
+and i'm gonna put four of them that's it that's it folks dust it
+we have our main 50 height floating left so they should be
+
+02:08
+sitting next to each other let's take a look refresh not bad not bad folks
+not bad tina would be proud indeed uh let's go ahead and
+let's let's let's let's clean this up just a little just tiny bit tiny bit
+tiny bit and we'll take our break give it a i don't know width of 50 let's see
+there we go and i just want to bring it down just a little bit
+i want to bring it down just a tad bit tad bit and so let's go ahead
+let's say on the main and let's do a little specific here section h1 and
+
+02:09
+the main section image let's go ahead and just give them a margin top
+of 200 pixels just to push them down a little bit first try
+i whenever i do this i always think of it i even queued it up um one of my
+favorite memes spicy meme og meme if you know this meme we could be friends
+uh whenever i do this i always reminds me of the anybody ever see leprechauns
+
+02:10
+say yeah can we remember that meme i think i pulled it up already here we go
+everybody see leprechauns say yeah that's what that provides me of
+uh this is a this is a classic og meme everybody see the leprechauns say yeah
+yeah that's what i feel like all right folks come on look at us go
+look where we were this is this is three weeks in folks
+this is this is we're dipping our toes into the fourth week
+look at us go building layouts look at us being bad he's writing bad
+code let's go ah that's what i'm talking about crunch where you at
+all right all right folks when we come back
+we're going to take a look at the bbc all right so come on back five minutes
+on the clock if you're new around here like to be healthy if you're able please
+
+02:11
+get up if you're able let your eyes focus on something else that's not your
+screen i'll be getting my tina twerk on off screen
+you all want to see that you know what you got to do million channel points
+only fans could be yours alright folks take a break
+well deserved well deserved and i will see you all here in five minutes we're
+
+02:12
+
+02:16
+gonna move into the bbc i took a peep at the css while we're moving on
+huh i was gonna be late huh got got all right folks come on back come on back
+all right now i'm moving through this at a pretty good clip
+but what i hope you're realizing is that this is how i start all my projects
+you'll think i'm i'm joking but this is how i start is how i start i make sure
+
+02:17
+that i worry about getting most of it there i can always come back and make it
+better do not let perfection get in the way of
+you getting something started no one will care no one will ever see this it
+just doesn't matter specifically when you're starting out you want to just try
+and get into a lot of these layouts early on make mistakes and you carry
+stuff through each one i switch between my layouts too so like
+your homework is going to be in doing these right your homework is going to be
+to like do these on your own right and for me sometimes i get hung up and i'm
+like i have no idea how i'm going to tackle this nav
+so what i'll do is i'll move to something else right and then i'll come back
+all right if hey thank you for the posture check you're doing good today
+thank you you mean the right mindset right but
+i'll jump around too like if if if i'm starting to bang my head against the
+
+02:18
+keyboard it's probably time to take a break it's probably time to get up and
+diffuse and maybe even might be time to move on to a different project and then
+come back at the other one with fresh eyes pomodoro is a lifesaver as you're
+working through this don't just use pomodoro for like studying use pomodoro
+for your work as well right i say the the rule is 20 minutes
+if you're spending more than 20 minutes on something and you haven't gotten
+anywhere it's time to move on it's time to diffuse
+it's time to take a break it's a time to move on to something else and then come
+back right but with these layouts i need you to be a baddie write bad code
+it doesn't matter get rid of this idea of pixel perfect get rid of this idea of
+perfection that's going to come way later down the line because as you
+stumble through these layouts right as you stumble through these layouts
+you're going to pick up little things each time wait i i didn't really
+
+02:19
+understand how to like get space between stuff right or i didn't really know how
+to push stuff down but you you push yourself you use the mdn you asked for help
+you asked you asked for help i loved when we we rated splashly i
+think it was on tuesday and the thing they said that the biggest
+thing that they wish they had done differently right is ask for help now
+don't be the person that says look at my code nobody wants to look at your code
+be the person that says i have this very specific issue
+how do i fix it how do i do it this is the thing here's the screenshot here's
+the code how do i do that thing right don't post can anybody look at my code
+nobody wants to look at your code but people want to help you right so
+there's something that you don't understand that you don't know ask the
+question give the screenshot give the code how do i break it down how do i do
+it people want to help with that and the biggest thing the biggest thing
+
+02:20
+early career engineers get wrong is they don't ask questions they they they give
+up in silence that's the worst thing that could ever happen is you give up in
+silence you say this is too tough it's too mentally draining i don't want to do
+it and you just click out of everything we never hear from you again
+go out with a bang go out with a none of this makes sense
+can anybody help me i don't get what's going on don't give up
+be a baddie write bad code ask for help right
+and and the thing too is that i i really need it to sink in is that you take the
+best engineer in the world and they've never
+right they've never written html and css they're going to do exactly what we're
+doing tonight they're going to learn they're going to
+make mistakes they're going to break stuff they're going to write bad code
+and in that process find stuff that works and carry that to the next one and
+
+02:21
+carry that to the next one and then they come back and redo them over again and
+then they delete everything the best thing you can do
+the best thing you can do i'm not gonna do it because i need to share this with
+you after class the best thing you do is
+control a boom that's the best thing you could do and then do it again
+i was one that was bigly i'm sorry best thing you can do control a boom
+delete it do it again right and then and then you you finally
+put it in again and then boop gone do it again right get that repetition in
+right right get that repetition in and don't put it on your brain that it
+has to make sense you could have sat here this entire time and not understand
+one blessed thing that i just did across
+these two layouts it just doesn't matter we're writing bad code
+all right come back watch the vod slow it down speed it up do what you got to do
+look through the things that i talked about that i made my decisions on right
+
+02:22
+as soon as this class is over the vod comes up pull it down look at what i
+look at the decisions i made think about
+your decisions right what would you have
+done differently how would you have done
+it how would you written even worse code than me right cool usa all right
+next one we're going to do the bbc folks also go ahead and open up layout 3 here
+can we use classes on this one uh yeah you can use classes if you want um i'm
+kind of i'm just doing it without them because i think it's fun
+uh to try it without them but yeah classes definitely would have helped um
+we would have ran in we wanted to run into like that weird specificity thing
+
+02:23
+you know let's take a look at this layout here we have the bbc image
+and what i'm going to kind of try and break this down into
+is kind of like the big pieces that we see here i'm going to try and carry
+some of the stuff that we've seen in the other layouts into this one and see if
+it see if it'll help us so i'm kind of seeing like three big areas
+i've seen three big areas here so i'm seeing a header i'm seeing a section
+and i'm seeing another section and so there's like the three big areas
+i'm seeing as i'm writing my bad code and i think the header is kind of
+
+02:24
+similar to what we've seen already but this section down here
+it has like two sections inside of it this one's pretty straightforward like
+h1 paragraph span this one's a little bit tricky this section has
+four sections inside of it and each one of those sections has
+like an h2 and a span and then this one down here is like
+three sections inside of it and each one of those sections has like an image
+maybe like an h3 a paragraph and a span and so then that will just be copied
+three times to b3 yeah and so that's kind of how i'm
+visualizing this layout uh when i'm looking inside the header i see an image
+i'm just gonna say an anchor tag for now and then
+i'm well this is all in a nav too then like a ul with a bunch of li's
+and then maybe like a form at the end right so nothing too wild a lot of the
+
+02:25
+stuff we've kind of already seen and so let's get into it let's write some bad
+code and see what we come up with start with the html
+i'd like to start with my html all right so let's go ahead and do our header
+and then inside of our header i think it
+was pretty clear that we have a nav like all that stuff at the top is
+navigational content um it was it was stuff that's gonna be the top of every
+single page i'm gonna say nav and then inside of my nav
+let's see what we started off with an image and then like an anchor tag so
+let's just do an image and i'm just going to put a placeholder
+for now and we say this would be a bbc logo
+and then an anchor tag and that anchor tag just said sign in i'm british of them
+sign in and then after that we have a ul with
+
+02:26
+one two three four five six seven eight nine
+nine lis again what's up with these navs having nine uh so ul a lie
+anchor tag let's just put a placeholder and then news
+and we're gonna need eight more of these john's one two three one two three
+let's do one more there we go and then the last thing we saw in this
+header was like the form there's almost like this like weird drop down but who
+cares uh form and we'll put an input in here and i think it'll be good for now
+
+02:27
+and let's just start trying to get let's just trying to get the uh
+let's just try to get the nav here yeah i think let's just get
+this header going if we look at this header
+this header is like has some height to it it's all black
+i think we can and like the text is all white so maybe we start there with our
+css and then we'll come and do like the main and everything else now
+i i kind of like to go by like big section by big section so you kind of saw me
+say that there's like three areas i saw the header
+the that other section and then the other section so kind of work through
+them in those three areas i would probably do the header
+right and i would do the section there and do the section and and that's how i
+would go i'd do one and then the css the other than the css beautiful
+all right so header let's give it a height of like 100 pixels
+
+02:28
+and let's go ahead and give it a background of black
+and i'm going to give it a color of white now the reason i'm giving a color
+of white is because i want the the um the like the so there's something called
+like inheritance where some elements can inherit their color from the parent and
+so in case there's any inheritance i just wanted to grab the white from there
+i might have to use white somewhere else but like that's that's why i'm doing it
+cool let's kind of do the same trick that we did before if we want all the nav
+elements to sit next to each other right right you want all the nat all the
+elements in the nav next to each other what could we do i've already seen it
+yeah so let's go ahead and do nav everything
+
+02:29
+nav everything let's make it float left i said it'll get everything in the nav
+floating to the left um let's make sure that it's a width maybe we'll just start
+off i like i always pretty much always start off with 10 when i'm being a
+baddie you know just to start off let's also just do
+color while we're here just in case there's some inheritance um
+and then you might have ran into the reading of like
+this idea of some things like wanting to sit next to each other or not sit next
+to each other um and sometimes it comes down to like this
+display property we're going to talk more about display properties but for
+now i'm just going to do display block just so that everything is treated as a
+block like we have to worry about like inline or anything like that
+everything's just a block yeah cool all right so we've got our nav
+everything's floated percentage should be colored um let's see where we're at
+what about making them this or making them that i don't care i'm writing bad
+code there's not there's no there's no right or wrong here it's just whatever
+
+02:30
+comes in the brain and goes out the other side there's so many things that
+you could worry about that you could do that's better that's more appropriate
+that would make your life easier but i'm
+a baddie right and bad code i don't care i just want to get a win on the board
+i'll come back and make everything in line i'll come back and get make
+everything flexbox i just don't care i'm a baddie writing bad code let me do me
+it's not bad not bad we got stuff kind of sitting next to
+each other kind of running into that same issue that we saw before
+where they're kind of like they the they all inside are not getting enough with
+and that the sec like the actual element itself is uh not getting with
+and so let's um let's make sure things have the
+
+02:31
+appropriate width we don't want the ul like right now right now this ul is 10
+so there's no way right there's no way that we're going to
+get all those li sitting next to each other if they only have 10 percent so i
+think that's one of the things we have to fix in our cascade i think we have to
+fix that ul to be like bigger maybe like 50 60 percent so i'm going to do nav ul
+and i'm going to give it a width of 50 let's save that let's come back and see
+what we're at let's go okay look at me now let's do the same thing then for the
+form while we're here right that form is just if we highlight if we
+click inspect we can see that the form is taking its ten percent but the input
+is not the input's like not doing its full width
+
+02:32
+um so let's make the input full width nav form input
+and let's just make it a width 100. let's see oh look at me now shazam exactly
+all right i'm feeling pretty good about this um
+i don't think there's anything else i really want to change here except maybe
+like making this a little bit smaller so maybe like instead of a hundred
+actually let's use the inspector here let's right-click inspect
+and then on the header i'm just going to come down to the header
+where it says a height of 100 pixels and once you click on that 100 pixels you
+can use your arrow keys and so i'm just going to hold down the arrow key until
+i think it looks good 55 looks good to me
+55 is where i'd probably want it to stay
+
+02:33
+so i just used the inspector right click inspect header and then went to the
+height and then held down the arrow key until it looked good 55 pixels let's
+come back and make this 55 pixels cool i'm feeling pretty happy with that
+let's compare it to the image bbc image yeah we don't have the logo in there yet
+but the actual kind of like layout of it that's pretty clean all
+right i'm happy with that all right so we talked about having that
+header that we did and then we talked about having two sections
+let's get both of those sections on the board here section cool
+and then in this section let's do the bottom section first the bottom section
+
+02:34
+i think is a little bit easier because it's just sections
+and then inside of each of those sections was let's look at the image an image
+an h3 a paragraph and a span image h3 paragraph span the placeholder for now
+and we'll just put um joe byron there we go joe byron and
+after the image was in h3 i didn't and i was going to use ipsum that's too much
+there we go boom and then after that was a paragraph right that's a paragraph
+
+02:35
+and let's get a little bit more text than the h3 was
+and then after the paragraph was a span and it was u.s election u.s election
+2020. cool and then the cool thing is that
+this was just like three of these were exactly the same i think there was like
+an h2 here too i think that was like htsn news right
+so i'm gonna do is i'm gonna take this section we outside we outside baby we
+outside we ain't outside i'm inside i wish i was outside
+leon doesn't listen to us plebs not right now i'm a baddie i'm writing bad
+code i'm in my zone all right so that looks that looks decent right
+
+02:36
+um so if we have these sections what do we want to do we want to make these how
+are we gonna how we're gonna get these next to each other what are we gonna do
+chat how could i get those next to each other bottom left hold them up
+put them up with 33 percent repeating of course all right and this section is
+we could give it like an idea or class but we could also do like header um
+plus section plus section i'm actually going to make this a main
+just to see some other tags actually this is a main
+i like this being a main not a section like that's the main area of the site
+right like if we look at this image i'm going to call this a main and out of a
+section and so what we could do is we could do main plus section
+it would give us only this section and we could do the sections inside of it
+
+02:37
+yeah that's that's the that's the move that's the move
+all right let's go back our css we can do uh main plus section
+and then the sections that are immediately inside of that section
+and we're going to give them a width of 33.33 percent repeating of course
+and then we're going to give them uh the floats of the lefts cool
+yeah because if we look at our html main plus section we grab that
+containing section and we're targeting all the sections inside of it
+see what we got let's see what we got oh looking real good
+
+02:38
+looking real good that's all i gotta say looking real real good all right
+i think we saved the more difficult for the for the end
+right we didn't we didn't do the main yet so let's go back and fill in our
+main look at the image real quick the main i'm really seeing as two i see
+two sections inside the main one two and then this section has four sections
+inside of it so let's try that let's go back to our main
+what does the a stand for in your cup uh it's the beginning of my wife's name
+yeah uh for for one of our wedding gifts they
+
+02:39
+gave us matching mugs with the first letter of each of our our names
+so yeah i stole her cup he caught me i got got it was clean what can i say
+all right so in our main we had that i'm gonna say like an h2 for
+now that was like welcome to the bbc news hour all right then we had our section
+and then we had our section roll up like section
+if you if you can tell me where roll up like section comes from like that's
+that's like next level you being in my head
+
+02:40
+i'll take i'll take a quick gander at chat real quick all right just making sure
+close wolfen you're close it is grime it is a grime lyric
+from harlem spartans hey briefcase there we go i love it
+i hope you watched past classes and got it from there if not like we're on the
+same level good job briefcase it's kind of one of the most iconic
+songs in grime music when the gang pull up are you gonna back your brethren
+top bars all right so we got this section we know there's an image in it
+and i don't know what the image was what's our placeholder um two people
+there we go and then there was a like a i think like uh i think we might
+
+02:41
+call that our h1 peace deal each one historic piece deal
+then after it was a paragraph that we'll just use some lorem for and then
+there's like a span too yeah middle east cool
+that i think that handles our first section that's on the left
+and then the section on the right was a little bit more tricky because there's
+four sections that have uh americans go home
+canada so we're just gonna say that's like an h h2 h3
+
+02:42
+let's just say h2 for now uh h3 h3 and then this span and then span
+and i think it was just like what was that say us canada canada out drake
+that's aubrey to me lamborghini whip green green doors or is it
+lamborghini doors on my green green whip
+i'll walk i'll throw them out there i'll see if you're in my head or not
+where's that come from all gas baby exactly channel five
+all right so there's four of them so i'm just gonna copy this and paste it two
+
+02:43
+more times cool so we have our section one two three four
+we got our main one up here so i think where we'll start
+is i want these two sections these two big ones to sit next to each other so if
+i want those if i want those two sections to sit next to each other i'm
+just going to do 50 width and float them
+exactly i see some people in chat saying that already so let's go here
+we'll say main and we'll be careful because there are subsections so we'll
+use the direct child right and we'll go ahead and do with 50 percent and then um
+i think we're going to give them a height
+because there's stuff inside and like we could figure it out but i'm like i'm
+about to write in bad code let's give a width of 500 pixels just keep it keep it
+
+02:44
+channel five you know 55th and then put them left
+there we go i'm a baddie writing bad code all right
+so that should get them sitting next to each other let's see where we're at with
+that cool we're almost there we're almost there we're almost there
+all right the last big piece is this like four over here
+so let's do that let's just finish that up um that's just going to be main
+i'm going to do main section and then sections that are inside of it
+yeah that should work let's see main i just want this section though
+
+02:45
+i'm going to do main section plus section section
+right because i just want i just want the ones that are inside of here so i'll
+do main section plus section section that should work yeah
+and of course we could do classes could use id but where's the fun in that when
+you're writing bad code so main section plus section oops not not asterick plus
+section so give me the section that's inside the sibling section that's
+inside of main so if we if we go and look at that one
+more time just gonna know that's kind of confusing we're in maine
+we're gonna look for not this section but this section that is the sibling and
+then target all the sections that are inside right and
+we want them to sit next to each other so they should be 50 width
+
+02:46
+and if the heights 500 pixels will make them 250 pixels tall right
+so let's do that i'll give them a width 50 percent and then
+height i think we said 250 and then we need them sit next to each
+other so we got to float them and let's actually make sure we can see them
+and do a border one pixels solid black it wouldn't be 25 width because there's
+two of them sitting next to each other right
+there's two instead next to choice was 50 50. let's go first try
+
+02:47
+let's look at it let's look look here's the image header
+to the big section sitting next to each other three at the bottom and then ours
+come on now now of course there's like spacing we
+gotta get right there's text we gotta get right you gotta probably bring
+things a little bit stress things out a little bit but in terms of
+a few minutes to get a core layout done that's it
+i didn't spend time needling little things i just got into it i didn't know
+what to do in certain parts right like i i kind of was like let me try this let
+me let me let me see if this works let me let me touch this let me move that
+right and that's the process i go through i i just i get playful with my code
+right i get playful with my code and the sooner you can let the inhibitions go
+and have fun with it and knowing that you're gonna probably code yourself into
+
+02:48
+a corner you're gonna get lost things aren't gonna work the more you play with
+it the more you tap into your inner body and just write bad code
+the better this is all gonna go for you and i know that's a lot to ask for some
+folks some folks really hold on to perfection you gotta let it go
+gotta write some bad code right cool so i will of course share all of these
+quick layouts that we did together i will make sure you have all the code
+right i'm gonna ask that over this weekend you try these on your own right
+you look up the things that you get stuck on you look at my code don't be
+afraid to look at my code if you get stuck oh maybe why did leon do that
+would i have done something differently would i have not used domain or could i
+have used display inline like think about it play with it have fun with it
+the sooner you have to have more fun with your code the better this is all
+going to be get rid of that saying or something
+that's inside your head that tells you it has to be great has to be perfect
+
+02:49
+everyone starts here writing bad code write bad code get some wins on the
+board refactoring is for closers let's keep pushing we got a few minutes
+until class is over we did our layouts a lot of y'all were kind of giving great
+suggestions as we were going along so good stuff everybody all right
+we talked about responsive websites making sure our
+sites look good across all devices i just want to get some repetition in and
+then we'll do our raid as always uh and spread some love and positivity
+around so let's get some let's get some um some review in real quick with our
+last 10 minutes and then i'll talk about the homework and the expectations over
+the weekend and then i will do a raid like we always do
+
+02:50
+so we used to have fixed websites that were
+stuck to one pixel size of width and no matter what you did they didn't respond
+to the size of the browser that's in direct contrast to a site
+that's responsive where the site will look good
+across all different devices right it'll look good on mobile desktop laptop
+tablet it doesn't matter i'm going to say bye to tina bye tina there we go
+15 breaks gonna throw it back out exactly all right
+so we talked about the core things that make a site responsive
+right has to be fluid right all the stuff we did today
+all the things that we just did today like they're fluid
+right i did everything in percentages that's not bad folks that's not bad
+it's fluid we got that fluid underpinning right and so since we have
+
+02:51
+a fluid underpinning it looks good in between screen sizes right
+one thing that we didn't do too well though as we were doing this was uh
+making our fonts and things elastic right that's something we would go back
+and change first is making stuff elastic sizing using m's and rems and then we
+would have to start making content decisions right let's start making
+content decisions we have to start using media queries to make those content
+decisions but remember fluidity comes from everything being in percentages
+elasticity comes from using m's and rems and next week we're going to spend more
+times with m's and rims i know it's a tricky topic the idea is it's just a
+responsive unit of measure meaning that we can set a base font size and then one
+m is representing of that base font size and so the beautiful thing is we could
+do our whole site and rems and if we wanted to double the size right if we
+went to double the size we could just go ahead and double our html here yeah
+
+02:52
+cool but the last really important thing right the last important thing when it
+comes to responsiveness is content decisions what should remain
+on the screen what shouldn't be there should we get rid of this
+list so we get rid of asides what happens when we get to that screen size
+and so we need fluid underpinnings elastic underpinnings we need good
+content decisions cool how do we make content decisions
+like what helps us make those content decisions chat
+our media queries exactly our media queries are what help us to make sure
+that we are able to [Music] make those content decisions at different sizes
+here's an example of a media query right where anything less than 600 pixels
+
+02:53
+would be colored blue and uh we we coded media query last
+class i'm going to say because we're getting a little little long here
+remember we want to have this meta viewport uh at the top of any of our
+of any of our templates to make sure that our our media queries will work
+across devices not just on desktop the work on mobile tablet remember
+we signed a lifelong pact uh to make sure we never set user scalable to know
+uh which would stop people from pinching and zooming which is one of the biggest
+accessibility devices that we have available your homework was to make this
+responsive you should have already turned it in if you don't you can turn
+it in after class if you need to but this was the homework to make it
+responsive we're going to go over it together on
+on sunday so on sunday come back we'll have office hours we'll review some of
+the layouts we will review this layout specifically we'll have time for
+
+02:54
+questions and if you're kind of stuck on anything that
+we did today or that we've done over the past couple days come the office hours
+we're going to get more repetition in we're going to get more practice in and
+we're going to have some fun with it okay homework
+uh there are in our folders for today there's a lot of stuff
+a lot of stuff to be had for homework this week and so i just want to make
+sure everybody's on the same page and that we go over it together um
+in the materials folder for today we had the layouts that we did together
+so we have these class layout photos the bbc the khan academy the tech crunch
+part of your homework this weekend right
+part of your homework this weekend is to go through and do these again right go
+through and do the bbc do the khan academy do the tech crunch in the same
+vigor that i did it be a baddie write bad code floats only
+
+02:55
+right no flex this is a no flex zone until we get out of next week right play
+with your percentages the reason why i really also like it too is because it
+forces you to really understand the box model
+understand how stuff are sitting next to each other and so no flex zone
+floats go back and do the bbc do the khan academy do
+the tech crunch make sure you feel good with those
+and then there's two other layouts that i want you to work through
+there's this homework layouts folder that i have for you i want you to work
+through those as well so the first one is level ground
+level ground is a client that we had at resilient coders way back in the day
+resilient coders had an agency and we used to do projects for for other
+non-profits and so this is one of the clients we had and what we did and
+here's kind of like what a a wireframe would look like that comes from a
+designer it's kind of all boxes and it's a pretty clean layout to try
+
+02:56
+for one of your first real layouts right um you got kind of just plain text and
+boxes and so if you can get through the bbc you can definitely do this layout
+and so be a baddie write bad code try and get it as close as possible right
+footer goes goes wild yeah don't don't folk don't don't spend four hours on the
+footer be a baddie write back code get as close as you can right
+and then there is one other one that is another
+once you dip your toe into it won't be due until next thursday i want you to try
+this layout i know these look scary at first but they're not it's just some text
+some sections and that's it it's exactly what we just did right it's this is bbc
+just in a slightly different way and that's the beauty of it right
+at first you're going to be shooketh right at first you are shooketh but once
+
+02:57
+you do bbc you see the patterns your everything opens up you start seeing
+things floating around you right and you start to realize holy crap
+this is the bottom of bbc with one more so instead of 33 it's 25. this is
+exactly khan academy but we flipped it we flipped this is exactly khan academy
+we just put the text on the side and the image on the right right
+this this this header is easier than the headers we did we did together today so
+don't look at this and get scared every single pattern that's here you
+have already done you've already done everything on this page then take it
+take it another level give me a media query make it look good on mobile right
+don't let that doubt creep into you get in play build
+start to see the patterns build up there's a reason we went from techcrunch
+
+02:58
+to khan academy to bbc to this those patterns build
+right don't worry about getting it pixel perfect just get your win on the board
+be a baddie right bad code then folks always want to folks always leon
+can i push is there some push work i can do i got through this i want to push
+boom here you go that's your push work have fun it's your push work have fun
+you you want you want to push there you go push this is it build a real sight
+get this layout done right that's your push work so you asked for it that's
+your push now i got this and this from dribble
+dribble is a place where folks can share their designs so these are not my
+designs you can see max made this one and you
+can actually i actually have the link in the files and then
+sergi made this one as well so these are like not my designs these are just
+coming from dribble so definitely i'll link to the creators as well
+
+02:59
+but yeah this is your work you got you got some things to get done
+this weekend folks we saw some layouts we've unlocked our inner baddie we're
+gonna write bad code and we're gonna start to get some of this stuff done so
+please i know it's a lot i know it's hard but i know
+that you can do this i know you can do it and so let's go ahead
+let's get a raid going let's spread some love and positivity
+i really enjoy this person uh they do a lot of data sciency stuff specifically
+in sports uh which is really cool so we're gonna go over the nick uh nick when
+and we're going to give them some low positivity as follows
+they're an amazing streamer and if you want to play some cs go we're playing
+some cs go later tonight i'll share it in our channels when when the server
+goes live feel free to come play hang out test the server with me and we're
+going to do this raid so let me go ahead and keep up the raid real quick you
+
+03:00
+always want to do the raid because you get the sweet sweet channel points
+and i'll see you all over there alright folks peace have a wonderful
+evening hope you had some fun this class writing some bad code i'll see you over
+there let's raid you

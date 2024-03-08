@@ -1,0 +1,2232 @@
+
+00:00
+hey yeah let's go good morning good afternoon good evening
+we're coming from hope you all are doing well welcome back everybody whoo
+that music was a vibe today the the song before we came live
+i don't know they switched it up harris teller switching it up on us but i liked
+it it was good damn it going what's going on everybody welcome welcome
+glad you are here excited to build some dope stuff tonight
+tonight we're getting data from nasa and bending it to our will
+
+00:01
+we are learning about local storage and some of the secrets behind wordle and
+then we are diving in and building a whole card game together
+utilizing apis the whole way through so lots of fun lots of stuff to get into
+lots of work with apis we're going to see them in in in in in real
+real time we're going to build stuff with them we're going to mold stuff with
+them we're going to see a lot of really cool stuff so excited you're here hope
+you're ready to get your fingers on the keyboard to build a little bit the c
+apis like start to be useful and so lots of fun stuff to get into
+i'm excited it feels like a good day i love card games me too me too i play a
+lot of card games welcome everybody all right you know how we do
+i i always like to start off with some questions and so the questions today
+for the question of the day is uh where's your favorite tv show growing up
+
+00:02
+melody dev a coming through just in time for class with 129 folks
+hey welcome everybody glad you're here melody what were you working on
+and why are you not on the stream team yet who are you working on
+were y'all up to spongebob i i forgot i asked the question before
+you rate it so i'm like what are you all up to and everybody's saying spongebob
+spongebob i was like oh y'all are working on spongebob that's great
+glad you're here thanks for swinging by we got a lot of good ones ed and eddie
+doctor who sailor moon dragon ball flintstones rugrats rock goes modern life
+you change the turtles doctor who wow these are some good ones pokemon of course
+good times digimon i don't know about that
+
+00:03
+goosebumps love goosebumps goosebumps up there high for me
+i think there's like a wave where you're
+like into like goosebumps are you afraid of the dark ghost writer if you have
+people if you're a pbs kid like myself oh there's a lot of good ones all right
+folks i see y'all what was my favorite i really like pbs shows because that's
+all i was allowed to watch ghost raiders up there for sure
+um arthur when i was younger was pretty pretty dope actually arthur was dope
+like when i was in high school because i would get home
+uh late and it was what was it was the last two shows it was arthur and then
+dragon tales before the news started so i i watched me a little bit too much
+arthur later in my later in my years doug was always up there too
+the old school like saturday cartoon like the disney block on on if you're in
+
+00:04
+philly channel six that was like recess and all those cyber
+chase oh cyberchase was a was a and wishbone i think wishbone's up there
+i think wishbone's probably my favorite yeah wishbone wristband was up there for
+sure and zoom oh i wanted nothing more to be a a person on zoom
+all right folks i like this one cat dog was out there too
+cat dog is one oh magic school bus i think that might be it i think it's
+magic school bus yep magic school bus hold on one second right back
+i went to a flea market recently and they had all the old school magic
+
+00:05
+school bus games human body animals solar system yeah
+watch out what a flex right what am i talking about anyway
+uh they had them for a dollar so i got them all
+i was like these that's my childhood right there that's what i always wanted
+to play whenever i was in school because my school had them all
+do you have a cd drive i actually do have a cd drive don't ask me why
+some of us sail the high seas more than others that's all i got to say gargoyles
+that was a good one too all right thank you for letting me know what your
+favorite tv shows were any coding related questions before we
+get started this evening folks this is a fun one i like seeing everybody's
+answers thank you for uh showing me what you're into
+back wing duck oh that's such a good one
+
+00:06
+so i got a job but i couldn't believe it until today when i got the laptop it's
+funny some people say that my question what is your advice on working as a
+software developer what you do in the first three months
+you can coast on for the next year so get in there and go hard in those
+first three months one of the first things you need to do
+is talk to your manager and ask what does success look like three months well
+one month three months six months nine months in a year from now
+right have that conversation like if i do these things you will consider my
+time here successful when you're done having that conversation send them an
+email thanking them for their time and listing all the things that you just
+agreed to right that way when they try to pay a
+fast one on you in three months and they're like oh well you didn't do this
+you're like well when we talked you said this was the goal and i hit that goal
+right so make sure you understand what success looks like in your role
+spend time building relationships and friends with folks on your team and not
+
+00:07
+just your team but kind of all the the tangential teams maybe talk to the
+designers maybe talk to uh more other product members as well so get to know
+folks get to know folks even outside your team build those relationships know
+those relationships actually help you as
+you go deeper in working at that company and know what success looks like and go
+hard for those first three months get there early stay late or log on
+early log off late just for those first three months to set
+that impression because then you can kind of
+i don't know skirt skirt a little bit and still
+and still hold on to that rep so yeah go
+hard in the first three months make sure you build good relationships make sure
+you know what success looks like and don't be afraid to ask questions
+how do we code the api to loop through the array that's part of the push work
+so that that's not due yet all you do is you get that array back if
+
+00:08
+you're talking about like the cocktail database you get the array back and then
+you can set up a a loop to move through it now if you
+just do a for loop the problem with that is that you are going to um
+just kind of get to the end and just show that in the dom so there's
+something else you can use like a set interval or some other things that will
+only move at a certain period of time so if you're trying to do like a carousel
+look up set interval maybe that's a good place to start
+is there a channel on discord for the catch-up crew yeah of course
+once you agree to the rules and join 100 devs you have to click the emojis to
+join you'll see a catch-up crew channel you use the counter sure perfectly fine
+and use the counter as well should we build our own carousel or use
+a plug-in build your own because it's really not that
+
+00:09
+it's really nothing that you need from a plug-in if you just set it up based off
+because you already have all the data and everything it's just showing it at a
+certain interval cool jackie happy birthday let's see this still works
+happy birthday all right folks thank you for getting
+your questions in i always like to give the folks a few seconds to get in here
+uh that are kind of running from work so let's jump into it we got a lot of
+fun stuff so we're gonna talk a little bit about 100 devs then we're going to
+quickly review very very very very very quickly
+some basic review arrays objects then we're gonna jump right into working with
+basic apis uh utilizing nasa's api to get some data
+back then we're gonna learn more about other apis not just web apis but maybe
+even some other apis like local storage we're going to see how wordle actually
+stores their data we're going to see it live in the browser and then we're going
+
+00:10
+to wrap up by building a card game together
+using an api so really fun to get into it let's jump in
+all right if you haven't checked in yet go ahead and do exclamation point check
+in that gives you the link to today's tweet remember just typing in check-in
+doesn't actually do anything it just gives you the link so if you already saw
+the link on discord or on twitter uh you can just always like and retweet that
+remember check-ins help grow the community but it's also when we get to
+the end and you you need the support or things that we're gonna provide at the
+end we're making sure that folks that get that support were the folks that
+were checking in and we're here for class all right
+i'm gonna keep saying it and actually i actually like that this is the same
+character or same person because the checking in shows you that you are not
+alone that there are thousands of people here that are learning right alongside
+of you that are that are going through the same experience that you are going
+
+00:11
+through and i think that's an amazing amazing thing i think
+trying to learn how to code on your own is a super hard endeavor but when you
+when you're doing it by yourself it's even harder so if you've been part of
+this community thank you if you've been part of it but just haven't participated
+get on discord ask questions get the help that you deserve because you're not
+alone going through this and as we go through this process especially when we
+get to apis and we're starting to build more and more stuff
+you got to realize that you're probably feeling some things
+and the things that you're feeling maybe others are feeling them too so i always
+like to point out our channels like the struggle bus channel i like to point out
+even the celebrations channel too that you can see that there are highs and
+lows to this process we're firmly in the
+trough of sorrow and uh you're not alone going through it so definitely use
+discord not only for just like help but also to commiserate or to celebrate as
+you kind of go through the the highs and lows of the trough of sorrow cool
+
+00:12
+also remember health first please all right health first please if you
+need to take some time for mental health take it if you need to miss a class
+because you have to take care of yourself do it
+we always will have the ketchup crew you can always catch the vod you can always
+come ask your questions on discord or this is a marathon not a sprint
+especially as we start getting deeper into it start getting deeper into it
+you're going to start putting more and more stress on your body more stress on
+your hands more stress on your eyes more stress on your shoulders and so do the
+things that you need to do to take care of yourself please
+we still got a long way to go folks the long way to go
+all right no networking until may you're
+supposed to be taking this this month to build
+right we're taking some time off the networking not to chill a little bit but
+to be actually be able to put time into building these api projects whenever we
+do something in class we start something in class the expectation is that you
+build on it that you make your own that you tweak it that you modify it that you
+
+00:13
+play with it that you get in the muck as you're in the trough and you play
+right and so the idea is that you really want to take this time
+to play with your code to break it to come out of it you're going to learn so
+much more from playing and breaking and building than you will from just sitting
+here and listening to me talk all right we got it you got to get your
+fingers on the keyboard you got to put in that time to play with the code and
+to break it and bend it to your will and do the things that you want it to do
+you know do you think there will be a break
+during this cohort yeah we'll probably plan a break in a little bit i think
+once we get to back end we'll probably have like a break between like really
+starting back end and getting into it but we'll play it by ear see how people
+are feeling um speaking of break this weekend we won't have any office hours
+because of the easter holiday and some other holidays that are
+happening across that period too we got passover and all that fun stuff so
+
+00:14
+we will have class on thursday but then no office hours on sunday cool
+client deadline may 3rd um i think that is a holiday as well
+um if your holiday falls on may 3rd then your deadline would be the 5th uh yeah
+yeah it is on monday right yeah uh but then like the second run of it i think
+is may 3rd right and so um if that holiday falls on may 3rd i think it does
+then uh it will your deadline would be the fifth but client deadline third uh
+unless you actually let's make it for the fifth for everyone
+we'll just make it the fifth for everyone cool
+may 6 equals doctor strange movie leon can't make it on the sixth
+
+00:15
+uh quiet alternatives you can uh do grassroots volunteering
+all right grassroots volunteering or you can contribute to free
+software right so free software or grassroots volunteering um it's up to you
+uh which one you choose if you're not able to get a paid client remember paid
+client best thing you can do these two are a close second but really shoot for
+that paid client unless you can't then you have these two options available to
+you if you haven't yet started code wars you're behind
+so make sure you're starting to do your code wars daily the reason why we're
+taking a break from some of these other things is that you can be doing a code
+wars every single day uh if you want to join our clan the clan
+is this full string here uh it's not just the octothorpe 100 devs
+
+00:16
+it's the full thing that's highlighted right now with the leonwell.com twitch
+that way more folks can find us when you
+join the clan you get to see some of our some of your fellow 100 devs uh and and
+kind of have a little bit more uh community on that code wars platform
+we're gonna start doing some fun stuff for folks
+uh that are participating in the clan so we'll be doing like discord colors and
+vip here on twitch and some other cool stuff and so yeah make sure that you are
+using the correct clan that way you can get some participate some of those perks
+and raffles and fun stuff that we'll be doing later on we're gonna be looking
+not only for the folks that are at the top but also the folks that are
+improving the most from month to month cool
+alrighty programming we're going to jump right into it folks we got a lot to
+cover today i don't think this will be an end early day we've got a lot of
+stuff to build and so we're going to jump right into it
+
+00:17
+i'm at 6q and still so far from the top 100. well you got to remember there
+there are folks that have been participating in that clan
+from 2020 right or it's early 2021 right and so we have folks have been going
+hard for over a year that aren't just part of this cohort but have been part
+of other the previous cohort or that are kind of mentors that have used the clan
+as well hey trader joe great to hear that alrighty let's get into it aiming for
+top ten i think that's a worthy goal i wish you luck go for it
+alrighty programming what the heck is a program chat what is a program please
+what is a program coming for sean i don't know good luck with that
+it's a set of instructions nice set of instructions that we
+
+00:18
+write to tell a computer what to do and therefore the act of programming is
+writing those instructions nice the language we use
+to write and share those instructions is javascript
+that is a human readable language that is then broken down into something
+that the computer can actually understand all right so we're gonna we're gonna
+jump right into the thick of it we're gonna skip our variables our
+conditionals all that fun stuff and get right to loops chat what the heck is a
+loop what are loops a way to repeat some instructions exactly
+loops enable us to repeat an action or an instruction a certain number of times
+we've seen so many loops now we've seen four wild we saw maybe duly once we saw
+four each we've seen some of the more advanced one with the rays like map and
+all that fun stuff so this enables us to do some action some number of times the
+most common loop that we started off was a for loop where we have our increment
+
+00:19
+we have our end condition and we how much we have how much we increment per each
+turn or each run of the loop and then we can do whatever we want inside those
+curly braces so this would console log one two three four but we would never
+see five because we would never be able to meet this condition because five is
+not less than five it is equal to five cool arrays chat what are arrays
+are loops exclusive to arrays no we have
+while and for loops that have nothing to
+do with arrays too those are the ones we
+learned first right and then we saw that oh arrays come with some other methods
+that are also like loops or r loops yeah arrays are toasters don't say you
+haven't learned anything folks you know that now you now know to raise
+our toasters can we just stop and think about this for a second if you know what
+a variable is what a function is what an array is what an object is
+
+00:20
+like come on now seriously like think just a couple weeks ago
+just like a couple weeks ago not you were just going through life
+not knowing about variables not knowing about conditionals not knowing about
+smurfs not knowing about arrays objects apis like come on i think
+folks kind of get they start getting in the weeds a little bit with apis and
+they forget all the wonderful stuff that you've learned so far it's pretty wild
+kudos to you all right but yeah they're toasters what a sad life it was exactly
+life had no meaning yep exactly all right
+arrays or a data structure enables us to store right an ordered collection i say
+ordered collection because each slot in our toaster has an index and those index
+
+00:21
+start counting at zero we can create an array using literal notation
+we also now know how to create an array using a what
+we know how to create an array using literal notation like we see here just
+using the square brackets but what's another way that we can create an array
+yeah we can use an array constructor and that's going to enable us to create
+an array as well cool when we declare our arrays we can assign them
+using little notation values already inside of that array
+we can access elements in the array using index remember those indexes start
+at zero so we can use the indexes to grab elements out of the array and we're
+starting to see why this can be useful when we start dealing with our apis
+because we're getting those json objects back and as we peel open the json
+objects we're seeing inside those json objects arrays and so you're still going
+
+00:22
+to need to understand how to use those square brackets to get individual
+elements right individual elements out of the array beautiful
+not only can we get stuff out of the array we can put stuff into the array
+using the index and we have a bunch of properties and
+methods that come with arrays one of them is the length property which will
+tell you how many elements are inside of your array
+if you're new around these parts we're going really fast because this is
+something we spend a lot of time already
+covering uh so if you if you're new here and you want to join our free 30-week
+software engineering bootcamp definitely go ahead and click exclamation we'll
+type in exclamation point 100 devs it'll give you everything you need to know
+about joining and then join our discord exclamation point discord agree to the
+rules click the emojis in the journal under devs and you'll get access to a
+bunch of other stuff including the catch-up crew where you can catch up a
+lot of this review we like to get our spaced repetition in beautiful
+
+00:23
+we saw with arrays we had some methods that enable us to iterate through the
+array so our 4h runs once for each element on the array we like to call it
+a goblin that goes and grabs the element
+and the index for each time that it runs and so wherever i see x it would be the
+element wherever i saw i would be the index and i would be able to see this
+for each run four times because there are four elements in this array cool
+all right chat what are objects what's the difference before each a map
+map returns a new array objects are everything
+exactly they are everything aren't they yeah they are collections of
+
+00:24
+variables and functions a collection of variables and
+functions exactly we call those variables properties and we call those functions
+methods so they are a collection of variables and functions but when you're
+dealing with an object we call those variables properties and we call those
+functions methods nice i like to think of a physical object
+when i'm thinking of objects so i like to think of a stopwatch
+using dot notation i can add properties and methods we can tell this is a
+property uh because i set it equal to a value that's not a function you can tell
+that tell time is a method because we set the vehicle to something that is a
+function cool what if we want to make a lot of objects
+we could use dot notation and type out our objects we want to make a lot of
+
+00:25
+objects what would we need yeah we would need a constructor
+and if we didn't have a constructor what else was something else that we can use
+what if we wanted to put a little sugar on our constructors what could we use
+a class exactly remember we got classes with the newer versions of javascript
+and we can use them cool so we talked about factories are these constructors
+so the constructors are simply functions that help us spit out objects so we can
+see all of the properties that we put on this object that comes out of the make
+car constructor and we also see the methods of hunk and lock
+that would enable us to have methods that come with the objects
+that come out of this make car constructor by just a quick glance how
+
+00:26
+can i tell that this function is a constructor
+you're having uber driving chicago and picked up somebody that was in the last
+cohort that's wild that's pretty cool yeah we can tell it has a capital letter
+remember that capital letter doesn't do anything
+that capital letter just lets us know that it is a constructor cool
+here you can see that we are creating a new object what's the special keyword
+that actually enables us to create the object though if we if make car is just
+a function what's the what's the thing that's enabling us to create the object
+yeah we got this new keyword exactly we got
+this new keyword and so when we have the new keyword combined with a constructor
+that enables us to spit out an object that object would have a make a model a
+color a doors property and a honk and lock method honk and lock there we go cool
+we also know that when elements are looking for when we're looking for
+
+00:27
+properties on an object where does it check first
+when and when we're looking for properties yeah
+it checks itself first it looks at itself first and says hey
+do i have this property and then if it doesn't have it it goes up to its what
+check yourself goes up to what yeah it's constructor prototype and if
+the constructor prototype doesn't have it it keeps going up the prototype chain
+until it hits grandma or the global object prototype and then from that
+global object prototype we can grab stuff and bring it all the way back down
+the chain i really like this example of we created
+a tesla roadster and we saw on the last constructor there was no bluetooth
+
+00:28
+property so if i had created thousands or millions of tesla's right
+none of them would have had bluetooth well
+i can put bluetooth on the constructor prototype and now every single car that
+was made from that constructor whether it was made in the past or the future
+now has access to bluetooth because the teslas will always check themselves
+when they don't have it they'll go up to the prototype and since the prototype
+has it they have that source of properties you can think of it as like a
+fallback source of properties and methods boom alrighty
+we're able to do something like this where we say doors dot to string
+but we can see that tesla does not have a two string method where the heck does
+where the heck does where the heck does two string come from
+
+00:29
+yes coming from the global object prototype the tesla checks itself does
+not have two string goes to the constructor prototype
+doesn't have two string it goes up the prototype chain until it gets to the
+global object prototype since the global object prototype has that two string
+method well then guess what the tesla has the two string method beautiful
+all right somebody asked a really good question why why don't we just put
+why not just come back here and say uh this dot bluetooth equals true
+why not just go back and do that if i did that if i updated the constructor
+
+00:30
+right if i updated the constructor would all of the past objects have bluetooth
+no none of the past objects that have bluetooth this would only fix new
+objects that are coming out of the constructor
+right so i knew it ahead of time maybe but we also talked about this thing that
+i think is a little advanced we're not there yet we don't have to be there yet
+but there's this idea that every single car
+that came out of this constructor would now have its own version of bluetooth
+and so if we created millions and millions of cars these are millions and
+millions of cars that have their own version of bluetooth
+whereas if we had just put bluetooth on the constructor there's only one and
+every object could inherit from it so maybe we start getting into like memory
+issues where if we have millions that have their own copy versus just sharing
+a copy right then we might start getting into some some optimization things that
+
+00:31
+we'll get to later in our in our journey together so yeah once we know about
+object-oriented programming we better understand inheritance and things like
+that we might be able to save some some some
+some memory we might be able to save some some space in in that way cool
+all right we also saw that there was some syntactical
+sugar that we could put on our constructors to bring them in line with
+a lot of other languages and so with the newer versions of javascript we got the
+class syntax it is still constructors under the hood but they look a lot
+prettier so here we have our class of make car
+we have our constructor inside of it and then we have our methods as their kind
+of own functioning looking elements there
+and so this is the new syntax for how we do our constructors
+
+00:32
+but with their classes and when we start adopting this class-based syntax it's
+going to make some of our object oriented stuff a little bit easier to
+grasp and understand and i think it just looks a little bit better
+but know that underneath the hood still still prototypes underneath the hood
+still prototypal inheritance underneath the hood that's also another thing it's
+prototypal not prototypical inheritance prototypal inheritance cool
+alrighty let's get our fingers on the keyboard please
+all right let's get our fingers on the keyboard please uh in today's starter
+code if you need the starter code go to our discord agree to the rules look at
+the follow along materials channel the zip file is there for you
+in that zip file we have the objects netflix tv shows
+file folder object netflix tv shows and in the js file it says create a netflix
+tv show class with a constructor that makes netflix tv
+
+00:33
+shows with four properties and three methods so i want a class not a regular
+constructor function i want you to use the class-based syntax to make a
+new netflix tv show class so we can spit out netflix shows netflix is onto tara
+spitting out so many new shows recently uh we we were all blessed with love is
+blind and then we are blessed with the elimination and so we want to be able to
+help netflix spit out more wonderful crap television so that i can enjoy myself
+all right let's go ahead i'm gonna put let's see
+i think three minutes on the clock four minutes on the clock is okay for this
+one three minutes we'll do three minutes you can take a peek at the other slides
+right you can take a peek at the the slides oh the finale is tomorrow for the
+
+00:34
+ultimatum if you need to if you need to see that class syntax here you go
+but you are making me a netflix class please
+can we use class yes i i want you to use class for this one you got this
+space cowboy give yourself a refresh this is the netflix tv show folder
+
+00:35
+stream beats by harris heller pitch black welcome chelsea so i think so yeah
+a good call let's make sure we're still on the stream beats
+yeah i think i think they mix up the order every once in a while of stuff
+they always leave like the first two songs the same but i think just to get
+some plays on their other songs i wonder if like um
+spotify encourages plays on new music oh sorry different i actually changed it
+
+00:36
+i don't know what it was i'm sorry yeah there's a whole new album called
+cherry soda that it was from got some dunzos that's good to see
+
+00:37
+superman no home hey thank you for the five gifted subs appreciate you thank
+you for being here appreciate you all right folks let's look at this together
+all right so let's help out netflix here they need our help
+uh create a netflix tv show class that makes netflix tv shows we're gonna make
+a class called make netflix tv shows and then you really have to fight
+the urge to do what you really have to fight the urge to do
+what right here i always mess up sometimes when i'm doing this
+yeah you got to fight the area to do the parentheses a lot of folks add the
+parentheses and they get into trouble because this is a class not a
+constructor so we go straight to our curly braces
+all right now we have our constructor and then our constructor can have those
+parentheses and in that constructor we have to go
+ahead and set up our parameters so what are some properties that we're
+
+00:38
+going to have uh why is your chat so active because we had amazing people genre
+title rating episodes i like that all right so let's do uh let's do title genre
+and or some of the ones you all said uh i think rating is a good one and then
+number of episodes so number of episodes nice cool
+let's go and set up our properties this dot title equals title this dot genre
+equals genre this dot rating equals rating and this dot
+
+00:39
+num of episodes equals num of episodes beautiful now
+what are these doing this dot title this dot genre this thought rating this dot
+number episodes what are those actually doing
+oh i like binge ability that's a good one yeah those are the those are actually
+put in the work those are ones that are binding the properties to the object
+that comes out of this class and so the objects that come out of this class will
+have a title a genre a rating a number of episodes because of the lovely disc
+keyword here it's referring to itself exactly now this title over here this
+genre over here this rating over here this number of episodes over here those
+are just what those are just what those are just parameters exactly
+
+00:40
+why no commas you don't need them with the class syntax you don't need them cool
+all right so those are our our actual constructor here now it asks
+us to do three methods so what are some methods that our make
+netflix tv shows class should have play stop and rewind skip intro okay
+i like that add to save the playlist i like that so
+save the list we'll do that so let's go ahead and do uh a play and so our play
+doesn't need the function keyword you just say play and then we'll just kind
+of console log playing and then we'll have a stop
+
+00:41
+and we'll just say a console log is stopping
+beautiful and then we'll do a last one which was save to list
+you like the list of shows you want to watch and so you can just console log
+and say all right saved to list all right somebody give me their
+favorite netflix show your favorite netflix show please has to be netflix
+no hbo mac stuff ozark blacklist bridgerton the office oh is that still in there
+lupin lupin is such a good show such a good show um
+you know bridgerton is the number one watch show on i think it's number one
+it's the number one and number two watched of all time on netflix that blew
+
+00:42
+my mind i had no idea it was like that popular
+cool we can do bridgerton then it seems like so many people are into it let's do
+that so let's go ahead and let bridger 10 equal new
+and then it's a make netflix tv show and we gotta pass in our
+parameters so the title is bridgerton richardson is basically 1800 british
+gossip girl it is all right so we got bridgerton as the title
+genre is it romance is it technically romance romance right
+
+00:43
+period romance okay period romance or is it drama is it romance or is it drama
+i don't know a drama we're going to say period romantic drama
+because we can do whatever the we want all right so
+we're over here like netflix is going to use this we got to get it right
+we don't get this right oh man people are going to watch their shows all right
+
+00:44
+we got our [Music] all right let's go um rating
+has to be it's always 99 percent they're they're never they're never
+they're they're never they're never comfortable enough to say a hundred
+percent it's always 99. this guy leave that little that little room right
+and then maybe i'm just weird and nothing can
+ever give me a hundred percent and the number of episodes how many episodes
+does bridgerton have we do use bridgerton gifts a lot because
+that's the newsletter gif is from bridgerton 16 8 and 8. beautiful
+all right so let's go ahead and save this and let's open it in the browser
+let's open up our inspector our console it didn't load the image that's okay
+bridgeton and when we asked for bridgeton back we can see right well you can see
+
+00:45
+we can see that it has a title a genre a number of episodes and a rating
+beautiful well done everybody cool all right so we built out our lovely
+object or sorry our lovely class that spits out lovely netflix tv show objects
+and let's go ahead and start moving into apis let's let's let's
+actually take objects and do cool stuff with them
+did we just make a bridgerton api not yet we could we didn't yet maybe maybe
+
+00:46
+that'd be one of our first api projects yes what are apis chat what are apis
+i see some people do it saying it simple interface for some complex action
+what is your favorite interface that enables you to do something complex
+let's see what you got what's your favorite interface to do something complex
+cell phone you press a button you call someone anywhere in the world that's a
+pretty dope interface mute button shower you turn a handle and you get fresh
+clean water that spills all over your body i like that
+car wheel you turn it to the left in a massive car there's like there's an
+engine that's turning and gears are moving and and then it goes to the left
+that's wild toilet handle exactly you press it and
+magically your waist leaves your your house and it goes somewhere else where
+
+00:47
+you don't have to think about it [Laughter]
+a vending machine you press a button and you get a lovely candy bar or a diet
+coke coming through yeah so these are all interfaces
+that enable some complex action to happen that's all an api is is a simple
+interface that enables some complex action to happen and the cool thing is
+the apis we're using are using some bit of code as the interface so it's a url
+or it's something that we have access to that's simple as an interface but then
+there's a lot of stuff that's going on in the background so we're going to use
+web urls tonight where we are using them as our interface to get data back from
+servers we're going to get data back from nasa we're going to get some card
+data back from another api we're going to get some api some code back from a
+
+00:48
+pokemon api so we're going to get all this data back from apis and our
+interface is a url we're also going to see another api that
+is local storage where we get a special interface that's just a method and then
+it does something really complex for us so there are not only like remote kind
+of browser-based so they're not only urls or or web apis but there are apis
+all across the the plane that we're gonna be using as we're programming
+local apis remote api's all this fun stuff that we're gonna get to uh so apis
+are a ball of fun we're going to get into them
+all right so simple interface for some complex action
+the first interface i like to think about
+is a menu at a restaurant the menu is a simple interface i point to my noodle
+soup and then i say noodle soup please and then in the kitchen all this magic
+
+00:49
+happens the beautiful broth is poured the the the the scallions are chopped
+the tofu has been pulled out of the marinade uh the noodles are blanched and
+it all comes together in this beautiful bowl and then it comes out and is put on
+my table so i said send nudes and they went into
+the kitchen made my noodles and boom came through absolutely an api okay
+please don't i didn't think about that i shouldn't have said that don't send me
+anything i don't want to see you um i meant noodles i meant noodles
+send me photos of your noodles please send me photos
+of your pho soup that's what i want there you go if you ever if you ever if
+you're ever eating a nice bowl of pho i want you to think of me and send me a
+photo of your bowl of soup please that's the only photos that i want
+
+00:50
+i did get got [Laughter] do i need to ban myself i don't know maybe
+i think i need to time myself out you know what we're gonna do that i'm gonna
+time myself out uh we'll be back in five minutes
+let's take our break leon needs a timeout let's put five minutes on the clock
+this is when it was getting good when we come back we're gonna use apis to get
+some data from nasa we are going to use apis to understand
+how wordle works we're going to use apis to build a card game so five minutes on
+the clock if you're new here we like to think of this as a marathon on a sprint
+we like to be healthy please get up move around hydrate if you are able and i'll
+
+00:51
+see you all in five minutes gonna run some ads you actually have to take a break
+see you soon everybody somebody added two minutes to the timer cormas
+cormosaurus egg let's add two minutes this is a little bit longer of a break
+i'm just gonna start it there you go beautiful seven minutes on the timer
+enjoy your longer break folks i'm gonna run some ads
+
+00:56
+
+00:57
+all right see you in 6 minutes 40 seconds folks so
+yep we're on break for another minute 30 seconds
+cleaver that's why we use templates are we doing raffles we're doing the
+pokemon ones at the end of this stream pokemon card ones because i gotta get
+the since i'm mailing out all the merch and stuff like that soon i wanna just do
+all the cards at the same time what would your pokemon team be if you
+were to be a gym leader um probably grass like a grass team
+
+00:58
+either that or psychic somebody feeling better they are feeling
+better um we just they they're like on a very special diet right now so
+uh we'll we'll see how that helps them but yeah they've some of the systems
+they even have have gone away pretty quickly on the diet
+sweater status uh so when we do the next drop
+we'll look at we'll do other sweaters i had i had a a pretty interesting merch
+company reach out that has like way higher quality merch
+and so i'm talking with them right now getting some quality samples but i think
+they'll be able to do some of the things i haven't been able to do
+with our current provider and so i'm really excited to do like a better like
+well not better but a bigger merch drop with some of the pieces that i really
+want to do that i just haven't been able to do so
+open maybe like end of the month i want to do merch like a monthly thing
+
+00:59
+yeah like monthly would be a good idea all right folks come on back come on back
+[Music] leon i made i made ramen where did where
+do i where do i send it uh put it in general and just at me at me in general
+come all back folks come on back hey yes send me a send me a message
+happy to chat alrighty i actually ordered four stickers only
+one at one and they all got cancelled yeah i think i think the stream labs
+just can't handle like a big flood of merch i think it's like good if you're
+not like trying to do drops like we just want people like that are just grabbing
+a t-shirt here or there um but i think they ca they're not
+really good at handling like that flood of people cool alrighty so
+
+01:00
+uh the apis we've been using so far right it so the the provider use can't do
+pre-orders yeah they can't do pre-orders so um that's why i'm looking at other
+providers to make it a little bit easier yeah cool all right so we we're talking
+about apis being a simple interface for some complex action we talked about a
+menu uh the first kind of apis we've been using are just web apis this idea
+where our app that we're building can make a request
+a server hears that request there's some code that's running on it that hears
+that request and it responds with some information and so there can be a lot of
+stuff that a server could respond with it could respond with html it could
+respond with xml there's there's like other formats of data that it could send
+and it could also send json which when we parse it it's just like a
+regular old object emily guard a thank you for the tier three that's wild thank
+you for being here all right so what we've been using so far is we've been
+
+01:01
+making requests to a server that server hears the requests and then it responds
+with that lovely lovely json object that we can use
+on our end and so the very first thing we did was make this kind of dog ceo api
+jason derulo hey thank you for the five kids at subs
+appreciate you thanks for being here all right so we'd use this first fetch
+where we went and got right exactly just like beetlejuice
+say json three times and jason rulo appears
+we use this dog ceo api to go ahead and get a random image of dogs and then we
+were able to like console.log the images that we got back we would have put them
+into the dom and so we're going to use this kind of as our template moving
+forward this idea that we can make a fetch we can get some data and then we
+gotta spend some time looking at the data we get back and kind of play with
+
+01:02
+it and be able to build what we want it to build so uh
+we saw with the cocktail database that we could also utilize query parameters
+and these query parameters enable us to ask for specific stuff back from the
+server it's still a url but we often can put
+these property kind of value-looking values here where we have kind of like a
+term or a key and then a value right we could start seeing more of our apis
+asking for more and more of these key value pairs so we can request more and
+more specific stuff from the server so we have our normal url
+then we have our question mark and everything that comes after the question
+mark is a key value pair that are the query parameters does anyone know how to
+do multiple query parameters at the same time like how do we separate multiple
+query parameters at the same time yeah we use an ampersand so we could do
+
+01:03
+s equals margarita and drink type equals five or whatever it is
+that we can read in the documentation but we put the ampersand after nice
+is it better to use async await uh we're gonna get the async away we're gonna
+build up to that yeah all right so let's go ahead
+and see if we can get some nasa photos going and so what i want to do
+is i've given you a template and so i'm going to open up that template if you're
+new here exclamation point discord agree to the rules and then you'll see the
+following materials channel everything we need to build uh today so we're going
+to use this api template i'm going to open up the html i'm going to open up
+the javascript and in it is just a basic simple api and
+i have this set up just to make sure that it's working to make sure that our
+template is good so i'm going to go ahead and open this in the browser
+
+01:04
+and i'm going to go ahead and inspect i'm going to go to the console
+and let's see what we got to do here uh when we click on the button
+it grabs the value out of the input plugs that value into the url and then
+makes our fetch so let's see if this works let's just plug in let's say ditto
+boom and we got our data back from the pokemon
+api and so i just like to have this as my default template it kind of has all
+the really big things that i might use as i start kind of digging into other
+apis we have the ability to have a click event that calls our function
+our function gets the value out of the input in this case it was ditto
+it plugs that value into the url and then it makes the fetch with it so i'm
+
+01:05
+just going to use this as my template to kind of go moving forward and it's
+pretty cool like this pokemon api really does work look at all this cool stuff
+that you have that you can dig into an abilities array a game index array
+held items array location area encounters there's so much stuff in this api
+um and kudos to ever built this out because that had to probably take a lot
+of time i made this project last weekend dope make sure you're doing all case
+yeah yeah make sure you're typing all lowercase
+if you type capital letter you're going to get an error
+so we get an error how do we fix it how can we fix this
+if we did we did capital d i know it's hard to see we did capital d
+
+01:06
+and it didn't work yeah we could just go in here and we could do two lower case
+beautiful now no matter what we enter in it should work so if we do uppercase d
+ditto boom still works we still get everything
+and it fixes that that error that we got cool
+uh why don't you need a template literal syntax for choice uh their their url is
+a little bit different they don't really have like the query parameters if we
+wanted we could do it with the query parameters if we just want to be
+consistent so we could change this to ticks right and instead of it being plush
+choice we could do our bling and that should work all the same so now
+we're using our template literal we have our tick that opens our tick
+
+01:07
+that closes and we're plugging in choice and so if we go and refresh
+and we do ditto boom still works all the same
+how can we make submit on enter you have to change the event to submit
+but when you do that you also have to prevent the default
+behavior which is the form submitting so i think it's just easier when you're
+testing to just have it on click and then eventually you can do on submit or
+are on a specific key press if you want you can do all that fun stuff cool
+all righty so we got our template set up what i want to do is i want to use
+nasa's apis so nasa gives us a lot of really easy to use apis that can do
+something really cool i wore my my libre planet space shirt today
+
+01:08
+specifically because i knew we were dealing with nasa's data
+uh and so the cool thing about nasa's api is that there's so many different
+apis you can use but to use nasa's apis you have to get a key
+and the cool thing about nasa's api keys
+is they don't really check anything they
+just you just you can just keep creating new ones and so sorry nasa i'm gonna do
+bob bobber son i'm gonna do bob boberson at boppity.com and when you sign up
+they just give you a key and so you don't you don't actually have to
+use an email address don't don't spam nasa give them a real email address i
+just have to be able to create quick ones because we might have some
+that are watching the stream today all right so the cool thing about this is it
+gives you the api key already a part of the url so i'm just
+
+01:09
+going to go ahead and grab right i'm going to go ahead and grab that url
+and i'm using something called postman and i really like this because what
+postman enables you to do is just come in yeah i just hacked nasa
+uh what it post enables you to do is it enables you to like quickly test apis
+uh and so a lot of times if i don't want to have if i don't have a template open
+or i don't have um [Music] i don't have like my setup going i can
+just use postman i can plug in the url and i can hit send and you can see i'm
+getting some data back from nasa already
+so you can see i'm getting the date back which is today's date i'm getting this
+explanation back i'm getting an image url i'm getting an image type a media
+type i'm getting all this stuff right and so it was pretty easy i just created
+an account and i was able to get not only the direct link to the
+
+01:10
+picture of the day api but i was also able to get my key
+and so you'll notice that i have the question mark
+followed by api key equals and then the key that nasa gave me
+the reason why we have keys is that way nasa can limit uh the amount of requests
+that you are making right and so if nasa was to see
+me making millions of requests right if nasa was to make me make see me
+making millions of requests it could stop me from making new requests and i
+would have to create a new account right postman is completely free
+i like to use it just to quickly test apis so you're going to see me
+you're going to see me testing with postman a lot but then eventually i'm
+just going to plug it into my my actual template here so i'm going to
+
+01:11
+go ahead and plug in the url and that's it for right now
+um i'm just going to see if i get any data back using my template i know that
+it's still going to grab choice and i really i don't care because i'm not
+using it but i just want to see if i can get back anything from nasa while using
+my template all right let's refresh let's click get pokemon and boom we're
+still getting data from nasa right we we are getting the date
+we're getting the explanation we're getting the url we're getting the media
+type and so all this cool stuff that we're getting back from nasa so what i
+want to do is i want to look at nasa's api real quick
+and i want to look at the picture of the day documentation and if we look it
+actually shows you all the query parameters that you can
+use uh one that we need is the api key but we can also do a lot of other stuff
+
+01:12
+it looks like we can request a specific date we can probably get like a range
+from a certain number of dates a certain number with count
+so the cool thing is like there's more stuff that we can get from nasa uh based
+on what they expose through their api now nasa has so much data right but
+they're only giving us a small sliver of it through this api and there are some
+parameters we have to give it to even get that right and so
+what i want to do is i want to be able to build just a quick app where we take
+this data from nasa and we just kind of like enable users to enter in a date and
+see the picture of the day from that date cool
+so let's go ahead and take a look we have it working we know we're getting
+some data back let's look at that data in the inspect
+in in the console here we can see that there is a explanation and an image url
+so what i want is i want to be able to show the image and the explanation
+
+01:13
+uh on my page so let's go ahead and i'm going to go to my html here i'm going to
+[Music] change this from which pokemon to picture of the day
+and i'm just going to leave the input fine alone
+and i'm going to say get vote get get media and
+we'll just leave the pokemon here for now
+and we will change the h3 to be where we put the uh where we put the explanation
+i have no idea how to spell explanation cool so we'll put the explanation there
+nasa rules we'll put that in the h2 cool all right so i have my lovely h1 with
+
+01:14
+picture of the day i have my input and my button and i have a place where i'm
+going to put the image and the explanation cool all right
+so we already have the data we can see that the data has an
+explanation and an hd url property so let's try using those
+let's go ahead and select in our document dot query selector let's grab the um
+let's grab the image and what are we going to change about the image
+what are we going to change about the image
+yeah we're going to change the source of the image and we're going to set it to
+be equal to data dot i believe it's hd url is that what it is
+yeah hd url is the property that we need to set it to and then explanation
+copy it i'm going to come back here i'm just
+
+01:15
+going to change my html too while we're here because i don't know if i spelled
+it right cool and what i'm going to do is i'm going to
+go into my i'm going to do another document query selector as well
+document.queryselector and i'm going to select the h3
+and i'm just going to put some text in it so i'm going to use inner text
+i'm going to set that equal to data dot explanation so if this is working
+i if this is working i should be able to get the image from
+nasa and put it into my site and i should be able to get the explanation
+from nasa and put it into my site let's go ahead and save let's go back
+let's refresh and let's click the get media button so there's the photo
+
+01:16
+there's the explanation first try hey let's go turn up we're getting data
+from nasa what that's cool i don't care what you say that's that's freaking cool
+we're all up in nasa's mainframe for strategy
+that's really cool and so we're getting this lovely photo back
+we got this lovely explanation and i want to i want to take it to the
+the next level though i want to take it to the next level
+um i want to be able to enter in any date any date and get the photo from that
+date so let's try that let's take a look first let's take a look at our html
+what should i change this input to if i want a date
+man we're helping netflix today we're helping nasa today we're just helping
+
+01:17
+any company that starts with an n we got you we're gonna change it to date right
+uh boop date let's save it let's go back and take a look
+cool now we get this lovely date picker and let's console log it real quick
+let's just see what date gives us back um so we have choice
+i'm gonna take console i'm gonna take two lowercase off of it because we might
+not always need it i'm just gonna console.log choice real quick just to see what
+happens just to see what we're getting back
+ideally we're grabbing the value from that date input but let's let's see what
+we get when we console.log it all right uh i actually didn't select anything let
+me refresh let me select today's date click the button
+great so we we do get a date and it is in the format of year hyphen
+
+01:18
+month hyphen day so let's go ahead and take a look at nasa
+and look at their documentation this is probably one of the most important
+things you have to do is when you are using an api you are following their
+rules they are going to show you exactly
+how they want you to send the request so
+that they can give you the data that you want
+and so if we look we can see oh there is a query parameter for date
+and it expects it to be in the year month day so it looks good we can just
+probably take that value right out of the input and set it as a key on our
+
+01:19
+request to nasa on our request to nasa shout out magic school bus solar system
+for getting me hyped on this when i was like five uh because this is like
+this is blowing my mind just a little bit just a little bit
+we're getting data from there is a telescope that took this photo
+nasa then archived the photo and now i'm
+like nasa give me this photo and they're sending it to me and i can keep i can
+request all these different photos i don't know that's pretty cool to me
+all right let's take a look um it's just a query parameter so let's go
+back to our url and on this url we already have a query
+parameter that is api key right we see api key equals how do i add another
+query parameter we said that there's something we had to put in between
+uh so that we could have multiple query parameters yeah the ampersand so i'm
+
+01:20
+going to do ampersand and then i'm going to plug in date
+equals because that's the key it said the key was date so i'm going to say
+date equals and then i'm just going to plug in whatever we got from the
+date input so that's choice so if this works i will have used the
+base url the picture of the day url i will have plugged in my api key
+and i will have plugged in the date cool let's save this
+let's make sure today's date works we already know that that
+date was working for us before so we're just gonna use today's date boom
+it works let's go right we got the photo and the
+explanation let's try a different date let's try yesterday let's go
+
+01:21
+this is so cool look at this at the space station going past the sun what
+yeah it is the space station visible only at night slowly drifting across the
+night sky as it orbits earth beautiful let's pick a different date
+pie fighter it does look like a tie fighter right let's pick a different date
+let's go to a different year 2021 july 15th sometimes it takes a little while
+you can see that we got it over here and then boom look at this beautiful photo
+wow a nebula and a star cloud is it a silhouette against a crowded star
+
+01:22
+field along a tail of a constellation scorpius wow that's pretty cool
+all right so we're able to get all this data back um
+and all we did to be able to pick a certain date let's just kind of step
+through where we're at all right let's start through how we got here
+we have a lovely input that we changed to a date input
+and we have a button that we're clicking we have a place where we're putting our
+image and we have a place where we're putting our explanation cool
+and then when we look in here we have our event listener
+that's listening for a click on that button when it hears of the click
+it fires this get fetch function and the very first thing this get fetch
+function does is it grabs that date from the date input and stores it in the
+variable choice we're console logging it
+
+01:23
+just so we can see it and make sure that we actually grab the date which we saw
+we were grabbing the date and then i built out my url so the base url
+was the picture of the day how did i know to include my api key query
+and my date query how did i know to add those two
+those two um keys those two key value pairs i read the nasa told me
+nasa was like leon you gotta use the date if you want the date and nasa was
+like you got to use the api key if you want some data from us it was in the
+document right it was in the docs so if we look in the documentation it
+gives it to us here it says all right here's the date um
+and this is what it should be formatted as like it's giving us that information
+and a lot of times the hard part of using apis is like understanding what
+
+01:24
+the heck is going on in the documentation so remember how i told you how
+reading is really important and we got to get better at reading
+because sometime there's only going to be some dusty documentation that's not
+coming from nasa it's not some na this is this is nasa engineer documentation
+right this is nasa engineer documentation it's not always going to
+be some nasa engineers right in the documentation right and so that's
+why the reading becomes so important and getting used to it and getting used to
+reading technical stuff and as much as folks hate eloquent javascript i think
+it serves an important thing to get your brain used to
+reading dry dusty technical reading because that's all it's going to be at
+the end of the day there's be some person that wrote some docs you have to
+
+01:25
+figure out and know how to use them differently uncle js needs more love i
+think so too i think it's very hard i think it's one of the it's not like a
+great first thing to go through but it really does get you good at reading
+technical stuff also write your own docs exactly when
+you build that when you start pushing your stuff to github you better have
+some good documentation on that github cool all right so we got our code um
+we have it working we were able to grab the date
+we were able to plug that into our url we were able to make the request and we
+were able to put it into the dom uh i have found something interesting though
+let me let me show you what i found that was interesting let's go ahead
+
+01:26
+let's go back to our site and let's plug in february 3rd
+of 2021 and let's get media we got an error
+ask me how i found this error last time this error happened live last time we
+ran this class so i was like oh let's try it because this this class happened
+on february february 4th of last year and i was like let's let's see what
+yesterday looked like and it didn't work why didn't it work yeah it's a video
+if we look and we look at the media type you see the media type is a video
+
+01:27
+and so there's some some some foolery afoot because nasa might not always send
+a photo they might send a video and so we have to be able to control for this
+it's aliens yeah so now we've got to figure out how
+to control for this what are some ways that we could control for this like how
+could how could we make this work it's not tom fuller it's nasa fooler
+exactly different yeah we could use a conditional
+let's do a conditional and we could check uh the media type before we do what we
+need to do and so if we want to play a video
+we might also need something in our html that can accept that video and so i'm
+just going to put an iframe down here and an iframe is just something that we
+can embed a video into uh there are video tags now that are built in that
+are native to html5 we're just going to use an iframe because it's easier for
+right now because they're going to give us i think like a youtube video
+
+01:28
+and it's going to be easier just to embed that into the iframe cool
+all right so we know that's where our videos are going to go let's save this
+nothing will be in there to default if we get a video we can show it in there
+so before we just run in and append an image to the dom we can probably put a
+conditional in here let's go do a conditional and what we want to check is
+the media type and let's let's see um let's see what it was so it's media
+underscore type and it could be a video and it could
+also be a what was the other thing it could be let's take a look
+let's just use today's date because we know that it was um actually photo
+all right so it can either be a video or
+an image so it's image not like photo or something like that
+so it's image i thought it might be like
+
+01:29
+img or something but it is the full word image cool
+let's go in here let's do media underscore type uh if it equals image
+why won't this work why won't media type equal image work nightbot's popping off
+yeah it's because it's tied to the data object wait a minute why is nightbot
+stopping everyone oh i think maybe it's um
+yeah when you paste code snippets you're sometimes pasting links so be careful
+
+01:30
+because nightbot's gonna time you out interesting
+yeah it's just code yeah so it's looking for it's looking for the data right
+media type is not a thing it's only a thing because it's part of the data
+object right it's the object that we got back from nasa so this object we get
+back from nasa and we said nasa uh this object we get back from nasa
+is a media type property but it's on the object that came back and right now
+right now we can see that that object has the name of data so we're going to
+do data dot media type beautiful all right so data dot me typing goes
+image if it is an image then we can just go ahead and do this boom
+and then we can do elsif you can do elsif um data dot media type equals
+
+01:31
+it was video right it was just video there's just video right cool yeah video
+and then we can just do this in here we'll just kind of copy this link boom
+and we'll say um iframe and i i think source is still the same
+property on iframe yeah so the iframes have a source property as well
+and it'll just be the hd url was it called hd url when it was the video
+let's see um oh no it's just called a url so it's not hd url it's just url
+so we've got to go back and change that one to just be url so if it's a video
+it's not data hd url it's just url cool uh we'll still leave our explanation
+
+01:32
+outside the conditional let's save this and let's plug in today's date
+boom we got the photo showing up and then let's go ahead and try
+the date that we know that was the video which is february 3rd
+2021 the day should live in infamy boom and down here we got our photo our our
+our lovely iframe with the video so it worked i'm i'm blocking it
+but the video's there you can play it it'll play
+found on the moon it's behind me um but the image didn't go away why didn't the
+image go away why didn't the image go away
+also we should probably move the iframe above the explanation i think that makes
+
+01:33
+more sense because it's two different things we
+didn't change the source on the image right so the image stays there so one
+thing we could do is we could change we could set like the source and the
+the i like the source on the image and the source of the iframe to like know
+right or display block and then display it when we see it but
+that's a little extra for right now let's just save this let's refresh
+let's pick the date we know that doesn't work not the second the third
+beautiful we got the the video coming in and we got the explanation so it's
+working cool i'll leave the hiding and showing right
+
+01:34
+uh i'll leave the hiding and showing to you if you want to get rid of this image
+trays touchdown a thank you for the five get this subs hope you're doing well
+thank you for being here is the tchip hundred devs merch mine no
+that's fake there are there are people that are like scamming like 100 devs
+merch which i find hilarious but yeah there's no there's no red
+bubble there's no teespring the only time we do merch is live here on stream
+yeah we're going to be doing more our place merch because i know a lot of
+folks want that so we're gonna do like more stickers and more shirts and stuff
+like that cool all right so it's working we're getting
+images we're getting videos now from nasa
+and i think a way you could take this a little bit further would be to like
+clear out the images and iframes on each load just so it looks a bit better you
+could also make this look way better you can make this look way better like
+right now it's kind of just like plopped onto the page like we're throwing it
+
+01:35
+right into the dom and so that's something you might want
+to think through is like all right how can i make this look good make this your
+own if you look um if you look on nasa's api website they got so many
+other apis as well right so many other apis they got an asteroid
+near earth object web service they got so many cool stuff that you can
+just play around with and get different photos and different
+data back and so if you're looking for some places to to have to to get some
+urls for your or some apis for your assignments right to build the three
+
+01:36
+this might be the one to look at well done everybody alrighty
+let's do all right we got a little bit of time so let's jump into our next one
+all right so like i said always make these your own we we did it together
+if you need to i'm gonna zip this and you'll you'll have access to it uh after
+stream come with this break it play with it make it do something a little bit
+different and then that way you can add it to your portfolio eventually so
+there's gonna be a hundred nasa api uh photo ones but there's probably some way
+for you to tweak this to make it your own alrighty let's talk about something
+called local storage so local storage is something that's pretty interesting
+it is an api right uh it is an api that gives us a
+
+01:37
+simple interface to do something very complex and so the thing that it does that
+enables us to do something that's very complex is it gives us just like a
+simple method that we can use that enables us to store stuff
+on our users computers across browser sessions and so with local storage
+we can store data across browser sessions so what the heck does this mean
+that means that we could build an app and that user could come to our app
+do something and then a week later come back to our app and still be able to
+pick up where they left off we could be able to store data
+on their machine that we can use later and we don't have access to databases or
+anything like that yet so local storage is a great way to have some persistence
+some things that stick around even even if they leave the browser and come back
+and so this can be really cool because once we know about local storage
+
+01:38
+we can start to build apps that are a little bit more real right the big thing
+right now with all of our javascript apps is that there's one like fatal flaw
+what's the fatal flaw of our of our javascript apps
+yep we refresh and poof everything goes away we're not at the back end yet we're
+not ready to start using databases yet but we can have kind of our own local
+storage where we put information that we can use later on
+and so with local storage there's some really cool things that you can do but i
+want to show it to you real quick i want to show you how it works
+so i'm going to go to wordle and so wordle is a game that
+the new york times bought recently and it's a it's a it's a mild addiction
+that i have i play wordle every day um i have a pretty big streak going i'm
+
+01:39
+pretty good i can normally get most of them in three
+and three sometimes i gotta do four right
+and so i see a lot of people saying ado or audio nah that's not a good first
+word the the your brain fills in vowels way easier than it fills in consonants
+and so you got you got to go consonants first right
+and so i'm going to spoil this one i've already done this one and i play on my
+phone not on my on my browser so i'm going to show you uh so first word crane
+all right we got the r we got the a not in the right spot
+we can then do split good follow-up we got the l but nothing else and this
+one was royal i think i got this on four today not
+three though and so it was royal cool now i leave wordle
+
+01:40
+let me let me close out wordle and let me come back let me do that wordle
+let me come back to wordle and look my statistics are still there
+my my my games are still there i refresh it's still there but i didn't create an
+account right i didn't create an account i'm not signed in how is
+the new york times figuring out what my statistics are
+whether i played or not and they're actually using something called local
+storage so if you play in your browser be very very
+careful what we're about to do because it will clear your streak and there's no
+way to get it back donchi pazzo hey thank you for the raid
+thanks for bringing the crew along hope you're doing well what are you all up to
+
+01:41
+what are you all doing today welcome raiders uh we are in the middle
+of playing with some apis both web apis and now we're looking at uh local
+storage and we're looking at how wordle uses
+local storage because what we just saw is that when we refresh
+our statistics still show up but we don't have an account
+uh we don't have anything where we're like logged in or anything like that so
+how do we actually how does this keep like coming back up that's what we're
+looking at for folks that are new uh we are running a 30-week software
+engineering bootcamp where you can go from no coding ability to employed and uh
+this is tonight we're working on apis and looking at some other fun stuff so
+we just got data back from nasa it sounds baller right so we built this
+like quick app where we can put in a date so if we put in today's date
+
+01:42
+we can get the photo of the day back from nasa we get an explanation of that
+photo from nasa uh so it's pretty cool all right let's look at wordle real
+quick but disclaimer if you with this stuff like your streak could
+disappear all right so i'm gonna go to inspect
+and i'm going to go to application here in the inspector and if you notice
+we now have in this application area local storage and you're going to see
+that there's local storage for new york times website for wordle
+and so if i click on this i'm going to see a bunch of stuff that
+new york times is storing locally on my machine in regards to wordle
+right and so the cool thing is i can actually see all that data here i would
+be able to see my streak i would be able to see all that stuff that's being
+stored on my machine directly here is it an object yeah it's
+
+01:43
+exactly like an object it's kind of like they have their own little object here
+with a bunch of properties and values uh that they can store stuff into cool
+now the interesting thing is if i go back to the console i can do something
+reckless don't do this if you care about your wordle
+so i can do local storage and i can say clear
+and clear is a method on that local storage and when i run it
+and i refresh my my wordle rip we can see that it goes away our
+statistics are gone um our statistics are gone
+and um we're back to where we were and so if we go back to the application
+we look at the local storage we can see that it's very different now
+there's there's less values here right there's less values here there's
+there's not the history that we had before and when we refresh
+it we don't have our statistics anymore and it looks like we haven't played uh
+
+01:44
+this game yet and so this is cool because local storage enables us to
+store things directly and across sessions so the beautiful thing is that we can
+build an app keep track of what's happening in the
+app and as long as our users don't clear
+their local storage we can keep track of their wins their losses
+lots of really cool fun stuff all right there's also session storage anybody
+know the difference between local storage and session storage
+i can trick my friends into thinking i get wordle first try every single time
+exactly yeah session storage is just for that session
+meaning once you close your browser it's gone it's never it's not coming back
+
+01:45
+local storage persists across sessions so meaning any of you like close your
+browser and come back um you you will be able to access the
+same storage yep session is gone once you close the browser exactly and so
+that's the cool thing like if you if you play like wordle like i do like on my
+phone if i close my browser and come back i still have everything cool
+so let's take a look at the like the three big things we have to do
+to make local storage work and then we're going to come back and build an
+app after our break with local storage so let's go ahead and take a look at the
+slides real quick with local storage we have a couple
+methods at our disposal we have the ability to set an item into storage so
+let's actually take a look at this we can set an item
+we can get an item out of storage and then we can um
+remove an item from storage if we want and we can clear all the things in local
+
+01:46
+storage and there are plenty other things that we can do but those are kind
+of like the big four so let's try these in order together open up my inspector
+i'm gonna go to my console and i'm gonna do local storage dot set item
+and i'm gonna say my key is best friend and the value is gonna be bob right
+and now if i go and i go to my application i look at my local storage you'll see
+since i'm on slides.com you'll see that for slides.com
+it thinks that i have uh well i do have something there for local storage a kia
+best friend and a value of bob and so now the cool thing is we can see
+
+01:47
+that that key value pair is stored in local storage on this application
+and if i go back to my console i can even do stuff like i can get it so
+i can do local storage dot get item and i can ask for uh best friend
+and you can see i get bob back right and so i can get bob back from it
+i can even update it if i want wanted to i could i could do the kind of same set
+item again but do bob boberson all right and now when i say get item i
+get the bob boberson back and the cool thing is i could refresh my page and
+come back and it's still there all right it's still there i could close
+my browser and come back it's still there it's still there until we
+remove the item and so i can do local storage dot remove item i can say
+uh best friend and now if i try to get my item you can
+
+01:48
+see that i have a null value i'm getting back like that best friend is no longer
+uh in local storage that doesn't feel good so let's go ahead and uh
+set best friend back to bob boberson now let's just double check that it's
+there best friend i'm getting bob boberson back looks good
+uh and then the last thing i can do is we just to confirm that it's in the
+application here in the local storage we can see that best friend is bob
+boberson here in the local storage um before we take our break let's go to go
+to console and let's clear it so local storage dot clear
+and when we do it it clears out all of our local storage
+and when we go back to the application boom you can see there are no key value
+pairs so the beautiful thing here is now we have the ability
+
+01:49
+to store stuff over the long haul meaning that we don't have to worry
+about page refreshes we don't worry about if our user closes their their
+browser and comes back if they come back to our application we
+can store stuff that brings them back uh to exactly where they were
+cool it's for the site uh when would you use this i just showed
+you when you would use it wordle uses this to store your statistics and your
+streak without needing to store it like on their own database it's all stored
+locally on your machine where is it actually stored that's a
+really interesting question uh it depends on your operating system your
+browser and a bunch of other stuff but basically you can think of
+somewhere on your hard drive this or your ssd or whatever is this local
+storage uh some implementations i believe are like a low budget like sql
+implementation where it's kind of like the the browser's running it and storing
+
+01:50
+into it um but you can just imagine that the
+browser has memory on your disk right your chrome or firefox server has memory
+on your computer and it takes up a portion of that memory for local storage
+would you use it for when a user is filling out a long form i think that's a
+really cool idea for local storage so they accidentally hit refresh it's not
+just all lost that could be a cool idea cool
+what if you closed the window you'd be fine as long as you came back to this
+site it would come back and you'd be fine that's the beauty of local storage
+if you close your browser session you can come back and it's still there
+session storage however once you close the browser it's gone alrighty
+
+01:51
+let's go ahead dev journey it does yeah all right let's go ahead and take our
+break when we come back from our break we're
+going to actually put this into practice and build a really simple app that
+enables us to keep track of history uh using local storage and then we're going
+to move on to building a game with apis cool all right folks let me bring the
+timer up five minutes on the clock donchipazo hey thank you for the raid
+thank you for bringing your folks through you're new here we like to take breaks
+at the top of the hour if you're able get up move around hydrate let your eyes
+relax on something that's not the screen what if you close the tab and said the
+browser same thing yep same thing cool all right folks good luck
+
+01:52
+i'm gonna run some ads you actually have to take a break i'll see you in five
+
+01:54
+
+01:57
+welcome gerald uh survive all right folks welcome back welcome back alrighty
+let's get back into this let's build this uh let's build a little app with
+some local storage shall we come on back folks all right so
+what i want to do is i want to put this local storage into action
+and what i want to build is just a really simple app
+the whole app what i wanted to be able to do is when we click a button
+i want it to keep a score that goes up by one that's all
+agent dazzo a thank you for the hydration cheers to you i want to click a button
+
+01:58
+when we click that button i want it just to add one all right
+just add one and then i want it to be able to be like local storage where we
+can come back we can close the window we can come back and it still works
+what's today's tea today's tea is um the organic chai from tazzo actually
+like it's a good one alrighty uh i saw somebody mentioning the the coding
+boot camps that the universities put on uh most of them are put on by a company
+that just uses the name of the university and then has a really shitty
+boot camp uh you pay a lot of money uh and they're not good like there are
+so many other paid boot camps that are like decent those are not one of them if
+somebody said at least those you get one-on-one mentorship you you don't you
+get a slack channel that nobody responds to your messages
+uh i i think a lot of folks if you really looked into like the support you
+get in these boot camps you're way be like you're better off like
+
+01:59
+finding a discord community that's not even 100 devs like just finding a rando
+like programmer's hangout or something like that
+compared to the support you'll get in some of those those uh those boot camps
+it's pretty wild yeah it's it's pretty wild
+and uh post program support uh they kind of just dip on you first for a lot of
+them you know it's not really a thing so be careful don't get got in these
+streets you got to do your research if you're
+going to if you're here especially with we had a couple raids today
+100 devs might not be for you that's okay you don't like my face beautiful
+there are so many other communities where you can learn how to code for free
+and if you decide a paid boot camp is for you know the main as someone that's
+taught boot camps for 10 years know that the main thing you're getting
+is that you paid money to show up and for a lot of folks that might be
+worth the cost because they don't want to lose out in the money they paid to
+
+02:00
+show up but do not trust your boot camp to help you get a job
+it is on you to network to build your network so that you can get a job in the
+end because a lot of them won't help you they they'll connect you with a few
+folks and then disappear because they've already packaged your debt and sold it
+to somebody else so they don't actually care so
+that's my word of advice be careful talk to real alumni talk to folks that
+actually graduated go on linkedin see what their actual class numbers are
+doing but just do your research be careful all right
+let's build this app a local bot score button a local bot score button
+so we have uh in the starter code i've given you today
+a lovely local storage bot score button template i'm going to start with that
+uh in it i don't have anything and in my html i don't really have anything
+
+02:01
+and so what i want in my html is a button that i can click and
+just a place that i think i'll probably eventually put the score
+i'm going to get rid of this image we don't need it
+and i'm just going to put a button and i'm going to say another one
+because i want it to be another one so a another one and here's where we'll put
+our score i'm just going to put score in here for now cool
+and then what i'm going to do is i'm just going to go to my api template
+and i'm just going to copy the javascript that i have here
+i'm just gonna copy it no need to type all that from scratch we have a lot of
+the the key pieces here that we can reuse and so i'm just gonna
+take that from the api template and we're good to start there all right so
+uh if the user can click a button we know that we need a what
+
+02:02
+uh should we trust 100 devs no please don't trust anyone that tries to tell
+you about jobs on the internet do your research even on me go to our
+celebrations channel talk to our alumni and i'll be the first person to tell you
+getting a job is not easy it has nothing to do with your coding ability and
+everything to do with how much effort you put into networking and and building
+those relationships to help you get a job so yeah don't don't even trust me
+uh please seriously because i i don't want you to get got
+and i try my best to to bring folks to talk to you
+that didn't have the the the hunky dory everything was roses experience
+heck even people i direct you to uh don't didn't get jobs right they
+might have got a side thing or something like that but i want you to see that
+it's not a clear path and there's ups and downs and it is a long trough of
+sorrow i do believe you put in the work you build your network you can overcome
+
+02:03
+some of the the barriers you have and and and lean into some of your privilege
+you can go ahead and get that job um but you got to realize that nothing's a
+guaranteed thing and so even 100 devs cool so we know that if we want to click a
+button we need a click event right we need to click event and so here
+we have our click event it looks like it will work because we have a button we
+have our fetch what i want to be able to do
+is when i click that button i don't need
+any of this like api stuff for right now so i'm just going to delete this
+uh when i click this button i want to like add another one i'm going to call
+this add another one there we go so when i click
+this button i want to add another one and so what i need to do is i need to
+
+02:04
+add one to a value that is in local storage how do i at least how do i set up a
+value in local storage what do i need what do i need to set up
+to to actually have a value in local storage thank you add another one
+what do i need yeah i need to set item so i can go ahead and set item um to
+zero so let's go ahead and say local storage dot set item and we're gonna say
+we're gonna call it count and we're gonna say set it equal to one beautiful
+would be the problem of having this set item inside of our function
+what would be the problem of keeping this here
+yeah every single time this function call got called we would reset local
+
+02:05
+storage count back to one and so let's pull this out of here let's just do it
+on page load so since it's gonna do it on page load i was going to put it up
+here and actually says to a bot score so we're going to change
+this from count to bot score and i think on page load i actually
+don't want it to be at one let's make it zero so when the page loads we set the
+bot score to zero cool so now now we at least have a score
+that is in local storage now when we click the button i want to add one to it
+how can i add one to this value what could i do yeah
+i need to do exactly get items so i can get the value then add one to it and
+
+02:06
+then reset the item to that new value so let's go ahead and say uh bot score
+equals local storage dot get item and what item do i want i want the bot score
+so what this should do is if there is a bot score in local
+storage is going to give me that value and store it in bot score
+and we're going to call this bot score val like the value of bot score
+so what i'm going to do is i'm going to do bot score val plus equals one
+and now that i've added one to bot score what i want to do is i want to set the
+bot score to that new value so local storage uh local storage dot set item
+i'm gonna set the bot score and what am i gonna set bot score to
+
+02:07
+what am i gonna set bot score two yeah the bot score val all right
+let's see it so on page load we set bot score to zero
+now we have our event listener where each time we click the button it runs
+add another one the first thing we do is get the value out of local storage and
+store it in this variable then we add one to the variable right
+and then once we've added one we reset that score to be the new value which is
+whatever it was plus one so let's save it and see what we got so far
+let's go ahead and open this in the browser
+all right let's open up the inspector [Music] and i'm going to open up the
+
+02:08
+local storage application local storage and we actually have some old stuff in
+here so let me go ahead and just do a clear real quick cool so that's cleared
+uh and then let's just uh let's go ahead and look at the local storage let's
+refresh it all right so we can see it when i refresh
+we can see that that bot score is set equal to zero
+is there anyone planning on starting this course from the start still yeah we
+have plenty of folks join every day join the discord join the catch-up crew
+all right so on page load we set the bot score to zero
+cool now let's try clicking the button another one wait a minute
+
+02:09
+another one uh wait a minute another one get it another one you get it now
+another one [Laughter] you got got you came to get you got got another one
+another one all right what's happening here what's happening here another one
+ready ready you wait for it another one cool so it is concatenating exactly
+what do we know about what does that maybe tell us because we put a number in
+here we added a number to it what does that
+tell us about the stuff that's coming out of local storage
+yeah it's stringy right it's probably a string so let's wrap this in number
+just to make sure that we are always dealing
+um make sure that we're always dealing with numbers here
+
+02:10
+so let's save that let's go back let's refresh
+and that's also something interesting that we just saw there let's go ahead
+and click add another one another one another one boom there we go now we're
+actually going up however there's something weird that's happening
+did you all spot the weirdness i really do come up with a joke and then
+build a whole lecture around it that's what happens just so you know my process
+this another one was literally what i thought of and then i built the whole
+lecture around it same thing with dailon you all thought this was a coding
+bootcamp this is just my really weird form of like stand up
+i built that dialon example that was the first thing in my mind and i built the
+whole lecture around it so you know i supposed to hot fire
+
+02:11
+uh there's something weird happening here ready look hold on refresh with me
+pay attention refresh boom back to zero wait a minute leon you you told me
+you told me that the whole point of local storage
+is that you can refresh the page and come back
+that when you're using local storage you can close the browser window and come
+back and it's supposed to be the same why is it resetting on page refresh
+let's go and take a look let's see if we can figure out why that is
+why why is this always going back to zero on page refresh
+because we told it to exactly exactly princess a computer does what we tell it
+to do and on line three we said hey on page load set bot score to zero so every
+
+02:12
+single time we refresh this gets set back to zero
+it doesn't matter what happens inside of our function or our event listener
+because this was telling it to set to zero on page refresh so
+we need a conditional we need to check and see if bot score is there
+if bot score is there we don't want to do anything
+but if it's not there we want we want to do this code so let's go ahead and just
+make a conditional if and we can say like local storage get item um bot score
+we actually saw what happens what happens if i try to get an item
+that is not in local storage what do i get back
+leon's entire motivation for teaching us just so that we can get his weird jokes
+
+02:13
+exactly yeah we get back null and null is what type of value
+null is what type of value yeah it's falsy exactly it's falsy and
+so since it's falsely we know that if we ask for get item back and there's
+nothing there we'll it'll be false right and so what we want to say is all right
+uh if it's not false right so if if if if we don't get a
+false value back like if it's not null or not false right if it's not falsy
+uh if it's true right if there's something in there we'll get a true
+value right we're saying not false then we can just go ahead and do this line
+so now we're saying not false is there another way we could do it though
+
+02:14
+now we're saying not false is there another way we could do it
+yeah let's try it let's see what happens i'm a bad yeah i write bad code
+all right let's refresh uh let's go and do another one another one keep going up
+going up going up going up going up going up let's refresh
+aha look at us go look at this go i'm clicking that refresh like a look at me
+go yeah i'm clicking on the wrong spot there we go on the refresh
+click and refresh like it like it's wild and look bot score staying the same i
+can come back boom 12. let me let me close it we're in wordle let's open this
+back up again mm-hmm open in browse let's go to that
+application let's look at that local storage uh-huh oh
+look at that bot score there right back to where we were another one look at us
+
+02:15
+go first another one cool all right so that's the beauty of local storage
+and the cool thing is local storage is a simple interface that does something
+really complex we only have to learn about get set
+and clear and then we have this whole place where we can store stuff
+right that we can come back to our apps can be persistent they can have uh value
+so that as users come back they can have incremental stuff beautiful i love it
+do you ever run out of local storage i guess theoretically you could because
+you'll run out of computer storage i actually don't know the limitations on
+
+02:16
+how much you can put into local storage let's bring up the code real quick just
+so we can see we have our conditional checks to see if
+there is a bot score if there's not a bot score we set it to zero
+basically we're saying if is there a bot score if not let's set it
+basically this only runs on the very first page load that's it
+five megabytes archer that's not a lot excuse me five megabytes per
+browser interesting i wonder if there's a way to um to boost it cool
+all righty so we have our lovely local storage uh if people saying what are
+cookies cookies are kind of similar we'll get to them eventually uh we're
+we're going to get them eventually but they're kind of similar they're storing
+a little bit of information on our machines that folks can use and access
+
+02:17
+later on local storage is cooler because it's kind of like dealing with objects
+right it's kind of just like dealing with objects and so if you can deal with
+objects you're used to using apis you can work with local storage and you've
+got to know get item set item remove item and clear and that's it you
+can use it beautiful all right let's actually see if we can build a card game
+and i think the push for the card game is to get it working but then maybe to
+store some information about that card game in
+your browser so that users can come back and keep playing the same
+game so i'm going to go ahead and advance the slides a little bit we are
+going to build a card game so let's go ahead i'm just going to clean up a
+little bit here i'm going to close these out let's go ahead and uh open up
+the card well actually what i'm going to do is i'm just going to make a copy
+of my api templates that's what i'm going to do i'm just going to copy my
+
+02:18
+api template and rename it card game so um api template
+duplicate and i am going to call it card game
+all right so now i have just a copy of my template and inside of it
+i am going to have my index.html and i'm going to have my main js cool
+all right so we have all of our nasa stuff in here
+we have all of our nasa stuff in here uh nothing too too wild
+and so what i want to do is i want to build a card game called war
+and so the way that war is played is that you are playing against someone else
+
+02:19
+and you both draw cards right we both draw cards
+and what we want to do is compare those cards the person with the higher card
+wins so if i drew a six and you drew a seven you would win if i drew a
+10 and you drew an eight i would win if we drew the same number or card we
+declare war and we put up three cards and then flip
+a fourth one the person that wins that fourth flip takes all the cards and so
+the cool thing that happens is each time
+that you play whoever wins takes the the two cards or in the case of war all
+eight cards and so the cool thing is that eventually
+you win by having all of the cards and so i want to see if there's a way
+uh to build a game like war using cards but there's a lot of stuff that i don't
+
+02:20
+want to have to code i don't have to code like cards a deck
+removing cards from a deck all that stuff that would make like
+coding this take a little bit more time we could but
+what if there was a way for us to get like a deck of cards and um yeah
+just play the game using that deck of cards that's what i'm gonna do
+i am going to use an api called the deck of cards api
+it is literally deck of cards api dot com
+and the cool thing is if you go to deck of cards api dot com i'm gonna put it in
+chat you can see that you can get a deck of cards um
+you can draw cards from the deck and actually look it already says two at a
+
+02:21
+time so we could build our our war game right by by using this
+uh we can reshuffle the cards we can do a bunch of stuff so let's just see if we
+can actually get something from the deck of cards api i'm just going to grab uh
+this this link i'm going to go to postman the test
+like i said i love postman because i don't have to actually set up anything
+i don't have to set up anything i don't have to worry about like my template
+being set up or anything it's going to paste it in click send
+and boom i'm getting i'm getting some responses back
+and it gives me a deck id that i can use and once i have a deck id
+i can start to do some fun stuff with that deck so let's go and take a look
+back at the api once i have a deck id right once i have a deck id
+
+02:22
+i can use that id to draw cards right so my first request i got a deck id
+and then with that deck id i can draw cards
+let me try that let me see if i can draw a card so i'm just going to i'm just
+going to copy this api url i'm going to go to my postman
+i'm going to paste it in i'm going to grab the deck id from the
+first request i got let's plug it in and let's see what we got beautiful
+all right so we can see on my very first result i got two cards back
+i got a four of clubs and a three of spades
+so the four of clubs would have won if we were playing war
+
+02:23
+and the really cool thing is that you can see how many cards are remaining so
+a deck of cards is 52 cards i drew two cards so i still have 50
+cards left so if we were gonna build this from scratch on our own
+we would have to code all of that logic right not only
+we'd have to like code out all the cards find all the photos for the cards um
+find all the suits and things like that we'd also have to code all the logic for
+drawing cards we'd have to draw all the logic for like keeping track of how many
+cards are left in the deck but by using an api like the deck of cards api i
+don't have to worry about any of that and what you're seeing me use right now
+i said is postman postman.co and the reason why i use postman is because very
+quickly you could see that i was able to jump in
+right i was able to jump in i was able to test some api routes i was able to
+
+02:24
+take like values from one route uh and sorry one one url and like use it in a
+different one and i wasn't actually having to like write javascript
+and so postman just makes it way easier to test your apis uh to make sure
+everything's working and to get a rough idea of like if it's gonna work well
+before you jump in and start writing the code so i use postman pretty much all
+the time like i always have it like open and i test a lot of stuff in it right
+now it's just kind of like apis but eventually you're going to be testing a
+whole segment of your app using postman so really a big fan cool
+all right so let's let's think through this um we're going to need
+the ability to get a deck and then once we have a deck we need a
+we need a way of like showing the cards to the user and then showing like who
+
+02:25
+won so let's let's try it let's go ahead i'm
+gonna go into my html real quick and i'm gonna get rid of this this stuff that's
+in here right now and i'm gonna put i'm gonna put in h1 that just says like war
+um card game i'm gonna say card game card game and then i'm gonna have an h2
+or player two and i'm gonna have an image for player two
+and then i'm gonna have i'm sorry player player player two player one i'm gonna
+have another h2 or uh player two and then i'm gonna have another image
+so these are just places where i'm gonna
+put the the cards so i'm just gonna call this image uh player one
+and i'm gonna call this image the id of player two
+so the idea here is i'm just i'm just creating a place to put the actual cards
+
+02:26
+so if i get the cards i have a place to like show them that's all player one
+player two i'm just going to put in an r in here i'm going to say card
+and card i'm going to say playing card actually it's a little more descriptive
+playing card and playing card cool all right so very simple we have just our
+our player one or player two our cards that's it um
+let's let's add a button that the user can click
+to like actually make the cards like the card game play i'm just gonna say
+button uh deal two cards so that way we can actually deal out the two cards that
+play the game we'll click on that to do it all right so let's go back to our
+
+02:27
+main.js and the very first thing i need is to get the deck id we saw in postman
+that this only works if i get a deck id and then once i have that id i can use
+it to draw cards should we code along probably not i
+think this is one where you kind of just think through it and kind of talk me
+through it and ask some questions as you need it cool
+bells of alba hey thank you for the five get the subs thank you for being here
+cool thank you so much yeah coding along is a lot there's a lot
+on this one all right so i know that i need to get a deck id
+and then once i have the deck id i can use that to get my two cards
+so let's go ahead and set up getting the deck id so i'm gonna go here um
+let's set up a fetch i'm gonna take i'm gonna do a fetch outside of
+
+02:28
+i'm going to do a fetch outside of my click event
+because i'm going to want that click event to be the drawing of the cards i'm
+going to say i'm going to say i'm going to call this draw 2
+and i'm going to change this to draw two all right draw two draw two
+uh and then i'm gonna have a fetch up here that just grabs the deck id for me
+and in fact i'm just going to have a variable called deck id
+and i'm just going to set it equal to empty quotes for now and then i'm going
+to do my fetch and so let's go ahead and grab that url
+uh the cool thing about postman is you can just grab the url that you were
+using in postman oh actually cool look you can actually
+pass how many decks you want so if you wanted this to be like a hundred deck
+game of war we could just change that one number there which would be pretty
+cool all right so let's go ahead and grab that let's plug this in as the url
+
+02:29
+and we should get a deck let's clear all this crap out of here
+and let's see if this works in giving us a deck of cards so i saved it
+if this works we should console log data and we should see that we have a deck
+100 decks exactly uh let's go to open this in the browser
+let's go ahead and open up the inspector let's go to console and we see that we
+got an object so great we have a deck um and something interesting happens
+if we refresh each time we refresh what's happening
+each time we refresh something's happening
+we're getting a new deck each time wait a minute what if
+there was some way from homework for homework
+
+02:30
+to make sure that you're always using the same deck hmm
+what if there is a way to do that what if we could like say i don't know
+get a deck id and then um maybe like store it and like
+oh maybe there's like something like local storage that we could store it into
+and then that way even if they came back
+to this app later on they're not getting a new deck maybe that's for homework
+all right so right now we're getting a new deck each time and that's actually
+probably pretty good um uh that way i don't have to worry about
+uh people grabbing my deck right so we're gonna get a new deck each time
+and then once i get that deck uh let's go ahead what is it what is it
+
+02:31
+called it is a deck id deck id right deck id deck underscore id so
+we can go ahead and do something like this we can say deck
+id equals data dot deck underscore id and [Music] let's see
+ropheado hey thank you for the hydration cheers to you
+and the cool thing is that deck id is a what it's a what
+it is an empty string now but it's a global variable
+uh and so like when you look up like bad things to do in javascript global
+variable is like literally the first thing that says not to do but i'm a bad
+
+02:32
+yeah i write bad code so right now i have a deck id that's a global variable
+and i'm just going to put my deck id into that global variable and the reason
+i'm going to do that is because i know down here in draw 2
+i'm going to use that deck id so i want on page load to get a deck
+and then down here i'm going to use that deck id
+right and so just to make sure i don't have any like weird scoping issues i'm
+just making it a global variable i'm a bad airway bad code cool
+um are there plenty of ways to get around the e-cut but this is
+this is uh 25 minutes left in class leon all right so we now have the ability to
+get a deck we saw that it's working we're storing that deck id in our
+variable deck id let's see if we can draw our two cards so we have our draw two
+and instead of doing any of this stuff here i don't need any of this we need a
+
+02:33
+url so let's go and go back to postman and grab our second url
+so here's the second url that came from the api
+right from the api big tina energy exactly and here it is that's the url that we
+were using that we got from the deck of cards api itself right i just tested it
+in postman so i know it works and i'm gonna come back to my code uh by
+nasa and let's plug in this deck um but instead of it hard coding a deck id here
+since this is a template string i can use my bling
+and i can plug in what here what can i plug in here
+i can plug in deck id exactly so now the cool thing that happens is on page load
+this fetch runs it goes and gets me a deck of cards
+
+02:34
+we store the id for that deck in a global variable whenever we click our button
+it can use the id that we got on page load to go ahead and draw two cards
+let's see if we get any data back let's let's eat all this stuff from nasa let's
+see if we get any data back when we click the button so let's come back here
+um let's refresh so we we got a deck of cards and then if we deal the cards
+you can see that we got two cards so we i was actually really excited uh you can
+see that we have two cards we have an array of cards uh the first card is
+an ace of diamonds and the second card is a king of spades
+so if we dig into this a little bit deeper
+
+02:35
+we can see that each card has an image and a suit and a value
+let's see if we can get these cards showing up in in the dom
+so we know that we get an object back that has a cards property but cards is
+an array so we can use cards zero and cards one to get the first and
+second cards let's try that document dot query selector
+and uh our our image had the id of player one and we're going to change the
+source to be equal to data dot co was it cards or card
+cards yep square bracket zero dot what was it image
+cool because we got the data back it had a cards property that was an
+array we're gonna grab the first card out of that array and grab the image
+
+02:36
+property and then we're going to do the same thing the same thing
+for the other card we'll do a yolo at the end we'll do a yellow at the end
+i think we're building up to some yolos here
+um so let's go ahead and this would be one right so this is going to grab the
+first card and the second card from the draw
+so let's go ahead and save this let's see what we got
+let's see what we got i'm gonna refresh i got me a new deck of cards i deal two
+cards and the first card showed up that's cool um let's check oh rip
+i forgot to say player two good call chat if we look remember our images have
+the idea of player one and player two yeah i don't know about y'all y'all i
+was pulling aces y'all were pulling threes and stuff all right let's go
+ahead and save let's make sure this is working and then we'll step through it
+
+02:37
+refresh so we got a new deck and a deal two cards you get a a deuce and a jack
+a six and an eight a king and an ace yo player one is getting wrecked destroyed
+player two player one is not one yet destroyed
+oh that would be war we'd have to we'd have to like put up three cards and then
+flip another one cool so right now we can see that and it's also pretty
+cool you can see how many cards are left in the deck that looks pretty neat um
+right now we're not doing any comparison to see who won
+right we're not seeing who won yet so let's see if we can build out the who
+won let's just take a second to see where we're at
+we have a fetch on page load that grabs the deck
+
+02:38
+and stores the id in our global variable deck id then down here
+on the click of the button we're using that deck id to draw cards from our deck
+right we're drawing cards from our deck and all we're doing right now
+is grabbing the images from the two cards that are drawn and placing them
+into the dom let's go ahead and see if we can do a little bit of comparison here
+let's go ahead do we have a place where we can put this let's see
+uh let's put a place like uh we can put uh let's do like an h3 here
+
+02:39
+and i don't like the capitalization put an h3 here and let's let's do it like um
+result we'll just say result for now and
+this is where we're gonna put the result of who won or not cool
+so let's see these cards do they have value they do we can see that there is um
+let's open it up there is a value oh however that's going to be a problem
+anybody see the problem that i'm looking at anybody see that problem
+they're not all numbers the ace the king the queen are all going
+to need numbers if we're going to make this work
+um so let's do the first thing let's just let's see if we can figure out who
+
+02:40
+won the way it is now and then we'll control for this edge case so um
+let's go ahead and say we're gonna get the value from each card so
+let's get the values i'm gonna say um let player one value equal
+and it's gonna be that data dot cards zero
+and then what was how do i get the value off of it
+value so it's just val dot value beautiful and then we'll set up another
+variable let player 2 val equal data dot cards 1 dot value cool
+
+02:41
+so now we have the value from both the cards let's just do a quick conditional
+let's do if um if player 1 val is greater than player 2 val okay greater
+better to val then we'll just for now actually let's put it into the dom
+document.queryselector [Music] uh let's do h3 we're gonna say inner text equals
+um player one wins right and then we can do [Music] else if
+and we can say player one val is less than player to val
+
+02:42
+and we're gonna do the same thing we did here um except player two wins boom
+and then the last one is if they're not less than or greater
+than then the only thing that else could be uh would be to say um war
+we'll do that h3 and we'll put some text in there we'll say time for war cool
+beautiful all right you know what something is pretty interesting
+uh let's just see if it works and see if it's doing anything i know hopefully we
+get some like numbered cards and it works so let's see
+let's refresh we got a new deck deal two cards ace king player two wins
+
+02:43
+that makes no sense that's not true um let's get two numbers let's see
+there we go player one does win because six is uh six is uh less than ten
+oh no that's not working this should player one should be winning uh
+no that's what well nope player one should have won this interesting let's check
+let's see what's happening because player one should have definitely won
+that one let's look at the cards [Music]
+what are all the values chat can you see what the values are
+they're strings if only we saw something earlier today that would help us fix
+this if only what could we use to fix this yeah number nice
+
+02:44
+all right let's look at number and wrap these in number
+all right let's see if we got it working now let's refresh we got a new deck
+draw two cards we're gonna draw until we don't have face cards all right
+so player two should win this one right because five is greater than four so
+player two should win and that's what it says player one should win
+all right cool so it works when they're numbered cars
+what number of cars when they're numbered cards uh this works
+right so the cool thing is maybe we can convert all the cards
+to a numerical value so i think i can do that pretty easily
+and i'm going to see what the kings look like is it all caps or not um
+
+02:45
+yeah it's all capital letters so what we can do is we can just create
+a little helper function and our little helper function
+um can just convert it to a number so let's call it function uh convert to num
+and we're going to take in a value and it's just going to be a conditional
+we could even probably do a switch here but just taking a conditional we're
+going to say if val equals ace then we'll return so let's say 10 jacks or 11
+queens are 12. kings are 13 and aces are 14. so we'll just return 14. uh elsif
+
+02:46
+elsif else if cool and so we'll just kind of keep it going we'll say if
+val equals king all caps right remember it came in all caps um if val equals
+queen cool and if val equals jack cool and then we're gonna have an else
+here as well which will just be return val cool so if it's already a number if
+it's not an ace a king a queen or a jack we should just return that number uh so
+we'll return here 13 over turn 12 will return 11. and so if it's not a
+ace king queen or jack whatever value we passed in we'll just return the value
+
+02:47
+cool are there jokers that's a good question
+difficult i don't think so because it was a 52 card deck so i don't think they
+would put jokers in a 52-card deck but that might be something we'd have to
+control for that could be a little bug that pops up if we're we don't know
+all right let's take a look so now we have this little helper function that'll
+convert any value we pass into a number or at least give us
+the number and so instead of doing this comparison here i am going to [Music]
+i'm going to do this i am going to wrap this in convert to value
+
+02:48
+so we called our function what do we call it convert to num sorry convert to
+numb cool and so what this will do is i'm going to
+call this uh that i spell it wrong too i forgot the t
+all right so what i'm gonna do is instead of just immediately like comparing the
+values every value i get from the card is gonna
+be passed into this convert to num function so if i got an ace back here
+this ace will get passed in vowel will equal ace and will turn 14 so
+it's as though this value here would become 14.
+one thing i'm noticing is that we should probably have number on this
+that we're always returning a number because those values could be the string
+
+02:49
+of the number cool i'm going to wrap this one and convert to num as well
+let's see if it works and then i'll walk through how it works i know this is a
+lot cool all right let's save this let's go ahead and run it
+deal two cars we got a new deck deal two cards
+queen and six player one wins let's go jack and ten player one wins let's go
+seven and four player one wins let's go player two wins with the ace all right
+let's go first try wheezy said everyone take a moment to
+appreciate that we can somewhat understand the wall of code versus four
+months ago hell yeah if you pay attention to any of this imagine where
+you imagine trying to pay attention to this a couple weeks ago
+all right let's take a look let's make sure we understand understand what's
+happening here jason the rule hey thank you for the
+
+02:50
+five get the subs again i appreciate you thank you for being here
+and thank you everyone for uh all the subs today it was a lot today i
+appreciate you all spending jeff bezos's bucks and using the primes and all that
+fun stuff uh thank you all right let's take a look we have
+our very first fetch that happens on page load
+uh we get the deck id which we store in a global variable we're gonna need this
+deck id right i think so too legendary learning is fun
+we're gonna need this deck id so that we can make another request to
+draw two cards from the deck that we got all right let's see
+uh we click the button and that's gonna enable us to draw two
+cards we're gonna use this this url to draw two cards we're plugging in our
+
+02:51
+deck id and then what we're gonna do is we're
+gonna get the response back from drawing two cards from our deck as long as we
+don't refresh the page we're gonna keep drawing from the same deck
+we put the first image that comes back with the two cards into the dom we put
+the second image of the card that comes back into the dom
+and then we create this little helper function that takes the values because
+the values were strings and our little helper function
+converts ace kings queens and jacks to a number value and converts any of the
+string numbers to an actual number right and then the only thing we have
+left to do is compare those numbers to see if the
+
+02:52
+player one one or player two one or if they're ready for war pretty neat
+all right let's do uh pokemon cards and then we're gonna do a yolo pokemon cards
+and then a yolo um so let's go ahead and take a look
+and then we'll talk about the homework all right so we have
+quite a few pokemon cards to get in today and we're gonna do a yolo so
+um here are the pokemon cards that are still available and let's see
+let's go ahead and i'm going to set up a quick math.seal we'll do a math
+dot random and we're going to times that by the number of cards we have left
+which are 64. so we'll do 64 times 64. if it winds up being one two or three
+
+02:53
+you get the top tier card one two or three you get the top tier card we have
+quite a few folks that did the pokemon card
+redemption and so we're gonna stan start
+with andrey sloth andrew sloth this card is for you
+let me go ahead and i'm just gonna i'm just gonna copy these names real quick
+so i'm gonna need them so i can send out the cards uh i'm gonna be sending out
+all the cards uh along with all the other merch stuff we're doing i'm hoping
+to take some of the time this weekend that we have for me to be able to go
+ahead and do all that so andrew sloth this is your this is for you three two one
+eighteen let's see what the heck 18 is 18 is the double colorless energy uh but
+it's the league promo version that's actually a pretty cool card um so i'm
+just going to go ahead and copy that real quick boom
+and we're going to put that on my list here just so i know who got it
+
+02:54
+and then i actually have to delete this because there's no doubles there so i'm
+going to delete this row all right next one up is
+yobe oh yobe uh this one's coming up for you yobe let's go ahead and draw it
+again three two one sixty-two all right let's see what's at sixty-two
+sixty-two is sage's training oh no sorry oh mancico this was the death of one of
+my i actually don't pronounce this this is the death of one of my decks i got
+rolled by this so hard when i was playing competitive um i'm gonna delete this
+
+02:55
+let's go into yobe and we're gonna do a yolo all right
+el vellano el veleno this one's for you el villano this one's for you
+we need to build an api for this exactly actually somebody did that last class
+somebody last class built me an api to do this i just don't remember the url
+someone really did do that last class they built an api for me that looked at
+it and um i just i forget the url seven eleven oh seven let's see
+seven is oh kingdra prime that's a fire card all right kingdra
+prime coming your way got just a few more here folks then
+we're gonna do a yolo then we'll do a nice raid get some more channel points
+so you can get cool stuff like these pokemon cards all right we got we got
+
+02:56
+four more to do here one more all right 64. and this was for
+fire repeat fire repeat uh there is no 64 anymore so you know what
+we'll make that uh we'll make that a re-roll since there's no more 64. i
+forgot to delete it too you lucked out because you're at the bottom
+fire repeat since there's no 64. we'll redo it because that would have been a
+bad card uh so let's go ahead and change it well not bad card just a lower end
+card all right let's reroll 62 25. i repeat that is
+the jirachi unleashed beautiful coming your way
+and i'm going to go ahead and delete this because i only have one of those
+cool which means this has to change 61 and this is for ervacid of asset
+
+02:57
+this is for you 55 so that is a lovely persian coming your way
+and we'll go ahead and delete this one cool
+two more here folks and then we're going to do a yolo you don't want to miss the
+yolo so you get these sweet sweet channel points then i'll talk about the
+homework and then we'll wrap up with a raid all right woven this one's for you
+woven this one's for you we're at 60 now 51. that's a professor juniper
+i got three of those that's good professor juniper coming your way woven
+and for folks that get the pokemon cards i'm gonna reach out to you by whisper
+here on twitch i'm gonna ask for your address and we're
+gonna get that coming your way i know some folks watching pokemon cards
+earlier like a month or so ago those are gonna go out with this big shipment of
+
+02:58
+stuff going out and then the last one i think is today
+uh i think they just redeemed it it's blind devotion this one's for you blind
+devotion 39 and with the 39 we have a snivy
+coming your way nice and delete this one because i only have one of those
+beautiful alrighty lovely let's do a yolo [Laughter] let's do it yolo
+can i get rid of the kingdra oh i didn't let's get rid of the kingdra
+beautiful all right here we go we got rid of all of them wonderful thank you
+let's do a yolo so the way the yolo works time to lose all my points again
+hopefully not uh you saw the code folks hopefully there's no bugs in the code
+hopefully had enough time uh to take a gander at the code to see if there were
+
+02:59
+any bugs uh we're gonna yolo if player 1 wins or player 2 wins if player 1 wins
+you win your points if player 2 wins you win your points but folks
+here is the game this evening if we land on war i'm gonna cancel
+i'm gonna cancel it everyone gets their points back and then you have to yolo
+double the points so if we get war you have to what if you put up 10 you
+put up 20. if you put up a thousand you put up 2 000. i'm gonna look through i'm
+going to pull up this spreadsheet going to be up in the spread she's gonna be
+like cool who didn't double bam bam bam didn't double band double bam bam bam
+bam bam bam bam double band cause you don't have to play
+you don't have to play you don't but if you want to play today
+
+03:00
+here are the rules you pick player one or player two
+we get war you have to double your bet all right let me go and set it up
+let's go ahead and uh we'll refresh the page we'll get a fresh
+deck fresh set of cards player one or player two send up the yolo
+all right start a prediction start a prediction player one or player two
+mission period one minute who will win all right that up prediction is started
+got it all right prediction is open who will win player one player two
+
+03:01
+player one player two player one or player two i don't know why people are doing
+exclamation point yolo it's gonna be two million channel points on each side wow
+one point two point one two mil wow we're definitely we're four million
+channel points on the line here folks four million channel points that's
+absolutely wild wow four million we're at 5 million channel points 5
+million channel points on the line folks 5 million can you believe it 5 million
+
+03:02
+channel points on the line all right let's see if we can do it all right you
+ready for this five mil channel points on the line all right let's refresh
+we got a new deck we're gonna deal two cards player one wins oh no
+you didn't see me do it player one one you can see it in the history
+i didn't touch it player one one it rigged [Laughter] ah player one one
+[Laughter] i don't know who bet the points it
+
+03:03
+doesn't matter to me but player one one there's no way to make this right can i
+cancel it player 1-1 player one one let's see how do i choose it all right i
+feel as neat i feel i need to delete this bet and do it again
+i do i don't think folks saw it i don't want folks to be cheated
+i think i have to i think i have to delete it yeah i think i have to delete it
+
+03:04
+psych [Laughter] oh you don't trust me by now if you don't trust me by now
+player one one i don't know how to do this fairly
+i don't know if i should delete it and redo it or if player one wins
+i think we gotta i think the only fair way to do this
+is to delete it because folks didn't see it i know player one
+you want your points i feel you but i feel like we need to redo it
+so i'm going to delete it i apologize should have been little leon
+i don't want i don't want to be any any shenanigans
+i don't have any shenanigans can i do a poll let's do a poll new poll should i
+
+03:05
+redo yes no all right let's start a poll wrong one should i redo
+this is this is this for all of it i wouldn't cheat y'all player one one so
+let's see let's see what let's see what the community decides
+is democracy in in action so the interesting thing here is that it
+
+03:06
+had to be more people right all right all right no redo the ones won it by
+over a hundred votes the nose wanted by over a hundred votes
+so player one really did win i would feel really shitty if i had to uh
+delete it from from the player one winners uh so player one did win the
+community's decided i'm going to confirm it player one wins boom [Laughter]
+i think that's fair i think they deserved it they did win
+uh now we can do one more if you want to do one more this is this is like really
+this is this is getting me into some troubled territory
+give me some troubled territory let's do another one let's do another one
+
+03:07
+let's see the details on this one though i see the details over here
+over five million points over five million channel points were up
+for swings there all right let's go ahead i'm gonna set up another one
+it'll be a we're gonna do we're gonna refresh new deck refresh new deck
+all right start a prediction we will win player one player two one minute to get
+in and then we'll do a raid all right one minute to get in here
+i can't be doing too many more of these yolos
+can't be doing too many more of these yolos i'm gonna refresh new deck
+
+03:08
+then pick two cards all right we got a million plus on each side whoa y'all
+what a bunch of degenerates i thought this one's gonna be like way less
+i thought it's gonna be like way less this is what you're here for
+screw learning the code we're here for the yolos [Laughter] this is wild wild
+what i thought it'd be like half yeah we're over five mil again this is
+for another 5 million channel points what what another 5 million
+
+03:09
+channel points are up on the line folks uh let's go ahead and refresh so it's
+gonna be a new deck and then we are going to draw two cards all right
+here's the refresh little leon you can see me there you go i'm good live
+all right refresh new deck draw two cards three two one player two won it
+player two on it i hope he didn't switch it up player two what it let's go
+all right let's confirm the prediction here choose outcome player two wins
+complete complete prediction beautiful all right
+
+03:10
+there's a few things for homework uh due thursday due thursday you have
+an assignment that says to create three small apps using three api so
+i gave you a list of public apis you could use but any api is fair game
+meaning that you can just google for certain apis you now have the ability to
+use a bunch of them and so part of your homework for thursday is to build some
+simple apps using some simple apis google share apis do you find that are
+fun uh look up apis that might be tied to your interest and try building also
+for homework i want you to try playing around with this game we've done a lot
+here break it apart try and make it do something different try and get war to
+work right right now war doesn't work it's just the greater than or less than
+right so there's lots of things you could do here once you have the cards
+working you could build whatever you want you could maybe build poker you
+
+03:11
+could build blackjack and so there's a real ability to take this deck of cards
+api and build something really cool as the beginning project for your
+portfolio right i think there's a lot of stuff here that if you just tweaked it
+and made it your own right tweak it and made it your own that you could
+wind up with some really dope portfolio project so hope you had some fun today i
+hope you enjoyed working through some of these apis come back on thursday we're
+going to do more stuff like this just building seeing how things work testing
+out new tools and then we'll go into the the holiday weekend so let's go ahead
+and do a lovely raid i really appreciate everyone that sticks around for the
+raids it's really nice to like spread some love and positivity with the end
+off the evening also remember you you get those sweet sweet sweet
+
+03:12
+channel points and so let's go ahead and do a raid
+uh since we since we started off with the uh let's see
+um we've been to in a while cool all right let's go to polaron we haven't
+been over there in a little while let's send them some love's positive if
+you haven't give them a follow please give them a follow
+and i will see you all again on thursday setting up the raid
+boom we're heading over have a good night everybody hope you had
+some fun hope you learned some stuff build break make it your own
+and i'll see you all on thursday peace everyone let's raid youtube

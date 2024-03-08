@@ -1,0 +1,2356 @@
+
+00:00
+yo hey good morning good afternoon good evening
+where are you coming from hope you all are doing well welcome back
+yah let's go tear it up welcome back everybody good to see y'all
+glad to have you back alrighty folks versatile three wait till
+you hear eight rari paper plate let's go folks day three of javascript turn up
+what's going on everybody glad you're in here glad
+
+00:01
+you're in here let's get some folks in here we got a
+we got a good question today you know we always like to start off
+with our questions of the day and our question of the day today is
+would you rather be an extra like in a really good like oscar-worthy film
+or would you rather be like the main character or have like a
+really big part in like a terrible movie
+extra in a really good like oscar-worthy
+movie or like like big part in like just a horrible trash movie
+oh this one's this one's split i'm seeing i've seen a lot of extra and
+then it goes a lot of maine i don't know you could be in the background of like
+that that big movie or you could be the the the leading role or the big part in
+
+00:02
+the bad movie right i don't know i think i'm going to go with
+i was i was actually the i was leaning towards extra but i think i'm going to go
+with a big part in a bad movie right big part
+in uh in a in a bad movie and the reason
+why is because like i would love just to be able to like share that like this
+this is like this is like a meme amongst my friends
+right like i think i think i think i would get more enjoyment out of that
+instead of being like oh look i was in the background for a second you know
+maybe maybe who knows maybe i'm an actor at heart i don't know
+still got it's pretty split i'm surprised yeah cool
+alrighty folks thanks for getting in here glad you're here welcome back
+as we always let's start off with some questions
+let's get some questions as folks get in here
+let's get some questions if folks get in here i always like to give folks a few
+
+00:03
+minutes to get in here i know you're running from work or the kids or
+whatever you're doing welcome pepsi or coke coke absolutely all day
+long like why it's not even a question there is uh there's like a joke that
+people used to do um and i did it one time at a restaurant
+when when the the waiter comes over and they say like hey would you like
+what would you like to drink and you say
+like oh i love like a diet coke and they go oh i don't i don't have coke how
+about pepsi no one ever says like absolutely not how dare right and so
+some people it was like this it was like a meme for
+a while people like absolutely not like no way like what are you talking about
+i'll take water right uh the good old days when i was a kid
+yeah the the the uh the interesting thing is the um the like
+i think with handily think taco bell is like propping up pepsi i think if
+
+00:04
+taco bell got rid of pepsi it would just go to shambles
+the uh the what was the the baja blast that saved pepsi
+other questions folks other questions that are not pepsi coke related
+it's just a flame war between pepsi and coke right now
+dominoes or dominoes definitely dominoes
+what do you do in your pomodoro breaks i do what everything i tell you to do i
+get up i do a quick stretch i i do a specific back stretch that i've
+shared um because that's going that's that's what starts to hurt the longer i
+sit down is like my hands my wrist and my like like my mid the upper back so i
+get my stretch in uh sometimes i cuddle a dog or two
+i grab some more water if i need more water and then i come back but i also
+
+00:05
+stare out the window like there's definitely people
+near me that are like why is this guy always staring in the in the window um
+yeah you ever use standing desk yet i mean this the desk i'm on right now is a
+standing desk i actually even have like a treadmill
+that goes underneath of it that i use every once in a while that's really fun
+alright folks freelancing class good question tuesday so
+next class is our freelancing class i'm super excited uh so yeah a lot of folks
+have been asking questions about freelancing they started telling folks
+about freelancing they're starting to get some leads so yeah next class is our
+freelancing class definitely hands down one of my favorite classes you
+absolutely do not want to miss tuesday's class it's a lot of fun
+and uh let's get you some money y'all get you some money y'all
+all right thank you for the questions and uh caleb with the hydration cheers
+
+00:06
+to you thank you very much we're going to see hydration is going to
+be a theme this evening hydration's going to be a theme this
+evening all right folks we're doing it all over again we're doing it again
+we're gonna we're gonna we're gonna loop the beat and do it again so you're like
+leon this agenda looks exactly like the agenda from last class
+and the astute ones among us would be correct this is the exact exact agenda
+from last class guess what it's the same examples thank you different
+it's it's the same examples it's the same code because what did i
+ask you to do i asked you to go ahead delete it and then redo it so guess what
+we're going to do we're going to get our spaced repetition in we're going to
+delete everything we're going to redo it and this is great for every level here
+right i don't care if nothing clicked and i don't care if everything clicked
+
+00:07
+loop the beat do it again come back make the neural connection
+stick when you have time to to delete everything and do it see how fast you
+can do it see how good your recall is push in that moment right
+we're doing it all over again so ask good questions when things don't make
+sense ask those questions again we're going to redo it again all right so if you
+kind of last last tuesday's class was a little panic inducing it's all right
+we're here to enjoy a roller coaster ride to play with some legos and we're
+going to play with them again right the interesting thing is we are at a point
+in your learning journey where it's not about understanding the raw concepts
+right it's not about understanding like even though we're talking about the big
+four the variables the conditionals the functions loops even though we're
+talking about them we're not really there at the point
+
+00:08
+where we're breaking them down and really understanding those components
+we're literally just trying to see stuff and play with stuff and interact with
+things so that when we actually do tackle those subjects for real it's not
+your first time seeing them that's the whole point of this and last class is to
+just see stuff in action if you've never actually seen javascript it's a fool's
+errand to jump in and have a complete understanding of conditionals loops
+functions it does nothing for you you haven't seen it in action so today and
+tuesday is about seeing stuff playing with stuff breaking stuff i don't care
+if you don't understand query selector or ad event listener
+we're not there yet your idea is to see oh there are all these blocks that can
+come together let me play with those blocks right that's that's the goal
+so many folks want to run right into an academic understanding of javascript and
+it doesn't work for a lot of folks so let's play let's build let's break let's
+
+00:09
+see how fast you can redo these challenges if you already have
+everything clicking for you and for folks where you're still kind of picking
+up the logs but it's not sinking that's what tonight's for so this is hopefully
+for everyone for folks that are feeling like things aren't clicking and
+for folks to feel like things are really
+clicking this is a lot of value for both of you so even though we're redoing
+everything it's how fast can you go through the things
+what can you recall what do you remember
+from last time delete it all do it again cool uh before i jump into class
+um from the from the very beginning course i ever did online
+so for those that don't know the 100 devs history uh i posted on reddit
+oh what is it now almost it's definitely over a year
+almost two years like a year and a half year and a half ago and i had a intro
+class it was just going to be like a five-week class right i just went to see
+
+00:10
+if i could do this thing online and so there are some folks that are
+still with us from that original five-week journey a lot of them are mods now
+but there are still a lot of folks around from that five-week journey that
+five-week journey turned into the first iteration of 100 devs uh and then we're
+here in the second cohort but from that very first cohort that
+that smaller five-week course we had folks from ukraine
+right from the from the very beginning there were folks from ukraine so tonight
+uh my thoughts my feelings my prayers everything i can send your way goes out
+to y'all if you are on discord and there's a way
+that i can help or that this community can help please reach out we're here
+so i just wanted to say it before we jump in tonight uh you've been a part of
+this community from the beginning we're here for you let us know how we can help
+cool all righty we're going to go ahead yeah please be safe
+
+00:11
+we've posted some resources uh chris one
+of our mods posted some resources in the general channel um if there's things we
+can do to help or assist or spread things let us know cool alrighty
+we also have a lot of folks from canada that are originally from ukraine uh so i
+know that a lot of your friends your families are
+are in it right now so all my love to you hope everyone's safe hope everyone's
+doing well alrighty tonight we're running it back
+we're talking about programming js basics we are going through all the
+previous examples we're going to see everything again we're looping the beat
+we're doing it all again all right talk through some questions i want to
+jump right into it it's a lot of stuff to get into and we're going to add
+functions on at the end right we're going to add functions on to the end
+
+00:12
+right so if everything is feeling good we're going
+to keep pushing and we're going to add this next of the big four the functions
+and so i'm really excited to get these functions locked down we've seen
+functions we've played with functions but now we get to actually use them and
+understand them we're gonna talk about arguments parameters all that fun stuff
+and then you're gonna have some homework to get into all right checking in
+if you haven't checked in please please do uh go ahead and do exclamation point
+check in here in chat also always in the following materials channel also always
+on um the go live message or if you're just
+following me on twitter you go ahead and do that cool now
+something really really important that i've brought up before but i need
+to bring it up again because it keeps happening okay i am never ever
+going to text you i don't text my friends i'm definitely
+
+00:13
+like not like i'm like like i don't text right i'm not going to text y'all right
+i'm not gonna text you you're never gonna get a text from me
+it's just not gonna happen i don't text it's just not i just don't do it i
+rather call people but i'm never gonna text you and i'm never gonna call you
+you're never gonna get a call from me ever ever ever ever
+never gonna get a text from me you're never gonna get a call from me
+you're never gonna get an email from me that is not also posted on discord
+you're never going to get an email from me that's outside of the newsletter
+there's never going to be like an email where i'm talking directly to you and
+only you right it's always gonna be a generic newsletter that's going out
+so i'm never gonna text you i'm never gonna call you
+
+00:14
+i'm never gonna send you an email outside the newsletter
+i'm never gonna dm you on twitter like i'm not gonna reach out to you
+maybe if you dm me i i respond to you but i'm not gonna ever reach out to you
+on twitter i'm never gonna dm you on discord please
+don't dm me on discord i don't i don't i don't check them mod mail leon channel
+right so i'm never going to text you i'm never going to call you and they're
+going to email you outside the newsletter hashtag newsletter by the way
+i'm never going to go on my way to dmu on twitter i'm not going to dm you on
+discord and i'm never ever going to ask you for money ever
+because there's like this same scam that's been going on for like a year now
+where somebody texts someone they're like hey you got a minute right they say
+hey you got a minute and then it's like some weird jumbled mess where they want
+you to send gift cards i'm never gonna text you and if i text you i'm not gonna
+be rude about it that's the thing that gets me the most about this like scam is
+just they're just rude like i would never be that rude if i was going to
+
+00:15
+text someone i'm not going to like text you
+and then say hold on i need a i need a minute
+like i just no like first like do better like scammer do better like i'm never
+going to be rude right like get out of here um but i'm
+never going to text you i'm never going to call you i'm never going to email you
+i'm never going to dm you i'm never going to discord dmu
+and i'm never ever going to ask you for money so i just need to put that out
+there because there's always people that are sending like fake emails with my
+name on them fake twitter accounts a bunch of stuff we have a really big
+community don't get scammed grandma doesn't need grandma doesn't need gift cards
+i'm not stuck somewhere i don't need your help
+i'm not gonna call you if i do need that help okay
+so please be careful in these streets i love you all i just ain't texting y'all
+right so be careful don't get got uh i don't give money don't buy gift
+
+00:16
+cards for people like this doesn't make sense uh and if you get a message from
+me and they're rude just know that that's not me i would not do that
+all right folks be careful in these streets i just need to put that out
+there don't get got and also if you're scamming do better
+like these are like they're like they're dumb scams be better come on have pride
+in yourself all right anyway speaking of friends
+speaking of friends uh we have the study communities that have been formed
+uh folks that filled out the original two forms have been added
+folks that were late to filling out the forms or something funky happened
+you've had the chance to fill out the additional form
+so as the moderation team has time we'll go through that list and add folks
+but it's going to be a while we need a little bit of a break before we can kind
+of keep chugging through that we won't be adding more folks to them if
+
+00:17
+you haven't filled out the forms and i just wanted to say like it's just
+an extra space for you to hang out right just an extra space for you to interact
+with folks it's not something that like you're
+you're missing out on a quintessential experience it's just a smaller place to
+hang out to get to know folks and so we're gonna have a networking night uh in
+a week's time so not this upcoming week but the following week and kind of
+similar how we did with remo we're gonna try using a different platform um and
+we're going to have like a really fun networking night where we're gonna
+network between all the different study communities so
+uh i know a lot of folks have been trying to think about ways
+that they can uh that they can kind of join the study communities
+pazzo hey thank you for the raid hope you're doing well thanks for bringing
+the crew by thank you so much hope you're doing well
+
+00:18
+what were you all up to what are you all working on or doing welcome welcome
+thanks for the raid uh so for for folks that are too new to around these parts
+uh we're running a free 30-week software engineering boot camp and so this is
+class 14 of that boot camp we're getting into some fun javascript tonight hope
+your stream went well what were you up to cool so study communities
+networking night not this upcoming week the week after right and so
+just let you know that's going to happen uh a lot of folks have been
+asking especially in the location-based channel channels right and the
+location-based channels folks have been asking hey like i'm in like this very
+specific area how do i like connect with folks
+create a thread we turn threads back on in the study communities in the location
+channels so if you are in a specific location
+channel but you want to talk to folks that are i think somebody asked about
+
+00:19
+minneapolis today right just create a thread for minneapolis inside of your
+location channel be careful like if you create like
+outside discords and you lead people to that discord that does violate our rules
+we will we will kind of ban you like we're just going to be real about that yeah
+yeah so please use the threads don't lead people to unmoderated spaces that's
+one of our biggest rules atx um yeah we're coming for you
+yeah and for folks that haven't been at it yet that's okay we're gonna work
+through that list as we can alrighty folks submitting work there's nothing to
+submit tonight all right nothing to submit tonight uh
+please make sure that you are still doing the work you're you're re doing
+
+00:20
+the reading you're doing the task right right we're doing the tasks
+make sure you finish up those tasks because next week i'm going to ask you
+to submit proof of those tasks right so i'm not asking for it tonight because i
+know some folks are still on the reading but make sure you're doing the task at
+the end of the reading and i'm going to ask for you to submit those next week
+but tonight nothing to submit make sure you're still getting the reading in make
+sure you're still getting done the repetition in and we're going to add on
+to that homework this evening cool ads one of the
+common complaints we've been getting is that at some points during stream uh
+folks that don't have a sub um the ad start playing and they can't hear me
+uh or new folks that join us they they get ads and they have to wait
+through the ads before they can join the stream
+so i don't really have a hundred percent control over when ads run i'm not
+running ads that's kind of a twitch thing um but apparently if i run ads and
+
+00:21
+i think we tried this last cohort too if i run ads um during our breaks that
+would stop ads from running running uh during the stream so when we
+take our breaks and we're like walking away for five minutes i'm gonna run
+three minutes of ads not because i wanna run ads it's just so
+that folks that don't have a sub or a gifted sub
+don't get ads if they're not using some other means okay so make sure
+to put that out there so i think i think that solves it because you should be
+like getting up walking away i'm never saying anything anyway and so when we
+take our break i'm gonna run the ads that way folks that are here and don't
+have that privilege don't have to sit through ads and they can they can hear us
+cool dabble hey thank you for the gift of subs i appreciate you
+
+00:22
+thank you for being here all right coffee chats
+god i got a bone to pick with some of y'all honestly
+uh something i want to bring up look when when somebody goes out of their way
+to set up a coffee chat with you please show up don't ghost them
+at least send them an email or a message saying hey i can't make the coffee chat
+don't be disrespectful don't be rude like that people are taking time out of
+their day to meet with you they schedule some time with you show up
+like we've had some folks come to me say hey leon i set up a bunch of chats with
+uh some some folks from 100 devs and they didn't show up
+so not only are you ruining it for yourself but you're also ruining it for
+everyone else and a hundred devs so please if you know you can't show up the
+
+00:23
+coffee chats don't book them don't reach out the folks and when you do have a
+coffee chat it's okay if you're going to miss it but you got to let people know
+you got to send them an email you got to send them a message right
+don't be rude don't be disrespectful and realize that you're you're you're
+ruining it for a lot of other folks not just yourself okay so please
+make sure if you're doing these coffee chats you're reaching out to folks that
+set up time to talk to us we have so many wonderful folks that have been
+setting up calendars specifically to help folks from 100 devs
+right specifically to help folks that are 100 devs setting up hundreds of
+chats really show up um i'm going to say if this keeps
+happening this will definitely be put into our rules and will lead to a ban
+like if we just can't have it show up to your chat or at least let people know
+it's just something that really looks bad so please don't make us look bad
+
+00:24
+all right cool next thing we're two classes into javascript folks two classes
+two i never want to take a second take a deep breath you know deep breath
+let it go there are two classes in the javascript
+it should not make sense it should not be clicking you are learning a brand new
+language you should have a handle on a few words
+but really have no idea how to put those words together
+think about if you are learning a brand new like spoken language if you were two
+classes in you would know some vocabulary but you probably wouldn't
+know a lot of grammar like you're not gonna know how to like put the words
+together you're gonna be able to recognize oh that's an event listener
+
+00:25
+i don't know how it works with the other stuff or that's how i grab something
+from the dom but i i don't know how it works with the other things right
+we're here to play with some legos right we're here to play with some legos
+you're two classes in you can't put that pressure on yourself
+you can't put that woe as me into your head you can't let the imposter syndrome
+creep in we talked about imposter syndrome for like an hour last class you
+can't let that creep in your two classes in
+for some folks javascript clicks very quickly and for some folks it takes a
+little bit of time but that's how everything goes in
+engineering some topics come quick some topics come slow and just because
+javascript is not coming quick to you doesn't mean other topics won't
+
+00:26
+every single time i i teach there are folks that get certain topics faster and
+some that take a little bit longer it's just due to the mental models that we
+already have in our brains right and so you can't you can't be mad at the
+person that's on the same roller coaster that's a few carts ahead take your time
+take some deep breaths take some of that anxiety and imposter
+syndrome off of your shoulders right it will work it will
+click it will happen for you but this is not the week
+this is not the week for most of the folks and another thing too
+is you have to be willing to play right be willing to play
+one of the coolest things that i've been
+seeing on twitter and on discord is just folks that are playing right that are
+being like what if i change this background what if i what if i make this click
+event do something else so don't be afraid to play to don't be afraid to try
+and change things to break stuff and when things don't go your way
+
+00:27
+get on discord get in the get in the javascript help or the homework help and
+ask questions why does my click event not work right
+the thing that i want like the one thing i just don't want you to do
+is when other folks are sharing things they put a lot of hard work into
+right that should not be something that makes you upset about yourself
+right that's not something should that should make you feel bad about yourself
+because somebody else had a good project so far you have no idea of their
+background their experience their previous mental models the things that
+enable them to learn that material or how much time they had to play how many
+times they delete it redid broke didn't work did work right you have no idea
+you don't have no idea the privileges they have or the privilege of time that
+they have you can't look at what other people are doing and compare that to
+yourself you're we're all in the same rollercoaster we're just in different
+
+00:28
+spots right and so look at yourself can you do something more
+than you could do last class can you do something more than the class before are
+you progressing are you putting in the work right
+right are you putting in the work are you deleting redoing have you done that
+have you deleted and redone it five six seven ten times till you don't have to
+look at it anymore because that was the homework that's what i asked you to do
+right did you do that because if you haven't done that then you you don't
+have room yet to feel bad right you have to make sure that you don't if
+you still have to look at the code to type it out you haven't done the
+homework yet and that's a good thing that's a great
+thing i love when people come to me and say leon i didn't do i didn't put in the
+work great because you could put in the work and get there
+right you got some room to improve exactly so put in the work
+
+00:29
+give yourself some time and if you did put in the work and
+things start clicking that's okay get on discord ask questions thing will come
+with time and guess what we're gonna do it all again tonight
+we're gonna get our space repetition in i i preach space space repetition and
+then we do space repetition because it works i don't care where you're at on
+the roller coaster you can all benefit from space repetition
+right letting those neural connections really solidify right really locking
+things down pushing yourself to see if you can recall right
+and so when somebody else posts something on twitter that's an amazing project
+congratulate them and know that you'll get there soon if
+you're not there yet but you have to put in the work
+imposter syndrome has no room for these next couple weeks it just
+there's just no space for it don't allow your brain to have space for that
+because you're two classes in you would never ever put that stress on yourself
+
+00:30
+if you were learning another another language
+right if you were learning japanese or or spanish for the first time you would
+never you would never say to yourself after two classes i'm mad that other
+people can speak more than i can it just does it's just not it's not it's not
+fair it's not fair to yourself you got this it will click give yourself
+time put in the work ask tons of questions one of my favorite things i
+loved when we um when we rate it splashly uh spl actually
+said something really impactful that i think helped a lot of folks and they
+said the number one mistake that they made early on was what anybody remember
+what they said the number one mistake they made early on was
+exactly they didn't ask enough questions you got to get over that mental hurdle
+that stops you from asking questions right and when i say mental hurdles i
+don't i'm not trying to alienate folks that have
+issues that prevent them from asking questions that's not what i'm saying if
+
+00:31
+you do have that please find folks that can help with those
+specific issues but for the folks that don't have those you got to be able to
+break through that barrier that says i don't i shouldn't ask questions
+right it's such a common theme for new students to javascript right it's just a
+common theme for new folks to coding to not ask questions because when you ask
+questions some folks feel and i i'm using this term like they feel not smart
+right when they feel like they if they feel like they have to ask questions
+they feel like for some reason they're not smart yet the smartest folks ask the
+most questions right the most brilliant people i've
+ever met are the people that sit there and ask question after question after
+question i've been around some some smart i taught at harvard i taught at mit
+i've been around some some brilliant ass people and the most brilliant people
+i've ever encountered asked so many questions
+
+00:32
+they didn't let that that thing in the back of their brain tell them
+right that they shouldn't ask they did they didn't care they they want it to
+understand and the only way to understand a lot of new topics is to ask
+questions and to get better at the questions that you ask asking questions
+is a skill right and you get better at it the more
+you do it eventually you'll be able to ask questions that laser in on the
+problem that you're having and things click that much quicker but it's a skill
+you have to build up so give yourself some grace
+give yourself some breathing room things will come with time if you put in the
+work and realize the biggest thing you have to do right now is ask questions
+cool all right now tonight night the hydration is cheaper folks
+
+00:33
+hydration tonight is only 3 000 channel points that's a that's that's 66 off
+folks and so i think i set it up that we can
+do one hydration every 10 minutes and so mike crow soft
+thank you for the hydration only one person can do it every 10
+minutes but the hydration is at a discount it's at an all-time low folks okay
+so is this bait i'm just trying to get people away from the from the from the
+only fans right um so tonight i want you to hydrate with me we're doing review
+we're looping through everything again we're doing everything again it's gonna
+be a lot of the same material it's gonna be a lot of the same talking a lot of
+same thing so i want us to go through this
+review this this repetition in a healthy manner we're gonna take some of the
+stress off our plate we're gonna hydrate together and so if you're able what i
+want you to do right now is to go get something to hydrate with if you're able
+
+00:34
+i want you just i'm gonna stop talking i'm gonna give you a minute to go get
+some water or some something and every single time i hydrate i want you all to
+hydrate right i'm gonna take we're gonna take this as a nice smooth pace
+we're gonna do this together and so if you don't already have your hydration
+i'm gonna give you a minute to go get your hydration bring up my timer here
+take your minute i won't move on go ahead go get your water go get
+something we're going to hydrate together tonight
+whenever i get a hydrate you get a hydrate we code together you hydrate together
+exactly difficult if you're able please i'm going to order the 2 liter from
+
+00:35
+domino's real quick hey this coffee count yeah so i'm drinking tonight
+got 30 seconds left please yes you the person that is able to get up that can
+go get some hydration that is not getting hydration yes you get up please
+go get hydration i'm back you got 20 seconds tequila counts tara welcome back
+mint tea nice raspberry lemonade everybody spam and chat what you got
+what do you what are you using hydration folks arizona green tea i had that in a
+minute got the got the the water gangs in here all right i see y'all
+from t for loco i was lagging on my cups this helps hey get in here turn up
+
+00:36
+all right cool everybody's got some good hydration let's do this thing
+remember the hydration can go off every 10 minutes so let's do it
+cool let's jump into it golden rule separation of concerns we
+keep our content in our html our style and our css our behavioral interaction
+our javascript why why do we do this yes organization lovely for the
+organization now as we start to add more languages more stuff to our projects it
+becomes even more critical to keep things separate we technically could put
+our html our css and javascript all in one file but it wouldn't help us stay
+organized it wouldn't help us work well together
+somebody asked me and they asked leon channel
+will we get practice with agile and working in teams hell yes
+as we get further into the program we do
+more and more team projects you're going to be paired up with folks in groups to
+work on code as though you're at a real organization
+
+00:37
+and so you need to start practicing that organization now so that when you're in
+those team projects you're not acting a hot mess
+cool we talked about ids and classes and we're starting to see them come into uh
+into play we saw ideas as a way to start grabbing
+individual things from the dom or putting things back into individual
+places into the dom the ideas start to go hard right like they they really do
+help us when it comes to javascript we also saw a little hint at classes
+what did we use classes to do what did we use classes that was pretty
+cool last class what what did it enable us to do yeah enable us to like
+enabled us to use a class name to like add some css or remove some css
+so we can add a class and we could add some css we could remove a class and get
+
+00:38
+rid of some css we can even toggle those classes on and off so we were used to
+using our classes just for style but now we can use javascript
+to turn those styles on and off which is really cool
+we also saw the ability to select multiple objects exactly multiple things
+from the dom that we then went and put event listeners on so we saw the ability
+to like to add and remove classes but we also saw the ability to like target
+everything with that class so that we could do things like add event listeners
+to all of our stuff pretty dope cool programming let's talk about it
+to keep charlene exactly uh a computer will do what you tell it to do
+right that's it at the end of the day computer will do what you tell it to do
+so a program what's a program folks what's a program
+get active today this is review come on get your fingers typing
+
+00:39
+all right get into it get in the game i know you're a little tired that's okay
+drink some of your water get the fingers going be participatory
+all right yeah just instructions a program which is a set of instructions
+you write that tell a computer what to do right just a set of instructions
+the act of programming is writing those instructions in a language that the
+computer can understand at a base level like at the machine like
+at the metal level do our computers understand javascript like at like a very
+low level like at the metal level do our do our computers understand javascript
+nah they don't they don't so javascript right javascript
+is the language that we use to communicate our ideas
+i want to add stuff i want to remove stuff i want to add some numbers i want
+to remove some numbers like all the things that we that we were able to like see
+
+00:40
+in our code right the things that we're able to talk about
+right that's what javascript helps us with and we we see this come out and
+play and it reminds us of why independence day is a true story why is
+independence day a true story chat bub i see a lot of bubs yeah binary upload
+boom it's this idea that even though the alien ships were using some sort of
+alien language we could break it all the way down to like simple logic to simple
+logic maybe all the way down to binary on and off we're assuming that on and
+off is a universal constant right and then from those universal concepts we
+can build all the way back up to a language that can infect the alien
+
+00:41
+mother ships bring the shields down and uh we saved the world cool i have said
+what did she say why are we learning the computer
+language not the computer understanding our language seems backwards computers
+more processors than me exactly maybe one day
+alrighty so that leads us to javascript a language that we can all
+understand and like i don't understand it yet that's okay you'll get there
+right it's a language that's human readable right something that we can
+share amongst each other look at it and have a good idea of what's happening in
+that program so eventually exactly alrighty now one of the harder things in
+the beginning is that javascript has its
+own syntax it's the spelling and grammar rules it's the way that we write out
+this programming language and the syntax
+has a lot of stuff that makes it hard at first you're seeing all these new
+special characters right you're seeing ticks and bangs and blings
+
+00:42
+and curly braces and all this stuff that we don't really ever use
+in like day to day just like writing normal stuff and so that syntax can can
+can make the learning process all the more difficult and so that's why we
+spend a lot of time working on these examples together
+because i want you to be able to see all these different pieces i don't need you
+to understand the pieces i just need to see you to see the building blocks that
+when we do do a deeper dive into stuff it's not your first time seeing it
+that's why i give you the reading that's
+why i give you some videos that's why we do things over and over again i just
+don't want you to show up and it's the first time you've ever seen javascript
+right by now you should have watched the goats video brad traverses video on
+javascript you should have read two to four chapters of the js way you should
+have had last class like it's it's momentum the ball is rolling it
+
+00:43
+shouldn't be the first time you see stuff and it's not the first time you
+see stuff from different angles right the the reason why i give you so many
+other resources is because sometimes you need to hear it in a different way or
+see it in a different way for it to click right i i hey
+someone hydrate it yo turn up all right everybody you're able hydrate thank you
+someone cheers cheers everyone get the hydration in we're hydrating
+together tonight well done well done all right solute there we go cool so
+we have this idea right that we we're going to build over time
+these building blocks but it's a it's a process you have to
+see things multiple times from different angles one of the things i do
+
+00:44
+one of the things i do really early on is whenever something doesn't make sense
+i ask questions i ask people questions and while i'm waiting for people to
+respond to my questions i try and look at different materials i'll look at a
+video i'll look at some reading i'll try it in a different way i'll try playing
+with it right of course digimon yeah of course
+i'll try doing it from different angles that's why i try to give you some
+different angles just to help things click in a little bit different way okay
+all right chat what are variables fancy boss coder it's this course that's
+what it is buckets exactly they're buckets that we can store data in
+what type of data have we seen so far what type of data types have we seen so
+far buckets hold our data but what kind of data have we seen so far
+
+00:45
+chef curry with the shot oh sorry chef curry with the pot steph
+curry with the shot there you go yeah we saw strings and numbers
+strings and numbers so far and maybe yeah some people are throwing out
+booleans we've talked about true and false right
+yeah we saw we saw some strings we saw some numbers so far these are the
+different things that we can store in our variables so far cool
+variables are just a way we can tell our program to remember to use something
+later on the entity we use to store those values we call a variable right
+now there are two steps that you can follow when you're creating variables
+and actually we're going to see this come up again a little homage as we get
+close closer to functions when we the end of class tonight will be some new
+stuff with functions right can variables equal functions they can they can and
+we're going to see that a little bit later
+
+00:46
+all right so we have two steps we have our computer has some lovely memory
+beautiful we got some lovely memory and there's two steps
+the declaration what does the declaration step do
+yeah it creates the space in memory the declaration creates that space
+so in our memory is now a space called age
+at this point after running this line of code does that space have any value
+does that space have any value in it no so a good question is if we were to ask
+for age right now what would we get back like if we asked for age what would we
+
+00:47
+get back yeah we would get undefined right we would get undefined
+the the program like javascript knows that there is a space in memory called
+age it can just see that there's nothing inside of it so we would get undefined
+back if we tried to use it we wouldn't get like a big error that would like
+break everything or just say hey the space you're talking about there's
+there's no there's nothing in it all right something in it
+but when we get to the second line here this lovely assignment stage this is
+where we can put that value into that bucket
+into that space in memory right and so we can go ahead and put 25
+in that bucket now if we ever ask for age right if we ever ask for age we're
+going to get 25 now because 25 is stored in that space in memory right
+and it will get 25 back until what happens
+there's something that could happen that
+
+00:48
+would make it so we don't get 25 anymore what could happen yeah
+we could eventually reassign h right we could go ahead and do age plus equals n
+all right now age is going to have 10 added to it so now h would be 35.
+this is a fancier way of saying something like age
+equals age plus 10. right these are these are both the same they're just
+different ways of doing the same thing cool let's play with this a little bit
+let's just see this real quick before we move on
+it's going to use the console here let's go ahead and let a dog age equal four
+all right so on this line i did what two things
+what did what what two things did i just do here
+
+00:49
+what two things did i just do here yeah i declared and i assigned
+what's the keyword that let me know that i was doing declaration
+yeah it's let what are some other keywords that can help us declare variables
+yeah we got let const and var we haven't really seen var yet we will see it when
+we get to something called scope right when we get the scope we'll see
+var var still kind of has a place right but it's different now everything
+changed when we got to es6 plus the newer versions of the javascript
+specification or the ecmascript specification we'll go deeper on that in a bit
+cool all right if i wanted to add six to dog years i could do a couple things
+
+00:50
+or dog age i mean i could do dog age equals i could do dog age
+equals dog age plus six right and if i ask for dog age you can
+see that i get 10 now i could also do dog age uh plus equals
+and i could do let's do five right and now if we ask for dog age we get 15
+right so there's just different ways of adding right we saw the ability to do
+the the value plus the value the plus equals the cool thing is you
+can do like asterisk equals for multiplication minus equals for
+subtraction all of them kind of work there and then there's one other one
+that people will see a lot which is uh dog age plus plus right and plus plus
+
+00:51
+dog age interesting anybody catch the difference between
+the plus plus at the end or the plus plus at the beginning um
+some some some folks are getting gap it didn't add two that's not what
+happened it didn't add two yeah so something happened
+when you have plus plus at the end right the way you can think about it is that
+this line executes and then it adds one so it did the line right it did the line
+and then it executed the addition so that's why we see 15.
+
+00:52
+at this point dog age actually was right dog age actually was 16.
+it just it did the console log before it did the addition
+the the line executes and then the addition happens with this the addition
+happens and then the line executes so you're like what the heck let me show you
+let's let's see what dog age is right now we're at 17. all right
+let's go ahead and alert dog age plus plus you ready
+what do we think is going to show up in the alert
+what do we think is going to show up in the alert well i'm seeing
+seeing 18 i'm seeing 19 i'm seeing 17 kind of all over place all right let's
+
+00:53
+do it three two one seventeen excuse me what hold on excuse me
+that alert says i know it's really tiny but that alert says 17.
+let's let's go back and look i said 17 in the alert but let's ask
+what dog age is again wait dog age is 18 why the heck did it alert 17 if it was
+actually 18 well what happened is the alert happened
+before the increment happened right the alert was faster than the increment
+right so we got the alert of 17 and then it added one right so whenever you do
+plus plus know that line of code is going to execute and then the addition
+is going to happen if we do it the other way
+i'm sorry i'm just going to i was going to treat a
+
+00:54
+dog ages alert we do it the other way plus plus uh dog age
+what do you think we'll get in the alert now
+what do you think is going to hap what are we going to get in the alert
+yeah all right i think folks got it now let's try it ready three two one
+19 exactly we were at 18 we did plus plus dog age it did the incrementation
+right did the incrementation and then the alert happened so just be careful
+if you're going to use the plus plus syntax right if you're going to use the
+plus plus syntax just know right just know the way it's going to execute
+can you do minus minus you can yeah oh uh uh boost this
+boost this three with the hydration cheers to you everyone hydrate come on
+
+00:55
+this is a difficult topic everyone hydrate with me real quick gonna hydrate
+if you don't get this what should you do if this doesn't make sense to you what
+do you all need to do what do you got to do i'll play with it exactly you got to
+get in here you got to get in the muck you got to go in here and be like all
+right dog age is that 19 all right what happens if i do plus plus
+dog age what should it be all right it went up by i went up by one
+all right that made sense right you got to come in you got to play with it you
+got to break it you got you got it you got to do it for yourself right a lot of
+this stuff i'm going to show you cool things right
+i'm going to show you cool things and in the moment there's a lot of things that
+are not going to be like zoop zapped into your brain a lot of these cool
+
+00:56
+things i'm showing you is that you can come back and be like all right leon
+showed this thing it didn't click how can i play with it how can i break it
+and if you get stumped you ask questions on discord
+right this is gonna happen over and over and over and over again if learning the
+code was easy everyone be a software engineer making good money
+but this is it you're in the trough of sorrow they're going to be things that
+just don't click in your brain i can't tell you
+how many things i have learned that for a full week did not make any sense
+just straight up full weeks of me having no idea
+why did the thing that it did or why it should do the thing that it did
+or or how i could do it right and so in the moment
+you got to be able to come back come back and play with it you got to
+
+00:57
+come back and like all right plus plus on here plus plus on that and come back
+to it right you can always come back and rewatch the
+video you can do the exact the same exact examples i do you could have the
+video up on one side you could have your console up on the other you could do it
+exactly at the same time you have to play with it i'm going to show you stuff
+that's not going to make sense in the moment it's up to you your job is to
+come back and play with it cool folks are saying why would we ever not
+use plus plus because maybe sometimes you want the line to execute before the
+addition happens right sometimes you want that that that odd behavior
+you'll see it keep pushing uh camel case is a variable connection
+uh variable convention that i like to use uh meaning that my first word is
+
+00:58
+lowercase right is lowercase and then every other word is uppercase right
+all my id's name my class names everything will be in a camel case so
+all my examples will be camelcase i recommend that you use camelcase but
+it's up to you if you want to whatever you do use be consistent all right
+let's let's power through the the uh the the two different types of data and
+then we're gonna take our break excuse me two types of data and then
+we'll take our break all right we've seen two different types
+of data so far we saw our strings which are pieces of text remember with strings
+if we use the double quotes on the outside what can't we use on the inside
+very specific question if we use double quotes on the outside what can't we use
+on the inside yeah we have double quotes on the
+outside you can't use double quotes on the inside unless we do what
+
+00:59
+unless we do what yeah unless we escape them exactly we
+can escape them with the the backslash and we'll be good same thing you can't
+have you have single quotes on the outside you can't have single quotes on
+the inside unless you escape them with the backslash cool we also saw numbers
+and in javascript you can have two different kinds of numbers you can have
+integer values which are like our whole numbers
+and we can have our floated values which are numbers with decimal places
+we can also have side numbers so positive and negative and we can do
+arithmetic addition subtraction multiplication division modulus modulus
+gives us the what yeah gives us the remainder exactly nice cool
+
+01:00
+once we know our arithmetic we can start making decisions right and these
+decisions uh all come down to the ability to evaluate a true or false
+statement so to understand if something is true
+or false we have to be able to do comparison
+right so in javascript it's a little funky we can compare not only numbers to
+numbers but also strings to strings and there are three different types of
+equal signs one equal sign is always what chat we're gonna take a break in a few
+seconds here one equal sign is always what assignment exactly
+and then two equal signs is comparison of what
+two equal signs is comparison of what value exactly and three equal signs is
+value and type like is it the same values like three equal to three and
+
+01:01
+then type is is it are they both numbers are they both strings right beautiful
+and once we understand this comparison we can actually start to include this in
+our conditional syntax cool let's pause here let's take our five minute break if
+you're new around these parts uh every top of the hour like take a
+five minute break to be healthy to stretch to move around if you are able
+get up add some more liquids to your hydration station and we'll be back in
+five you're watching us on youtube go ahead and give us a thumbs up go ahead
+hit that notification bell go ahead and give us a subscribe and we'll be back in
+five i'm gonna pull up the timer here if you're if you're watching on youtube
+please please take the breaks too don't just speed through the break like
+please take the break all right five minutes on the clock remember i'm
+gonna run ads that you're like forced to take the break and so that folks don't
+
+01:06
+get ads during stream all right peace see in five
+yeah wait until everybody comes back for the hydration
+imagine the secrets bob knows why and how did you get your manchester
+united scarf i've had that for forever i had that scarf for 14 15 years now
+will there be another t spill soon yeah we're gonna start doing more of the t
+
+01:07
+spills i basically kind of want to have like a twitter space or something
+similar once a week so i've been kind of like starting to book those with folks
+and so i think maybe like next week and the week after is when we'll kind of
+start so we'll have a lot of um alumni coming through we'll have lots
+of special guests coming through and so we're gonna be doing at least one a week
+and so we're gonna pick it up a lot of folks have a lot of value out
+of the last one so we're gonna pick up the pace a little bit with those
+cool folks come on back come on back rock and roy cinema mail
+all right folks come on back when we start coding challenges next week next week
+
+01:08
+hey veggie no worries all righty all right everybody's back
+uh if you're able please go ahead and hydrate with us uzi 1088 with the
+hydration cheers to you thank you so much i did would it i did and i'll keep
+saying it alrighty cheers to you let's get back into it
+how many programming languages do you know all of them because i know how to
+program so it's just a matter of googling a few more things all right
+that's the brilliance like once you like and now how many languages do i know
+well is a very different it's a very different
+different question but i i'm i'm i'm i'm good with my pseudo code i'm good with
+my googling i can figure most stuff out i know my big four my functions my loops
+
+01:09
+conditionals all right my variables cool let's get into it all right we talk
+about this conditional syntax like the ability to right
+the ability to make decisions and so if a condition is true
+we do what is inside the curly braces oh you're a while and about drinking too
+much water alrighty so here we have the three different things you will see in a
+conditional block you will see an elf an ilf and if to start off
+the conditional block you will have an else if if the if was not true
+you can have as many else if i tried to say elsif and if
+at the same time and it came out that way you can have an if
+you can have an else if and then you can have an else
+
+01:10
+right and so the idea here is that you can have as many else ifs as you want so
+you can go to if the else if the else if
+the else if the else if and then you can fully stop
+you do not need to have an else and else
+is just if you want something by default to happen and else will never have a
+condition one of the common one of the most common mistakes i see is
+people will do an if and elseif and then they'll put like parentheses after the
+else no you'll never you'll never have anything
+after that it just automatically runs and everything above it was false so
+our tried and true example here cons pizza equals dominoes we're using
+cons because our pizza choice will never change it will always be dominoes
+right even though they ain't showing us no love on twitter we got them more
+engagement on twitter than they've had in like the past couple months no love
+all right still our pizza choice is a const
+
+01:11
+all right our pizza piece of choice is a const
+it'll always be dominoes it's not going to be reassigned right it's not going to
+be reassigned right now does pizza equal papa john's no it doesn't
+does not equal papa john's in fact i promise you would talk about papa
+john's today but world events i i don't think it's it's fair to do
+what we said we were gonna do so for now my my my the thing that i that i am
+heated about is that let's see hold on one second here let me
+open up a new window here i didn't put it in the slides it's definitely gonna
+
+01:12
+be there on on on tuesday but hold on one second disgusting look at them
+disgusting look at them look at them look at them only 10k likes
+only pathetic exactly only 10k likes i know that we can destroy their likes
+i know that when everyone goes to tic doc dot com slash at learn with leon
+and we start posting our short form content we're going to blow those likes
+out the water so starting next week i'm going to be uploading a lot of short
+form content on tick tock and on youtube shorts
+a lot of things that folks ask like questions in the ask leon channel that i
+
+01:13
+feel like need to be turned into like smaller videos that i
+can give sort of advice on and so we're gonna go ahead and and and
+we're gonna start posting our short form
+content and we're gonna we're gonna blow our likes out the water
+papa john's is gonna be at 10.4 after the first week
+right after the first week we got him it's it's over they cut they done
+right so just know short form content's coming here's the link if you want it
+go ahead and give me a follow right now all next week i'm posting good short
+form content and uh i'm on a mission i'm on a mission
+i'm on a mission i'm i want i'm coming for their likes
+
+01:14
+i'm coming for their likes coming for their likes
+the content will be on tick tock and it'll be on uh youtube shorts [Laughter]
+coming for them that's all i'm going to say for now i'm going to say for now
+coming form all right now what is the danger of assignment versus comparison
+what is the danger between assignment and comparison first try yeah okay
+first try yeah okay oh we're gonna get papa john's on the
+first try i get what you're saying exactly on the first try
+
+01:15
+one equal sign will always be reassignment right one equal sign will always be
+reassignment two and three equal signs will always be comparison if you
+accidentally just use one equal sign in your ifs or your else ifs you're going
+to wind up in reassignment and probably a true statement even though you didn't
+want it to be true so be careful when doing comparison two
+or three equal signs two for value three for value and type then one for
+assignment all right remember you can have both the bulk
+you can have multiple conditions so if your name is leon
+and your status equals ballin get a wink beautiful
+oh also we're going to talk about this on tuesday but on twitch you can clip
+
+01:16
+beautiful moments like we just had all right you you can clip beautiful
+moments like we just had and um you can actually upvote
+you can actually upvote the clips and what i'm going to do is i'll be
+looking at a lot of those clips and we're going to be turning those into
+like our youtube shorts and things like that so
+i think after each class i'm going to have like a thread where you can put
+your clips in and whoever has the best clip that we use on
+our short form content you'll get like a special role on discord so we'll have
+one for each class so only one person each class can get it and we'll pick the
+best clip and you'll get a special role in in uh discord which i think will be
+pretty cool cool so feel free to clip right yeah you don't have a clip don't
+worry about you can find out after class we can see multiple conditions where
+you chuck woodchuck hey thank you for the uh for the five gifted subs
+
+01:17
+are you trying to like ask people to do the like like the woodchuck thing
+is that like your thing is like a gimmick account that's pretty cool if it is
+thank you for the five kids it subs thank you for being here
+cool so we have we have and where both of them have to be true right
+white thanks to why double it's just the
+syntax of javascript you have to use the both right you do the both
+and both of them have to be true and if both of them true you do what's inside
+the curly braces then we have or the double pipe character right and the
+double pipe character means only one has
+to be true if it's saturday you stop and
+you do what's inside the curly braces if saturday wasn't true then we would look
+at the other side and as long as that's true you do what's inside of the curly
+braces now we had another hydration amy lou smiles hey thank you so much
+
+01:18
+cheers to you everybody let's hydrate please ah cheers to you alrighty
+we had our class weekend or boring day let's go ahead and open up that starter
+code if you're new around here and you need the starter code it's always on our
+discord exclamation point discord right right do the exemption point discord and
+that'll get you to our discord community once you agree to the rules we have a
+follow along materials channel where you can download all the starter code
+alrighty let's go ahead and look at the class weekender boring and
+we have it already filled out we have the ability let's go and open
+
+01:19
+this in the browser right we can go ahead and say what day it is we can say
+tuesday and inspect and when we click on tuesday
+we get boring however if we change the lowercase t we get we have class so
+there was something missing in our code right that would enable it to work
+with all capitalization so do some quick space repetition here some quick recall
+how can we change this code to work right to work with any capitalization
+chat's got it it's too lower case exactly so let's take a few seconds to walk
+through this code and add the two lower case alrighty in our html
+if we look in the dom here we have our input
+
+01:20
+and we have the button that we are going
+to actually click on we can even look in the elements here and see
+that the form the input has the id of day so we're going to target that day to
+get the value out and we're going to have to look at this button
+right to click on so what i want to be able to do is to listen for a click
+on that button that has the id of check grab the value out of the input make
+sure that it's all lowercase and then do my comparison let's take a peek
+we've done just that we looked in the dom remember the rendering of that html
+and the css right okay it doesn't really matter which way you go
+it's to go into the dom to look at the rendering of the html set remember the
+dom is not your files it's not your html it's not your css
+
+01:21
+right it's the rendering of the html and css
+right so that's what the dom is right it's the rendering so we're going to
+look at that rendering we're going to grab the thing
+we're going to grab the thing that has the id of check
+so if we go and look right if we go and look we can see
+that this button has the id of check so when i say document dot query selector
+right right when i say document.queryselector
+i'm saying look at this this is not chat is this my html right here
+is this my html no it's the rendering it looks like my htm
+but it's not it's the rendering of my html it's the document object now it's
+the dom it's the thing that we can go in and manipulate
+
+01:22
+if i go in and manipulate this painting this rendering my actual files don't get
+touched as soon as i refresh we re-read those files and repaint what
+we see here so the cool thing is when i say document.queryselector
+i'm telling it to go into the dom and find the thing in there that has the
+id of check right so if we look go into that dom find the thing that has
+the idea of check and then add an event listener what the heck is an event
+listener what is an event listener it's a smurf exactly
+event list is something that's sitting on that element in the dom
+waiting for you to click right waiting for you to click and when
+it hears you click it's going to run a certain set of instructions called check
+right when it hears that click it runs a
+
+01:23
+certain set of instructions called check and we can see here
+here are our set of instructions with the name of check
+first thing we're going to do is we're going to go back to that dom
+we're going to find the thing that has the id of day chat what had the idea of
+day what had the idea of day yeah the input had the idea of day so what
+we're doing is we're looking at that input
+and we're taking whatever value is in it so whatever value is in that input we
+have pulled it out right and normally it would just like
+poof into thin air right we pulled the value right
+you can pull the value out and we would poof into thin air but it didn't
+evaporate in the thin air because we did what with it what did we do with that
+
+01:24
+value that we got out of the input what do we do with it yeah we assigned it
+we assigned it today right the variable of day is now holding
+that value we had a space in memory we had a space in memory called
+day and we put something in there tuesday wednesday thursday friday we put
+something in there right we assign it that value
+right before we were doing stuff really simple like we were just doing like all
+right day equals tuesday right we were just assigning it
+in the moment but now we see the behavior and interaction that can happen
+we can get that value out of the input right we get that value of the input and
+put it into our variable cool now the other thing is here is that
+we want to make sure that our value is all lowercase and the
+reason we make sure that it's all lowercase is because if we look at our
+
+01:25
+comparisons tuesday and thursday and saturday and sunday are all lower case
+and so what we want to do is we want to go ahead and go here and say 2 lower
+right now does it matter what's put inside right it doesn't matter what's
+put inside of that input it'll be lowercase it'll it will it will turn lowercase
+right and so now we're going to get the value out of the input
+we're going to make sure that it's lowercase and then we can do our normal
+comparisons if the user types in like if we were to
+save this and we would go back and the user was to type in capital s saturday
+right if the user was typing capital s saturday what just happened when they
+hit check right what happens when they click check
+
+01:26
+is that we've gone the event listener fires we run the set of instructions
+that starts with check this right here this document queries
+like today value is actually right now saturday and then the two lower case
+takes that saturday and makes it lower case then this saturday is what is put in
+the variable of day so anywhere i look at day now it's no longer day
+wherever i see day is no longer a day it is now lower case saturday
+right we use that variable everywhere right we use that variable everywhere so
+we don't have to constantly rewrite and do it over again right
+and so now we can go through since day was everywhere right since day was
+
+01:27
+everywhere now we can do our comparison does saturday equal tuesday no
+the saturday equal thursday no so now we go to our elsif
+the saturday equals saturday yes we finally have a true statement we stop here
+we console log it's the weekend and then we're done
+right so if we were to go if we were to go back and look
+in the console uh we would we would see there it is the weekend if we let it run
+right that's where the console is but we use variables so that we can compare
+stuff everywhere that's why that day is all these different locations
+what about the or it's just that you can say because remember
+there are two different days that we could have class and there are two
+different days that could be the weekend
+just because it's saturday right doesn't mean that it shouldn't be the weekend
+
+01:28
+it's either or so that's why the double pipe character is there for the ore cool
+all right let's move on folks angry parent simulator let's take a peek at it
+all right we open this in the browser over this in the browser
+we have the ability to enter in three names bob bobber boppity bobson
+
+01:29
+right we click on yell boom we see bob bobber boppity-bopson pop on up anna
+that able hey everyone if you're able to go ahead and
+let's go ahead and hydrate cheers to you nice refreshing thank you cheers to you
+we also had a stretch oh we did have a stretch right let's see
+uh egg for dinner thank you for the stretch uh so we're gonna go ahead and
+stretch if you're able please get up and stretch and i am going to
+be right back i'm gonna stretch it's not that kind of stream you know what you
+
+01:30
+gotta do if you want that kind of stream oh yeah now we're back we're back
+all right so we entered in three different values
+and we clicked on yell and we saw those values without even looking at the code
+what do we know is happening if we were to think through some pseudo code what's
+happening here if we were to think through some pseudo code
+what do we think's happening here like what to get this effect to happen what
+did we need to do well we need to be able to click
+right so if we can click we know that there's a what
+if we can click we know there's a what there's definitely a smurf or an event
+listener that's listening for that click and when that click happens
+
+01:31
+what did we have to do we heard that click what did we have to do yeah
+we had to get the value out of each input right we had to get the value out of
+each input and then we had to take each of those values
+and put them into the dom we've seen this stuff already we've seen
+the event listener we've seen the ability to get stuff from
+the dom the only thing that's slightly new here
+is the ability to put it into the dom right so let's go and take a look at our
+code we can see that each of the inputs has its own id
+and so we're going to target them right and then we have the button that we're
+going to click on that has the id of yell then we have the place to put stuff
+which has the idea of place to yell right let's go ahead and take a look
+
+01:32
+we have our event listener that we said should be there right so when we click
+on those boxes we know to run the set of instructions
+called run right we have the set of instructions called run
+and so here are the set of instructions for run
+we're going to go ahead and get the value out of each input we just saw this
+we just saw this uh in the in the last example we get the value out of each
+input we store them into variables right we store them into variables that
+way they don't poof and disappear so we can reuse them later on in our program
+right if we really want it to right if we really wanted to we could do this
+let me let me comment this line out here if we want to do we could do something
+like really really not good looking this is like
+
+01:33
+writing some bad bad code we could do this we could go ahead and do yoink
+put that there and go ahead and do yoink put that there we go and grab this here
+yoink put that here yoink i'm gonna grab this right and put this here
+this does the same thing it does the same thing we're gonna go ahead
+right we're gonna go ahead we're gonna go ahead and we're going to grab
+the value out of the first input add a space grab the value from the second
+input add a space add a space grab the value from the second input add a space
+write the value from the last input right
+it works we're bad he's writing bad code it's cool but it's not readable
+
+01:34
+it's not readable it's so much more readable when we do
+when we go ahead on each line we grab the value and we assign it to a variable
+the variables just make our lives so much more easy right we can go ahead
+and just use the variables if we want right
+now this is the older way of doing it where we would concatenate we would add
+all of the strings together all the inputs together with with spaces in between
+but we got something new with es6 or the newest versions of javascript
+where we got these template strings and the template strings are a little scary
+when you first see them um but basically instead of doing a string
+like normal you start your string with a tick and you end it with a tick
+and then you can plug in variables with all the white space that you care about
+
+01:35
+by using the bling and the curly braces so the bling and curly braces are just a
+way of saying hey i'm plugging this variable in
+and then we have a space that i'm plugging this variable in then we have a
+space i'm plugging this variable in and then a space i'm plugging this variable
+in and it's just a newer syntax that stops us from doing all that nasty like
+spaces and pluses and all that wild stuff you know yeah it's it's well supported
+now cool all right we did see last class the the
+synthesizer stuff that's there if you want to have some fun with it definitely
+come back to it if you want to play around with that cool let's keep it
+moving folks pseudo code what the heck is pseudo code chat what is pseudo code
+
+01:36
+talking to ducks exactly yeah it's just writing out your process
+in plain language instead of writing syntax we talked a lot about syntax
+today we're seeing document query selector ad event listener functions
+curly braces parentheses all that is the syntax that gets in the way of actually
+programming or thinking through the logic of what we want to have happen in
+our programs right so pseudocode is the plain
+language right the plain language that we see when it comes time to write code
+oh sorry this is this is this is something i have to bring up i forgot to
+bring it up earlier today when we were talking about the study communities and
+now we're talking about language so it came to my brain uh this is like a really
+i don't like to have to do this but we kind of have to and so as we add the
+study communities of different regions there is going to be the temptation to
+
+01:37
+speak in your native language on discord and here on twitch uh please don't
+please use english on our discord and in twitch chat i know it sucks to say that
+but we just don't have the moderation ability to moderate every language
+that's out there right and so for easing my life and our moderators
+lives please use english uh so that we can actually moderate the community um
+and not so all the folks that are like joking and like and putting different
+languages in right now it's gonna tie you out all right uh so the idea here is
+that we have to do it so that we can actually keep the community safe and
+make sure um that we can moderate effectively yeah all right thank you diffiker
+i talk philly exactly yeah thank you all right pseudocode plain
+
+01:38
+language that we're going to use all right plain language that we're
+going to use to level out our code to talk through the logic
+right talk through the logic and not have to get held up by the syntax
+cool all right let's take a look at the temperature converter
+i'm going to close this here close this here alrighty cool
+so temperature converter what do we have to do to convert temperature
+
+01:39
+what do we have to do if we want to convert the temperature what do we got to do
+if we want to convert a temperature what do we need to do yeah
+we need a temperature right we need a temperature we need some
+sort of conversion of that temperature and we need the ability to show that
+temperature to our users so what i would like for you to do
+is i'm going to put four minutes on the clock
+i would like for you to write out your pseudo code
+and then attempt to code out this solution now this is something you've already
+seen before this is something that you can go ahead
+and take pieces from the rest of our examples that we've already done
+all right so give yourself some grace write out your pseudocode if all you can
+get to is your pseudocode that's great write your pseudocode and then write
+your actual code we did this on tuesday you all are just catching on i told you
+
+01:40
+we're redoing everything we are literally redoing everything
+cool so go ahead if you know how to do it i need you to actually do this recall
+and if you do know how to do it try and do both ways like if you're like i'm
+gonna absolutely smash this push yourself when you know you know how to
+rock something push yourself right do it do it the other way do both
+ways cool four minutes on the clock all you can do is your studio code
+that's okay do your pseudo code and then try and code this out as quickly as you
+can four minutes go for it you got this did last class catch up this morning so
+
+01:41
+you gotta freshen your mind that's good to hear
+some of you are going to sit here and not do this
+you're going to get got i'm going to catch up to you
+no matter if you think this is a slam dunk or really hard you need to push
+yourself and do it i've been building email templates all
+day we set up a react to email template creator using customer i o but still a
+pain in the butt go out and be well i hate building email
+templates that's one of my worst things to do
+
+01:42
+mr t you got to keep keep going for it you got to keep pushing
+you're in your car kick a good on you remy said i spent so much time doing
+this this week i have the conversion rate stuck in my head
+two different ways of kind of doing the same thing um with
+the newer version of javascript we got the query selector which gives you more
+flexibility but some people see it as a sacrifice
+and speed but we'll get there eventually right now we're just playing with legos
+
+01:43
+we'll go deeper with everything later on all right folks minute 10 left
+
+01:44
+some folks coming in done that's cool first time silver hey congrats 30 seconds
+good morning happy tree my computer first i had a pseudo code
+out loud that's what i'm talking about that's what i'm talking about
+you ain't gonna get got i love it i love that the hustle
+all right folks come on back come on back let's look at this together
+chill the music here first tree uh oh first juggling biohazards thank
+you for the hydration cheers to you everyone if you're able to please let's
+
+01:45
+go ahead and hydrate nice cool all right let's write out our pseudo
+code uh first our pseudo code here would be all right um get value out of input
+uh convert the value and then like show the value value to user cool and
+maybe we only do this on click so only on click
+and so i'm going to start off with trying to grab an event listener so i'm
+going to go to the angry parent simulator and look at that javascript
+all right here's an event listener yoink got my event listener
+i'm going to set up the the the set of instructions that are going to run
+actually i'm not going to type it out i'm just going to copy and paste it i
+
+01:46
+want to show you that you don't have to even know what the legos are doing just
+to grab the legos cool boom let's uh let's take the stuff out of here that we
+don't need let's bring in our pseudo code you're like leon you're going through
+this fast it's like yeah we've done this one already
+i'll go through a little faster um and hate how i know how to do this but
+on a timer i freeze up that's a pretty common response it's the reason why we
+do so many time challenges because a lot
+of your interviews are going to be timed challenges and so we got to get
+comfortable with it first right so that's why we do a lot of them timed
+just to kind of get through the ickiness
+all right so we're going to grab a value of the input which is what we're doing
+right here convert the value so i'm just going to say like um temp equals temp
+
+01:47
+plus five right um but actually i don't know how
+to do this yet let's take this one step at a time all right cool
+i got my event listener and i think i have an idea of what i
+want to have happen so i grab my event listener
+but right now it's tied to the button that has the id of what
+the button that has the idea of what would call this to run
+yeah the button has the idea of yell if we look at our html is there a button at
+all no there's no button there's no input
+so let's make sure we grab our button in our input first i'm just going to go to
+the parent simulator and just grab all three of these copy
+come back to our html the temperature converter paste it in
+we only need one input so i'm going to get rid of all the other ones and i
+think we'll just leave everything else the same yell and place to yell good spot
+
+01:48
+um let's i'm going to keep everything the way it is
+and keep everything the way it is and then we'll just make sure we pay
+attention to it here all right so we're going to listen for a click on
+the thing that has the id of yell and if we look
+we now have the idea of yell so our event listener should work like our
+event listener should work how do i right how do i
+how could i test to see if this is working like how could i before i even
+go any deeper into my code how could i test to see that this is working
+yeah i could console.log or i could alert exactly so let's just put a
+console log in here hello twitch cool beautiful
+all right so i just want to see if this is working
+right i'm going to go ahead i'm going to open this in my browser
+
+01:49
+let me open up my inspector here this is bigger so that you all can see it
+console first name bob click on yell all right we can see that the event
+listener is working it didn't matter if i even had anything in here like it
+doesn't matter we're not there yet right i'm just checking to make sure my event
+listener is working right it's working i put the uh i put
+the console log in there i can see the console log count going up i know that
+it works please get into the habit of doing this
+i see a lot of people that when they have these projects or these assignments
+they code everything out from beginning to end and then they test
+what are we doing right now what are we doing right now we said we
+were doing something very very specific right now
+so we're doing something very specific specific we're playing exactly we're
+
+01:50
+playing so play with your code do one thing see if it works
+try another thing see if that works break figure it out right like we're
+just playing with our code get into the habit of playing testing trying to
+understand don't try and do something from beginning to end and not test
+because if you had so many lines of code and you get all
+these errors you don't know where they came from right so don't wait to the end
+to start testing to see if stuff works to see if things are breaking right you
+want to make sure that you do your pseudo code and then you go step by step
+get into the habit of testing and then breaking playing and it'll just save you
+a lot of time in the end when you you messed up one thing at the very
+beginning and that's the thing that's going to cause you the trouble in the end
+cool all right sbs vn thank you for the hydration cheers to you everyone if
+you're able to let's go and get some hydration on here
+
+01:51
+told that would be a interview no no exactly cool
+all right thank you for the hydration cheer to you all right so we know that
+our event listener is working we know that our instructions are running
+we have the hello twitch that's popping up let's get the value out of the input
+so our input has the idea first name right and if we look
+we're grabbing the thing that has the idea first name we're grabbing the value
+out of it can so dev hey thank you for the five
+get the subs i appreciate you thank you for being here thank you
+we we have the the query selector we're grabbing the value out and we're storing
+an f name now does does this variable have to be called something else
+can i just say f name i don't know i find that funny can it stay f name
+
+01:52
+yeah it can it could say f name it could
+say whatever we want we can call this uh zebra zebra magic
+there we go you can call it zebra magic pencil
+it doesn't matter what we call it some people think that like your variable
+names have to be a specific thing they don't have to be
+just you typically want to name stuff appropriately right like if you're
+following some clean code practices you want your variables to be the thing that
+they are right and so we could call it zebra magic pencil but we want to make
+sure that we call it temp or t or something along those lines so
+we know we're talking about temperature but the variable name doesn't actually
+matter you can call it whatever the heck you want
+alksar hey thank you for the five good that subs i appreciate you thank you so
+much and thank you everyone else for subbing
+today and all the prime spending all of uh jeff bezos's bucks i appreciate y'all
+thank you sorry thank you thank you for being here all right
+
+01:53
+so we can call this whatever we want i'm just going to call it pumpkin for now
+just so folks understand maybe whatever the heck you want pumpkin now the thing
+we're going to get into is that we want to convert this value we want to
+reassign a new value and so if we want to reassign a new value want to convert
+it from one value to another what problem we're going to run into
+yeah right now it's const which means that pumpkin should not be changed so
+we're gonna make sure that we don't start with cons we're gonna start with
+let so that we can reassign it we can change it
+all right so we have let pumpkin equal the value and now that we have the value
+inside of pumpkin right like we're grabbing the value out of the input
+we're storing in pumpkin what do we have to do for pumpkin to turn it from
+
+01:54
+celsius to fahrenheit what do we got to do to pumpkin yeah times 9 divided by 5
+plus what is it 32 there we go cool so that'll do the conversion for us
+and now the last thing we have to do is like put it to where the user can see it
+let's go back to angry parent simulator and see if we can find how to do that ah
+here we go document query selector place to yell in our text let's copy it
+let's plug it in here and we're going to plug in pumpkin cool right
+now none of this was new right none of this was new things that
+we did it was just all the stuff that we
+took from other places and used here now i'm copying and pasting for the sake of
+time but you shouldn't copy and paste this you should type it out
+
+01:55
+you should get used to typing these things out so it sticks in your brain
+you get used to all the special characters right in the beginning type
+things out later on you can speed up your process you can copy and paste in
+the beginning get used to all these different characters all these different
+things right uh teach you can it's it's pemdas or
+beemdas if you're from like the uk uh so the typical order of operations works
+when you're doing math and stuff like that so
+cool all right so let's let's just break this down one more time before we move
+on we have our event listener we're listening for a click
+on something that has the id of yell when we hear that click we
+run the set of instructions called run and the first thing we do is we print to
+the console hello twitch so this is working we would see hello twitch in the
+console the next thing we do is we get the value out of the input
+
+01:56
+and store it in our variable of pumpkin right and then we have our conversion
+math for reassigning pumpkin to some other value
+right and then we take that value of pumpkin and we plug it back into the dom
+so we can see it right we plug it back in so we can see
+so let's go ahead and save it it's saved let's go ahead and refresh and see if
+it's working it's going to put in uh zero great we got 32 and we also got the
+console log so we can see it's working too and then let's go ahead and do 100 we
+should get 212. beautiful it's working actually i guess this is second trophy
+because we did it on tuesday alrighty cool
+next we're gonna move on to our lovely bachelor code and then we're gonna wrap
+
+01:57
+up with covering functions in depth we got some cool practice problems just
+what functions so let's go ahead and take our break
+five minutes on the clock if you're able please get up move around hydrate let
+your eyes focus on something that is not your screen and we'll be back
+talon do exclamation point semicolon you can read more
+all right let's go and take a break i'm gonna run ads again uh during the
+break just so we don't see them during class for folks five minutes on the clock
+
+02:01
+
+02:02
+and i will see you all in five group collective nectar if we get the once we
+get the csgo one up um we're gonna do like tf2 and source and like bunch of
+other stuff that's smaller number i'll get you when uh we come back
+all right folks come on back come on back hope you had a good break
+
+02:03
+all right let's chill the music alrighty alrighty welcome back everybody we got
+we're gonna go through the bachelor code and then we are going to look at
+functions and then we'll talk about the homework and we'll wrap up class cool
+all right so in in chat what is the best tv show of all time
+mods go ahead and prime the prime the clicks here please
+best television of all show of all time please and chat
+beautiful thank you i'm glad we all agree the bachelor wonderful
+all right so let's go and take a look at all of our examples that are bachelor
+themed already one of our one of the folks in the current cohort
+
+02:04
+has a bachelor's podcast i thought that was pretty dope
+ping me again i want to retweet it i want to retweet the podcast
+all right let's take a look at the bachelor code there we go all right so
+if we open up the index.html we're going to see that there are three
+lovely contestants claire nikki and the other wonderful charlene
+when he clicked the final rose i want unfortunately charlene to go away
+and claire to go away only leaving nicki who did win the final
+rose of juan pablo season of the bachelor so let's go ahead
+we've already done this and it's fill in the blank so i'm going to put
+two minutes on the clock here and then we're going to go over it together
+
+02:05
+two minutes on the clock have at it i think it's wild that we watch dating
+for fun yeah it's kind of wild claire and charlene should disappear
+those are those are the two that should disappear claire and charlene
+love his blind has been pretty good it's had hands down one of the best
+reality television show moments of all time um
+like probably has to be top three best moments to ever happen in reality
+
+02:06
+television um it happens with uh sean and natalie
+i'm not gonna say more because i don't want to spoil or anything but hands down
+one of the best moments in uh in trash television history is there a murder no
+all right folks 30 seconds left some folks think it's like a like an act
+like that like i like like there's no way i'm into these shows at the level
+that i'm into like where i'm like writing blogs reading blogs fan fiction
+like no i'm really about this life i bring up i bring the heat too like
+people are throwing out random trash television shows i'm like this moment
+
+02:07
+and this episode this season like if this is me okay
+all right folks come on back come back let's look at this one together
+alrighty so if we notice the h1 has the idea final rows
+and then there are three images that we want to hide
+or sorry two engines when i hide claire and charlene so
+we look we have our event listener we can see that the name of the function or
+the sets of instructions is hide this is an easy replace
+it's going to plop and hide nothing's really changed from the examples that
+we've seen before and then down here we know that we have to hide uh both
+claire and then charlene so let's go ahead and put in claire
+
+02:08
+and then unfortunately charlene beautiful and so what's going
+to happen here is we have our normal event listener our normal smurf and
+here's the click on the h1 that has the idea final rows it runs a set of
+instructions hide we find the element that has the id of claire
+and we change it css to display none let's let's let's um let's actually look
+at this though i want to actually see this in the dom excuse me
+all right let's inspect let's look at the body
+the sections all right so here's claire nicki and charlene watch what happens
+when i click on final rows nothing how do i how did i know nothing was
+going to happen right now i know it's going to click on
+final rows and i knew nothing was going to happen how did i know
+
+02:09
+i did save i did refresh did not refresh but you could see that there was an
+error right there was an error there until i refreshed so i knew this wasn't
+going to work because i saw the error and then i refreshed and the new code
+got rendered to the dom and now there's no more error
+right and now it should work let's see there we go click on final rows
+uh claire goes away charlene goes away but let's actually look and see what
+happens let me refresh here real quick look at the sections
+all right claire and nikki are here and click on final rows three two one
+what what happened look at the dom what happened in the dom what did we do
+what did we do in the actual dom yeah we put we put like in-line style
+
+02:10
+we literally put in-line style that has at least a thousand points of
+specificity and so that inline style is there because of the javascript like we
+literally said hey add display none inline add display in
+line and that's why they disappear because we literally change the inline
+css but as soon as we refresh boom that all goes away that inline
+stuff that we put in there with javascript goes away remember
+javascript can mess with the dom it can go in it can put in
+inline style it can do all that stuff to mess with the dom but as soon as we
+refresh it goes away yeah cool so let's look at that one more time
+you can see here nothing there we click on final rows boom we use javascript to
+put that inline style and they both disappear cool all right let's keep pushing
+look at number two all right this one was a little a little bit more difficult
+
+02:11
+we're going to put put three minutes on the clock and we're
+going to go over it together three minutes on a clock we'll go over
+this one together kid neptune it doesn't matter because
+we're not messing with html or css we're messing with the dom that has already
+rendered the html and css so it doesn't we don't have to like we don't have to
+ever think about editing our css file writing the html file because that's not
+what we're messing with with javascript we're messing with the dom with
+javascript we're not actually ever touching those files yeah cool
+all right three minutes on the clock let's see you get at this one
+and we'll go over it together id's are unique fox
+
+02:12
+makes it easier to target that thing and only that thing dragging it could
+depends uh the goal in this one is to be able sorry i forgot i didn't i
+didn't actually i'm gonna pause the timer for a second i forgot for the new one
+to explain what we have to do this one you want to click on andy or
+claire or charlene and see their image but the other images should disappear if
+they're already visible so click see the image click it should go away uh if you
+click on claire and andy or charlie was showing those would disappear
+fill in the blanks how about it bb will do the hydration when folks come back
+
+02:13
+we also do nums as well we'll do both um civil because the client will be able
+to do the manipulation as well so it's not that you're never really using
+javascript to change html and css forever right because then you would
+just put those changes in html or css js is only there for when the user
+manipulates stuff or does something big shiny there is a way to do that yes
+jm yep that's pretty typical we don't we don't typically do stuff
+
+02:14
+outside because um you run into scoping issues yeah yep that would be true
+minute left folks dang stuff stuck from last time nice
+yeah that's the reason why we're doing it yeah
+why we're doing it a lot of guns coming in i like to see it
+we're gonna talk about freelancing on tuesday
+all right manly jones we're gonna go over in 20 seconds anyway
+
+02:15
+mitch if you wanted to hit enter on an event listener it's the event to submit
+so on submit would enable you to hit enter and submit the form
+all right folks come on back come on back let's look at this one together
+oh the music all right we had two hydrates that we
+missed so everyone if you're able please let's get our
+two rounds of hydration in uh num k1 thank you for the hydration and
+db556b thank you for the hydration cheers to both of y'all let's hydrate
+i'm gonna take two sips one for each cool let's take a look at this we had
+
+02:16
+document query selector andy and we stored that in a variable
+why the heck did i store the dom element in a variable why did i do this line
+here why did i do this yeah i'm going to use it later on so it
+gives me a little bit more drier code it gives me a little bit more reusability
+and you can see it in action down here right here i'm just saying andy
+but i could if i wanted to do the whole thing i could take this
+i could come down here and i could do the whole document query
+selector andy i could do that each and every single time it's way more typing
+it doesn't look as clean so i just kind of declared my three variables here and
+assign them the value and the cool thing here is that you can assign them the
+value of elements from the dom right so if we look
+the thing that has the id of andy right i think that has the idea that
+
+02:17
+andy is the image of andy right so it just makes it easy for me to
+talk about that image whenever i want to it was me to reuse it as much as i want
+to right all right so we have our event listeners here we have
+a function called andy next clarinex and
+charlene next the first thing we have to do is set up our event listeners to be
+correct so uh andy next beautiful then we have claire next cool and then we have
+charlene x cool so you can see the function name of andy next clarinex
+and charlene next could have called these er could have cut these whatever i
+wanted right but that's the name i chose for
+
+02:18
+those sets of instructions that's why they had to go into my event listener cool
+next let's take a look we have this first set of instructions andy neck so
+if we click on the text that has the id of andy next let's take a look
+all right here we go this h2 has the id of andy next it's the piece of text that
+says andy if i click on that i run the set of
+instructions called andy next so here's a set of instructions called andy next
+and we do a couple different things here we look at claire remember clear
+is the variable from line two right it's the variable from line two
+we're looking for something that has the id of claire so when i see claire here
+it means look for the thing that has the id of claire if i look
+all right where's the thing that has the idea of clear it's the image great all
+
+02:19
+right so i know right i know i'm talking about the image
+that has the id of claire let's go back and take a look all right talk about the
+image that has the idea claire next i have class list
+what does classlist give me chat what does classlist give me
+what does classless give me yeah somebody knows we're talking about
+nodeless yeah yeah it gives you uh for now we'll say a
+list but eventually we'll call it something slightly different a list of
+all the classes right it just says all right look at all the classes on claire
+right look at all the classes on claire that's all it does look at all the
+classes on claire and then i want you to add a class to claire
+if i'm trying to select andy next what class do i want to add to claire's
+
+02:20
+classes if we look here we have the image with the id of claire i want
+to add classes to it what classes do i want to add if i'm
+trying to pick andy next yeah i'm going to add the hidden class
+now the odd thing is that already right now right right now
+claire already has the class hidden right so it doesn't it doesn't really
+it's never going to do anything right now
+but in the future claire might not have the class hidden and we have to think
+about that that's where pseudo code would come in really handy with this right
+cool same thing with charlene it's also going to be hidden
+and then the same thing with andy it'll also be hidden
+but this time instead of adding hidden so the only thing that these two lines
+will do is remove claire and remove charlene right that's the
+only thing these two lines will do is they will remove claire they will remove
+
+02:21
+charlene's image that's all they can do but when you toggle hidden
+toggles like a light switch right right it's like a light switch
+if it has hidden it's going to remove it if it doesn't have hidden it's going to
+add it right it doesn't matter right if it has it it'll remove it if it
+doesn't have it adds like a light switch if the light's on you hit the switch it
+goes off if the lights off you switch it goes on right
+now we don't have to use dots here because we're already talking about classes
+we're not trying to select anything we're not using clear query selector
+right we're not trying to select anything we already know that we're
+dealing with classes so we don't need the dot we already told
+our code that it's a class already right you don't have to
+right so no dot here because you're already using the class very told it's a
+
+02:22
+class and you're not actually selecting anything like query selector
+cool let's save this let's go back let's refresh uh we know this won't work
+let's let's open up our inspector and see i've refreshed
+and how do i know this won't work i can already see that there's an error
+here you see this like red line if i go to my console i can see that there's an
+error it's telling me that there's an error on
+line 16 so i know there's an error i know i have to come back and fix my code
+before this would run if i was doing this for real i would comment out these
+two lines well these two blocks of code these two functions right i would i
+would comment them out and then go test right we already know that's the problem
+actually let's do it anyway boom let's save it let's go back let's refresh
+all right no more error we click on andy beautiful andy's working on and off no
+
+02:23
+problem all right go back let's uncomment these and fix them up
+we had a hydration jag tony hey thank you for the hydration cheers to you
+everyone if you're able to please hydrate with
+us all right finish this up real quick uh we know if we're we're trying to
+select claire next we're gonna hide andy and we're gonna hide uh charlene
+all right and then uh claire will be the one that'll be toggled
+and all three of these will be hidden and i know the ones down here will also
+be hidden so let's just delete them all at the same time
+and oh spelled wrong head in at the same time
+remember you can you can click if you hold down command
+and click you'll get your cursor at each place that you click
+right um i think on windows it's control each place you click you'll get it yeah
+
+02:24
+just speeds up a little bit and then down here
+down here i can do a slightly different trick which is command option and then
+down arrow and so i don't have to actually use my mouse i'm just using the
+keyboard to do it cool all right now i'm going to go ahead and say
+for charlene next we know we're going to hide claire and we know we're going to
+hide andy and then charlene will be the one that is toggled
+all right let's make sure it all works let's refresh
+andy if i click on charlene what should happen to andy if i click on charlene
+what should happen andy click on charlene what should happen to andy
+poof gone charlene shows up right click on claire unfortunately
+charlene goes away claire shows up click on the clear goes away right
+
+02:25
+remember you can you can still toggle on and off and if we look at the
+elements right we go to the body we look at the images we can see that
+they all have the hidden class right now remember in our css right in our css
+there's this hidden class that has display none right that's what we're
+adding we're adding and removing that class and that's what making it making
+it go away and come back all right if we go back and look
+if we click on charlene and we pay attention over here
+we click we'll see that toggle do its work we toggle the hidden class goes
+away we click again that class of hitting comes back right if
+we go ahead and look at claire right let's click on charlene first
+right i like this one too because charlie no longer has the hidden class
+
+02:26
+but if i click on claire ready three two one
+the hitting goes away from claire and it came back to charlene
+right that's part of the toggling right if we look if we looked at claire's code
+when claire next was fired andy would get hidden charlene would get hit in we
+just saw that and claire would toggle right that's what we said we said give
+hidden to both of these folks and then toggle claire so if we go back and look
+and we're looking at um claire right now and charlene well notice that charlene
+has hidden claire doesn't that's why we can see claire but if i click on
+charlene we know that claire is going to get hidden back
+and he's going to get hidden even though it doesn't matter and then charlene
+should toggle boom and we saw that claire gets hit in back
+
+02:27
+charlene removes the hidden right because of the toggle beautiful alrighty
+the class of hidden is already on each one why is it ad because we're going to
+do it every time the the thing here is we're still adding it it just doesn't
+matter if it's already there right you're still doing the same logic
+each time because we won't know javascript doesn't know where it's at
+right javascript doesn't know where it's at a computer only does what
+a computer only does what we tell it to do javascript's not sitting there
+thinking hmm does claire already have hidden does charlene already have hidden
+no we don't want to have to introduce all that logic to have to guess or have
+state or know where we're at it doesn't matter we just want to hide them if
+we're clicking on something else right so if we know we're going to hide them
+regardless of where we're at we just always tell it to hide because the
+computer will do what we tell it to do we don't have to manage state or figure
+out where we're at or what's happening right we're just going to tell it to do
+it every single time because it kind of just doesn't matter
+
+02:28
+cool last one then we're going to look at functions i'm really excited to jump
+into functions let's look at this last one and then we're going to look at
+functions all right number three should we close all this stuff here alrighty
+this one was a tricky one i'm not gonna i'm not gonna put a timer
+up i just want to walk through it together
+uh and we'll go over this one together because i know this one was kind of
+tricky actually let me quick quick minute for folks that did their their
+folks that did what i asked them to do of deleting retyping deleting retyping
+deleting retyping here's your victory lap a minute on the clock
+thank you for doing what i asked you to do go for it figure it out go for it
+you already know you sure know what to do
+you already know what to do on this one that's why we're saying a minute and
+then i'm going to talk through actually how to do it this is this is the victory
+
+02:29
+lap for folks that did the homework don't know what to do that's all right
+we're going to go over it in 40 seconds sometimes stream beats comes with some
+angers i like it if you're using query selector you always use the quotes
+nothing to guess about it just use the quotes
+
+02:30
+cool all right folks come on back on this one that was quick
+there's the victory lap alright let's show the music here all right
+i actually don't know if we did jag tony's um hydration just in case i missed it
+cheers to you if you're able to hydrate let's hydrate cool
+i love it there you go auggie all right let's take a look at this one let's open
+it in the browser first okay what we have here is two
+contestants who you're able to click on excuse me
+you can click on claire you can click on nikki
+if you click on claire i want an alert to pop up that says wrong
+and if you click on nikki i want it to show her lovely photo
+
+02:31
+right so click on claire it should show wrong with an alert and click on nikki
+to show their lovely photo let's go ahead and figure out who won the final
+rows here if we look the things we're clicking on they both
+have the class of contestant but only one of them has the class of
+rows so we can actually use this to determine which one we clicked on
+because if we clicked on something that has the class of rows we know we've
+clicked on nikki if we clicked on claire and we checked for rows they wouldn't
+have that class let's go and take a look um we're doing something slightly
+different here we're using something called query selector all this enables
+us to select multiple elements at the same time so i'm going to use the class
+of contestant right the class of contestant if we look
+both both claire and nikki both have the class of contestant
+right so i'm able to use that class and so i'm going to say grab all the
+
+02:32
+elements that have the class of contestant right
+and i'm storing it in the variable called contestants now
+this line here is a very tricky line it's just a bit of code
+that enables us to put an event listener on every single
+contestant that is in this variable all right
+for those that did the read ahead a little bit what is for each it's a what
+something we're gonna learn about next week four each is a what
+it's a loop right it's a method that gives us a loop
+right it's a loop and so what we're going to do is we're going to loop
+through each contestant all right we're going to loop through each contestant
+all right and we are going to add an event listener to it
+so in this case we have our event listener our event down here our set of
+
+02:33
+functions down here called check for rows our event listener is going to add
+a click to every contestant and each one of those clicks should trigger
+the check for rows function down here it should trigger the check for rows
+function cool all right so where do you get all these
+smurfs all right so if we look at our check for rows
+the cool thing we're doing here is we're passing something into this function
+we're about to see arguments and parameters and some really cool stuff
+about how functions work in a few seconds and so what we're saying here is hey
+we're passing the click into this function look at what the target of that click
+was like what did the user actually click on if the thing the user clicked on
+has a class that contains what right we know that we're looking for the
+
+02:34
+class of rows right so if the thing we clicked on has the class of rows
+we know that we've clicked on nikki right because if we look
+only nikki had the class of rose all right only nikki had the class of rose so
+if we look at the thing that we clicked on and it had the class of rows we can
+go ahead and toggle the hidden class on nikki and then if
+the thing we clicked on didn't have the class of rows we know that we clicked on
+clear right the only other option here is if
+both of these right if both of these now have the same event listener
+right if both of these now have the same event listener right
+there's only two options either the thing we clicked on has rose and it's
+
+02:35
+nikki or it didn't have rose and we alert wrong
+come on now we talked about that dot a bunch of times tonight right talked
+about this being a way to select elements from the dom right we're
+actually trying to find something in the dom that's a class
+here we've already said that this is a class right by using classlist we said
+this is this is already a class so we don't need the dot we don't need the dot
+there we already said it's a class and we're not actually selecting anything
+from the dom cool all right let's make sure this works then we'll move on
+refresh i'm going to click on claire claire321
+wrong so we know it works and then if we click on nikki it should show their
+lovely image oh there you go lovely image alrighty
+
+02:36
+all right so that was our lovely bachelor code let's move on to our new
+topic this evening which are functions we're going to do functions
+about 20 minutes or so and then we'll wrap up class with a lovely raid all
+right chat what are what are functions yeah exactly functions are just sets of
+instructions just instructions right functions are simple sets of
+instructions people often refer to as functions as like the building blocks of
+a program i've been using the term legos and and and
+blocks is kind of the extension of that right
+a function is the the reusable blocks in our program that we can reuse over and
+
+02:37
+over again sets of instructions that we can reuse over and over right so for me
+like in my brain i have a set of instructions for how to clap right like clap
+right there's a set of instructions in my brain that says like take right hand
+take left hand bring them together at speed and you'll make a clap
+right and so the cool thing is i can call that function over and over and
+over again i can clap clap clap clap clap clap clap clap clap right i can do
+it over and over and over again and this is going to bring
+right this is going to bring a lot of reusability and dryness to our code
+all right let's let's actually take a look at something already let's go back
+to some of the the um the code that we've already seen uh let's take a look at
+
+02:38
+take a look at the second one here let's take a look at andy next right
+let's take a look at this how many how many steps are there in
+this in this set of instructions how many steps are there in this set of
+instructions yeah there are three things that are in the set of instructions
+so what if i wanted to do all three of those things three times
+what if i want to do all three of those things three times
+without functions here's what it would look like
+that'll function if i want to do all three of these things three times this
+is what it would look like boom boom boom right that's me doing those set of
+instructions three times that starts to get messy it starts to get out of hand
+right what we could do however is instead of having to retype all those
+instructions line by line we could do andy next and then just run that
+
+02:39
+three times right so we went from nine lines of code to three lines of code
+and that's the beauty of what functions bring to the game
+is that instead of having to repeat ourselves over and over again and
+our code base is getting exponentially large
+we put all the instructions that we want to have happen in one function
+and then we can repeat that function as many times as we want
+right there are so many things that you do every day that are functions in your
+brain how to make coffee how to turn on your computer there are
+these things that we do all the time over and over again and when we start
+writing code we don't want to have to right we don't want to have to
+write out everything from scratch each time by throwing our code into functions
+
+02:40
+we get reusability the ability to write one line and get all those instructions
+right cool let's take a look at that here is how we break down a function
+function has really two key steps to it right really two key steps we have
+the declaration and we have the call now we've heard of declaration before
+what what is declaration where have we heard declaration before
+where if we heard declaration before we did hear it in css but let's let's
+stick to javascript where have we heard declaration before yeah we declare
+
+02:41
+our variables and what do i mean by declaring my variables what does that
+actually mean what is declaring a variable actually mean yeah
+we're putting it into memory right we have memory and in memory
+we've seen declaring variables like let dog age right we've seen that before
+where we'd create a space in memory called dog age
+right well functions are the exact same thing
+here is a function declaration right that has a name
+and so what we're going to do is we're going to create a space in memory called
+
+02:42
+name because the whole point of a function is to be able to do a set of
+instructions over and over and over again so we actually
+need to store those instructions in memory right so that's why we call this a
+function declaration right we're going to take these sets of instructions
+and put them into memory so that way in the future if we ever
+want to clap we can just say clap right if in the future we want to be able to
+make peanut butter and jelly we can say make peanut butter and jelly we have all
+these sets of instructions that we can store into memory and then reuse
+whenever we want and so the act of using a function
+or telling it to to come from memory right to pull it out of memory and
+actually do it to follow those sets of instructions we have to call it
+right a function won't run unless it is called
+
+02:43
+right so we we declare our functions which puts them into memory so we can
+use them whenever we want but they won't run until they are called
+all right we got a hydration we got a couple here we got crisis and we got
+dev instinct thank you so much for the hydration cheers to both of you
+you're able to let's hydrate and two alrighty so this idea
+of putting a set of instructions into memory and then running them
+right is how we're going to do a lot of stuff in javascript cool
+here's an example of a function here's an example of a very simple function
+we have now in memory a set of instructions called yell
+
+02:44
+and whenever i want to yell i can call that function
+and i can call it over and over and over
+again the beauty is i can put whatever i
+want inside this function and then reuse it over and over again now
+when you are creating functions there are two very important things to
+keep in mind remember this is the thing that's going into
+memory the set of instructions right and this is the call telling those set
+of instructions to run now there are two pieces of information
+here that we haven't talked about yet we have arguments and we have parameters
+whenever you call a function you can pass stuff in you can pass stuff in
+to the function so i like to think of i have a very
+
+02:45
+healthy relationship with my mother but i like to think of it this way whenever
+i call my mom it's to argue right so whenever i'm calling my function i pass in
+arguments right so whenever you're calling whenever you're trying to get
+that that that function to run you're passing in an argument and so
+when i call my mom to argue i pick a topic to argue about right
+we're gonna argue about ducks right or the next time i call them we're
+going to argue about pokemon or next time i call we're going to argue about
+succulents right we have the ability to call that argument you have the ability
+to make these calls to pass in different arguments each time right
+and so when you call a function you can pass in an
+
+02:46
+argument and that argument gets passed into the function
+and it really falls into a bucket that we call a parameter
+give me a second here i know these if you haven't if you haven't done the
+reading yet these are a little complicated understand give me a second here
+we call the function we pass in an argument right
+and that argument falls into a bucket that is our parameter
+parameters are like variables that only exist inside this function
+right so let's let's see what i'm talking about it's kind of hard to see
+without looking at it so here this is a what chat what is this here
+what did i just circle what is that it's not just a function it's a function
+what yeah it's a function declaration we now have in memory
+we now have in memory a function called yell
+right we now have in memory a function called yell
+
+02:47
+and then down here what's this chat what's that it's a call exactly
+and i call my mom to what i call my mom to what argue so what the heck is
+string hello string hello is a what yeah it's our argument it's the thing
+that we're going to argue about right and so that string hello falls into the
+what what does this string hello fall into
+we see word here what the heck is word word is a what
+word is a parameter right now wherever i see word inside of this function
+it is actually what in this instance word is what
+
+02:48
+wherever i see word inside this function right now word is actually what
+yeah it's actually string hello right because here is the function call
+i've passed in the argument of hello that argument falls into the bucket
+that is word wherever i see word inside this function it's now actually string
+below and the reason why this is so helpful
+is because now i can reuse this function over and over and over again and each
+time i call my mother to argue we can argue about different things we
+can yell about different stuff i can yell hello but i can also yell goodbye
+
+02:49
+i can also yell i don't know something else i could yell i don't yell
+my mom i could yell dominoes right we could pass in different stuff to yell
+i could pass in i love you right i could
+yell i love you my mom right so the cool
+thing is we wrote a function once but we can reuse it over and over and over and
+over again by passing in different arguments right
+by passing different arguments so this gives us the ability to do sets of
+instructions over and over and over again passing in slightly different changes
+right and it adds a whole new world of flexibility to your code let's take a
+look at this let's do one together and when it and when they're simple it
+it's kind of like hey well why did you have to do that it's so simple
+
+02:50
+we're doing a one-line function here but
+eventually our functions will get longer right they'll do more all right so
+always put your parameter in here so i'm going to yell um thing
+thing five it just doesn't matter what we call it right and then i'm gonna
+alert thing five there we go cool so now we have a function called yell
+we have a parameter called thing five all right let's go ahead and call yell
+let's yell hello great you saw we get an alert that says hello
+let's go ahead and call yell again i love you
+boom now we get an alert that says i love you
+
+02:51
+right let's do another one let's yo we need more
+dominoes right now we're now we're alerting we need
+more domino so we wrote the function once
+right we wrote the function once but we can call it as many times as we want
+reusing those instructions over and over again
+thing five is just the made up parameter name i can call my parameter whatever
+the heck i want i called it thing five because that's the first thing i thought
+of right it just doesn't matter you can call it whatever the heck you want so
+here we have a function call right here we have a function we need to
+click out here we have a function call with the argument of hello
+that argument falls into the parameter of thing five wherever i see thing five
+inside of this function it's now hello then i call it again
+
+02:52
+now my argument is i love you right right now now it's called i love you and
+so now it falls into the parameter thing five and wherever i see thing five i'm
+actually just saying i love you and i do
+it again i call it again now my argument
+is we need more dominoes that falls into thing five wherever i see thing five
+it's actually we need more dominoes right now the cool thing is
+you can actually have like as many parameters as you want let's go and do
+function yell something and i'm gonna pass in um i don't know
+bob1 and bob two just doesn't matter what we call them right bob one bob two
+and i am going to alert and this time i'm gonna pass in a
+template literal or template string that we've talked about before
+
+02:53
+so let's go ahead and say i and then we'll pass in uh bob one after i
+and then we'll pass in bob two cool we'll do our closing tick and there we
+go so now i can alert i bob1 after i bob two
+all right let's go ahead and make sure this is actually declared and put into
+memory there we go i can do yell something and now i can pass in two arguments i
+eat and swim there we go ready let's hit this enter
+and we can see in the alert i know it's tiny but it says i eat after i swim
+
+02:54
+right let's call it again i sleep and there we go so i passed in sleep and go
+to class now we can see i sleep after i go to class all right
+we gotta hydrate in here sky lily pie says hi thank you for the
+hydration cheers to you all right let's take a look at this all right
+eat and swim are both what chat eat and swim are both what
+eat and swim are both what yeah they're both arguments alright so
+this first argument of eat falls into the parameter of bob one
+wherever i see bob one now it is the same thing as if i had said eat then
+
+02:55
+our second argument of swim falls into the parameter of bob two
+wherever i see bob two it's the same thing as having said swim
+that's why we saw i eat after i swim inside of our alert cool let's look at
+our next two arguments here we called the function again
+right we called the function in again and we passed in the first argument of
+sleep leap falls into bob one wherever i see bob one it's actually now sleep
+and then i pass in my second argument of go to class that falls into bob two
+wherever i see bob two it's actually the same as saying go to
+class and so we'll see but when we call it this time we see an alert that says i
+sleep after i go to class cool so chat one more time
+
+02:56
+what is this here what is that the function what
+the function declaration call okay cool function declaration what are these
+these are both what function what their function calls nice
+um both of these are all four of these are what arguments nice
+and both of these are what parameters nice
+alrighty folks uh let's go ahead we're gonna do [Music] one
+assignment together so we're gonna go a little over tonight we're gonna do one
+assignment together and then another one will be due for homework so
+
+02:57
+let's go and take a look we have in our materials for tonight simple functions
+all right so we have three things to do here
+in the javascript that says create a function that adds two numbers and
+alerts the sum create a function that multiplies three
+numbers and console logs the product right and then create a function divides
+two numbers and returns the uh what is that called the quotient cool
+all right so we're gonna put five minutes on the clock
+actually we're gonna do four minutes we'll do five minutes on the clock cool
+five minutes on the clock take your five minutes we're gonna go
+over it and then we'll end class the quotient yeah
+
+02:58
+i always forget the the result of division get out here with the duns
+five minutes push yourself if you're already done
+push yourself make it do wilder and wilder stuff hey nick how you doing
+everyone's pumped for elden ring [Music] all right folks you got this
+i know if it's your first time playing with functions could be hard it's all
+right you don't get it we're gonna go over it
+together then we'll end with a nice raid get those channel points
+
+02:59
+got this dig deep glad i did the reading yes it pays to do the reading folks
+i bought some more oh snap it works hey i'm glad some of it's working cool
+i wrote the code in my head yes you start your pseudo code right
+thank you card has been doing you a solid that's awesome
+
+03:00
+glad they're coming in useful all right about half the times through we're gonna
+take another two minutes 30 seconds we're gonna go over them together and
+then we're gonna do a cool raid that's actually a pretty common uh
+complaint like not knowing where to start the only way that you get more
+comfortable of knowing how to start is by doing it repetitious like do it in
+repetition right doing it over and over again until you start to see and
+recognize the patterns and you don't need to
+actually look like the biggest thing i keep saying it i don't know how to say
+it any louder any anymore delete it do it again and do it again
+until you don't actually have to look at the other code you can just type it out
+
+03:01
+it doesn't matter if you don't understand a single bit of what's happening
+just by doing it and so you don't need to look at the example means that you
+have those patterns in your brain so when things actually start to click you
+remember all the patterns and it comes together like a tidal wave
+so even if you have no idea what tech you're doing get that repetition in
+mcafee said yes the delete repeat has helped me a lot it does trust me it just
+works i don't know why it just works we do know why it works right the the space
+repetition is like it's forced right nice down for the first time hey i love to
+
+03:02
+hear it alrighty folks got about a minute left
+got some folks getting their first dones tonight i love it
+had to peek back into the functions reading good yeah make sure you use your
+resources i love that oh some folks coming in done at the the
+buzzer here i love it i didn't test it done can i play alden ring now
+let's go over it alrighty i appreciate that comment about the boot camp
+all right folks let's take a look at this together go over it together
+
+03:03
+we'll do our raid all right let's chill the music here alrighty
+create a function that adds two numbers and alerts the sum
+all right let's create a function we got
+to get used to our function syntax right function keyword
+and the name of the function so if we have a function that adds two
+numbers what do you think we should name our function here
+some or i like to be a little bit more descriptive add two nubs add two nums
+right or even better add two numbers right i like to be descriptive in my in
+my function names eventually we'll get to a concept called clean code and this
+is one of them all right function add two numbers and
+if i'm gonna be adding two numbers together what do i need two i need two what
+
+03:04
+i need two what two parameters nice i'm gonna call it uh num1 and num2
+beautiful num1 num2 and it wants to alert the sum so let's go and do an alert
+and if we want to alert the sum what do we got to do to our parameters
+there's a couple ways we can do this right we could just do num1 plus
+num2 and that that should work right like we're going to
+add the two parameters together and alert them so let's try it
+let's go ahead and call our function add two nums
+and let's pass in two numbers uh two and three
+we have two and three here if this works this should call
+our function called add two numbers right and alert the sum let's try it
+
+03:05
+open this in the browser and boom we see that alert of five
+right see the alert of five or straight all right we see the alert of five nice
+um so it worked there's also some other ways to do this right like
+there are some other ways to do this right we could do something like a variable
+like let sum equal want num1 plus num2 right we could do that here maybe make a
+little bit more readable and then alert the sum
+or like this would also work like both of these are
+ways of doing it you could do it directly in the alert
+or you could set up a variable that does it right
+so it's kind of up to you i think this might be a little bit more readable
+um we're not going to ever reassign it so maybe we can just call it const right
+so it's up to you like you could do it directly in the alert or you could do a
+variable i like this a little bit more it's a little bit more readable
+
+03:06
+all right a little bit more readable let's do the next one here
+create a function that multiplies three numbers and console logs the product so
+let's go ahead and create a function function keyword uh what's the name what
+should we call this one if we're multiplying three numbers right yeah multiply
+multiplies three numbers that that sounds pretty good to me
+and then the notice what i do i always like to like make sure my curly braces
+close and then i come back in and do my parameters i feel like folks that stop
+and do the parameters they often forget their curly braces so you'll notice me
+do this all the time i do my curly braces i break them and then i go back
+to do my parameters just in the beginning so that you don't forget to
+
+03:07
+close your curly braces which can be a problem for a lot of folks so
+um if i'm multiplying three numbers i need three what i need three what
+three parameters all right zebra one zebra two zebra three
+does the parameter names matter no we don't have to call them num or anything
+like that normally if we know they're going to be numbers we'd call them num
+or numbers right but it doesn't matter we can call our
+parameters where the heck we want cool and then console logs the product so
+let's go ahead and create a product const product equals zebra one times
+zebra two times zebra three that's the product right result of multiplication
+and then it wants it in a console log so we'll console.log
+
+03:08
+product cool now we could have just put all three like these three
+directly in the console logged and that would have worked as well right
+right that would have worked right same thing would have worked all three
+products right same thing just a different way of doing it and then right now
+if i save this right if i save this and i go to my browser i want to see the
+console log i go and i open up my console log i refresh i get an error
+num is not defined where am i getting num is not defined i don't have an error
+ah see num was not a parameter i forgot the two
+
+03:09
+all right let's save it let's go back i get the five from the original alert
+from the original problem but i'm not seeing any multiplication
+why am i not seeing the result of any multiplication in my console let's look
+how am i not seeing the result of any multiplication in my console
+that prime i think that was you i hope you're doing well i didn't call it
+let's call it cool let's pass in let's let's uh let's let's go ahead and
+pass in our three numbers here let's go ahead and pass in two three and four
+all right two three and four let's save it let's go back
+
+03:10
+we have our alert from the original function call and then we have 24.
+did it work let's go back and take a look 2 times 3 is 6 6 times 4 is 24 so it
+worked we have our call and our function declaration we're in a good spot
+all right last one and then we'll we'll end and do a raid
+alrighty create a function that divides two numbers and returns the
+quotient alrighty create a function what should we call this one
+should we call this one yeah divides two numbers let's go ahead and create our
+parameters i'm going to call n1 and n2 for num1 num2 cool
+and returns what the heck is returning what the heck is returning
+
+03:11
+i'll show you here's return and let's just do it straight in line here
+n1 divided by n2 well returning spits out the answer to wherever the function is
+called right it just spits it out to wherever the function is called it doesn't
+actually print it it just spits it out to wherever it's called so
+let's come down here two numbers and let's pass in two numbers let's pass
+in 12 and six would expect two let's save it let's go back and refresh
+all right we get our original alert we get our 24 from the second thing
+but then we never actually see anything we don't see two anywhere
+why the heck don't we see two anywhere i don't see two anywhere i called it
+
+03:12
+it ran yeah returning doesn't actually print it so what happens when you return
+something let me show you so we passed in 12
+12 goes into n once where we see n1 it's 12 right
+then 6 gets passed into n2 where we see n2 at 6. so we do 12 divided by 6 which
+is 2 and then we return 2 we return to to where it was called
+so it gets called here and it just poof evaporates in the thin air
+i didn't save it i didn't put it in a variable and i didn't console log it or
+return it it just evaporated into thin air so let's go ahead and wrap this call
+in a console log right let's wrap it in a console log let's see what happens
+let's save it let's go back let's refresh boom the original alert
+
+03:13
+the first console log and then our console log of two
+right return spits out the value to where it was called now it doesn't make
+a whole lot of sense right now why the heck would you return stuff we're gonna
+see that in our class next thursday we're gonna eventually start chaining
+functions we're gonna have one function that'll do the math then one function
+that'll like turn it into like a like a number sign add like a number sign to it
+and we can have all these different functions that work with each other that
+spit out stuff to each other that pulling stuff from each other right so
+for now we saw kind of three different things we saw the ability to like alert
+stuff we saw the ability to console log stuff and we saw the ability to return
+stuff and in our next couple classes we're gonna spend a lot more time with
+these functions uh if you haven't done the reading make sure
+you do the reading on function so you can get more practice with this stuff
+i'll of course share all my code from today uh on discord after class
+
+03:14
+uh there is a bring it home a bring it home challenge if you look in
+the starter code from today there's this bring it home practice i want you to do
+this for homework right make sure you do this for homework i'm asking you to use
+variables functions conditionals three of the big four that we've seen already
+so this is this is your challenge for today and tomorrow make sure you do this
+for our homework please then please for the love of all that is in this world
+comment out all your js type it all out again without looking
+peek if you have to repeat doing this process until you don't need
+to look at your javascript anymore for all the examples that we've done
+or the bachelor code for the temperature converter for these
+three functions that we just did thank you for the engagement right make sure
+
+03:15
+that you are everyone just gets got when i spell
+stuff wrong i don't like it it's a me with this play but people still like get
+up on ours about it i love it please make sure i've asked you to do
+this three or four times because it really does truly truly work so please
+make sure you do it the bring the homework
+the bring the home assignment make sure you do this process of deleting retyping
+deleting retyping play break tweet out using the hundred devs hashtag
+any of the stuff that you take and make this extra you make it your own i want
+to see them i want to retweet them i want to see what you're building uh
+remember we're we're going up against papa john's
+go ahead and follow me if you want i'm going to start releasing more short form
+content on um youtube and on tick-tock and all that
+fun stuff but for the rest of tonight we have a lovely
+raid i will see you all on sunday uh on sunday we are going to
+do more of this practice we are going to practice more of these
+
+03:16
+functions this javascript if it was hard we're also going to look at some of our
+past layouts so if you want to look at some layouts together come back on
+sunday if you want to do more of this um of this javascript stuff like if it
+didn't make sense that's okay we're gonna come back and do it again on
+sunday and then guess what we're gonna do freelancing next week and we're gonna
+do even more javascript review and practice so plenty of time
+um for this stuff to kind of sink in for it to make sense but for now
+let's get ready and raid so as always give them some follows spread some love
+some positivity good vibes have a good rest of your night
+and i will see you all on sunday thanks for uh doing some javascript with me
+peace everyone let's raid

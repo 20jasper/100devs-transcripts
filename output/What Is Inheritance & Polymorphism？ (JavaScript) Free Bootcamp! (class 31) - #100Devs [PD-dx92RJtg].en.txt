@@ -1,0 +1,2188 @@
+
+00:00
+let's go good morning good afternoon good evening where are you coming from
+hope you all are doing well let's go what's going on everybody
+welcome back welcome back you came back we learned about encapsulation
+abstraction two really hard concepts you decide to come back tonight for
+the inheritance and the polymorphism i'm glad you're here i'm glad that you
+decided to show up again uh these are meaty topics but we're gonna get through
+them together hey we got a lot of fun stuff tonight lots of really good examples
+going to make oop make sense we got two more big things to get through we'll do
+
+00:01
+more review on thursday and thursday is a really exciting class too folks
+you believe it we're halfway there folks we're halfway there this is officially
+the halfway point we're there we made it let's go
+uh so i'm gonna put 10 seconds on the on the clock here because we need to
+celebrate a little just a little bit a little bit thursday's gonna be the big
+celebration let's see a little bit 10 second warning oh
+congrats everybody how way there could you believe it oh think about all the
+
+00:02
+stuff you're able to do the things that you now know html css
+javascript variables conditionals functions loops arrays
+objects properties methods constructors what
+let's go that's wild to think about i could sit here and rattling off all
+these things all day long that you all now know halfway through
+congrats it's a huge accomplishment we're gonna celebrate on thursday
+because we got some important stuff to get through we gotta finish out oop and
+then we can celebrate with the best of them we have come so far uh so
+lots of fun stuff to get into tonight glad you are here uh you know how we do
+you know how we do uh we've got a little
+bit of things to talk about hundred devs related we're gonna review objects if
+you missed last class that's okay we're going to review the basics of
+encapsulation and abstraction together and then we're going to move into
+
+00:03
+inheritance and polymorphism depending on how it goes depending on
+how we're feeling we might have some time left at the end we might do another
+round of kind of working in groups but we'll see how tonight goes we'll see how
+we're feeling these could be meaty topics that can make our brain put in
+some effort so let's see how we're feeling towards the
+end but you like as we like as we always like to do i like it off with some
+questions so the uh the the questions is of the day is what
+is your favorite character from television books
+tv whatever that's the question of the day i was excited for the question give
+folks a few seconds to get in here that are running late from work
+got goku hercules card urkel [Laughter] hello kitty
+we got a lot of simpsons characters kermit optimus prime
+sailor moon okay i see you now see if you if you're from philly
+
+00:04
+and like you woke up early i used to wake up mad early to go to school
+because i had to travel pretty far and uh i would wake up and every morning
+sailor moon be playing at like 5 30 in the morning so i wake up and watch
+sailor moon every day throughout high school a
+we got a lot of interesting ones riley from the boondocks okay pooh bear
+hulk punisher we got michael scott we got a lot of good ones batman ron
+swanson uh i feel you this is good i like to see
+these these are my favorite types of questions i'd like to see what you all
+are into cursed bueller leon get out of here jack sparrow okay utrit son of
+
+00:05
+babinbrook oh no ultra son of utritt all right thank you all for sharing i
+think my favorite all my favorite characters come from i think alice in
+wonderland so cheshire cat mad hatter a couple other fun ones dodo yeah
+all i think those are my favorite characters
+all right thank you for sharing uh folks
+have other questions questions before we get started i always like to do one or
+two before we jump in can we do more rock paper scissors
+gambling we'll have some gambling thursday is going to be a gambling show
+well i want to say gamble we're going we're going to yolo some points on
+thursday are you i'm doing good it's been a good
+week so far any advice for a phone interview my general advice for interviews is
+always know what you're going into right you should never walk into your
+interviews like an accident always ask hey is will this be a
+
+00:06
+behavioral interview will this be a technical interview
+right and always know what you're walking into indifferent hey what's
+going on i always know what you're going into right so always ask don't ever be
+afraid to ask what type of interview you're about to go into
+we do have something called the bank so you can do you can do exclamation point
+bank and it's all the questions that we prepare for behavioral interviews and
+then all the questions we prepare for technical interviews and so if you know
+you have an interview coming out i saw a couple folks they have some interviews
+coming up definitely start working through the bank now we'll have some
+time when we'll officially start working through the bank together in like two
+weeks like not next week the week after um but you can take a peek at it now if
+you're getting some interviews early how many paid clients do we need by the
+total end of the cohort that's up to you i asked for one
+
+00:07
+some folks really run with it i have some folks that'll just that'll just
+take off and they'll freelance for the rest of their lives um
+and some folks will just get the one and that's it that's up to you
+if we if we were just dealt a major life gut punch and fell behind how would you
+deal how would you rally when your energy feels gone first it is 100
+okay to take a break right it is 100 okay to take a break this is a marathon
+not a sprint we all have things that are
+gonna hold us back some more than others and that's okay it's not really being
+held back you're just taking a pause the one thing i ask folks that take a
+break that take a rest before they continue on to get the energy up is
+always set a date that you're going to return put it on your calendar put it on
+the fridge put it on your wall and say i'm going to give myself a week and then
+
+00:08
+once that week is up here's the date i'm
+going to start and here's the very first thing i'm going to do i'm going to do a
+code wars and literally put that on on on may 12th i'm going to come back i'm
+going to do this specific code wars and that's how i'm going to restart
+folks that sometimes when they take a break and they don't have that date of
+return planned they don't have the thing that they're going to do then it just
+becomes a little bit too easy to not pick it back up so 100 okay to take a
+break 100 to listen to your body to listen to your emotions to listen to
+your feelings and say i need to to take some time to rally 100
+okay set a date to come back and then make sure you come and get help
+right joining the discord getting help in the
+discord communities joining the catch-up crew find your people and get that
+support to keep moving through all right i have a business degree i've been
+
+00:09
+following along with the boot camp i was advised by my coding friends i was in
+network with to not kill myself learning to code but to apply for scrum master
+and agile delivery lead positions are these positions realistic for someone
+that is extremely tech savvy but transferring sectors uh how orders to
+gain entry would you expect uh not my zebra not mizzou
+i'm laser focused on getting folks software engineering jobs it's not
+something that i i don't like to speak on things i don't know about right have
+i had folks get scrum master positions have i had folks go and get those type
+of jobs yes but i honestly don't know the best
+pathway into those types of roles and the thing i do know is that my students
+that take like in the realm of software engineering
+roles but not software engineering roles traditionally get paid less and have a
+stunted career growth so i'm talking about things like qa or other things
+that are that are kind of tangential to software engineering but not the the
+whole kit and caboodle so not saying that there there's nothing wrong with
+those jobs it's just that my students that take them typically stay there even
+
+00:10
+if their goal was to eventually become a software engineer and they stay there
+with typically a little bit lower of a salary so that's why i don't i don't put
+my energy into it i put my energy into software engineering and that's that's
+kind of what i figure out dealer a congrats on the interview
+yeah and different so the difficulty with positions outside of software
+engineering roles is that you usually stay there that is 100 true
+mastermind is back hey all right we got to hit them up
+i got it we got it we gotta make we gotta make that happen i'm really glad
+that they're back we needed them y'all had a meetup in harrisburg let's
+go congrats that's huge glad you got to meet some folks alrighty folks thank you
+for the questions let's jump into we got a lot of stuff to cover tonight uh if
+you're following on along on youtube please go ahead and like comment and
+subscribe only about 60 of people that watch the
+youtube channels are actually subscribed so just just click the click the button
+
+00:11
+please thank you alrighty if you haven't checked in go ahead and check in please
+uh if you are following along please check in like and retweet the
+tweet you can do exclamation point check-in to get the actual link you have
+to click the link you have to go to the tweet give it a like give it a retweet
+it helps folks find our community not pay tens of thousands of dollars to
+learn what you have already learned let's just stop here for a second
+you are so i used to teach at general assembly right i'm still distinguished
+faculty there but the the program i taught the most was a nighttime course
+that was all front-end web development right front-end web development
+we learned html css and the javascript upped until like
+maybe two weeks ago three weeks ago so like you're already past that and that
+
+00:12
+course cost twelve thousand dollars twelve thousand yeah
+now they had smaller part-time courses right that were like in the three to
+four thousand but the skills you already
+have are like 90 of that that 12k course which is wild and so
+that blows my mind that we're doing this together and we're all still here if we
+were to calculate the money saved it's just astronomical astronomical
+all right now so please go and like retweet help folks find us how folks uh
+get to try it for free for some folks going to an in-person bootcamp makes
+sense they want to put the money on the line show up but for a lot of folks they
+want to test it they want to try it they want to see if it's for them if this
+coding thing could be an actual career for them they can come they can watch
+all of our videos for free they can join our discord 31 000 plus strong
+
+00:13
+to get the help that they need as they're on that journey and they can do
+it for free so please a like a retweet just so folks can find us and not have to
+to dish out those funds all right now if you are new around these parts we
+have a newsletter you can do exclamation point newsletter
+and when you do that uh you will get access to the emails that go out before
+every single class it's often a place where i share the
+most information about the upcoming classes i'll put links in there early
+and sometimes there are super secret raffles uh like there was today and so
+today there's a super secret raffle and that raffle uh was for vip folks for vip
+here on twitch and the cool thing about vip is you get
+some you get some perks you stand out you look special you get a special
+little icon here on twitch and uh you can share links too which is pretty cool
+so vip has value if you open up the newsletter i would have saw a newsletter
+
+00:14
+you could have entered in we had over a thousand people that filled out this
+newsletter before class started so i'm going to grab all the names go down here
+until class started i see some of you kind of doing it right now i'll count it
+i'll count it you open the newsletter folks it pays to
+open a newsletter you get cool stuff let's go ahead and do a name picker
+name picker.net here we go this is for vip folks
+as i say a thousand there's over a thousand oh maybe there are some repeats
+oh no i think i just didn't grab all of them all right i see all you sneaky
+
+00:15
+sneaky folks trying to get in i'm gonna grab the some of the sneaky folks
+there we go all right over a thousand three two one
+charlie work do her charlie work do her you got vip coming your way when we take
+the break i'll vip you up maybe i can do it just with like a chat
+command let's see i do just a chat command
+all right charlie work doer you got vip congrats use it wisely please use it
+wisely stand out flex on your friends be a flexosaurus
+alrighty congratulations it pays to open the newsletter folks you heard it here
+first uh networking comes back next week can you believe we're done
+we're done with april like april just like what i teleport it through april
+
+00:16
+and we're at we're at may right we're in may so that means next week
+the networking has to come back folks we're getting to the point where you
+know some stuff you know some html you know some css you know some javascripts
+all right you're gonna get closer to the hunt
+we got to we got to start bringing back that networking so that we have a basis
+of folks to reach out to when it's ready for the hunt so let's bring it back
+let's dust off the cobwebs it's going to
+take a little while we're going to we're getting close folks we're getting close
+to the hunt so we got to bring the networking back starting next week
+deadline for clients is this thursday i want to see your your signed contract i
+want to see if you did a client alternative if not meaning that you
+volunteered or signed up a contract to volunteer
+
+00:17
+or you contribute it to free software that's thursday folks and then sunday
+sunday we come back sunday we come back for the get bowl we
+had a lot of folks that had questions about git on sunday's office hours so i
+decided to just do a full day of git and
+github and so sunday we're going to take
+three plus hours oh no it's mother's day fig newtons i met monday
+i met monday i met monday because uh sunday is mother's day i got to fix the
+slides let's let's cancel let's do this real quick monday 6pm monday 6 p.m
+uh we're going to go ahead and do a get bowl it will be recorded it will be
+
+00:18
+recorded um and just a reminder that sunday is mother's day so monday
+at 6 00 p.m we have our get bull and what the heck
+is a get ball folks are asking we're just going to go through git and github
+from beginning to end we're going to learn how to to add to commit to push
+we're also gonna learn how to pull we're gonna learn how to fork we're gonna
+learn how to clone we're gonna do all the fun stuff it'll be recorded if you
+can't make it uh but joining live is always the fun part
+all right don't forget to call your mom on sunday to argue
+alrighty speaking of wonderful things that we can review including git and
+github mayan wolf has pinned an amazing list of all of their review streams
+in the ketchup crew channel you can click this link
+i'm going to copy the link address i'm going to spam it in chat real quick in
+
+00:19
+case you need it there we go they have listed out all their review
+classes so if you need object review you got it you want to build a wordle clone
+you got it if eloquent javascript gave you too much trouble
+you got it you want to look through that
+object calculator project you got it you want to look at some apis you got it
+so mine wolf is a beast doing all these review streams as part of the stream
+team please give them some love like they're taking time out of their day to
+review all the things that the people in our community need the most help with
+it's wild they're literally giving up their their nights and weekends
+to help folks review and they're doing it live you know how
+hard it is to do it live where people can scrutinize and see
+everything you're doing and they're you know what come in get a little closer
+they're really [&nbsp;__&nbsp;] good at it like
+they they're really good so if you're not following my own wolf you're you're
+
+00:20
+you're losing out on some great content some great review i love that they
+listed it out so you can pick out and cherry pick the things that you want uh
+my wolf is doing a week delay so they do their live stream make sure you give
+them a follow so you can see when they go live and then a week later they put
+their stuff on youtube amazing educator somebody is stepping up to make sure
+you all get the help that you need with some of the the the meaty topics that
+sometimes i can't take more time to review my wolf is going through it cool now
+some people are like wait a minute how come i keep missing
+mine will streams or hello it's rufio streams why do i keep missing them well
+it's because you haven't turned your notifications on
+you got to turn your notifications on folks if you go to the stream team
+channel in the 100 dev section of our discord
+right you go to the stream team channel you go to notification settings
+just click all messages please click all messages please
+
+00:21
+uh folks in the stream team only post when they're going live with a hundred
+devs related content or coding related content right so we we promise not to to
+to spam the the notifications you're only gonna get the bangers only folks
+right stream team is out here making it easier off for you to learn for you to
+pick up things to get the review that you need so just go ahead
+stream team right click notification settings all messages
+i'm just gonna give everybody gonna give everybody a few seconds to do it i'll
+wait just a few seconds pull up your discord stream team notifications destiny
+settings all messages please everybody a few seconds to do it
+is it normal i don't feel comfortable making cool layouts yeah are you a
+designer if you're not a designer i don't know make cool layouts
+all right some folks are saying i don't see it
+if you still have a gray name on discord it means you haven't joined 100 devs on
+
+00:22
+discord you have to go to the join 100 dev
+section click those emojis and so many more channels open up for you including
+the stream team channel cool my wife says i can't wait to see you on
+my next stream hey let's go what was the song you played at the
+beginning of your crafting your story stream uh that was the outro
+uh on meek mill with a little snoop yeah cool
+thank you for sending your notifications into all messages it really does help
+folks uh it does really help you see those
+notifications coming through we only put it when we're doing 100 devs content
+so i really appreciate you doing that it'll help you never miss a stream team
+stream thank you and with that we have one new stream
+
+00:23
+team member to introduce uh we've we've rated them they've been a long-standing
+member of the 100 devs team uh it's finally time to make it official fox is
+joining the stream team congratulations thank you so much
+for joining taking their time to help and work and and and kind of bring the
+community together and there's a couple really big things i love about fox's
+streams one they're starting at 11 a.m on friday so
+friday will be their first official stream as part of the stream team
+they're tagged up on discord they're going to get tagged up on twitch and
+their first stream is going to be at 11 a.m on friday which is amazing because a
+lot of folks aren't on our like eastern standard time
+that classes start right so we wanted to start adding some folks to the stream
+team that are at different hours so that
+folks that are in different parts of the world they still get to interact and be
+
+00:24
+part of this community and grow with us but but fox is doing something really
+interesting they are streaming work together sessions so if you want to
+come and just work together with other folks and you don't want to do it alone
+especially during the day definitely check out fox's stream uh they're
+amazing we've raided them once before but now it's official they're part of
+the stream team you're gonna have some fun you're gonna learn some stuff
+together and it's gonna be awesome so super super excited uh this is one i've
+been wanting for a long time congrats fox join the stream team joda
+saa thank you for the gift to subs i appreciate it thank you for that
+we're bringing the heat folks we got a lot of this is this is stream team
+thursday i got some i got some other big announcements to make too i'm really
+excited uh we were really really lucky to have the folks on the stream team
+that we have and um telling you folks i got a vision we're
+
+00:25
+going for it it's the best place to learn how to code live online i want
+every single day to be to be a hundred devs person live that you can join that
+you can hang out with that you can code along with that you can get help and
+support with and be a part of this community so friday 11 a.m i'll be there
+i'll see you there welcome fox hey all right chat what the heck are objects
+what the heck are objects what are objects everything
+everything oh why pin mine oh yeah it's it's a thread can i pin threads i'm not
+sure if i can pin threads but it's a thread in the ketchup crew
+
+00:26
+uh someone said how can i see all of the members of the stream team if you're on
+twitch right now underneath my name it should say like a
+hundred devs that's our stream team if you click on it you can see all the
+other members of the stream team cool yeah they are everything objects are
+everything they are a collection of variables and functions and when
+these variables and functions are tied to objects we call them properties and
+methods now we've been using objects for a while now
+we've been using them just to build regular objects we've been using them as
+part of apis we've been using them we've been consuming them
+last class in this class is trying to understand
+why they matter like why we actually want objects in the mix like why we'd
+want to use our objects in regular day-to-day life
+and so we were using them now we're trying to understand them and then the
+
+00:27
+last and biggest level is to build with them and this is something that i really
+want you to take to heart every single time you're learning something new
+especially at 100 devs it's a lot of times it's just worthwhile to get in
+there use it first see how it works tweak it play with it break it
+then try and understand it try and fill in the gaps in your knowledge and then
+once you have a rough idea of it start building because then that building is
+how you'll solidify the concept right so
+use understand build it's something that has changed my life when it comes to
+learning how to code it's something that i try to infuse in what we do here at
+100 devs but it's something you can take and run with for everything that you're
+trying to learn just get into the muck use it then try to understand it and try
+to build other cool stuff with it all right mentioned this last class on on last
+thursday uh but we're finna make some nerds angry especially tonight especially
+
+00:28
+tonight we're taking some of the meatiest probably hard to under hardest to
+understand topics and we're trying to bring them back down to earth
+right make them make sense use real words like real words that we can understand
+no big words because we treat them as disrespect right
+come back down the earth exactly and have it make sense now when you do that
+do we lose some of the nuance of these terms yes of course but we don't care
+about that we're trying to get an understanding and understand why
+these things are important who cares if you can memorize the definition of
+polymorphism if you have no idea why you use it or what it brings to your code
+and so that's what we're spending a lot of time on we're spending time
+understanding the why wrapping our heads around the different
+pillars of object-oriented programming and we'll have time to see the more
+
+00:29
+nuanced explanations as we go further so if you're a codeweenie and you're
+watching tonight don't worry let just like thursday i put a little
+little asterisk next to any of the things that aren't 100 all the way there
+so that you can just close your eyes you can take out your headphones you can
+walk away for a few minutes as we actually explains the way things in a
+way that people can understand and then once you see that after disappear you
+can come back you put your headphones back in and you don't have to get angry
+or upset all right cool we talked about objects as being a
+collection of variables and functions uh these these variables and functions we
+call properties and methods and they represent the attributes and behaviors
+of things in our program when we think about objects i like to
+think about a physical object we need a codeweenie emoji i think so
+that'd be funny [Music] other thing about physical objects i
+
+00:30
+think about a stopwatch when i think about objects i see the stopwatch as
+having properties like color shape i see it having a brand property a model
+property and i see it having methods like start stop split reset
+if you're new we've been going through this these these objects for a while now
+so this is definitely a little bit of review in the beginning all right
+at first we started creating objects using what what type of notation is this
+to create an object fox said thanks again everybody this
+community means the most to me uh and then we we got blown out boxes thanks
+again everybody this community means so much to me and i will do my best to make
+you guys proud we're already proud you want to make us proud we're already
+proud but super excited to have you as part of the stream team let's go
+yeah we're using literal notation all right literal notation
+when we use the curly braces we're using little notation and we're adding
+
+00:31
+properties and methods using what kind of notation here
+we're adding properties and methods using what type of notation
+yeah dot notation exactly awesome and we're adding a property here
+but a method here how do i know that i'm adding a property here versus a method
+here what's the difference yeah one is a function yeah so whenever
+you're using a function with an object we call that a method nice all right
+what if we want to make a lot of objects what can we use we want to create a lot
+of objects we want to create a factory of objects what could we use to create a
+lot of objects yeah we can use a constructor and that
+constructor enables us to spit out objects we can make an object that has
+all of these properties and these these specific methods tied to it and any
+
+00:32
+object that comes out of this constructor will have all of these meth
+all these properties and these two methods and then we saw well we have this
+constructor function but with the newer versions of javascript we got classes
+and classes were what on top classes were what on top
+bob is guessing bob was guessing before i even said it they knew it was coming
+yes it's the sin it's the splenda it's the syntactical sugar that goes on top
+right it's still prototypal inheritance underneath and we'll have a better idea
+what the heck inheritance is like after tonight's class but it's still
+prototypal inheritance underneath we just have a little bit different of a
+syntax that will help folks that are transitioning
+from other languages and helps us do a couple neat things as we get into
+night's class tonight we're covering inheritance and we're going to see how
+this class syntax gives us some cool stuff to to to really help when it comes
+
+00:33
+to the inheritance game cool alrighty but why
+why do we put all this effort we already have variables
+we already have functions we could just make uh a whole
+a whole program using variables and functions
+why the heck use objects why would we need these like factories these
+constructor these classes the gif is loud the good good to see the classical
+inheritance oh i love that i've seen people say like
+encapsulation already oh that makes my heart feel good
+why do we use objects well what if there was a system nay a paradigm nay
+a set of rules an agreed upon structure to our code
+
+00:34
+that made it easier to add new stuff made it easier to read through what was
+already coded made it so that you were not afraid to make changes
+we can make changes and go to sleep at night you see the warning
+
+00:35
+what if there was a system a paradigm a set of rules well [Music] so [Music]
+oop baby that's what we did what if we had
+a system a paradigm a set of rules that made it easier to add new stuff made it
+easy to read through it was already coded made sure you weren't afraid to
+make changes so you could sleep at night that's oop object
+oriented programming we use these objects to make our lives easier
+all right let's take a look let's see some code disgusting ugh
+disgusting i do not like this code all right let's look at this code
+
+00:36
+with this code we have some things here we have uh we have some we have some
+variables our hourly rate our hours worked our tax rate
+we have a function to help us calculate profit
+and um we actually calculate that profit
+and store it in a variable called profit
+and then we're console logging profit so i have a question is it easy
+to add new feature team has been here why is that so funny
+is it easy to add new features and functionality
+let's take a look here we go i just added a way to to hold money for taxes right
+so we had our calculate profit now we added a new function to hold for taxes
+we have a new place where we're holding for taxes this is
+one thing that we've added and do you feel comfortable with what we
+added do you feel like you understand what's going on like we could sit here a
+
+00:37
+spaghetti monster exactly we could sit here
+and we could figure it out right we're like all right all right so
+hold for taxes needs profit made so if we come down here we can see that all
+right profit made is actually profit that was passed in
+profit was passed in here profit is using hourly rate hourly rates
+coming from here hours is coming from here
+tax rates coming from here and then all that's being passed in
+to calculate profit so hourly rate becomes rate hours becomes
+number of hours tax rate becomes taxes that goes in we calculate the rate the
+number of hours to taxes that value gets spit out it gets spit into where the
+function was called down here it goes back up to hold for taxes no god
+
+00:38
+no god please no no no right like we could sit here and figure this out
+right we could sit here and figure this out we could we could we could we could
+do leon's playing madden tonight we could sit here and figure this out we
+all could read this like very procedural code if this code works we could figure
+it out but all of our parameter names are named something different
+there's nothing that would stop if we were working with another engineer
+there's nothing that would stop them from adding a function that also had
+different parameter names it's really not like there's nothing there's
+it's just it's just too much it's bad code
+we're bad as we write bad code but this is too much
+right it works we could figure it out but we wouldn't feel comfortable
+really kind of like understanding what's happening can another developer just
+
+00:39
+like look quickly and get the gist of what's happening
+no they're gonna have to spend too much time doing what we just did like tracing
+everything through whenever they want to add stuff they have to go through that
+whole maze of figuring out what stuff is nah right and as we kind of like keep
+looking at this like if i made a change like if i'm looking through this like
+can i spot changes like i just i just made a change could i
+can i see what what happened here no it would take too much time
+we're going to see we're going to be sitting there trying to calculate all
+these things we're going to be like it's just too much
+but does it work yes we could just write variables we could just write functions
+and get our programs to work but it's not maintainable
+there's too much stuff all over the place
+and we can't really make changes without losing sleep at night if we make a
+change here is it affecting something further down
+
+00:40
+in our code base i would have no idea if i was working with another developer
+and we were both making changes at the same time there's a really strong chance
+that our changes would break each other's code and so we we need to figure out
+a way to not be stuck with this but with something that can help combine
+our data and functionality because when we're looking at it we
+notice that there were some data right we had our hourly rate we had our hours
+we had our tax rate and we had our functionality like the
+ability to calculate profit and the problem was
+the problem was there is no connection right we had data we had functionality
+
+00:41
+there was no connection and so what if there was a way that we could fuse
+our data fuse our functionality together and get
+all the benefits that we talked about last class so we gotta do the full dance
+right we gotta we gotta all right we got it we got it we got to fuse
+the data and functionality together because when we do that
+look how clean it looks oh baby look at this oh
+look at this did you just look at it it's beautiful elsa right it looks good
+right that's clean that's clean that's fresh look look at it look at it
+
+00:42
+we have one object where the data and functionality is combined right
+so when we're talking about the hourly rate
+we're using the this keyword so we're not talking about some other hourly rate
+we're talking about the hourly rate that's part of this object
+when we're talking about the hours we're not talking about some other hours talk
+about the hours that are part of this object
+when we're talking about the tax rate we're not talking about any tax rate
+we're talking about the tax rate that's a part of this object and so
+is it easy to new add new features and functionality yes it it
+it's easier to add the features and functionality because we're all using
+the same language we're using all the same variables right so there's no
+there's there's there's not anything getting away from us we're not having
+all these made up parameters and if somebody wants to to to
+
+00:43
+get the hourly rate they can clearly see that there's already an hourly rate set
+so we don't have to worry about outside global variables we don't have
+to worry about somebody coming along and messing with it all of the data
+and the functionality is fused together in a way that makes it way more readable
+and easy to make changes so now when we want to add a calculate tax is held
+we know what data we're working with when we go to calculate taxes held we're
+dealing with the same data that we were dealing with when we were trying to
+calculate profit this makes it way easier to keep adding
+new bits of functionality without worrying if we're using the wrong bits
+of data our data and functionality are fused together
+now can another developer look at my code and understand what's happening can
+
+00:44
+you quickly look at this and understand all right i'm calculating profit and i'm
+using these values here you know developer look and see what's happening
+do they have to look anywhere else in my program
+to see how i'm calculating profit they have to worry that somewhere else a
+hundred lines down in this file something else is going to change
+no they know exactly where they look and they can understand what's happening
+they don't worry that there's something loose somewhere else in my code base
+that's going to make it hard for me to understand what's happening
+can they make changes without losing sleep
+right i made a change here i changed the
+track rate the tax rate from 0.35 to 0.4 am i gonna lose sleep that all of my
+functionality no longer works no i didn't have to i didn't have to
+worry because i was already using the tax rate
+from the object so i don't have to worry
+
+00:45
+about any other bits of my functionality breaking because i already know that
+functionality right i already know that functionality is using the same set of
+data the data and the functionality are fused together so this fusion of data
+and functionality into one object you see the warning this fusion of data
+
+00:46
+and functionality into one object well [Music] so [Music]
+yeah there's no music i know i can hear it i can hear it [Laughter]
+as encapsulation encapsulation encapsulation let's get let's uh
+there's your warning nerds we gotta find my pen again your nerds
+your warning close your eyes take your headphones out it's okay
+the process of storing our functions our functionality our methods with their
+associated data or our properties into one thing aka an object that's
+encapsulation using our data and our functionality together
+
+00:47
+into one thing is encapsulation cool so with encapsulation
+is it easy to add new features and functionality yeah yeah way easier cool
+let's take a look at the current best prosumer espresso machine on the market
+all right now we spent a little bit more time on this last class so this is a
+little bit of a review right a little bit of a review um we're going to go
+through encapsulation and abstraction a little bit quicker so we can get to
+inheritance and polymorphism if you're brand new you're joining us for the
+first time we're running a 30-week software engineering bootcamp and we're
+halfway through so this review is going to be a little bit faster if you're just
+joining us live for the first time so just keep that in mind also if you
+
+00:48
+missed last thursday's class we're going through a little bit faster but we're
+going to recap at the end before we leave tonight we're going to
+recap and we're going to talk about the why we just saw that it was easier to
+add new features and functionality when we used encapsulation we're still going
+to get to even more of the why of encapsulation when we recap towards the
+end of the night as well all right here's the gaja classic pro it is the
+best prosumer espresso machine on the market
+makes beautiful espresso has one glaring big problem
+hs software engineering a thank you for the prime
+yeah the wand it's hot garbage literally hot garbage the one that you see on the
+right hand side that one is used to add texture to your milk
+right you you want to you want to have beautiful lattes right you need texture
+
+00:49
+in that milk and the steam one is there to provide that texture but it doesn't
+it does it's it's not good it's not good so the gaggia classic pro
+has a boiler right you put water in and there's a boiler
+and that boiler creates steam right it creates steam
+that steam can go through your portafilter and make delicious espresso
+and that steam can go through the wand to help add texture to your milk right so
+it heats water for espresso and steam for your milk right so it heats that
+water to make steam for your espresso and your milk but the steam wand sucks
+and since the scene one sucks what should the engineers do
+
+00:50
+if the steam wand sucks what should the engineers do they should fix the wand
+fix the wand please just fix it fix the wand all right
+they should fix the one now do the engineers have to redo the water boiler do
+leon you're really trying to reach a certain audience
+see we're all here to get the sh money and once we get the shmoney
+and you're ready to upgrade your coffee experience think of me think of me
+once you once you've rolling in the big bucks and you're like you know what
+time to go expresso think of me all right
+what should they do they shouldn't they shouldn't get rid of the the water
+boiler that's making the steam they they they shouldn't get rid of
+
+00:51
+this has to be an aspirational stream right they shouldn't get rid of the
+portafilter that makes excellent coffee they shouldn't get rid of the buttons
+right but they should get rid of the buttons
+they should just fix the freaking wand right they should just fix the wand
+do they get rid of the water boiler no and when they're fixing the wand
+do they really need to worry about the portafilter
+when they're fixing the wand do they really need to worry about the water boiler
+no the engineers can just fix the one they can focus
+on just the one they know that when they make changes to the wand they're not
+going to break everything else the wand has crappy two holes in it it should
+just have one right and so if the engineers just focus on the wand
+that saves them a lot of headache a lot of trouble they don't have to throw out
+
+00:52
+the whole espresso machine they can just focus on the wand
+so we can say as they're fixing the wand that the water boiler well that's
+probably abstracted know what i'm saying
+no saying they don't have to worry about it it's distracted away from their
+concern all right let's think of another example
+when we get into our car if you can if you have a car and you get into a car if
+you've ever driven a car when you get into a car do you do you think about
+how the cylinders are firing do you think about the way that your the
+the air to the fuel ratio inside of your engine
+or do you just press like the button or turn the key and hope it goes
+
+00:53
+right oh we got some we got some car weenies in here leon i care about the
+exact ethanol ratio in my in my gas i got i got to make sure that those
+cylinders are firing on the right times i care about it all the time leon i get
+in that car and if i'm not thinking about it ain't going to go
+for most of us that are not car weenies we turn a key or press a button
+whom i can i press a button baby you know what i'm saying i was getting car
+pressed to buy and got no keys money uh i press a button my car turns on right
+car turns on and uh i just use the steering wheel and i use the pedals
+i ain't thinking about anything else the whole rest of the car is abstracted
+right the whole rest of the car is abstracted i only care about my interface
+i only care about my interface my interface is my steering wheel
+
+00:54
+my interface is my pedals and my shifter that's it
+that's my whole interface for the car i don't care how the fuel is making it
+from the gas tank into the engine i don't care about the oil doing this
+lubrication i don't care about the intercooler i don't care about anything
+that's happening inside of that car i press the button and i go right that's it
+i have a very limited interface i everything else is abstracted away from me
+all right let's look at some code uh oh uh-oh so um i made a calculator
+i made a calculator for our agency and um the invoices can make the the
+
+00:55
+clients can get their invoice um but they can also see the hourly rate
+and they can actually see the amount of profit that we made and uh that that's
+that's bad like we don't want them to know the
+hourly rate we don't want to know how much profit we're making
+we want to make sure that they feel like they're getting all the value in the
+world that they got us they got us where they want us right and so we can't let
+them see the hourly rate we can't let them see the profit
+we just want them to be able to get their invoice and right now if they were
+smart they could see all right how to get the profit
+and they could see how to uh how to get the hourly rate
+right and that that would be there for them to see we can make a quick change
+and we're going to see private properties and methods later
+tonight we're going to see that when we get to inheritance we're going to see
+this way of doing this right this is this is a this is a nerds violently
+
+00:56
+shaking scenario by the way so i just made a few quick changes here
+i set hourly rate and the calculate profit to
+local variables they are no longer this so that means they're no longer bound to
+the what they're no longer bound to the what yeah we're gonna get into getters
+tonight yeah getters and setters yeah they're no longer bound to the object
+like the object that gets spit out of this constructor is no longer going to
+have a rate property or a calculate profit method however right however
+inside this constructor we can still figure out the rate we can still
+calculate the profit however when our user tries to get the hourly rate or the
+calculate profit using that dot notation right to get that dot notation they
+can't get it because it's not bound to the object they're just variables that
+
+00:57
+are used inside the function there's no way for those two things to come out of
+the function they can't use that dot notation anymore this is different
+right this is different when we bind them to the object with this remember
+objects come out of this constructor with the this keyword they're going to
+have that tax rate they're going to have that calculate profit but since we set
+them right since we set them to the hourly rate and the calculate
+profit are set to local variables they only exist
+inside of this function anyone that tries to access them outside the
+constructor they don't exist they are scoped inside of this function cool
+hey rockets all right y'all throw some big words at me right now
+throw some big words at me now i'm going to treat them as disrespect we're not
+
+00:58
+we're not there yet we're not there yet cool so we were able to we were able to
+abstract some stuff away from our client all right so
+my client can still get their invoice but they can no longer see our hourly
+rate that's beautiful they can still do everything they need to do they get
+their invoice our invoice needs to calculate
+how much to charge them but they can no longer see our hourly rate
+the water that was boiling in our gaza classic pro espresso maker
+that steam that was generated and how it was generated that was abstracted away
+from the wand the wand didn't care about how the water was boiled and the steam
+was created and an engineer working on fixing that wand does not care they can
+focus just on the one the hourly rate was hidden from our
+
+00:59
+client they could still get their invoice but the hourly rate was only for
+our use they couldn't get it the complex or unnecessary details are hidden
+they are hidden this enables you to implement things
+without understanding even thinking about all the hidden complexity if you
+were an engineer working on the gaja classic pro steam wand you could just
+work on the steam wand and not have to worry about anything else
+this idea of hiding the complex or unnecessary stuff
+makes our code be able to be in smaller more manageable pieces when we are
+working on a huge team with other engineers we want to be able to take one
+bite-sized piece of code work on it fix it break it do whatever the heck we want
+and not worry about the rest of our code base if we had to worry about the rest
+
+01:00
+of our code base whenever we are making changes that would be a bad deuce
+hey bearings photo hey what's going on how you doing thank you for the gift it
+subs hope you're doing well hope you're doing well thank you for
+being here good to see you again hope you're doing well
+yeah smaller more magical pieces of code and it enables us to do stuff once
+if we are making a new steam wand we don't have to remake
+the boiler we don't the remake the portafilter we have to remake the
+buttons we can just fix the wand enable us to do stuff once same thing with our
+code if we abstract out our different pieces we can just do stuff once and use
+those pieces whenever we want we can look at our code here and we can reuse
+the calculate profit whenever we want we don't have to redo the calculate profit
+every single time we need it when we try
+to figure out what we're going to charge our client or how much we have to save
+for taxes we don't have to constantly be remaking these bits of functionality we
+
+01:01
+can do them once and only use them as needed so this idea
+of hiding complex or necessary details implementing and doing stuff once making
+a more manageable piece of code here's your warning that's distraction baby so
+
+01:02
+[Music] foreign [Music] [Laughter] let's go
+had to show some love after getting a job a i appreciate you showing the love
+thank you for being here congrats on the job that's huge thank you for the gift
+it subs alrighty folks i i think i think it's
+important for us to just summarize real quick and then we're going to take our
+break abstraction is hiding welcome proxy abstraction is hiding the details
+just showing the the essentials it makes our code simpler
+more predictable more manageable and when we come back from break we're
+gonna live my vegan dream and start a farm so if you're new around these parts
+we'd like to take a five minute break at the top of the hour
+if you're able please get up move around
+
+01:03
+hydrate let your eyes focus on something that's not your screen come on folks
+
+01:04
+grab some water hydrate kiss some babies when we come back we're building a farm
+
+01:08
+[Music] all right folks welcome back welcome back let's go let's move on here
+alrighty all right yeah feeling good we did a little bit of a speed review of
+encapsulation and abstraction making it so that we can have easier to read
+more digestible code where we don't lose sleep over making changes
+where we can hide the unnecessary stuff so we can focus on the things that we
+
+01:09
+want to build with encapsulation and abstraction we can get all those things
+done maybe nugget baby all right folks let's uh let's start a
+farm let's have some fun let's start a farm all right so here i have an animal
+class and we can see in this animal class
+we have a constructor that gives all the animals on our farm a name
+and it gives them the ability to speak right
+we have the ability oh no leon vadar one day that's like a that's like
+long-term dream um we have the ability to have an animal class that has a name
+
+01:10
+and the method of speak and so what we're seeing here is that we
+want to have a farm and we want every single animal on our farm to have a name
+cool now what if we wanted to have a bunch of different animals on our farm
+well we can do something called extending our class
+so this is where the objects start to get a little bit more fun so
+leon running a software engineering farm
+uh so my wife really wants to start like an animal rescue like like a uh
+specifically a pit bull rescue and so she had this really funny like
+there's the pit bulls and parolees she wants to do like pit bulls and
+programmers so it's like an on-site coding boot camp
+where instead of like paying to go through the boot camp you take care of
+the pit bulls while you're there and so like it's like a like a work share
+
+01:11
+um i did a lot of like work shares growing up and so that that's that's
+like something we've been thinking about for a while
+um somewhere something along those lines but i think it'd be fun i think it'd be
+cool all right so uh we [Laughter] we can extend our classes which if
+you've done the reading you might have seen so far right but this idea is that
+we're gonna have all these different kinds
+of animals on our farm and so here the first item we could have is this lovely
+dog and dog extends animal so we get all the
+wonderful features of the animal class but we can also add the stuff that we
+care about when we're talking about dogs and so let's think about dogs all
+needing a breed right a breed and so we wanted to have our animal
+class for all of our animals and we wanted to have a
+
+01:12
+dog that extends that animal class and adds the stuff that just the dog would
+need so here you can see that we've added the breed because maybe not all
+animals have a breed all right so the mdn has like this
+little quip that's kind of hard to read and understand
+um but it's something that i want to spend a little bit of time reading and
+then see if we can like pull it apart and make it make sense let me just read
+it once and then we're going to come back to that code i just showed you
+we're going to walk through super all that stuff let me just let me let's just
+read this real quick if you find yourself starting to create
+a number of objects that have similar features so that's what we're about to
+get ourselves into we're creating a bunch of animals
+right we're creating a bunch of animals but we know that we're going to have
+some animals that are very similar like all of our dogs are going to be similar
+all of our cats are going to be similar all of our cows are going to be similar
+all of our horses are going to be similar right so if you find yourself
+
+01:13
+starting to create a number of objects that have similar features
+then creating a generic object type to contain all the shared functionality and
+inheriting those features in a more specialized object types can be
+convenient and useful oh [&nbsp;__&nbsp;] let's go back
+all right we already know we want to create a bunch of objects we know we're
+going to create a bunch of animals we're going to create a bunch of animals
+so we're i'm with you there we need to create a we're building a farm
+we need a lot of animals all right now we know all of our animals every
+single animal on our farm is going to have a what
+every single animal in our farm is going to have a what a name
+every single animal in our farm is going to have a name all right
+
+01:14
+so then creating a generic object type to contain all the shared functionality
+all right so the shared functionality that all of our animals are going to
+have is a name and the ability to speak so even though we're going to wind up
+creating dogs and cats and cows and and horses and sheep
+all of those animals need to have a name
+and the ability to speak all right so if you find yourself starting to create a
+number of objects that have similar features that's the situation that we're in
+we're trying to create animals and we want all those animals to have a name
+and a speak method then creating a generic object to
+contain all the shared functionality that's what we did we created a
+what they say a generic object type to contain all the shared functionality
+
+01:15
+that's what we did we created an animal class where they all wind up with a name
+and the ability to speak right with a name and the ability to speak
+and inheriting those features into more specialized object types can be
+convenient and useful inheriting those features into a more
+specialized object type what would our more specialized object type be yeah
+dog cat cow horse sheep those be our more specialized objects so when we look
+at this code we see that we can use all of the hey thank you for the raid
+coming through with with the heat today you got the whole crew today what's
+
+01:16
+going on thank you for the raid what are you all up to
+what's going on raiders thanks for stopping by uh we are in the middle
+we are in the middle of trying to make object-oriented programming make sense
+we just covered encapsulation we just covered abstraction and now we're
+getting into i'll give you a little i'll give you a little heads up
+don't tell the other folks who've been here for a while uh we're getting into
+inheritance so stay with us stay with us
+or get into inheritance hope your stream
+went well i hope you're doing well thank you for the raid we gotta we gotta get
+the this coming back to you hey i appreciate that thank you let's uh
+also let's let's talk we gotta we gotta figure out how to get this swinging back
+your way we gotta get we gotta send a rage your
+way he's giving us all the love we gotta send some love your way too thank you
+
+01:17
+thank you for the raid all right so we're reading this like really
+convoluted thing that the mdn gave us if you find yourself starting to create
+a number of objects that have similar features we're trying to build a farm
+right we're trying to build a farm and so we're going to have a lot of animals
+on the farm so we find ourselves starting to create
+a number of objects that have similar features and what we created was an
+animal class where every animal has a name and the ability to speak
+right name and the ability to speak and we want to start being able to
+extend this class so that we can start adding the stuff
+that dogs would need start adding the stuff that um cats would need
+horses would need etc and what we're noticing here
+is when we look at the dog class we don't actually do the
+
+01:18
+this dot name anymore we're not doing this dot name
+to add a name to the objects that come out of the dog class we have this
+beautiful super command and this super command enables us to take all the stuff
+that came from the parent now you might call it a class and a sub
+class for tonight we're going to call it
+a parent and a child we're used to those kind of relationships still this far so
+i'll let the nerd shake violently but we're going to call it a parent and a
+child just to make it a little bit easier
+because we're talking about inheritance right just a little bit easier for
+ourselves the code weenies can run off that's okay
+all right so we have our parent class which is animal
+and our child class which is dog nerds everywhere quaking right and we have
+this lovely super which enables us to grab all the stuff that was on animal
+
+01:19
+and use it inside of dog why is this so helpful why is this game
+changing what does this enable us to do chat what are some thoughts it's dry
+it is dry af exactly it's dry it could enable us to not have to repeat
+a lot of code we can get rid of a lot a lot of duplicate code and we can go from
+what would be as we start to build out this animal
+class maybe lots of line of codes to one singular line when we want to use
+it inside of the dog right and so dog can get all of the stuff that we had
+from animal but it can also start to extend it and
+
+01:20
+have just stuff that the dog needs like a breed
+right so we start to get this little bit
+of a little bit of a oomph here where we can get all of our
+let's go back to the mdn here we can start realizing hey we're creating a
+number of objects that have similar features that's why we create the animal
+class we need all of our animals to have a name the ability to speak
+and then we created that generic object right that contains all that shared
+functionality and then we can inherit those features
+into more specialized objects we have just inherited
+all of the stuff from animal into our dog class
+and this enables us to start keeping our code organized but also reducing the
+the duplication of duplication of our code right so now we can run off and build
+
+01:21
+everything that we need for dogs we can build everything that we need for cats
+but we're also not redoing giving them names we're not redoing them giving them
+a name to speak right we can we can start to specialize our objects
+and inherit all of that stuff so it stops us from having to repeat so much
+code over and over and over again cool would super only inherit the past
+property name in this case yes in this case it's only going to take name now
+there's gonna be a lot of stuff that we see tonight with these kind of classes
+and literally your homework the thing that i want for you to do most for
+homework is to play with this code break it
+try doing different stuff try building more and more children
+with this with these classes if we build a dog you build a cat right so let's be
+
+01:22
+part of your homework anything that you might have there's a little question i
+want you to play with it formulate questions and we come back thursday and
+we're reviewing all this stuff we'll review and we'll answer a lot more
+questions then cool all right so by using these classes
+of the parent and the child we just eliminated a whole bunch of redundant code
+a whole bunch of redundant code and what i want to do is i actually want to see
+this in action i want to see this in action so i'm just
+going to go ahead and copy this and i'm going to open up
+my inspector here we're just going to do
+it in the inspector we're going to do it on the fly i'm going to paste this in
+beautiful so what we did here is we have our animal class
+and we extended the animal class with the dog class right we have our parent
+animal and our child dog and we created a new object or a new dog object
+
+01:23
+and we passed in two two things we passed the name of simba
+and the breed of shepherd right and so if we look at this real quick simba
+gets passed in the name where is name then passed to yeah super
+super right we're going to take that name and we're going to pass it into
+the parent right super we went up a level right we went up a level
+we passed it into name so now we're going to grab this dot name which
+in this case will be simba so the object that comes out of this dog class
+
+01:24
+will have a name property but that name came all the way from the parent class
+right then we passed in shepherd and that went to breed
+we can see that we didn't pass that to super
+so we kind of just skipped that line and this dot breed is now shepard
+so we wound up with the name from the parent class
+and the breed on our child class and if we ask for simba we can see that we have
+a dog object that has a name of simba and a breed of shepherd and if i open it
+up what else am i going to expect to see we keep digging
+
+01:25
+we can see that there's a speak as well you see that there's a speak as well so
+if we go ahead and we do simba dot name we get simba if we do simba dot breed
+we get shepherd if we do simba dot speak and we use our parentheses because it's
+a method we get simba makes a sound right so we can inherit
+all of those properties all of those methods from the parent right
+you get all of it and i know right now it seems simple right right now there's
+only there's only one property on the on the parent constructor there's only one
+method on the on the parent constructor but imagine if we were building out like
+real animals like we needed to have a lot of stuff like the name of the farm
+their actual name their farm name we needed to have number of like number of
+legs all this stuff that we could think about that all of our animals would need
+
+01:26
+and then whenever we created a new dog class or an extension of that class we
+got all the stuff that comes from the parent without having to re-type it out
+without having to retype it out well we're going to eliminate
+a whole bunch of redundant code got your warning folks
+
+01:27
+only a whole bunch of redundant code [Music] is [Music] hey [Music] do it
+
+01:28
+just do it poof oh boy all right inheritance baby
+all right we can make a class from another class or a hierarchy of classes
+that share a set of properties and methods what let's read that back
+we can make a class from another class for a hierarchy of classes that share a
+set of properties and methods right like we could start to bring a lot
+of organization to our code with this inheritance we can we can start to get
+out a lot of redundancy of our code we can get it out by using this inheritance
+right we can start to really think through how we could build real stuff
+so if we're thinking about our animals right
+we now have the ability to have a parent of animal and a child of dog of cat
+
+01:29
+of of horse of of cow right but what if we wanted to also have a
+bunch of other animals what if we wanted to have like
+domesticated animals and like wild animals right like animals that we put
+like selective pressure on right right that might have like breeds like dog has
+a breed right what do we want to separate dogs that we put like
+that are like cut from husbandry right from like i don't know like a mccall
+that we caught in the wild right like don't cut don't catch mccall's in the
+wild i'm just throwing that there is like a zebra we're talking about zebra
+exactly a zebra right it's unreal uh like a zebra right
+we could start to really think about how we might build that out right
+all of our domesticated animals would have a breed right i think that's true i
+don't know they would all have breeds right but maybe our wild animals might not
+actually have a breed so we could have a parent of an animal class
+
+01:30
+and then what could our subclasses be what could our subclasses be
+yeah we could have like a domesticated subclass
+and a wild subclass right or like a a domesticated child and a wild child
+wild child right and the domesticated child would have breed it would have uh
+year since domestication right they would have all this stuff that that we
+would need for domesticated animals to have but our wild child wouldn't have
+any of that stuff it might have the location where they came from right like
+where where was where is their natural habitat right so our domesticated
+
+01:31
+child might have breed whereas our wild child might have
+natural habitat and so we can start to build out our farm from a parent animal
+to domesticated and wild and then in death
+domesticated we could extend to have our dogs our cats our cows
+and we could extend our wild to have our zebra our mccall all that stuff and so
+we can start building out this beautiful chain of inheritance
+where we don't have to constantly repeat ourselves whenever we want to add a new
+domesticated animal right whenever we added a new
+domesticated animal not only could it inherit the breed
+from the domesticated class it could inherit
+the name and speak from the animal class
+and whenever we have a wild child a wild a wild object
+like a like a zebra it could inherit where it was originally its natural
+habitat and then also get the name and the speak from the animal and so it just
+
+01:32
+adds this layer of organization to our code it adds this
+ability to have this inheritance so we don't have to repeat ourselves every
+single time we start to add new stuff this is kind of cool i think it's kind
+of cool too i'm i i think this is where it starts to
+get neat it really is like a point where we can start to really think about
+our the like the intentions behind the code we're building we can start to get
+this reusability we could start to like get this abstraction this encapsulation
+like these are real things that i want you to understand that you can use right
+like once you understand these are things you can put into practice that'll
+actually save you time larnell yeah yeah cool
+this is starting to get very neat my brain doesn't hurt anymore oh we got we
+got some we got plenty of time left we got some plenty of time left for the
+
+01:33
+brain to hurt all right let's go ahead and what i want you to do
+is i want you to make a new child class we made a dog class i want you to make
+another child class i want you to i want you to make your own child class pick a
+new animal to add to the farm and try and extend our animal class so
+uh in the starter code for today i actually have a completed
+a completed class already here i have dog extension i have cad extensions i
+have a bunch of stuff that's already in here so you can always peek at this you
+can peek at the slides because that's a little bit different some stuff that we
+started to get to so you can kind of look at the slides if you need to but i
+want you to go ahead and just practice extending the animal class so type out
+the animal class type out the extension we're gonna put five minutes on the
+clock i really want you to get your hands to get on this keyboard i know
+we've been doing a lot of like theoretical talking nonsense let's get
+let's get let's get down all right get your fingers on the keyboard if you
+
+01:34
+don't have the materials for today you can get the materials on our discord uh
+just do exclamation point discord agree to the rules and all the materials you
+need for today are in the follow along materials channel all right
+i'm gonna put five minutes on the clock uh you can go ahead and open up uh the
+objects uh the objects uh child class i don't think you need to create your own
+just just go ahead and extend the animal class
+all right what about five minutes on the
+clock i really want you to think through
+this i want you to add some stuff i want you to try it break it mold it bend it
+take five minutes and then we're gonna go over it together you got this
+funk we're gonna get over that in a little bit we're gonna go over that a
+
+01:35
+little bit if you're looking at that completed section there's stuff in there we
+haven't gotten to yet kidding not really we're gonna see how they get that same
+the same stuff we got by using let before i'm gonna show you how to use how
+to do that today uh with private stuff we use that word loosely
+
+01:36
+when's the next story class uh not this week but probably next week
+got this folks three minutes 30 seconds left
+can you overrate a function yes you can we're actually going to see that in a
+little bit remember about how this is all working
+underneath the hood remember we're using
+classes but underneath the hood it's all prototypal inheritance and since it's
+
+01:37
+all prototypal inheritance underneath the hood that means the objects always
+check themselves and then go up the prototype chain keep that in mind
+oh busy hope they're okay can we re-extend you can extend an extension yeah
+is there a way to privatize the properties method yeah we're gonna talk
+
+01:38
+about that in a bit why is it called super because they watch too much um
+comic book heroes question comics they read too many comics and watch too many
+superhero movies made a dragon nice yeah glitch that super means above in
+
+01:39
+latin or something there you go i'm doing hippopotamus i love it
+alrighty folks come on back come on back let's take a look at this together
+all right so let's take a look going to grab the animal class and i'm
+
+01:40
+going to plug it in here all right we had our class animal
+and we had our class dog i'm just going to copy this too let's make it easier
+there we go so we had our class animal we had our class dog let's do another
+extension here so let's go ahead and do class
+let's say cat cause we talked about cat so much let's do cat extends animal now
+when i do the extends animal this is where i get a lot of access to
+the original or the parent class right i get access to all the methods
+and somebody asked wait a minute can i override the speak like can i have
+a speak on my cat method and you can so let's go ahead and do this let's go and
+build our constructor um let's take in just kind of like dog
+
+01:41
+which feels kind of dirty name and breed because we're repeating ourselves which
+means that there probably should be some like class in between animal and the
+um dog and cat but let's just go with it for now we're gonna do super of name
+and we're gonna do this dot breed equals breed and we can come down here
+and do a speak we can come down here and do a speak and if we do a speak
+um let's just console.log meow for now somebody asked wait leon can you can you
+override the speak um that was in the original animal even
+if it is extended from animal and the answer is yes
+because all these classes are just what classes are just what
+
+01:42
+syntactical sugar baby there's that sweet sweet sugar
+underneath the hood is still prototypal inheritance and what we know about
+prototypes and prototypal inheritance is that objects always do what before they
+wreck themselves objects always do what before they wreck themselves
+they always check themselves before they
+wreck themselves right so no matter what object comes out of cat it's always
+going to look at itself first before it goes up the prototype chain to get
+something else right so there's still prototypal
+inheritance underneath the hood which is important to remember cool
+so we have our lovely extension of animal
+we have our constructor and we're using super to be able to get access to the
+properties that are set on the constructor right we're able to we're
+
+01:43
+going to be able to pass in a name and be able to get this name set on the
+object that comes out of this class right we also have the ability since it's an
+extension to have access to this original speak right if we wanted to
+we could use super to get this speak again but we'll see that in a second
+and we're able to also set methods on the new thing that we created right and
+so this extension gives us the ability to set new properties
+grab old properties set new methods and if they're not set here we can always go
+with the prototype chain to get the other ones so
+this idea of having classes that are parent and children enables us to
+reduce the amount of redundant code it can speed up your process but more
+importantly it can give you a way of thinking about your programs in a way
+
+01:44
+that starts to combine all this stuff we're using encapsulation to fuse our
+data and our functionality we're using abstraction so we can just
+work on singular pieces at one time we're using this inheritance so we don't
+have to keep reinventing the wheel each time we want to use something if we go
+back to our original example of the gaja classic pro
+right we probably have something that's like a an espresso machine class
+and then we have some sub classes that give us access to the water boiler or
+the steam wand or some other bits and things right it's going to be able to
+start adding structure and like i said we don't want to have to we don't i
+don't want you to freak out about understanding yet i have to show you all
+the basics then we start to use it once we start to use it then we can worry
+about understanding and once we worry about understanding we can worry about
+building don't try and skip these steps it's the reason i showed you that in the
+beginning is let me show you this let's use it a little bit and then the
+
+01:45
+understanding will come as we start to use it i know this is a lot i know these
+are some meaty topics and especially if you didn't do the reading or you didn't
+get through the chance to see this at a first pass
+it could be a lot so let's use it let's try and understand the basics and then
+we can start building with it cool all right we talked about inheritance
+we know that inheritance makes a class from another class
+or a hierarchy of classes that share a set of properties and methods and at the
+end of the day it's all you remember is that enables us to share a set of
+properties and methods without having to rewrite all those methods and prop all
+those methods and properties you're doing good cool
+we made the child class together let's keep pushing let's go back to the farm
+let's go back to the farm and introduce something and then we're going to take a
+
+01:46
+break you know what let's let's actually take our break a little bit early right
+we've covered a lot so far we've gone through encapsulation we went through
+abstraction we've done the beginnings of inheritance we saw how we can have a
+parent class with properties and methods
+and inherit those properties and methods into a child class without having to
+rewrite all that code right let's go ahead let's take a break let's
+let our brains meld on that a little bit and when we come back we're going back
+to the farm we've got some other stuff to talk about
+all right folks you're new around here we'd like to be healthy like that we
+like to give our minds a little bit of a break
+we like to look out the window let our eyes focus on something farther away
+
+01:51
+we'll see you in five minutes you know why they keep running papa
+john's ads you know why because you hooligans keep buying papa john's
+but they keep advertising bam wait until that data leaks wait until
+the papa john's data leaks i got y'all fans are gonna come swift swift
+you don't think i would download the leak compare it to all y'all emails and ban
+y'all you all know who i am people sweating right now
+
+01:52
+all right folks come home back alrighty folks let's go back to the farm
+we took our break let's go back to the farm all right we have a problem
+whenever new workers join the farm they keep renaming the animals in our system
+and starting to get a little annoying we're trying to build this program
+uh we're trying to have all of our animals have a name and
+our new workers just keep renaming them in our system and it's getting a little
+bit annoying so here's what that looks like
+
+01:53
+we have our lovely animal constructor it's our animal class
+that gives it a name property and the ability to speak
+and we can go ahead and create that new animal and we gave the name of simba
+so when we do name.simba it equals simba however somebody can come in
+and rename it to bob so let's take a look at this we can have our lovely animal
+class here let's use the inspect tool let's clear it and
+we have our lovely animal class here we can go ahead and create simba so we
+can do let simba equal and let simba equal and we'll say a new animal
+and inside that animal we're going to pass in the name of simba right
+
+01:54
+great now if we ask for simba we can see that it is an object that
+came out of the animal class and when we passed in simba it went into the
+constructor and it got a name property of symbol that's why we see name
+simba however we can use simba.name not only as a getter but we
+can also do simba dot name and set it equal to bob
+and it's a setter because now when i look for simba back
+we can see that the name has been updated to bob so all these new employees
+are coming in even though we're creating the animals from our class
+somebody can just come in and uh change the name of our animals and it's
+you know i'm getting a little i'm getting a little
+
+01:55
+i'm getting a little pissed off right they're coming to our farm they're new
+not putting any respect on their names changing them from simba to bob and i've
+had my i've had enough the audacity how dare they exactly
+so so what could help here what are some things we could do well let me show you
+here we're going to use a little a little little thing called a getter
+and we're going to combine this with a convention so we're going to use a
+little bit of something new that comes that we can use with these classes
+and we're going to use a convention as well
+so here we go let's look at this code here we can see two things we can see here
+that our constructor is no longer setting just name the constructor is setting
+
+01:56
+underscore name right and it still all works so let's go ahead and
+plug this all in and plug this into the console real
+quick just so we can see it don't worry i'm going to make it we'll come back i
+just want to see it plug this in here um we can do simba
+and when we ask for name we get name back right we can ask for name we get name
+back but when i do simba.name equals bob right and i asked for simba back
+i still have simba in there right even though i tried updating name
+nothing happened when i did when i asked for simba back like if we do simba.name
+i still get simba back what type of sorcery is this
+
+01:57
+all right let's let's do this one more time let's do this one more time because
+i just want to make sure the folks in the back saw it
+so our constructor's a little bit different our class is a little bit different
+we have simba if we do simba.name we get simba back
+if we try changing the name using dot notation to be bob
+it doesn't do anything when i ask for simba.name again i still get simba
+all right so now the the riff raft that are coming to our
+farm can't rename our animals and let's take a look at this all right
+let's take a look ryan do exclamation point 100 devs and
+you'll figure everything that you need all right so if we look we can see
+that we're not actually setting a name property here
+
+01:58
+we're setting an underscore name right so that's something to keep in
+mind here we're setting an underscore name and we have this lovely get
+with the name and when we say get name look what it's returning
+it is returning this dot underscore name and so we now have this getter that is
+using the underscore name that we set in the constructor
+yet we can still just call it name right we could still use name and we do name
+what we're actually doing we use name here we're using the getter
+and the getter goes right the getter goes and gets underscore name
+right gets underscore name and so when we are actually trying to do
+
+01:59
+this dot name the only thing that we're doing whenever
+we type in this dot whenever we do simba dot name the only thing we are using
+is this getter does this getter enable us to update the name property
+is there any way that this will ever update underscore name no
+there's there's just no way there's no way for it to go ahead and update name
+yet we can still use it to our advantage right we're starting to see this idea
+of we're going to use a word here it's going to make the the nerds quake a
+little bit we're starting to see this idea of like private properties
+right private properties and when i say private i just mean that they're kind of
+
+02:00
+abstracted in a way right we have the ability to get them we don't have the
+ability to set them right and so we can set them when we
+create the object but once the object is created there is no way to change the
+name property so this solves our problem of new folks renaming our animals
+but it also enables us to sleep a little better at night right
+that enables us to sleep a little bit better at night because we know that
+some other engineer is not going to come along and accidentally rename
+our animals but let's take a look at let's take a
+look what's underneath happening underneath the hood here
+let's take a look at something underneath the hood here because we're
+going to see something that's a little a little a little funky a little funky
+
+02:01
+uh so let's go ahead let's copy this let's open up the inspector
+let's go to our console let's place this in and let's look at simba
+if we look at simba oh wait a minute what's the property that simba has
+it's underscore name wait a minute so there's not even a name property
+it's underscore name wait a minute interesting so does that mean
+
+02:02
+i could come along and do something like this and now if i ask for simba
+oh now it's bob so wait a minute huh i thought this whole point of having the
+getter was so that this doesn't happen well that's the underscore
+the underscore does nothing for us there's nothing special think
+back to our constructors our capitalizing of the constructor did nothing special
+right this has nothing to do with security it has nothing to do
+uh with like making this so that nobody can really do it it's a convention that
+we are all agreeing to whenever you see that underscore what
+should be what am i screaming at you whenever you see that underscore what am
+
+02:03
+i screaming to you i'm screaming change this don't touch this back up run
+don't touch it now can some engineer on the team be a
+jerk and not agree to this convention yes
+but by me using the underscore all of us that are here right now we can agree to
+not touching this stuff right to leave it alone right to never ever
+update or change up property that uses that underscore just like we made
+capital letters of our constructors right it's it's on site we outside you
+touch that underscore property we outside that's all i'm to say we outside
+
+02:04
+and i'm going to win so if we take back and look at this we can see that oh well
+we can see that we're actually setting underscore name as the property
+and then instead of having to use this whenever we're working
+with our lovely object we have this new getter that we could just use the name
+we can just use name right because we never want to use
+underscores when we're actually trying to use dot notation to access things off
+of our objects we should never do that right
+and so we can use name which uses the getter and underneath the hood it goes
+and gets the name property for us so we get this nice convenient way of
+accessing the properties on our objects but we don't have the ability for
+
+02:05
+somewhere else in our code to [&nbsp;__&nbsp;] it all up that makes sense
+it's just a little bit of convention that can save us some time a little bit
+of convention that can save us some misery right
+let's run it back let's take a look at it let's see what trouble we can get into
+when we were using our original class anyone could come along
+right and it's it's not like we're saying like anyone like when i say
+anyone i don't mean like random users on
+
+02:06
+the internet i mean other engineers that are working on our team
+could there be a scenario where somebody does this in the code
+right could there be a scenario where somebody goes oh let me add a name
+to an object right could that could that happen
+yeah somebody absolutely somewhere in our code base could go ahead and set the
+name to bob should there ever be a scenario where someone does this
+should there ever be a scenario where someone does that no
+anyone that's on our team would see that underscore and they would run
+they would say i should not touch this i should not do this i will mess up the
+code if i do so to make it a little bit easier since we
+
+02:07
+know that we can do this because we know we can just use regular name we don't
+want somebody to be able to accidentally do this
+notice why they accidentally be able to do like name equals bob and then next
+time we ask for simba.name it's something different right we don't want
+that to be able to happen right so to get around this
+we introduce something new which is when we are building our constructor
+we don't actually use the name property we're using underscore name
+and then to make it simple for other developers and even ourself
+we enable it to just use the regular name and we use a getter to say hey when
+somebody does the name property on an object that comes out of this
+class what they really want is this underscore name
+right they really want this underscore name and so the getter goes and gets the
+
+02:08
+underscore name but the person using it only ever sees name they really have no
+idea what is happening under the hood right just like when we get in the car
+we have a steering wheel that enables us to like turn the car go about our day
+but do we ever have a button on our steering wheel that enables us to
+drop all the oil out of our engine would we ever put that on our interface
+right we ever put that on our interface like
+drop all the oil like we're just trying to like change bluetooth and like poop
+all the oil drops out of our out of our out of our engine as we're going down
+the highway we would never ever put that button on our interface
+right and so now we're starting to control the interface of this object
+
+02:09
+right we're starting to be like okay this is what you get access to
+right this is what you get access to but i'm going to make it
+so that you can't shoot yourself in the foot
+i'm going to make it so that you can't actually ever set the name to something
+else because the problem we were having is folks kept updating the properties on
+our objects they kept changing the names of our animals and so by using this
+underscore convention and using getters we can expose things to the interface we
+can expose that you can use the name property but i'm not going to give you
+the ability to [&nbsp;__&nbsp;] up the rest of the code right cool
+
+02:10
+constantly kant said underscore is something js developers agreed to use in
+order to semantically represent a private property it's a property that is
+intended to only be accessed truly within the class that is the mean to
+prevent cases where people attempt to change the property from outside the
+class winner winner chicken dinner why is that so important why is it why
+is important to have these like private properties that can't be changed
+outside of the class why is it important to have these
+private properties that can't be changed outside the class
+yeah we're starting to see how encapsulation abstraction starts to fuse
+with these other pillars right it enables us it's the mechanism
+by which we can do abstraction right we don't have to worry about
+
+02:11
+changing the name on stuff anymore there is no way for us as an engineer working
+in this code to accidentally change the name and right now it's just simple
+we're just saying the name but as we start to get a little bit deeper in our
+code we're going to start to see real meat behind our classes and they're
+going to be scenarios where we don't want to lose sleep at night that someone
+could accidentally change stuff we want that stuff abstracted
+right we want that water boiler abstracted we want that
+engine abstracted we don't want anybody to be able to change to drop the oil out
+of the engine we don't want anybody to be able to like remove the water boiler
+right we can abstract stuff out the way and so this is a mechanism for that
+abstraction but we still get all the benefits we can
+still use it we can still interact with it it's still on our interface but we
+
+02:12
+don't have to worry about it at the end of the day all right
+so when we see the underscore what does that mean
+we see the underscore it means what don't don't do what to it
+private run away no touchy don't touch it don't mess with it outside of that
+class cool all right so we're introducing a new scenario we just rescued a
+bunch of animals like a bunch of animals jason derulo hey thank you for the gift
+of subs hope you're doing well thank you for being here
+all right we just rescued a bunch of animals all right
+how should we build out our system let's think through this
+
+02:13
+let's build let's build out our system so um
+we have in the starter code for today we have this this completed code already
+so i'm going to come to this completed code
+and i'm just going to comment it all out i'm going to comment it all out
+and we're going to do some of it together actually let's do the whole thing
+cool i'm going to type it out so we can see it kind of like line by line uh how
+we're going to do it so we want to start
+adding a bunch of animals we're going to have all these new animals coming in
+and we want to be able to build this out that we can handle all of these new
+animals that are coming in we're going to have dogs we're going to have cats
+we're going to have to handle all of these different things that are happening
+with these dogs and these cats and we're going to see some cool stuff here
+all right so let's build out our let me give myself some room here
+
+02:14
+all right let's build out our initial parent class so class animal
+and we're going to go ahead and put in our constructor
+cool and we know that we want our animals to all have a name should we
+code along no don't cut along with this let's just talk through it
+so we know we want all of our animals to have a name so in the constructor we
+need to bring in a name as a parameter and
+we know that when we go to set the name property what should it be
+it's no longer just going to be this dot
+name what should it be if we want all of our animals to have a name property
+yeah i want it to be underscore name that way we can abstract out the name
+and not have to worry about it and that's going to be name whatever's get
+whatever gets passed into this constructor for name is now set to a
+property called this underscore name now since we're using the underscore name
+
+02:15
+and it's kind of private we know not to touch it outside the class what do we
+need so that we can actually use the name in our program
+we need a getter exactly so we're going to do our get name
+and that's going to be our getter so now we can use name anywhere and when we do
+the get name we want to return this dot underscore name
+this is what's going to enable us to use the name property
+but when we're doing it we're really getting this dot name and that way
+there's no way for our user to actually use name to update the objects the only
+thing that name does on any object that comes out of this class
+is return the underscore name properties cool
+
+02:16
+all right next we want to add a speak i want to add a speak method
+cool so we have the speak method and we just want to we just want to do the
+original we did i think it was just console log makes a sound so let's go
+ahead and console.log let's do our ticks we're going to say um we can say
+inside of our template literal here we can say this that underscore name
+makes a sound there we go why don't you need the parentheses when
+calling name because the getter is handling that for us the get's handling
+that for us like i said we got to see it we got to
+use it well plenty of time to go have plenty of time to go into the
+
+02:17
+nitty-gritty details as we go on all right so we have the ability to now have an
+animal that has a name underscore name property we are
+able to access that underscore name property
+by getting having a getter that gets the name and they all have a speak method
+where it grabs the name of the animal and says it makes a sound all right
+i want to have as as animals on the farm dogs and cats right
+right i want to have dogs and cats i want to have dogs and cats
+uh what could i do so that i could have all objects that spit out dogs and a
+bunch of objects that spit out cats what could i do
+
+02:18
+we could extend exactly i saw somebody said why does this underscore name still
+work inside this method because we are still within the class remember this
+underscore is just that we can use it inside the class but anywhere outside
+the class it really like just doesn't exist right cool
+somebody said why can't we just have like name as a method well then we
+wouldn't be able to use the name as a property right we wouldn't be able to
+use name as a property the get enables us to use that name as a property
+all right so let's go ahead and create our dog class we can just go ahead and
+say class dog extends and we can say animal
+beautiful so now anything that comes out of this dog class
+will get all the benefits of the animal class and so let's go ahead and build
+
+02:19
+our constructor we want to be able to pass in the name
+still that we'll we'll send up to the animal constructor with super
+but i also want one property on my dog i want one property on dog um
+posture check hey thank you for the posture check
+jummy think of it a posture check and some kind of fire thank you for the
+hydration cheers to you i use breed i'm just going to use breed
+cool we saw that already all right so in our constructor
+we can use if i want to pass name and i want to use the animal constructor how
+can i pass name to the animal the animal constructor
+yeah we can use that super keyword and we can pass in name
+
+02:20
+and then if i want to set breed i'm going to do this
+but what am i going to do here with breed that's a little bit different this
+time i'm going to do a breed that's a little bit different this time
+yeah we're going to do the underscore just so that we know that nobody should
+mess with it outside and so we'll say this underscore breed equals breed nice
+uh and now that we've used that underscore here what do we know that we
+need as part of this class what do we know we need as part of this class
+we need a getter we need a getter so we can do get breed
+and we can go ahead and say return this dot underscore read
+so now we'll be able to get the breed out even though
+it's a private uh part of this class all right
+and i feel pretty good about dog i want to show you something i want to show you
+
+02:21
+something else too um when we run the speak method i want to add a speak
+on the dog as well just to show you kind of like how this can work so
+inside my speak method i want two i want two things to happen
+inside the speak method i want two things to happen
+uh i want to see the original speak that comes from the animal class
+and i want to be able to create my own newspeak uh that also runs
+how do you think i might be able to get the speak that's on the animal class
+yeah all right i see some folks doing it we're gonna use the super again so we
+can just do super dot speak and that'll grab the speak from the parent class
+nice um we're still inside of a method so i
+can also console.log inside of here as well so i'm just going to do a
+
+02:22
+console.log um you can just you can use the name again if i guess you can do
+this dot name um i guess a dog would bark right we're gonna say barks
+don't lose it yet don't don't don't don't hyper focus on this don't hyper don't
+just hold on hold on don't hyper focus on this
+just leave it just leave it just let it be it's okay
+but let it let it pass through you if you felt it you felt it ah oh
+that's your inner code when you're trying to come just let it be let it be
+it's okay okay let it marinate we'll get there we'll get there all right
+
+02:23
+so we have two things inside this method which is pretty interesting um
+we should be able to grab the speak from the parent
+and we're also going to see this console log of barks
+so when this speak runs we should actually we should see two things we
+should see um the name makes a sound and then we should see barks
+i just wanted to show it so we can see like the the super happen i just want to
+be able to show you that like we can grab the methods from the parent okay
+let's make one more let's make a cat a cat class class cat extends animal
+and we're going to build out our constructor our instructor is going to have a
+let's say uh probably like a name and a breed again right
+
+02:24
+oh this feels bad uh let's let's grab the name from the parent using super so
+that'll go up to the animal class and let's go ahead and set breed again cool
+and since we since we're using that underscore we have to set a we had to
+get a getter and we'll say get breed and that's going to be return
+this dot underscore breed right and then we're going to do a speak
+and let's do the same thing where we we get the super as well so we'll do super
+dot speak and we'll also console.log something new
+and where we'll just kind of use the name this dot name and meows and this feels
+
+02:25
+horrible why why does this feel horrible because i'm rewriting a lot of stuff
+if i was to think about this if i knew that i was only going to have
+domesticated animals on this farm like if i knew it was only going to have i
+don't know do wild animals have a breed does anyone know this
+or is it just like animals that we put like selective pressure on
+do you like wild animals have breeds i don't think so right
+they have species but like not breeds right do they are they like different
+breeds of hippopotamuses yeah no there's not right so it's just
+it's just animals that we put like like that we've domesticated or put like
+selective pressure on right that have breeds
+i don't know i mean this whole lecture i don't know um
+
+02:26
+so i'm starting to feel that there there might need to be something happen right
+there might be something in my code that i need to think through
+i might want to put breed in my animal class right
+i might need to put breed in my animal class or if i knew
+that i was going to have both domesticated animals and
+wild animals then i probably need to extend animal into
+wild and domestic and then have dog and cats extend from from domesticated and
+hippopotamuses and zeb zebras extend from the wild class saturnalia is a breed
+a specific population that has selectively bred the preservation of
+
+02:27
+specific characteristics whereas the species is the largest group that
+produces fertile offspring through breeding so yeah so wild animals do not
+have breeds right so something we could do is instead of extending from animal
+they're gonna exist the world where dogs extend it from domesticated
+i can't spell right domesticated and zebra would extend from wild and we
+could put breed on the domesticated class and we could put um
+we could put like original habitat in the wild and then we wouldn't have to
+redo this breed nonsense for both dog and cat
+right so there's something to think through right something to think through
+like as we start to add more layers to this right we could start to
+think like wait a minute huh if i'm repeating myself maybe
+
+02:28
+i should redo how i am doing this hierarchy
+right i should maybe think about how i can redo
+this inheritance right i want some stuff to inherit from animals but it seems
+like i might have a situation where i want two other classes that my animals
+inherited from one that's domesticated and they get breed and one that's wild
+where they would get species and then i wouldn't have to redo this breed
+multiple times right it would already be
+on the domesticated class and i would be extending from domesticated and not
+animal hmm so this would be a form of refactoring
+yeah it could be a form of refactoring exactly it would be a form of
+refactoring that could help us do that but it's just something to think through
+it's more of a thought as we start to see how these classes can
+be used and come together but i feel i feel good with this i feel like we have
+
+02:29
+our animal class i feel like we have our dog extension we have our cat extension
+and i want to be able to use these extensions so
+let's go ahead and i'm just going to copy all this
+i'm going to comment out the stuff we just did
+just in case i had like any weird little errors i'm just going to uncomment the
+one i did before beautiful and i'm just going to grab this stuff
+and i'm going to go to the console with it so
+let's go ahead and open up our inspector and i'm going to go to console
+and plop all this stuff in and hit enter all right so
+if we look um what we did here is we put in our animal class we put in our two
+
+02:30
+children class of dog that extends animal and cat which extends animal beautiful
+and we went ahead and created some new objects right we went ahead and created
+some new objects we created simba which is a new dog object we passed in
+the name of simba and the breed of shepherd right because
+remember when we pass in when we pass in simba simba is going to go into
+the name property of dog which is going to be supered up to animal so that the
+ability to give it a name the ability to give it name comes from
+this animal constructor right cool we saw that
+
+02:31
+we passed in the name and we also passed in a breed and we can see here on dog
+we passed in a breed and we set a underscore breed on
+the object and now to get the breed we would need to use the getter all right
+let's see um so we created a new dog simba and shepherd
+another dog moshi aka the machine and put in the breed of pitbull
+and then we also created a new cat salem with the breed of american short hair
+cool let's just check these out and see what we got let's look at simba
+all right we can see that simba is a dog a dog object or an object made from the
+dog class it has a name of simba and a breed of shepherd but we can see that
+
+02:32
+both of these are oop we see that both of these have the
+underscore and are both private right they're both private so that means we
+should never do like simba simba.underscore name or simba underscore breed
+if we want to see the name or the breed we can just do breed
+and the getter goes and gets the breed which is shepherd
+all right goes and gets the breed which is shepherd
+that's neat if we want to try and mess with it though
+and change it to something else uh it doesn't work when we ask for simba
+we can see that the breed is still shepherd cool so we have this lovely new dog
+
+02:33
+called siba lovely dog called mashi and a new cat called salem all using
+our original animal class and the children class of dog and cat cool
+um let's actually see if we can like make them say the different things let's
+do simba dot speak and we can see that simba makes a sound and simba barks
+where did simba makes a sound come from yeah it comes from the super right we
+were able to get that that simba makes a sound from the animal class if we look
+at the animal class it had a speak and we went and got that speak we're
+
+02:34
+inside the dog right we went and got the super dot
+so we got to speak from the animal class and then we had our own console log in
+our speak method so this is this is big brain right here when i did simba.speak
+what actually ran let's get big brain for a second here
+when i did simba dot speak what rat like what what happened here
+what method fired yeah itself the speak method on itself fired it
+checked itself first and guess what it had a speak method
+and that speak method the first thing it did was use the speak
+
+02:35
+from the animal class it did super.speak so it checked itself it had a speak
+method it just so happened that its speak method used the other speak method
+and then did its own console log right if we look at that we can see that hey
+go and get the speak method from the animal class and then do your own thing
+so it checked itself first and then went up the prototype chain
+using super to get the other speak be exception
+yeah like i said today it's about using and getting
+getting a a glimpse of to the understanding right and so we're
+starting to see all these things come together and then we got to start using
+them we got to understand them we got to build with them
+tokyo titan what videos can we watch for absolute beginners do exclamation point
+
+02:36
+100 devs here in chat you'll get everything you need to know all of our
+original videos are on youtube all right cool
+so we now have the ability for simba to speak symbol makes a sound simba barks
+we can also do salem dot speak and we can see stella makes a sound salem meows
+beautiful so now we have the ability to have these
+different objects like can we just take a second
+this [&nbsp;__&nbsp;] gets me so excited i i really do get excited when this
+stuff starts to happen right like we now have the ability to create objects
+those objects can inherit a bunch of properties and methods from a parent class
+we can understand the reason why we're using
+
+02:37
+objects in the first place is so that our data and functionality is all in one
+place right that's encapsulation we understand that we can abstract stuff
+out the way so that when other engineers are working on our code they're not
+accidentally renaming our our our animals they're not they're not they're
+not touching bits of the code that they shouldn't we've actually set it up so
+they can only actually consume there's no way for them to update the name
+there's no way for them to update the breed we've abstracted that out there
+without the way and now we're using inheritance to stop
+ourselves from having to constantly repeat the same lines of code we don't
+have to give all of our dogs our cats our cows our horses our our chimpanzees
+our hippopotamuses the ability to have a name they just inherit that
+from the animal class and yeah it's really simple right now
+but eventually we were really building out these robust classes
+
+02:38
+right we're really building out these robust classes
+we would have the ability to have all this stuff inherited down into our cats
+down into our dogs down into our hippos down into our horses down into our cows
+down into our pigs and we wouldn't have to repeat all this code and better yet
+all that code the important bits are abstracted out the away so that as new
+engineers come on board they don't have
+to worry that they're [&nbsp;__&nbsp;] up your code what so when when when
+when folks talk about using object oriented programming
+they they go off this deep end of looking up all these really weird
+oddly phrased stuff that never makes sense but i'm hoping that you start to
+
+02:39
+see that oh encapsulation means that we can keep
+our data and functionality in one place we don't have to worry about
+is a variable declared a hundred lines down
+with abstraction we can make it so that folks can use the things that we've
+coded but not [&nbsp;__&nbsp;] them up right they
+they can't they literally can't rename stuff they literally can't give a new
+breed to something they can only consume it so that way when they're building
+and they decide to go build something else on the farm they're not losing
+sleep at night going oh man did i mess up leon's code about the naming and the
+breed stuff no they can just build what they want to
+build and not worry about the stuff that we've abstracted away
+and then we see the power of inheritance right
+we see the power of inheritance to where we can
+
+02:40
+set something on a parent class and all of our children have access to it
+that's really powerful like [&nbsp;__&nbsp;] weird
+definitions like that's some powerful meaty stuff that we can start to use and
+like we said we're gonna use it first we're seeing it here we're using it here
+we're just skimming the top of understanding you're gonna come back on
+thursday and we're going to review all this stuff right
+we're going to review all that stuff but we can start to understand why
+all right so i just get really excited i don't know i like when i like when this
+stuff starts to click i get i get hype all right
+we got a little bit more before we end up class tonight we'll do a raid of
+course i just want to see a little bit more
+[&nbsp;__&nbsp;] give me give me i know your brains
+are on the cusp dig deep give me just a little bit more
+let me just let me let me go we got 15 minutes give me give me 15 minutes i
+
+02:41
+know your brain hurts give me 15 minutes let's let's push go where
+go where you think you couldn't go before right we've been working hard i know
+i've been i know our brains are i know we're we're halfway through our brains
+are are are our our our lean mean learning machines at this point
+all right let's learn one more thing and then we'll end tonight
+all right so we're on the farm and we want to do a morning roll call right
+and fortunately dr doolittle works on this farm dr doolittle could talk to
+animals if you're not familiar all right so we're gonna do a morning roll call
+uh we want to hear all the animals speak right
+you want to hear all the animals speak and so if we look at the code that we
+had in the complete file we saw this bit
+
+02:42
+right here we saw that we created all of our we created dogs we created cats
+and then here we put all of our objects into a what
+put all of our objects into a what into an array and then
+we looped through all of those objects and we would see simba barks moshi barks
+and salem meows bark barks meows wait a minute hold on
+
+02:43
+wait a minute wait a minute mark sparks meows how does this work they're objects
+each object is different a should be holding two dogs and one cat
+yet speak works on both dogs and cats what
+so hold on hold on hold on hold on hold on hold on hold on hold on
+we look at it we have two dogs and a cat they're all in this array
+we loop through the array a would be simba then it's going to be mashi then it's
+going to be salem and we're calling speak on simba then we're calling speak on
+mashi and we're calling speak on salem simba barks moshi barks and salem meows
+
+02:44
+speak doesn't care if it's a dog or a cat it just worked
+let's read some definitions so if you just read the books
+or god forbid just watch the youtube video because i can't tell you how many
+books i read how many youtube videos i watched how much documentation i read
+about this next concept it never made any sense to me because here here's
+exactly why it never made sense these are copy and pasted from some some very
+official sources that that i love dearly um but hold on stay with me
+code written to use an interface automatically knows how to work with any
+
+02:45
+number of different objects that provide that interface
+yeah it's too late you're using big words i'm going to treat them as disrespect
+all right let's read this a call let's read this again one second
+all right come on let's get i got to get a little closer
+code written to use an interface automatically knows how to work
+with any number of different objects that provide the interface
+all right hold on one more time what the heck's an interface
+somebody tell me what an interface is what's an interface
+
+02:46
+oh yeah we did this with apis it's just what we use to interact with something
+right like if we were using our lovely pokemon pikachu
+uh pet here my interface would be the buttons i wanted to interact with my
+pikachu here's the buttons to interact with my pikachu so when i say interface
+it's just a fancy word for saying how i interact with something
+knows how to work with any number of different objects
+that provide the interface do my objects provide an interface
+what's the interface for my objects yeah it's the properties and methods the
+properties and methods are like how i interact with the object right let's
+
+02:47
+just stick with methods the methods are how i interact with my object
+right so let's let's so interface is the way we interact with something
+the way i can interact with my objects are through its interface and when i say
+interface i just mean like the methods like the methods are the way
+that i interface with my objects all right so code written to use an interface
+automatically knows how to work with any
+number of different objects that provide the interface
+so let's go back and take a look here is my interface of speak
+does every single object that gets used here have a speak interface yeah
+my dog has speak my second dog has speak and my cat of salem
+
+02:48
+also has speak all right so so let's let's read that again code written to
+use an interface automatically knows how to work with any
+number of different objects that provide
+the interface so all three of my objects simba mashi and salem they all provided
+the interface of what what was the interface that simba moshi and salem provided
+speak speak was the interface they provided so the code written
+to use an interface this code was written to use the interface of speak
+the code written to use an interface automatically knows
+how to work with any number of different objects simba mashi and
+salem that provide the interface so my code automatically knows what to do
+
+02:49
+because every single object provided that speak interface right
+simba did mashi did and salem did cool this like literally when you read about
+the thing we're building up to these are like these are the three
+paragraphs that they use to describe this nonsense all right sibling descendants
+of a base class will all have the same interface but varying implementations
+is this the [&nbsp;__&nbsp;] huh do that again sibling descendants
+
+02:50
+of a base class will all have the same interface but varying implementations
+mom came to pick me up i'm scared the [&nbsp;__&nbsp;]
+i swear to i swear i swear this is ex like when i was trying to learn
+what the heck i'll just say it polymorphism is these
+are these are like the real things they
+ask you this is like this is the [&nbsp;__&nbsp;] this is like this is the good
+definitions this is like the good stuff all right hold on
+sibling descendants of a base class where have we seen sibling descendants
+of a base class dog and cat exactly all right dog and cat are both children
+
+02:51
+are both children of our animal class right they both extend animal so that
+means dog and cat are sibling descendants don't go see it we're in
+javascript world see a good guess at the css but we're in javascript land right
+now all right so sibling descendants dog and cat
+of a base class in this case animal will all have the same interface
+but varying implementations what interface did my sibling descendant share
+what interface did my sibling descendants share speak
+they both shared the speak interface but varying implementations okay [Music]
+dog and cat had varying implementations because dog did what and cat did what
+yeah dog barked and cat meowed right dog bark cat me meowth so sibling
+
+02:52
+descendants aka cat and dog greatest television show of all time cat dog by
+the way of a base class animal all had the same interface which was the
+speak method but varying implementations because if we look if we go back to the
+code i should probably just stay over here and bring up my code
+because if we look one barks the other meows very varying implementations
+if i was to create a new animal let's say i was able to let's say i was able
+to create an uh a class of cow that extended animal
+and i forgot to give them a console log would cal still have a speak method
+
+02:53
+yes even if i forgot this whole thing the object would check itself for speak
+and if it didn't have it where would it go if if the cow we just created
+didn't have speak where would it go it would go up to the parent which is animal
+[&nbsp;__&nbsp;] yes they're doing it leon they're learning
+they're getting this [&nbsp;__&nbsp;] yes [Music] [Applause]
+one way or another you're gonna learn first try first try let's go
+this is the hardest [&nbsp;__&nbsp;] [&nbsp;__&nbsp;] to
+learn and you're like yeah leon they they didn't if the object itself didn't
+have speak it would go up to the parent class which is animal because this is
+
+02:54
+just syntactical sugar underneath the hood is prototypal inheritance we know
+objects check themselves before they wreck themselves and they don't have it
+they go up the [&nbsp;__&nbsp;] prototype chain let's go
+we don't get got let's go let's go we outside we online let's go all right
+one more one more we're almost there we're almost there almost there all right
+when you're not sure of the objects type at run time
+the let's just let's get rid of and here when you're not sure of the object's
+type at runtime the most specific method is called
+
+02:55
+therefore the behavior of the method called may differ
+depending on the object's type at runtime hold on
+when you're not sure the object's type what type of objects have we seen so far
+we saw cat and dog right we saw cat and dog all right so we call we saw cat dog
+and animal so we're not sure if it's cat dog or
+animal at run time like run time just means like when we're like trying to use
+it so if we're not sure if it's a cat dog or animal when we're trying to use it
+
+02:56
+this most specific method is called wait a minute that's just what we just
+talked about we just talked about that right it checks itself
+right it checks itself before it goes out the prototype chain this is easy
+easy clap let's go easy why they have to talk like this who writes this
+i'm writing a book [&nbsp;__&nbsp;] it i'm writing a
+book this [&nbsp;__&nbsp;] is this is getting on my nerves
+when you're not sure if it's a dog car animal when you go to use it the most
+specific method is called aka it's just going to check itself first
+therefore the behavior of the method
+called may differ no [&nbsp;__&nbsp;] because if it's a dog or a cat
+and they both have different speak methods then it makes sense that their
+behavior whether they meow or bark would
+
+02:57
+be different depending on whether or not it's a cat or dog when you go to use it
+easy why'd you gotta write like this easy cool why is this code disgusting
+this is bad code too many conditionals right like hold on hold on a minute
+in this case we're checking to see if it's a dog and if it's a dog if our
+object is a dog then we'll let it bark if our object was a cat we would let it
+
+02:58
+meow right but if we were to build out a whole farm we're talking hundreds of
+animals each time i added a new animal what would i have to update
+i would have to update this disgusting conditional every single time but we know
+we know that we don't have to do this we just saw that we don't have to do this
+disgusting conditional every single time imagine each animal we
+we added we would have to remember to come back and update this bit of code
+that means our code is not truly what if we would have to come back and and
+remember to update this every single time we made a change we know that our
+code is not truly what not not dry not dry it's not abstracted
+
+02:59
+if i can't make changes in one part of my code and not worry about what happens
+somewhere else then my code can never be truly abstracted so i can't have this
+this can't be a thing right this can't be a thing if i was
+like making new animals if i was making cows and chickens
+and i had to also remember to come back to this point in code and fix it this
+wouldn't work it would never be able i would never be able to have truly
+abstracted code where i could just focus on the thing that i was running so
+this works do i have to update anything here
+do i have to update anything here like if i added a cow a chicken if i added a
+hippopotamus do i have to come back and update this nah so
+
+03:00
+what if there is a way to perform a single action in different forms
+what if there was a way to have the ability to call the same method on
+different objects what if i could call speak
+on dog what if i could call speak on cat
+what if i could call speak on chicken on hippo on cow on pig and not
+have to write conditionals and switch cases and remember to come
+and update them to never have a world without true abstraction well guess what
+
+03:01
+baby we don't live in that world we live in a world where we have now [Music]
+polymorphism baby polymorphism all right let's let's uh let's let's
+touch on the four pillars real quick to see if they actually make any sense
+all right encapsulation the process of storing our functions
+and properties into one thing the idea of fusing
+
+03:02
+our data and functionality into one object why why do we care
+about encapsulation what is the reason what doesn't cat what is fusing
+the data and functionality into one thing help us do
+well it makes it easier for us to add new stuff
+our variables aren't all over the place our functions aren't all over the place
+right we don't have to worry about some stuff being a thousand lines down in the
+the code base we know that all the stuff we care about is in one location so it
+makes it way easier to add new stuff when our data and functionality are
+encapsulated it makes it easier to read through what
+was already coded we know everything we care about is inside that one object we
+make it so that you're not afraid to make changes you know the functionality
+and the data are tied so if you change the data you know your functionality is
+going to change if you add new functionality you know what data it's
+
+03:03
+working with encapsulating it all into one object
+means that even if something else is happening outside of that object it's okay
+because your stuff is also abstracted starting to see how all these things
+come together right all these things come together
+they're four pillars but they really work in tandem with each other
+right abstraction is hiding the details only showing what is essential
+but why why do we need abstraction extraction makes our code base
+into smaller more manageable pieces of code right we can split the complexity
+of our project into many different manageable parts and when we're working
+on these different parts we don't have to worry about what's happening
+elsewhere in our program this encapsulation and abstraction work
+together so that we can make changes and not lose sleep at night we can update
+stuff we can work on different parts of the project and know that we're not
+[&nbsp;__&nbsp;] somebody else's upwork we're not
+
+03:04
+changing their names we're not changing their breeds we are able to make new
+cows and not worry about if there's some
+messy conditional somewhere that's going to break when we add a cow
+right we have this inheritance we have the ability for a class to
+share sets of properties and methods that we can extend from a parent get all
+those properties and methods in the child and use them to keep our code wide
+to keep our code dry to get rid of redundant code to make it so that as we
+create new objects we're not constantly reinventing the wheel
+right it makes it so that we keep our code bases smaller tighter and since all
+of our data and functionality is encapsulated when we build these classes
+we know all the bits that are working together
+we can extend them if we need to grab stuff from the from the parent right
+
+03:05
+and polymorphism works with all these things together so that the code that we
+write right uses an interface that can work with any
+of the objects that we created so the interfaces that we give the methods that
+we put on our objects they should be able to work that code that we write
+should be able to work with any of the objects that we created in our program
+and why do we need polymorphism it helps us avoid these nasty ifs elses and
+switch statements that we would have to be keeping track of right if we were to
+add a new cow is that going to break something somewhere else no we know that
+the speak method would work on any object that we create and so we have
+this idea of polymorphism polymorphism bleeds into inheritance that bleeds into
+abstraction it bleeds into encapsulation
+all these things come together to create a paradigm where we can write code more
+efficiently work together as engineers make sure
+
+03:06
+that when we are working together we don't have to lose sleep at night we can
+all do our own thing we can all work collaboratively together and we have a
+system that we can all agree to and follow cool oop baby cool
+also polymorphism makes your code more reusable we don't worry about stuff
+breaking and it supports the other pillars all right
+got some homework folks i hope i hope you had some fun i i know like we said
+remember we're gonna use it we're skimming the understanding you're gonna
+come back thursday we're gonna have a lot of really fun stuff like thursday
+got so much big news to share we got so much fun stuff to share we're gonna get
+our review in don't worry we're going to come see this again
+i have some homework before you i have some homework between now and next class
+please please before you show up on thursday review play
+break the code we went over tonight play with everything see what happens if you
+
+03:07
+don't use super see what happens if you if you don't just use underscore name
+like play with it you have to break it remember we said we use we understand we
+build you have to come back and play and build with this stuff
+all right folks let's do a raid let's get you those channel points remember
+you want those sweet sweet channel points so you can get all these cool
+perks that happen here on stream as always when we rate somebody please give
+them some love give them some follows oh mastermind is on we're gonna raid
+mastermind i'm so pumped uh mastermind's amazing if you have ever had any
+interested in devops um they're they are the man to make your
+your dreams come true let's go over and say what's up to mastermind um
+one of my favorite streamers on which please
+give them a follow show them some love give them the the warm 100 devs hello
+
+03:08
+alrighty hope you had some fun hope you learned a little bit come back
+on thursday some amazing news to share some amazing updates some really cool
+stuff about the agency and then also we're going to get some good good review
+in alrighty folks have a wonderful rest of your evening let's raid peace youtube

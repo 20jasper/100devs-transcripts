@@ -1,0 +1,2177 @@
+
+00:00
+oh today's the day folks let's go we online hey oh we'll let it go
+we'll let it go tonight a a oh [Music] good morning good afternoon good evening
+no matter where you're coming from hope you are doing well
+welcome folks welcome welcome welcome welcome
+hope you're doing well today's a good day you know what today is a good good day
+
+00:01
+i'm super excited you know what like that song comes on i don't know
+something takes over there's a there's a leon before stream
+and then there's a leon on stream and it's that song i don't know it gets me
+going what's going on everybody uh somebody you're in here early too
+what's up what's up hey come on in everybody alrighty it's provocative exactly
+well everybody say what's the news what's the news we you know we we always
+we have a pattern folks we got we got to
+build up to the news we we online we got to build up to it so as always
+uh tonight is a special night we got the biggest news ever folks it's coming
+we got the biggest news ever uh we're getting into objects which are for me
+objects where it starts to get fun uh once we learn a little bit of objects
+tonight next week is fire we get we actually get to build with like apis and
+
+00:02
+and it becomes real i don't know i like one of the biggest things i think for
+students early on is this idea that like yes we're accumulating like all these
+legos right we have variables we have functions we have loops we have
+conditionals we have arrays but like how do we like put those legos together to
+build stuff and until you start building it's it's really hard to to see the
+results of your effort and so once we add this last lego block your your
+mind's gonna be blown like the things you'll be able to start building are out
+of this world so super pumped for the best news ever
+super pumped for us to add that last lego brick which is objects and
+we got lots of review tonight as well so we're gonna be reviewing some of our
+array stuff uh practicing with some of those methods that we haven't really had
+a chance to play with yet then we're jumping into objects that better
+
+00:03
+understand what the heck those methods are and we got the best news ever cool
+you know we always like to start off with some questions
+if you got questions i possibly got answers
+tonight's question of the day if you uh well today's question of the day
+is would you rather be an expert in bird watching
+or insect identification so say bird or insect in chat for me please bird or
+insect first question what's the news oh i thought insects would blow out i'm
+into birds i'll say it loud i'm into birds
+i spent a good portion of today watching some crows i'm into birds it's a thing
+but i like my bugs too i like my bugs too bird up
+wow bird really i'm well versed in bird law i'm not a lawyer but i i know a
+little bit uh enough so that you're gonna need a warrant to legally search my
+
+00:04
+words i guess if it's bird law right birds all right i think birds blew this one
+out there's a there's a few insect folks holding out but i think i think uh
+i think birds blew this one out the water all right thank you i tell you i love
+seeing these answers these are like this is how i get to know you all
+insects is important to know your enemy alrighty other questions questions this
+evening rossi said are you announcing the group
+project winners we'll get to that we'll get to that we'll get to that i got you
+i watched the video on how to make friends with crows and so i'm trying it
+i'm trying to make friends with my my local crew my local crows there's a
+there there is a there is like a like a pair like a bonded pair that i see every
+every day so i'm gonna make friends with
+them and i think there's like a juvenile crew that's like a block over trying to
+
+00:05
+make friends with them too i want them looking out for me you know
+i want i want my birds you know flying around making sure i'm good
+all right you got questions i got answers
+what's the meaning of life the universe and everything 42
+what do you think of the ending of the most recent bachelor i don't want to
+spoil i also may not have finished yet get some my water in
+what should we do if we haven't found a freelance client yet and i don't know if
+we will before the due date don't fear on thursday we're going to talk through
+some alternatives to getting a client so for a lot of folks getting a client's
+not actually like a possibility uh either you have visa issues you're in an
+
+00:06
+area that prohibits it from actually happening you're in a space where you
+just can't do it so on thursday we're going to talk through some other things
+that you can do that will get you similar benefits to the client so if
+you're really stressing over the client thursday i got you
+superman no home hey thank you for the gift of subs thank you for being here
+yeah so know that we do have that that date coming very soon i want you to
+push yourself this this whole process is
+about pushing you pushing yourself right um i i want you to always take yourself
+a little bit further than you think you can go that's the goal it's a boot camp
+right a boot camp is meant to push you you're not supposed to feel super
+comfortable the whole way through that would be like a udemy course i don't know
+you're meant to push yourself right you're meant to to feel at some times
+that things aren't going your way sometimes you're supposed to feel the
+
+00:07
+muck that is the trough of sorrow sometimes you're you're you're supposed
+to be in that reading doing one of these all right
+what i just read that four times i just read that four times what
+what those aren't words those can't be words all right
+you're you're you're focused you're supposed to feel that right that's a
+part of a boot camp because through that struggle through carrying those boats
+through carrying those logs you start to grow a little bit of a thicker skin
+the things that used to be really troublesome start to feel a little bit easier
+and you're going to have days where you're winning and you're going to have
+days where it doesn't feel the same but through the process
+you you you pick up some skills you pick up techniques that you didn't have
+before and then when you're on the job and you have to learn something
+
+00:08
+no sweat right no sweat that's the whole point the whole
+point is to build yourself up enough so that when you're in the job and they're
+throwing new materials at you news new languages new things at you you're like
+i've been there done that this is this ain't no thing i read eloquent
+javascript you know what i read eloquent javascript this ain't no sweat i went
+through that book if i can make it through that book you ain't got nothing
+to throw at me right so it's a boot camp some days are gonna
+feel tough that's okay that is okay that's a good thing embrace the suck
+open up that closet get in there fight your demons right and then ask for help
+all right this it's a boot camp we're here to carry
+some boats and logs but you got to ask for help too and you got to realize that
+not everything is going to be your thing right there are gonna be some some
+examples that just don't click that's okay
+
+00:09
+you you have a bunch of other resources i never just give you one thing
+right i never just give you one thing right there's always other things to
+help boost you up we come to class we fill it out so it's okay
+and one thing we have to remember as we're going through this process
+yes it's a bootcamp yes we're here to push ourselves yes we're here to get in
+the muck and ask a metric crap ton of questions
+but we always have to keep in mind health first okay
+this is something that i i asked the last cohort to really embody i asked
+them for it to be to be a a thing that they brought up
+constantly with each other and i don't ever want this to be like a mocking
+thing i really want this to be something that a hundred devs embodies
+right the idea that health comes first we're 21 classes in
+
+00:10
+jeff and hey thank you for the 10 gifted subs congrats on the new gig too
+cool these jobs folks these jobs jeff and a thank you for the for the 10
+gift itself hope you're doing well we're 21 classes in it's starting to get real
+it's starting to get real we got reading we got doing
+we got cold wars we got networking we got class to show up to we got office
+hours to come to it it's really starting to build and uh oh yeah 21 21 21.
+what we have to realize is that our health has to come first right
+we've been doing this for a while right we're doing this for a while
+we got to start taking care of ourselves better we have to make sure that we're
+doing our stretches you're taking care of your hands you're taking care of your
+eyes you're taking care of your shoulders right you're
+you're realizing that we're still got a long way to go
+and that fatigue is going to start setting in and that fatigue is what's
+
+00:11
+going to stop you from getting to the end it may not be your will it may not
+be the actual learning but the fatigue the tiredness that starts to set in and
+the only way to get through that is to put your health first it's okay
+to take a day and not come to class it's okay
+the the vods are always here they always make it up to youtube right
+make sure if you need a day to sleep to eat to hydrate
+to let that fatigue wear off that's okay this is a marathon not a sprint
+please as we get deeper into it take care of your hands take care of
+your body stretch hydrate do the things that we say when we take the breaks
+during class time actually take the breaks and if you ever need a day a week
+you can take it we have the catch-up crew you can always catch up and join us
+
+00:12
+live there's no reason in burning yourself out and you know what it's okay
+if there's ever an assignment i give you and you're like leon this is too much
+for me in the moment put it to the side that's okay
+if if eloquent javascript took you to the brink and you're like it's just not
+worth it i want to be able to continue put it to the side
+it's not gospel right you can take the things that you need in the moment and
+pick up the breast as you need to go forward all right so always put your health
+first cool and and and bring this into the cohort
+right when people are stressing when people are are are at a in a place we
+know that they could probably be prioritizing the health bring it up
+don't ever do it in a mocking way but let's let this be something that we embody
+coding challenges some folks have been diving deep some
+
+00:13
+folks have been spinning out these coding challenges are uh
+taking the best of us so coding challenges i'm addicted yeah some
+people go in all of them they're fun i know if you don't if if you haven't seen
+the fun in them yet give yourself a little time they can be really fun they
+can be something that winds up being like it's like you're it's like it's
+like nerdy crossword puzzles right it even nerdier crossword puzzles they can
+be fun you got to get into them and you got to make them part of your daily
+practice and the very first couple times you do
+your coding challenges they can really suck if you've never done them before so
+we brought this up during office hours but please
+make sure you are doing level eight make sure you are doing the eight cues
+make sure you're doing the fundamentals track rockefeller a
+make sure you're doing the fundamentals track if you're not doing a cues and
+
+00:14
+you're not doing fundamentals you're off doing some wild stuff right
+right you're you're off doing you're you're off doing some wild stuff you
+need to be on eight queues you need to be on fundamentals and you're gonna be
+there for a while okay if you're trying to do anything else
+it's too much now the first time you do code wars
+you're almost never going to understand how it works or what to do you're going
+to look at the question you're going to go what
+if in that moment you have no idea how you're going to even approach the topic
+just look at the solution there you're there's no such thing as
+cheating there's no such thing as like like i i it's just it's just so weird
+
+00:15
+just look at the solution you're here to learn the reason we do code wars
+not is not because like we we just want to do something no it's because we're
+here to learn so if you're looking at a problem and
+you have no idea how you're gonna solve it it makes no sense to sit there for an
+hour banging your head against the keyboard when you could look at the
+solution and then spend more time on the
+analysis than you did on trying to solve and that's how you learn to become a
+lean mean interviewing machine when you see these problems and you have no idea
+how to even get started make just look at the solution then spend more time
+analyzing the solution typing it out re-typing it out re-typing it out doing
+it again looking at the question without the code pulled up make sure you can
+pass it right spend more time on the analysis and practice than you did on
+trying to solve it and eventually after you do a few right
+now after you do a few right after you do a few the
+
+00:16
+it gets easier you start to understand how things play out you start to see the
+same patterns and so the code wars is really about patterns and so until you
+have those patterns look at the solution please and then make sure you're doing
+ones where you can see the patterns over
+and over again so like once you start to come out of fundamentals only do array
+problems then only do object problems only do the things that you want to
+practice in that moment so you see those patterns over and over again okay
+but don't don't don't beat yourself up if the code wars don't click the first
+couple that you do look at the solution spend more time in analysis than you do
+on the solving and that's how you grow on sunday we talked about chess grand
+masters and i i think this is important to bring up again because i know people
+are in the thick of it right now people that are really good at chess
+like grandmasters at chess like the best
+competitive chess players they don't get better at chess by playing more chess
+
+00:17
+i think that's a weird thing for most folks like they don't get better at chess
+by playing more chess they get better at chess by analyzing
+their games or other games right they spend more time looking at all right
+here's what this person did then they did this and they did that then they did
+this and then they did that all right and i see this pattern that's that that
+can lead to that right you spend more time on the analyzing than you do
+on the actual playing it's the same thing for your code wars in the
+beginning spend more time analyzing even if you get the code wars right
+look at the other solutions what did they do how did they do it in less lines
+how did they do it more efficiently right the end the analysis is more
+important than the solving in the beginning so spend time looking at your
+solution other solutions and make sure you understand how they're doing and
+approaching things and that's how you really grow very quickly
+
+00:18
+at the stage that you're at right now the more you put into code wars
+the more you're going to get out of the next chunk of class because code wars
+forces you to put all the things that we're learning into practice it's really
+hard to see all these lego bricks and not know what to do with them code wars
+forces you to use them and so your code wars combined with projects that we'll
+do on that we'll do in class that's the cheat codes cool
+super pumped when i wrote a proper arrow function today on the js30 homework hey
+it's awesome two times beautiful 2 30 not for a while
+alrighty uh we're getting ready to have a live portfolio and resume review
+session if you would like to have one of your
+resumes and portfolios reviewed live fill out this form i'm going to pick a a
+big handful of folks i'll kind of give you a slight little roast but through
+
+00:19
+that roasting we can see all the things that we think
+portfolios and resumes should have and we'll do it in a constructive way and
+hopefully you walk away with a really good idea of how to structure your
+portfolio and resume for the next stage of program now folks
+we're turning things up we got through the big four we got
+through our variables our functions our conditionals our loops we added arrays
+we're going to get some practice to raise today but then we're adding
+objects once we add objects we're dangerous folks we're real
+dangerous we're real dangerous right we're real dangerous once we have
+objects we're going to start using apis we're going to start being able to get
+data from other places and manipulating that data showing it to our users
+building larger projects that are actually really freaking cool all right
+and then we move into the back end so we we got some we got some some objects to
+
+00:20
+do to start building some real meaty projects some projects that are going to
+be in your portfolio hopefully for the rest of your life
+we're turning it up a little bit turn it up you know how we do we always get a
+review in we always make sure that we we we we keep progressing at a good pace
+but our projects are going to get better the things that we're able to do are
+going to get better um and so even though we're in the trough of sorrow
+right even though we're in the muck it gets
+eventually if you're rolling around in the mud enough
+you start to have some fun with it right if you're rolling around in the
+muck you start to have some fun with you start to build some mud castles right
+right that's what we're gonna be we're gonna be in the muck we're gonna be in
+that trough of sorrow we're gonna have some fun with it we're gonna build some
+really cool stuff while we're in the middle of that muck and i i guarantee
+next week and the week after it just it just gets a lot more fun like the the
+practicality of what you can do and build and work with real data build real
+
+00:21
+projects that's that's when it becomes a lot of fun so you put in the work let's
+see that work come to fruition and start building some really cool stuff in the
+next couple of classes what about react we do back end first
+and then add react at the end so that way we can build full stack web
+applications and then see what react adds into that into that mix for us
+jonathan said eloquent js equals trough of sorrow code wars equals wiggles of
+false hope uh we're we're we're nowhere near the wiggles of falsehood but i like
+the analogy no alrighty kind of talked about this a bit
+but we all we have the legos now we have all these different lego pieces we got
+our variables our functions our loops our conditionals our arrays then we add
+
+00:22
+objects now we have the pieces we can start the build and so for folks that um
+feel like uh they have all these pieces but don't
+know what to do with them your code wars
+help and then the next couple of clashes up we're gonna build some cool stuff
+you're gonna see how these lego pieces come together so if you need a bigger
+picture it's coming trust me it's coming but we needed the
+legos we needed the legos before we could put it all together
+now we can build exactly alrighty folks the moment we've all waited for
+the big news now i put my warning up here i'll try to
+keep the warning uh in the future for whenever we use this like this code party
+section um but next next next slide is is gonna be loud
+because we got some big news so i'm gonna go over here to the big news and
+then we're gonna hit it so in the next few next 10 seconds or so
+
+00:23
+we're going to have some some confetti some loud sounds so late 2020
+i had an idea it was a pandemic and i wasn't a doctor i wasn't a nurse
+so i didn't know what i could do to help
+but i had an idea i said you know what i think i can
+i think i can help a few folks maybe become software engineers
+and so we did a very small cohort of folks and hundreds of people showed up
+i was really expecting 10 folks here with me on twitch and that that was it
+and then that first like five week course we were like holy crap
+we might be able to do this thing we might be able to teach a class live
+online we online folks maybe we could teach a class maybe we
+could teach it online and maybe we could we could build a community of folks
+
+00:24
+that uh that could go to distance that could learn how to code that could
+build some phenomenal projects that could get some phenomenal clients and
+could uh maybe get some jobs and so we did that first run
+and then in the second run we set well at least i set the biggest
+goal of my life one of the biggest goals of my life one of the things that i've
+ever like one of the biggest goals i've ever put out there publicly and said
+i want to do this thing right i want to do this thing nobody
+else has done this thing i want to do this thing
+right nobody is ever done a completely free coding bootcamp online put
+everything out there for free and in the public and i set a goal
+and the goal is the namesake of our bootcamp our agency
+
+00:25
+and the goal is a hundred devs and i'm here to say 100 learning how to code
+[Music] i'm gonna take it [Music] i'll save our ears but we did it we hit over
+
+00:26
+a hundred jobs over a hundred jobs we're not at a hundred we're over a hundred
+a hundred software engineering jobs and a whole smattering of other jobs that
+are in the related field as well but a hundred folks that came to a hundred devs
+and got the support they needed to learn to grow and to get a job as a software
+engineer we threw out into the world the idea
+that a hundred thousand a hundred jobs and we smashed through it
+we smashed through it we got our hundred we got more than a hundred
+we got folks going to some amazing companies amazing jobs we got folks
+going to uh the the the the companies around the block those are my favorite
+where they they can walk to work we got some folks going to really great
+startups we got some folks going to fang we got some folks that
+
+00:27
+never even thought about code but saw a freaking post on reddit
+and now they're making six figures we had some folks where their whole
+family came where the husband and wife came and they both learned together and
+now they're both employed we got folks that are in
+dozens of countries that have gotten jobs our first job was somebody from
+brazil our second was somebody from the uk and it kept going around the world
+a hundred jobs plus so we hit 100 but we're just getting started
+we're just getting started so the best news ever is that we hit our hundred but
+i think we got some big things coming our way
+
+00:28
+i think we got some amazing things to come our way i think we can do something
+a little bigger maybe a little better maybe a little bit bigger maybe a little
+bit better because let me let me let me throw some
+numbers at you let me throw some numbers at you before i get to my thank yous
+before i before i get there let me throw some numbers at you
+when we were doing the original 100 devs like legit cohort
+we had about 300 people that were watching the streams but really only 100
+people were turning in the homework so all the homework you can see
+is public this is something that's that's interesting like if you want to
+see like who was really participating in 100 devs uh you can actually see all of
+our all of our our homework assignments actually wind up being
+on github so you can literally see the people that were submitting their
+homework right so we had about 300 people on the stream
+
+00:29
+and we had about 100 people actually doing the homework and keeping up
+we got over 100 jobs right we got over 100 jobs so for me the
+folks that were keeping out doing the work i feel like we got a good a good a
+good clip of them a good clip of the folks that were doing
+the full work we got we got them right now we're seeing kind of similar things
+with this cohort we got about 3 000 people that come up to to class about a
+thousand plus they're doing every single bit of homework
+right so for me i feel like if we if we can keep the same numbers
+then we can keep the same numbers i think we might need to get a new goal
+i think some things might need to change but before we get to that before we get
+to that before we think about the things that might need to change i gotta i
+gotta say some thank yous i gotta say some thank yous
+
+00:30
+because it didn't happen we didn't hit this hundred
+we didn't hit this hundred by by accident this doesn't happen by accident
+this happens through a lot of hard freaking work and it's not myself
+it's not our fearless moderator crew it's not all these folks that help make
+100 devs run at the beginning it's y'all it's your work
+we can't make you show up we can't make you come to class
+do the homework do the cold wars do the networking get the clients that's y'all
+and so for the 100 folks that got jobs plus last cohort they showed up
+time and time again they put in the work they put in the hours
+they did the networking they did the portfolio building they
+
+00:31
+built their 100 hours projects they got their clients and at the end
+all that hard work came together where a hundred plus people got some amazing
+amazing jobs so the first people i need to thank are all of our alumni
+all the folks that put in that work to make a hundred devs what it is for me to
+be able to claim a hundred right i don't get to claim 100 unless you all
+do the work so the first people i got to thank are y'all for showing up put in
+the work and doing it because i can't claim that number unless you do the work
+so thank you i really really do from the bottom of my heart thank every single
+one of you that show up that give me a little bit of trust a little bit of time
+i'm gonna get you there if you're here if you're if you're part of this cohort
+i'm going to get you there give me a little bit of trust give me a little bit
+of time i've now literally gotten hundreds of people jobs through this
+
+00:32
+program hundreds of people's jobs through this program and we're just getting
+started now there are some other amazing folks that we have to thank and
+my thank you is gonna be a little odd here because we're gonna do something
+bigger right first and foremost i have to thank our
+moderators our fearless moderators that are always here in
+twitch chat on discord discord's the wild wild west y'all nobody's ever done
+this nobody's ever thrown 28 000 people into a discord and have it run with the
+level of success that we've had we went from like zero to 28 000 in less than a
+year and so that to me is is absolutely wild well sorry we went from like 2 000
+28 000 in less than a year so that if you've ever been on discord
+and it wasn't a a hot mess if it wasn't run amok with trolls and spam
+that's because of the moderator team and so i'm gonna thank each moderator
+
+00:33
+personally but tonight's that not that nice i have something bigger planned so
+each mod i'm gonna thank individually because they deserve it
+uh but that's not today that's gonna be it's gonna be it's gonna be and
+something that we're gonna talk about in a few seconds
+then i have to thank all of our mentors our helpers our folks that show up time
+and time again to help folks in the community that answer questions in our
+help channels to answer questions or support channels
+this doesn't work without y'all too and then the biggest folks again the
+alumni that are in those channels answering your questions giving up their
+time they already went through the boot camp they have a job
+and they come back on twitch on discord to continue to help the next group of
+folks make it through that to me is the whole point of this
+the whole point of this is not a hundred jobs
+it's for those folks to now bring three more with them
+
+00:34
+so a hundred quickly turns into 300 and then i think we have some bigger goals
+that we need to hit too and when i when we made that ask
+we made the ask to our alumni hey come back can you help with the study
+communities can you help with uh new events they answered the call every
+single time and so a huge shout out to the alumni that come
+back and give their time they made it to
+the promised land they're coming back to pull more folks with you so
+we thank you for being here we thank the alumni we thank the moderators we
+thanked all of our helpers on discord but i want to do a little bit something
+bigger i wanted i want to i want to do something a little bit bigger and
+last cohort we did something that was one of my favorite parts of the cohort
+and we're going to do it again i'm introducing
+the best week ever now last cohort we had the best week ever but this cohort
+
+00:35
+we're really about to have the best week ever so next week will be the best week
+ever we're gonna do some really amazing stuff
+we got some things that people have been asking for a long time
+we got merch dropping got agency opening up we got job board opening up we got
+merch we got a sponsored class by microsoft
+we got a lot of stuff folks that we got to get these wheels moving
+we got to get these wheels moving we we we got too many of us
+into into really great places we got to keep it moving so
+next week is going to be the best week ever
+we're going to have a chance to thank all the folks that have made this happen
+to reveal some really big stuff uh open it up way bigger than we've ever
+done it before have a sponsored class by microsoft next week we learn git and
+github and microsoft is sponsoring github is sponsoring we got swag we got
+
+00:36
+laptops we got amazing stuff so today was the best news ever uh to set a goal
+and to knock that goal out the park through the stratosphere to be way past
+100 jobs we're past 100 like like i don't know if you've been paying
+attention to that celebrations channel but uh
+it's been kind of blowing up recently like every day there's somebody new in
+there and so we're way past a hundred uh i could i i
+really honestly me and blah talk about this a little bit every once in a while
+i really thought it'd be me and 10 people max and i would help those 10
+people and that would be it so i can't in my wildest dreams ever
+imagine that we have uh 3 000 plus people here all trying to learn how to code
+maybe change their lives maybe get that job that they've always
+
+00:37
+wanted have that security for themselves and their loved ones to have a career
+that's high growth that they know is setting them up for life if you're here
+and you're ready to put in the work i got you
+it's no longer a hundred we're going for something bigger and so at this moment
+we're setting up the best week ever and on the first day of the best week
+ever i think we got some big changes to make i think we i think we need a new
+goal and so come back next week for the best week ever
+because we got some bigger goals to hit we got some bigger things we gotta do we
+got two bet we got too good of a community
+we got too good of a community to stop at a hundred
+this is the best place to learn how to code live online we online folks we're
+learning how to code and if you're here i know that you can do it too i know
+
+00:38
+that you can join these hundreds you have the ability you have the aptitude
+you have the will you have now the way that a hundred other people have
+followed you can do this too give yourself a little bit of grace give
+yourself a little bit of trust give me a little bit of trust in return i think i
+earned a little bit of trust i think after you get 100 people through that
+through that gate yeah i think i got a little bit of trust so give me a little
+bit of trust and we'll get you there too alrighty folks thank you for
+enabling me to hit a goal that i set that i really wanted to accomplish
+this really is one of the best things that i've ever been able to accomplish
+in my life it's something that i am super proud of and it's just
+getting started next week best week ever alrighty
+let's get into our review i i know i feel like we're on top of the world and
+i'm just like all right javascript now that was like javascript uh we had a
+lot of folks that did some stuff but i was in i was in ranty mode
+
+00:39
+um also make sure i go through these uh we had some sound alerts we had a
+hydration lip dab thank you for the hydration cheers to you
+and a lot of sound alerts dab was in here ay all right folks thank you so much
+oh yeah hey thank you for the five kids and subs appreciate you thanks for being
+here oh people are saying what about the funnest portfolios the funnest projects
+well since we're revealing the merch next
+week we'll reveal who wins because they get that merch so we'll
+we'll wrap that into the best week ever uh so that folks that know who they're
+winning who won actually know what they're getting yeah cool
+
+00:40
+all right let's get into our review let's get into our practice here
+programming remember i feel so feel so wild to just jump right into this
+a computer will do what you tell it to do
+all right computer will do what we tell it to do what is the program
+i'm sorry i'm still a big lead computer will do what we tell it to do
+there's a program while program is a set of instructions that we write to tell
+the computer what to do what is programming programming is the task of
+writing those instructions in a language that the computer can understand we use
+javascript to write those instructions because it's a little bit more human
+readable it's something that we can understand and share that can then be
+broken down into something that the computer can understand
+javascript has a specific syntax that we've been learning
+all these little extra bits and bobs that make up the spelling and grammar
+rules of the language parentheses there curly braces there
+javascript has a specific syntax that we have to learn and pick up
+
+00:41
+we learned about the big four right i'm too hyped to focus i feel
+the same way i'm like uh we learned about the big four we
+learned about variables variables our way of storing a value to be used later
+on we literally store it into the memory of the computer so we can use those
+values later on we can declare a variable and assign it at the same time
+that's what we're seeing here a declaration and an assignment
+we also learned about conditionals where conditionals are where we check to
+see if something is true and if it's if it is true we do it's in those curly
+braces and then we stop that's it but if it's not true we move on to our else if
+the check if that's true if it is we do is inside those curly braces and then we
+stop but if the if is not true and any of our else because we can have multiple
+or not true our else can auto magically run
+and if that else auto magically runs it doesn't check anything
+
+00:42
+it just does what's inside the curly braces we talked about danger of assignment
+versus comparison this idea that when we're inside of our conditionals if we
+just do one equal sign that's assigning a variable it's not comparing anything
+we'll run into some issues all right we learned about multiple conditions
+where we can have this double ampersand where both of these conditions must be
+true and today is the day where i feel it the most folks today's the day where
+i feel it the most where my name is leon and in this moment
+my status truly is ballin that's all i'm gonna say hey
+you get a wink there you go can't say [&nbsp;__&nbsp;] to me today that's all i
+gotta say we also have ore right we also have ore
+where as long as it is saturday or sunday just one of these conditions is true
+
+00:43
+uh then we can say it's the weekend we learned about functions chat what are
+functions what do they enable us to do what do they enable us to do
+yeah they're just sets of instructions there are building blocks it's how we
+build up our programs it's just sets of instructions
+and they're reusable uh the cool thing is that we're starting to see these
+functions kind of seep in everywhere at first we just had regular function
+declarations right where we had a function and then a regular call but now we're
+also seeing like anonymous functions where they're kind of thrown in where
+functions are taking in functions right we have this idea of like higher order
+functions and these other things that are coming in we're passing in arrow
+functions so they become a really essential piece of how we write our
+javascript and it's really important that we understand how to use them so
+we're going to see a lot of functions today again we're going to see a lot of
+
+00:44
+functions being used with our methods when it comes to arrays and objects but
+they really are the fundamental building blocks of our program they're meant to
+be reusable so that we can repeat actions without having to retype the
+code over and over again so here we have a function call
+we're passing in hello as an argument it falls into our parameter of word
+wherever we see word it's actually hello you could think of functions with
+parameters as mad libs exactly dab that's a really good analogy
+you're just filling in the blanks beautiful
+loops what are loops dab when are you streaming again come on we need you back
+we need you now more than ever i'll wait can we get a stream dab
+
+00:45
+you just got you just got your new computer so soon hell yeah let's go
+uh dad's part of our stream team uh these hundred i didn't think the stream
+team the stream team willed folks across
+that finish line there are folks on this list
+uh of the hundred that are only there because of what dab did
+uh what what what occ did and and creating a space where they can
+continue to learn where they could ask questions so there are folks on this list
+that pulled up pulled individuals through whether through code or support
+they're on that list because of them so big shout out to our stream team
+dab we need you back occ we need you back too i see you in chat let's go
+like i said i i wanted to put out the general thank you but next week best
+week ever i'm i'm putting it every i'm calling you out your name's gonna be in
+the slides if you don't if you don't want me to put
+your business out there let me know because we got too many big folks to to
+
+00:46
+thank dave hey thank you for the good this subs thank you for being here thank
+you for all you do all right loops what are loops we already saw some
+folks in chat we have the ability to repeat an action multiple times right we
+have the ability to repeat an action multiple times we saw a couple loops so
+far we saw four while and we got to a raise we saw a couple other
+big loops as well we saw things like for each map we're going to see some other
+ones today too that enable us to loop through content and do some stuff with it
+we have our traditional for loop where we set up our increment we say how far
+until the loop stops we go up by one each iteration and so in this case we'd
+be just printing our numbers to the console until we hit our end condition
+beautiful we also have a while loop which is
+another similar loop where we start off our count
+
+00:47
+and then inside of our count we go up by one each time so a little bit different
+where we don't have in our for loop all the stuff set up right away we have uh
+the increment that we're keeping track of we're incrementing it inside of the
+loop and we still have our condition that's being checked each time cool
+i don't get the difference between i equals zero and i equals one when do we
+use one versus the other all that is is when you want to
+all that is is when you want to start right
+all it is is when you want to where you want to start do you want to start
+counting at zero or you want to start counting at one the reason why you will
+see a lot of folks start off with zero especially if you're working with a
+raise right if you're if you're gonna loop through values in an array
+it's always probably a really good idea to start with zero because the index of
+that array starts at zero right so if you started at one you would
+
+00:48
+always skip the first value in the array
+cool so in that case if you're if you're looping through things in an array you
+have to start at zero or else you're gonna be missing things if you're just
+trying to use the increment as a counter you don't need to count zero you can
+just start at one so like if you're trying to say like one two three four
+you could start at one but if you're working with a raise you're probably
+going to start at zero and a lot of engineers kind of just start with zero
+out of habit even if they were just going to count they would still start
+with zero alrighty today we have all of our review code is power
+ranger themed uh we're gonna get some morphin time going on uh for those that
+don't know the best tv shows ever made are the bachelor followed up by the
+power rangers we of course have today highlight it for us the mike morphin
+power rangers and we'll move into the alien rangers then we'll hit some zeo
+
+00:49
+maybe a little bit of turbo you know if we're feeling really really good
+we'll maybe do a little bit of space a little bit of lost galaxy a little bit
+of light speed you know but we'll slow down though we'll slow
+down once we get the time for space force you know all that fun stuff
+but uh for tonight we're going to start with our mighty morphin review
+let's go ahead and open that up oh no did i not have it open already one second
+there we go i'm gonna open it up we have the mighty morphin review
+let's go ahead and open up this mighty morphin review
+we have the javascript file there's review for variables functions
+
+00:50
+conditionals and loops we're going to put where are we at time-wise
+let's put seven minutes on the clock here seven minutes on the clock see how far
+you can get in these seven minutes and then we will stop we'll take our
+break and then we'll come back from the break to review so seven minutes on the
+clock you got this dig deep and then we'll review uh after our break
+so some minutes dig in you got this mighty morphin review
+blossom we're about to see some flexosauruses yeah they can't help themselves
+not the jurassic but they they they gotta go hard update your vs code
+no i haven't read the release yet the release nets yet
+
+00:51
+i haven't read the release notes yet i don't update definitely not midstream
+let's just just click that little xy poo there live dangerously
+where can i find the stream team folks yes we have a special channel so whenever
+um folks go live on the stream team you can see their notification and go live
+uh there's a stream team channel on discord make sure you turn that
+notification on as we have folks streaming on the stream
+team again we have a lot of new folks that are kind of in the process of
+joining the stream team um we have two that are ready to go and so as part of
+the best week ever we'll we'll have their their joining of the team will
+
+00:52
+make it a big deal can we have another tourist space with
+folks that got jobs yeah our goal starting next week with the best week
+ever is to do a space every week so we're going to be mainly doing
+discord spaces because it's a little bit it's a little bit better and it's just
+us we don't worry about um the riff raft
+coming in oh yeah so we'll be doing some twitter spaces but a lot of discord
+spaces as well and we're going to try and do that once a week
+i don't understand what the stream team is it's just a group of folks that
+
+00:53
+stream learning to code or coding that are part of the 100 devs family
+what's the drink i got some vanilla chai tea and some ice water
+seltzer tonight that's the move i like seltzer but it makes me um
+do some sounds i don't think you all need to hear yeah
+i like that too blah said no code weenies no gatekeepers nobody trying to
+
+00:54
+sell you anything exactly ain't trying to beyblade it up on stream
+lee no definitely start um it you gotta you gotta do it for a while and then
+once you've been doing it for a while we look at your vods and
+make the call to add you or not there that's awesome here thank you for
+joining us can i buy a sub with my leon dollars you
+can get all the stuff like you can um you can get all the emotes and stuff by
+using your channel points uh jm the stream team is on twitch
+what that that's amazing you got promoted to mid level right now
+you're working on first solo large site-wide feature that's amazing
+
+00:55
+congrats that's huge well deserved do you get more channel points if you
+sub unfortunately yeah unfortunately when you sub that like increases the
+rate um yeah i mean it's a perk but i don't want
+folks to ever feel like they have to sub jw 330 hey thank you for the hydration
+
+00:56
+cheers to you uh candacer is there some study to make
+the commands work no sometimes just multiple people have used the commands
+and so it's not like it tries to stop people from spamming them basically
+uh j john this is stream beats by harris heller
+kabaddi all of our subs and donations and stuff like that go to uh resilient
+coders which is the nonprofit i work at during the day
+
+00:57
+which we'll probably announce in best week ever because we need to make our
+next like big big payment can you promo megazord with javascript that'd be a fun
+fun project alrighty folks come on back come on back alrighty so
+let's take a look at the first one together and then we'll take our break
+we'll take our first one together and then we'll and then we'll take a look at
+the break we'll take a look at the first one
+together and then we'll take our break the clear variable reassign it to your
+
+00:58
+favorite holiday make sure it's in all caps and print the value to the console
+if you want all the cap what do we have to do
+you want it in all caps what could we what can we do to make it all cap
+ah two uppercase two uppercase so let's go ahead and
+create a favorite holiday uh so let favorite holiday
+equal and we're going to say halloween beautiful
+and then i want to reassign it to be in awe cap so i'm going to say
+fave holiday equals fave and i could have done this all in one line i'm just
+gonna do it for readability to uppercase beautiful to uppercase and then print
+the value to the console so console.log and we'll print favorite holiday let's
+save this let's make sure that it is working open in default browser
+oh look at that that's good well i got this is tradition
+
+00:59
+i have to do all the poses and then we'll see if it worked
+all right let's go ahead and do it all right i'll put the microphone over here
+all right we'll do black first yellow i'm gonna go ahead and do green next red
+and do pink before before before there was charlene
+there was the pink ranger and then blue there we go nice now we can see if it
+worked all right first try halloween is uh is all capitalized all right
+all capitalized and it looks like it's working and so
+what we can do now is we can rest assured that we can take our break so
+five minutes on the clock if you're new around here we like to be healthy we
+liked at the top of every hour so make sure we're letting our fingers and our
+
+01:00
+eyes get a little bit of a break so if you're able please get up move around
+hydrate and then be back in five minutes we're gonna go through the rest of this
+together and we're gonna move on we got a lot of fun stuff to get to tonight
+really excited to get through a little bit more review and then get into our
+objects uh once we get the objects the things things start to everything starts
+to kind of click a little bit start to learn some of the mysteries that is
+javascript so if you're interested in learning the mysteries of what is
+
+01:01
+
+01:02
+
+01:03
+
+01:04
+javascript i'll see you in five minutes so you um [Music]
+
+01:05
+i think i forgot to run ads whoopsie [Music] yeah i think they ran
+uh die we always open up the links to submit the clips after class so it'll be
+open after class super behind on the reading that's okay noro um
+it's a lot the reading this week was particularly a lot so you'll notice that
+we've given a little bit more time for some of the reading lina lux hey
+thank you for the raid hope you're doing well
+thank you for being here thanks for bringing the crew along
+what were you working on what are you up to this evening how did the um
+bug fixing today nice how did the uh the vote go the i know
+you were up for the the award how did that shake out has that happened yet
+
+01:06
+welcome raiders hope you're doing well for those that are new we're doing a 30
+week software engineering bootcamp night reviewing some arrays and going
+into objects in javascript it's announced friday alright let's go turn up
+fingers crossed all right folks come on back let's get in here
+you're not following lena lecture you're you're out of your mind at this point
+i'm going gonna throw a shout out in chat boom all right
+i'm gonna copy this myself definitely give them a follow you
+haven't followed yet um alrighty welcome back let's chill the
+
+01:07
+music here we got some review to get through so uh before the raid we had uh
+started working through this review and so we had seven minutes
+to do review then we took our break so now we're going to finish going through
+the problems together all right the clara variable assign it a string
+and then alert the last three characters in the string
+so this is one of those ones where you probably had to do some some some
+research try to do some research on this one uh
+so let's go and take a look at let's go and do the first thing let's let's
+declare our variable so let's go ahead and do let um fave power rangers equal
+and then i am going to go with oh cool yeah i'm saying it i'm going to say it
+
+01:08
+i'm going to say how that i'm going to say it not not the favorite
+ranger the favorite ranger is too that's that's not something we can come to
+terms with tonight like do you go black ranger do you go green reader does the
+white ranger separate from the green ranger and what version of power rangers
+are you talking about when you mention the green ranger because it changes
+we can't get there tonight so i'm going to say my favorite favorite power
+rangers series series there we go beautiful favorite power rangers series
+because we can't get into that tonight ninja storm's up there i see some folks
+throwing that out there i'm going to go to alien ranger that's where that's
+where the game got changed the the the the costuming the k like the movies ah
+that's when it hit a stride folks all right so i want to
+alert the last three characters of this string so alert what could i do
+
+01:09
+who came up with a way to grab just the last three characters
+oh i see some folks with the slicing i like that let's let's try that slice
+so we're going to do fave power ranger series we're going to do slice
+and we're going to do negative 3 because we want the
+last three characters so this is one of those methods right we haven't it was in
+some of the reading a little bit but if you didn't see it in there we you had
+the research you had to figure out all right what could i use to get the last
+three characters it's something you had to google you had to dig deep find a
+method so let's see if this slice 3 negative 3 works and then we'll talk
+about why it works if it does let's go back let's refresh
+all right erz did that work errs let's see
+hers is the last three letters of alien rangers beautiful that did work
+uh so we have this slice and slice is a method that could take in
+
+01:10
+a bunch of numbers and what we notice if we pass in a negative number it takes
+the last three so it's a beautiful way to just grab pieces of the string are
+there a bunch of other methods that you could use yes there's substring there's
+char we could treat the string as an array there's all these other things we
+could do and one of the things and one of the
+reasons why i asked you to do your code wars right no jones the reason i
+actually do your code wars is because you learn all these little tricks and
+these gotchas and these methods you get to use them in a particular place so
+that's a cool one all right first story functions
+create a function that takes in five numbers subtract all five numbers from a
+hundred alert the absolute value of the difference called the function all right
+so let's go ahead and create our function we're going to call uh minus five and
+abs for absolute i mean we're taking in five numbers our parameters could be
+
+01:11
+whatever we call we could call them rainbow unicorn monster fire truck
+ping pong it doesn't matter um but we're just gonna know that they're numbers so
+we'll do n1 and two and three and four and n5 beautiful
+and then we have to subtract them all from 100 100 so let's do let's set up
+our variable here let difference equal 100 minus n1 minus n2
+minus n3 minus and four minus and five there we go so that's the difference
+and then alert the absolute value of the difference so let's go ahead and do our
+alert and how the heck can we get the absolute value oh thank you chat
+we got the math.absolute and that's one of those
+things like if you didn't know how to do it you would have to go to the googles
+
+01:12
+right uh absolute value in java script i might even throw an mdn on
+there just to to to get there because we see the mdn
+has a math.absolute beautiful always go straight to the mdn
+all right there's an absolute function that returns the absolute value so even
+if i didn't know what absolute value was right
+even if i didn't know what that was i could see that oh it's built in with
+this math object that we'll get to in the mdm we trust exactly now i can go
+back i can trust that math.absolute is the right thing and i'll pass in
+difference all right let's call the function as it asks and we'll try it out
+had to use that on my code wars today that's dope that's awesome cool
+let's go ahead and do -5 and alert minus five and absolute and
+
+01:13
+we're going to pass in some numbers let's pass in um 27 83 42 1 and 5. beautiful
+let's go ahead and run this and see what we get
+man these poses just get you going it's gonna be like no i'm talking about
+anyway everybody ever gives you a problem just hit that post ah boom
+gets you going all right let's refresh ers 58.
+all right so it works so we got we got the absolute value of 58. and we know
+that the absolute value is working because this would have subtracting from 100
+we would have been way below zero and so the absolute value [Music]
+the absolute value is working here because we're getting we're not getting
+a negative number it's giving us the absolute value um people are saying uh
+
+01:14
+interview pose could you just imagine you're in your first technical interview
+and the whole time you're just like this just like you just hold in the pose
+you're beast in the interview by the way right you're beast in the interview
+right but after like each question you're just like ah right they give you
+a behavioral question you're like you're they they give you a technical
+question you're like oh all right but you're still you're crushing it right
+i think you i think you still get the job
+i think if you're busting out the power ranger poses and you're crushing it
+that's all that's all the better you heard that here that's my that's my advice
+in technical interviews please bust out your power ranger moves guaranteed to
+get the job we don't get got dark shinobi a thank
+you for the hydration cheers to you instant 20k hiring points exactly all
+
+01:15
+right first try going to the next one here create a function that takes in three
+numbers console log the lowest and highest values interesting all right function
+log high and low and we're going to take in three numbers
+so we'll take in we'll just use the same kind of thing n1 and two and three
+and console log the lowest and the highest values and so for me the lowest and
+highest values there's a couple ways i can get them
+anybody know what that what they did oh i'm seeing some folks throwing out
+min and max there is a math.min and a math.max that is true um
+let's go ahead and do that let's go ahead and say let min equal math.min
+and we will throw in n1 n2 and n3 and what that should do
+
+01:16
+is based on these values that we passed in
+it should give us the minimum value and place it in the variable min
+we could have also sorted it that would have been a different way to go about it
+like sorting it and then taking um the first and last that's that's totally a
+way that you could have done this as well but let's see some of these methods
+right we'll see sorting later today we'll see some we'll see some sorting um
+ones uh later on so we'll come back to the store in a little bit
+all right so we got math.min let's get max math.max
+let's pass it in one and two and three beautiful so now we have the min and the
+max pin and the max now we have the min and the max what we need to do
+is like use them let's go ahead and what does it say
+
+01:17
+wants us to do a console log let's go ahead and do our log
+and we will let's use a let's lose a template literal when i use a template
+literal what am i starting my string off with like how am i setting up my string
+could you have done this without declaring variables absolutely but i
+like the readability of having the variables
+i got to use the back ticks here so i'm going to say the the lowest num
+is and then i can use my bling syntax where i can then go ahead and just put
+min in here is blank and the highest num is and i'll use my syntax again and
+i'll throw in max so the idea here is since i've used my back ticks i can
+plug variables in using this bling syntax where i do
+dollar sign and then the curly braces cool let's see if this works let's call it
+
+01:18
+so we'll call log high and low and we're going to pass in some values
+let's pass in 100 50 and 25. so if this works we should see 25 and
+100 in the console yeah way better than concatenating exactly juice let's go
+ahead and save this let's see if it works and let's see where we're at
+all right we got the ers we got the 58 and then we see the lowest num is 25 and
+the highest numb is a hundred so it looks like it's working
+right looks like it's working alrighty and we can take a peek at this right
+first try we can take a peek at this where what we did is we passed in all three
+numbers right as our parameters and we passed our parameters into this min
+into this min and that just grabs the lowest number out of the three that we
+
+01:19
+had passed in same thing for max it's gonna grab the highest number out of
+three that we pass in and then i'm just going to use my template literal here my
+template string here and i can pass my variables in without having to do any of
+that nasty nasty concatenation my bling syntax didn't work make sure
+you use the ticks and not quotes you don't use the back ticks it won't
+work uh the back ticks are on your um on your on your um
+tilde key so here's a normal keyboard and then like right above the tab
+is the tilde key that's what you're going to hit
+i can't show you on my actual keyboard my actual keyboard is in a very
+different spot right there but on a normal keyboard that's where it is
+above the tab yeah and then like different countries
+
+01:20
+it's gonna be a different spot cool i just showed you how dusty my keyboards
+are it's kind of embarrassing but it doesn't matter because first try
+all right next one all right create a function
+create a function that returns heads or tails randomly as fairly as possible and
+call the function as soon as you know we're going to be doing something
+randomly what are we probably going to be using ryan it is yeah
+yeah math.random so we're seeing this math object comes with a lot of goodies
+and we're going to use this random one as well so let's go ahead and create a
+function since we're getting heads or heads or tails we're going to call this
+heads or tails and let's just go ahead and set up the the
+
+01:21
+result of like the flip so we can do like let result
+equal and then we'll do math dot random so what math.random is going to do
+is it's going to return a value between zero and one
+right math.random is gonna return a value between zero and one so
+if we wanted to make it a 50 50 result if we wanted to be a 50 50 result a
+heads or tails we could set up a conditional
+right we could do a conditional that checks for one half or the other half
+so what i'm thinking i'm going to set up a conditional and do an if
+and i'm going to say if result is less than what
+
+01:22
+less than 0.5 exactly if result is less than 0.5 um we can
+i was supposed to return so we'll return heads
+i guess we have to return like a string of heads right we'll turn a string of
+heads and then if it's not less than 0.5 the only other thing it can be
+would be what the only other thing it could be would be tails
+all right so the idea here the idea here is that math.random
+will return a number between 1 and 0. so half the time it'll be less than 0.5
+and the other half it'll be 0.5 or greater
+right so one half it'll be less than 0.5 the other half will be 0.5 or greater
+right now the the the reason why people are saying like do we need the equals is
+it's very specific it goes from zero to one but it's not inclusive of one
+right so it's not inclusive of one uh so
+
+01:23
+since it's not inclusive of one we don't have to do the less than or equal to
+it's between zero and one but doesn't include one yeah
+so that's why we can just do less than point five cool i think this should work
+looks good to me let's go ahead and call it
+select let's um let's throw it in the console log because it's a return right
+since this is a return if we just called it it would poof in the thin air i see
+the stretch i got you let's see if this works and then i got you on nemog
+all right let's go ahead and do this heads or tails
+we're going to call it and we're going to call it inside the console log
+let's go back let's refresh we got some others that
+have to run first boom boom and we got tails nice let's refresh the page
+boom we got heads all right so we know we're getting heads and tails that
+
+01:24
+worked beautifully couldn't have planned it better myself all right cool
+let's go ahead and do this last one first tree uh and we have a stretch
+nemog 777 thank you for the stretch i'm gonna do a real stretch and you know if
+you really want to see me stretching there's only one way you can get that
+type of content so that's the type of content you're missing folks
+only a million channel points come on what's a million channel points only a
+million channel points and you get that lovely lovely content all right
+
+01:25
+somebody said how could we test this know if it really works
+well eventually we're going to get into testing our javascript we're going to
+write test cases so if you've been doing your
+code wars you'll notice that codewars enables you to write test cases right
+and so we could write test cases to see if this works or not and we could run a
+bunch of them so eventually we'll get to testing later on in program towards the
+end but that's one way we can test to make
+sure that stuff really does work to make sure it is like functioning heads or
+tails yeah all righty last one here create a function that takes in a number
+console log the result of heads or tails using the previous function x times
+where x is the number passed into the function called the function
+all right hold on let me read this again
+create a function that takes in a number
+i know i write these but still sometimes i forget what i write create a function
+
+01:26
+that takes in a number console log the result of heads or tails
+so we're just gonna we're just gonna run the heads or tails function again
+um x times where x is the number passed into the function so all we're going to
+do is we're just going to we're just going to run the heads or tails multiple
+times uh and just result and console.log the
+result so i'm just going to console i'm just gonna comment that out so we don't
+actually have that running up here and let's go and set this up function
+we're gonna call this uh i think last time i called it uh what
+did they call it last uh yeah flip flip flip flip flip adelphia
+there we go so we're going to call this flip flip flipadelphia
+and uh this is going to be our function to flip a certain number of times uh so
+it said x times we're just going to put in here the the the number of times
+right so i'm just going to use n which is short for the number of times that we
+
+01:27
+want this to run and then we can set up a really simple for loop so four
+let i equal one i'll start counting at one uh while i is less than and we'll say
+including that number one of the mistakes we've made in the past is where
+we forgot to include the equals because we're going to go from one including
+that number so we'll say n and then we'll do i plus plus okay
+and then we're going to have result result equal and we're just going to
+call this function heads or tails cool so what we're going to do is we're
+going to call this heads or tails function each time the loop runs and the cool
+thing is that this heads or tails function is already set up to return
+heads and already set up to return tails so i actually don't need to do anything
+
+01:28
+special other than um console logging the result all right so this should work
+let's um let's test it out it's actually kind of hard to see this
+all in one line so i think i'm actually going to do this function in one line
+i think we'll come back and do this one line because i'm kind of having a hard
+time getting them both on the page let's see if this works
+um let's go ahead and call it flip flip adelphia
+and we're going to do this 10 times we should see 10 results we should we
+should see 10 like mixing of heads and tails
+all right let's go back let's refresh there's 58
+all right so we got two heads two tails and then
+five more heads and a tail so this did run 10 times
+uh and it was it was definitely definitely felt heads more than tails
+
+01:29
+and so what we can do let's make sure this runs one time
+let's make sure this runs one time let's see and let's refresh boom boom
+boom all right so it does run one time so what we can do is we can yolo some
+channel points right now folks this is this is what we did we just we just
+built ourselves a gambling machine uh so
+let's yolo some channel points some some of you want to get that sweet sweet
+sweet of content but you need more points so tonight's the night
+thanks tonight folks let's go ahead um start a prediction uh we're gonna say
+heads or tails and the first outcome will be heads
+and the second outcome would be tails you have a minute to get in here and i'm
+starting it now all right so you can you can join the
+
+01:30
+prediction heads or tails you can risk as many channel points as you want and
+then we're gonna run we're gonna refresh
+the page and whenever it says that's who wins
+all right let's see how many people how many channel points people are throwing
+up on this you only got a minute to get in here folks oh
+280 000 channel points on heads right now
+oh 400 to 6 300 oh first we might hit it we might hit a thousand
+we only hit a million channel points oh yeah we're we're
+we're way over a million channel points up for risk here folks
+way over a million oh no what did i what did i unlock in all of you oh no
+
+01:31
+1.3 million to 1.2 million [Laughter] all in baby let's go all right
+let's do it for all the channel points let's see what we get all right let's
+refresh the page all right we got our ers we got our 58 you ready has it
+tails got it let's see let me let me confirm the prediction choose outcome
+51 of you said tails so 1.5 million up against 1.4 million
+uh let's choose outcome it was tails we're going to complete the prediction
+all right so you should have gotten your channel points there
+the prediction result was tails oh boy we don't
+hold on let's see the details of this one it was 50 50 in the end
+
+01:32
+i think the most channel points risked was 49 000 channel points by honda civic
+so honda civic risked 49k and what the come up
+is dangerously close to being over 100k wow wow congrats honda that was wild
+oh no we got we got some big ones coming in hold on let's see
+people ready to splash out with their channel points now
+uh mx with the hydration cheers to you uh pokemon card
+and durie i'll get those at the end and then
+um diego splashed out with guide the raid uh so diego send me a whisper
+
+01:33
+with the person you want us to raid in the software and game dev category has
+to be in the game software and game dev category
+uh semi-a whisper and uh that's who we'll raid
+cool has to be in the software and game dev category we don't rate anybody else
+double or nothing i don't want to i don't want to unlock that and and some
+individuals we'll run it back maybe later maybe after our next break
+i want to take a look at this though before before we move on before we move on
+uh let's go ahead and let's go ahead and take let's take a look
+at this right here how could i do how could i do this maybe like all
+on like one line like i i like this function but we
+learned some things in the past we saw some arrow functions and we know
+how to do ternaries exactly so let's let's see if we can combine our arrow
+
+01:34
+functions and turn it i'm going to comment this out i'm going to say const
+heads or tails and i'm going to set it equal to are we taking in anything
+so we can go ahead and then do let's go ahead and do um what's our math dot
+random right math.random less than 0.5 right less than 0.5
+and we're going to say if it is less than 0.5 we return heads
+and if it's greater than 0.5 we return tails
+let's see let's see if this works let's see if this works
+
+01:35
+let's see if we still get a result let's come back let's refresh
+boom boom all right still working we got the tails
+all right so let's talk about this so for me this is all in one line which is
+beautiful we got not tails again it's rigged so that's the thing this is
+the beauty this this is this is high stakes
+this is this would be like i feel like we need to do this
+i feel like we need to do a day where we just risk channel points
+this won't work out in my favor because we'll hit the only fans where we risk
+channel points but the code could be right or wrong so not only are you like
+you're trying to like like risk your points
+but like the code might be wrong and it might favor
+someone else dab i think we need to do this dab i think me and you need to do
+like a like a game show where we write out code and we're either
+like with chat or against chat we're like we're throwing in bugs or not
+
+01:36
+throwing in bugs and we risk our channel points i think that'd be really fun
+let's keep that let's see if we can make that happen all right
+so what's going on here is we set up an arrow function
+and there's two key things about the arrow function
+a lot of folks are saying what about parentheses
+well you only really need parentheses if you know you're going to have
+multiple parameters so you really need the parentheses when you're doing
+multiple parameters like x and i or something like that right
+right x and i right that that's that's what what we could do there right
+we could do x or i right um we could do just empty parentheses that's pretty
+common right that's pretty common right that's pretty common
+um but it was all a bamboozle because you can also do like i just do this
+underscore right i do this underscore just to say like hey i'm not passing in
+
+01:37
+anything right i'm just passing i'm just passing in
+anything right like i'm not passing in anything so i put the underscore for me
+when i don't pass in anything i just do an underscore and that's for me
+and for the other developers i work with to know like hey like i'm not i'm not
+passing anything in it's just empty so you can put any character there you want
+it but i just do the underscore to say like hey i'm not passing in anything and
+this is a preference that you'll see come up again as we get further into
+javascript uh and then just the the arrow and then there's something wrong with
+this code this code ran it it gave us a result but there's something wrong
+while y'all were working on the parentheses over here the real
+parentheses we were missing we're here there we go so now it'll actually do
+random because random's a method and i forgot it right so second try um
+
+01:38
+so here now if we want this random method to run we actually need the
+parentheses right it won't run without the parentheses and so since this always
+fails right since it always fails we would always get tails but now that we
+have the parentheses this should work and now we should get heads or tails
+good on y'all that noticed that that was a good catch
+beautiful all right and it still works let's run it a few times just to make
+sure we're good heads great so now we see that it's
+working beautiful ah yes occ also brought up the implicit return
+uh this is an implicit return we don't need the return keyword
+like we don't need the like we have the return keyword
+we have the return keyword up here we don't need it with an arrow function
+because there's something called an implicit return it just does the return
+for you right it just does the no bright side that's why
+
+01:39
+uh it just does the return for you so what winds up happening
+is we're gonna call this heads or tails function
+we check to see if it's less than 0.5 like the math.random gives us the number
+between 0 and 1. if it's less than 0.5 we implicitly return heads
+if it's anything other than less than 0.5 we implicitly return tails so that
+means down here we're just returning heads or tails whenever we call it
+beautiful flip flip flip adelphia yeah there's nothing here telling it the
+console log it's down here where we're doing the console logging yeah
+because we we call this function here and what winds up happening is we wind
+up running this function each time the loop runs and the heads or tails gets
+returned to where the function is called so we get heads returned here we get
+
+01:40
+tails returned here over and over again cool alrighty
+it's one of those ones to come back with play around with it get into the muck
+with it you'll kind of see these tern areas pop up here and there but if
+you're like if you're looking i want to get better at this stuff here there's
+one thing you can do that will help you get better at like understanding and
+writing this kind of code i i didn't know how to write this code
+until i started doing something very specific yeah that's code wars exactly
+um i i saw this pattern i first saw this pattern probably on code wars right
+i probably saw this on code wars i incorporated this is definitely my anki
+like this whole line is in my inky i incorporate it into my anki
+
+01:41
+and now i can recall it with pretty good precision pretty quickly yeah
+um can i explain it in a pseudo code kind of way well it's just that we have
+a function we have a math.random where it returns a
+zero between zero and one and so if whatever value comes here is less than
+0.5 that winds up being a true statement and whenever you have a true statement
+on the left-hand side of a ternary you automatically
+grab the heads it's the sorry you grab the the left-hand side so you would grab
+heads in this case if for whatever reason this evaluates to false you would
+grab what's on the right hand side of the colon it's the same thing as the
+conditional here don't let it don't let the ternary scare you this is the exact
+same thing as having an if and an else this is the if the if is true and this
+is the else if it wasn't that's all what's an anki anki is our space
+
+01:42
+repetition tool that we use it's kind of like flash cards with an algorithm
+behind it if this is your first class with us our
+very first class on youtube you can do exclamation point youtube covers anki
+and why you'd want to use it cool all right let's move on folks cool
+we talked about arrays we talked about arrays a lot this last two classes
+chat what are arrays i still don't get the underscore it's
+just a it's just a it's just a parameter
+instead of doing like x or i because i'm
+not going to use it i just do underscore and that just lets me know hey this is
+like empty i'm not going to use this at all we could have put an x there we
+could have put an i there it could have been any other we could just put empty
+parentheses but since i don't actually need a parameter there i do the
+underscore yeah raise are toasters exactly and when
+
+01:43
+we say a toaster what we really mean is an element
+that can store other elements right a data structure that can hold other things
+and so we like to think of bill gates toaster where it can hold a bunch of
+stuff and every single time it needs to add something new it gets a new slot and
+a new slot and a new slot some tricky things with arrays is that
+they start they're counting or index with what zero exactly
+there are two different ways to create a
+raise there's this constructor way which we'll actually start using probably on
+thursday or tuesday because we'll understand how to use constructors when
+it comes to objects but the way we've been using it so far is using literal
+notation using square brackets where we literally create an array
+when we create an array we can put elements inside of the array
+
+01:44
+and we also have the ability to pull stuff out or put stuff into an array
+using its index 0 1 2 or 3. if you're new this is all stuff that
+we're doing a review that's why we're going through it kind of quickly we have
+two or three classes that you can find here on twitch and then on youtube that
+go through this in detail alrighty so here uh here's us grabbing
+stuff out of the array using its index new array zero gives us zebra
+new array one gives us undefined y agent hanzo hey thank you for the
+hydration cheers to you it's empty exactly there's nothing in
+this space right there's nothing in this space so we get undefined
+and then we grab the the element and the second index so 0
+1 2 so we get true and then here's us grabbing the element in the third index 0
+
+01:45
+1 2 3 we get 21 21 21 21 beautiful we can also put stuff into an array
+using the index so here i'm grabbing that undefined space and plopping the
+string of bob into it the spaces don't have to be empty for us to put stuff in
+we could just have easily changed this to zero and overhead zebra to be bob
+uh the tricky thing is that we can actually overwrite whole arrays with
+arrays and so you can overwrite a whole array by assigning an array to a
+different array so here we have two arrays cars and nums we set cars equal
+to nums and we ask for cars we get one two three
+we can also get the a length off of an array and let and keep that in your keep
+that in the back of your brain we can get the length of an array because it's
+gonna we're gonna get the objects later today and we're gonna have to come back
+to this so we can get the length of an array and it'll tell us how many
+elements are in that array and the tricky thing is that it counts starting
+
+01:46
+at one so the indexes start at zero but the length starts at one all right
+we can also iterate through arrays where we're trying to pull each value out of
+an array uh we saw a simple way of using a for loop right with a for loop we can
+just kind of grab a number and count from zero to some number and we can use
+that number to pull values out of the array so i start my increment of i at zero
+and that's because the very first time i want this to run right the very first
+time i want this to run oh that's such a good question
+muhammad asked a super good question why does length not have
+parentheses at the end hold hold on just hold that's that's
+such a beautiful question we're going to get there today i will answer that
+question by the end of today what a good question
+all right we start our account at zero blowing it up but yes
+
+01:47
+we're starting to count at zero so we can use the index best colors zero would
+give us green then one would give us blue two would give us yellow three
+would give us black we can also use methods that are built
+in with arrays to help us right to help us loop through our content so
+for each is a goblin that runs and each time it runs it grabs the
+element its index and the actual array that it comes from and passes it in to
+this function what kind of function is this what do we call this is what kind of
+function is this yeah it's an arrow function um
+some in previous time we would have used anonymous functions just functions
+without a name because we're passing a function into a function we don't need
+all that declaration syntax or any of that stuff we don't need the function
+
+01:48
+keyword because we're passing it in as a what we're passing it in as a what
+as an argument exactly we're passing it as an argument beautiful all right
+we also saw some wonderful methods that came with a raise other than for each we
+saw shift pop unshift you saw all these wonderful
+methods let's run through them again so here we have an array
+best wrappers 2020 on that list we have six nine polo g and six nine
+pretty quickly we shift off six nine it's what it does is it takes
+the beginning of the array and pulls it off
+if you were to just do shift you could grab that first value off and it would
+poof evaporate into the ether but we've actually stored it in a variable called
+removed and so right now six nine is pulled off
+
+01:49
+and it's stored in the variable removed however if we ask for best rappers 2020
+we can see that the array has changed and no longer has that first six nine
+it's just polo g and six nine on the right hand side
+right so we shift shift takes the first thing off of an array and pulls it off
+next we learned how to pop so when we pop we take the value that's at the end
+of the array and we take that off so shift is off the front
+pop is off the end and so when we ask for best rappers 2020 we wind up with is
+just polo g at the moment right just polo g at the moment because we've
+we've already shifted six nine off we've shifted the other six nine off sorry
+we've popped the other six nine off and we just have polo g left
+
+01:50
+pop lock and drop it a yeah you don't know about that huh
+i don't know about that huh all right i see you you don't know huh
+learn something new today all right so we're left with just polo g because
+we we shifted off and we popped off beautiful
+now we can actually do the almost kind of opposite right we can unshift which
+is putting something on the front so here i had just polo g
+and i unshifted dylon so now dailon is on the front of best wrappers 2020
+and we can do the same on the other side we can push
+dailon onto the back of the array so now when we look
+we have dailon dylon pologian dylon rk mace hey thank you for the gift of
+
+01:51
+subs thank you for being here beautiful so now we have in the best wrappers 2020
+we have dailon pology and dailon because we we shifted off and popped off six
+nine and then we we unshifted and pushed dylon beautiful
+now the last method that we saw was map and map is going to run once for each
+element in the array but map does one very specific thing
+what what does map do what makes map different like what does it
+do we have more viewers than timberland timberland stream and that's wild
+without the timberland it returns a brand new array
+exactly returns a brand new array wonderful so if we are going to run once
+for each element in the array does map do anything what is what's the
+
+01:52
+only thing that map returns this is this is an implicit
+this is ray timberland this is an implicit return right so the only thing
+this map is doing is returning what the only thing this does is it returns
+dylon so if we know that this map is going to run three times what we're
+really doing is creating a new array for best rappers of all time
+that has dailon in it that's the first time it runs then it's going to grab
+polo g but it doesn't do anything with it it just returns dylon
+and then it's going to run a third time it doesn't even matter that it was dylan
+it still just returns nylon so the only thing that a map does is
+spit the hot fire right and so here we wind up with best wrappers of all time
+just being dylon dylon dylon and then for the last the last
+
+01:53
+two things to add here we unshift dylon onto the front and we
+push dylon onto the back and so when we console log the best wrappers of all
+time we have dailon dailon dailon dylan and dailon beautiful alrighty folks
+we have another review to do but since we're at the top of the hour let's take
+our break let's take our break let's put five
+minutes on the clock here folks five minutes on the clock
+we're new around here we like to be healthy we like to take our break [Music]
+pull in there add it two minutes to the timer let's go ahead and this is now a
+seven minute break timer beautiful let's go ahead we're going to take a
+seven minute break that hour went fast it sure did and when we come back we're
+
+01:54
+gonna do a review and then we get to objects folks i'm super excited to get
+the objects all right so let's go and take some minutes on the clock uh if
+you're able to please get up and move around i'm going to run the ad so new
+
+01:56
+
+01:57
+
+02:00
+folks don't have to worry about it um do [Music] ready 45 seconds left
+do you know the total salary of the hundred devs who got jobs
+were over four million i gotta add some new folks but we're over four million
+now i'm gonna start releasing like what i know about all the folks so we'll
+
+02:01
+release kind of like the stats and stuff like that but yeah we're over four mil
+all right folks come on back come on back alrighty
+alrighty folks come on back come on back let's go ahead and take a look at this
+review and then we're going to jump into
+objects so it's the alien rangers review go ahead and open that up
+we have three questions here and i'm gonna go ahead and put let's put
+
+02:02
+five minutes on the timer five minutes on the timer give it your best shot
+and then we'll go over it together can we petition them to change unshift
+to add to front yes i think it'll be a good petition all right five minutes
+
+02:03
+go at it you have it and we'll go over it together you got this folks again
+hey glad to hear it phillip best dc superhero does vertigo get put into that
+um i mean it's batman like why am i going to front i'm going to be like oh
+let me let me impress you with my vast comic book knowledge it's gonna be batman
+all right folks three minutes 30 seconds you got this dig deep
+
+02:04
+i haven't seen a new one yet i'm still afraid to go to movie theaters soon
+what's your favorite megazord now we're talking um
+i mean the most nostalgia is definitely the the mighty morphin right you can't
+beat that like symbol of your childhood i think when they got to light speed
+rescue they did some more interesting stuff like graphically
+i have to say mighty morphin ninja storm was pretty cool yeah
+
+02:05
+i know party wounds that's true two minutes two minutes
+yeah the assembly sequence was pretty lit do you watch any k drama no i have not
+ever really got into it i have a feeling that if i did start it'd be a it'd be a
+problem for me so how do you all remember this from your
+childhood i watch power rangers but i don't remember this stuff because i
+watch it as an adult i love power rangers uh
+i kind of like stop like anything like after dino thunder is like too much for
+me but anything like pre-dino thunder i've probably watched
+
+02:06
+all the way through like as as an adult uh the second lowest mean including or
+excluding it would it would be including i guess for this example
+got some fun some folks coming with the dunzo it's got a few folks that got
+something the last one that's okay we're gonna go over it together alrighty
+30 seconds left got some dunzo's rolling in
+i always wanted that green dagger toy i've been um i was i'm i
+i don't know why i'm telling people this
+
+02:07
+i i've been 3d printing different swords and that's on my list
+i just did some test prints earlier to get a collapsible lightsaber
+um but yeah i'm doing a bunch of different like like toy swords
+because i i print like i like to print a lot of like i guess it
+would be like toy stuff but it's been fun i have my bulbasaur right here i print
+it which i really liked yeah that came out clean looks pretty good
+to me a 3d printer is like the best the best toy you could ever give a kid
+because you can get printers now like i know 200 is not is nothing to
+slouch about but for like less than like a um
+less than like a gaming console they can build whatever toy they want like the
+plastic's like ten dollars and then for like half of a gaming
+console they can build whatever toy they ever want and they're all like free
+
+02:08
+online yeah that's pretty dope to me all right folks come on back come on
+back let's go over this together yeah it's i i use my 3d printer for d2
+like i have a bunch of miniatures that i've printed off that was pretty cool
+there was a humble bundle that had a lot
+of like really good miniatures in it and i've been using those
+first one done hey caleb that's awesome congrats
+all right let's come on back let's go through it
+we're printer to use i have an ender 3v2 um i have the bl touch mod on it a new
+hot end some other like fancy stuff glass plate but not too many mods i'm
+putting octoprint on it today well hopefully this week yeah
+anyone else immediately undoing the timers yes i hope you do some folks like
+
+02:09
+the complete silence some don't so i like to just keep talking because
+i think some folks just prefer that in the background but always feel free to
+mute me that's why i leave the timer up right the timer i leave up so if you
+don't want to hear me blab on you can just mute me and then see the timer go
+off and come on back alrighty create an array of tv shows loop through
+and print each show to the console so let's go ahead and we're just going to
+start off by um putting our we'll just use the same
+shows we did last time let's do power rangers to let power rangers equal
+and then we're going to go ahead and do mighty morphin
+here's my thing about power rangers though they they had new power rangers
+move but they didn't do it right the way you do hold on
+the way you do a modern power rangers movie is thus you know cloverfield
+right cloverfield is like dark and they're like on a roof there's a bunch
+
+02:10
+of like teenagers hanging out right and then like something starts to attack you
+don't know what's attacking but it's just like these like cool kids hanging
+out it's really dark it's gritty if you had gone to cloverfield
+having no idea what it was and they're just like these older teenagers hanging
+out on a roof someone starts attacking and they all just go it's boyfriend time
+you would have lost your absolute like you would have lost your mind right like
+you just would have been it would have it would have blown your mind that's how
+you do a new power rangers movie you don't tell anyone it's a power rangers
+movie you just let some [&nbsp;__&nbsp;] go down and
+then right as it's about to get really bad you just go
+morph in time and then like everyone like
+if i see that's the [&nbsp;__&nbsp;] out if i was a
+billionaire that's the [&nbsp;__&nbsp;] i would do
+no build up no hype you're going there for something completely different and
+then your mind's just blown that it's a power rangers movie that's how you do it
+
+02:11
+all right mighty morphin uh we'll say alien rangers
+i spell right ally in rangers and then we'll say um
+neo beautiful now we have our tv shows loop through and print each one to the
+console so what type of loops could we use here
+what kind of loops could we use here we use a for loop just like a generic
+for loop we can use a for each let's use the for each because we we've been we
+want to get some practice in let's go ahead and do power rangers and we'll do
+four each and then we're going to take in
+uh each each value so we'll just say um uh show
+and we will we're gonna print each one to the console so we'll just console.log
+log each show and so what this is going to do
+is we're gonna run once for each element in the array we have
+
+02:12
+one two three elements in the array so this four each will run three times
+each time it's gonna run it's gonna be the goblins to run and grab mighty
+morphin and then plug it into show then it's going to grab alien rangers
+and plug it in the show and then it's going to grab neo and plug it into show
+i'm saying neo instead of zeo is this you or yeah i keep saying neo i don't
+know i keep saying neo zio could you imagine all right
+and so what winds up happening is that mighty morphin gets console logged
+then alien rangers gets console logged and then zeo gets console logged
+right beautiful i did just watch the the matrix yeah that's why alrighty
+let's uh let's save this and let's make sure this john actually runs
+good let's open this in the browser look at that that's so fire
+
+02:13
+this is why alien rangers are the best look at this i'd wear that right now
+get me this black fit it's over kanye might have changed his life but
+i'm still an old-school gemini look at that fire all right let's refresh
+we don't actually have anything printing to the console let's go back and take a
+look why did nothing print to the console bark said save my guy exactly let's go
+ahead and save we didn't save so now we can come back and refresh second try
+
+02:14
+we got mighty morphin we got alien rangers and we got zeo
+that that's that's that's the whole that's the second layer of this stream
+is i just say a lot of stuff and if you know you know but most of the time it's
+just rap lyrics so a lot of stuff i say is like not actually true it's just rap
+lyrics so if you're in you're in if you're out you're out i don't know i
+can't i can't i can't help you all righty
+quick maths indeed return a new array of numbers that includes every even number
+from the previous array so oh sorry we have to create an array of numbers and
+then we have a second prompt here so let's go and create array of numbers
+let numbs equal and let's just throw some give me some numbers chat can you
+give me some numbers please 21 of course 56 88 24 99 and 710.
+
+02:15
+cool all right thank you for those numbers all right let's return a new array of
+num return a new array of numbers that includes every even number from the
+previous arrays so only a new array that only has even numbers so
+let's go ahead and let's just do this as like an arrow function um let
+only only evens only evens equal and then we know we're going to pass in
+an array we're passing in an array and that array
+we want to get just the even numbers so did anybody know something we can do
+to get only even numbers is there like a method or something that we could use
+yeah we can use a filter method with modulus so let's try the filter method
+
+02:16
+so we'll do array.filter and the cool thing about filter is it
+runs once for each element in the array and it checks to see if something is
+true if it is true it includes it in that new array
+so let's go ahead and take a look at it so we can filter we said we're going to
+do excuse me let's go ahead and say array filter we're going to take in a value
+num and we'll say well num is modulus two if that equals zero
+so that equals zero then we know that it's true that should work
+like if the number modulus two all right let's let's see let's see
+where i'm at with this one real quick um let
+oh sorry let's console.log don't worry i'm gonna come back to let me let me see
+
+02:17
+where i'm at console.log only evens and let's pass in nums
+all right let's see where we're at i mean let me add some spacing here so
+people can see what we're doing let's save this all right and let's refresh
+cool so we have a an array that got console logged
+that has 56 88 24 and 7 10 in it first uh and so that was only the even numbers
+that were in that nums array so let's take a look and
+see where this comes from so here's our nums array and here we have a function
+called only evens only evens here we have an arrow function
+what i am doing is i am going to this is going to be a function that will work
+with any array right it'll work with any
+array and so i know i'm going to pass in an array so i name my parameter array
+
+02:18
+right i name my parameter array then i run the filter method on that array
+it's the same thing as running the map that we had right like the map we had
+before it filters just another method built into javascript that can do some
+heavy lifting for us what the filter will do
+is it's going to help us set up a new array just like map sets up a new array
+filter set up a new array and to add a value to this new array
+this statement winds up having to be true so if it's not true we don't add that
+value to the array so the very first time this runs we are filtering through
+nums because nums is the array that we pass in we called only evens
+and we pass in nums so wherever we see array is
+
+02:19
+nums so that means array right now is holding the 21 56 88 24. 99 and the 7
+10. so how many times is this filter going to run
+how many times is this filter going to run just like map would run multiple
+times how many times is the filter going to run yes
+the filter is going to run six times there are six numbers in the array
+right there are six six elements in the array so this filter is going to run six
+times now the very first time it runs what is n the very first time
+
+02:20
+21 21 21 21 21 all right so does 21 modulus 2 equal 0. no
+21 is not an even number 2 does not go into it evenly so that that's a false so
+do we add 21 to our new array nope all right next we're going to try 56
+wherever i see n it's actually 56 does 56 mod 2 equals zero
+yep so then we add 56 to our new array and we get a new n now it's 88
+does 88 mod 2 equals zero yep so we add 88 to our new array then we try 24
+
+02:21
+is 24 mod 2 equal to 0 yes we add 24. now is 99 mod 2 equal to 0 no
+2 does not go into 99 evenly so do we add it to our array
+nope we do not add it to our array and then the very last time this runs n is 7
+10. is 7 10 modulus 2 equal to 0 yes 2 goes into 710 evenly and so we add 7 10
+to our new array now the funny thing is this new array
+what happens to this new array look right here we talked about this earlier
+this new array is created right here what do we wind up doing with the new
+array that we just created there's something very specific that's going to
+happen here there's something that when we use the arrow functions that happens
+
+02:22
+yeah it's an implicit return so that means that the new array that we
+just created it gets returned to where it's called
+so it's as though only evens was not here but our new array holding 56 88 24
+and 710 that gets put into the new array and that's what gets console logged
+right so the beauty here is that the filter
+is going to create a new array for us and then whenever it's done creating
+that new array it gets returned to where it was called
+and that's why we see the new array being console logged
+what does the n mean it's just a parameter just like array is a parameter uh
+they're just parameters we're going to call them anything we call it we could
+have called it robot and unicorn and it wouldn't have mattered
+cool if this is tripping you up don't worry this is like the first time we're
+
+02:23
+seeing arrow functions in the wild come on sunday and we'll redo some
+problems like this where we'll do it without arrow functions and with arrow
+functions uh so we can see both ways cool last one here create a function
+that takes in an array of numbers right create a function that takes in an
+array of numbers alert the sum of the second lowest and the second highest
+number so we already have nums so let's just use
+um well it says create a function let's create a function let's start there
+function um sum of the second and highest lowest so we're gonna do uh sum second
+low and high there we go so we know we're gonna take
+
+02:24
+in an array of numbers so i'm just gonna call our parameter array
+and we're going to return the sum of the
+second lowest and the second highest now if i want to make my life easy
+right i want to make my life easy how can i get my numbers in a way that i could
+grab the second highest and the second lowest
+yeah i could just sort them if i if i just sort them
+i just sort them then i can um then i can just then i can just use the
+indexes right i can just go one in and two from the end and grab them and i
+should be good so i i see your i see your stretch when she i got you after
+after let's do this real quick so um let's call let's sort it
+equal and all i'm going to do is sort the array array.sort
+
+02:25
+and then i'm going to take in a and b and boop a minus b this is how
+you sort numbers in an array now let me ask you
+how do you think i was able to bang that out so quickly
+is it something that i just implicitly knew because i am a elite developer no
+this is something that i learned way back in the day from coding challenges
+probably from code wars right this sorting is something that i had to
+figure out how to do to solve a code wars and then once i learned it for the
+code wars i added it to my anki deck and this pops up once every i don't know
+year or so because i've seen it so many times right but it's not something that
+i would know just because like i know how to code it's something that i
+
+02:26
+researched to solve a code wars i said hey this sorting thing is probably
+really really beneficial i added it to my anki deck and i review
+it constantly so when i do see this problem come up again this pattern comes
+up where i have to to to get numbers in a certain order boom sort it and call it
+a day so hint these things to your anki deck we've
+showed a lot of stuff today that should definitely be in your enkei we saw a
+filter for really the first time we saw a four each again we're seeing a sort
+these are things that you need to come back to you need to spend some time with
+these outside of class to see how they work to see how they how that how like
+you break them down um the reading and the videos also work
+through a lot of this stuff as well so it all kind of comes together to see it
+but it definitely needs to be in your anki
+when i add it to my anki how is it it's just this
+how do you sort an array of numbers and on this other side would be this
+
+02:27
+literally this exact code cool so now we have sorted numbers
+and we want to alert the sum so we know we're going to wind up adding two
+numbers now that my numbers are sorted how can i get the second lowest number
+what's happening with the a and b it really doesn't matter this is just how
+you sort from low to high in in javascript you
+can reverse the bna and go from high to low that's kind of what's happening it's
+just it's just the specific way that we're sorting once we get to our data
+structures and algorithms at the end of the cohort we'll really break down
+what's happening inside this sort function to need the a and b but at this
+point you really don't need to know what's happening inside the sort
+function because we're not trying to write super efficient code yet but when
+we get to our data structures and algorithms in the course we'll break that down
+
+02:28
+cool our numbers are sorted right there's a lot of weird things that we
+could do i'm seeing some folks pop some folks are saying pop the min and max
+and then you're left with like easier numbers i'm seeing some splicing and
+some slicing and stuff like that um but we know that the lowest number
+would be array what what index would be the lowest number yeah
+array zero will be the lowest number so the the highest number
+the highest number has to be sorry the second lowest if the lowest
+number is is index zero the second lowest would be what
+one exactly so we know the second lowest would be one because the lowest is zero
+and we're going to add that to the second highest so we've seen this before
+where we do array and we do dot length uh minus what would give us the highest
+
+02:29
+number right what would give us sorry yes it's
+sorted not array good call good call it's sorted sorted as our sorted array
+whoops good eye thank you for that um beautiful because we're dealing with our
+sorted array right so not our original array so if we wanted to get the the
+highest number it'd be minus one but we want the second highest so it'll
+be minus two right and then let's go ahead and
+call this function and pass in some numbers so we're gonna sum
+second low and high and let's pass in some numbers let's pass in
+um let's just do let's do one two three four and five but let's mix them
+two three four one let's do one five four there we go so we have one two
+
+02:30
+three four and five all mixed up and so if we want the the second highest
+and lowest we should see two and four be added together for six so if this
+works we should have six so let's save this let's go back
+i should have my sword printed already this wouldn't fire add that sword up
+there oh that would have been legit all right anyway let's refresh
+and we can see the six gets alerted right so it worked the two and the four
+got added together we got the six alerted beautiful all right
+so we saw some sorting we we used the the knowledge of our
+indexes to grab the second lowest and the second highest we added them
+together and then we alerted them beautiful
+thank you enlightened that's beautiful to hear brook that's awesome here cool
+
+02:31
+all right now i need i need to i owe a stretch so let me do my stretch you know
+if you want that good good content you got to start yoloing some more channel
+points to get the of uh run second hmm oh yeah alrighty folks
+we got through some review if you want to see more
+if you want to see more of these types of practices where we're using more
+methods we're using arrow functions we're starting to like do things in
+slightly different ways and you want to see me review it with regular functions
+and then try it with the arrow functions come sunday sunday we're going to do
+some questions like always but we're going to spend a lot of time with
+
+02:32
+methods uh so if you want to come back and see these methods you want to see
+more arrow functions let's do that review on sunday together
+hippie sue hey thank you for the five gifted subs thank you for being here
+alrighty let's get to the goods today folks the goods are objects so
+objects are really the last puzzle piece that we need to
+kind of start building some really dope stuff
+once we understand objects your mind you become you become enlightened in terms
+of javascript there's gonna be we're gonna we're gonna set some some things
+up today and then i am literally going to blow your mind on thursday like your
+mind will be obliterated on thursday in in the best way possible so we're gonna
+touch on objects right now get the get the juices flowing and then come
+thursday just mine explosion uh so let's get into it
+
+02:33
+the wonderful thing about javascript is that every single thing is a what
+is an object keep that thought in your mind every single thing is out there get
+down your mind what objects are are collections of variables and functions
+if you look at an object all it really is is a collection of
+variables and functions just like the variables and functions that we've
+already seen and these variables and functions
+they represent the attributes and the behavior
+of that object now when we're talking about objects we call the attributes
+properties and we call those functions we call those
+
+02:34
+methods so the variables we call sorry the variables we call properties and the
+functions we call methods the attributes we would call our properties and the
+behaviors we would call our methods and so at first it's kind of hard to wrap
+our brain around so let's think of an actual physical object
+like something that we could really think of right uh for me right now i'm
+thinking of my water bottle so i have a nice nalgene bottle here full of
+delicious ice water one second now this water bottle has some
+attributes and behaviors it has some properties and some methods
+what is an attribute of this water bottle it has a lid color of black it has a
+
+02:35
+full property of 50 well 60 it has a shape property of cylinder it has a brand
+of nalgene right so we can think of all these different physical attributes
+that describe this water bottle right not only its shape and color but
+also kind of like how full it is like all the different
+things we could use to describe the attributes of this water bottle
+now what are some of the behaviors of this water bottle
+what's something that it can do it can open right make you pee
+it can open and close open and close so there are attributes that describe this
+
+02:36
+water bottle but there are also behaviors that describe this water
+bottle like opening and closing beautiful let's continue this
+train of thought with an object that we can all think about and let's think
+about a stopwatch what are some attributes of this stopwatch
+this is a physical object that has some attributes what are some attributes of
+the stopwatch now don't don't throw out the value a
+lot of folks are throwing out the value this has a color attribute that has a
+value of black we want to say the attribute is black we would say that the color
+attribute is black how about the shape attribute the shape attribute is round
+
+02:37
+the brand attribute is accusplit the model attribute is pro survivor the minutes
+attribute is set to three the seconds attribute is set to 59. hey thank you
+for the hype train everybody uh the milliseconds
+property or attribute is set to 45. so we can think about a physical
+a physical stopwatch and think through all these attributes of this object yeah
+its shape its brand its color all these different things that make up the
+physical attributes of this object but a stopwatch also has some behaviors
+what are some behaviors of this stopwatch yeah it can start it can stop
+it can split it can beep right so there are a lot of behaviors that this
+
+02:38
+stopwatch has and so when we think about physical objects we can think about
+their attributes and we can think about their behaviors
+and when we think about these objects it's the same thing when it gets to code
+arc our objects in javascript are going to have some attributes and they're
+going to have some behaviors when it comes to javascript
+objects we call those attributes properties and we call those behaviors methods
+and underneath the hood our properties are really just variables
+color equals this shape equals this and our methods are really just functions
+sets of instructions so when you think of objects in terms of
+javascript just think of regular old objects in regular meat space they have
+
+02:39
+properties and they have methods you might have
+called them attributes and behaviors but it's the same thing
+when we look at the stopwatch we can do the same exercise again and we can say
+the color property is black the brand property is accusplit the val
+the the the minutes property is three the seconds property is 59 right and we
+can say that the the actual methods that this stopwatch
+object has is start stop split beep all these wonderful things cool
+so here is what that actually looks like we can create a object using literal
+notation just like we saw literal notation with
+an array using square brackets we can literally create an object using curly
+
+02:40
+braces and so here i have created a stopwatch object
+using literal notation which means curly braces
+then right here i have set up current time and current time is the first what on
+this stopwatch current time is a what we talked about objects having two things
+so current time is the first what yeah it's the first property right it's
+the first property the current time property is set to 12.
+next if we look at stopwatch you can see that we're setting up tell time
+and without having to really know too much about our objects we know that
+telltime is a what it's not a property it's something else
+yeah it's a method how do we know that tell time is a method
+
+02:41
+what's the dead giveaway that tell time is a method
+it's snitched on itself yeah it's a function right whenever you have
+an object and you're setting something about it to a function
+dead stop it's a method as soon as you set tell time equal to a
+function you have a method so right off the bat we can see that our objects
+can have properties like current time and methods like tell time
+a property is going to be some value and a tell time is going to be a value
+that is a method it's always going to be a value that is a function
+so if you're ever looking at an object and you see it set equal to a function
+you're going to call that a method anything else you're going to call it a
+property so the cool thing is we can use these
+properties and methods just like we would use any other variables and
+
+02:42
+functions and so once we have set up these properties and
+methods we can start to use them so here we have stopwatch dot current time
+ignore this stuff here and ignore the parentheses if you're just looking at
+stopwatch dot current time what does that equal
+stopwatch that current time equals what yeah equals 12.
+it's the same thing as slapping 12 in there because you can see we created our
+object and we gave it the current time property
+of 12. we can always ask for that property back from the stopwatch object
+by using this notation anybody know what kind of notation this is called
+has that has a very specific name what type of notation is that did you get it
+from the reading yeah it's called dot notation we can use dot notation
+
+02:43
+to add a property or add a method but we can also use dot notation to consume we
+can get the current time right so right here we know that stopwatch that current
+time is the same thing as grabbing 12. so wherever i see stopwatch.currenttime
+it's the same thing as 12. now if we ignore this for a second
+and we look at tell time how could we tell that tell time
+was a method even if we couldn't see it up here
+in this instance how could i tell that tell time was a method even if i
+didn't see the function above yeah exactly tell time has the parentheses
+
+02:44
+right so if we were to write this out stop watch dot tell
+time just the parentheses open and close you can see that it has the parentheses
+whenever you see those parentheses what is that what is it what are we trying to
+do what are we trying to do exactly we're trying to call
+whenever you see those whenever you see those parentheses we're trying to make a
+function call and so if we're making a function call
+and it's tied to something else right it's tied to something else right
+if we're trying to make a function call and it's tied to stopwatch right it's no
+longer just a function it's a what if we're trying to make that function
+call and it's tied to the stopwatch object it's no longer just a function
+
+02:45
+it's a what it's a method exactly when our functions are tied to objects
+we call them methods and when we have individual variables tied to our
+objects we call those properties so here we can see a property tied to our
+stopwatch object and we can see a tell time method tied to our stop watch object
+now shadow said can you use current time inside the function
+heck yes we can let me show you why right right we can for sure so
+stopwatch that current time evaluates to what what does it evaluate to
+it evaluates to 12. so what we wind up really doing is stop watch tell time
+
+02:46
+but we pass in 12. we pass in 12. so that means we're going to pass 12 into tell
+time so here's our function for tell time that 12 it's passed in
+wherever i see time i see 12. so console log the current time is 12.
+and so that's how we can use the properties and the methods together
+right we can use the properties and methods together we had one we had one
+stopwatch object that came with a property and it came with a method the
+property was the current time and the method was tell time and we were able to
+use those together to start to do some cool stuff we can run that telltime
+
+02:47
+method and we can actually pass in the current time if we want
+so objects are like customized methods well you can think of objects having
+their own functions which can be customized and those are methods all right
+let's go ahead and try writing some code to make this make
+a little bit more sense right let's try writing some code to
+make this make a little bit more sense let's look at the objects zeo so if we
+look go to objects here we have zeo and in this object zeo
+i want you to create a stopwatch object that has four properties
+and three methods right create a stopwatch object has four
+properties and three methods i'm gonna get i'm only gonna give you three minutes
+three minutes to try and bang this out look at look at the look at the past
+uh the past slide if you need to so three minutes and we're going to go over
+
+02:48
+it together stopwatch obviously has four properties
+and three methods try it even if it's not making sense look at the slide and
+use your good old 100 devs try to make it look the same here
+four properties three methods three minutes go for it
+put the other slide up so folks can see it four properties you can see adding a
+property here and a meth and and the methods
+daddy's home 420 hey thank you for the hydration cheers to you
+
+02:49
+a lot of this should have been reviewed folks a lot of this should have been
+review this is this is in the reading minutes two minutes
+uh diego you haven't sent me a whisper diego
+
+02:50
+so if we don't have your whisper i'm gonna have to pick the raid [Music]
+all right folks 45 seconds you got this oh we got some duns coming in i'd like
+
+02:51
+to see it [Music] all righty eight seconds we're gonna go over it together
+we're gonna maybe maybe slightly blow your mind just
+a little bit before we get to thursday's class
+all right let's come back let's go over this together alrighty
+so i wanted a stopwatch object so the first thing i need to do right
+the first thing i need to do is create the stopwatch object so i'm going to go
+ahead and do let stop watch equal and then my curly braces
+what type of notation did i just use right what notation i just used to
+
+02:52
+create the object literal notation exactly i literally created the object
+on thursday we'll see constructors and some other fun stuff ways to create
+objects beautiful so let's add four properties uh i'm gonna imagine like a
+nike stopwatch so i'm going to go ahead and say stopwatch dot brand equals nike
+okay then the stopwatch dot color let's keep it the same as the picture
+we'll say black and then um actually i'm gonna keep it lowercase
+i don't get in trouble there [Music] stopwatch dot
+what are some other properties that you all thought through
+what are some other properties that you thought through shape i like shape
+
+02:53
+let's say shape equals round and what else um size okay stopwatch
+dot size and we can set it equal to medium there we go medium um
+we got our shapeshifters medium and that's our four properties and so the
+cool thing is if we were to open this in the browser
+right if we were to open this in the browser let's go ahead and open it
+let's go ahead and open it all right let's look in the inspector
+go to our console here oh i failed to load the image
+it failed to load the image uh why didn't the image work anyway
+we can ask for this stopwatch right since we since we're in the console we
+
+02:54
+can ask for stopwatch so if we type in stopwatch
+you can see that we get back the stopwatch that we just created
+right we got we get back to stopwatch we just created we have brand color
+shape and size on the stopwatch that we created so we can actually ask for
+stopwatch dot brand and it would give us back nike right we could ask for
+stopwatch dot shape and get back round because we declared
+the variable stopwatch and literally created an object and then we added the
+properties one by one we could if we wanted to as we create the object have done
+brand and then did nike right then we could have done color and do black
+
+02:55
+that's a little too much to get started with so for what i did for now is i just
+literally declared my object and then i did them all on individual
+lines so they could actually see it but you could actually do it all if you did
+the reading it could all be done uh inside of the curly braces if you want
+it but this is this is readable for now and we'll get some some other ways to do
+it later all right so we have our four properties and then let's go ahead and
+create the methods so the ones we kind of already said i
+think i wanted to use so let's go ahead and do start
+and i'm going to set that equal to a what if i want this to be a method start
+has to be equal to what has to be equal to a function so i'll
+make this a function and we're going to say just we're going
+
+02:56
+to like console.log starting starting boom all right
+that's lock starting wonderful and then we're going to go ahead and do stop
+i'm going to do the same thing equals function
+and we're just going to console.log stopping
+can you do with an arrow function you could you could um stopping and then i
+want one more which is beep so oh we could we could say um i like beep
+or let's let's make it say something set a beep stopwatch dot say
+say say say brand there we go we'll set that equal to a function
+and will console log and what could i pass in here so that it says the brand
+
+02:57
+what could i do so that it says the brand we could hard code it we can just hard
+code it for right now we could eventually get to something
+called like this but that's a little too advanced for today we're gonna say
+stopwatch dot brand because we know that this right now
+stopwatch.brand is nike right so this would only work for this stopwatch but
+eventually we'll get to this and it could be more
+interchangeable all right let's go ahead and save all this we got our four
+properties we got our three methods looks good to me let's come back look in
+the console let's refresh so if we ask for stopwatch
+we can see everything that's stored in memory right now for stopwatch we can see
+all of the brands the colors but we can also see these other things in there
+what what what else have we added to this stopwatch object that the console
+
+02:58
+can show us what have we added yeah we've added our methods exactly
+we've added our methods and so inside of the terminal
+we can actually use these we can do stopwatch dot
+um size and get back medium but let's try running some of the methods stopwatch
+dot start if i just did this something weird would
+happen if i if i want my methods to run what do i need
+i want my methods to run what do i need i need my parentheses so right now i
+don't have my parentheses if i just hit enter
+i get the function declaration back right i get the function declaration
+back but it didn't actually run it's just showing me
+what i have stored into memory but it didn't actually run if you want your
+methods to run you have to use the parentheses so boom
+i hit enter now and you can see it logged to the console starting
+right log the console starting and then we can also do the stay brand so
+
+02:59
+stopwatch that say brand and once again if i want it to run i need
+my parentheses to make it a call boom you can see that it console logged the
+brand which was nike i looked at stopwatch dot brand
+it was nike so this this method of say brand actually
+actually works it said the brand that it was which is nike
+why does it say undefined because there was no return
+it was expecting a return and i didn't have a return in my methods don't worry
+about it yet yeah that's something we'll get to later on cool alrighty
+cool so we we hit some things here we we have some
+some properties that we can use on our objects and we have some methods that we
+
+03:00
+can use on our objects now can i just can can just give me give me a few
+seconds here i just want to tease your brain just a little bit just a little
+bit and then third is i'm going to like blow it
+all right if we look back at some of the stuff we did earlier today like leo no
+look at back some of the stuff we did earlier today let's um let's look at
+this one that we just did recently here i grabbed the length of sorted
+what does length look like right now based on what we just learned tonight
+about objects what does length look like it looks like a property but you're
+saying leon sorted is a what though sorted as a what
+sorted is an array right here but we're using length huh filter
+looks like a what let's get rid of stuff that's inside of here
+
+03:01
+filter looks like a what a method huh but it's it's working on an array
+we've been seeing these properties and these methods since the beginning
+we saw math.min math.max we saw two string we saw some these these methods
+and properties that we've been using this whole time interesting i say
+interesting indeed and that's because every single thing in
+javascript is an object does it matter if it's an array a string
+of whatever anything we've seen so far it's all been a lie
+it's all been objects this whole time so
+
+03:02
+on thursday we'll make that mind-bending idea come to life
+we'll see how we can start to really use objects we're gonna we're gonna peek
+underneath the javascript hood and see how everything really is objects
+alrighty folks a huge thank you to everyone this evening hitting a hundred
+jobs was a huge milestone uh something i'm super proud of and i'm super proud
+of this community every single day you show up you put in the work you help
+others let's uh keep the positivity going we're gonna go ahead and do a raid um
+the person that redeemed it didn't actually whisper me
+um so i didn't see that come through so i've already queued up a different raid
+um diego we can do a different raid the other
+on thursday if you want um but we're going to go to uh nick
+who's doing a competitive data visualization we've been there to them
+before but they're doing something special today let's go ahead and give
+
+03:03
+them some love if you haven't given them a follow they definitely deserve it
+go ahead and let's go and set that up beautiful alrighty folks
+hope you had some fun reviewing arrays seeing some of our newer ways to handle
+things like arrow functions some more methods uh we're going to do more object
+practice on thursday don't worry if this is your first time seeing objects we'll
+get into it on thursday we'll have more fun we'll make it make more sense
+thank you so much for 100 jobs it means a lot it means a lot that you're all
+here you continue to show up continue to put in the hard work we're just getting
+started folks next week best week ever let's raid

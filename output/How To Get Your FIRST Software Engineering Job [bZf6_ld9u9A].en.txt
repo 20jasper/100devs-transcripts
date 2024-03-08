@@ -1,0 +1,1797 @@
+
+00:00
+spread out throughout our time together
+has been little things that help you get a job
+so what I have done is combined all of those Snippets into one class so I don't
+care if you are on class one ketchup crew I don't care if you're deep in the
+hunt or if you're already on the job this class is for you
+now we're going to cover a lot of stuff we're going to cover everything from
+your online presence to how to interview all the way through data structures and
+algorithms just to get that refresher and we didn't get a lot of space
+repetition in yet right and so we're gonna pull it all together in one class
+and my goal is that as you are going throughout the hunt this is the class
+
+00:01
+you come back to when you need to remember you're a
+wonderful time in the hollowed Halls of 100 devs this is the class you come back
+to when somebody says Hey Leon or hey your name I've been trying to get a job
+for a long time I haven't been able to do it this is the class you show them
+all right so that's the goal uh we're gonna walk through kind of all these
+little bits Bob's doohickeys bring it all together
+and then you are ready to go along the hunt now this isn't this isn't the end
+folks this isn't the end uh as you know tomorrow we have our tea spill six
+o'clock on Discord these t-spills have been wild folks absolutely wild the
+information gets shared in these real boots on the ground experience of what
+it's like to get a job coming out of the hundred devs experience
+
+00:02
+what it's like to get a job right now right then all day next week not just
+Tuesday when we have class but Monday Tuesday Wednesday Thursday Friday you
+have stand up right come on over to stand up we got
+500 plus people sometimes peaking over 600 people walking through a coding
+challenge each day learning progressively harder and harder
+methods than harder and harder data structures and algorithms
+answering real questions of what folks are running to and running into on the
+hunt so this isn't it this isn't the end this is a beautiful new beginning
+all right so let's get into it I want to go back
+I want to start at the beginning I want to bring in all the things that I think
+are going to make you successful on the hunt if you're new around here you got
+referred from a friend what an amazing friend they are I'm Leon we're running a
+
+00:03
+free software engineering boot camp for folks that are trying to go from zero to
+employed right and we've been doing this for months so we are condensing all of
+that knowledge into one class but there are definitely
+areas where we go into more detail and previous classes on YouTube where you
+can go back and watch those classes so if you feel like we go a little too fast
+through something that you really want to dive into a little bit more you can
+definitely check out those previous videos on YouTube and I really think
+it's important no matter what stage you're at that you really take this
+stuff to heart and that you keep it up to date
+it's wild on these streets folks and I'm a realist
+I always tell my students yes you got the job but the first three months are
+the most important of that job and maybe even of your career those first three
+
+00:04
+months are hard those first three months don't always work out
+so while you're getting paid to learn how to code keep all this stuff up to date
+right we're seeing some layoffs come around come around right if you're at a
+company that did layoffs and you're the first person in the door well guess what
+you're the first person out never exactly never stop looking for a
+job always keep this stuff primed always
+make sure this stuff right it's the FIFA data structure
+oh you didn't do them like that that would be that's a fire tweet right there
+somebody tweet that I'll I'll retweet it [Music] um
+and so I think it's important to keep that in mind whether you're you're just
+starting the hunt and you need this stuff for your current process whether
+you're on class 11 of the ketchup crew this is something you should start
+working on now anyway and if you're on the job make sure all this stuff is
+buttoned up I know it's a lot I know you're learning a lot I know you're
+
+00:05
+putting in a lot of work but you got to stay on top of this stuff to all right
+we're going to discuss are you ready come to the boardroom
+you're ready you're ready to interview no matter
+how prepared you think you are if you've been keeping up with pace of class you
+are ready easy dunk we're going to talk about how to get an
+interview how to do all the little things to to make sure that you're
+attractive to interviewers to all the things you need to do to kind of get
+past that first round to pass the sniff test right and then how you can
+get past the further rounds like the technical challenges and things like
+that so lots to cover we're going to go through it uh at a fast clip at this
+
+00:06
+point in program it is the hardest for a lot of folks
+there is a mental block that happens where they legitimately don't want to start
+the hunt let me get bigger I'm gonna go there's
+a moment exactly where imposter syndrome
+hits you doubt all the work that you put in and you talk to yourself and say
+maybe I'm not ready you are ready now are things gonna go perfect out the gate
+absolutely not you have 60 companies that you have to network your way into
+and people are gonna ghost you interviews are gonna go poorly things
+
+00:07
+are not gonna go your way but that is oh okay you are ready
+you have amazing projects you have skills that no one can take from you you
+have put in the work to start the hunt so please please start the hunt
+this is your sign right this is your sign this is your sign please start [Music]
+you that has not started this is your chance to start I'm asking you start
+because once you start you start to realize
+
+00:08
+that it's not as bad as you thought it might be one of the things that so many
+folks have said right so many folks have said on Discord
+especially during the tea spills is that I thought these interviews were
+going to be one thing and they were completely different than what they had
+built up in their head right you will be surprised about how some of your
+interviews go where it feels like you're talking to a friend where everything
+kind of Vibes it just works out right get to that point where you get to those
+interviews where you feel the weight come off your shoulders because you are
+ready now the Hunt is a hunt you don't go out
+and get your kill every single time you go out to hunt you have to be ready for
+it to take a while you have to be ready for it to be something that can take you
+
+00:09
+to your breaking point I loved Jeff's story from the T spill on Friday Jeff
+time and time again had to take breaks but just didn't give up and found a
+phenomenal job that fits them perfectly all because
+they decided to not give up and that's easier said than done
+but that's the only thing that's standing between you and a job
+is you deciding to either not start the hunt or to not complete it because the
+hunt does not stop until you get a job hundreds of folks with the same skill
+set and experiences as you have gone out and gotten a job you can do this you
+have a whole Community behind you that will support you in doing this you are
+
+00:10
+ready just had a CTO of a major Canadian tech
+company respond to me on LinkedIn with a meeting date don't be afraid to reach
+out once you start doing it magic starts to happen the more you start to open
+these doors the more opportunity that can come and knock him that's it folks
+that's it so tonight I'm gonna help you button up everything that you need to
+open all those doors to start the hunt to continue the hunt or to refresh your
+hunt so you can actually get the job but before we get into that you are ready
+start all right now how do we not run into this situation
+
+00:11
+where uh they they they had 400 plus applications uh with no luck right
+they had 400 plus applications with no luck uh it's because they were a dirty
+dirty Clicker right they they just clicked apply never ever click apply
+just doesn't work now can you can you get lucky yeah you can get lucky and
+when I say never ever click apply what what I really mean is you network your
+ass off you try every Avenue to get into that company to talk to a real living
+breathing human being to get your work in front of people that can actually see
+it if you've given it the good old 100 devish try you've really networked you
+know in your heart of hearts you've done everything to get in front of a real
+
+00:12
+human being and for some reason it's not working out then you click apply
+but if you just click apply on 400 plus applications don't be surprised when
+nothing happens applying is your last resort exactly all
+right so what do you need before you start kind of networking your way and
+start applying uh you need the checklist and so you can do exclamation point
+checklist here in chat or you can click the link that's in the slides uh
+remember this originally came from Stephanie who came for two Mondays they
+helped us build out our template replies list you can do expiration Point
+templates if you need those templates so thank you Stephanie for helping us put
+this together it's everything that you need to pass the initial sniff test right
+you're about you your portfolio your resume your GitHub your Twitter your
+
+00:13
+LinkedIn your Angelus your cover letter your cover email it's all here
+with check boxes so you can follow along with examples that you can follow and
+it's everything that you need to be ready for the hunt now
+uh I have a slide later on one of our folks that went on to get a
+job when they were doing their coffee chats one of the coffee Chatters said
+I've had dozens of folks apply that did not have this stuff
+right they legitimately didn't have their GitHub set up they didn't have
+their Twitter set up they didn't have a portfolio they didn't have a resume so
+when you see on LinkedIn 300 applications to a job you know 280 of
+
+00:14
+them are just Clickers right they're just Clickers who applies without a resume
+this person this person applies without the resume
+but here's what they think they think they have a resume
+but their resume is hot garbage haha garbage right
+they talk down about themselves they don't highlight their skills or
+experiences appropriately and so even though they might have a resume there's
+grammatical errors it's a dumpster fire right and they're not following an
+appropriate template for a resume they just kind of grab something off of canva
+and ran with it that's not how this works folks ATS is looking for very
+specific things like the automatic automatic systems that are looking
+through it recruiters are looking for very specific things so who's not
+
+00:15
+applying it's not they're not applying with it they just didn't put any thought
+into it they didn't put any they didn't put any logic into it right
+all right so grab the checklist has everything that you need right has
+everything you need uh to make sure that your Hunt is set up appropriately now
+before you go off the deep end before you even start working through the
+checklist the most important thing you need to
+think about is crafting your story right crafting your story is a very
+simple concept but it's hard in execution you're trying to answer the
+question why are you here when you show up for an interview
+why are you showing up for this interview what is the plausible reason
+
+00:16
+that got you from where you were to where you are now
+you don't want to show up to an interview be like well I need money
+so that's why I'm here um you need a story that helps you pass the
+sniff test why are you the most amazing engineer how have your background your
+skills and experience made you the best engineer for this job
+I don't care what you did before you can
+craft that into a plausible reason as to
+why you're the best engineer for the job
+somebody put a job in chat for me please just throw a job and chat
+like like a non-coding job bartender all right bartender was the first one I saw
+
+00:17
+in chat somebody give me a company random company like a random tech company
+oh y'all went too fast the second time Twitter I saw Twitter all right but it
+was the first one I saw bartender and Twitter
+foreign so off the Dome how I'd craft my story over the years
+I've had the privilege of working with great software and horrible software in
+my last opportunity I had to use a point
+of sale system that continuously did not work
+I would enter in orders I would enter in drinks and it just would never it would
+never work for myself it would irate me and it would upset my customers I
+decided then and there to learn how to write better code to fix these
+
+00:18
+point-of-sale systems so that individuals could have the best
+experience right now I know that Twitter is on the precipice of Designing new
+experiences for their users you're testing things like the edit button and
+things that will fundamentally change discourse on the internet I want to be
+at a company where I can put together my past experiences building wonderful uis
+that Delight users that make people happy and bring say bring that same
+skill set and experience to Twitter foreign why are you here
+right why are you here you need that story you need the ability
+to talk highly about your past experience I don't care what you did
+
+00:19
+before there is a way to craft that in a way that makes you a better engineer
+today because I'm telling you the folks that you're going up against the folks
+that are coming out of these four-year degree programs that don't have a
+hundred dollars project that haven't worked with real clients that don't have
+real professional experience You Should Be Dancing circles around them your past
+experience all right your past experience is the Difference Maker
+is the thing that's going to set you apart not hold you back so crafting your
+stories the first thing that you need to invest some time in doing uh Stephanie
+did say that they're going to come back and help us craft the story so we'll get
+that scheduled for one of our Mondays but that's the first thing you need to
+spend your time on why are you here because that story that's the first
+sniff test anyone coming out of this program has a
+
+00:20
+smell you have the boot camper smell right you have a boot camper smell so
+how do you get rid of that boot camper smell well having a well-crafted story
+that doesn't highlight that you just learned how to code that doesn't
+highlight that you just learned JavaScript four months ago right none of
+that gets highlighted your skill set your experience the
+things that you're able to do time does not matter what can you do what have you
+done and what could you do for that company that's what matters and that's
+what you need to highlight and that's why crafting your story
+becomes so important how do you address your story for
+different companies in different sectors that's the hard part you should have a
+different story for every company you apply to
+
+00:21
+now you can you can mold that UI example
+to be a bunch of different companies but when you're talking to a recruiter
+when you're talking to that first gatekeeper for that company that you're
+trying to apply to you want a well-crafted story that explains why you
+showed up why are you here it's not because you just completed a boot camp
+and you want a job it's because your past skill set and experience is align
+with the opportunity in front of you right you have to be doing these things
+that reduce your smell do not put Junior anywhere in your title
+do not put aspiring on your Twitter if
+you write code you're a [&nbsp;__&nbsp;] software
+engineer and your online presence should reflect that
+
+00:22
+don't snitch on yourself don't undersell yourself bruh
+you all have amazing projects you've worked with real clients committed real
+code to real open source projects you've built some amazing stuff
+do not sell yourself short The Hunt is not the time to be humble
+The Hunt is the time to put your best foot forward to do everything you can to
+reduce the smell and to get a job leave humble at home exactly blah cool foreign
+important to remember that first nif test is really to get you to the Nerds
+right A lot of times in the process there's a recruiter that's in your way
+there's an HR person that's in your way there's somebody that's trying to
+
+00:23
+qualify whether or not you are worthy enough to interview those first persons
+really have no ability to evaluate whether or not you go to the next round
+right I mean sorry whether or not you get hired they're kind of just there to
+make sure that they're not putting too much of a burden on the Nerds that
+actually will do the evaluation as to whether or not you're a good fit and so
+there are a lot of things you can do that past sniff tests right no person
+ever got in trouble referring someone to the engineers that graduated from MIT
+right that just that just passes the sniff test for you right and so what you
+have to think about or what are the things that are going to help me pass
+that initial sniff test so that the person that says they were worthy to go
+talk to the engineers knew how to code right that they were a a good software
+
+00:24
+engineer what are those things that you show up as that you talk about yourself
+as that they say you know what you should go on to the technical portion of
+this interview things like a well-manicured GitHub with
+your green squares does it work for everyone no but does it work for some
+yes they see that you're pushing code every day pass the test
+they see that you have amazing projects in your portfolio past the test will
+everyone look at your portfolio no but some might
+do you have real clients yes you passed the test do you have real people that
+could talk about your engineers yes you pass the test there are all these things
+that you could be doing that help reduce
+that smell and that's what we're talking about tonight
+the goal is to get to the Nerds once you
+get to the Nerds it really comes down to two questions
+can this person code and do I want to work with them for the next two years
+
+00:25
+can this person code and do I want to work with them for the
+next two years that's it that's what they're trying to surmise once you get
+past that original person once you get to the nerves once you get
+to the technical folks can you code it won't work for the next two years and
+the beautiful thing is you can game either one of these
+you could be really great at coding and get the job you could be really great at
+the person wanting to work with you for the next two years and also get the job
+the reason why we talk through prep the reason why we talk through the ways that
+you go about these interviews that we're going to get to in a little bit is
+because each person that you're interviewing with typically has a vote
+they get to say whether or not you go to the next round right whether or not you
+get hired whether or not they would want to be your co-worker
+and so when you're in these interviews it comes down to can you code
+I want to work with you for the next two years and you can play both of those
+
+00:26
+games mine was that I got my job being good at
+the second one not the first but it worked hell yes
+yeah and it's very true the definition of can code varies hugely between
+different groups of nerds exactly one one group of nerds might look at your
+100 products it can go damn this person knows how to code another group of nerds
+might look at your GitHub and go damn they push code every day they know how
+to code we don't know what each company is going to use as the
+metric of success that's why all this is about is opening as many doors as
+possible some people will come to me and
+say Leon no one's looked at my portfolio great you haven't run into the people
+that care about your portfolio Leon nobody's looked at my resume great you
+haven't run into the people that look at your resume we're talking about 60
+companies give it some time we talk about 180 people at those 60 companies
+
+00:27
+give yourself some time and find your group of nerds some interviews go
+horrible some interviews go well we had well blah blunted it during the tea
+spill but we've had Engineers that one day they completely
+they cried in an interview were made to cry an interview and then the next day
+got a six-figure offer that person did not change from Wednesday to Thursday
+why was one interview hell and the other interview heaven
+they did not change in less than 24 hours it's because different companies
+test different things different people work at different companies you're gonna
+find a fit the reasons I say you apply to 60 companies and not apply Network
+your way into 60 companies is because there are 60 different cultures there
+
+00:28
+are 60 different groups of people you find you're fit and that's when this
+stuff goes well the numbers game you're playing a
+numbers game do not get upset at yourself because the first 10 don't go
+your way you just haven't found your people yet just takes one
+it just takes one out of the 60. some folks get lucky it's the first one they
+ever do some folks do 55 and that's when they find it
+cool now one of the first things you need to do one of the first few doors
+you're gonna open that reduce the smell and make it likely for you to make it
+into the initial rounds of interviewing or your portfolio your Twitter and your
+LinkedIn now telescope thieves uh who went on to get an amazing job uh
+they had something to say and I kind of mentioned a little bit earlier
+
+00:29
+just had a coffee chat was told they see so many applicants with empty githubs
+no portfolios and no projects under their belts on the right track y'all and
+definitely giving us the cheat codes I agree with this wholeheartedly
+you know how I know that this is true do you want to know how I know that this
+is true without a shadow of the doubt it's because I've been asking
+the 1300 people that are here for for months to push to GitHub every day
+to have a good portfolio and to build a 100 hours project and um
+some of you don't have it done so when you've been in a program
+
+00:30
+that asks you week after week month after month to do this stuff and you're
+not doing it how is some poor sucker off the street getting it done
+it just ain't it just ain't happening so that means when you do it
+when you have the portfolio that's popping you have the Twitter that's
+looking good you have the Lincoln that's standing out right
+you're putting yourself ahead of the pack not all the way to the front but
+you're running it with a different group of people you ever watched like a you
+ever watched like a competitive race right there's two packs right you have
+the folks that are actually trying to win the race and everyone else
+you at least want to be in the group of folks that are trying to win the race
+don't be in that group of folks that don't
+
+00:31
+have their portfolio their Twitter their LinkedIn their GitHub all that crap
+you're still running but you ain't gonna get anywhere you're
+not gonna win nothing why put in all the effort why put in the
+work why are you still running if you're not going to do the stuff that's going
+to literally help you win the race it makes no sense just stop
+I don't hope you stop I hope you do the things that you know are going to open
+the doors I hope you do the things that you know are going to be the difference
+in getting the job run with the front of the pack right
+run with the front of the pack run with the folks that actually want to win
+right run with the folks that are going to get the job done
+get this stuff done it helps you open the doors and I'm gonna say it and I'll
+be the first person to say it you don't need to open every door
+
+00:32
+but the more you open the more you open the more likely you are to get a job
+yeah Dr Eric Thomas exactly um winners when losers lose
+it's a really rough saying some people really take this saying to heart and I
+wish I hope you understand what they're trying to say winners find a way to win
+did Jeff lose I'm gonna I'm gonna [&nbsp;__&nbsp;] cry did Jeff lose no
+because winners win and losers lose Jeff had every log thrown their way
+
+00:33
+every log thrown their way months in between interviewing but winners win
+and losers lose because losers give up that's it
+that's it winners find a way to win that's it
+that's it there's can't say it no better winners win losers lose winners find a
+way to win Jeff was our last tea spill um for folks that missed the T spill uh
+Jeff had some things come up in life they they stopped the first cohort they
+joined the ketchup crew uh they they they they they had a lot of things that
+got in their way but winners win and losers lose Jeff
+found a way did Jeff open all the doors I'm asking you to open no they found the
+
+00:34
+ones that made it possible for them to win so I'm showing you all the freaking
+doors that I can it's up to you to figure out which ones you want to open
+cool starts off with your portfolio your Twitter your LinkedIn uh blah sorry
+here's Bloss portfolio beautiful portfolio full stack software engineer I
+that worked uh beautiful website good about me why are they here what are
+they doing projects that they've worked on the things they could do for you
+right and at the end uh you can see that it was a template right
+no need if you're not a designer use a
+[&nbsp;__&nbsp;] template that's it you don't
+need to you don't need a big brain it you don't need to overthink it
+
+00:35
+yeah yeah tell them about themselves May sunflower uh it should be saying senior
+software engineer blah come on now senior software engineer
+right completely free you just grab it plug in your stuff you
+got yourself a portfolio and I love this portfolio because not only did it help
+them get a senior software engineering job for their first engineering job but
+it also helped them land a thousand dollar client off the rip
+not not anything wild re-template beautiful portfolio
+great client amazing job don't overthink it
+uh Twitter Twitter is a powerful tool to help you find a job
+um I love Jeff's Twitter I think it's pretty simple and uh
+
+00:36
+kind of just has a nice photo Jeff developer photographer animal lover
+cheese guy uh says what they are what they do what they're into what they do
+at their free time I love it I love that it says cheese Enthusiast
+that's gonna that's gonna I'm gonna be interested in that what is the cheese
+Enthusiast right that's something we're gonna talk about you don't have to
+overthink it simple to the point fill it out say what you do what you're into
+make it look good don't have just like a blank background right
+a little bit of effort yep and don't waste time redoing
+perfectly good portfolios good call blah get it done and move on with the hunt
+is Twitter really need it yes it is a door that you can open does
+everyone open it no but it's a really important door because
+a lot of developers a lot of developers hang out on Twitter
+
+00:37
+it's an easy way to network with individuals the the trick that I've
+taught or I showed you what I do is I have private Twitter lists
+I put every person that I'm trying to network my way into like to get a job on
+that private Twitter list start liking their posts
+retweet them every once in a while leave a comment you do that for a couple of
+weeks you went from a nobody to an acquaintance
+and acquaintances get their DMS read so is Twitter necessary
+it's a door that you can open I think it's a really important door
+it's the easiest way I know to turn a massive amount of developers into folks
+
+00:38
+that'll actually give you time of day Twitter's helped me meet connect with
+lots of devs yes it's just it's just the
+easiest it's just the easiest way I know to interact with a lot of folks quickly
+and build up that rapport with individuals especially in Tech so is it
+necessary it's a door I think you should open it I think you
+should take it seriously I think you should build private lists of all the
+folks that are on your Hit List which we'll get to in a little bit that you
+want to reach out to that you want to engage with and start engaging with them
+just like leave some comments get on their radar and when the time is right
+you can reach out via DM say hey I saw you have an open position I would love
+to to chat about the role boom coffee chats amazing Twitter so easy to
+find folks and talk to folks and get coffee chats to build up that Network
+Twitter feels more social compared to LinkedIn it is it's way more relaxed
+
+00:39
+right it's way more relaxed it's a little bit easier to interact with folks
+um Sam I think is a master class on this
+I know Sam is stepping away from Twitter now um
+but if you just go to their Twitter and like start from the beginning like I'm
+dead serious if you want a master class on how to do Twitter right
+on how to like grow a network uh to meet other developers Sam is the best I've
+ever seen in the whole wide world and they they started with 100 devs and really
+took the Twitter very quickly go to their profile start at the beginning and
+look at the tweets they sent look how they interacted with people uh it's just
+it just really is worthwhile to spend that time yeah hey profits
+uh and then last but not least is is LinkedIn uh you want a decent LinkedIn um
+I still want to pop up somebody's message so I'm going to open this over
+
+00:40
+here real quick so Nick was one of our other tea
+Spillers I think they have a pretty solid um they have a pretty solid
+uh LinkedIn as well and so it's all linked here in the slides I love that
+they put software engineer right in the right in the title
+um they're connected with a lot of folks they put their what they do where
+they're based all the stuff that we actually do like the stuff that's in the
+resume template they put into the LinkedIn they shared some important
+stuff uh they list 100 devs they list some of this other stuff they've done in
+the past right um and then what I also love is that
+they've joined the 100 devs right they joined the 100 devs group on LinkedIn
+and they asked folks for endorsements so did a recruiter ever get in trouble
+
+00:41
+recommending someone that had 60 endorsements for JavaScript and 59
+endorsements for react and 59 endorsements for node.js nah
+what up Nick hey juice nah so get on get on the LinkedIn group
+and say hey I would love to be endorsed for JavaScript react node and we see
+somebody post it boom hit it up that's it
+if they're in the 100 devs group do they know JavaScript yes do they know react
+the basics yes did they know JS yes so is it hard to recommend somebody for
+those three things when you know they went through this program and did all
+three of them no boom so go through and do it
+and they got 20 other skills too which is pretty dope uh so I think this
+LinkedIn is a pretty good LinkedIn uh definitely go through it make sure yours
+
+00:42
+mimics this uh I also shared um Danny Thompson's LinkedIn course I
+really do recommend it it's completely free it'll walk you through all the
+things you need to be thinking about when setting up your LinkedIn uh I need a
+need a Like a Knife bot command for that course but it's on Discord I've shared
+it before um make sure you you can just go through
+the follow-on materials channel search for LinkedIn and it'll pop up
+how many LinkedIn endorsements is too many there is no such thing as too many
+you know is that a YouTube course yeah he has it
+on YouTube it's like four videos where he shares like all the most um
+all the most important stuff to think about when going through Linkedin so yeah
+uh will you checked under every LinkedIn group for folks who are waiting yeah I
+added everyone last week uh so if you just recently
+um signed it up I'll check after class to get most folks in I do not accept you
+
+00:43
+if you do not have a profile like if you don't have a name and a photo I don't
+accept you hey Reviving Juliet that's awesome first
+time chatter uh thought I'd share I'm the ketchup crew uh your info especially
+stuff on passing the sniff test and getting socials in order got me a three
+thousand dollar freelancing client that's huge congrats uh first ever money
+I made from coding boom packet Discord said tons of people are
+adding me on LinkedIn without a message never ever although those
+clickers don't ever add somebody on LinkedIn without a message
+even it's just hey we're both in 100 devs loved your profile send a message
+let them know why you're adding them on LinkedIn your
+LinkedIn if you got anything if you got anything
+
+00:44
+from my speed run classes what was the one thing that you just kept seeing in
+my speed run classes what did you see like every single time
+I was finding somebody a job I was looking at looking up a job I was
+looking for people that worked at that company what did you see every single
+[&nbsp;__&nbsp;] time yes I was sending them personalized
+messages but I was connected to them already they were always second connections
+almost every single person I pulled up random people from random companies I
+was connected to I treat my LinkedIn like gold
+I add folks that I know so that when I see that I'm connected to someone I can
+ask for the connection right treat your LinkedIn that way too
+right if you actually know somebody from 100 devs then add them like if you
+worked on a project with them if you've met them in voice chat don't just
+
+00:45
+randomly add them like having more people on LinkedIn doesn't really do
+anything for you but when you can use it
+as a real Network to get intros that's a whole different story cool
+and uh last but not least before we move on we're going to take a break
+all right let's we can take a break here when we come back I'll talk about kind
+of the things we just covered so we're at the top of the hour if you're new
+around these parts we'd like to take a break at the top of every hour to be
+healthy if you are able all right if you're able please get up
+move around hydrate take care of yourself um Taz Express 2022 gave me a hydrate
+thank you bid mule and player 09x give me a
+posture check I'm going to get into that the only JCS give me another hydrate
+thank you and government tour gave us a two minute extension on the first timer
+
+00:46
+so this will be a not a five minute break but a seven minute break folks please
+you're able go look out the window go tell somebody you love them all right
+so we talked about kind of portfolio Twitter LinkedIn um
+now we have the portfolio piece so here's my little bit of code for you uh
+if designer equals true then go ahead and design your portfolio if not use a
+template all right um somebody says you're a developer why
+did you use a template uh because I'm not a designer
+my designs look like garbage do you want somebody that makes garbage designs or
+somebody that can build amazing products because I can build amazing products my
+designs just look like hot garbage because I'm not a designer
+
+00:47
+all right so templates the place to start uh is HTML5 up uh they just have free
+templates they're not shady like they don't have like weird stuff like I don't
+know there's a lot of places when you try to download templates you always
+wind up with like an extra buddy on your computer
+um and so I like this site they're free uh once you get a paid client I am
+definitely a fan of using better templates uh theme virus has a lot of
+them uh depends what you want to use like there are a lot of like Tailwind
+templates down stuff like that so um there these are like the only places to
+find them but just kind of like once you
+get a client and if you have some of the money coming in from your client work
+and you want a better template you can but this is totally fine
+people get amazing clients amazing jobs with just HTML5 ohm templates so don't
+don't stress it uh hosting for your templates uh for your for your
+basic portfolio and stuff just use netlify netlify.com drop is super easy
+
+00:48
+you literally drag your folder onto netlify.drop and it hosts it instantly
+um you don't need to buy a domain you can just use the netlify dot app
+um one of the examples I always give is Sean
+um RC alumni and definitely helps a lot of folks here at 100 devs uh they
+famously got an offer at Amazon and an amazing client just using the netlify
+domain like it was just the Sean uh there's like Sean Charles at dot netlify
+dot app and that got them a job at Fang and an amazing client so you don't need
+to buy a domain you can use the netlify dot app for whatever a completely free
+to host and to use that domain but if you do want to buy a domain uh name
+cheap and I want my name or where I think you should get your domains from
+but once again this is a completely free program do not pay for anything you do
+
+00:49
+not need to buy a domain you can just use netlify.app and it
+works just as fine nobody cares cool uh next bit of things that we need to
+help us pass the sniff test is the resume so the resume is pretty
+interesting I've given you this example resume here this Bob coder you'll notice
+that it's a docx never use docx always always export this as a PDF I
+just use that so that it's easier for folks to edit however they want to edit it
+um this resume just [&nbsp;__&nbsp;] works it just works it just works
+you don't need to use something else it just works
+right and so I think a lot of folks say Leon like my um my resume is holding me
+back because you're not using the template just use this templated resume
+
+00:50
+it just works your resume should be one page and it should be this thing this
+resume has tables it does not if you save it as a PDF it does not have tables
+I don't know where that came from it's not true if you can when you go to
+the PDF and you highlight over it if you see that happen then you you know that
+it can be seen by ATS if when you highlight it you see it pop
+up that's that's ATS approved I can also show it to you by going to the CV
+compiler which picks up everything so TV compiler they do have a free version uh
+and that free version um that free version will show you that
+it is ATS compliant uh people think like ATS is like a fancy
+thing all ATS is doing is like yanking text and so if you're able to yoink text
+
+00:51
+from a PDF then your resume is ATS compliant mm-hmm
+so here is the Bob coder resume in CV compiler
+you'll notice that all the normal stuff looks good there are a few things that
+we could change though right there are a few things that we
+could change so I'm actually probably going to be uh I'm gonna probably be
+updating this a little bit because there are two big things I think we should
+change uh in demand Tech skills this just changes over time
+um so they analyzed a thousand vacancies
+at Big tech companies and they found out that there are some technologies that
+are good to have and um so we probably want to swap in some
+of these words just to to to to to make sure we're getting picked up by a
+company that doesn't actually look at your resume right some companies don't
+look at your resume they just use a computer to say whether or not you're a
+good fit so by having these in-demand skills you can just screenshot this from
+
+00:52
+the video I would be good things to add whatever you feel like is a good fit or
+you want to invest some time it could be a good fit
+um and then the other thing that was a thing here is that these Niche skills we
+have to add some of these uh and so we're probably going to figure out how
+to add some of these we will probably have like an extra class uh where we
+work through this um but all the other stuff was was fine
+uh and so I think this is pretty good uh you'll see some stuff that I don't
+recommend like the certifications I'm not a big fan of putting certifications
+on your resume I think that smells um so this is kind of where ATS versus
+what's going to actually work and so um for me this resume has been used by
+hundreds and hundreds of folks that have
+gotten jobs right literally hundreds and
+hundreds and hundreds of folks that have gotten jobs I really do believe that it
+works and I hope that you use it too uh even AWS certs uh yeah no those are
+
+00:53
+like professional certs so like professional search you can keep
+um but things that are like like things that just show that you just
+learned how to code keep off your resume yeah like AWS Azure and Google Cloud
+certs are my exceptions anything else I don't put on my resume I think that
+somebody sees that and it might hold you back does it does it always hold you
+back no but I think for a lot of folks it can
+yeah no udemy certs or things like that um so yeah we might have to change up
+some of these skills based off of what uh the CV compiler is saying the link
+the CV compiler is here in chat so once you fill out your resume you definitely
+want to run it through CV compiler um it's free like you don't pay like
+don't pay like there's more stuff that you can see
+right right there's more stuff that you can see if you pay but you don't need
+
+00:54
+that just make sure that it passes the basic checks that they give you if
+you're wondering what CV compiler would say you need help with it's this stuff
+pause the video it's this stuff pause the video this stuff there you go
+that's everything y'all cool so if you use this resume template you pass
+the CV compiler after you're done editing it you'll know everything that
+works and that you um are picked up on it cool see if you
+can probably get the hug of death yeah I think we sent a lot of people that way
+
+00:55
+cool all right cover letter there's another
+example it's in the template sorry it's in the checklist so in the checklist it
+gives you an example of it but if you need an example of a cover letter I got
+you here you go cover letter that you can you can work through
+um it's all there for you let's real quick before we go on to the cover
+letter I do want to take a second to talk about the resume
+um I kind of just showed it to you but I do want to talk about it real quick
+you'll notice that how long we've talked about this a lot how long does
+a recruiter or the initial gatekeeper spend reading your resume on average
+
+00:56
+six seconds all right um timer all right you tell me when it hit when
+we hit when we hit six seconds all right creative detail oriented
+
+00:57
+software engineer with a deep interest in AI proven track record foreign
+and it's all you need to know I'm a creative detail-oriented software
+engineer with a deep interest in Ai and a proven track record boom that's it
+that's it if you have something like I'm an aspiring Junior engineer bruh
+bruh nah get that [&nbsp;__&nbsp;] out of here they
+got six seconds to figure out who you are what you do right let's try it again
+ready I'm gonna you tell me when six seconds are over chat
+I'm gonna I'm gonna start at software engineer and work my way through I'm
+
+00:58
+gonna skip the summary software engineer software engineer 100 devs they built a
+company for some coffee company they're a full stack developer at some
+Consulting agency so in those six seconds I saw that
+you're a software engineer you worked as a software engineer you did some
+Consulting do you go on to the next round or not
+right like you got to think about this it's not just the computer that you're
+playing right it's not just the computer that you're playing
+right it's not just a computer you're playing there's also the the way that
+you structure your resume you're you're going up against the recruiter as well
+right you're going up against a recruiter as well mm-hmm
+and so you got to think about what they're going to see you're going to
+
+00:59
+notice that I have very quickly my experiences at
+100 devs I have my projects that look like real companies right
+right that like when people when you put your projects don't be like
+an app I worked on during class time no frame it as though is a real company
+right just like it just just give it a name hip coffee co uh
+happy notes we did a to-do list happy notes right give it a name
+um even like in other projects too like a lot of stuff that we did right it's
+the way you talk about it uh we built a slot machine don't call it
+a slot machine call it a small Lakes casino virtual slot machine uh we built
+uh a NASA API don't say don't say uh NASA API project no it's the Los Angeles
+
+01:00
+Stargazer Society a picture of the day web app with NASA API integration
+if you were here for the very first JavaScript class you built a background
+picker for a YouTuber that YouTuber was me so you made an on-demand background
+color picture changer for a partner twitch streamer and many more
+don't snitch on yourself don't underplay the real [&nbsp;__&nbsp;] that
+you've done give it a name talk your talk
+uh I'm a big fan of having your projects in line with 100 devs because we saw
+what six seconds gives you in those six seconds the reason I
+skipped from software engineer to full stack web developer is because I saw
+that there were some real looking projects on here
+so I didn't have to actually read them I just jumped to the next thing
+
+01:01
+and in those six seconds I saw two experiences as an engineer
+that enabled me to be like oh okay this person's probably an engineer
+passes the sniff test yep and then you put the other stuff you
+want here I'm a big fan of having a volunteer section and then the big thing
+people always stress about is their education
+um you don't have to put the dates of your education if you don't want to right
+and then if you're just spending six seconds on this what are you what are
+you noticing about this right away I I purposely let something off here I
+didn't snitch on I didn't snitch on Bob here does this say Bob has a degree
+no this Bob does not have a degree from UMass Boston but their major was
+business administration no degree no graduation date but if you're only
+spending six [&nbsp;__&nbsp;] seconds looking at
+
+01:02
+this would you ever hyper focus on that nah you wouldn't even notice it
+all right but never even notice it uh and you don't have to put dates dates
+can be snitching on yourself for a lot of folks a lot of folks if you if you
+complete your degree 20 years ago good don't put dates on there
+will the technical interviewer notice probably not
+most technical interviewers do the exact
+same thing if they even read your resume
+if they even read your resume they spend six seconds on it
+so if you're stressing about what to do for Education boom that's it you don't
+have you don't have to have a graduation date you don't have to have your degree
+
+01:03
+right that's it beautiful cool all right so that's the the resume there
+I'm a big fan of having 100 devs and then um you're freelancing separate and
+then any other job that you think is worthwhile to put on there have real
+targeted goals like things that you actually did numbers are better um yeah
+cool and I love having at least one like Tech related volunteering in there so
+many conferences are coming up just volunteer for a conference and throw
+that on there it's just good to have a little bit of something Tech related
+that's not job related on there it just gives you something to talk about a lot
+of times when I'm in interviews with folks I'm like oh you went to the free
+software um like you went to Libre Planet which is
+their conference and like yeah I was there like oh and I just gives you
+something to talk about cool resume we talked about cover letter GitHub
+
+01:04
+GitHub please use the profile generator make your GitHub look good
+your GitHub should have nowadays with GitHub you can have a beautiful readme
+file for your whole profile so that your GitHub looks great right have you ever
+saw somebody's GitHub and it's like whoa this GitHub looks dope they were
+probably using some sort of generator uh and so this generator will help you
+figure out like what to put like what you want to do right so hi my you put
+your name in you put the project that you're currently working on you put a
+link to it you check off the skills that you that you have right and um you can
+put in all your Social Links if you want and then you just generate it and it'll
+give me a it'll give you a file right it'll give you a file that you can add
+to your GitHub uh and that'll give you just like a nice a nice GitHub uh
+profile that looks good mm-hmm that looks good
+
+01:05
+it has been real lord I appreciate that um and then the other thing you want to
+do is you want to use this readme template for every single project for
+every single project that you have on your GitHub there should be a beautiful
+readme for it and you have like what it does a link to it live you have a gif
+record a gif of your project so that it's like moving and looks good
+right put the technology that you use so you're getting picked up by the sweet
+sweet robots and then my face part is the optimizations you don't even have to
+code the hard Parts just say the stuff that you would have done had you had
+more time right shows that you know what it is you just didn't do it yet
+cool and then the last thing is like give them other examples to to click
+through to right so right give them some other stuff that
+
+01:06
+you could you could click yet uh some other stuff that they can click
+through too so if they did land on this template they can see the other stuff
+that you built what's the best thing you used to record for those screen gifts
+um I use Cloud app which is free I don't know if that's Mac only
+um but I I use cloud I was just really easy just like you just grab a window
+like you're taking a screenshot and it turns it into a gif for you but I'm sure
+there are plenty of other ones some people are saying share X is free pick pick
+um OBS yeah if you just do like a screen recording if you wanted to
+um screen to get there's like a couple of ones that people are recommend I
+don't know any of those except for OBS but I use I use Cloud app and I guess
+I've done it in OBS before too TJ Khan is saying don't use GitHub
+Street generator though if you've backed it your pushes on the generator it'll
+tell on you uh yeah so uh the other thing that we're trying to do with our
+
+01:07
+githubs is push every day and the reason why we push every day on
+GitHub is because recruiters love those green squares they do they do they do
+and so you want a GitHub that has a that every single day it looks like you push
+code right and on GitHub every day you push code you get a green square but
+some days you miss a push or some days you realize you haven't pushed in a
+month and you want to back date all those green squares you can do it uh
+shout out hellos Rufio uh hello it's Rufio an illustrious member of the
+stream team has a VOD on how to fill in your green squares if you don't know how
+to do that uh and so you can watch that VOD if you
+missed a few but those green squares are really important because no recruiter
+
+01:08
+no recruiter ever got in trouble recommending somebody that pushed code
+every single day think about that they they recommend they recommend
+somebody to the next round and the person says this person was
+horrible like they didn't know how to code it all and the recruiter goes oh
+they pushed every single day to GitHub that's it end the story oh I guess well
+that's weird I don't know what's going on then right like so it's one of those
+things that's one of the easiest way to pass that sniff test all right
+now does every single recruiter care about it obviously no but the ones that do
+oh boy oh boy when they're looking at two
+candidates one candidate has a dusty ass
+
+01:09
+udemy tutorial from 10 years ago and you got pushes every single day who's going
+to the next round you are my friend you are
+had a coffee chat with a Dev when they saw my green squares daily said that no
+that's bad it's because they feel bad that you're a better engineer pushing
+more code doing more work getting more things done and it makes them feel bad
+about themselves because they can't keep up with your productivity they got got
+now the next thing the next thing is you want a hundred hours project
+um your beautiful MVPs are due technically the whole project is due but
+what are deadlines anymore this is the penultimate class who cares um
+
+01:10
+your 100 hours project is the culmination of what you're able to do
+right of what you're able to do what you're able to build the things you're
+able to accomplish it can be something that ties your past into your present it
+is the thing that comes up the most honestly in your interviews
+it is literally the thing that comes up the most if you've come to any of the
+tea spills most of the folks that were getting jobs didn't even have
+technical interviews because all this [&nbsp;__&nbsp;]
+was in a row lined up button on top ribbon tied do they have a portfolio
+pass the sniff test do they have a good GitHub pass the sniff test do they have
+
+01:11
+real big projects pass the sniff test do they have real people they work with
+real clients pass the sniff test right we have to realize is that all
+these things are opening doors and when all the doors are open you can fit an
+elephant through and so that 100 hours project you need
+to have done is the culmination of your work it's taking a hundred hours to
+build something that your own that you can talk through from beginning to end
+that you can show all all of your knowledge off right
+and it comes up the most so many interviewers will say hey show me
+projects that you've built oh I saw on your GitHub this was your PIN project
+tell me about it right this is the thing that gets jobs don't be this person
+don't be this person this person we know didn't have a good GitHub didn't have a
+
+01:12
+hundred hours project didn't have real clients didn't have
+a well manicured portfolio didn't have a beautiful resume
+this is the person I'm talking about thank you blah don't be this person
+all right all these things matter wasn't as dope of us no you're built
+different I just I just want to get into your brain how [&nbsp;__&nbsp;] awesome
+you are I don't know how to to like to to get that I just want you to
+believe that because you are you're going up against chumps that don't know
+what they're doing that think that they
+spent four years [&nbsp;__&nbsp;] around to get a
+degree that don't have any real projects in their portfolio is enough it's not
+
+01:13
+enough show me your GitHub show me your projects show me who you worked with
+show me the real clients you worked with show me your pushes
+you're going up against scrubs and on TLC I don't want no scrubs in 100 devs
+because you're not we're built different we've done the work
+we've done what we needed to do we're not this person all right now
+once you have all this stuff your your groundwork has been laid
+you're going to be able to get past that first person you're going to be able to
+get past that first nif test you need to start opening up doors into companies
+
+01:14
+and the most important thing that you will do
+like outside of like once you have your professional stuff set up literally the
+most important thing you will do is your hit list gets jobs
+if you've done if you do nothing else other than get all your professional
+stuff all your projects done and then do a hit list
+[&nbsp;__&nbsp;] coding challenges screw lead code
+Wars don't matter if you just built up all the stuff we talked about thus far
+and then dumped every last waking moment into your Hit List you would get a job
+because networking your way into an opportunity counts way more than
+anything else getting your stuff in front of a real human being that can see
+your real projects that can see your real experience and can see the things
+that you can do that's why we do The Hit List so the hit list is probably the
+
+01:15
+most important thing you will ever do for your career and you start off by
+using the sheet so you can do exclamation point sheet inside of
+chat here you'll have your general networking but there's also The Hit List
+uh we've done two classes where we've done The Hit List live I set the world
+record price I still have the world record folks I haven't seen anybody
+break that world record yet and guess what uh in a couple couple
+weeks probably I'm gonna do it again I'm waiting for folks to break it I want
+somebody to break it I still owe somebody their hit list so I'm gonna
+give you all a week or two to break it and then I'm coming for y'all I'm gonna
+be I gotta be the two-time world record holder right and so I threw down the
+challenge already nobody beat it I mean it's a hard let's be real it's hard to
+beat that record uh but as soon as it's broken I'm gonna do another one to show
+that I'm I'm that guy and I also owe somebody their hit list so personally I
+owe for your Hit List we're still gonna do it just give me a little bit to dunk
+
+01:16
+on someone it's hard it is hard it is hard um
+that's why we did it live I wanted to show you how I did it
+um and we added all those companies in that short period we did added 30
+companies in one class session that's wild
+uh so the way that The Hit List works is
+you find a company that has an open role and then you find the people that work
+at that company right uh your goal is to
+network your way in to 60 companies that have open roles right where you're not
+just clicking apply right where you're not just clicking apply
+all right you're not just clicking pie you're not working your way into 60
+companies you're gonna find the hiring manager that company if you can you're
+going to add them to your Hit List you're going to follow them on Twitter
+
+01:17
+you're going to find their email and Hunter i o you're going to ask for a
+coffee chat you're gonna send a thank you you're gonna get the recommendation
+to that job if you don't know how to ask for a coffee chat you don't know how to
+send a thank you exclamation point template here in chat
+exclamation point templates here in chat it might be templates
+the template or templates as templates here you go
+expiration Point templates and chat thank you Stephanie how do I send a
+coffee chat request boom look at these messages you can be
+sending how do I send a thank you note boom here's how you can send a thank you
+note how do I ask for an introduction boom how do I follow up boom
+
+01:18
+it's all here folks it's all here what you waiting for
+it's all here and if you want to see 40 messages that I sent
+40 messages to real people the actual messages I would send all right
+go watch the previous two classes here that are vods on Twitch
+right both those classes have the 40 different people I reached out to 40
+different messages exactly what I would send use that as your springboard to
+figure out how you could tweak those messages to be the messages that you
+need to send and then don't overthink it don't overthink it it's 180 people
+you're gonna get ghosted by most you're gonna get ghosted by most
+that's okay are those classes on YouTube not yet they will make it on there
+eventually uh YouTube always lags behind it's just a pain in the butt for me to
+
+01:19
+edit stuff and put it up but all the vods are here on Twitch uh so you can
+always grab the vods on Twitch they make it over to YouTube because I don't
+monetize my YouTube so there's no ads on YouTube
+um so yeah twitch I think twitch runs ads on the vods which kind of sucks but
+uh yeah on YouTube I don't monetize any of my videos so you can watch all the
+videos ad free and they eventually make it up there it just takes me a little
+while to get them up cool uh most will ghost you uh you got
+to keep that in mind that's okay we're playing the numbers game folks numbers
+game uh you find the hiring manager you can't
+find them you find an engineer on the team you can't find engineer on the team
+you find the recruiter you can't find the recruiter you find their mama
+and you say that's the for a coffee chat right you're trying to find these folks
+uh so let's do a live let's do one I know we did two classes on let's do one
+
+01:20
+live uh somebody give me a a location kinetic uh what was the first one the
+first one was actually Denver let's go ahead Denver let's go to Angelus
+Angel list or angelco.jobs there we go boom uh I have like an unreasonable fear
+of typing in Angel list because of Angel Fire anybody remember Angel Fire
+Angel Fire was like a competitor to geocities
+anybody remember what happens if you misspelled Angel Fire
+anybody have this memory is it just me yeah I just took you to a porn site I
+
+01:21
+just took you to a porn site so I remember being like on on the on the
+library computer trying to go to Angel Fire mistyping it I'm trying to go to my
+Harry Potter Dragon Ball Z fan site and uh some stuff popped up and that that
+memory just forever uh emblazed in my mind because I spelled I think I spelled
+Angel angle or something like that it was a typo yeah
+memories all right uh let's change this to Denver
+Colorado uh we're gonna make sure that there's no um we're gonna turn off the
+remote job we're just going to look for local
+um I have if we look at my filters I am filtering out senior lead staff
+principal manager director just like I don't want to see those I'm looking for
+entry-level roles so I filter those out I'm looking for a JavaScript node
+node.js you don't have to hold yourself to that it's going to filter out a lot
+
+01:22
+right now um we see a back-end developer role uh full stack engineer
+Uh Kevin Davey is listed as the the contact uh they don't have anything here but
+maybe we can find them on LinkedIn Kevin Davey on LinkedIn or we can even say
+what was the name of the site sticky leaf they link it if you leave Co
+all right so what I would do right off the rip is we could take sticky Leaf
+coat I don't think it'll probably come up in Hunter but we can try dream job
+whoa what's this new domain search okay come on you're you're killing me
+
+01:23
+live here all right they didn't have any results I'm pretty sure
+that it would probably just be Kevin at Sticky Leaf Co and so I would send an
+email to Kevin right as sticky Leaf Co and I would say to Kevin
+this is my dream dreams do come true would be my would be my headline I saw
+that you were looking for a full stack engineer on Angel list I am in the
+Denver area I feel like I could be a really good fit for this role uh please
+respond I'm desperately waiting for your wrist
+now please respond uh I would love to connect about the open roles uh in the
+next coming days right boom that's it takes took us what 30 seconds to find
+that it was Kevin stickylief.co send an email right and you shoot it off
+um 50 to 70k but they're giving up three
+
+01:24
+percent equity if that means anything to you it shouldn't uh Equity almost never
+matters you shouldn't really you should like take it off the table when
+considering uh but I don't know what the Denver Market is 70 might be low but um
+foreign who cares you don't you don't pre-qualify the leads get the offer and
+then negotiate get the offer and maybe you don't wind
+up going the sticky Leaf maybe you wind up going to Josh AI but you have a 70k
+offer for sticky leaf and you go to Josh hey hey I already got an offer from the
+Denver area is there any way that you can get me closer to that 120 that you
+listed on the job application right I already have an offer but Josh AI is
+where I want to be I can't see myself working anywhere else besides Josh AI is
+there any wiggle room to get me closer uh to the to the listed amount on your
+application that's it so don't ever pre-qualify
+based on how much money the language don't do any of that get the offer and
+
+01:25
+then you can negotiate right that's it if you want to see the
+real examples the real things I would send the real letters all that stuff we
+did 40 of these in the previous two classes they're either probably on
+YouTube right now um if you're watching this in the future
+or you can check the vods on Twitch boom but don't don't take yourself out
+the game let them take you out the game that's it don't ever be a Clicker
+all right now eventually once you're in the throes
+of interviewing and you are starting to get
+you're you're going to be interviewing at 60 right so those first few
+interviews or should be ones that you don't really care about honestly
+right uh it should be ones that you that you really don't
+
+01:26
+that if you got the job great if you don't who cares right get your licks in
+make sure that you get more comfortable interviewing you kind of see what the
+process is really like and um once you're starting to interview you
+want to start figuring out what are your premium
+companies like what are the places where you really
+where you really want to apply and you're going to do everything we've done
+so far plus you're going to start tweeting at them you're going to write a
+blog post about something in their space and you're going to build a small
+project something that takes you an hour to a couple hours you're going to tweak
+one of our past projects to be something um that's that's kind of in the realm
+that would be for that company so if it was sticky Leaf we might take our coffee
+app and turn that into something else we might take our
+um not the coffee app it might take like our our binary upload boom
+and turn it into something that enables you to pick your favorite strands and
+
+01:27
+post your favorite strands right like you could you could modify that to be
+something um that's more in line with that company
+so that when they say like when you when you reach out hey like I already built
+an app in this space would you take a look at it mm-hmm cool
+now this is everything you need to do to like get interviews right to get folks
+coming responding to your your applications to get your foot in the door
+um if you do these things you will start to get interviews now once you have
+interviews coming in there are some things we got to start thinking about
+let me take a second I want to see if there's any questions this is like all
+the groundwork you have to lay all the doors I think are worthwhile to open
+before you actually start getting interviews and once you start getting
+interviews there's some other things we need to think about questions
+
+01:28
+do you have any specific tips for the remote job hunt well if you look at our
+last VOD we did 30 companies that were all remote the harder thing about remote
+is that being local is a competitive Advantage because you're going up
+against less people in a lot of cases but when you're remote the referral or
+the networking your way in is way more important because you're just going up
+against a lot of folks that probably don't have great applications but it's
+still clogging up the works a little bit
+but if you can get a referral in you can meet a real person on the team that
+carries a lot of weight even especially remotely so I think for remote folks it
+really comes down to the networking you're weigh-in
+uh what do people you know what if you know people in companies that are next
+to CEOs um can you meet them in person and they say
+they can help you do you need all you need to do is like resume I don't really
+understand that question uh what are good questions to ask when
+
+01:29
+they ask do you have questions for us on
+the bank you can do exclamation point uh the bank and in the bank there are
+questions to ask your interviewer it even links to a GitHub repo called
+reverse interview questions uh that has a bunch more that you can ask during
+your interviews uh what's your strategy against
+companies who staff recommend you contribute to the repo to be considered
+uh [&nbsp;__&nbsp;] off uh uh versal for the 100 project it can be
+like the front end if you want it to be most people are hosting their full stack
+projects on either Railway render or sicklish right now sicklish right now
+
+01:30
+those are kind of like the big three um I got a recruiter call that called me
+offered me an interview they just went to view a project in the interview
+that's it the tech stack is not myrn uh with the 100 project be good yeah do the
+app that you're most comfortable with that you sunk 100 hours into if you want
+to take the weekend to add a little bit that's closer to their stack that's a
+good idea like I built this app mainly in node but I added this piece that was
+in Python because that's what y'all use at the company
+can I expect 30 an hour of Parts unemployment it depends we had somebody
+that had a full-time offer the part-time hours that was wild
+
+01:31
+would it be life warning pie torch while going through 100 devs absolutely not
+have you ever decided on an alternative I haven't given my official
+recommendation but it's going to come down to railway render or cyclist it's
+it when everyone works for you the best folks are having good good experiences
+with all three of those I'm just trying to pick one that I can use for the
+future and hopefully get a deal or two in place for y'all but those are the big
+three that it's coming down to cool any word on 100 maintainers we're going
+to talk about that on uh Tuesday so Tuesday is our official last class lots
+of thank yous and we're going to talk about the future of 100 devs and how you
+can help if you want to help all right we're at the top of the hour
+
+01:32
+so when we come back we're gonna start talking about what you need to do when
+you start interviewing so everything that we just talked about
+is getting you to interview how do you get through your interviews what do you
+need to do to play the game well how do you SL 360 slam dunk your interviews
+leave them jaws of gape ready to hire a realistic time frame on getting asking
+for a coffee chat to getting an offer it's different for every company some
+companies some companies you'll you'll talk them
+on a Monday they got an offer for you Friday some people you'll talk to them
+on a on a Monday and three months later you're finally finishing up the process
+it really does depend on the company and every company is completely different
+hmm all right so now you got interviews coming in you're either networking your
+way in or your LinkedIn is popping and recruiters are reaching out to you uh
+
+01:33
+next is what I like to call how you play the game all of this stuff is how I
+think you can play the game it's up to you to determine how you want to play it
+a lot of nerds get really mad with the stuff I share in this class about like
+how dare you tell them to put 100 devs on their resume or there are some other
+weird stuff that they're just trying to gate keep their four-year degree in the
+hundreds of thousand dollars that they spent for no damn apparent reason
+because you get a better job than them after a boot camp experience right and
+so all this I like to say is how to play the game uh but it's
+always up to you to figure out how you want to play and the things that you
+want to do right the things that you want to do
+to play that game it's all about the doors that you feel comfortable opening
+cool I think the most important thing after your Hit List is the bank if you
+did nothing but hit list right if you did nothing but hit list
+and study the bank you could get a job if you've come to any of the T spills
+
+01:34
+95 of them got the job by answering questions that were on the bank it's
+kind of freakishly Works um it's one of the best things I ever
+introduced to my students the bank has gotten more jobs than learning anything
+else literally I could probably take someone
+that doesn't know how to code help them with all the stuff we talked about
+tonight have them Network and learn the bank and I'm pretty sure I could get
+them a job like they don't know how to code it all
+I'm pretty sure I could get them a job the bank gets jobs so you can do
+exclamation point bank here in the um in the chat that'll give you the link
+the bank just has a bunch of questions right the bank just has a bunch of
+questions honey a glad to see you name change okay
+
+01:35
+I see you thank you for the tier three 21 months at tier three that's wild
+thank you so much hope you're doing well all right so the bank has a list of
+Behavioral questions a bunch of technical questions and even has
+um some like harder like CS Theory stuff you should probably put into your
+repertoire and then the questions that you could ask your interviewer
+um that come from this reverse interview list and most of these questions come
+from these resources here right it's just kind of combining all the questions
+into one file um but if you were to go through and
+answer all of these questions you will be prepared for a significant right
+significant portion of your interviews um realistically your day should be spent
+hit listing and banking we call banking we put all these questions into our Inky
+so if you're new around here we like to use a tool called Anki that is a spaced
+
+01:36
+repetition tool space repetition is one of the best things you can do to learn
+and so what it does is like flash cards with an algorithm so you can take all
+these questions put them into your Anki deck and surface the questions that you
+need to see at that given time so you don't forget stuff right and so
+please you do anything do your hit list all right and then do your bank
+Hit List Bank all right folks it was a great stream tonight I really
+enjoyed talking to you all I hope you have a great night
+but I really could stop here I really could stop here hit list and
+Bank hit list and Bank hit list and Bank
+what should you be doing Leo what should I be doing right now as I'm going
+
+01:37
+through the hunt hit list and Bank all right put that in your Banky and do
+it every day now I'm a big fan of answering all these questions yourself
+in your own voice in your own words getting that active recall in right but
+if you don't have time um we've linked to it on Discord
+um but Curtis put together a a kind of like an open source answer list for all
+these questions that could give you a good start but seriously this if you
+come to any of the T spills this is what has gotten most people jobs not code
+Wars not leak code not their technical ability heck not even their 100 hours
+project being able to have high level conversations with their interviewers
+that pretty much come off of this Bank their behavioral questions most of the
+questions are coming off of this Bank right most of the questions come off of
+this bank now this behavioral List have all the questions no but it gives you
+
+01:38
+right but it gives you it gives you enough things to think about so that
+when you do have a question that's not on this list you at least have some
+things to use to answer cool alrighty now you'll notice that the bank has
+behavioral questions and those behavioral questions you want
+to use a method of responding to them called car
+star I ain't about star I'm about car star is an extra thing you have to
+remember and when you're in the throes of interviewing remember an extra thing
+doesn't work so I'm all about car s action result what happened
+what action did you take and why are you the best thing since sliced bread
+
+01:39
+because of that action that you took cause action result you should have the
+cause action result or car for all 21 of these questions right cause action
+result these should be you should be you should somebody should be able to say
+that when I was prepping this you could say the number and I could answer my
+three sentences this was a couple years ago I could you could you could give me
+the question I you give me the number that's how that's how in this I was
+right I don't actually do stuff I haven't done myself
+right I showed you my daily code Wars right and so
+you could go through these and have a car a cause action result for each one
+
+01:40
+right um I think I like give me a number somebody
+throw a number in chat let's see y'all went fast I gotta scroll up
+cool I think uh number 14 was the first one that popped up
+what's 14. uh no the 14 doesn't work I can't tell you about my experience at
+100 devs the next one was oh actually the first one was 12. uh
+describe a situation where you worked effectively Under Pressure uh how did it
+feel working under pressure what was going on and how did you get through
+at my last opportunity someone pushed the production on a Friday and it broke
+we spent the weekend fixing the problem getting production
+
+01:41
+back in line and I after that experience helped the team come up with new
+documentation and a new system that made sure that we never pushed to production
+on a Friday ever again so going forward we never had production break because we
+put better systems in place and we never had to spend the weekend fixing the
+problem car what what happened we pushed production on Friday something broke
+what action did I take we put a better system in place to never push on Friday
+and better systems to make sure that we don't break production I'm the best
+thing ever because we never had that problem again
+I swear this is almost verbatim from the last time we entered this yes because I
+have them [&nbsp;__&nbsp;] memorized you should too
+cause action result that's the point you know it but your interviewer won't
+you'll just be looking chill relaxed yeah so my last opportunity you know
+
+01:42
+we uh we push the production on a Friday right like you it'll come out smooth
+right it'll come out smooth because you have it memorized and you practice it
+here's here's the devastating secret that you won't do
+record yourself answering these problems right record yourself see your quirks
+right see what you do that you shouldn't do in an interview record yourself
+talking through these code up a quick random number generator
+as the numbers pop up you you answer them and then you watch it back what did
+you do that was cringy what did you do that you shouldn't do in the future
+right but these having these behavioral questions car cause action result
+lockdown will get you a job you did nothing else honestly this is
+what has gotten people so many jobs it's kind of ridiculous
+uh the next thing is you have a lot of technical questions the goal with these
+
+01:43
+technical questions is not to have a deep understanding it's enough
+to say when somebody says hey have you heard of CSS Sprites you don't go no
+right it's just to have enough understandings that you can have more
+technical conversations you can talk with your interviewer right next
+question you can talk with your interviewer and it comes across as an
+engineer has been doing this for years right for years because you have a deep
+knowledge on a lot of stuff that comes up during interviews so the bank has
+what 300 technical questions that I think are really important for you to go
+not 300 but a lot for you to go through that I think are really important for
+you to have a cursory understanding and that cursor understanding is using a
+technique I like to call EU explanation use example you should have an
+
+01:44
+explanation use an example for each of these questions right
+CSS price are similar to doors well let's see the CSS uh Sprite ones on the
+list explain CSS Sprites right so if you're ever trying to speed up your
+page one of the things you can do to reduce the number of network requests is
+to use a CSS Sprite a CSS Sprite is a way of putting all of your images
+into one image file and then using CSS or some other tool to move around that
+image so only what you care about is in view so you can go from lots of network
+requests to a singular Network request and a good example of this is Amazon if
+you go to Amazon's page they really care about page load speed they've actually
+said that for every one second their page load speed increases they lose a
+million dollars a day so all the logos the swoops all that stuff is actually
+
+01:45
+one image file that is a CSS Sprite explanation what it was use you use it
+to speed up your site by making only one network request instead of a lot and an
+example the Amazon example you want to have EU for each of these questions
+explanation use example and then you add them to your Anki so
+you don't forget them this is a metric crap ton of work 100 hours easily
+but it's what gets jobs now you're starting to see the magic right you're
+starting to see uh the magic of this uh this random person sitting in space with
+their cats right it's not Magic you're doing [&nbsp;__&nbsp;] that other people
+won't do during the job hunt I can guarantee you those dirty clickers are not
+
+01:46
+building out a beautiful portfolio a manicured GitHub a a perfect LinkedIn I
+guarantee you they're not networking their way oh no that's too spicy even my
+computer can't handle it they're they're not networking their way my computer my
+camera just got too hot they're not networking their way
+right they don't want you to know this they don't want you to know this
+information they literally don't want you to know
+this information this is too they they they're trying to shut me down I'm not
+gonna let it happen the clickers will not get me
+it's not gonna happen it's not it can't they need to know this they're coming
+for me I won't be silenced I won't be silenced I refuse
+
+01:47
+they're not building their githubs they're not networking their way into
+applications they're not spending a hundred hours building a project
+they're not doing hundreds of hours of Banky when they go into these interviews
+like Scrubs all their weakness shows but we're a hundred devs we don't go
+into our interviews like an accident we go in prepared lean mean interviewing
+machines we come we eat their lunch we take their money we take their jobs
+they tried to keep me down they tried to keep me out they said Leon
+was given the secrets away not today I'm back can't keep me
+
+01:48
+off these Airways folks the clickers came they got got all right
+refresh refresh tell spam refresh and chat please the folks know that they um
+indifferent hey love you too brother all right next
+technical coding challenge you've you've you've done your Hit List you've
+networked your way in you've prepared the bank the last thing you need
+is to be prepared for a technical coding challenge as well right
+
+01:49
+okay this is this is live live footage of my computer uh my computer just gets
+gets this like I have like this um sound dampening curtain I guess
+um but it just makes the room overheat and then my my camera doesn't like it
+all right so the last part here people realize that they could redeem
+um Channel Point stuff again because the stream restarted y'all slick I love it
+get yours get in here I love it that's smart as hell they big brained it they
+big brained it you smart love it a bunch of people did it
+
+01:50
+that's smart well done well done all right so we have the prep we've we've done
+everything to get the interviews we've made it through our behavioral
+interviews we've gotten to the Nerds once we get to the Nerds we have to have
+a system to get through our technical interviews and the system I like to
+implore is called prep parameters returns examples pseudo code it's
+something that you step through with every technical challenge that you do
+if you want to practice prep we are doing it every single day
+together we have five six hundred people turning up every single day to practice
+through prep uh 6 p.m Eastern time come through we put the the question in the
+hunt Tober daily channel the day before sometimes the same day if I'm running a
+little behind and then we work through it together and then we ask about a
+bunch of questions so definitely come through if you want to practice prep
+
+01:51
+um but I want to show quickly uh prep real quick uh let's just open up
+a wraplet this is the problem we worked on today during class
+um let's do a different one let's just do let's do
+I'm gonna do a node template here also a word of advice whenever you show up to
+an interview always know what you're going into what type of interview should
+I expect is it behavioral is it technical what questions am I going to
+be asked right and if you know they're gonna be doing a technical challenge
+have your replet pulled up or whatever you feel comfortable with all right
+so let's say the interviewer gives us a question that says Hey I want you to
+
+01:52
+take in a word and I want you to return whether or not that word is a palindrome
+right is that word a palindrome and so once
+you've given that word one of the things you might want to do is like oh thank
+you for the question do you mind if I take notes
+yes you may take notes okay so you're asking for you're gonna be giving me a
+word and you're going to tell me whether or not that word is a palindrome all
+right so I have a few questions I'm going to start working through my prep
+the first thing I'm going to work through is my parameters now don't do
+this don't type out p but don't let them know that you have a
+system that you are using right you keep that in your brain all right you said
+I'm taking in a word uh will I always be taking in a word will there ever be an
+instance where you don't give me the word wonderful now will this word be
+only made up of actual letters like well always only be a string okay it will
+
+01:53
+only be a string wonderful so I know I'm taking in a string we know that it will
+only ever be letters and will these letters ever have any special characters
+right will these letters ever have any special characters will they ever have
+any um anything that's not a traditional letter
+or word we have to worry about spaces or
+anything like that no so no no spaces no special characters no funny business
+right no funny business no accents that's a good one uh do I have to worry
+about capitalization can I just assume that all the words will be lowercase
+great so it's regular letters uh all lower case uh no special characters and
+no uh no funny business wonderful now what I am returning to you is whether or
+not it's a palindrome this is the returns the r in our prep we don't type
+R all right I'm going to return to you a a whether or not it's a palindrome
+
+01:54
+would you like that as a string saying yes or no would you like that as a
+Boolean as true or false what would you like me to do to let you know that it is
+in is indeed or not a palindrome oh you want a Boolean to be returned so we're
+going to return uh true or false whether
+or not it's a palindrome wonderful uh do you mind if we work through some
+examples together I'm just going to set up a function here
+I'm going to call this is palindrome and uh real quick before we work through
+some examples just to make sure we're both on the same page when you say the
+word palindrome you mean a word that a word that is spelled the same four words
+and backwards is that correct right what you're trying to do is make sure that
+you're on the same page don't leave anything up to guess when you're working
+through your parameters and your returns you want it all on the table make sure
+you understand exactly what they're asking you're taking that time to really
+understand the problem really make sure you know what's coming in make sure
+what's going out cool all right so I know I'm taking in a word
+we're going to put word in here as the parameter and I was going to go ahead
+
+01:55
+and set up some test cases here uh so I'm just going to do a console log
+so we can run this down the line and I'm going to put the is palindrome in here
+wonderful and let's do an example I know that race car right race car
+is a palindrome right it is the same four words as it is backwards
+r-a-c-e-c-a-r-r-a-c-e-c-a-r so race car is a palindrome wonderful
+what I would do here is I would also want to say that this is true so we
+should see true true in the console if the function that we wrote is palindrome
+is a palindrome we should see true true in the console let's go ahead and do
+
+01:56
+another example let's go ahead and do my alleged name
+all right Leon Noel that should be true and then we can do another name
+SpongeBob cool all right so race car should be
+true the unwell should be true SpongeBob
+should be not be true it should be false uh interviewer if all of these are
+correct would we be satisfied in knowing that we have solved the problem yes now
+we're doing this one to make sure we understand the problem a lot of times
+when I'm doing a technical interview uh I don't really know what I'm going to do
+until I'm working through the examples and then the other thing that's really
+important is that we exactly we have our
+receipts right we have our receipts they can't change the game on US 30 minutes
+
+01:57
+into the interview and be like actually this is what I wanted you to do uh
+slow your roll you agreed that if these all work we solved the problem so not
+only is it helping you figure out what you need to do what is giving you
+receipts for later on too unless in case they try to switch things up the last
+thing the last p and prep is our pseudo code so some things I know that I'm
+going to do is I'm taking in the word I would love to reverse that word but to
+reverse that word I know I'm going to need to use the I'm going to use the
+reverse method I don't want to use like a for Loop or anything like that we have
+some methods built into JavaScript that would make this a little bit easier to
+solve but I know reverse is an array and so I need to take the string and
+turn it into an array with split then I can reverse it and then I need to join
+it back together so that I can compare the reverse to the actual um word
+all right and that result of the reverse being equal to the other word would be
+
+01:58
+true or false cool wonderful all right so a lot of folks feel like
+a lot of folks feel like this is taking a lot of time it should take a lot of
+time this prep process should take at least 15 minutes to work through right
+all right should take at least 15 minutes because remember I told you that
+when you're talking to the Nerds you're in a technical interview it cares about
+right it cares about can you code right can you code
+and do I want to work with you for the next two years
+so when you bring up is a two-pointer approach more efficient you may have
+solved the coding part but I don't want to work with you for the next two years
+
+01:59
+so you still fail the interview believe it or not right and So
+eventually you build up to more Optimal Solutions and if you want
+to work up to more Optimal Solutions you should join our stand-up because every
+day we're working towards getting to more Optimal Solutions but before we
+solve it with the methods your methods and a Brute Force solution is all you
+need right it's all you need your brute force and your methods is all
+you need to get a job more Optimal Solutions are for the code weenies the
+elite code sources does it open some more doors yes but out
+of the hundreds of jobs that folks are getting at entry-level roles prep
+methods and brute force was pretty much all they needed could you open up more
+
+02:00
+doors with more leak code yeah but you don't need it cool
+let's take a look at this at the end so we could go ahead and say all right
+so uh do you agree that this is on the right track uh is there anything here
+that you see but that might not get me to my solution okay wonderful so I can
+go ahead and split reverse Joy I'm going
+to mess up a variable called uh reversed I'm just going to say rev word just
+because we're live and having some fun ah we'll do it real
+reversed word and we're just going to take in our word we're going to split it
+now splitter takes in a separator we're going to say empty quotes because we
+don't want us we don't want to have like spaces or anything like that we're just
+splitting each word then we're going to reverse it
+and we're going to join it back together beautiful we have to put the the
+separator in there as well all right so now we have this word that has been
+turned into an array reversed and then turned back into a string and all we
+
+02:01
+have to do now is return whether or not reversed word equals word
+right this will give us the true or false that we're looking for so let's go
+ahead and run our test cases and see what we got cooking here
+all right we see true true true false false so it looks like our code is
+working bomb does this meet your your status does it mean does this meet your
+satisfaction did we solve the problem to your your satisfaction here yes we did
+wonderful thank you so much Bob for the interview now before we wrap up I'm
+curious Bob is this something that you would have in your code base on the job
+at company X would you prefer to like leave comments
+and have variables or do you lead or do you kind of like like to have things
+maybe like on one line do you use es6 which should This Be an Arrow function
+oh it should be so let's go ahead and and uh
+
+02:02
+comment this out let's go ahead and do const is palindrome or palindrome
+I said palindrome not palindrome gripsies all right is palindrome and
+we're gonna go and set this equal we know we're bringing in a word and we're
+going to set this equal and then we can just kind of use this implicit return
+and we can just say um does word equal word dot split reverse join
+all right Bob so this looks like a nice one liner using all the latest and
+greatest es6 syntax we see that still works true true false false wonderful
+now this whole process should have taken around 30 minutes
+maybe more to prep to work through the whole time you notice I didn't shut up I
+
+02:03
+kept talking ideally I'm engaging the interviewer
+right we're engaging the interviewer right we're getting them talking we're
+getting them answering the questions we're getting them saying yes as as
+early as possible because we're trying to win the game where they at the end
+like us and say that they they recommend that we be hired
+you have to build a rapport with your interviewers a lot of times with
+questions that are way more difficult than this you're going to get stuck if
+you've been building this Rapport you've
+been talking this whole time asking them
+questions prep return parameters returns examples pseudocode you've been talking
+through this entire piece they're gonna give you hints they're going to help you
+but if you spent the whole time doing this I don't carry the five of them
+and then you get stuck they're not going to help you you might as pack up your
+
+02:04
+laptop and go home they're not going to help you and so this idea of prep gives
+you time to work through the problem it gets you communicating with your
+interviewer it helps you build that Rapport so that they will actually help
+you it also Burns a lot of time so in the end you could say you know what I'm
+sorry so much I have an interview immediately following this I feel like
+we can get maybe a slightly more optimal solution to this problem maybe not this
+one but in real life I feel like we can get to a more optimal solution if we had
+more time I might use this type of pattern uh do you mind if I follow by
+email just with the optimal solution later today right then as soon as they
+say yeah you go home you immediately Google how to do the more optimal
+solution you send them the more optimal solution via the email thanking them for
+their time tell them that you had a wonderful experience interviewing them
+you provide some value that came picked up you you saw that they had a Pokemon
+
+02:05
+on their desk you say I hope you're excited for scarlet and violet that
+comes out on the 18th right you throw that into the thank you you send the
+optimal solution right and you get the job
+so this is a process that you should be doing for every single interview every
+single time you do a coding challenge you should be prepping parameters
+returns examples pseudo code parameters returns examples pseudocode you do a
+code Wars parameters returns examples you delete good problems return the
+simple pseudocode you do the hunt Tober daily stand-up parameters returns
+examples pseudocode so by the time that you are on the job Sorry by the time
+you're in the interview right by the time you're in the interview
+it comes out like butter what did they say actually I'm not too
+busy I have time sorry I actually have another interview with another company
+
+02:06
+right now uh I really appreciate the time you gave me today I will definitely
+follow up by email though have a great rest of your day
+there's a game to be played folks it's up to you if you want to play it
+I scratched them onto zeros on the hard disk with the needle myself oh yeah
+oh I like that atrocity I don't be disrespectful with the other company I
+have an interview with cool if you you prep
+you know your method's cold we've been spending like a past week or two just
+making sure we knew all of our methods uh today we saw sorting methods we saw
+
+02:07
+Char code app methods we tried to see slice methods but we ran out of time um we
+have seen split reverse we've seen all these
+methods that I've asked you to practice and we're seeing them live and stand up
+so if you need to practice what your methods come to stand up we're getting
+that practice in but if you know how to prep you know your methods you know how
+to brute force a solution which is like the non-optimal solution
+that's all you need that's it you get a job you can stop
+right there you don't need to know how to do the Optimal Solutions to lead codes
+Etc does it help yes does it open more doors yes but it sprinkles it sprinkles
+it sprinkles on top of your interviewing Sunday
+
+02:08
+don't listen to me I'm just a random guy on the internet drinking some tea
+how about Sean on Discord they wrote this there was no technical assessment
+I just told them about the projects I had worked on and made sure I was
+friendly remember number two and connected with them as people I know
+there are lots of people here that are better coders than me so it's absolutely
+possible you can do this Don't Stop Believing stay consistent it will happen
+winners win losers lose stay consistent find a way to win
+no technical assessment amazing job Erica the nerves got to them
+right the nerves got to them I was going to cancel the interview but my friend
+convinced me in the last minute they now work part-time but get paid full time
+
+02:09
+part-time work for full-time pay the nerves almost stopped them from going to
+an interview you know enough you are ready Daddy Yankee build the button
+with HTML and CSS and got an 83k job that's now they've
+gotten a raise and it's even worth even more now a [&nbsp;__&nbsp;] button
+and if you go in our celebrations Channel you will see that this is not a
+fluke this is not something that they got lucky with you will see 50 plus
+examples of folks that got amazing jobs without technical coding challenges
+
+02:10
+hey Rose oh that's cool hope they're doing well a [&nbsp;__&nbsp;] fighting
+you can code a button all right so just do it just do it
+so just do it make your dreams come true just do it
+maybe Shia LaBeouf will convince you to do it you're ready you're ready you
+don't need anything else but if you want some sprinkles you want some sprinkles
+I got some sprinkles for you folks that's the day of structures and algorithms
+we did a very simple inter a very simple introduction
+right a very simple introduction and that's really all you need
+
+02:11
+when you start talking about optimizations that you would make
+that's all it is you might not be coming up with these really Optimal Solutions
+in your in your in your interviews but if you play your
+prep right you manage your time well you can at least talk through why something
+might not be optimal and strategies you might take to make it more optimal
+without having to actually solve the optimal solution now if you're applying
+to if you're one of those people that like want to work at Fang or something
+look uh those folks this they they need all the sprinkles they need the
+sprinkles they need the whipped cream they need the Cherry but for most of the
+jobs that we're going for these sprinkles are meaningless knowing the
+optimizations knowing how to evaluate your code
+in terms of space and time is enough we have a full class on this so you can go
+back actually two classes right you can go back to those two
+
+02:12
+classes and see all of this in detail but very quickly right very quickly
+uh when we talk about data structures and algorithms I think it's just the
+last thing you need the last sprinkle you need if you want to interview well
+right the last thing you need if you want to interview well and that last
+thing is to understand what data structure algorithms are an algorithm is
+just the steps you take to solve a problem all right oh no my little one's not
+doing too well I'll be right back one second we're back
+God family academics always always um it's close to little one's bedtime
+and I think they're trying to hit it a little early all right
+
+02:13
+so these are sprinkles right the sprinkles that we're putting on our interview
+Sunday [Laughter] right our interview Sunday and so let's
+just run through these quickly but know that we have two classes on all of this
+right algorithms I already hear somebody talk
+about algorithms it's just the steps you take to solve a problem
+and it's helpful to know how to evaluate the efficiency of those
+steps that you are taking and we say the efficiency we care about two things
+space and time how much time theoretically are we
+taking and how much space theoretically are we taking up in memory
+and space being how much memory is used time how many operations are executed
+per input now when I say about time I don't really mean like the actual amount
+of seconds something takes we're talking about rough estimates right rough
+estimates when I'm evaluating time of an
+
+02:14
+algorithm or the steps I took to solve a problem why do I care about rough
+estimates and not about like the actual numbers or the number of seconds it took
+for my code or the solution that I've written uh to run
+a recipe is an algorithm exactly thank you indifferent this is the steps you
+took to solve the problem because it differs exactly the code that
+runs on my Beast of a PC that's overheating my room will probably run my
+function faster than my Chromebook right so I don't care about the actual
+second something takes I take about I talk about the rough theoretical
+overview so how many operations are executed per input is what I really
+really care about and we have a way of talking about this
+
+02:15
+rough estimate and what we use to talk about this rough estimate is something
+called Big O notation uh Big O notation like why do we use it it's just a way of
+mathematically describing how complex an
+algorithm or the steps you took to solve a problem is in terms of that time and
+space but why why do we use Big O why do we
+use this mathematical notation well it's like I said the environment in which we
+run our code whether it's a beast of a PC or Chromebook would actually make
+certain code run faster or slower we don't care about that when we're trying
+to evaluate the steps that our algorithm taking we're trying to get a rough
+estimate of how many operations per input we are taking it's theoretical not
+exact cool so some common complexities you're going to run into
+you're going to see our constant time our logarithmic our
+
+02:16
+linear and our quadratic or ones you typically start off with
+constant time means that for any number of inputs there will only ever be one
+operation right no matter how many inputs there are there will only ever be one
+operation we can see this one accessing an element out of an array
+right so if I want the first element out of this array no matter how many inputs
+I have in my array accessing an element out of that input will happen in
+constant time no matter how many more values I add to my array it will always
+just be one operation right now the inputs if we had an equal number of
+inputs and an equal number of operations
+right so for each input we also have one
+
+02:17
+operation we would call that linear or o of n
+and an example of a linear complexity is when we Loop through that array
+right so here we're going to Loop through and sum all the numbers that are
+inside of this array so for this for Loop to run we're going to take each
+number and add it to our sum so for each input there is one operation
+right so this for Loop would run grabbing one adding it to some to adding
+it to some three adding it to some or adding to some five adding it to some
+so for each input there was an equal operation
+all right now the thing that blew my mind the thing that absolutely blew my mind
+is this gauss's sum this should be an a here was this gauss's sum
+
+02:18
+with gauss's sum I was able to sum an array just by taking the last value
+so here I'm grabbing the last element out of my array and I'm doing this fancy
+right right it will do this fancy math trick
+right we do this fancy math trick right we do this fancy math trick and we do
+this fancy math trick we get the sum so if you ever have a continuous array
+of numbers meaning that they go from one to the number they don't skip anything
+they're in order right you can go ahead and just grab the last
+number so no matter how many inputs you're doing one operation and you get
+the sum you don't need to Loop through right you don't need to Loop through you
+
+02:19
+can do one operation and get the sum that turns something that was a linear
+complexity into something that is constant time this is why people study
+data structures in algorithms there will be problems that come up often in
+computer science and in engineering that
+if you know the tricks you can do it way more efficiently imagine we had a
+million numbers we'd have to Loop through each number to get the sum but
+if you knew this trick you do one operation no Loop and you get the same value
+right that is the power of data structure algorithms and that's why people study
+them do they come up in a normal Engineers day-to-day no
+maybe depending on what you're working on but when it does show up oh boy oh boy
+right oh boy does it does it pop off and so what we're doing during the daily
+
+02:20
+stand-ups right we're doing during the daily stand-ups is is slowly exposing
+you to the really common data structures and the Really common algorithms that
+might show up in your interview but none of this is necessary this is all
+sprinkles on top if you know your prep you know how your methods like your
+JavaScript methods your your sorts your Maps your reduces your filters and you
+know how to Brute Force just like using regular functions Loops right that's
+good enough learning this stuff puts you over the edge so I share it so far two
+resources the scotch io's introduction to algorithms and then a free front-end
+Masters course on introductions to algorithms you do those two courses you
+know enough to blaze through your interviews at most companies that's like
+taking it to the next level putting all those sprinkles on top
+
+02:21
+right so that's kind of the idea why these things are important uh there's
+two more quadratic uh when you see like a loop inside of a loop for each input
+you're also doing an operation as you add more inputs you're doing X well not
+exponentially but close to exponentially more operations that would be quadratic
+we have something called logarithmic where we have special algorithms we can
+break our inputs in half throw away the ones we don't care about and it's a
+little bit faster and then we have a whole class on this right so if you know
+that you want to add the sprinkles on top go check out our past VOD
+um our past class on data structures and
+algorithms it'll cover all this stuff in
+detail if you're watching this on how to interview definitely go back and watch
+that class this is just trying to give you a little taste as to why it might be
+important

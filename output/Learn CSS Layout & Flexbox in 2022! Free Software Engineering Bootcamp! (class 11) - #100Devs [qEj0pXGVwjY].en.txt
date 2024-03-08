@@ -1,0 +1,2121 @@
+
+00:02
+
+00:03
+yo hey yo yo hey good morning good afternoon good evening
+no matter where you're coming from hope you all are doing well
+welcome back everybody i'm going to tell you can you hear me all right now
+this one almost didn't happen this one didn't almost happen
+
+00:04
+everything that could have went wrong went wrong so
+i had to move my desk set up so i moved everything
+uh if you saw the old picture of my desk
+you know that that's no easy feat uh all the monitors hundreds of cables
+everything's plugged in i did a few test recordings
+uh yesterday and was kind of like making sure everything was working for class
+today and then i go to like do my normal pre-stream routine and get everything
+set up one camera's not working the the mics
+not working you can't hear desktop sound uh everything just like broke and then
+spotify when it works that's why there was no music in the beginning uh but you
+know what sometimes in life they're gonna be some boats
+and some logs and you have to pick those suckers up and just carry them so we're
+doing it we're gonna make it work this is our last class of css before we hit
+
+00:05
+javascript we're going to come back don't worry
+we're going to come back we're going to come back we're going to do a little bit
+more css a little bit more html but for now
+this is the last one before javascript on thursday baby and i can't wait
+can't wait all right so let's talk about uh let's see everybody get in here i
+know we started a little late so let's get some folks in here let's do what we
+normally do we got some questions questions first folks uh let me send the
+actual go live message now that we're actually live cool
+but the question of the day from the go live message is
+would you rather only be able to whisper or only be able to shout
+the rest of your life whisper or shout the rest of your life what
+would you want throw it in chat for me please
+okay this one this one is overwhelmingly whisper
+
+00:06
+like it's not it's not even close there's there's one person saying shout
+in all caps which i guess is very fitting uh but yeah it seems like the
+the whisper is the move you know what i thought about this at first at first i
+was gonna be the shout person but then i was like you know what i can just carry
+like a little pocket megaphone and maybe i can put that pocket megaphone up and
+whisper and then i also thought maybe you know what maybe if i'm forced to
+whisper i'll get more smooth you know a little bit more smooth
+i can i can do all the the the fancy whispering right but i think i'm gonna
+go whisper on this one all right folks as people get in here we
+know we start a little bit a few minutes
+in because of the technical difficulties
+uh but any questions any questions let's get some questions going before we jump
+into the mix today hey lehigh getting worse the world ain't ready a
+we would be covering unit test in jess not for a very long time we'll we'll
+
+00:07
+have like a little bit of a class on it but it's just not something that i think
+is gonna hold you back from getting a job so it's not something we'll go super
+deep in and each company that you join will probably do it slightly differently
+with slightly different tools and so we'll cover a little bit of jess a
+little bit of mocha just because i think it's fun and then um yeah just a bit
+fries or nachos definitely nachos is it normal to feel like we're struggling yes
+absolutely okay to feel like you're struggling uh you've had what
+this is this is this is our this we have we've been into it a month right we've
+been into it a month you've only had what five or six classes
+on css not even four classes five classes on css uh
+it's totally okay to be struggling to be
+picking up some of those boats and those logs and it feeling a little heavy
+
+00:08
+you're gonna get through it welcome to the trough of sorrow we
+talked about it last thursday you're in the trough of sorrow welcome uh you're
+about to crash and hit the bottom when we get to javascript on thursday but
+this is a boot camp right that terminology is there for a reason you're
+you're not here to become perfect you're here to become fighting fit
+right and so as we move through the html as we move through the css you got to
+ask yourself am i learning am i picking up tools am i able to start and get
+thrown into projects am i asking a lot of questions am i doing my anki am i
+doing my pomodoro am i doing all these things that are setting myself up to be
+successful and if the answer is yes you're doing all the things to set
+yourself up to be successful you're using your anki every day you're asking
+questions on discord every day and you're doing the work that's assigned to you
+then yes you're in a totally fine spot to be in things will come with time okay
+
+00:09
+we're not here to be perfect i saw a couple people
+on discord over the weekend kind of asking a very similar question right
+asking a very similar question like hey as i'm working through the layouts
+things just kind of break more the more time i put into it the more things break
+great welcome that's part of the process right
+making sure you're getting in there you're throwing yourself into it you're
+breaking stuff your your the things will take a little bit time from the sink in
+and i don't care if you're the best person that's ever coded in the world
+learning html and css in just a month is not really feasible
+right i don't care if you're the best coder that's ever existed one month with
+html and css that's like part time after work maybe for some of you it's just
+you're not going to walk away feeling like yes i got it
+like i'm ready to move on no this class will always be us going down
+the roller coaster like beyonce right our hair is flowing we're having fun
+
+00:10
+we're enjoying it but we're never gonna really feel like i've mastered this
+topic like i i i am i am ready to move on it's just it's just not going to come
+we're here to to push and give you a base skill set and a lot of different
+things and then once you get on the job you'll have to learn different tools or
+different things and you'll keep pushing and that first year in the job is where
+you learn the most so with the css and html
+if you understand the concepts right if you understand the concepts the things
+we're getting at when we talk about layout when we talk about box one when
+we talk about all the basics that we covered that's a good spot to be in once
+we get through javascript we start building real stuff
+when you have real things to build you're forced to learn and to push and
+to get better so even though this is our last time with
+html and css before javascript it is not
+
+00:11
+our last time with html and css you will have dozens of projects that force you
+to use html and css that force you to get comfortable with it that force you
+to keep pushing right but at no point in time will you get that warm fuzzy
+feeling being like yes no we're here for a boot camp we're here to get fighting
+fit we're here to push we're here to break things we're here to be baddies
+and write bad code superhero superman thank you for the five gifts it subs i
+appreciate you right how long is too long to spend on a layout
+if you feel like you're getting stuck it's time to move to a different layout
+and so my recommendation is that if you're ever stuck on one piece for more
+than 20 minutes it's a wrap you're cut move on to the next one right
+and so i think it's really thank you for the uh gifted subs it's a
+
+00:12
+little delayed that's cool um you will right yeah you will
+be seeing html and css over and over and
+over and over and over again right these layouts are not the only layouts you'll
+ever do you're gonna have so many other layouts to do over and over and over
+again if i'm spending more than 20 minutes on
+anything in coding i stop maybe i defuse and walk away maybe i stop and ask for
+help but i move on one of the best things i've ever done
+whoever did when it came to me learning layout was to do a layout
+learn what i what i learned in that moment of the layout but then i got
+stuck right when i was first learning i would get stuck
+and i would just start breaking everything like
+there's nothing more i could do that wouldn't just break everything so in
+those moments i would stop i would walk away i would take a diffusive moment i
+would come back and i'd delete it all and i start fresh
+
+00:13
+and i would remember the things that i learned from that first round right that
+i learned from that fresh round right and then redo the whole thing and
+sometimes i would redo a layout two three four times and maybe on the fifth one
+it was i had learned enough to be able to put
+it back together i didn't have other stuff that was holding me back right
+and so for me that's why i gave you a lot of extra time on these layouts
+right i gave you i gave you more time in
+these layouts because i know that you're in a place where
+it's hard it's difficult you're pushing you're in a place where you might have
+to delete something two three times come back to it multiple times move on to a
+different layout and come back that's okay that's 100 okay
+all right and uh what did i tell y'all did you need it's the first thing i said
+is if you wanted to be a developer right
+if you want to get through the trough of
+sorrow what's the first thing we have to keep in mind
+
+00:14
+what's the first thing we got to keep in mind
+exactly managing frustration do you understand now why that is the first thing
+out of all the things i could tell you to to be a better software engineer do
+you feel why that's the first thing now do you understand exactly
+and so all good things in good time right
+you still got a little bit of time left for these layouts
+on thursday if you're not done them it's all right keep pushing yourself
+we're gonna get into javascript once we get through javascript we'll come back
+but i really just want to throw that out there that it's okay to feel stuck it's
+okay to feel like you're not 100 there but you can't let that stop you have to
+figure out a way to manage your frustration to get back on discord ask more
+better targeted directed questions no more can
+you look at my code no what's the thing you're struggling with ask that right
+
+00:15
+make sure you're doing your space repetition make sure you're doing all
+these things that we know that will help
+you up to be successful and keep pushing match your frustration be consistent
+every day and don't forget to take care of yourself alrighty
+today uh today we are talking about our media queries just purse work for
+all the layouts uh so certain layouts required media queries if you look at
+the slides it literally said underneath the slide to use media queries or not
+you can go back look at the the slides right and see if it says media query or
+not yeah cool we come back to go deeper into media
+queries um there's really not much more to cover with media queries we're going
+
+00:16
+to touch on them again tonight and then that's kind of it there's really nothing
+too wild other than like setting your viewport with and then writing some more
+css that's kind of all there is to it we're going to see that tonight we're
+going to play with them tonight and then after that you really don't need too
+much more it's just buckling down and doing it right cool
+all right tonight we're going to just remind folks to network uh we're going
+to talk a little bit about what the expectation is for this week and next
+week in terms of networking then we're going to review just some
+quickly some css basics and then we're going to do a slightly more challenging
+box model exercise than we normally do we are then going to look at some
+responsive basics uh just reviewing some of the the core tenets of
+responsive css we're going to spend some more time practicing with m's and rems
+that seemed like a big sticking point for a lot of folks and so i wanted to
+make sure that today is kind of a day for last review to look at some fun stuff
+uh we're gonna spend a little bit more time with m rems we're gonna spend a
+
+00:17
+little bit more time with media queries because it seems some folks are getting
+tripped up there and then we're gonna build three layouts using flexbox i'm
+not gonna go super deep into flexbox i think there are a lot of great resources
+that i've shared some more that i put in the following materials today
+i'm gonna show you three of the layouts we've already done with flexbox we're
+gonna talk through the decisions we're gonna see what flexbox can do and then
+we move on to javascript once we get done javascript we'll come back and
+we'll build more feature-rich layouts that include effects flexbox and maybe a
+little hint of grid cool alrighty so let's go ahead and just break through
+the the important stuff to start tonight
+and then we're going to get into some of this review and then some of this
+flexbox cool checking in you haven't checked in already please do so you can do
+exclamation point check-in here in chat uh you can also always just
+click the link that's in the follow along materials channel or
+
+00:18
+in the when we go live message as well for folks that are new here we're doing
+a 30 week software engineering bootcamp if you want all the information to
+follow along you can do exclamation point 100 devs here in chat and it'll
+tell you everything you know about joining our bootcamp and and uh
+getting along with us alrighty folks thank you for checking in i appreciate it
+big thing happened over the weekend folks got added to our study communities now
+study communities are just a smaller group for you to study with that's it
+there's nothing other than that it's just a smaller slightly
+protected area where it's just a certain smaller group of people
+our hope is that you use these groups to
+network a little bit to work on projects together a little bit but really just
+
+00:19
+have a smaller space to to to put around in and to ask questions and have some
+fun they they don't replace any of our main
+channels they don't replace any of the help channels just a slightly smaller
+place for you to hang out now almost all of the groups have been added we still
+have a few of the location ones left but a lot of the affinity groups have
+been added and pretty much all of the location groups have been added we just
+have a few more that we'll get to this week now if you are in a group
+you owe an immense amount of gratitude and thanks to blah our fearless mod uh
+to make these groups right to make these groups we had to do everything manually
+right so we there was no way to just assign a large batch of individuals
+roles we tried everything uh every bot everything that we could have done uh
+there are things that you could have done like we could have created a bot
+where you clicked an emoji but folks have trouble clicking emoji sometimes so
+
+00:20
+it really came down to manually adding so if you have a role for your group
+know that you got that role manually blah went in found your name
+added the role to your name and then that's what put you in that group
+uh and they did it twice not only for all of the study
+communities that are kind of affinity or based but also for all of the
+location-based ones we're talking thousands and thousands of people
+manually getting roles and then they did it again for the location groups so if
+you ever see blah around discord please give them a thank you uh that is a
+metric crap ton of very hard work where you're just sitting mindlessly adding
+adding adding adding and so um huge shout out to them huge thank you to
+them uh because without them that would not have happened we we still be talking
+about this four weeks from now so thank you blah
+
+00:21
+now for some folks they missed out on this form
+they missed the second form or they didn't fill it out or maybe you're part
+of ketchup crew and you're just hearing about this now if that's the case you
+can fill out this missed out form it is also in the follow along materials
+channel should you need it there we don't have any plans
+to enable folks like switch groups yet and we're going to add folks that missed
+out as we have time but it's not something that's going to happen quick
+uh so just because of the manual nature of it and needing a little bit of break
+in between doing this so maybe down the line will enable folks to
+switch uh and if you did miss out you want to get at it we'll we'll do it as
+we have time now study communities are just that study
+communities uh if you're not in one that's okay
+if you don't like the one you're in that's okay
+it's just a smaller group for you to hang out with to write some code
+
+00:22
+together and take it for what it is right all right what's the biggest one
+uh the biggest one was focused and committed
+so focused and committed was so big we had to split it up into alpha and omega
+so there's focused and committed alpha and focused and committed omega because
+there are so many people in those ones so a large group of folks that are
+focused and committed you're in your own channel
+and so we're going to ask you to live up to the channel that you're in if you're
+in the friendly and encouraging one guess what you should be acting friendly
+and encouraging we will be adding soon two things uh one
+we're asking alumni to kind of like adopt a study community just to have
+some some words of wisdom in these groups as well and we're also gonna be
+coming up with guardians like folks that are in the communities that are just
+there to help moderate a little bit more
+since there's so many new communities so much more moderation the mod team's
+
+00:23
+gonna be stretched a little thin so yep so those two things are coming and we'll
+add some other fun stuff over the coming weeks cool
+submitting work nothing due today all right nothing due today uh please keep
+putting work into your layouts those layouts are due thursday cool
+for the homework uh remember uh on thursday we kind of walk through more of
+the homework we walk through what the media queries which one have media
+queries we added some more more to the to the pile here and so one thing you're
+going to notice is that when i assign homework it's not always
+going to be perfectly spelled out in the follow on materials channel i'm
+expecting that you're coming to class that you're paying attention when i sign
+work you're doing it eventually you want this to kind of mimic being on a team
+
+00:24
+your boss or team lead is not going to spell every single detail for you it's
+something that you have to be actively engaging paying attention making sure
+that you're taking note of the things that are due and the tickets that are
+being assigned to you so everything's not always perfectly spayed
+out make sure if you're stuck you don't understand you ask qualifying questions
+we have the homework help channel you can always kind of get clarification on
+if you need it alrighty networking does everyone have a sound delay no
+some people are saying yes most people are saying no go ahead and give it a
+refresh yeah go ahead and give your browser a refresh
+
+00:25
+on computer yes on phone no yeah all right yeah i would say give your browser a
+refresh we might have a slight delay though today uh oh the way the computer
+computer held up so we'll see all righty networking
+the expectation is this week is that you network with one individual
+already in tech okay one individual already in tech
+the push is to have a coffee chat with one individual right
+with one individual in person no these do not have to be in person these can be
+remote right right it can be remote right can be remote
+
+00:26
+and so the idea is to network with one individual
+right one individual that's already in tech they could be an engineer they
+could be somebody in sales as long as they're in tech
+one person now that means you're gonna have to do something you have to do the
+things we talked about during our first run through networking we're talking
+about meetups conferences twitter right the things that we talked about in our
+past class on networking you're gonna have to do one of those to find
+individuals that are already in tech to network with just one
+if you want to push right hey blah thank you if you want to push
+right you want to push then throw a coffee chat on that as well
+and then of course coffee chats don't have to be in person right now because
+of the thing going around [Music] make sure that you can do that virtually
+but a coffee just like that slightly longer
+chat with someone that's already in tech cool so first week just one
+
+00:27
+then you're gonna speed up next week it's gonna be two
+a week later it's gonna be three right and then we'll hold at three
+neck word individuals already in tech and two coffee chats is where we'll hold
+down so this week one next week two following week three please make sure
+all right what if we're already in tech doesn't matter if you already have a
+hundred people in your network in tech that's great at a hundred more we're
+here to play a numbers game right cool remember when you're networking you're
+meeting these folks you're keeping it casual you're trying to turn strangers
+into friends you're not going for the jugular you're not going straight for
+the job right a lot of folks right a lot of folks are
+worried about hey leon i just networked with somebody and and they have a job
+available and should i be interviewing no not yet
+
+00:28
+if you're if you're following this boot camp and you're in you're you're you're
+not at a stage where you've you have a language that you're comfortable with
+and you can you have projects no most folks are following this boot camp if
+somebody says hey i would love for your interviews say great i'm not ready to
+interview i'm not interviewing at the moment not looking for a new opportunity
+at the moment but in two to three months i would love to reach back out so keep
+it casual don't worry if they offer interviews or things like that hey i'm
+not looking for new opportunities right now but in two to three months i will be
+add them to your sheet right add them to your sheet don't
+forget that these individuals right don't forget that these individuals right
+exist you want to add them to your sheet as
+you network these individuals because in three four months from now when you're
+actually in the thick of interviewing you're not gonna remember that person
+you're not gonna remember the conversation that you had and so the
+sheet is what keeps you honest it's what keeps you uh
+
+00:29
+remembering the things that are important and it's the thing that you'll
+eventually share with me as part of your homework so that i can
+see that you're doing your networking and that you're staying on top of it
+can they be in tech now yes can they be retired no because you want people that
+can eventually go from friends to referral um so i mean if they're like
+super if they're like retired like like five five days ago that's fine but
+the idea would be that you want people are actively in tech that could actually
+connect you with folks that eventually will be hiring but we don't start there
+we start returning strangers into friends and they be students probably not
+because the goal is to for them to be a referral right so
+if you're in college don't count other students as or if you're in a in our
+boot camp you're talking to other boot campers right like
+no that doesn't count folks already in tech that could eventually become a
+referral cs teachers count no folks that are like in tech jobs right
+
+00:30
+that could eventually refer you know um is there a way to talk to mods i've
+discovered no uh it's just leonel.com discord any other links will will expire
+oh alrighty you're using the sheet coding challenges i know we said they
+start this week but they won't start until we actually start javascript so
+there won't be any kind of daily coding challenges until thursday friday
+but after after thursday's class we got daily coding challenges happening
+remember that you have to get a paid client by march 29th we haven't had our
+freelancing class yet so i'm kind of giving you the date now just that you
+can start talking to friends family start letting folks know hey i'm a
+
+00:31
+software engineer i'm looking for clients right that's it start putting it
+out into the world and we'll have a class on how to freelance soon and then
+your goal is to lock down that client the contract by march 29th so the work
+doesn't have to be done it's just that the contract is signed by march 29th
+all right we had a lot of folks to get jobs we're
+we're way past the 80 jobs mark now uh and we had two folks that posted very
+recently on discord and so i just wanted to throw
+them in there if you're not in that celebrations channel i highly recommend
+you check it out every once in a while it's just amazing to see the everyone's
+wins and the cool things that are coming their way arielle speedwagon posted
+they just started their software engineering job on february 1st so huge
+shout out to them i really love some of the things they
+had to say in their message i always link the messages in the slides so you
+can like click their name and it'll take you directly to their their message on
+
+00:32
+discord but i really love this the thing they shared i wish i could express how
+unready i felt even after more than one official offer
+i feel like a lot of people are in that space where
+they just don't feel ready yet right or they just don't feel like they they
+understand css enough or they don't understand html enough that's okay
+you're going to feel unready you're going to feel those hints of imposter
+syndrome that's an okay feeling to have you have to manage that feeling manage
+that frustration and keep pushing right um
+i wish i could tell you how many times i got myself got along the way with
+imposter syndrome with networking anxiety networking got me this job so
+they're saying they had networking anxiety but networking was the thing
+that got them the job slipping on my anki using it now on the job i wish i could
+share the depths of the level i felt god because i want to share this view from
+the other side sending all my very best thoughts wishes
+
+00:33
+and currents to all the folks who feel farthest away from the light we go get
+all right i i need everyone to feel that in their
+in their soul right now right they want to feel that in their soul right now
+you're gonna get got you're gonna feel unready you're gonna slip on certain
+things but that's okay we go get all right keep pushing and you'll get there
+i also love that they say help others and ask for help
+that's that's the way you get through this folks you help others when you can
+and you ask for help when you need it that's the most beautiful thing about
+this community is the most beautiful thing about those help channels it's how
+you get through all right another one that came through that i loved uh
+this is from jeff jeffen12 with the link uh to the discord message as well
+really excited to share that i accepted an offer from amazon i'll be starting as
+
+00:34
+a front-end engineer with amazon robotics in march
+uh they give a huge shout out to dab who's part of our stream team uh we talk
+more about stream team in in in the near future uh and then leon they mentioned
+things that we that we cover in this class as being the strategies for
+success prep and car are two interview methodologies that we drill in super
+hard throughout 100 devs they're super grateful for everyone here and
+thank you for letting me learn ask questions give support and advice when
+i'm able so i wanted to said a huge congratulations to them as well
+the really cool thing about this is one of the largest
+study communities or one of the larger study communities we have is an
+educators study community so folks that are teachers and educators and the cool
+thing about them is that they actually shared this in the thread that was on
+the celebrations channel that for the past 10 years they've been an educator
+special ed teacher they they weren't really kind of coming
+
+00:35
+from an engineering background they were a teacher and they start picking up
+coding as a hobby they joined 100 devs they kept up their interviewing game and
+ultimately locked down an offer at amazon so i really love this i love the
+things that they shared and if you ever need just a little boost
+you're feeling down the trophy star is getting you go to the celebrations
+channel checked out those pinned messages uh that'll be you if you can
+match your frustration be consistent and take care of yourself
+what does prep and car mean prep is an acronym for what we do during
+a technical interview um it's just it's just the thing that we
+do to make sure that we're we're solving a coding challenge correctly so as we
+move into our coding challenges we'll teach prep and then car is a simplified
+version of the star interview method so when it comes to behavioral interviews
+it's kind of like three things we keep in mind for every single question the
+beautiful thing about the midpoint of this program is that we
+
+00:36
+just grind interviewing that's it we grind coding challenges we grind
+behavioral questions we have uh a bank of 300 plus questions that we'll get to
+that you have to know the answers to inside and out and we're just lean mean
+interviewing machines by the end and so we have a lot of acronyms things that we
+keep in our brain so that we can get through these interviews the right way
+you can study for interviews this is the thing that i think a lot of folks don't
+realize that you can study your way into a job you can network your way into a
+job hey justin chat hey there you go cool alrighty
+i want to share those two things i think they're they're encouraging and then i
+love this gift so just because all right let's jump into it
+we're gonna do some review we're gonna look at some flexbox and we're going to
+call it a night we might end just a tad early tad early just so you have some
+
+00:37
+more time to work on your layouts all right golden rule separation of
+concerns content goes in our html style goes in our css behavior goes in our
+javascript y i love the yeah right and early organization exactly organization
+progressive enhancement another really important idea to keep in mind the the
+core should be our content we should have a little bit of presentation on top
+of that and a very thin amount of client-side scripting which is our
+javascript so as we transition into javascript on thursday super pumped for
+that we got to remember that it should be a small portion of what we're doing
+because we want to keep our sites light and accessible to all that may not even
+have a high speed broadband connection there's a reason why enderly is a bingo
+
+00:38
+word exactly all right css the css go in line does it go in the
+headers go in a separate file separate file nice remember you might
+have some inline if you're writing html emails you might have some in the head
+if you're at amazon like jeff is at amazon like three or four other 100 devs
+alumni or amazon we need to have like an amazon channel on on our discord
+uh in the head if you're at amazon you might have critical pass css we put a
+little bit of css in the head so that the above the fold can render quickly
+right or a separate file of course we put in a separate file
+to adhere to separation of concerns beautiful all right chat
+
+00:39
+let me open up demo pro here what is this it's a rule about this
+it's a property nice it's a property and we'll do one more how about
+that the whole thing i just circled declaration block exactly remember rules
+are broken down into selectors and declaration blocks declaration blocks
+are broken up into declarations declarations are broken up into
+properties and values beautiful remember when we were just first learning this
+stuff remember how overwhelming that felt and now you are just like
+select selector declaration block declaration properties values come on
+now let's go let's go see you so long ago it was like two weeks ago
+it was like two weeks ago all right remember css is right from top
+to bottom stuff that comes below can be overwritten by stuff that comes above
+
+00:40
+due to the what due to the cascade nice nice alrighty
+we had selecting by relationships when you see the carrot we're talking about
+what type of parent-child relationship we see the carrot we're talking about a
+very specific parent-child relationship direct exactly we're talking about the
+paragraph that is directly within a section so we have a paragraph it's
+directly within the section there's no other containing elements in between the
+section and the paragraph beautiful parent child without the carrot doesn't
+matter how deep the paragraph is it can be inside an article can be inside of
+any other character inside of any other element doesn't matter as long as there
+is a section with a p inside that p will become the color red cool now
+
+00:41
+we had and i changed this up a little bit when we have the plus sign
+we're talking about something very specific we're talking about the
+immediate sibling somebody some people call that the adjacent sibling right
+right the adjacent sibling so here the only thing that be read would be hello
+youtube all right and it'd be hello youtube because it has an immediately
+adjacent paragraph above it right cool now there's one other thing that we
+haven't really talked about yet but some folks were asking
+we have a general sibling selector it is the till day
+the till day is typically above like your caps lock or your tab key
+and that till day is a general sibling so it doesn't have to be immediately
+adjacent right it doesn't have to be the the uh the next one right so in this
+case if we did p till day p we'd be selecting a paragraph
+
+00:42
+right we have a span in the way it doesn't matter we also be selecting this
+paragraph hello tick tock all right so there are a few other wonderful things
+within css right but it still kind of follows all the
+same patterns here so adjacent means immediately after and then general
+doesn't matter if there's something that comes in between you're still gonna be
+able to grab the paragraph that's down below ids and classes
+uh ids are unique identifiers and it was a target one thing and only one thing
+when you give something an id it cannot get another id that id name cannot be
+reused on any other element classes their way of targeting multiple
+elements at the same time each element can have as many classes as really as
+you want and you can reuse those classes across elements so you can target them
+
+00:43
+all at the same time alrighty folks what is the specificity of this rule
+throw it in chat for me specificity of this rule [Laughter] [Music] [Laughter]
+[Music] [Laughter] y'all got cat see i've been setting you up class after class
+class after class i've given you this exact question
+but i changed it up just ever so slightly nobody bothered to look what happened
+
+00:44
+nobody bothered to look what happened oh [Laughter] so we have inline style
+what does inline style count for what does inline style count for it
+throw a one on there throw one on there throw one on the board
+right you got at least a thousand points for that inline style
+now if you want to continue to count after the inline style uh we'd have one id
+we'd have one class and we'd have one tag now
+the reason i show you this is just to know as you eventually leave
+the bubble of 100 devs and you're on a team don't ever do this
+don't ever do this unless you're writing html emails because nobody would look
+
+00:45
+none of you all looked i didn't even look so be careful don't use inline style
+it's gonna add way too much to the cascade you won't ever see it your co-workers
+won't see it and hope nobody you work with does it you're like you're like i'm
+a bad yeah i write bad code i'll use inline style if i want you can't tell me
+nothing leon all right if you wanna be a bad to be a baddie that's up to you
+it was like you circled the css it's not fair you said the rule not the not the
+actual rendering in the dom true that's true all right how about this one
+how many points specificity are we talking about
+everybody everybody's looking at the everybody's every line they're looking
+all right where is it at where's it at all right there's no there's no tricks
+in here in the inline style uh we do have a bang important so we
+
+00:46
+know that that's that's a that's a one for us we have one id
+we have one two three classes all right and we have one tag so we're
+at a thousand one hundred and thirty one nice box model
+alrighty and we talked about the box model i want to go ahead and do a box model
+practice it's a little bit more tricky right a little bit more tricky than
+we've done in the past so if you need the materials for today uh
+you can download them in the following materials channel on discord and we're
+gonna go ahead and open up the box model practice we're going to
+uh why is this class moving so fast because we've covered all this stuff
+before this this is all review for us if you're new here we have
+nine ten other classes that you can go back to and and watch this as we move
+
+00:47
+through so we always start off with a little bit of space repetition the first
+hour so is review and seeing things from
+a different angle but uh we slow down as we get to new stuff all righty yep
+estimation point 100 devs exactly if you want information so let's go ahead and
+open up this box model practice index.html there's also a css file and
+if you open up the css file there are four things to do uh i'm gonna put
+i'm gonna put eight minutes on the clock for this one to see if folks can get it
+done i will put eight minutes on the clock
+we'll go over it together and then we'll take our break let's put eight minutes
+
+00:48
+on the clock we'll go over it together then we'll take our break alrighty
+done no get out of here what do you need to do you need to
+complete what's in the css file go for it you got this dig deep
+let me see if spotify will come back on i don't know why it wasn't working hmm
+
+00:49
+we might not have music tonight it's crunk dead it might be tonight
+
+00:50
+might be tonight why um can you move the clock there you go
+case you need to see it uh ads are turned on um because we're
+partnered it's not something that like i control like i don't run ads um just
+when your partnered ads get get ran if you're sub do you have a gifted sub you
+don't see them but yeah uh you should really only see them when
+you join though like you shouldn't be like getting stream caught up
+yeah sorry there's the music i gotta figure out i don't know why it's not uh
+
+00:51
+not coming on maybe we could do let's see try in the browser
+about four minutes 45 45 seconds left i'm enjoying the quiet alrighty
+quiet makes it a lot easier to think this is fun like solving puzzle i hope
+
+00:52
+so yeah i have kids the quiet is great yeah i might need to try the app in the
+browser but i might do that while we're taking the break
+oh we got some duns coming in nice nice uh we'll get into freelancing in like
+maybe like a week or two but our freelancing class is already on
+youtube so if you have somebody that's like really jumping in the bit
+definitely just go and watch that class maybe a little early
+all right maybe i should have done uh the eight minutes here supposed to come
+in with the dunzos can two of us freelance together i mean
+you can but for the requirements of the class no
+the reason being is that when you go into an interview you want to be super
+sh you want to be super clear that it's your work and your work alone so people
+
+00:53
+get in trouble when they do like combine 100 hours projects or combined
+freelancing you want an interviewer to have no sniffs that you did not work on
+something by yourself i'm signing a contract with a production
+studio to redesign their website hey it's amazing congrats
+power rangers hufflepuff how do we do that you got to find them and then maybe
+use a color picker to find the actual color
+or sometimes i guess you could probably even google some of them
+oh more guns coming in mikey we'll cover that in class i'll
+
+00:54
+give you contracts and all the stuff that you need
+first time i finish the first time is up hey congrats silva that's awesome
+you can turn on wrapping kidding there's a way to do it
+can't believe i never knew about apple's color picker it's pretty cool that it's
+built in yeah those are windows you can definitely get
+one from the store i think a new linux on certain ones has it built in too
+i don't understand this exercise at all no worries we're going to go over it
+together and if you're new here we've definitely done very similar things a
+couple times beforehand this one's a little little odder a little bit a
+little bit harder a little bit more difficult
+
+00:55
+than the ones we've done in the past scalar a congrats hey good luck riv
+first interview it's gonna go well you got this
+all right folks we got about 39 seconds left uh i didn't see who it was but
+wrapping is a feature in vs code if you open up your settings and just
+type wrap it'll pop up and you can toggle it alrighty folks 10 seconds sorry
+with no music it's even weird for me because i'm used to like listening to
+the music while y'all are working i don't know why spotify is giving me trouble
+
+00:56
+today is a comedy of errors alrighty folks come on back come on back
+let's go over this together and then we'll take our break so go over this one
+together and then we'll stop for five minutes alrighty come on back
+please give the h1 some padding so let's go ahead and do that h1 some padding on
+two sides and zero on other so the cool thing
+about uh padding is that you can do like padding left padding right padding
+top bottom right you can do that and then you could also
+use the number system so if you just put one value like if we just did like five
+pixels that would put five all the way around we can also repeat so if we did
+like um 10 pixels zero what that's going to do is put 10 on the top
+zero on the right 10 on the bottom and zero on the left right so we can
+take advantage of this to do two sides and zero on the others awesome
+
+00:57
+margin on the sides with no padding so we could do the same thing with margin
+except we'll we'll flip it so we'll do let's do 0 10 pixels so now
+padding will be on the top and bottom and margin will be on the left and the
+right cool remember it's clockwise top right bottom left alrighty
+typically when you have zero you don't put the pixel value you just leave it as
+zero yeah you did it backwards sorry this camera is the different way top
+right bottom left that's so weird because it's flipped alrighty
+uh thin purple borders on sides without margin all right so
+we need to make sure so we have we don't have margin on top and bottom
+
+00:58
+right so what did you all do to get get the border on top and bottom yeah
+just do border top border bottom yeah so it's going to do that order top
+we'll do thin purple border so let's just do two pixels solid purple
+cool and we'll do the same thing for border bottom uh two pixels solid purple
+because right now if we look on line four there's no margin on zero
+uh so on the top or bottom so we put the border on top and bottom nice
+uh gold background so let's do background and it has to be the gold must be the
+exact color from the hufflepuff crest so for me i'm on a mac so i can do
+digital color meter and when i open a digital color meter i can just find a
+picture of the hufflepuff crest and grab the color i see a bunch of them in chat
+so if you're on mac digital color midi is built-in
+um on windows there is one that people are saying like in power tools that
+
+00:59
+power toys there's one but you can you can just download one pixie i think some
+people are mentioning but i've never used it so there are ones you could
+download for windows say thanks for good new linux uh so for me i'm going to go
+i think i already found an image of the hufflepuff crest
+so i'm just going to open up my digital color meter and
+i'm going to go right here i mean there's different shades right so it's
+going to go where it's like pretty muted all right 214 71 171 52. 214
+171 was it 52 i don't remember or 51. yeah 52. all right beautiful
+uh and so that's the rgb values and so uh shift command copy oh you can copy it
+from there actually i'd never do that that's pretty cool um
+
+01:00
+so we're gonna go ahead and do rgb a and i'm gonna put these values in
+and we'll put one because we want it to be fully transparent and let's let's
+open this up and see what we got cool so we got the
+how do we reduce the width of the border on border bottom border top
+reduce the width oh it has to do with the size of the element so like why is
+it going to the full full width of the page um because right now technically
+this h1 extends for the whole width of the page so you need some sort of width
+on this or some way of truncating it not being a full element yeah
+so you kind of got into something called block you could have got something into
+oh look at it it's all snowy [Laughter] santa comes late
+and the funny thing is i have like a like a white dotted shirt on stay frosty
+
+01:01
+there you go leon got snapped like i'm dumb dano snapping away
+all right so it looks good to me we got the borders on top and bottom we got the
+gold all right it looks good let's let's take a look at these other ones then
+we'll take our break all right please give the h2
+significant padding on the left and right all right so we'll go ahead and do
+padding remember top top right bottom left there we go so we want it on the
+left and right so i'm just going to do 0 and then essentially i'll do like 30
+pixels so i'll put the left and right for us
+and then we want to border on the left and right um but the red must be also
+the red from the mighty morph and power ages logo where do i think of this stuff
+all right so we're going to do the same thing here but we're going to do border
+right and we're going to do let's make it more visible 5 pixels solid red
+
+01:02
+um but i'm just putting red as the placeholder don't freak out it's all right
+i'm going to do border left and we're gonna do um we'll do five pixels again
+solid red and then we gotta go find the red
+from the mighty morphin's power rangers uh and it's a gradient right the logo
+yeah exactly the logo is a gradient so give me some some room here
+all right here's the power rangers logo digital color meter
+and so i said i can do command copy let's see if that works
+i'm going to copy this real quick and then let's let's bring up the digital
+
+01:03
+color meter again all right there we go oh hold on let's see it'll work nope
+oh command shift c all right thank you all right command shift c beautiful
+nice all right cool learn something new today rgba
+or the a's for that alpha channel like how transparent is it
+uh i'm just gonna put one because i don't want to be transparent
+and then i'll copy this and it looks hey how's it going thanks
+for swinging by again over stream went well welcome raiders
+how'd your stream go was it fun what are we all working on
+i saw you doing the the like the uh model challenge the other day i gotta
+
+01:04
+learn how to do that i gotta i gotta pay more attention to your stream
+uh you were doing like a tree the other day i was like i just wanna i want that
+skill i want to be able to like just like think of a tree and then be able to
+like bring it to life that was so cool what are you all doing today
+it was good did an art challenge cool some character work okay dope
+the challenges are pretty cool i gotta i gotta up my skills and swing by
+thanks for stopping by uh we're in the middle of doing some some css so
+uh we are running a 30 week software engineering bootcamp we've spent the
+last month doing html and css this is our last like actual css class and then
+we're moving into javascript on on thursday so
+welcome welcome hey and different thank you for giving them a sub i appreciate
+that yeah they are incredible it's one of my favorite streams on twitch by far
+
+01:05
+absolutely thanks for swinging by again all right so we got our padding
+on the left and the right we got our border on the left and the right
+it has to have the red coloring from the mighty morphin
+power rangers which we got and then has to have an orange background
+all right orange background and then the roboto font so we need font family
+uh roboto cool i'm going to put a default here of sans serif
+this is a fallback of course and we don't actually have the font right now
+right let's check do we have it in our html file nope we
+don't have any fonts linked so we have to go and get that font where can we go
+
+01:06
+to get the font chat google fonts cool let's do that uh we'll go ahead and do
+fonts.google.com we have source stands pro enabled here
+let's go ahead and do the robot though and let's just select the normal like 400
+boom there we go and should give us the link over here boom we got the link
+awesome copy it put it in our head we put it before our css sheet so our
+css can use it and i think we're good i think we should
+be able to have the padding the border the background and the font let's go
+ahead and just open this to make sure what a good refresh
+all right it's looking good i know the i'm going to actually make blood up a
+little bit so we can see that the the awful hideous red from the gradient of
+
+01:07
+the power rangers logo can we import it into css you can do imports yeah
+all right we got two more and then we'll take our lovely break
+please give the section a thick magenta border on the left
+100 pixels of padding on the top and bottom 200 pixel margin on every side
+without padding our border these got tricky
+all right so we're going to go ahead and do section and order left and then
+
+01:08
+i said thick right yes let's go ahead and do 20 pixels solid magenta
+and then 100 pixels of padding on the top and bottom so we'll just use our
+shortcut that we just saw 100 pixels zero so it'll be on the top and bottom
+nothing on left or right and margin on every side without padding or border so
+there's border on the top there's nothing on the right there's padding on
+the bottom so the only thing to worry about is margin on the right
+right so we could do margin right and that would be good enough we could
+put our padding there we could also do the shortcut right we know that it's
+top right bottom left right and so we could go ahead and do zero
+200 pixels zero zero right we could do that we could live our
+life that way if we wanted to we're baddies we write bad code although
+that's not bad i think it's just shortcut right so we do that looks good to me
+
+01:09
+i think we got everything let's do this last one all right make the spans
+have thin dodger blue borders so let's go ahead and do border
+uh two pixels solid dodger blue cool y'all didn't know that oh i did mention
+that in class i think before uh there is a dodger blue built in fun fact
+uh the dodger blue is different than like the current dodgers color
+because the dodgers blue was introduced into the specification in like the 80s
+like late 80s there's like they're like when they first figured out like hex
+values for it it was like in the 80s like before like we were even really
+talking about css or html right we were talking like hex values for for this
+stuff like back in the 80s um and so i think when they eventually brought it
+into the specification they kept like that old hex value from the 80s and so
+
+01:10
+yeah it's a different technically different color than it is like now
+i think it's pretty cool now do that color thing again the color picker you mean
+i just i'm just opening the color picker that's built into mac you'd have to use
+the one that's with your system or download one if you're on like windows
+or new linux all right so dodge or blue padding on the bottom and right
+so bottom and right so bottom and right would be zero on the top
+let's do 10 pixels on the right 10 pixels on the bottom and zero on the left
+top right bottom left yes i do this every time i'm uh
+
+01:11
+you're i'm not live i'm still doing this every time same thanks i'm not alone
+all right and then a light red background light ah there's no light red what did
+you use for light red light red is pink [Music] [Laughter] salmon
+because in my brain i'm like wait a minute it's not built in whatever shall
+i do like light red does not exist oh no i'm like
+i'm gonna have to figure out an rgb value i'm gonna have to figure out
+hexadecimal value josh is like use pink i don't even think about it even when i
+wrote this i didn't think about fake i was thinking accidental value [Laughter]
+
+01:12
+this is fun let's see beautiful that looks hideous but that's kind of
+our style the nuns are proud exactly all right uh it's time to take a break
+five minutes on the clock you're new around here we like to be healthy
+all right like to be healthy we like to take our breaks if you're able to please
+get up move around stretch hydrate and we'll be back in five
+all right i'm going to start the timer i might actually switch to the be right
+
+01:14
+back screen just while i do something extra here but we'll be back in five
+
+01:15
+
+01:18
+[Music] foreign yo hey different thank you for the gift
+that subs i appreciate you thank you dog is there a dog i see no dog
+there's a dog what all right folks come on back come on back alrighty
+so i guess i didn't play the playlist i guess it just played that one song yeah
+he had one song and then spotify clicked out alrighty let's keep it moving folks
+we'll eventually have the the moshi and simba cam set back up
+
+01:19
+mashi was kind of sitting there staring at me so
+bring the dog back we don't want we don't want stream we don't want to learn
+we want dogs alrighty let's talk about some responsiveness
+let's uh play around with some m's and rems let's play around with some media
+queries a lot of folks still had some questions i wanted to make sure we had
+like two more bits of practice with those things
+before we moved on to javascript of course when do we start whispering all right
+cool responsiveness let's get into it back in the day
+folks didn't care about screen size all right they didn't care about screen size
+they'll make something one size and it didn't matter how it looked on any other
+size screen because they didn't really have to worry about other screens and
+
+01:20
+then something happened what changed the world uh when it came to us having
+to care about different size screens yes steve jobs worked onto that stage and
+introduced the iphone and the world was never the same of course there were
+mobile phones before then but things really start to get moving once that
+happened mobile phones exploded we needed our
+our content to not only look good on uh a a desktop monitor but now also
+laptops and then phones and then tablets and so we couldn't just have a
+fixed-wist site it needed to be responsive now the core underpinning of a site
+being responsive is three things fluidity elasticity and content
+decisions fluidity kind of comes cheaper it comes a little bit easier if you're
+using things like percentages on your width or different layout or different
+
+01:21
+box model s type things like flexbox you probably get that fluidity built in
+so as long as you're using something like flex or using something like
+percentages you have that fluidity meaning that as your size gets bigger or
+smaller it kind of is responding it's kind of looking okay and that fluidity
+helps us in between our break points right in
+between the things that we care about also we have this idea of elasticity right
+elasticity is this idea that we want specifically
+at the beginning are fonts to be size and things like rems and m's so all m's
+and rems are our responsive units of measure
+and we use them a lot when we come to things like text right
+right and so here you can see this idea that instead of putting a font size on
+my paragraph i always forget that i still have this in here
+i always forget that it's in here dominoes cut me a check uh
+
+01:22
+we have the the the font size right in one m and we have a font size and one rem
+people get hung up on this but all in m is doing
+all in m is doing is looking for its closest parents
+font size so if we're at this paragraph right
+we're looking for the closest parent with a font size the closest parent to
+this paragraph is a section and we can see that this section has a font size of
+20 pixels so the paragraph at 1m is really what put the answer in chat for
+me please not dominoes it's actually 20 pixels exactly one m in
+this instance is equal to 20 pixels because the paragraph got its base from
+its parent section and that's how m's work m's will keep going up the ancestor
+
+01:23
+chain until it finds a parent with a font size and that's
+what it bases itself on now this proposed this this this leads to a
+very specific problem though uh and it's a problem when we one that can happen
+when you work with others or maybe even yourself if you're lucky
+uh what can happen that would hurt us when it comes to m's
+yup rossi it does have to be apparent yeah if somebody goes ahead
+and adds a different parent maybe they put like uh this paragraph inside of an
+article right if a [&nbsp;__&nbsp;] comes in and changes
+something exactly they put this paragraph and say like an article well
+guess what if that article also has a font size it'll never right it'll never go
+
+01:24
+right it'll never go to the section it'll grab its font size from the article
+right now sometimes this is inherited because the
+browsers have their own default size but let's let's stay off of that for a
+second right the idea here being that this paragraph will always look for the
+immediate child and so somebody else in our team comes along sorry immediate
+parent if somebody else comes along and changes that parent with a different
+font size well now our m's are different values right and so
+the beautiful thing here is that we have a solution to this we don't have to
+worry about that anymore because we have rems and rems always look at what no
+matter what they don't look at their parent they look at what
+yeah they look at the html element they look at the root element which is the
+html html element and that's it you don't have to worry about parents
+
+01:25
+they have to worry about anything um somebody in their their
+their uh this was brandon with their twitch mess their they they subscribed
+and said yeah buddy got my sass to compile congrats glad you got your ass
+to compile that's hilarious thank you thank you for the sub uh
+when we're doing rems right when we're doing rems it always
+looks at the html element right so we don't worry about somebody else coming
+in putting a different parent a different font size it looks at the root html
+cool let's do some practice with this uh this can be a tricky
+be a tricky thing to work through so let's get some practice in and in our
+starter code from today remember if you always need the starter code if you're
+new here you can join our discord leonard dot com discord exclamation
+point discord in chat in our discord we have a follow along materials channel
+once you agree to our rules you'll see the channel and you can download the zip
+
+01:26
+for each class so here we have the rem practice folder so index.html style.css
+if you look at the css underneath the additional styles there
+are some things i want you to do and you should do them in order please
+all right i'm gonna put i'm gonna put eight minutes on the clock
+for this one again eight minutes on the clock
+
+01:27
+give this the good old 100 devs try and then we'll go over it together
+morning flow this is in the rem practice the css scroll down to
+additional styles i like no music you can always mute the screen meet the
+channel until the timer goes off that's why i keep the timer off a lot of
+folks do just like mute the stream while they're doing the work and then turn it
+back on uh once they see the timer go to zero i will never start until the timer
+goes to zero this is uh stream beats uh by harris
+heller it's all free royalty music all low well this one's all lo-fi
+we love the voice have you played the new pokemon yet no
+
+01:28
+but i think tomorrow i'm going to do it on stream
+i really have to test i don't know why certain stuff's not working after i move
+my desk uh and so i'll probably do like office
+hours where i'll just answer questions while i test everything
+and then i'll probably just play it on stream just to test the microphones and
+the new lighting and all that stuff because this was this was a struggle to
+get it live for tonight and i don't want
+that for uh thursday so i'll probably go live like tonight just messing around
+with stuff again and then i'll go live again probably tomorrow just to dial
+everything in turn it on and off again i tried it didn't work
+uh do i use emmet i mean just what's built in but not really
+uh the go live channel will actually always snitch on me so as soon as i go
+
+01:29
+live it'll always go live so you'll see it in there but i probably won't like at
+everyone because i just want to test stuff you want to come hang out sure
+come hang out but i just need to test everything
+what is code i'm very confused no worries we're gonna go over it together
+uh this is in the rem practice in the css file at the bottom
+you just follow along the instructions in the additional style
+probably do some of the layouts on sunday yeah
+
+01:30
+now i didn't bet on the super bowl what should i do with my raspberry pi um
+that's a good question i like putting um key wix on it and you have a fully
+offline backups of like wikipedia khan academy a bunch of really cool stuff
+high hold block servers that's a good one too block ads that's a good one too
+key wix is the backup like kiwi kiwis i actually have a whole article like a
+whole blog post on my blog about setting up um a computer lab
+using raspberry pi's pretty cool it's a lot of fun
+so you're talking about actual pie
+
+01:31
+what did you think about snoop dogg [&nbsp;__&nbsp;] walking i loved it
+dear thing some folks coming in done that's cool we got three minutes
+22 seconds left i need some help on that one no way
+
+01:32
+we're gonna go over it together more folks coming in done nice
+oh this looks good and done i love it how do you feel about sports game result
+i didn't even watch it [Laughter] i'm glad sportsball team won
+they watched the halftime show though that was that was a throwback and a half
+all right folks my grandma hated it what's your rarest pokemon card
+i don't have any like super rare cards i mean i got some rare ones but not like
+
+01:33
+super rare uh mainly just like older rare cards from decks like that were
+competitive decks so there was like a competitive deck
+um from the years that i was playing i had that deck and i had all the cards in
+it so nothing like super expensive couple
+hundred dollar cards but yeah i do have um a first edition like bulbasaur that i
+really that's like my favorite i guess to be like super but it's not like super
+high graded or anything minute left folks tcg online stream a maybe
+i've always wanted to do like leon after
+dark and do some stuff i thought i don't like streaming video games so that was
+
+01:34
+weird i do have well i think my cousin actually has my ancient view
+30 seconds folks i'm doing everything wrong it's all
+right we'll get it right together three i don't just know like i just
+don't like i don't know it's just not anything like to talk about
+i don't really over share in my real life and so if i'm not teaching i'm kind
+of like don't know what to talk about the whole
+game and so it's kind of weird i've done a few of them but
+this channel actually started as a pokemon go stream for folks that didn't
+know that i was the first person to stream pokemon
+go outside and so there's a couple thousand followers on this channel that uh
+that are really surprised at the coding content and it's not me catching pokemon
+
+01:35
+outside alrighty folks come on back let's go over this together alrighty
+please make some text 12 pixels more text 16 pixels and last text
+27 pixels so if you looked in the html uh there's a section
+that has three paragraphs with some lorem ipsum in there all right thank you
+for everyone that told me about the lorem 10 lorem 15 like when you type out
+lorem you can put a number after it which is pretty cool like if you do lorem
+all right if you do lorem and you do like 10
+
+01:36
+it'll give you the the 10 the 10 words it's pretty neat
+so instead of having like the full big paragraph you can control the uh
+the amount of text i did not know leon steady learning i do
+look here's my thing if you should if you teach you should expect to learn you
+should never teach without expecting to learn the best thing i ever did to help
+my learning was start to teach others and that's why i tell you all to do that
+on discord the time the day that you have to explain
+the things that you're doing and not just do them it just solidifies all
+these connections in your brain so if you're like leon what's something i
+can do to give myself an edge help people on discord it just the the neural
+connections just they get sucked in and you'll never forget it um so yeah
+all right so we see that they have some text sorry there's a there's a class
+with some texts a class of more text and a class of last text they're just
+
+01:37
+paragraphs with some text in them all right
+please make some text 12 pixels we'll do some text
+and we'll go ahead and give it a font size of 12 pixels
+more text we're going to do at 16. cool font size 16 pixels
+and then the last one is last text and we want that at 27 pixels
+27 pixels cool all right so we've gone ahead and done that we've given them the
+actual font sizes i'm just going to open this just so that we have it open
+and we can see it as we need it all right i'm going to open up the
+inspector too just to have it open if we need it all right
+some texts more text last text um what you're noticing here some people
+have asked about this i don't think we're going to cover it more when we get
+
+01:38
+to javascript but this is called camel casing right there are many
+different types of casing and this is called camel casing the
+first word is lowercase and every other word is capitalized
+in classes you can't use spaces why can't you use spaces when it comes to
+classes oh simba because it would just be another class
+like css will just recognize that as a different class that you're applying on
+that paragraph it would be two different classes if you put a space so to denote
+multi-word classes i use camelcase and i'm going to use camelcase through
+javascript through node it's kind of the casing that i use always unless i can't
+this is also really dependent on like what language you're using some
+languages really value hyphenated when you join a team or a company they're
+gonna have like the style guide for how they want you to name your variables and
+
+01:39
+your classes and all that fun stuff cool let's look at this next one
+please double the font size of some text more text in last text still using
+pixels i'm just going to go ahead and copy this real quick
+and i'm going to double the size now to double the size what do i have to
+do right now what do i have to do to double the size right now
+quick mess exactly gotta do gotta do some quick maths 12 plus 12 24 16 plus 16
+31. thank you for the engagement 32. [Laughter] y'all got got
+boosted my numbers because there's some of y'all and i see you i i go back
+
+01:40
+and i look at the the the amount of people that that that comment
+and there are some people that only comment when i do something wrong
+so you got got i'm on you i need those engagement numbers up second try
+and last text 27 plus 27 54. cool all right let's uh let's go back to the
+page and refresh just to make sure it doubled
+yep so it did double in size beautiful alrighty
+please set a base font size on hey yo and make some text more text in last text
+those sizes but use m's instead of pixels
+so if you notice they are all inside of a section called ao all right
+
+01:41
+there's that ao and so i'm going to set up base font size on ao
+and i'm going to do font size and i'm going to do 10 pixels all right 10 pixels
+and why would i use 10 pixels on heyo why would i do that easy maths exactly
+easy maps alrighty so base size font size of 10 pixels and
+then we can go ahead and do um i'm just going to copy this and i'm
+
+01:42
+going to overwrite it so i'm going to copy it and i want them to be 12 pixels so
+some text if i wanted to be 12 pixels would have to be how many m's
+how many m's for 12 pixels yeah 1.2 remember because then m is going to look
+at its parent's container right so it's going to look at heyo and it's going to
+base its font size off of 10. so if we want some text to be 12 it's going to be
+1.2 ms right cool more text if we're going to stick to
+this m's we'll make this 1.6 m's right 1.6 m's that would give us 16 pixels
+
+01:43
+cool and then last text at 27 would be 2.7 ms cool me too mush me too
+all right so i think that should be the base let's go ahead and take a look it
+should they should all shrink in half looks good to me
+glad you think so for sure all right so we have all of them using ms now
+the base font size is 10 pixels great now i want you to double the size
+of some text more text and last text but you can only make one change
+what do you change only make one change what do you change yeah we make hey yo
+20 pixels so if we make heyo 20 pixels that means every m is now
+
+01:44
+double the size right no matter what the m's were they're now double the size if
+they're getting their base from heyo cause hey yo went from 10
+now it's at 20. so let's save it and we can see that they doubled in size
+right now this right here shows you yms right
+right shows you why m's can be so tricky right
+because somewhere down in the cascade i changed hayo from 10 to 20 right
+and now all my text is double the size right and so the idea being here is that
+if you are working with somebody else that
+changed the base font size or somebody throws a different container right
+boom it could double and it can double further down the cascade you could have
+a thousand lines of css in between this code
+
+01:45
+this code and this change and you'll be like where the heck are stuff doubling
+in size from right all righty please wrap last text in a new section
+with the class of oh see i write these sometimes like a week
+or two ahead and i forget the stuff that i that i type out
+and then it makes me laugh the power rangers want to maybe laugh
+like why what was i thinking all right please wrap last text in a new
+section with the class of uh oh honestly uh oh with an h sounds more realistic
+all right last text in a new section with the class of oh so let's go over here
+
+01:46
+last text we're going to wrap this in a section with the class of o
+and so we're going to put this paragraph in there
+cool so now last text is inside of a section with the class of uh oh all right
+give it a base font size of 40 pixels so i'm going to go to uh oh
+and i'm going to give it a font size of 40 pixels all right so i gave uh oh
+a font size of 40 pixels let's come back and refresh uh oh what happened
+
+01:47
+i before i thanos snap away what happened i changed the parent exactly
+i changed the parent the the the the the paragraph of last text right last text
+last text has a font size of 2.7 m's right so it's a responsive unit of measure
+it was getting its base font size from heyo but now that it's inside of uh oh
+and uh oh is the first parent it gets its base font size from uh-oh
+
+01:48
+not from heyo right if we look last text is going to try and get its
+rem value i'm sorry it's m value from uh oh
+it's not going to get its m value from heyo anymore heyo's apparent further up
+it always looks for the first parent so since last text is inside of uh oh it
+stops it uh oh it gets its 40 pixels and not the 20 not the 20 from heyo
+and so we've now seen two different ways that you can get got when using m's
+right you could have someone that doubles a
+font size further down in the cascade you could have someone that introduces a
+
+01:49
+new containing section with a different font size and so to get around all of
+these troubles you got got thank you and congrats speedwagon glad you're here um
+if you if you could if you could get rid of all these
+troubles the cascade troubles the containing troubles by using rams exactly so
+we can fix our doubling of last text by converting to rems
+right by converting to rems so we can say uh let's use html element
+and let's go ahead and set a base font size here 62.5 right and on last text
+
+01:50
+i'm going to change it to um font size 2.7 rem
+let's see let's see what this does and we'll come back let's save
+all right doubling one away doubling went away all right doubling went away
+and the the doubling from heyo went away as well
+right so we wiped the slate clean now a lot of folks are saying what's the 62.5
+what is the default font size that comes from
+most browsers remember if you're not using reset.css or normalize right there
+may be a base font size being attributed to the html
+element and the base size yes is 16. so if you do 62.5
+times 16 quick maths you get 10 pixels right so this is the exact same thing as
+
+01:51
+saying 10 pixels because it's just taking that that default font size now
+why would i go through that trouble right of not just saying 10 pixels leon
+why are you making me do math i don't like math why are we doing math he said
+leon you said you don't need math to be a web developer accessibility exactly
+some individuals that maybe may have a visual impairment where
+they need stuff to be bigger they actually will use a program or even
+built into certain browsers the ability to set their base font size from 16 to
+32 right if you had hard coded this to 10 pixels it would wipe their
+requested font size off the map it would
+force it down to 10 pixels but let's say their base font size right was 32
+
+01:52
+well then you do 62.5 times 32 and now you're at 20 right and so the idea here
+is that you can do folks using accessibility devices a
+favor by not hard coding this but just taking a percentage of their requested
+font size and so typically you're going to see that be at
+16 pixels for most individuals but if they have changed it you won't actually
+affect them and you can still have your rems and eat your cake too cool
+light bulb just went off finally got it thank you hey i'm glad that's why so i
+want to take some time to practice some trickier box model to practice some rem
+ms and then we're going to practice our media queries
+we were a little late on the last break let's be a little early on this break so
+let's go ahead and take a five minute break right
+
+01:53
+five minute break uh if you're able please get up move around walk around um
+let your eyes focus on something that's not your screen we're gonna come back
+we're gonna do another practice with media queries and
+then we're gonna look at some flexbox and we'll call the class all right folks
+take your five minutes and if you need any of this material
+i'll always share my solutions after class
+so don't stress if you weren't able to type along that's okay we'll get there
+
+01:57
+
+01:58
+discard all right folks take your five minutes bring the tunes back yo
+i gotta go make lasagna see you all on the replay a
+sprocket hope your lasagna turns out good why do you wear your headphones during
+classes so i can hear the music and the alerts also
+i have a really weird thing where my company used to be headphones in
+don't talk to me one headphone off you can approach me
+but make it quick headphones off come talk to me
+and so the odd thing that wound up happening because of that pattern is i
+can't do like deep work without headphones in so a lot of times i'll be
+sitting with headphones in but they're not playing anything they're not plugged
+
+01:59
+in i just need them in to be able to like actually focus yeah
+here's soccer team man you of course dc or marvel dc all day not based on
+if we're talking like actual comics i love vertigo more than anything but
+alrighty come on back come on back oh i started something in the in the in
+the comments alrighty come on back let me chill the music here
+being in the live streams is way more lit than watching them afterwards hey
+glad you're here with us live do it live all right uh
+we have one other big thing i want to do
+before we get to a little bit of flexbox and then do our raid
+
+02:00
+and that's what i want to talk about is the last piece of the responsiveness
+puzzle which is media queries so we talked about fluidity we talked about
+elasticity maybe we got maybe hopefully now with a little bit more practice with
+the m's and rems you can kind of see how
+you can get got and the ways you can get around being got by using rems
+the last bit is the content decisions right now the content decisions
+are just how we decide what is shown at different screen sizes so we talked
+about boston.com when you are on mobile boston.com doesn't need to show you
+this lovely like a side or list of stuff happening if you're on mobile you're
+probably in boston on the t you're probably commuting and you
+probably just want bangers right bangers only you want the news
+
+02:01
+you want the weather and you want sports that's all you probably care about so
+they make it really easy to see the news whether in sports on
+mobile right and they make decisions not to show certain things that you might
+have even on tablet laptop or desktop so the last piece of this puzzle are the
+content decisions you make when you are showing or making your sites responsive
+and we make those content decisions by doing what media queries nice cool
+so media queries are a way of saying hey while the screen is this size
+these rules are in effect the media queries don't give any extra
+specificity they just say hey we want to try these rules in the cascade at this
+
+02:02
+time right and so um before you might have seen screen uh
+there's print there's a bunch of them all i like to just think of these as
+like zero like you're just saying hey between like for starting at zero but
+really it's different media queries for different types of mediums so you could
+have a media query for all different types of devices you could have media
+queries just for like print like when you're going to print something out you
+could have media queries for speech like things are going to be read with a
+screen reader and so you'll see these kind of different
+values at the beginning and then right here i'm saying max width of 600 pixels
+so between like 0 and 600 pixels our h1 would be blue
+right after 600 pixels the h1 would no longer be blue right cool so
+let's go ahead and get some media query practice so in our
+materials for today we can close digital color meter here for materials today if
+you're new welcome we're running a 30 week software engineering bootcamp you
+
+02:03
+can always get our materials on our discord estimation disk exclamation
+point discord in chat in the following materials channel after
+you create a rules you'll find them we're about to open the
+media query practice here i'm gonna open up the index.html and the style.css
+if you're watching this on youtube hey youtube hope you're doing well go ahead
+and like comment and subscribe please thank you thank you alrighty
+so if you scroll down to the css at the bottom in the additional styles right
+in the additional styles future leon big brain exactly
+um in the additional styles you you have some things i would like for you to do
+i would like for you to on mobile make all the sections stack
+on tablet make the sections in main stacks if you notice there is a main
+
+02:04
+area yep and then on laptop and then on larger
+screens so uh do your best i'm gonna put eight minutes on the timer again for
+this one and we'll go over it together eight minutes cool
+i've at it good luck this is in the media query practice
+additional style is that below about it you'll notice that the layout's already
+done for you don't to do the layout it's just the media queries
+i don't think we've done this yeah we've only done a few media queries we've
+never we've never really pushed ourselves with these
+rough numbers for different screen sizes are fine yup you can use the inspect
+
+02:05
+tool i did i did peek at that once uh to get different screen sizes if you want
+uh dragon eventually you can use rems and m's even in media queries too
+good question i think i'm just going to show pixels
+just for learning's sake but yeah you could get the m's and rums there too
+yeah well it felt like water today what do you mean by make it all stack
+meaning i want them all on top of each other not sitting next to each other
+uh boinky make sure you've uh make sure you've unzipped the folder
+
+02:06
+you unzip to get the files out sometimes if you just like open it it'll open but
+you need to make sure it's unzipped zero that's all right we got the ketchup
+crew on discord so if you've missed some past classes when you first learned
+about media queries and you need to catch up you can definitely do that
+come on 174 that's okay we'll go over it together
+a lot of this is also like phrasing so don't let the phrasing get get you hung
+up there's there there are some different best practices for picking different
+whiffs uh two styles of thought are one you could actually just look up the most
+common whiffs that's kind of like the old school way of doing it
+some folks like to take the size of their layout shrink it to looks bad and
+
+02:07
+that's their media query both ways are fine m's and rems can pull from
+the base font size that the user sets so if a user sets a bigger base font size
+and you're using ms or rems it could actually respond to that based font size
+and help with accessibility so some folks that might have a visual
+impairment might set their text to be double the size and then your rems would
+know how to respond we'll go over them together
+
+02:08
+crisis you can actually use them for everything honestly
+cool some folks coming in done quick wow impressive
+yeah exactly if you're if you're stuck go to mdn look at media queries look how
+they do it you have to sit here start digging start
+start putting start carrying some boats and some logs folks fire up the mdn
+
+02:09
+means i have a plugin called open in browser if you go
+to this little icon here and you click um search for open in browser you
+install it and then you'll be able to right click like i do
+but only in the html doesn't work in the css up up up up up up man easy ban
+some of these songs snap why do people always ask if i use emmett
+is that like on bingo or something people playing bingo
+
+02:10
+people ask it all the time all the time is it on bingo
+it took me to like halfway through through the last cohort to realize that
+people keep asking the same questions because it's in bingo for them
+is that bad no use it if you want to when folks first start i don't like them
+to use like built-in stuff i like them to get used to it because you're not
+always going to have it and when you go into interviews there's nothing worse
+than relying on emmet and not knowing how to do like basic tags right seen it
+happen so i always like my students to start off for the first couple weeks not
+using any helpers and then yeah you can use stuff that speeds up your process
+
+02:11
+later on i said we're going to go over in a second when's the merch drop
+uh we're working on like better merch than we've had last time and so it'll be
+coming soon a lot of folks seem to want it so
+we'll probably do a few raffles here and there but check your check your
+open your your newsletter emails that'll be the way the next merch comes from
+can we get a trough of sorrows shirt that actually pretty fun that's a good idea
+
+02:12
+[Music] all right 20 seconds folks [Music]
+is there ever a use for m of rem it's a preference right you some folks like ms
+they like the flexibility of being able to change based on the container size
+you just have to have a team and yourself that agrees that that's what
+you want to do box exclamation point newsletter
+
+02:13
+alright folks come on back come on back [Music] show the music here all right
+come on back let's do this together all right
+on mobile please make all the sections stack so
+i'm a baddie i'm writing some bad code i'm just going to pick a size for now
+that i think most mobile phones would be around right so i'm going to create a
+media query at media i'm going to say all and um let's say a max width of 500
+all right max with the 500 pixels and if we're below 500 pixels i know that i'm
+on mobile right i'm on mobile right and i know i'm a mobile and
+
+02:14
+what could i do to make everything stack what could i do and nice
+cool it could just make them all width of 100
+all right so the cool thing here is that
+when i go ahead i can target all of them i can just say make them all percent so
+if we look uh there are sections inside of main
+and there are sections inside of bottom but bottom itself is a section so i'm
+going to be a little bit more specific here i'm going to say the sections
+inside of main and the sections inside of bottom they
+are going to be width of 100 so let's come up here let's do main section
+and then i can do the comma to select two different things at the same time
+we're going to do section main section and then we'll do bottom section
+and i'll give them a width of a hundred percent cool nice let's go ahead and
+
+02:15
+open this in the browser so here's our normal layout
+i'm going to open up the inspector just to make it a little bit easier for me to
+resize and when i have the inspector open you're going to get this lovely um
+like little note here of what the actual screen size is
+all right so if i go ahead and i start shrinking it you can see that we're at
+600 550 and then boom we hit that 500 and we see everything stack
+and the reason why we would stack right is because we have unlimited what
+we have unlimited what yeah we have unlimited scrolling space right
+we have unlimited scrolling space so on mobile one of the most common like
+decisions you'll make is just say let's stack everything because we might not
+have like vertical sorry horizontal space we have pretty much unlimited
+vertical space to scroll so you could stack everything on mobile
+
+02:16
+uh a cool thing that's built into chrome is this little icon right here you can
+see it looks like a phone and a tablet if you go ahead and click on that
+it'll actually give you the dimensions of pretty much every normal like every
+popular like phone or most of the popular ones and the popular tablets right so
+right now i have it on iphone 12 pro and you can see the width is 390 and so
+everything is stacked right everything is stacked if i go to
+let's do ipad because i know ipad is 768 i believe
+or i guess it's a little bit different now you can see that when it's on ipad
+and it's 820 right and it's 20 that stacking is gone
+all right so i'm able to test right in here and see all right ipad not stacked
+
+02:17
+iphone stacked right it's pretty neat now something interesting i just want to
+do something real quick in my html i'm going to get rid of this
+line 7. i just want to delete this real quick i want to save
+i want to come back and refresh what did you notice what what just happened
+anybody noticed i did something very quick here i got rid of that line i came
+back and i refreshed and it's not working anymore it broke right it broke
+you need that line if you are testing on actual mobile devices
+this is this is something that a couple of folks have figured out and i just
+want to show it if you do not have this line that i gave
+you to put in your template let me bring it back content with device width right
+if you don't have this line and you're testing on mobile your media queries
+just won't work right that's because there are two different
+
+02:18
+settings for your media queries there is max with and there is max device width
+max device width means like mobile phones right it means like actual
+devices if you just have max with that's going to help you with like resizing
+your screen on in the browser like on your desktop but it won't actually help
+you with devices so you could theoretically have a set of media
+queries for macs with and then copy them and have a set of media queries or max
+device with but you don't need to have two separate sets
+of media queries if you just have this viewport so for folks that ran into that
+that's why we're we're forcing the whiff to be the device with which means we
+don't have to have like special media queries to handle it cool so
+
+02:19
+normal media query we're using max with normal media query we have our viewport
+device with if we go back and refresh we see everything that's working okay
+everything's working why all and not screen they're just
+different settings all means everything it can mean that these media queries are
+going to work on screens it's going to work when you print stuff out it's going
+to work when you're using screen readers but sometimes you want do you ever like
+go to print something and it looks different when you print it out than
+what was on the page like the ads are gone right like the ads are gone
+the the header is gone it's just like the the directions are being printed out
+or something like oh [&nbsp;__&nbsp;] i just showed my age there
+all the og's that use map quests if you're an og put matt just just put
+in just put it put an m in chat for me if you're an og and use map quest
+right so if you know g and use mapquest mapquest was like before like waze or
+
+02:20
+like the like like google maps we would we would search for maps online
+a map quests like directions on mapquest
+and then you'd print out your directions for map quests right so the cool thing
+is you can actually have a media query that respects that and you say print
+now this media query will only apply to like when you're printing stuff so it's
+pretty neat like you can have stuff that are that works for screens you can have
+stuff that works for printing you know stuff that works for screen readers right
+and so uh it's just uh just different things you can use there
+so i'm just going to use all going forward just to cover all of our bases
+and yeah anything below 500 pixels or up to 500 pixels is now width of 100
+beautiful on tablet please make the sections in main stack so i don't want
+
+02:21
+i don't want the bottom sections to stack i just want the
+sections in main to stack how can i do that
+i definitely need another media query right i'm going to say all and let's do
+on tablet we saw that was 820 so let's do max with uh 8 20.
+let's let's just give ourselves a little bit of room here maybe some tablets
+are slightly bigger let's do 850 pixels beautiful
+and then yeah people are people got it main section uh with
+now the cool thing that's going to happen here
+is that let's say we start with our screen real big right
+right let's start with our screen real big right
+as we make it smaller and we hit below the uh 850 mark we're going to see that
+
+02:22
+the main sections will stack and then once we get smaller like once we get
+below 500 we'll see the main sections and the bottom sections stack all right
+cool let's let's see what happens here now the cool thing is we're saying and
+max with right we're saying and max so we're saying up to this so that means
+we're going to have like this nice cushion between 500 and 850 without
+having to like do min and max let's just see what see what happens here
+i'm gonna just do the old school way here making our windows smaller so we're at
+860 here and nothing happened oh no nothing happened why did nothing happen
+
+02:23
+let's refresh there we go i didn't refreshed right
+i saved i didn't refresh so let's go we we hit our media query
+right at the 850 boom we can see that the main is stacking
+and it's gonna stay stacked because we said up to we said max 850 so we're good
+anything below 850 this should work and then once we get below 500
+boom that other media query is in play right
+other media query is in play and now everything stacks beautiful cool
+so above 500 we're still in that max of 850 so main
+is stacking we go past the 800 boom we see nothing is stacking
+
+02:24
+so you don't need minimax you don't some people prefer it it's a preference you
+can do this kind of stacking you could do it the other way with min as well
+it's kind of a preference and so play around with it try doing all max try
+doing all mins try doing min and maxes right all right we got two more here
+though on laptop please keep the normal layout but everything should be light
+green keep the normal layout but everything should be um like green so
+i'm going to say anything above 850 is our our laptop right we said 850 is our
+is our tablet so i want everything above 850 right to be like green
+what could i do to say everything above 850. remember i'm a baddie i'm writing
+bad code this might not be exactly how you do it in production i'm trying to
+
+02:25
+show you all the different stuff here we could do the min with right so let's
+go ahead and try it let's go and do at media all and and then we're going to say
+[Music] say min with and let's go ahead and say um let's target
+let's target everything so we'll target main and we'll target bottom
+and we'll make them background like green cool let's see where we're at folks
+could have done asterisks yeah look at an asterix all right so we're at
+
+02:26
+i want to save let's refresh so i'm i'm not seeing anything i'm i'm below i
+don't see any colors happening happening nothing's really happening here we
+should be seeing some light green let's take a look at this
+why am i not seeing any light green ah some people got it
+the people got it oh so happy i'm so happy some people got it hold on you ready
+
+02:27
+i targeted maine and bottom let's go look at main and bottom real quick
+i'm so happy oh this makes me so happy let's go turn up let's look at this
+all right main and bottom right that's what i just put the color on
+i put the the color on main and bottom let's look at the inspector
+let's look at main what do you i know it's hard to see but
+if you look in that top left corner what is it saying it's saying 905 and what
+905 and 0. and then let's let's look at bottom it's saying the same thing
+905 and 0. but if we look at the sections inside we can see that those are 300.
+
+02:28
+what happened let's go back and look at our css what happened what happened
+oh boy so since that content was floated right since that i'm never using floats
+again since that content is floated main and bottom once the content floated
+collapsed right so if main and bottom are collapsed
+are we going to see any color come through no
+there's no way we'll see color because main and bottom have collapsed right if
+bane was floated and collapsed you're not going to see anything so how do we
+fix this people are already saying it yeah let's let's go we have clear fix up
+here we have the clear fix class let's go ahead and on main let's give it the
+
+02:29
+class of clear fix and on bottom let's give it the class of clear fix as well
+boom so now now that main and section have clear fix
+they shouldn't collapse anymore and if they're not collapsing then we should
+see some color boom let's go turn up all right so if we go below the the 850
+we get our normal stacking we go below 500 we get everything stacking
+we go above the 850 and you see light green now
+if you had never learned about floats is there any way in
+any way that you would ever figure that out it's just no
+you would never in a million years figure out why color is not being
+
+02:30
+applied why things are collapsing and so
+i've seen so many of my students wind up having to convert legacy code
+having to take something old turn it into something new to transition to flex
+and grid and there's just no way you'd ever realize that there's no way you're
+going to google that like it's just it just it would just take forever to
+figure out and so that's why i wanted to build up floats so much that's why i
+wanted you to see media queries again and play with this because there are
+just some things like this that if you don't know how the web works what floats
+if you don't know how the box model works with a true box model and not a
+flexi box model right you just won't ever figure this crap out all right cool
+so since those things were floating uh the containers collapsed and that's why
+we weren't seeing the color we put clear fix which stops the container from
+collapsing boom it collapsed because they were floating
+
+02:31
+all right we have one more we're gonna be asked this to fix
+somebody's janky code exactly all right on larger screens please keep
+the normal layout but everything should be light blue
+um so we can just do another another media query
+we'll just do a bigger screen let's do like 1024 all right so let's do at media
+all and we'll do another min width we'll say 10 24 10 24 pixels cool
+we'll do the same thing again main and bottom all right and we're going to do
+background and we'll say light blue cool let's save this let's go back
+let's refresh there we go so if i could keep stretching my browser
+
+02:32
+window right if i could if i could keep stretching my browser window
+would this ever not be light blue if i can keep making it bigger
+no it will be blue until i run out of room to keep stretching it right because
+i set a min width so as long as as long as it's above the minimum of
+1024 it's gonna be light blue if i go below right right if i go below 1024
+the other media query takes an effect which had a minimum of 850.
+right so if we're at 1024 above 1024 light blue light blue
+we go below 1024 which was the minimum we're now in that minimum of 850 so
+we'll see like green and we go below that we get into our
+
+02:33
+other media queries that we had as well will media queries eventually go into
+separate css file they don't have to it's kind of
+preference how many css files you have a lot of people just use a singular css
+file until they're working on a larger project
+preference between coloring the items in the container versus the container it
+doesn't it's preference yeah why would anyone do this everyone does
+it if you're building a layout that has if you wanted to look good on mobile
+devices tablets you have to make content decisions at those screen sizes and so
+you use media queries to make those content decisions i show the html sure
+
+02:34
+html is what you have i just added the class clear fix
+i don't understand why the class clear fix fixed it
+so we talked about clear fix in the previous classes we also did it during
+uh office hours uh so what happens i'm just going to draw here um if you have
+if we look we have this main right this mane has no height
+it has no height there is no height on this main we could come into our css and
+give main a height but there's no height the only reason
+the only reason main has height is because the sections inside of it have height
+right so we have the the three sections right we have the three sections and
+
+02:35
+then main is around them right main is around them
+and the only reason main is so big is because the three sections are holding
+it open right but as soon as you float these
+sections right they wind up sitting next to each other
+right when i'm sitting next to each other but the wrapper that was main
+it collapses it literally just slams shut because once you float content like
+here's main my open fingers are main here are the three sections that were
+inside i float those three sections oop main collapses right it just collapses
+and so what clearfix does if we actually look at the clear fix class
+let's go up to it it says hey put a dot an invisible dot right because we say
+
+02:36
+visibility hidden put an invisible dot after the content right
+put an invisible dot after the content right and so what it's actually doing is
+we're putting a little invisible dot right here so even though right even though
+these three sections are floating and the main should collapse it's not going
+to collapse because main is trying to wrap around that dot now it
+doesn't care if the stuff is floating or not floating it's just trying to wrap
+around that dot and so when you add the clear fix it wraps around the dot and it
+doesn't matter what you do inside you could float those those sections you can
+do whatever you want to them it's not going to collapse because they're floated
+because it's wrapping around the dot so when you add the clear fix it keeps
+the main open it keeps bottom open when we add clear
+fix here and that's why we can see color if we got rid of this dot like if this
+
+02:37
+dot went away well then this would collapse and you'd wind up with just a
+flat line because it doesn't have any height why display block if it's invisible
+anyway because it's still taking up space so
+there's two different ways to like make stuff invisible right display none
+actually removes it from the page it's like no longer on the page anymore
+that's why you can't see it it's like literally gone you can't see it when
+it's display it's gone when you say display none you remove something from
+the page but when you do visibility hidden
+it's still there you just can't see it right yeah so slight differences there
+cool all righty if you have more questions about media
+queries and things like that come to office hours we're happy to kind of walk
+
+02:38
+through more of them there all right let's keep pushing folks we
+only got a little bit of time left and i want to get to some flexbox goodness
+all right so we talked about adding this viewport
+without it you're going to need two different kinds of media queries
+the min device width and max device width versus just min and max width
+right so make sure you always have this meta viewport in the head of your
+document we added that to our template before
+all right time for some layouts we're going to look at some layouts that we've
+done before let's talk about floats psych not going to talk about floats
+
+02:39
+uh we're going to talk about [Music] all right so let's talk about some
+flexbox now i've asked you to read the css tricks flexbox tutorial
+i have asked you to play flexbox froggie in the following materials today i've
+given you some extra work if you want to learn more about flexbox it includes
+flexbox zombies it includes uh the goat traversing media's video on 20 minute
+flexbox it includes a free code camp walk through a flexbox
+there's a lot of vocabulary that comes with flexbox that you have to learn and
+by playing those games it's going to be way more impactful than me like putting
+them up on the screen and then us walking through them so i'm going to show
+i'm gonna show some quick examples of the layouts we've already done in
+
+02:40
+flexbox and then i want you to do those games the games are just really helpful
+um and for me like i always still had to look up the flexbox stuff like i always
+forgot justify what or align what like i
+just could never remember the vocabulary until i added them to my anki until i
+played those games so play flexbox froggy play
+um flexbox zombies right that will help those things actually stick in your
+brain more than us kind of sitting here and doing them together so i'm going to
+assume that you've already done some of that work the flexbox froggy you've read
+that tutorial and so we don't have to sit here and work through the vocabulary
+together you should already have it i just want to show you some some code
+all right warning actually let me bring tina up here
+all right warning i'm a baddie i write bad code uh none of this would make it
+into production i just wanted to show you as an exercise into how we could use
+flex uh instead of the the the floatiness that we've been going through
+
+02:41
+all right cool let's write some bad code with
+flexbox uh the first thing i want to do is techcrunch
+right so let's if you want to you don't have to follow along you don't have to
+like type along i think you should just pay attention ask questions um so like
+don't rush to like type this out i will always share my solutions after class so
+the layout that we have with techcrunch is just this lovely like three
+column light that was so bad i couldn't even draw a straight line [Laughter]
+three column layout right and so we're going to go ahead and do that with
+flexbox instead of floats that we've done before so
+in the starter materials for tonight i have the layout one folder and this is
+one folder is simply the layout one folder is simply the code
+we did last time with floats uh so we have our nav with the ul lis in
+
+02:42
+it we have a main and we have an aside so all of our core content is in the nav
+it's in the main and it's in the side right so it's those those three key areas
+and before we look at our css we did some some floating we did some whiffs and
+and that kind of how we got those three main areas to sit next to each other
+so with flexbox if i want containers or if i just want
+everything to sit next to each other what could i use
+i'm using flexbox and i want stuff to sit next to each other what do i want to
+use display flex exactly so in all the containers
+i want to put display flex and so if i look if i want nav main
+
+02:43
+and the aside to sit next to each other uh what this container
+that i could like go ahead and give it a
+container but it already has a container which is the body right so
+let's go ahead and i'm just going to comment out all this css
+so all that css has commented out and i'm just going to be a baddie and write
+bad code and it's on the body do display flex save it let's go ahead and open it
+that's pretty damn good all right next is there right we got the core layout
+there's nothing else we have to do right they're all sitting next to each other
+they're taking up the space based on the content that's inside um we're done
+next [Laughter] all right let's look at this other one
+
+02:44
+here let's look at layout two bankers only exactly layout two so layout two is
+khan academy right so khan academy has this lovely like nav and then it has
+like these two areas that are sitting next to each other
+right like these two areas that are sitting next to each other cool
+so that's kind of the core layout if we look at the html
+we have the header with the nav inside of it that we're gonna have to kind of
+get those sitting next to each other right and then the main
+right main has two things inside of it has like this section here
+and this section here that i want to sit next to each other
+all right so i got two areas i need to sit next to each other and so
+whenever i want something to sit next to each other
+i have to just use that display flex so i'm going to start my css
+
+02:45
+i'm going to comment out all the css that we had here for the layout boom
+that's commented out and so i'm going to
+start fresh in my additional styles here
+and i know i want to start off with like the nav sitting next to each other
+so let's just go ahead and do nav and do display flex
+right i want the nav to sit next to each other so let's let's just see
+where we're at all right so the nav is actually sitting next to each other
+right it is sitting next to each other i i also want the actual lis
+to sit next to each other right like i like i want these li sitting next to
+each other i don't want them stacking so what i'm going to do is i'm going to
+come back to my css and i'm going to add the ul to the
+things that are also getting display flex cool
+
+02:46
+so let's go and see what that looks like now
+great so now each item in the nav is sitting next to each other
+each item in the ul is sitting next to each other uh just with display flex
+don't hate me please delete me [Music] cool now
+there's something there's something that we're missing right like
+there's something that we're missing if we look at the actual khan academy
+like there's space around each of these elements right and so
+if we want to put space around things well we
+we have the ability to put space around things if we want and so we could i'm
+just going to do it on a separate line just because i know i'm going to add
+some other stuff to where display flex is
+i could technically do this together but just to make a little bit easier to see
+
+02:47
+so we have this thing called justify content
+and so with justified content i could just say space
+around space between someone's gonna say space around and let's save this
+and let's go back and let's refresh all right we're getting there so
+the the things have space around them uh the one thing that we're running into
+is that the ul doesn't have enough room right it's it's trying to put space
+between each of the lis just doesn't have enough room so what i want to do is
+i want to make sure this ul has more room when i do the space around and so
+if you want to give something like you would normally normally would solve this
+by just like doing like a width right we just do it with so we just go
+
+02:48
+on the ul and we'd give it like a width so that the stuff inside of it had more
+room for space around right so there's lots of ways to do it
+but since you're already used to percentages let me show you flex basis
+and so flex spaces is basically just like percentages when it comes to flex
+i know i'm kind of cheating a little bit there but
+save it and let's go back and take a look all right nice
+so now the ul has more room so when i do the percent around right
+when i do the percent around it has more
+room and we're pretty much done with the the header
+like the nav i think is pretty damn close we got space around everything
+we didn't have to do any quick maths we just
+flexed the container of the nav in the ul we put space around them with the
+justified content and we gave the ul a little bit of breathing room so that the
+
+02:49
+stuff wouldn't like overlap cool all right last thing we have to worry about is
+the sections inside of main right the sections inside of main
+so we want the sections inside of main to be display flex
+right you want them to be display flex so let's go ahead and try that
+because we want we want this we want this section to sit next to this section
+so instead of having to do like percentages and float we'll just add
+main to our list up here and let's see where we're at all right great so now
+now the uh this like section is sitting next to the
+section with the image uh the image is way too big so i'm just going to go
+ahead and give the image a width like i'm not going to worry about like flex
+
+02:50
+or anything i'm going to say just for now with i don't know 30 percent cool
+all right dope so we have them sitting next to each other um but
+there's something weird happening um what we're noticing is that the
+the the this this one right here is it's it's justified to the left
+right it's justified to the left and so i kind of want it like in the center
+and so if i want it or like like what space on either side of the image
+what should it be well i'm just gonna give it space around right like
+if there's only one thing and i have space around it it's gonna
+it's gonna be centered right so instead of having to do like other justified
+contents let's just go ahead and you know i don't know add main section
+
+02:51
+all right because now that'll just give space around it right if we look main
+section right space around we'll be in a good spot so let's refresh did i save
+[Music] oh i didn't i didn't i didn't flex it i
+didn't flex it right so the the main section can't get it because i haven't
+flexed it so i'm gonna do main section so it has display flex
+right and now it should be able to take the space around let's save it beautiful
+it has space around it right has space around it
+oh [&nbsp;__&nbsp;] look at this piece over here
+um so what i actually want to have happen is i only want this one to have space
+
+02:52
+around right i don't want this one so first child just the first just the
+first section inside of main should be flexed damn right all right rap
+[Laughter] let's go ahead let's let's step back
+through that one and that was a little tricky there let's take it back let's
+look at it so we just kind of been adding things to be flexed right when
+things are flexed they're happy to sit like next to each other they'll take up
+the space that they need i wanted some space around my content
+and so i just keep adding stuff to be flexed so it'll sit next to each other
+and i keep adding stuff to justify content space around so there's space
+around it that's all i'm doing right and so the problem that i ran into right
+
+02:53
+there was wait a minute if i'm putting space around each thing
+inside of main section like if every single thing inside a main section is
+spaced around that works great for the first section because i want space
+around the image right i want space around the image that makes sense
+but i don't want space around the h1 the paragraph the anchor tags
+right if i put space around all of these we wind up where like it was they were
+all sitting next to each other so what i did is i just didn't flex this one
+i just flexed the first one and so that's what that pseudo-selector was
+that pseudoselector uh first child right that suits like their first child
+all that was was saying hey just flex this bad boy don't flex this one
+
+02:54
+so yeah if we look at our old css we had like
+whiffs and margins and floatings and percentages and all this other crap
+and now all we're saying is flex it put space around it
+and if i need a little bit more space give it a little bit more space
+see leprechauns say yeah [Music] still very fluid up until a point right
+still very fluid so the responsiveness is still there even though you're using
+flex the response and this is still there
+let's do the last one and then we'll end not early though
+
+02:55
+all right let's do uh bbc so we looked at bbc we had like a nice header
+we had like these two big boxes sitting next to each other
+these like four boxes sitting next to each other and then the last one was
+pretty easy just sitting next to each other
+right so let's go ahead and open up the and of course i'll share all these with
+you so you can come back and watch this again you can play around the flex
+all right then look at layout three tss all right here's the original
+pretty pretty solid layout nothing too wild there i think these
+still need to be floating next to each other but this is what it was which is
+regular old css uh and if we look at our regular old css
+oh crap i have it in here ignore this oh actually you know we're
+
+02:56
+out of time so i'm going to let me let me comment this out
+i forgot that i gave you the answer all right gonna comment this out we're
+gonna look at the old css first so here's the old css all right
+uh we have our header with like heights and then we're floating we're giving
+whiffs we're giving other widths we're giving expansions we're we're floating
+other widths percentages percentages percentages uh so much work so much math
+and i'm instead of walking throughout the sun i'll just undo it we'll do more
+practice on sunday with flexbox so if you're like this flexbox stuff is cool
+come back on sunday and we'll do more together all right and here's the solution
+um so what i did here is i have my nav ul main just like we did before
+
+02:57
+i am display flexing them right just flexing the the nav ul the main because
+i want everything in the nav to sit next to each other i want everything in the
+ul sitting next to each other and then i want everything that's in my main
+section sitting next to each other as well right so
+and i gave them space around we get rid of this stuff just just to see it right
+so this is the nav navuel main right uh display flex and with space around
+let's go ahead and refresh there we go this is our nav with just flex and space
+around same problem as last time though it's
+pretty good we have space going around each thing but i want more room for this
+ul to sit next to each other right more room to sit next to each other so i
+want that to have more width so that's where that flex basis comes in again
+frijole right it comes in there because i want that to have more room when
+you're trying to cut like when the flex is trying to do its calculation i want
+
+02:58
+that to have more room i can come down here and say hey you will
+i want you to have flex basis of 60. right that's just going to give it more
+room more room we do that there you go oh my gosh so good it's so good right
+so good that's it that's that's the header
+right and it works because everything is flexed we're putting space around
+and we gave the ul a little bit of breathing room i'm about to throw hounds
+all right cool um let's look at the stuff below it
+uh so the main is looking good too right maine is like looking good um
+
+02:59
+except the bbc is being is being considered in the flex right it's saying
+all right it's saying i have three things here i have bbc
+i have this section and i have this section
+right so what i could do is like figure out how to like
+not have this bbc be included in the flex or
+i can just be a baddie and write bad code and just yoink take the h2
+throw it in the section and i'll worry about it later so now when i go back
+there we go we got our two 50 50. right the flex is sitting both of them
+next to each other right and what else we got to do there um let's see
+
+03:00
+what don't i like about this i think that there might be a little bit
+too much room and so if we look that like main section um
+i i don't know why i actually did this uh let's see let's try it out
+let's do this oh there you go i just wanted to have a little bit more room yeah
+a little bit more room i i i made it a little bit smaller right a little bit
+smaller so that i could i could have some room around right because if we look
+um main is flexed right main is flexed and i have space around so to have just
+to have just like the right amount like if we look at the the bbc logo
+there's just a little bit of space on the left a little bit of gutter in between
+and a little bit of space on the right so instead of flex like taking up the
+whole thing i just i just wanted i just wanted to be able to control that little
+
+03:01
+bit without having to like figure out how to manage the gutter or anything
+right i just want it to have just a little bit of room and so if i know i
+knew if i made both of these like 48 right that gives me two percent right
+give me two percent for all the like the gutter on the left the right and in the
+middle and so that's all i did i said all right make the sections inside of
+main 48 so that when the space goes around it
+it's just that little bit of gutter right that's it and then the last thing was
+i have these like four sections that should be here
+and so right now they're not sitting next to each other so if i want them to
+sit next to each other i gotta put display flex on them and so that's what
+i did here so i said all right look in main
+
+03:02
+look at the section that has a sibling that is a section right so if we look
+main section sibling section is the section with all four of those
+sections sitting inside of it right we saw this before and the last time we did
+the layout instead of putting a class on it or
+something like that i'm just saying hey target this section what the one with
+all four of those sections inside of it so main section plus section is that
+section display flex flex wrap and flex basis of 50 and so all i'm saying here
+is right all i'm saying here is i want 50 50 for each of them
+and then i want them to be able to go to the next line
+all right i want them to be able to go to the next line right so without flex
+wrap they wouldn't go to the next line right so once you put flex wrap on it
+it's like all right 50 50 boop bring them down to the next line
+
+03:03
+right you could do there are some other ways to do this as
+well but since we're already thinking in percentages it just makes sense to stay
+there until you get to uh play flexbox zombies and stuff like
+that that goes in more detail right and so those those sections are going to sit
+next to the other because of the flex they're going to not they're going to
+wrap to the next line and then they'll be 50 percent if you look
+there you go now we have them all sitting next to each other no need to to
+worry about floating other percentages or anything like that got them next to
+each other then we had like this last one here
+right this last section down there and um this section has one two
+three sections inside of it i don't want the h2 to be part of it so
+instead of trying to figure out a hack for that now i'm gonna plop it in this
+first section and then instead of having to figure out the
+
+03:04
+nested selector i'm just gonna give this a class of container
+a lot of times i'll have like a container class that just has like
+display flex on it save that come back boom
+all three of them are sitting next to each other now
+and we got pretty much the core layout done
+all right so if we come back and look at it the real ryman reason is
+flex it and things will just naturally sit next to each other they'll know how
+much room to take up you don't need to know the percentages you don't need to
+do anything you want a little bit of room around it you put space around like
+we did up here if you want some space in between you just space in between a lot
+of different just kind of words right and so it can really speed up your
+layout process hopefully you can see that like what we did these three
+layouts in like under 20 minutes just with some quick quick terminology
+and so please i know it's your first time really kind
+
+03:05
+of diving into it we're not spending a lot of time on it right now but do
+flexbox zombie do flexbox froggy watch the videos i asked you to watch and
+it'll click it's just a lot of terminology to work through add them to
+your anki deck and once you add them to yankee deck you'll be you'll be good
+we're going to learn some javascript all right we're going to learn some
+javascript once we have javascript we'll come back right we'll come back
+we'll come back once we know our javascript right to build
+bigger layouts where we can click on stuff and dropdowns open and all that
+fun stuff so we'll come back we'll spend more time with flex we'll spend more
+time with grid but for now that's good uh if you want a little bit more practice
+with flex you want to do a little bit more layouts together come to office
+hours on sunday we'll do a few with flex
+just to kind of get our our juices going uh i would love to
+end with a raid spread some love and positivity like we normally do
+and then uh let's let's get let's get pumped let's get pumped for thursday folks
+
+03:06
+pumped for thursday thursday we adventure into javascript and so let's
+go ahead let's end with a raid we're going to go over to pumpkin days
+they do some some game development we haven't stopped by them yet so i'm gonna
+go over the pumpkin days stick around for the raid give them a follow even
+give them a follow and get those extra channel points
+you're gonna want them i've got some good stuff coming up for channel points
+you want it alrighty let's go ahead spread some love some
+positivity give them a follows thank you
+for a wonderful class i'm probably going to go live like either later tonight or
+tomorrow just to test some stuff so you want to come out and hang out while i'm
+testing things i'll see you then otherwise have a wonderful rest of your
+night let's raid starting in sorry eight seconds
+everybody thank you so much hope you had some fun tonight hope you learned a few
+
+03:07
+things i did too i'll see you over there let's read you
